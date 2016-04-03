@@ -1,0 +1,22 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      000emg
+Pwad name: 000emg.wad
+Maps:      01-03
+Skill:     5
+Category:  Nightmare Speedruns
+Exe:       prboom-plus.exe
+
+Times:      
+
+MAP01:      0:13
+MAP02:      0:12
+MAP03:      2:09
+
+Author:    oceanictrancer
+Email:     kody3897@gmail.com
+HP:	   http://www.freesound.org/people/oceanictrancer
+
+Comments:  zip file includes both a blind run and the nightmare speedruns.  
+

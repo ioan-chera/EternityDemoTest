@@ -1,0 +1,29 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+
+** This is a tool-assisted demo! ** (I used SR50 automation and speed 35%)
+
+PWAD: 000emg.wad
+PWAD Name: 000 EMERGANCY
+Maps: ALL (01-03)
+Skill: UV (-nomonsters)
+Category: Speed
+Exe: prboom-plus 2.5.1.4 (-complevel 2)
+Date: 02/11/15 (day, month, year)
+
+MAP -- TIME < 4shockblast's time -- TIME (0emgo038.lmp)
+01 -- 08.77 -- -0:01 -- 08.94
+02 -- 05.66 -- -0:00 -- 05.31 
+03 -- 24.54 -- -0:06 -- 25.57
+TOTAL: 0:37 -- -0:07 -- 0:38
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+HP: http://www.youtube.com/channel/UCDTi_RRMEduPf5hp7aXS8Nw
+
+VK: http://vk.com/v3855
+
+
+Comments: none.

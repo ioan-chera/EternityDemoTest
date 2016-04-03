@@ -19,3 +19,5 @@ for /f %%f in ('dir /b 1994tu\*.lmp') do %calldoom2% -file 1994tu\1994tu.wad -fa
 for /f %%f in ('dir /b vanguard\*.lmp') do %calldoom2% -file vanguard\vanguard.wad -fastdemo vanguard\%%f
 for /f %%f in ('dir /b 1killtng\*.lmp') do %calldoom2% -file 1killtng\1killtng.wad -fastdemo 1killtng\%%f
 for /f %%f in ('dir /b 10sector\*.lmp') do %calldoom2% -file 10sector\10sector.wad -fastdemo 10sector\%%f
+for /f %%f in ('dir /b 000207\*.lmp') do %calldoom2% -file 000207\000207.wad -fastdemo 000207\%%f
+for /f %%f in ('dir /b 000emg\*.lmp') do %calldoom2% -file 000emg\000emg.wad -fastdemo 000emg\%%f

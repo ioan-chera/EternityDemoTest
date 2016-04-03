@@ -1,0 +1,22 @@
+000emg02ty34.txt
+---------------
+
+Filename:	000emg02ty34.lmp
+Game:		Doom2
+Pwad :		000emg.wad
+Name:		000 Emergency
+Category:	UV-Tyson
+Map:		2
+Skill:	  	4
+Time:	 	00:34
+Exe:		PrBoom+ v2.5.1.4
+
+-Complevel 2
+
+Author:		SuperWeaponDude
+E-mail:		mailtosam95@gmail.com
+
+Comments:	
+----------------
+
+It feels good to beat someone like cyberdemon531's time in my first ever tyson demo ;p. Uses a bit different of a strategy and much more infighting. But still noobish in my movement xD.

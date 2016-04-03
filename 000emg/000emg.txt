@@ -1,0 +1,44 @@
+========================================================================
+Title                   : 000 EMERGANCY
+Author                  : Paul Corfiatis 
+Email Address           : pcofiatis@our.net.au
+
+Other Files By Author   : go to http://www.geocities.com/paul33_au/
+
+Description             : 3 Tiny Doom2 Levels.
+
+========================================================================
+
+* Play Information *
+
+ Episode and Level #     : MAP01-03
+ Single Player           : Yes
+ Cooperative 2-4 Player  : No
+ Deathmatch 2-4 Player   : No 
+ Difficulty Settings     : Yes
+ New Sounds              : No
+ New Music               : No
+ New Graphics            : No
+ Demos Replaced          : None
+
+* Construction *
+
+ Base                    : New level from scratch
+ Editor(s) used          : Doom Builder 1.60
+ Known Bugs              : None
+
+* Copyright / Permissions *
+
+ Authors may use these levels as a base to build additional
+ levels. 
+
+ You MAY distribute this WAD in any electronic format (BBS, Diskette, 
+ CD, etc) as long as you include this file intact. 
+
+* Where to get this WAD *
+
+ http://www.geocities.com/paul33_au/ and all other ftp sites.
+
+
+
+

@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+wad: 000emg.wad    
+maps: all
+
+Skill:     4
+Category: ultra-violence max movie
+Exe:       glbomm.exe (prboom PLUS V 2.5.0.7 win 32)
+
+Time:      02:51
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr     
+
+Comments:none.  

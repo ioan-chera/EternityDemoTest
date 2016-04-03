@@ -1,0 +1,22 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: 000emg
+Pwad Link: http://www.doomworld.com/idgames/index.php?id=13327
+Pwad name: 000 Emergancy (sic)
+Map: 2
+Skill: UV
+Category: UV-Max
+
+Time: 0:21
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 2/21/11
+
+Comments: Luck-based map, could be faster if monsters didn't block from sg grab so often.  I wish that last damn chaingunner only took one shot.,,
+
+-Recorded with prboom-plus 2.5.0.8 
+

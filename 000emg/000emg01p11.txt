@@ -1,0 +1,22 @@
+000emg01p11.txt
+------------
+
+Filename:	000emg01p11.lmp
+Game:		Doom2
+Pwad :		000emg.wad
+Name: 		000 Emergency
+Category:	UV-Pacifist
+Map:		1
+Skill:	  	4
+Time:	 	00:11
+Exe:		PrBoom+ v2.5.1.4
+
+-Complevel 2
+
+Author:		SuperWeaponDude
+E-mail:		mailtosam95@gmail.com
+
+Comments:	
+----------------
+
+From the look of this, i guess 10 should be optimal or maybe even 9.

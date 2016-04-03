@@ -1,0 +1,18 @@
+            000 EMERGANCY
+     WAD Author: Paul Corfiatis
+-------------------------------------
+            0emgo044.lmp
+
+Nomo in 0:44
+
+Map 01: 0:09.40
+Map 02: 0:05.91
+Map 03: 0:30.83
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Three short decent levels by p_corf. 8 might be possible on map 1, but I don't want to try it in a D2ALL run. 2 in 5 is probably optimal. 30s on 3 is also likely the best that one could get, but it is possible to get the elevator on a single cycle, which would save a lot of time. That's very precise, though, and I may be having mouse troubles right now that prevent me from turning too fast, so I'm skipping that trick for now.

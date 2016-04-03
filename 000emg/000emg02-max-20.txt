@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      000emg.wad
+Pwad name: 000 EMERGANCY
+Maps:      2
+Skill:     4
+Category:  UV-MAX
+Exe:       PRboom+ 2.5.1.4 cl2
+		   with advanced HUD
+
+Time:      0:20
+
+Author:    P3Prod1
+Email:     p3prod1@gmail.com
+HP:	   http://twitch.tv/p3prod1
+
+Comments:  Fun, easy run. Great for beginners like me

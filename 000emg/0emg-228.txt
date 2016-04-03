@@ -1,0 +1,27 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      000emg.wad
+Maps:      Map01 - Map03 (D2ALL)
+Skill:     4
+Category:  UV-Max
+Exe:       prboom-plus 2.5.1.3 -complevel 2
+
+Time:      2:28
+
+Author:    Krankdud
+
+Comments:
+Beat a Cyberdemon531 Demo Week
+
+Map01 - 0:24
+Map02 - 0:21
+Map03 - 1:43
+
+Map01 was a pretty average run. I've gotten 0:22 in attempts, but can't get that all the time.
+
+Map02 probably could have been a 0:20 if I played it a bit more aggressively
+
+Map03 is probably where my inexperience with uv-max shows a lot :p
+I lost track of how many spectres I killed in the blue key area, and I kinda just winged most
+of the map.

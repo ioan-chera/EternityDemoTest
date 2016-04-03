@@ -1,0 +1,15 @@
+Type: UV-max 
+
+Prboom 2.5.0.6 -clvl 9
+
+Wad: 000emg.wad maps 01 - 03
+
+Speed: 	Map 01::  0:32
+	Map 02::  0:32
+	Map 03::  2:07
+
+	Total ::  3:11
+
+Recorder: Sebastian "DoomHero85" Graham
+
+Hope you enjoy the demo!

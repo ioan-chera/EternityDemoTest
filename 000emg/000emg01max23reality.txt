@@ -1,0 +1,11 @@
+PWAD: 000emg.wad
+PWAD name: 000 Emergency
+Map: 1
+Skill: 4
+Category: UV-Max reality 
+Exe: PrBoom+ v2.5.1.4 -complevel 2
+Time: 0:23
+
+Author: rdwpa
+
+I felt like it. There was a stretch of like ten attempts where the former human in the main room shot me the same way at the same time. 
