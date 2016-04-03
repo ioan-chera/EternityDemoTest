@@ -1,0 +1,6 @@
+DOOM.WAD
+DOOM2.WAD
+*.whacked
+demolog.txt
+*.dbs
+*.backup1
