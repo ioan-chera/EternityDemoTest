@@ -1,0 +1,8 @@
+Runner: Christopher "Dime" Dewey
+IWAD: Doom2.wad
+PWAD: Valiant.wad
+Category: UV-Speed
+Map: 06, Engineering Disaster
+Source Port: glboom-plus 2.5.1.4
+
+First jump is very tedious but necessary for a huge time save.

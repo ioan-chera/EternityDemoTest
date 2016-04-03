@@ -1,0 +1,23 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Iwad:      doom2.wad
+Pwad:      scythe2.wad (2nd Release)
+Pwad name: Scythe 2
+Maps:      MAP01-MAP05
+Skill:     4
+Category:  Nomonsters
+Exe:       Prboom+ 2.5.1.4.test -complevel 2
+
+Time:      2:18
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+MAP01 - 0:18
+MAP02 - 0:27
+MAP03 - 0:50
+MAP04 - 0:22
+MAP05 - 0:21
+
+Comments:  MD922 said that his record is beatable so I beat it. Compared to his run I lost 1 second on map01 but won 2 seconds on map02, other times are identical.

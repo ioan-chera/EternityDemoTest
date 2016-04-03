@@ -1,0 +1,11 @@
+Pwad: scythe2.wad   
+Pwad name: Scythe 2
+Map:      3
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.1
+Time:      6:32
+
+-complevel 2
+
+Author:	   j4rio

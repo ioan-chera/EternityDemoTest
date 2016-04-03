@@ -1,0 +1,22 @@
+Patch File for DeHackEd v3.0
+
+Doom version = 19
+Patch format = 6
+
+Engine config = boom.cfg
+IWAD = C:\doom\doom2\doom2.wad
+
+[STRINGS]
+HUSTR_1 = level 1: onset: by fisk
+HUSTR_2 = level 2: operation zero: by death-destiny
+HUSTR_3 = level 3: the hunt: by craigs
+HUSTR_4 = level 4: den of the beast: by printz
+HUSTR_5 = level 5: base construction: by stewboy
+HUSTR_6 = level 6: hellstorm workshop:by butts/destiny
+HUSTR_7 = level 7: devil's pit: by bloodskull
+HUSTR_8 = level 8: the demons inside: by icecreamsoldier
+HUSTR_9 = level 9: spawning evil: by dutch devil
+HUSTR_10 = level 10: soulscarred universe: by destiny
+HUSTR_11 = level 11: lich: by death-destiny
+C1TEXT = You have so far made excellent progress in \nthwarting the latest attempt of the demons \nto take over your world. Yet, something's \nnot right. It's clear that the hordes of hell \nhave increased dramatically in number as \nyou approach the portal. You can't imagine \nwhat lies on the other side, but it must \nbe important to explain the presence of two \ncyberdemons. Readying your weapons, you \nstep cautiously, but surely into the light \nand find yourself... \n...in a void!?! But how can that be? Is this \nsome sort of demonic santuary? Looking \naround to see nothing but red and emptiness, \nyou can't imagine what the demons need \nthis place for, but it can't be good.
+C2TEXT = Having cleared out the flesh and stone \ntemple of the death-warping arch-viles, \nyou come to yet another portal. What else \ncould hell possibly do? Gritting your teeth \nin preparation for whatever hellhole \nyou end up in next, you step through \nonly to find yourself back in the secret \nbase from which you started this \nnightmare. It's finally over. In \nyour mind, you wonder why the demons \nkeep coming no matter how many times \nyou've whipped them already. Perhaps this \ntime they'll get the memo that they're \nin hell for a reason and that's \nwhere they ought to stay. Sholdering your \nplasma rifle, you begin the ascent back \nhome to the planet you just saved.

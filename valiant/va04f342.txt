@@ -1,0 +1,14 @@
+iWAD:DOOM2
+pWAD:Valiant
+
+Author Info:
+ExclusiveAlias [CBD]
+exclusivealias@gmail.com
+
+https://soundcloud.com/exclusivealias/tracks
+https://www.youtube.com/channel/UCyYWkirXLY9HqdKgRdrUAdQ?view_as=subscriber
+http://steamcommunity.com/id/UltraXclusive/
+
+MAP:04
+Category:UV-Fast
+Time:3:42

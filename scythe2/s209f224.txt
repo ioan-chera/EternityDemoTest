@@ -1,0 +1,18 @@
+Pwad:      Scythe II
+Pwad name: scythe2.wad
+Map:       09 - Valley of the Queen
+Skill:     4
+Category:  UV-Fast
+Exe:       GLBoom+ v2.5.1.3 -complevel 2
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      2:24
+
+Comments:  :D
+
+Author:	   Bloodite Krypto
+
+09.02.2015

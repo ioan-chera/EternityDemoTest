@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Iwad:      doom2.wad
+Pwad:      valiant.wad
+Pwad name: Valiant by skillsaw
+Maps:      MAP26 ("Blast Wave")
+Skill:     4
+Category:  UV-Speed
+Exe:       Prboom+ 2.5.1.4.test -complevel 11
+
+Time:      0:27
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  Wow, really, so easy? The bat file I created for this is dated 0:52 am, this file - 0:55 am. I was expecting a fucking hardcore session with swearing, punching the table and stuff. I'm actually a little disappointed... JK I think. :)

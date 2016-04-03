@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	VALIANT.WAD
+Pwad name: Valiant
+Maps:	01
+Skill:	5
+Category:	NM100
+Exe:      	PRboom+ 2.5.1.4 cl11
+	with advanced HUD
+-------------------------------------------
+Time:     	1:08
+-------------------------------------------
+Comments:  
+Crappy, but I wanted an exit.
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

@@ -1,0 +1,15 @@
+IWAD:      doom2.wad
+PWAD:      000207.wad
+Category:  FDA
+Exe:       Prboom-plus 2.5.1.4.test -complevel 9
+
+
+ MAP   | TOTAL     |  LAST     | DT |   K/I/S     |  
+--------------------------------------------------
+ MAP01 | 6:21      |  6:21     |  0 |  95/100/100 |  
+
+Comments: good map for a quick FDA - short, tightly balanced in places and with some moderately tricky parts.
+
+Memfis
+kuchitsu4@gmail.com
+recorded on 27 September 2012

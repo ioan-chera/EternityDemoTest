@@ -1,0 +1,11 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): Valiant
+Author of PWAD: Skillsaw
+Complevel: 11
+Map: 14
+Recorded with: PrBoom Plus 2.5.1.4 used ZDL to help me
+Category: UV Max
+Time: 4:41
+
+Notes: Fourth exit. I had some lag in places (bumped into the wall near the arachnotron building and when attempting to get the medikit in the SSG part) some things didn't go to plan but I believe that this is a proper max. Still could dwindle down the seconds I reckon. If you keep silent in the last bit when pulling the switches it makes it a bit easier to evade the bombermen which helps to prevent some chaos.

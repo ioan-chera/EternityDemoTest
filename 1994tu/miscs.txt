@@ -1,0 +1,16 @@
+1994tu map 28 at 9:13 cl9
+voidspace.wad map 1 at 2:42 cl 2
+zones of fear map 25 at 11:43 cl9
+kohe12.wad map 12 at 2:06 cl2
+dismem.wad map 1 at 6:25 cl9
+infbase2.wad cl9 4:46 
+ reactrfv.wad at 7:33 cl2
+
+skill 4
+ uvMAX
+record with prboom plus 2.5.0.6
+
+
+	 
+comments:click at "random file" at id games and found some good wads this week....:)
+zahid

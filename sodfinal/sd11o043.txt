@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Maps:      Map11
+Skill:     4
+Category:  -nomonsters
+Exe:       prboom-plus 2.5.1.3 -complevel 9
+
+Time:      0:43
+
+Author:    Krankdud
+
+Comments:
+Beat a Cyberdemon531 Demo Week
+The yellow key grab is really annoying. I failed at getting the red key a bit quicker,
+but I don't really care much since the yellow key grab was really hard for me.
+
+This one is really sloppy.

@@ -1,0 +1,15 @@
+Pwad:	Valiant.wad
+Pwad name: Valiant
+Maps:	25
+Skill:	4
+Category:	UV Max
+Exe:      	prboom-plus 2.5.1.4 -complevel 11
+
+Time:     4:19
+
+Comments: Still improvable. 4:00? It will require extreme luck and it is hard enough to survive to the exit. 
+Barrels need to take out all the Revs and imps in red key room but thats very rare
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

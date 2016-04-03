@@ -1,0 +1,11 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+Pwad:      10sector.wad
+Map:       01
+Skill:     uv -4-
+Time:      10 
+Type:      No monsters speed
+Author:    Siprem
+Port:      PrBoom+

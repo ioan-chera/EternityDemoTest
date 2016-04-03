@@ -1,0 +1,34 @@
+************************************************************************
+LMP Title  		: Ten Sector's wad map 18 max
+Filename                : ts18-323.lmp
+LMP Version             : 2.02
+Game                    : Boom
+Pwad(s)                 : 10sector.wad
+Map Level(s)            : MAP18
+Skill                   : 4 (Ultra Violence)
+Length                  : 3:23
+
+Author                  : Anthony Soto
+Email Address           : neworderdatabase@hotmail.com
+Webpage 	        : http://thefish.8m.com/
+************************************************************************
+
+Description             : 
+
+Ralf and I were discussing his demo for this map. Apparently he had
+a fustrating time beating it. So he requested I try doing the map
+under five minutes. No real problems for me, except if your
+not awake at the beginning those demons will always get you.
+
+You could run out of ammo at certain times depending on which route
+you choose. Truthfully, I never properly playtested the map (hell,
+I didn't even finish the architecture!).
+
+Maybe I should stop playing my own levels and try something new 
+for a change.  Must...playtest....(who cares that it's already been 
+released?). =)
+
+Recorded on February 3rd, 2001
+
+
+

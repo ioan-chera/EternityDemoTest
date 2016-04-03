@@ -1,0 +1,19 @@
+************************************************************************
+Filename                : 
+LMP Version             : 1.9 Doom2 + Boom2.02
+Pwad(s)                 : 10sector.wad
+Map Level(s)            : MAP07
+Skill                   : 4
+Time			: 15:41
+Author                  : Opulent
+Email Address           : opulent@goodnet.com
+Misc. Author Info       : http://www.goodnet.com/~opulent/doom2.htm
+
+Map Description         : Kesler goodness!
+
+Demo Description        : just trying to make a map15 demo for the 
+			  10sector demoset in it's 11th hour.
+			  Albert turned in a 8:44 the following day or so.
+
+Additional Credits to   : Doomworld and the 10sector demo crew.
+************************************************************************

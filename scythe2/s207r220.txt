@@ -1,0 +1,17 @@
+This is a .LMP Entry for scythe2.wad
+
+S207R220.TXT
+
+ S207R220.ZIP
+
+  S207R220.LMP - UV Max/Reality
+
+  Recorded using GlBoom+ 2.5.1.3
+  
+  Kills    100%
+  Items     50%          
+  Secrets  100%  and Time  2:20
+                        
+  Fun to record, it's always nice to practice not taking damage.
+
+  Rizera

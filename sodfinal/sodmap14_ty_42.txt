@@ -1,0 +1,17 @@
+Pwad SODfinal.wad
+Pwad name Speed Of Doom
+Map       14
+Skill     4
+Category  UV-Tyson
+Exe       PRBoom+ v2.5.1.3
+Time      11:38
+Turbo     100
+-complevel 9
+Date	18,07,2015 //day,month,year
+
+Author	   Azuruish
+
+I'm gonna kick your ass. But my leg doesn't work therefore i can only punch.
+Moment with specters was hardest. Felt like it endless in slow-mo.
+Moment with imp crowd was hard too.
+Moment with Cyberdemons was exciting because after that i never tried hit Cyberdemon's ass :D

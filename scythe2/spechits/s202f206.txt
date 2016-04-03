@@ -1,0 +1,18 @@
+Pwad:      Scythe II
+Pwad name: scythe2.wad
+Map:       02 - Rooftop Warzone
+Skill:     4
+Category:  UV-Fast
+Exe:       GLBoom+ v2.5.1.3 -complevel 2
+
+Kills:     100%
+Items:     75%
+Secrets:   100%
+
+Time:      2:06
+
+Comments:  The window jump at the start was the cause of many restarts, it's essential to lure the pinkies by the berserk pack out as it's nigh impossible to manoeuvre past them, tackling the two Cacodemons inside is luck based hoping the Sergeants pelt them as they spawn so as not to be instantly disemboweled. I was lucky dropping down after acquiring the BK as the monsters don't usually line up so neatly, their were normally a couple of strays near the berserk pack hence the quick necessary check.
+
+Author:	   Bloodite Krypto
+
+09.02.2015

@@ -1,0 +1,149 @@
+Pwad - SODfinal.wad
+Pwad name - Speed Of Doom
+Map   -    D2ALL
+Skill  -   5     //  ('0W0)
+Category - NM-Speed
+Exe   -    PRBoom+ v2.5.1.3
+Time   -   24:46
+Turbo  -   100
+complevel - 9
+Date   -  13,07,15 //Day,month,year
+
+Author	   Azuruish
+link -  www.youtube.com/user/Azuruish/
+	www.facebook.com/bratauzer
+
+Comments:
+My favourite wad. It's not the gift. It's diamond.
+I had only one 'pick' (tool) and i must go deeper. Go down down down. 
+'dew' and 'GrumpyCat' just showed me best way and 'j4rio' showed me secret places where i can to rest.
+I finally got it. And it will be... My KAWAI (X_X)...
+
+About Run:
+Copied 'dew' movement. Somewhere found new trick and so on.
+Anyway stupid decision. Not even expected than i will so fucked. My ass was splitted by million pieces from such hardcore... 
+in Scythe 2 i got problems only in five maps,
+Here each map on this skill... It poses a real threat. Not only for run but for nervous system.
+NEVER... DO YOU HEAR ME? NEVER TRY REPEAT IT. CARE ABOUT YOURSELF AND ABOUT YOUR PATIENCE>>>
+
+About Complevel:
+Nine is good for more diffuculty. Skill '5' is not enoooooouuugh.
+Also i'm not sure about 'playback' on original Boom because FPS will be so looooooooooooooooooooooooooooooooooowwwww....
+
+About Time:
+=====================
+=Map============Time=
+=MAP01		0:28=
+=MAP02		0:49=
+=MAP03		0:44=
+=MAP04		0:42=
+=MAP05		0:23=
+=MAP06		0:45=
+=MAP07		0:30=
+=MAP08		0:29=
+=MAP09		0:15=
+=MAP10		0:55=
+=MAP11		0:19=
+
+=MAP12		1:19=
+=MAP13		0:14=
+=MAP14		0:37=
+=MAP15		0:31=
+=====================
+=MAP31		0:00= // skipped 
+=MAP32		0:00= // skipped
+===================== 
+=MAP16		0:52=
+=MAP17		0:48=
+=MAP18		0:26=
+=MAP19		0:18=
+=MAP20		1:09=
+
+=MAP21		0:29=
+=MAP22		0:27=
+=MAP23		0:03=
+=MAP24		1:17=
+=MAP25		1:02=
+=MAP26		1:01=
+=MAP27		1:08=
+=MAP28		2:44=
+=MAP29		1:03=
+=MAP30		2:59=
+=============================
+Total: 24:46
+=============================
+
+About MAPS:
+
+Difficult for run:
+QS - Quite Simple
+PH - Pretty Hard
+HAF - Hard As F###
+IMP - Impossible survive without TAS
+
+MAP01 - {QS} Nothing interesting.
+
+MAP02 - {PH} Here i could use 'death exit' but i can't finish MAP03 faster than 1:30
+Also i allowed here one mistake with lever but i found it after finished MAP03 so i don't give a shit.
+
+MAP03 - {HAF} (<_<)
+
+MAP04 - {PH} Nothing interesting.
+
+MAP05 - {PH} I can't make glide while Cacodemon attacks me so i waited when this '''' will get up.
+
+MAP06 - {QS} Found that AV jump suddenly. Also BFG9000 helped me so much on next levels.
+
+MAP07 - {PH} Nothing interesting.
+
+MAP08 - {QS} Nothing interesting.
+
+MAP09 - {PH} Just be fast and everything will be fine. 
+
+MAP10 - {PH} Problems with linedef skip i got here in end... Feels like on Unknow action linedef skip doesn't work.
+
+MAP11 - {PH} Huge jump... Why 'dew' not use it i don't know. Could kill imps from rocketlauncher anyway.
+
+MAP12 - {PH} 'dew' not necessary coping movements exactly as it is because linedef skip works fine without Rocketjump.
+
+MAP13 - {QS} Nothing interesting.
+
+MAP14 - {QS} ..... What? Before this i tryed 'dew' route and got 45 secs. But i didn't like it and rerun it.
+
+MAP15 - {PH} Nothing interesting. Skipped first wallrun because imp's projectile not allowed it to me.
+
+MAP16 - {PH} Nothing interesting.
+
+MAP17 - {HAF} AV jump was hardest trick here.
+
+MAP18 - {PH} Nothing interesting.
+
+MAP19 - {PH} Nothing interesting
+
+MAP20 - {HAF} Nothing interesting.
+
+MAP21 - {PH} Nothing interesting.
+
+MAP22 - {PH} Nothing interesting.
+
+MAP23 - {HAF} Nothing interesting.
+
+MAP24 - {HAF} How i hate that map.... Uhhhh...
+
+MAP25 - {HAF} Nothing interesting.
+
+MAP26 - {HAF} Nothing interesting.
+
+MAP27 - {HAF} Nothing interesting.
+
+MAP28 - {IMP} Actually i already knew route but just repeat sometimes so hard. I was shocked because i finished that map
+faster in 11 secs. Moment with Cacodemons was good
+
+MAP29 - {PH} Nothing interesting.
+
+MAP30 - {HAF} Just fooling around. I so love that map.
+
+Thanks to dew, j4rio and GrumpyCat.
+
+P.S problems with skipsec i got after MAP28 but i didn't waited over 1 minute... Of course less because i skipped secret
+maps... But it can't be compared with Sunder.wad where i spent more than 3 minute on waiting.

@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      dr2008v2.wad
+Pwad name: Dark Resolution 2008 - UPDATED VERSION  
+Maps:      MAP02
+Skill:     4
+Category:  UV-Max
+Exe:       Prboom+ 2.5.1.4.test -complevel 9
+
+Time:      6:00
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  This was my shortest recording session: I played through the map once, watched Anima's max and then got this on the very first attempt. Not a great demo admittedly (missed shots everywhere and I get lost a bit) but it was kind of cool to succeed so quickly.

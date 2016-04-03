@@ -1,0 +1,13 @@
+Iwad: Doom2.wad
+Pwad: SODFinal.wad
+Maps:      19
+Skill:     4
+Category:  UV-speed
+Exe:       PRBoom+ v2.5.0.9
+Time:      0:06
+
+Author:	   Hock 
+
+Built TAS 
+
+Wasn't sure how to add a footer so watch it in Complevel 2.

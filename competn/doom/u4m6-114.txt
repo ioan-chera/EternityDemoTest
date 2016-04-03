@@ -1,0 +1,32 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : u4m6-114.lmp, u4m6-114.txt
+Date     : 2015-01-07
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Speed
+Map(s)   : E4M6: Against Thee Wickedly
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    :  31%
+Items    :   0%
+Secrets  :  33%
+Time     : 00:01:14
+===================================
+Description:
+
+Old record which was 1:38 was made in 1999 and a jump to a red key was not 
+used in the run. The old record could be definitely improved for this trick, 
+but no one had touched it over 15 years. I understood this reason soon after 
+trying it. It was terrible luck game, unlike NM-Speed, and it was not at all 
+fun. I am satisfied with this result itself.  
+
+
+103th Compet-N Entry

@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:     sodfinal.wad
+Pwad name: Speed of Doom
+Maps:    31
+Skill:     4
+Category: No Monsters 
+Exe:      PRboom+ 2.5.1.3 cl2
+
+Time:     0:52
+
+Author:    Cyberdemon531
+Email:     cyberdemon@boun.cr
+HP:	   http://www.twitch.tv/cyberdemon531 
+
+Comments:  Pretty good, worked kinda hard on this. 51 may be possible by a god player.

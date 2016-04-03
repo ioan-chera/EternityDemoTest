@@ -1,0 +1,11 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): mini level megawad
+Author of PWAD: Skillsaw
+Complevel: 11
+Map: 05
+Recorded with: PrBoom Plus 2.5.1.3 used ZDL to help me
+Category: UV Max
+Time: 3:40
+
+Notes: Third exit (includes second exit which is an attempt in 3:38 and a first exit in 3:52). Quite frustrating to try and get a fast time especially in the blue key area. The start went slightly wrong and the elevator's didn't go so well. I am just glad that it beats the UV-Fast time but I am a bit annoyed about the attempt time as I wanted to grind on for less than 3:20.

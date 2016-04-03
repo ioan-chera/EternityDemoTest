@@ -1,0 +1,11 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): 1994TU
+Authour of PWAD: Various
+Complevel: 9
+Map: 31
+Recorded with: PrBoom Plus 2.5.1.3 used ZDL to help me
+Category: UV Speed
+Time: 0:23
+
+Notes: Excellent set of maps, time, not so excellent. I kept getting 0:23 after 0:23 I can't improve this so maybe some one else can.

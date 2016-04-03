@@ -1,0 +1,27 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad                     
+Pwad name: Speed of Doom                
+Maps:      MAP10
+Skill:     4
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.1.4test -complevel 9
+
+Time:      6:17
+
+Author:    Plut
+Done July, 27, 2013
+
+Lol, it took me 3-5 tries to get this demo despite 5 hours for my old 6:35 run :-D. 
+
+
+
+
+
+
+                                               
+
+
+
+

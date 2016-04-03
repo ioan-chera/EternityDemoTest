@@ -1,0 +1,18 @@
+WAD: Scythe 2
+MAP: MAP30: Haunting Dreams
+Time: 0:46.86
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 2, 2013
+
+When I got 48.29 earlier, I knew this map could be improved. In the text
+file, I said that probably under 45 was doable. I decided to try this map
+again to improve my old time. Now that I have 46, I can say it would be
+hard for me to get 45. However, there are many players better than I, so
+I don't doubt that under 45 is still possible. It'd just take some more
+work, or a faster route than what I show here.
+
+Good luck to whoever tries this! It'd be cool to see an unassisted nomo
+demo with a time of 44s or less. :)
+
+--Doomdaniel95

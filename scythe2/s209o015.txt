@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe 2
+Pwad name: scythe2.wad
+Maps:      09
+Skill:     4
+Category:  NoMo
+Exe:       PRBoom+ v2.5.1.4, -complevel 2
+
+Time:      0:15
+
+Author:    MD922
+
+Comments:  I'm pretty sure this is optimal, having to say I got an insane wallrun and everything else was also perfect. 3 second improvement :)

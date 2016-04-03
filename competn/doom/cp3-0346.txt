@@ -1,0 +1,32 @@
+his is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop speed movie
+mission:  Episode 3
+
+time:     3:46
+
+   Level       Time         
+--------------------
+   E3M1        0:29  :)
+   E3M2        0:17  :|
+   E3M3        0:31  :(
+   E3M4        0:47  :|
+   E3M5        0:26  :)   
+   E3M6        0:28  :|  
+   E3M7        0:48  :|     
+   E3M8        -:-- 
+--------------------
+   Total       3:46
+
+
+xit-vono : I'm not very good on these maps.
+
+Vincent : could prolly go in the low 3:30 or lower with very good running.
+	  Btw, I missed the grab in E3M4 once... sux
+	  Still a nice improvement over previous record.
+
+note : only Xit's view is included, we could not find my view (?).

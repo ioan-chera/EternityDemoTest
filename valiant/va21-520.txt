@@ -1,0 +1,22 @@
+Pwad:	Valiant.wad
+Pwad name: Valiant
+Maps:	21
+Skill:	4
+Category:	UV Max
+Exe:      	prboom-plus 2.5.1.4 -complevel 11
+
+Time:     5:20
+
+Comments:	I had a bunch of runs around 6:10 which i thought were decent. Then i pulled out an amazing 5:45 but I left 1 monster behind
+that was right in front of my face. Glad I did because a dozen tries later I created a better route which invoked better infighting
+from the iron fatties. This run doesnt feel as fast as the others but infighting went great and I saved a lot of rockets for the final trap
+because the archvile jailbreak went great.
+
+BTW this map and its corresponding episode are by far the best imo.
+
+*Note - If you leave too many lost souls prepare to eat your own rocket or get blocked in and take
+a 12 ft stream of fire to the face at the red key trap. 
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

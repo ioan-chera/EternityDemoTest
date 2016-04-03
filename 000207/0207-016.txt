@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      000207.WAD
+Pwad name: 2000/02/07
+Maps:      01
+Skill:     4
+Category:  Speed / Pacifist
+Exe:       PrBoom 2.5.1.4 -complevel 2
+
+Time:      0:16
+
+Author:    DoomLover234
+Email:     luxan52@yahoo.com
+
+Comments:  Well this was fun. 0:15 can be done, but due to me being satisfied with this
+I decided to send it. Required some luck with the imps, but overall fun.

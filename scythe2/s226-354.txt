@@ -1,0 +1,17 @@
+________________________________________________________________________________
+
+Pwad:       Scythe II (2nd release)
+Map:        26
+Skill:      4
+Category:   UV Max
+Exe:        PrBoom+ 2.5.1.4
+            -complevel 2
+
+Author:     Ribbiks
+Time:       3:54
+________________________________________________________________________________
+
+Comments:
+
+Trying to get back into this whole speedrunning thing. Too much mapping, not enough playing as of late. Anyhow, the recent attention paid to scythe2 made me remember how much I loved this map, so I decided to record on it. After some fooling around I found you can often get much better times than the existing record (4:36) by keeping mobs alive and letting the afrit assist in cleanup. The route is subject to a lot of RNG, but with such a short map it's not a big deal to reset if things don't go your way. Took me about a hundred attempts probably, most of which ended within the first 15 seconds :D.
+

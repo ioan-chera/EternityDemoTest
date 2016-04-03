@@ -1,0 +1,16 @@
+Player: Martin Schultz
+E-mail: high_god@hotmail.com
+www   : k.o.i.homepage.com/doom
+exe   : Boom 2.02
+
+==Info=====================================================================
+type of run : UV max
+time        : 0:31
+map         : 10sector.wad map01
+
+==Comment==================================================================
+ Short, but pretty damn good looking and fun map! Intense from start to
+finish. The run can be done faster, just look at yonathan donner's TAS
+demo; that's just insane! However, this was recorded without any tools to
+aid me, so it should be good =)
+===========================================================================

@@ -1,0 +1,6 @@
+Pwad: 1994tu.wad
+Iwad: Doom2.wad
+Skill: UV
+Category: Nomo
+Additional parameters: -complevel 9
+Comments: Quake <3

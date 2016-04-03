@@ -1,0 +1,53 @@
+This wad requires the BOOM engine to run.
+================================================================
+Title                   : 2000/02/07
+Filename                : 000207.WAD
+Exe Required            : BOOM
+Author                  : MazuQ
+Email Address           : mazuq@hotmail.com
+Misc. Author Info       : http://www.freepage.total.co.jp/mazuq/
+
+Description             :
+Additional Credits to   : id Software, TeamTNT
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : DETH, NBLD, Wintex
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+You may do whatever you want with this file.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:
+

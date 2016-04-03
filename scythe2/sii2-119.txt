@@ -1,0 +1,40 @@
+======================================================================
+**********************************************************************
+                             Scythe II
+                             Episode II
+                             Done Quick
+                 The Ultra-Violence TAS Speed Movie
+**********************************************************************
+======================================================================
+______________________________________________________________________
+Map    Level    Episode        Time  Kills  Items  Secrets  
+======================================================================
+                Episode II          
+----------------------------------------------------------------------
+Map06 - Temple Entryway      _  0:06    0%     0%     0%     
+Map07 - Temple of Isis       _  0:09    0%     0%     0%     
+Map08 - Graverobbers         _  0:18    4%     4%     0%     
+Map09 - Valley of the Queen  _  0:09    0%     0%     0%
+Map10 - Pharaos Tomb         _  0:37   18%     0%     0%
+----------------------------------------------------------------------
+                       Total _  1:19                         
+======================================================================
+Recorded using GLBoom-Plus 2.5.0.4 / GLBoom-Plus 2.5.0.6 beta
+Doom Replay Editor 2.0 custom / XDRE 2.06
+Strafe50 is always ON
+======================================================================
+ prboom.exe -iwad doom2.wad -file scythe2.wad -playdemo sii2-119.lmp
+ (-complevel 2)
+ prboom-plus.exe -iwad doom2.wad -file scythe2.wad
+ -playdemo sii2-119.lmp
+======================================================================
+ Almost 6 years... it's over! Looper did the RJ in m07. Thanks,
+  you're the Man!
+======================================================================
+Author    :Maxim "Akse" Abreev, Russia, Moscow
+E-mail    :ffx2lynx@mail.ru
+          :MaxiAkse@rocketmail.com
+Youtube   :http://www.youtube.com/user/MaxiAkse
+======================================================================
+
+15 apr 2015

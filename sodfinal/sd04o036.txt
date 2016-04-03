@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Maps:      Map04
+Skill:     4
+Category:  -nomonsters
+Exe:       prboom-plus 2.5.1.3 -complevel 9
+
+Time:      0:36
+
+Author:    Krankdud
+
+Comments:
+Beat a Cyberdemon531 Demo Week
+A straightforward level. I tried to see if grabbing the rocket launcher and doing
+a death exit at the end would be faster, unfortunately it wasn't.

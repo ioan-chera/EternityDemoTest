@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Maps:      Map02
+Skill:     4
+Category:  -nomonsters
+Exe:       prboom-plus 2.5.1.3 -complevel 9
+
+Time:      0:34
+
+Author:    Krankdud
+
+Comments:
+Beat a Cyberdemon531 Demo Week
+There's some interesting things with the elevator, you can hit the elevator itself to
+make it go up at the bottom. Also hitting the button to make it go up outside of the
+elevator is a bit faster than hitting the one inside the elevator.

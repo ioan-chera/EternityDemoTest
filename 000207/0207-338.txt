@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      000207.wad
+Pwad name: 2000/02/07
+Maps:      MAP01
+Skill:     4
+Category:  UV-Max
+Exe:       Prboom+ 2.5.1.4.test -complevel 9
+
+Time:      3:38
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  Heheh, this innocent little level really annoyed me because I tried to play it in a very risky way and of course kept dying and dying. ^_^ Why do I kill the cacos near the exit in this strange way? Well, I tried killing them from the bridge but they didn't want to fly up, so it was hard to aim at them and I always ran out of ammo.

@@ -1,0 +1,46 @@
+________________________________________________________________________________
+
+Pwad:       1994 Tune-up Community Project
+Maps:       MAP09
+Skill:      4
+Category:   UV Max
+Exe:        PrBoom+ 2.5.1.3
+            -complevel 9
+            -deh notransl.deh (non-translucent projectiles & power-ups)
+
+My recording command line:
+prboom-plus -file 1994tu -deh notransl.deh -complevel 9 -skill 4 -warp 9 -record xxxxxxxx
+
+Playback (brackets [] = optional):
+prboom-plus -file 1994tu [-deh notransl.deh] -playdemo 9409-901
+
+________________________________________________________________________________
+
+Kills:  100%
+Items:  100%
+Secret: 100%
+        ____
+       /    \
+Time:  |9:01|
+       \____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+j4rio's contest entry #2
+
+I didn't know the map well when I watched 9:02 demo by j4rio, but his route
+seemed strange to me. The SSG is available early, so why not take it?
+OTOH, he has nicely aligned cacos throughout, so my route is not necessarily
+so much better, maybe 25 second difference. Here's just 1 second improvement
+because I suck.
+
+2 days ago I got 9:30 which was a turning point, before I didn't believe I
+could reach the target. Then I had 9:39,9:51,9:23,9:11,9:09,9:31,9:24,9:15,
+9:21 and this. Also 8:55 with two missed monsters (caco + imp).
+
+In my speed demo .txt I'll talk a bit about this gorgeous map.

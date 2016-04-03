@@ -1,0 +1,22 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Pwad name: Speed of Doom
+Map:       23
+Skill:     5
+Category:  MN-Speed
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+Time:      0:07
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Graim's UV-Speed route is practically impossible here:
+           target is too far and you need additional boost.
+           And or course on MN chaingunners don't want to move and help you.
+           So i decided to make two jumps: one to the mancubi island and then to the exit.
+           Second jump is much easier when arch-vile kills you because
+           in this case he don't push you away from your trajectory,
+           just bumps you up, and you can slide under the cyber.
+           I tried it time to time starting last summer =)
+           Several days ago i got three 0:08 and today low 0:07.
+           0:06 is doable with awaking arch-vile by shooting, but then it's messy as hell.

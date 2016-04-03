@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: 	   Valiant.wad     
+Pwad name: Valiant
+Maps:      16
+Skill:     4
+Category:  UV-Speed
+Exe:       PrBoom+ 2.5.1.4, -complevel 11
+
+Time:      1:27
+
+Author:    Rayzik	
+Email:     blakecollins1337@yahoo.com	
+HP:	   https://www.youtube.com/channel/UCQYckZWrNmAJv-cufwyUDoQ
+
+Comments: Was waltzing through valiant for mapping inspriration, and got to this map
+	  and thought I could possibly get a speedrun on it. Turned out, it isn't
+	  that difficult of a run to do! Got 4 exits in about an hour, this is the fastest.

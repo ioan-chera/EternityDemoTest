@@ -1,0 +1,11 @@
+10 Sectors - Map28 UV-Max in 8:49
+
+Author: Veinen
+Pwad: 10sector.wad
+Pwad name: 10 Sectors
+Port: GlBoom 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comment: Only 202/203 kills is possible since there is a misplaced imp in the
+	 circular enemy platform that cannot be killed.

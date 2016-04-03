@@ -1,0 +1,36 @@
+WAD: Scythe 2
+MAP: MAP24: Gaias Temple
+Time: 1:46.37 (Does it really matter here?)
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed -- SHOWS A TRICK
+
+I know this time is much slower than my nomonsters speedrun of this level, but
+the main purpose of this demo is to demonstrate a trick I found on Scythe 2
+MAP24. 
+
+After becoming busy with school, and with mapping and demo-making taking up
+much of my Dooming time, I hadn't played some of my favorite WADs in a while
+(like 1monster and Scythe 2). I decided to explore the garden maps of Scythe
+2 since I love their design. Erik Alm really made nice backgrounds and struct-
+ures for these maps (especially--all his maps in Scythe and Scythe 2 are
+great)! 
+
+I came to MAP24 and remembered from watching speedruns that there was a secret
+only meant to be accessed by an arch-vile jump. This idea came by accident 
+while I was trying to record an actual nomonsters demo for this map. When
+jumping out of the window after pressing the switch which lowers the pillar
+containing the red skull key, I landed on one of the ledges by the start.
+Because of my nature playing Doom, I decided to let that demo go and explore
+the end of the ledge. That's when I wondered if I could find a way to jump
+across the ledges and activate the invulnerability secret via ledge-hopping.
+The jumps are quite easy, with none of them requiring SR50. (Though it really
+serves no purpose, you can now activate that secret in nomonsters.)
+
+However, the thing I wanted to show by making this demo is that with the ledge
+trick, you can get the invulnerability whenever you like in a demo. I don't
+know if it would be helpful in a UV-Speed to not have to rely on an arch-vile
+jump to get the invuln or not, but I just found the trick kind of cool.
+
+Also, please excuse my clumsiness.. I wasn't quite warmed up here. ;P
+
+--Doomdaniel95

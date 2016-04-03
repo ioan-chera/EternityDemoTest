@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Pwad name: Speed of Doom
+Maps:      14
+Skill:     4
+Category:  Pacifist
+Exe:       prboom+ v.2.5.0.6 -complevel 9
+
+Time:      1:10
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  To succeed both cybers must actively killing revs from the beginning!
+           It happens in 1 of 10 tries or so.
+           Usually one or two were distracted by the projectiles from the bridge.
+           Should be very easy to beat it!

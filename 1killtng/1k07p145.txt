@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      1killtng.wad
+Pwad name: Number One Kill The Next Generation
+Map:       07
+Skill:     4
+Category:  Pacifist
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      1:45
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Many mistakes and many ways to improve,
+           but this map is annoying, especially damaging floor...

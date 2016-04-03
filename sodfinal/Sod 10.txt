@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Speed of Doom		      
+Pwad name: sodfinal
+Maps:      10
+Skill:     4
+Category:  Uv Max 
+Exe:       Doom2.exe
+
+Time:      6:53 
+
+Author:   Joshy & Darkwave0000
+
+Email:     mzahidirshad@gmail.com
+
+port used:prboom-plus-2.5.0.6 
+
+complevel 9
+Comments:Pain Elementals along Archvile makes a tricky fight .....weapon usage seems a bit lucky here.....

@@ -1,0 +1,22 @@
+               * Both CRAP115.LMP and FAVA.LMP need DOOM 1.9 *
+                 unless you happen to have one of those lmp
+                 utilities...
+
+E-mail:  sean.birkel@imagebbs.com        
+        
+        CRAP115 is E1M7 of the DOOM episode Fava Beans (The Madness of 
+Mergatroid).  CRAP115 is when the level was only about half done...notice
+the large #.  I usually save up to 200 times per level...and also notice
+that it isn't called Titan.  I usually think of the names after I'm all 
+done.  So, it was dubbed "crap" for the time being.  The .lmp that goes with 
+this is sure to make you laugh.  It features myself and a friend taking turns
+flying out of a very high window (with the help of a rocket launcher).  It is
+quite funny :)  Most of the windows in my levels are passible with the help 
+of a rocket (as this demo shows).  For you WAD makers who haven't discovered
+this funny fact, just make sure the window floor is 24 units off the ground
+and that the window itself is at least 32 units high.  This makes for a very
+funny deathmatch game if you get the right shots in :)  
+        By the way, the long pauses in the demo are from my friend and I
+typing to each other.  Also, notice the changes that took place from CRAP115
+to E1M7, i.e. Titan's Anomaly.
+

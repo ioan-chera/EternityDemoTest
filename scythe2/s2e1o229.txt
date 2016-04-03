@@ -1,0 +1,57 @@
+WAD: Scythe 2
+MAPS: MAP01-MAP05
+Time: 2:29
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters movie speed
+Recorded on: July 24, 2013
+
+Map		Time		My PB		DSDA Record	Rating
+----------------------------------------------------------------------
+MAP01:
+Castle 		0:19.60		0:19		0:18		:)
+Entryway
+----------------------------------------------------------------------
+MAP02:
+Rooftop		0:29.43		0:28		0:27		:|
+Warzone
+----------------------------------------------------------------------
+MAP03: 
+Castle		0:54.11		0:50		0:50		:(
+Gardens II
+----------------------------------------------------------------------
+MAP04:
+Cursed		0:24.86		0:21		0:21		:(
+Cellars
+----------------------------------------------------------------------
+MAP05:
+Halls of	0:23.17		0:21		0:21		:|
+Anguish
+----------------------------------------------------------------------
+
+Comments: 
+MAP01: Pretty good, if it was 20, automatic restart. 19 is not hard to
+get at all. I wasn't picky enough for 18 in a run like this.
+
+MAP02: Ok... the jump went well, though I had to set myself up for it.
+I bumped into a wall before grabbing the BK, so probably it would be 28
+if I had just been smoother.
+
+MAP03: Crap. I paused for the jump since every other time I didn't get
+it without pausing. I didn't do my "SR50 over the wide part of the water"
+trick, though I should have. I also bumped against the wall just before
+the BK door. Without those mistakes, this would probably be 52.
+
+MAP04: The worst, this looks freaking terrible. So many wallbumps in the
+beginning. I would have restarted if it was 25, but this is pretty bad
+anyway.
+
+MAP05: Stupid me, lost a second for a bad start.
+
+Overall this can be improved a few seconds if you get all the tricks done
+right and have good running. MAP01, MAP02, and MAP03 are the most annoying
+here fortunately.
+
+--Doomdaniel95
+
+
+	

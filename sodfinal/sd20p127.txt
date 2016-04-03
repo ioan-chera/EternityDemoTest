@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Pwad name: Speed of Doom
+Map:       20
+Skill:     4
+Category:  Pacifist
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+Time:      1:27
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  

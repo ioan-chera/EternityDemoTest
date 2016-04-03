@@ -1,0 +1,69 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.0.2
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+Thing 19 (Lost Soul)
+Death frame = 1067
+Missile damage = 1
+Initial frame = 1056
+Far attack frame = 1061
+First moving frame = 1057
+Injury frame = 1064
+
+Frame 1057
+Sprite subnumber = 0
+
+Frame 1058
+Sprite subnumber = 1
+
+Frame 1059
+Sprite subnumber = 0
+
+Frame 1060
+Sprite subnumber = 1
+
+Frame 1061
+Sprite subnumber = 2
+
+Frame 1062
+Sprite subnumber = 3
+
+Frame 1063
+Sprite subnumber = 2
+
+Frame 1064
+Sprite subnumber = 4
+
+Frame 1065
+Sprite subnumber = 4
+
+Frame 1066
+Sprite subnumber = 5
+
+Frame 1067
+Sprite subnumber = 6
+
+Frame 1068
+Sprite subnumber = 7
+
+Frame 1069
+Sprite subnumber = 8
+
+Frame 1070
+Sprite subnumber = 9
+
+Frame 1071
+Sprite subnumber = 10
+
+Frame 1072
+Sprite subnumber = 10
+
+Frame 1073
+Sprite subnumber = 10
+
+Frame 1074
+Sprite subnumber = 10

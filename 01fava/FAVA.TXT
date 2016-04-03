@@ -1,0 +1,172 @@
+                                 Fava Beans              
+              All new episode for the registered version of DOOM  
+              --------------------------------------------------
+
+E-mail address:  sean.birkel@imagebbs.com
+
+Files included in the 01FAVA.ZIP 
+--------------------------------
+
+        FILE_ID.DIZ
+        FAVA.WAD
+        FAVA.TXT
+        FAVA.LMP
+        CRAP115.WAD
+        CRAP115.TXT
+        CRAP115.LMP
+        PLAYLMP.BAT
+
+Episode Info (replaces `Knee Deep In the Dead')
+-----------------------------------------------
+
+        Well, this is a very impressive episode including 9 _excellent_
+levels.  All the levels in this episode were created by myself, excluding
+e1m5, which was designed by a friend.  We feel that any DOOM fanatic will
+enjoy this episode and will be completely impressed by the work put into it.
+        Most levels on the Internet suck.  It's a fact, but these 9 levels do 
+not suck.  id Software, if they ever saw this, would most likely want to know
+where the two of us were when they were designing the original DOOM levels.  
+It's taken roughly a year to design the levels, in fact...I never planned to
+have any nice levels...much less a whole episode.  It seems that after I 
+figured out how to use DEU that level making just sorda seemed fun, so I 
+designed levels like mad.  ...but, I am a perfectionist (in most respects) and
+therefore I insisted that the levels I designed were no less greater than 
+those in the actual game.  I felt that if they could make complex levels, then
+so can I...and I did :)  Most of the levels in here have been zipped and 
+distributed via local BBS, but even those were completely checked and re-
+checked for bugs/parts I found to be lacking "id" quality.  So, what you have
+here is pure DOOM art.  ...not to mention my last DOOM work that will ever be.
+I am _tired_ of making levels.  My creativity is draining (I also want to 
+maintain a life :), etc., so I have decided to stop while I'm ahead. 
+        So, play this all the way through...it is arranged as the original
+DOOM, smaller/easier levels first which work up in size/difficulty.  You will
+see the quality, and you may also wonder how I kept my sanity...so, have a 
+blast!
+
+        -The LMP's I included are funny.  FAVA.LMP is a deathmatch between two
+of my friends (I usually let my friend play...deathmatch is getting old).  The
+person who made E1M5 is in the foreground, a guy named George (who happens to 
+have a Pentium 100...grrr) is in the background.  Watch player 1 get blasted 
+out a window ---> window shots are so damn funny :)  CRAP115.LMP is a window
+demonstration of E1M7.  Yup, you guessed it...just myself and a friend flying
+through windows...from high up...with the help of some rockets :)  Watch if
+you want a good laugh :)  These are for version 1.9 of DOOM and require 
+FAVA.WAD to be loaded at the commandline.
+
+Miscallany
+----------
+        
+        Just so you know, this episode was originally distributed as         
+01MADNESS.ZIP (#1 on BBS's), but I changed a couple graphics and things that
+I found annoying (things that no one else would even notice...) in the levels.
+FYI, I changed COMPSTA1 and something on the status bar during deathmatch.  
+So, to see what I did, flip deathmatch mode on and gock at the status bar...
+you will see something remotely funny.  It looks "right" though.  I didn't 
+just put shit in anywhere, you know that's not my style, I took time to make
+the letters look authentic.
+
+        Level #         Original distribution
+        -------         ---------------------
+        E1M1            #1GASPRA.ZIP
+        E1M2            HANGAR18.ZIP or 18HANGAR.ZIP
+        E1M3            #1IMPALE.ZIP
+        E1M4            #1TRITON.ZIP - unreleased
+        E1M5            CHARON.ZIP
+        E1M6            SHADOWS2.ZIP or 2SHADOWS.ZIP
+        E1M7            #1TITAN.ZIP
+        E1M8            unreleased; made special for episode
+        E1M9            #1CREEP.ZIP - unreleased
+
+        Level #         The chosen title for the level
+        -------         ---------------------------------
+        E1M1            Gaspra Armory
+        E1M2            Hangar 18
+        E1M3            Impalement Station
+        E1M4            Triton Lunar Base
+        E1M5            Charon's Lab  
+        E1M6            Shadows of Darkness       
+        E1M7            Titan's Anomaly       
+        E1M8            Orion Outpost     
+        E1M9            Creeping Death    
+
+        - The editor of choice has been DEU521GC, until I found a DEU port
+          dubbed DETH, which is even better :)  E1M5 was made with the 
+          shareware version of DEEP.  BSP1.2x was used for nodes on everything
+          except E1M3 and E1M5.  BSP1.2x has a bug and wouldn't build E1M3, 
+          so it was nodes built with DEEPBSP.  Obviously E1M5 was done with
+          DEEPBSP.  My levels were all done on an Am486DX2 80 with 5Mb of
+          RAM, E1M5 was done on a 386DX 40 with 4Mb without a math-co (yuck)!!
+        - Graphics editing was done with New WAD Tools.  To replace the end
+          message I used the program TED (yes, I know the top line gets cut,
+          but at this point I don't really care...).
+
+E1M5 was designed by Ben Gates (no relation to that rich guy...) of Hermon, Me 
+and all others by Sean Birkel of Bangor, Me.  ...summer's almost over <cry, 
+sob>.  Register DOOM if you haven't already, the guys at id deserve the money 
+for making the greatest game ever!  ...I can't wait till Quake is released...
+I saw the preview gifs...and, wow!!
+
+Other stuff
+-----------
+
+        Metallica, Ozzy Osbourne, Jimi Hendrix, and Cringe (kick-ass local 
+band) have been the music of choice to help us through the long hours of 
+level making.  ...look for Cringe in the near future, they've got the 
+potential for something great...the guitarist rules!
+
+Oh, yeah...
+-----------
+
+        I might as well tell you the story behind the title, "The Madness of
+Mergatroid."  I had this wacky science teacher a few years back and he's 
+become something of a legend around here...I can just picture him saying 
+something corny like, "heavens to mergatroid."  
+        That's old news though...why did I call it Fava Beans?  Jerky Boys.
+The Jerky Boys make me laugh.  
+
+BYE!
+----
+
+        I'm freeeeeee!!!!!!!!!  My DOOM levels are DONE!!!!!!!!!!!!!!!
+No more levels!!!!!!!!!!!!!!!!!!!!!  YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enjoy!!
+
+Update
+------
+
+        I was fooling around with DETH again, and I happened to make a cool 
+area...will I finish the level??  Nah, even though it was one of the best 
+things I've designed to date...But, I hate DOOM, I hate making DOOM levels, so
+I won't finish this...it will just drift on my hard drive 'till I nuke it :)
+        
+        ---> If you must know what that level looks like, send me mail and
+tell me to finish it.  I won't ever do it, but I might upload what I have 
+(you'll like it...we're talking nothing like what's in this episode).
+
+Buh-Bye!
+--------
+
+        "So I'll see you tomorrow with my tools, fuckface!"  -Jerky Boys
+
+Oh yeah, call this BBS...it has 11 CD-ROM's online or something.  Many files.
+Many message areas.  My levels.  Mucho DOOM stuff.  It be cool.
+        
+==============================================================================
+        Mission Control BBS: (207)947-3105  more nodes comming soon!
+                  -Give 'em a try, and tell him Sean sent ya!
+==============================================================================
+
+Oh yeah, E-mail me if you want to play deathmatch :)  
+        -Keep these in mind:  I hate/won't play any DOOM2 levels (except H18)!
+                              I'll play Hangar or Phoboe's Lab anytime!!
+
+FYI
+---
+
+Hangar18 (E1M2) is a very good deathmatch level (use the DOOM2 version in 
+18HANGAR.ZIP...I've made changes since then that may not be as good for 
+deathmatch as it was originally...).
+
+BYE!!!!
+------>

@@ -1,0 +1,14 @@
+Iwad: doom2.wad
+Pwad: Speed of Doom
+Pwad name: sodfinal.wad
+Map: 31
+Skill: 4
+Category: UV-max
+Exe: PrBoom-Plus 2.5.1.1
+Time: 10:54
+
+Author: dannebubinga
+Email: daniel.tomhet@gmail.com
+
+comment: I had to rocket kill some cybies. Not a good run at all.
+

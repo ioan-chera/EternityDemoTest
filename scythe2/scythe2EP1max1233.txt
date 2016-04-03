@@ -1,0 +1,27 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE2.WAD
+Pwad name: Scythe II
+Maps:	01-05
+Skill:	4
+Category:	UV Max Episode 1
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	12:33
+-------------------------------------------
+Comments:  
+MAP01 - 1:23 / 1:23  
+MAP02 - 2:36 / 3:59   
+MAP03 - 3:38 / 7:37  
+MAP04 - 2:51 / 10:28
+MAP05 - 2:05 / 12:33
+
+First exit was 13:55, but I got lost a bit and it was terrible, so here is a much better demo. Not much to say here. Personally I think the end of MAP03 is the hardest to get to go right. 04 isn't too hard, and 05 is only hard when lost souls decide to fuck me over during the cyber fight. 
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

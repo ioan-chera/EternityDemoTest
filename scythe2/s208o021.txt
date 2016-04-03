@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe 2
+Pwad name: scythe2.wad
+Maps:      08
+Skill:     4
+Category:  Nomonsters
+Exe:       PRBoom+ v2.5.1.4-cl2
+
+Time:      0:21
+
+Author:    MD922

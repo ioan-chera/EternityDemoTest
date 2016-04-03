@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+Opulent Homepage
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      10sector.wad
+Map:       22
+Category:  UV No-monsters demo
+Exe:       Doom2.exe with Boom v2.02
+
+Time:      1:10
+
+Comments:  Just for fun.
+
+Credits:   Author of the map.
+
+Author:    Albert Valls
+Adress:    vrmr@wanadoo.es
+HP:	   http://www.newdoom.com/cyberdreams/
+

@@ -1,0 +1,15 @@
+          Speed of Doom
+      Map 13: Lucifer's Tears
+        Map Author: Joshy
+----------------------------------
+          sd13n035.lmp
+
+NM-Speed in 0:35
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare
+Author: 4shockblast
+
+Comments: Really frustrating; for some reason I couldn't do the second jump for the longest time (even though I've done it before in a nomonsters demo I made for a possible future nomo demopack), and then the keygrab doesn't always work out fast enough and I die. It's possible to die after the keygrab too, and thus most attempts ended before I got back to the teleport and most of the attempts afterwards failed. One time I got to the revenants and attempted to run past them, but that failed and I couldn't figure out a way to get past them safely, so I decided I'd just kill them. Got really worried in this attempt when that final archvile attacked me, since I decided to run past him and hope I don't die before I reach the exit. Accidentally recorded with -complevel 2.

@@ -1,0 +1,11 @@
+PWAD: vanguard.wad
+PWAD name: Vanguard
+Map: 7
+Skill: 4
+Category: UV-Fast
+Exe: PrBoom+ v2.5.1.4 -complevel 9
+Time: 1:05
+
+Author: rdwpa
+
+Sort of an annoying map to run on -fast. Not due to the inevitable projectile storm, which is fun, but due to the arachnotrons. Pretty sure their movement carries them into the blockmap differently in -fast, making them survive three rockets more often. Ideal time is probably about a minute or so. 

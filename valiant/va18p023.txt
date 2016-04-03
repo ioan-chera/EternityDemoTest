@@ -1,0 +1,19 @@
+             Valiant
+       Map 18: Crush Depth
+      WAD Author: Skillsaw
+------------------------------------
+           va18p023.lmp
+
+Pacifist in 0:23
+
+    Kills   - 25%
+    Items   - 13%
+    Secrets - 20%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 11
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Saw Dime running this and I thought it looked really fun. This attempt went really well.

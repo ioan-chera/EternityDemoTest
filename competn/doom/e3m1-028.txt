@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E3M1-028.TXT
+
+ E3M1-028.TXT
+
+  E3M1-028.TXT - UV speed!
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 3, Map 1 - Hell Keep
+              
+  Kills       30%
+  (Items      33%)            *********
+  Secrets      0%  and Time   * 28.51 *
+                              *********
+  Description :)
+
+  When I first started playing this map I was just practicing
+  for e3m9 to see if I could save enough shells to use the trick.
+  After getting 31 and then 30 I knew that 29 was possible, so I
+  kept going for it.  Then I discovered that it's possible to use
+  only 3 shots on the imps and also that it isn't even hard.
+  Still, it would take a lot of luck to kill every pig in 2 shots
+  and then finish the run with a 3 shot ending, but I knew that I
+  could do it and that if I could get it I would have a record that 
+  would last a while.  Anyways, this beats DOOM done quicker by 2
+  seconds and Yonatan's TAS run by 1 second.  Hope you enjoy this,
+  because I put a lot of effort into this run.
+
+  Xit Vono
+  xit_vono@yahoo.com

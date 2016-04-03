@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Iwad:      doom2.wad
+Pwad:      valiant.wad
+Pwad name: Valiant by skillsaw
+Maps:      MAP02 ("No Rush")
+Skill:     4
+Category:  Nomonsters
+Exe:       Prboom+ 2.5.1.4.test -complevel 11
+
+Time:      0:17
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  Quite satan rocket jump, I wonder what nutjob is going to try this with monsters. 16 shouldn't be hard to do without them.

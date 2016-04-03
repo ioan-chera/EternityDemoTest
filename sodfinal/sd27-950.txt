@@ -1,0 +1,19 @@
+This is a .LMP Entry for sodfinal.wad
+
+SD27-950.TXT
+
+ SD27-950.ZIP
+
+  SD27-950.LMP - UV Max
+
+  Recorded using GlBoom+ 2.5.1.1
+  
+  Kills    102%
+  Items     64%          
+  Secrets  100%  and Time  9:50
+                        
+  Map author should be aware of what's hard and what's annoying. 
+  Still, very good looking map. This also took me a little more 
+  than one hour, but here getting 8:XX seems to me really tough.  
+
+  Rizera

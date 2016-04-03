@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      valiant.wad
+Maps:      Map27
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus 2.5.1.4 -complevel 11
+
+Time:      1:27
+
+Author:    Krankdud
+
+Comments:
+Uhh I finished yay?
+I kinda want to improve this since it's kinda sloppy and I completely
+forgot my strat for the end, but that's probably for some other time.
+
+Attempts: 1700
+Exits: 1

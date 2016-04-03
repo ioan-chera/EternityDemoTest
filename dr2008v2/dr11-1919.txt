@@ -1,0 +1,36 @@
+Pwad:      Dark Resolution 2008
+Pwad name: DR2008V2.wad
+Map:       11 - Lich
+Skill:     3
+Category:  HMP Max
+Exe:       GLBoom+ v2.5.1.3 -complevel 9
+
+Kills:     106%
+Items:      94%
+Secrets:   100%
+
+Time:      19:19
+
+Comments: 2nd Hardest map I've ever recorded on next to Sunder MAP08 - Pale Monument. 
+
+Well it's a Death-Destiny map, the hardest Doom maps in existence right next to Sunder to be honest. This is a very intense and hectic challenge on HMP, at least if your a mashochist like me and try to release absolutely everything while grinning like a daredevil hoping you can get away with sheer luck and risk.
+
+I honestly wouldn't advise this route, at least not on UV, it's very risky and slightly lucked based.
+
+Their are 356 monsters on HMP, an extra 45 on UV, most of which consist of a extra Cyb or two along with a lot more AV's and teleporter rape. On UV, you absolutely need luck in some fights regardless if you attempt to release everything like I do here or take it slow and steady as gggmork did in his UV max of this monstrosity. I'm pretty sure that for the last two areas you have no choice but to double back to a safe spot due to the overwhelming odds, more AV's and extra enemies make standing your ground pure suicide but I don't recall how different this map is in UV.
+
+It requires much more infighting and just general sit and wait nonsense on UV, it makes for a tedious and boring game of patience and skill especially if you get right to the end and bite the dust.
+
+For god sakes don't try and telefrag the Cyb guarding the Soulspere at the start, I tried that on an earlier attempt having practiced it numerous times and just happened to fuck up on that run. However that failed attempt was worse, the outside huge slaughter battle in the bloodbath by the YK is real lucksy if you attempt my strategy. Their's a chance the two Cybs and Mastermind can bite the dust early, if that happens their's too many HK's/Barons left alive which results in more SSG work and wasted minutes.
+
+gggmork's UV Max can definately be improved, I'd say under 30 minutes, if you can release everything in the outside bloodbath and get away with it, you've got a good chance of slashing your time by several minutes.
+
+Architecturally speaking the map is phenomenal, their's a real sense of dread and haunt oozing from the Hexen music along with the blood red macabre halls and continuous teleporter ambushes. 
+
+It's also one of the best Doom maps I've played, a real unique sense of strategy, patience and skill required here unseen anywhere else. A true finale, but nowhere near as fucking ludicrous as the penultimate level - MAP10 - The Soulscarred Universe.
+
+That can just fuck off to the ninth circle of hell on UV.
+
+Author: Bloodite Krypto
+
+15.09.13

@@ -1,0 +1,12 @@
+=--------------------------------------------------=
+Valiant - MAP08 UV-Max in 3:58
+
+Second exit.
+=--------------------------------------------------=
+
+Author: Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus 2.5.1.4
+Pwad: valiant.wad
+email: nevan@live.co.uk
+=--------------------------------------------------=

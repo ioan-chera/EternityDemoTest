@@ -1,0 +1,35 @@
+________________________________________________________________________________
+
+Pwad:       10 Sectors
+Pwad name:  10sector.wad
+Author:     Various
+Maps:       24 (Hidden Facets by Qingshuo Wang)
+Skill:      4
+Category:   UV Max
+Exe:        PrBoom+ 2.5.1.3
+            -complevel 9
+________________________________________________________________________________
+
+Kills:  102%
+Items:   91%
+Secret: 100% (that is, 0 out of 0)
+        ____
+       /    \
+Time:  |7:03|
+       \____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+This map must have been created by a crazy genius. I would never, ever think
+about such a thing.
+
+But it's confusing: many silent teleporters. The blood waterfall entered from
+the left side telefrags a cyber, from the right side gets you a plasma...
+Watch Wim Vanrie's UV Speed, too!
+
+________________________________________________________________________________

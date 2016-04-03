@@ -1,0 +1,37 @@
+________________________________________________________________________________
+
+Pwad:       Number One Kill The Next Generation
+Pwad name:  1killtng.wad
+Maps:       MAP16 - Fortress of Fire
+Skill:      4
+Category:   UV Speed
+Exe:        PrBoom+ 2.5.1.1
+            -complevel 2
+            
+________________________________________________________________________________
+
+Kills:   36%
+Items:   50%
+Secret:  50%
+        ____
+       /    \
+Time:  |2:27|
+       \____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+A rather nice map in a mapset which is not bad, but overall is not for my taste.
+I had a few 2:45-ish exits with the megasphere, this is the second time I
+decided to skip it (you would get some extra plasma ammo and 100% items/secrets
+as well if you went for it).
+
+At 1:16 I got a bit stuck on the imps - I include the slower no-megasphere demo
+(2:32), in which this particular part is dealth with in a much nicer way (@1:26
+of 1k16-232.lmp).
+
+________________________________________________________________________________

@@ -1,0 +1,15 @@
+          Speed of Doom
+        Map 10: Vile Pain
+     Map Author: Darkwave0000
+----------------------------------
+          sd10n107.lmp
+
+NM-Speed in 1:07
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Nightmare
+Author: 4shockblast
+
+Comments: The monster crowd after the blue key is brutal. It's difficult to shoot past it, and I just end up getting attacked by everything. The archvile at the arachnotrons was particularly bad, since he rarely infights with anything and can see me well into the hallway, so he would ruin a large number of runs (very rarely was the hallway not crowded like in this run). Getting past the arachnotrons at the end safely is difficult too; killing them isn't an option since the spectres would attack me from behind and merely running past them is likely to result in a failed run. Kinda forgot about the imp crowd at the end and somehow only two archviles teleported. Seems like this run was a very low 1:07 (maybe even a 1:07.00), but I'm happy to have a successful run at all. On a different note, I really love the music in this level.

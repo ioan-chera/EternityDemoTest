@@ -1,0 +1,58 @@
+===========================================================================
+Advanced engine needed  : Boom-compatible Ports
+Primary purpose         : Single + coop play
+===========================================================================
+Title                   : Speed of Doom
+Filename                : sod.wad
+Release date            : 17/3/10 First Public Release
+Author                  : Joshy and Darkwave0000
+
+Description             : Full boom-compatible ports 33 Maps megawad.
+
+Additional Credits to   : Gusta, Belial, stewboy, Jimmy91, Mechadon,
+                          gggmork and Dew (see SODINFO for more detailed info)
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : Yes
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 1-33
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 1 Year roughly
+Editor(s) used          : Doombuilder1/2
+Known Bugs              : Can crash with ports that has limitations. Lags
+                          on several maps depending on ports used.
+                          Glboom/Prboom+ recommended (complevel 9)
+
+
+* Copyright / Permissions *
+
+Authors may NOT use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.

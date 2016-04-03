@@ -1,0 +1,58 @@
+E2M5-027.TXT
+
+ E2M5-027.ZIP
+
+  E2M5-027.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.2 Mi.5 - Command Center
+
+  Kills      0%
+  (Items     0%)          *********
+  Secrets    0%  and Time * 00:27 *
+                          *********
+
+  Description :-)
+
+  Incredible that I finally got this, first of
+  all I tried this 2 months ago and got 28.05
+  after 3 solid hours of trying. I was drained
+  totally and looked for relatively easier stuff
+  to record (and I also knew that I don't have
+  any chance without a clean mouse and pad).
+  
+  I tried this tonight again, first I thought I
+  could get it easy, my runs indicated I can have
+  a very small mistake and still make it.
+  I made lots of silly mistakes near the end though
+  (like missing the exit switch press at 27.82 once
+  etc.) and that's why this took me 1100 tries tonight.
+  
+  Anyway, it beats DOOM Done Quicker by 2 seconds,
+  Yonatan's TAS run by 1 second and Pacifist as well.
+
+  I'm still pretty frustrated by these:
+  
+  E2M52800 LMP         4,038  07-02-01  3:48a e2m52800.lmp
+  E2M52802 LMP         4,050  07-02-01  2:42a e2m52802.lmp
+  E2M52805 LMP         4,018  04-24-01 10:13p e2m52805.lmp
+  E2M52808 LMP         4,038  07-02-01  3:24a e2m52808.lmp
+  E2M5B800 LMP         4,034  07-02-01  4:18a e2m5b800.lmp
+  E2M5B802 LMP         4,054  07-02-01  4:02a e2m5b802.lmp
+  E2M5B805 LMP         4,102  07-02-01  3:02a e2m5b805.lmp
+  E2M5B808 LMP         4,066  07-02-01  4:04a e2m5b808.lmp
+  E2M5C802 LMP         4,022  07-02-01  4:16a e2m5c802.lmp
+  E2M5C805 LMP         4,030  07-02-01  5:11a e2m5c805.lmp
+  E2M5C808 LMP         4,050  07-02-01  4:57a e2m5c808.lmp
+  E2M5D802 LMP         4,030  07-02-01  4:45a e2m5d802.lmp
+  E2M5D805 LMP         4,466  07-02-01  5:36a e2m5d805.lmp
+  E2M5E802 LMP         4,030  07-02-01  4:56a e2m5e802.lmp
+  E2M5F802 LMP         4,038  07-02-01  4:59a e2m5f802.lmp
+  E2M5G802 LMP         4,042  07-02-01  5:24a e2m5g802.lmp
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

@@ -1,0 +1,12 @@
+Pwad:	Valiant.wad
+Pwad name: Valiant
+Maps:	25
+Skill:	4
+Category:	UV max
+Exe:      	prboom-plus 2.5.1.4 -complevel 11
+
+Time:     5:01
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

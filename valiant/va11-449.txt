@@ -1,0 +1,17 @@
+Pwad:	Valiant.wad
+Pwad name: Valiant
+Maps:	11
+Skill:	4
+Category:	UV Max
+Exe:      	prboom-plus 2.5.1.4 -complevel 11
+
+Time:     4:49
+
+Comments:	Finding an optimal route and strategy on this map is very difficult.
+As you'll see the best strategy is to try and catch as many Rev balls as you can using your face :-P
+
+
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

@@ -1,0 +1,29 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop speed movie
+mission:  Episode 1
+
+time:     4:52
+
+   Level       Time         
+--------------------
+   E1M1        0:14         
+   E1M2        0:25         
+   E1M3        0:45 
+   E1M4        0:16 
+   E1M5        0:52 
+   E1M6        1:04
+   E1M7        1:16     
+   E1M8        -:-- 
+--------------------
+   Total       4:52
+
+
+xit-vono : Things mostly went smoothly here.
+
+Vincent : A bit sloppy at times but nice
+          improvement over previous time.

@@ -1,0 +1,28 @@
+Mirrá Speedrunning Entry
+
+   Level - E1M4
+
+Catagory:
+
+   [ ] Ultra Violence Speed
+   [X] Ultra Violence Max
+   [ ] Nightmare Speed
+   [ ] Nightmare 100% secrets
+
+Statistics:
+
+   Kills - 100%
+   Items - (irrelevant)
+ Secrets -  75%
+
+Time:  2:13.00
+
+Note by Author:
+
+	Filling in the Fava Beans Max table... should be fairly easy to beat.
+
+   Note: 75% is max secrets in this map due to an engine bug.
+
+=----------------------------------------------------------------------------=
+Author: Chris Laverdure
+Email:  dreamdestroyer@hotmail.com

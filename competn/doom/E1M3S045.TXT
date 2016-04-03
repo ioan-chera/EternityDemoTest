@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/doom/speed" Entry - Please forward it...
+
+E1M3s045.TXT
+
+ E1M3s045.ZIP
+
+  E1M3s045.LMP - Ultra Violence
+
+  Recorded using Ultimate DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Map 3 - Toxin Refinery (Secret Exit)
+
+                      Time  00:45
+                            -----
+ 
+Description:  
+
+I've never been entirely happy with my 0:47, but it's taken a lot of odd
+1/2 hour sessions to bring this time :). Everything worked out OK here,
+except running into a wall in the first secret area...doh. I was a little
+careful in there due to my somewhat, uh, lacking health ;). I'd stick to
+my last prediction of 0:43 for human optimal, but I think this could be
+done outrageously fast TAS - under 0:40 maybe. A big innovation over my
+last run is figuring out that you can avoid alerting a set of 3 imps in
+the switch cellar while shooting the barrel (it's not very easy, though).
+
+Adam Williamson
+adam.williamson1@btinternet.com

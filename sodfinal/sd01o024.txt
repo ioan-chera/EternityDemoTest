@@ -1,0 +1,15 @@
+          Speed of Doom
+       Map 01: First Blood
+        Map Author: Joshy
+----------------------------------
+          sd01o024.lmp
+
+Nomo in 0:24.71
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Not perfect demo; perhaps 23 is possible.

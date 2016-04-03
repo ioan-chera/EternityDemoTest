@@ -1,0 +1,14 @@
+=--------------------------------------------------=
+
+Scythe 2 - Graverobbers (MAP08) in 4:00 
+-complevel 2
+
+
+=--------------------------------------------------=
+
+Author: Nevan/Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus
+Pwad: pl2.wad
+
+=--------------------------------------------------=

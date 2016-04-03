@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Maps:      Map03
+Skill:     4
+Category:  -nomonsters
+Exe:       prboom-plus 2.5.1.3 -complevel 9
+
+Time:      0:28
+
+Author:    Krankdud
+
+Comments:
+Beat a Cyberdemon531 Demo Week
+I had a pretty clean 0:31 without the glide, but then I learned that the glide existed.
+This one isn't really as clean but I don't want to spend anymore time working on this.
+There's a nice wallrun at the end to skip having to hit an extra button at the end.

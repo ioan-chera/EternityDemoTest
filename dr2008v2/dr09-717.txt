@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      dr2008v2.wad
+Pwad name: Dark Resolution 2008
+Maps:      MAP09
+Skill:     4
+Category:  UV-Max
+Exe:       Prboom+ 2.5.1.3 -complevel 9
+
+Time:      7:17
+
+Author:    Plut
+Done April, 7, 2013
+
+First exit.
+
+

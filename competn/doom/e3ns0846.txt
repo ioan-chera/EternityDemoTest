@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+e3ns0846.txt
+e3ns0846.zip
+
+e3ns0846.lmp
+
+Recorded using Ultimate Doom Version 1.9
+Ultimate Doom -PlayDemo with Version 1.9
+
+Ultimate Doom - "Inferno" on Nightmare! skill w/ 100% secrets
+
+E3M1 - Hell Keep           -  :39
+E3M2 - Slough of Despair   -  :57
+E3M3 - Pandemonium         - 1:15 
+E3M4 - House of Pain       - 1:29 
+E3M5 - Unholy Cathedral    - 1:47 
+E3M6 - Mt. Erebus          -  :23
+E3M9 - Warrens             -  :57
+E3M7 - Gate to Limbo       - 1:19
+E3M8 - Dis                 - excluded
+
+Total - 8:46
+
+Secret Collect!
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,39 @@
+This is a Doom "Competition" entry. Please forward it...
+
+U4M1-025.TXT
+
+ U4M1-025.ZIP
+
+  U4M1-025.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Ep.4 Mi.1 - Hell Beneath
+
+  Kills    ??%
+  (Items   ??%)
+  Secrets  ??%  and Time  0:25
+                          ----
+
+Description: 
+
+	When asked me to come into the DDQR teams i didn't what i 
+        could do since that i had so good partners. 
+        Even if someone found the trick before me (activating the lift 
+        while running/jumping to the switch), i found it by myself
+        while looking for a map i could do for them.
+      
+        Besides that, this map is really frustrating... here almost everything
+        came very well and quickly. Except for that imp i killed in the blue key room...
+        he was just walking away quietly. Thats why it's not yet optimized..
+        24s maybe 23s is possible... i've spend days trying to improve it...
+        w/o success. Maybe for another day...another man :)
+
+
+
+
+  Author:    Vincent Catalaà
+
+  E-mail:    peroxyd@wanadoo.fr
+ ICQ-UIN:    14712188

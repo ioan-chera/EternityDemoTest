@@ -1,0 +1,36 @@
+======================================================================
+**********************************************************************
+                             Scythe II
+                             Episode I
+                             Done Quick
+                 The Ultra-Violence TAS Speed Movie
+**********************************************************************
+======================================================================
+______________________________________________________________________
+Map    Level    Episode        Time  Kills  Items  Secrets  
+======================================================================
+                Episode I          
+----------------------------------------------------------------------
+Map01 - Castle Entryway      _  0:18    6%     0%     0%     
+Map02 - Rooftop Warzone      _  0:27   23%    12%     0%     
+Map03 - Castle Gardens II    _  0:40   30%     4%    66%     
+Map04 - Cursed Cellars       _  0:19    8%     0%     0%
+Map05 - Halls of Anguish     _  0:20   26%     0%     0%
+----------------------------------------------------------------------
+                       Total _  2:04                         
+======================================================================
+Recorded using GLBoom-Plus 2.5.0.2 & Doom Replay Editor 2.0
+Strafe50 is always ON
+======================================================================
+May not work correctly with PRBoom, so PRBoom-plus is highly
+recomended. (-complevel 2)
+ prboom-plus.exe -iwad doom2.wad -file scythe2.wad
+ -playdemo sii1-204.lmp
+======================================================================
+Author    :Maxim "Akse" Abreev, Russia, Moscow
+E-mail    :ffx2lynx@mail.ru
+          :MaxiAkse@rocketmail.com
+Youtube   :http://www.youtube.com/user/MaxiAkse
+======================================================================
+
+2 aug 2009

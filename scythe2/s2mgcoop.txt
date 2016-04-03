@@ -1,0 +1,34 @@
+This is a .LMP Entry for Scythe 2 by Erik Alm
+
+Scythe 2 Coop UV Maxruns
+
+  Recorded using PrBoom 2.2.6 with -complevel ?
+  
+  Players: Green - Method (11,21), Gusta (01,05,19)
+           Indigo - Gusta (11,21), Method (01,05,19)
+
+  Levels and times:
+  Map01 - 1:10
+  Map05 - 1:53
+  Map11 - 2:14
+  Map19 - 4:23
+  Map21 - 2:52 
+  
+                 
+ 
+  Description: 
+  We recorded these demos at Method's home, we had pretty much fun with playing it,
+  I just remember that we hated map19 alot, it took us nearly 2 hours to do the exit.
+  And map21 had some nice moment when Method is sawing and me punching mancubus simulta-
+  neously. That's all which has been stucked in my memory :)
+  The demos are more or less OK, all seen from Method's view. The mine one was probably
+  lost somewhere. Press F12 if you wanna change among players' views
+  Enjoy!
+  
+
+
+  Jakub "Method" Razak
+  JakubRazak@seznam.cz 
+  
+  Adolf "Gusta" Vojta
+  hita@seznam.cz

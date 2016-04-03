@@ -1,0 +1,15 @@
+=--------------------------------------------------=
+Valiant - MAP01 UV-Max in 2:50
+
+I was at a point where I was getting bored of this 
+game, but then the final release of Valiant came
+along and I had to do some demos for it! Have some
+first exits.
+=--------------------------------------------------=
+
+Author: Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus 2.5.1.4
+Pwad: valiant.wad
+email: nevan@live.co.uk
+=--------------------------------------------------=

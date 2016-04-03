@@ -1,0 +1,19 @@
+DooM Speed Demos Archive <http://www.goodnet.com/~opulent/sda/doom_sda.htm>
+
+Pwad:      10sector.wad
+Level:     02
+Category:  Ultra-Violence Max
+Exe:       Original Doom2.exe
+
+Time:      1:30.42
+Kills:     42/42
+Secrets:   0/0
+
+Comment:   Accidentily recorded this demo, cause I misread Wim's .txt file
+           for the 10sector demopack project, that said which demos to record. :)                   
+                   
+           
+name:      Arno SlagDooM
+mailto:    arnoslag@bart.nl
+visit:     www.doomworld.com/publicdang
+

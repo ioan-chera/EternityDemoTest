@@ -1,0 +1,37 @@
+======================================================================
+**********************************************************************
+                             Scythe II
+                            Episode III
+                             Done Quick
+                 The Ultra-Violence TAS Speed Movie
+**********************************************************************
+======================================================================
+______________________________________________________________________
+Map    Level    Episode        Time  Kills  Items  Secrets  
+======================================================================
+                Episode III          
+----------------------------------------------------------------------
+Map11 - UAC Base X           _  0:11    2%     0%     0%     
+Map12 - Battlegrounds        _  0:29   25%    66%     0%     
+Map13 - Mining Project       _  0:30   17%     8%     0%     
+Map14 - The Haunted Mines    _  0:20    0%     0%     0%
+Map15 - End of the Line      _  0:17    0%     0%   100%
+Map31 - Secret               _  0:03   12%    66%   100%
+----------------------------------------------------------------------
+                       Total _  1:50                         
+======================================================================
+Recorded using GLBoom-Plus 2.5.0.2 & Doom Replay Editor 2.0
+Strafe50 is always ON
+======================================================================
+ prboom.exe -iwad doom2.wad -file scythe2.wad -playdemo sii3-150.lmp
+ (-complevel 2)
+ prboom-plus.exe -iwad doom2.wad -file scythe2.wad
+ -playdemo sii3-150.lmp
+======================================================================
+Author    :Maxim "Akse" Abreev, Russia, Moscow
+E-mail    :ffx2lynx@mail.ru
+          :MaxiAkse@rocketmail.com
+Youtube   :http://www.youtube.com/user/MaxiAkse
+======================================================================
+
+5 aug 2009

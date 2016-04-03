@@ -1,0 +1,12 @@
+Pwad:	Sod.wad
+Episode 1
+Category:	UV speed
+Exe:      	prboom-plus 2.5.1.3 -complevel 9
+
+Time:    19:42
+
+Lots of room for improvement but the frustration is not worth it. For now....
+ 
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      SODfinal.wad                   
+Pwad name: Speed of Doom
+Maps:      MAP04
+Skill:     4
+Category:  UV-Tyson
+Exe:       PrBoom+ 2.5.1.4test -complevel 9
+
+Time:      14:12
+
+
+Author:    Plut
+Done August, 10, 2014
+
+%). Pretty slow demo, but for me it's already an achievment. The first mancubus is very annoying, because he often doesn't shoot the HK. The last trap is a fucking luckfest... 
+
+
+
+
+
+
+
+
+                                               
+
+
+
+

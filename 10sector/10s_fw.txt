@@ -1,0 +1,5 @@
+
+Frank "ZappaZ" Winqvist recorded many 10sector speedruns, both on skill 1 and skill 4. Watch these demos with the regular doom2 or dosdoom, unless MBF is specified. Also, you might have to rename
+the demos that have a filename longer than 8 letters to something which has 8 letters or less in order for your source port to play them back. The skill 1 demos are: level 2 in 0:25, level 3 in 0:34, level 4 in
+1:09, level 7 in 0:57 (MBF), level 14 in 0:36 (MBF), level 17 in 1:46 (MBF), level 18 in 0:31 (MBF), level 19 in 0:48 (MBF), level 23 in 3:28 (MBF), level 24 in 0:46 (MBF), level 27 in 1:37 (MBF), level
+28 in 2:24 (MBF), and level 32 in 0:21 (MBF). The skill 4 demos are: level 5 in 0:57 (MBF), level 6 in 0:25, level 12 in 0:39, and level 13 in 0:44. 

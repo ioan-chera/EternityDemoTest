@@ -1,0 +1,32 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe2.wad                     
+Pwad name: Scythe 2
+Maps:      MAP12
+Skill:     4
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.1.4test -complevel 2
+
+Time:      2:21
+
+Author:    Plut
+Done September, 27, 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+
+
+

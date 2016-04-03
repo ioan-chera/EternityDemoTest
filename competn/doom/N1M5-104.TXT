@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M5-104.TXT
+N1M5-104.ZIP
+
+N1M5-104.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Doom 2 - E1M5 - Phobos Lab
+
+Time     1:04
+         ----
+
+Description:
+
+This has taken far longer to make than it ought to have done, annoyingly.
+Credit to Vile for the start method - I don't know how far he realised it
+with his run, but it's actually a perfectly reproducible method for getting
+a great start, which is really rather handy. You just have to time the pause
+and stand at the right angle on the green armour and the monsters *always*
+do the same things, leaving the path clear for you to get back. Rest of this
+level is more or less pure adrenaline, and quite a lot of fun to run, though
+it can get immensely frustrating. Interestingly, I reckon this route could
+get under 1:00 if everything went perfectly...
+
+Author: Adam Williamson
+E-mail: adam.williamson1@btinternet.com

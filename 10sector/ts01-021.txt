@@ -1,0 +1,16 @@
+DooM Speed Demos Archive <http://www.goodnet.com/~opulent/sda/doom_sda.htm>
+
+Pwad:      10sector.wad
+Level:     01
+Category:  Ultra-Violence Max
+Exe:       Original Doom2.exe
+
+Time:      0:21.65
+Kills:     17/17
+Secrets:   0/0       
+                   
+           
+name:      Arno SlagDooM
+mailto:    arnoslag@bart.nl
+visit:     www.doomworld.com/publicdang
+

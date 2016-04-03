@@ -1,0 +1,23 @@
+Pwad:      Scythe II
+Pwad name: scythe2.wad
+Map:       08
+Skill:     4
+Category:  UV-Fast
+Exe:       GLBoom+ v2.5.1.4 -complevel 2
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      4:31
+
+Comments:  Major luck helped throughout here with nearly every encounter going smoothly as opposed to a huge RNG grind, usually I get slaughtered at either the SSG or after the Red key. It's amazing the secret Archvile managed to stay in the confines of his box otherwise it's a huge risk of being scorched by the distant Mancubi and wasting time trying to weave back and forth around the corner.
+
+Another breakthrough was the Archvile in the inner sanctum after acquiring the RL, he's usually a tough nut to crack but he was slaughtered by an onslaught of infighting which was rare and took him down swiftly saving a great amount of time in an otherwise aggressive and dangerous situation.
+
+I used too many rockets before acquiring the Yellow key, as the result their was a struggle with the Revenants but I pulled through without wasting vital seconds. I especially enjoyed the outcome at the end.
+
+Author:	   Bloodite Krypto
+
+30.07.15
+

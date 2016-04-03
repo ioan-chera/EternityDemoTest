@@ -1,0 +1,537 @@
+
+
+				--------------------------
+				THE 10 SECTOR DEMO PACKAGE
+				--------------------------
+
+
+--------
+1. Index
+--------
+
+1. Index
+2. What's this
+3. How to run these demos
+4. Player descriptions
+5. Times table
+6. Comments about the demos
+7. Additional thanks
+
+--------------
+2. What's this
+--------------
+
+After Doug, Brad, Martin and Wim Vanrie finished the Darkening 2 package, Martin came up
+with the idea of making a 10sector package too. But, since the wad has too many
+levels for four players, we decided to ask other Doomers to join. We gladly welcomed
+Arno, Albert, Ralf, Mike and Yashar. Unfortunately, we havent heard from Martin since
+and fear he has some real life troubles.
+
+Our goal was to finish every level from scratch on UV Max (where possible),
+and we succeeded. Map 16 was impossible to finish due to a bug, map 28's impossible to
+get 100% kills and map 31 too. We made map 30 a contest level which resulted in 4 demos. We also made a couple of impressive 'special' demos such as speed, pacifist, skill 1 etc.
+
+So, we're very proud to present to you: "The 10 sector demo package".
+
+-------------------------
+3. How to run these demos
+-------------------------
+
+First make sure the 10sector wad and the demos are in the boom directory.
+Then, run the .bat file included with this package and follow the menus to
+playback the demos you want.
+
+If the wad and the demos arent in your Boom directory, use these parameters:
+Boom -file (the location of the 10sector.wad file) -playdemo (the location of
+the demo you want to play)
+
+----------------------
+4. Player descriptions
+----------------------
+
+Albert Valls
+------------
+
+Name			: Albert Valls
+Nickname		: Vrooomer
+E-mail adress		: vrmr@wanadoo.es
+Homepage		: http://www.newdoom.com/cyberdreams/ (CyD HP)
+Other demo's		: CyberDreams speed demos collection;
+			  Wim Vanrie's lmp competitions.
+Pwads designed		: CyberDreams megawad (co-author), Beresith
+			  Deathmatch levels  (among others)
+Favourite player	: Yonatan Donner
+Reason for participating: A personal and collective challenge.
+Credits			: All the people who entered the 10 Sectors
+			  Contest, even if their maps weren't finally
+			  included in the megawad.
+			  Martin Schultz, who gave the idea.
+			  Wim Vanrie, for organizing the project.
+			  My other partners: Doug, Brad, Arno, Ralf,
+			  Mike and Yashar.
+			  NewDoom.
+			  Doomworld, for suggesting the 10SC.
+			  Id, once more.
+
+Arno Slagboom
+-------------
+
+Name                       : Arno Slagboom
+Nickname                   : SlagDooM
+E-mail adress		   : arnoslag@bart.nl
+Homepage                   : www.doomworld.com/publicdang
+Other demos                : see homepage :)
+Pwads designed             : never finished any
+Favourite player           : Anders Johnsen
+Reason for participating   : why not? :)
+Credits                    : idsoftware, all 32 level designers,
+                             doomworld.com, boom's programmer, blablabla...
+
+Brad Spencer
+------------
+
+Name                    : Brad Spencer
+Nickname                : Vorpal
+E-mail adress           : bspencer@gis.net
+Homepage                : http://gis.net/~bspencer
+Other demos             : Icarus Speedruns,Master level speedruns,
+                          Perdition's Gate maxkills, Darken2 maxkills,
+                          many other various wads that I can't remember
+Pwads designed          : ambusha.wad tyrell.wad Mb01/02/fx.wad
+                          freon.wad procyon.wad at.wad
+                          Alien Vendetta levels: 14/18/20/22
+                          twing.wad
+Favourite player        : Anders/Henning in the NM coop
+                          But I love watching Mike Toliver's demos
+Reason for participating: The Darkening pack was pretty fun to work on
+                          and I wanted to do something similar.
+Credits                 : We have not started yet, so cannot give credits
+
+Doug Merrill
+-----------
+
+Name			: Doug Merrill
+Nickname		: Opulent
+E-mail adress		: Opulent@goodnet.com
+Homepage		: http://www.goodnet.com/~opulent/doom2.htm
+Other demos		: a little Pdang and extremely little compet-n experience.
+Pwads designed		: some very average sp levels years ago; the deathmatch ones are 			  still good.
+Favourite player	: Radix recently.  ;)
+Reason for participating: It is a great team to be a part of...and the Megawad(s) should be 			  a classic.
+Credits			: all the Doom demo players.
+
+Martin Schultz
+--------------
+
+Name			: Martin Schultz
+Nickname		: DiSTuRBeD
+E-mail adress		: mschultz@online.no
+Homepage		: k.o.i.homepage.com/doom
+Other demo's		: Darkening2 collection + various others on my homepage
+Pwads designed		: A few maps for Quake2\3 and Half-life
+Favourite player	: Henning Skogsbro (did i spell that right?) for his Nm30 runs.
+                          Awsome demos!!
+Reason for participating: As allways, a wicked plan to take over the world.
+Credits			: Wim for organizing this project, The rest of the guys for taking
+                          part of it.
+			  All the great people who took part of the 10sector contest and
+                          made sure that the megawad turned out as good as possible.
+
+Mike Toliver
+------------
+
+Name			: Mike Toliver
+Nickname		: None
+E-mail adress		: miketol@mtco.com
+Homepage		: Not yet
+Other demo's		: Tons, see DHT, DANG, a few COMPET-N and now Opulent's SDA 			  	  site.
+Pwads designed		: Just one - corridor.wad for doom1
+Favourite player	: ???  I suppose Anders - but there's a lot of great players out
+                          there - why pick one?
+Reason for participating: I love playing doom!!!
+Credits			: Dave Ryding for hooking me on this crazy game, Frank Stajano 			  	  for DHT - which made me a better player, Anders Johnsen for 			  	  letting me on the AV team, etc.
+
+Ralf Schreivogel
+----------------
+
+Name			: Ralf Schreivogel
+Nickname		: .ac.
+E-mail adress		: Ralf.Schreivogel@ber.netsurf.de
+Homepage		: http://www.doomworld.com/publicdang
+Other demo's		: e4m3-012
+Pwads designed		: N/A
+Favourite player	: Hmm, it would be too hard to pick a favourite, i love
+                          to watch demos by many players. Instead i want to
+                          mention Vincent Catalaà and Chris Ratcliff here, IMHO
+                          they improved their playing a LOT since joining DANG.
+Reason for participating: Doug asked if i'd like to join the demo team. I thought
+                         "10 sectors per level... can't be too hard, so yeah!".
+                          Little did i know :).
+Credits			: Everyone who made these crazy levels. It's amazing how
+                          level building developed over the years :).
+
+Wim Vanrie
+----------
+
+Name			: Wim Vanrie
+Nickname		: The Mole
+E-mail adress		: themole@newdoom.com
+Homepage		: http://www.newdoom.com/themole
+Other demo's		: Several competition demo's (PublicDang, Team Insanity,
+			  Opulent's speed demo archive, my own site), the Darkening2 package
+                          which is downloadable from my site
+Pwads designed		: Rvenge01.wad, Phthp.wad, Phtga.wad and Terrere1.wad
+			  which are all downloadable from my site
+Favourite player	: Adam Heygi (no offence, Gemini :-)
+Reason for participating: What do you think, i'm the organiser you fool :-)
+Credits			: Martin for coming up with this idea. Every other member
+                          of this project, all the people entering for the 10sector
+                          contest, DoomWorld for compiling the wad and ID for this
+                          game.
+
+Yashar Garibzadeh
+-------------------
+
+
+Name			: Yashar Garibzadeh
+Nickname		: Gemini
+Homepage		: Don't remember the url's
+E-mail adress		: Post2000@c2i.net
+Wads/demos by me	: Gem01.zip, Gem02.zip, Pluvdem.zip (map31)
+			  Surge1, Surge2 (Boom), Paradox TC, The Gemini
+Reason for joining	: Not really
+Credits			: Doug Merril for gettin me into this 'team'
+			  Wim Vanrie for organizing the whole thing
+			  Doug Merril, Wim Vanrie, Albert Valls,
+			  Brad Spencer, Mike Toliver, Martin Schultz,
+			  Ralf and Arno, all for superb demos
+
+--------------
+5. Times table
+--------------
+
+Level		Player			Time		Type
+-----		------			----		----
+01		Mike Toliver		:25		Max
+02		Ralf Schreivogel	2:38		Max
+03		Wim Vanrie		2:57		Max
+04		Wim Vanrie		2:21		Max
+05		Arno Slagboom		2:15		Max
+06		Yashar Garibzadeh	3:52		Max
+07		Albert Valls		8:44		Max
+08		Albert Valls		9:40		Max
+09		Doug Merrill		5:56		Max
+09		Doug Merrill		2:44		Nightmare
+10		Arno Slagboom		3:41		Max
+11		Wim Vanrie		6:11		Max
+12		Ralf Schreivogel	5:14		Max
+12		Ralf Schreivogel	:32		Speed
+12		Ralf Schreivogel	:42		Pacifist
+13		Albert Valls		4:50		Max
+14		Albert Valls		3:19		Max
+14		Albert Valls		:53		Speed
+14		Albert Valls 		:33		Skill 1 speed
+15		Doug Merrill		25:03		Max
+16		N/A			N/A		N/A ***
+17		Doug Merrill		13:04		Max
+18		Ralf Schreivogel	5:12		Max
+19		Albert Valls		3:16		Max
+20		Brad Spencer		10:19		Max
+21		Wim Vanrie		19:33		Max
+22		Albert Valls		3:32		Max
+23		Yashar Garibzadeh	5:48		Max
+24		Wim Vanrie		9:07		Max
+24		Wim Vanrie		:13		Speed
+25		Yashar Garibzadeh	3:22		Max
+26		Mike Toliver		15:28		Max
+27		Wim Vanrie		7:21		Max
+28		Doug Merrill		10:39		Max '''
+29		Yashar Garibzadeh	22:51		Max
+29		Mike Toliver		53:21		Max
+30		Yashar Garibzadeh	4:14		Max
+30		Albert Valls		4:38		Max
+30		Doug Merrill		5:54		Max
+30		Brad Spencer		6:05		Max
+30		Albert Valls		:48		Speed
+31		Doug Merrill		23:22		Max """
+32		Mike Toliver		12:13		Max
+
+*** : Impossible to finish due to a bug
+''' : Only 99% kills possible
+""" : Practical impossible to get 100% kills
+
+-----------------------
+6. Comments about demos
+-----------------------
+
+Map 01 - Mike
+-------------
+
+Undoubtedly the easiest map of 10sector.wad, it is, nevertheless, fun to play and well-constructed.  I think any time below 0:30 is pretty good on this map.  Maybe a doomgod could get below 20 seconds....
+
+Map 02 - Ralf
+-------------
+
+You get the berserk pack right [actually left :)] at the start which makes
+up for the limited ammo supply. The map itself is visually not too
+appealing, maybe i just have seen one too many crate in FPS's. The monsters
+are set up as an interesting mixture, fun level to play.
+
+Map 03 - Wim
+------------
+
+Very fun map, the arch-vile can be a bitch but when you take 'em one by one
+it's no problem. Short and sweet.
+
+Map 04 - Wim
+------------
+
+Fun and easy map to finish. I skip as many monsters as possible 
+and finish them with the bigger weapons later.
+
+Map 05 - Arno
+-------------
+
+Nice little level, with very good ammo/monster balance.
+Racing through the first part saves quite some time,
+cause you can return with SSG and some monsters die from infighting.
+My goal was 2:29 here, so I'm satisfied with this 2:15.
+
+Map 06 - Yashar
+---------------
+
+I love the theme on this map, especially in the beginning. Good
+mixture of textures, which makes it fun to play, quite good use of only 10
+sectors, also it's got good gameplay. Not much to say about the demo itself,
+i spent a bit more then 1 hour i think trying to get a decent time.
+
+Map 07 - Albert
+---------------
+
+Good enemies-ammo balance here. But also plenty of room
+to move around. In other words, a tough run for an
+average speed-runner like me... :)
+Well, I tried to do my best here. And most of all,
+I got what I expected: a max demo under ten minutes.
+Btw, when it comes to 'conventional' playing (this is, no
+speed), this one is extraordinary fun as well.
+I chose a safe strategy at the double archie trap zone.
+For the rest of the map, I tried to take more risks...
+
+Map 08 - Albert
+---------------
+
+Too many cons in this map in order to get a max demo, although
+it keeps being quite intense. I had to avoid some straferunning
+here to make sure all the triggers worked the right way.
+Imo 100% kills ain't possible without some forced monster-fighting,
+specially at the red door zones.
+I was about to give up with this one... most of my tries ended at the
+exit area (this is, before completing the telefragging sequence, heh).
+Anyway, I'm very happy with the demo.
+
+Map 09 - Doug
+-------------
+
+A very easy map. TAS time could be 1/2 of this.
+
+Map 10 - Arno
+-------------
+
+Very hard level, unless you play very safe and slowly.
+There are a lot of unfair situations, where you can go from 100 to 0 health in 2
+seconds. It's a shame about the missed BFG shot in the exit, which costed about 5
+seconds. The rest of the demo went very well, so I kept this one.
+
+Map 11 - Wim
+------------
+
+Altough you'd think this map is pretty short, it took me a while to get
+under 7min. This was the first (and last :-) demo which  accomplished
+that mission. The cyberdemon at the end is pretty hard, but when you know how
+to dodge his rockets in small spaces, he's dead (loaded with lead :-) meat.
+
+Map 12 - Ralf
+-------------
+
+I love it. What the level lacks in architecture, which is quite basic but
+looks good, does it make up with interesting monster setup. And monsters
+they are, knights / barons / revenants by the dozen, one Cybie and the evil
+Archvile pair. Smaller monsters are a mere distraction :). Hardcore Doomers
+will go directly down to the yellow key pit, i have to kill the monsters
+above it first. There is only one safe spot in the map if you don't shoot
+rockets at nearby walls :). In advance of recording a bit target training on
+a Cybie would be a wise move... i ran out of rockets in the end. I liked
+getting SSG, blue armor and back pack right at the start so one can go
+berserk instantly :).
+
+Map 13 - Albert
+---------------
+
+It certainly can be done faster...and better.
+Very fun map to play.
+
+Map 14 - Albert
+---------------
+
+This run isn't as fast as the one I planned in my first tries. Simply
+because some extra routes and strategies are required to get a max
+demo. Otherwise some of the monsters (and some ammo too!) will never
+teleport.
+
+Map 15 - Doug
+-------------
+
+I recorded this and map31 the same night.
+I hadn't even tried it before that.
+The pace is slow, and I get caught in the exit area(which should be the secret exit, IMO -- opinionated fellow, aren't I).
+
+Map 17 - Doug
+-------------
+
+Ugh. Lack of ammo at start really hurts the 
+fun on this map.  Ebola playtest this thing?
+I only finished the map 3 times... so this is
+very carefully played.  Replaying it now just
+aggravates me.
+Also, it just happens that in this demo I have
+trouble with the Baron key.  It's not that 
+hard -- even for me.
+
+Map 18 - Ralf
+-------------
+
+A level not too cool from the looks but interesting architecture. Many
+thinking must have gone into monster placement which is superb... from the
+monsters point of view :). Until half through the map you are under fire all
+the time, where-ever you go you'll face some monsters and others will shoot
+at you from a distance. Easy mission when just playing with savegames but
+recording it all in one go was hell for me. The demo does look cowardly
+played, now go away :).
+
+Map 19 - Albert
+---------------
+
+I tried several strategies with this one. Not sure if it's optimal, but
+it's the most comfortable for me actually.
+One of my final choices was to clean up the Hell Knights zone before facing
+the three Mancubi (whom I must blame most of my frustrated tries on, btw).
+And then... the final open area (specially PE). Maybe I didn't play the map
+enough to find out which their usual movements are, but anyways their behaviour
+appears to be a bit unpredictable. Luckily I met them soon this time.
+Nothing special at the exit, but some possible monster-fighting.
+
+Map 20 - Brad
+-------------
+
+Map20 was pretty confusing, it all looks the same to me.  So I would pick
+random hallways to go down and stuff.  On my 2574108th try I actually picked
+all the right choices ;)  And you have that demo right here.  I don't think
+the time is bad, but could be much improved by someone with a better memory.
+
+Map 21 - Wim
+------------
+
+I'm sorry for the author, but this map was no fun at all. As you see in
+this demo, the elevators are really anoying some times. Also, i had to
+really study this map in my editor before i figured out which route to
+follow.
+
+Map 22 - Albert
+---------------
+
+This one may be my best demo of the package!
+Simply because the map itself is pretty addictive;
+I've been playing it for hours, searching for
+the best ways to save some seconds.
+And I still think it can be improved. My playing
+isn't quite flawless here. Besides, I triggered a
+switch twice (?).
+Anyway who cares? I'm so happy with this run!
+
+Map 23 - Yashar
+---------------
+
+Giddy up. The time could've been better but it takes too long, for
+me anyway, to come up with a better time.
+
+Map 24 - Wim
+------------
+
+Definitely one of the hardest levels in the wad. Mostly because
+of the low ammount of ammo. That's one of the reasons i let the
+monsters fight a bit. I'm glad i discovered how to keep that
+arch-vile from teleporting. Otherwise, he's a real pain in the ass.
+
+Map 25 - Yashar
+---------------
+
+Great use of 10 sectors, but the "textureing" could've been better.
+Weak gameplay, keep getting stuck everywhere. Would be more fun with regular
+doom2.exe. Decent demo in my opinion.
+
+Map 26 - Mike
+-------------
+
+Big, tough map.  I kept getting hung up on structures as I tried to dodge monsters; that can be frustrating, but it's an essential part of the gameplay of this map.  The ammo is also not overly abundant, so you've got to use your head to get through this.  Mr. Spider ALMOST got me (down to 1% health at the finist), but I had just enought time.
+
+Map 27 - Wim
+------------
+
+However the map looks pretty easy, it's quite difficult due
+to the small hallways, thousands of obstacles :-) etc. That's
+why i play more carefull than normal. 
+
+Map 28 - Doug
+-------------
+
+Not a fantastic run, but good enough I think.
+Btw, I had tried a speedrun MANY more times
+than the maxdemo -- just too hard to do the 
+redkey strafejump, then the archvile jump 
+without getting stuck on a monster in that 
+circle sector.
+
+Map 29 - Yashar
+---------------
+
+Giddy up! This is my top-3 maps in this megawad. Reminds be alot of
+Plutonia, which is the best, THE best, megawad ever made, and probably that
+would ever be made. The gameplay, monsters placement, the new look, giddy up:)
+Heh back to this map, it's too hard i think, at least with Boom. Anyway,
+nice gameplay and style. The demo itself is pretty slow though, but i tried
+the "fast-way" one/two weeks before the deadline, and i kept dying so i had
+to play the "careful-way", recorded a little after the deadline.
+
+Map 30 - Yashar
+---------------
+
+Another top-3 map, excellent theme and gameplay. Ok demo, the route
+i used here was "found" by the other team-members, not many short-cuts so it
+should be at least a bit difficult coming up with a better demo :)
+
+Map 31 - Doug
+-------------
+
+I recorded this and map15 the same night.
+I hadn't even tried it before that.
+I didn't know how to get to the secret exit... that is how little I tested the map.
+only 300/326 kills; very slow as well.
+
+Map 32 - Mike
+-------------
+
+A number of the team members (and some of the doomworld judges) didn't seem to like this map much, but I think it's a VERY creative use of the 10 sector limitation.  I really like playing this map, but I could see how someone who liked to have a map that's "fast" wouldn't like this one - too many nooks and crannies that need to be searched for enemies, and it's easy to miss somebody.  But that's one of the reasons I like it - you never know when somebody is going to sneak up on you and do a tap-dance on your head.  Good map!!
+
+---------
+7. Thanks
+---------
+
+- All the people working on this project
+- All the 10 sector contest participators,
+- Doomworld for the contest
+- ID for Doom 
+- TeamTnt for Boom. 
+- Martin, for the recording tool rec.bat we used
+- You, for watching
+

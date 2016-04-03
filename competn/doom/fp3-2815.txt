@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FP3-2815.TXT
+
+ FP3-2815.ZIP - Ultraviolence
+
+  FP3-2815.LMP - Episode 1, skill 4, 100% kills/secrets, -FAST monsters
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 3 - Inferno
+
+
+  Map:       Kills:  Secrets:   Time:  
+  -----------------------------------------
+  E3M1   -    100%    100%      | 1:32 |  
+  E3M2   -    100%    100%      | 3:09 |    
+  E3M3   -    100%    100%      | 2:41 |    
+  E3M4   -    100%    100%      | 6:19 |    
+  E3M5   -    100%    100%      | 5:00 |    
+  E3M6   -    100%    100%      | 3:40 |    
+  E3M9   -    100%    100%      | 2:56 |    
+  E3M7   -    100%    100%      | 2:58 |    
+  E3M8   -     ??%     ??%      [Excluded]  
+  -----------------------------------------
+  Total time:                    28:15  
+  -----------------------------------------
+
+  Description:
+
+  Some maps are tough due to furious Lost Souls, but
+  it was fun anyway.
+
+  
+     
+  Radek Pecka
+  r.master@email.cz

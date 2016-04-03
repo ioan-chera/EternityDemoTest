@@ -1,0 +1,17 @@
+This is a .LMP Entry for scythe2.wad
+
+S213R324.TXT
+
+ S213R324.ZIP
+
+  S213R324.LMP - UV Max/Reality
+
+  Recorded using GlBoom+ 2.5.1.3
+  
+  Kills    105%
+  Items      8%          
+  Secrets  100%  and Time  3:24
+                        
+  Gets real tricky on the slaughter part to get this on Reality.
+
+  Rizera

@@ -1,0 +1,15 @@
+10 Sectors - Map29 UV-Max in 13:20
+
+Author: Veinen
+Pwad: 10sector.wad
+Pwad name: 10 Sectors
+Port: GlBoom 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: A very scrappy demo but whatever. The archie at 8:30 or so really surprised me,
+	  that doesn't happen very often. Had a thousand and one exits where all the
+	  monsters wouldn't teleport in or some other stupid shit happens which is just great. 
+	  11:xx should be possible with this route and more aggressive playing but my
+	  patience has reached it's limits for now. But it's a fun map to play though so
+	  perhaps I'll have another go at it someday.

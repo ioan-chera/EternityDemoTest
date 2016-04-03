@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:       10sector.wad
+Maps:       27
+Skill:      nomonsters 
+Category:   speed
+Exe:        prboom-plus.exe -complevel 9
+
+Time:       0:53
+
+Author:     Light_Speed (aka odysseyofnoises)
+Email:      cubecat589@gmail.com
+HP:	    http://youtube.com/odysseyofnoises/

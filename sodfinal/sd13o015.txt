@@ -1,0 +1,15 @@
+          Speed of Doom
+      Map 13: Lucifer's Tears
+        Map Author: Joshy
+----------------------------------
+          sd13o015.lmp
+
+Nomo in 0:15.77
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Blue keygrab is occasionally instant, so I think 14 is possible.

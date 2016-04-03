@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      1994tu.wad
+Pwad name: 1994 Tune-up Community Project
+Map:       29
+Skill:     4
+Category:  Pacifist
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+Time:      1:08
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Redone again.
+           Sorry for terrible monsters avoiding,
+           all smooth runs was ended with non-cooperating av.

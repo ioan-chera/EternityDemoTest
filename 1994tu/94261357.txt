@@ -1,0 +1,37 @@
+________________________________________________________________________________
+
+Pwad:       1994 Tune-up Community Project
+Maps:       MAP26
+Skill:      4
+Category:   UV Max
+Exe:        PrBoom+ 2.5.1.3
+            -complevel 9
+            -deh notransl.deh (non-translucent projectiles & power-ups)
+
+My recording command line:
+prboom-plus -file 1994tu -deh notransl.deh -complevel 9 -skill 4 -warp 26 -record xxxxxxxx
+
+Playback (brackets [] = optional):
+prboom-plus -file 1994tu [-deh notransl.deh] -playdemo 94261357
+
+________________________________________________________________________________
+
+Kills:  106%
+Items:   77%
+Secret: 100%
+        _____
+       /     \
+Time:  |13:57|
+       \_____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+From the author of Wolfenstein Bot we got a level which cannot be described 
+by any measure as pretty. Does it play well? Initially, yes. It is very
+challenging. Alas, no wonder this demo is the first, FDAs excluded:
+too much monster density for UV Speed, too random for UV Max.

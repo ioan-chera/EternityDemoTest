@@ -1,0 +1,23 @@
+Doomed Speed Demos Archive
+Opulent Homepage
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      10sector.wad
+Map:       23
+Category:  UV Max Demo
+Exe:       Doom2.exe with Boom v2.02
+
+Time:      15:04
+
+Comments:  This one was a huge challenge...
+	   Don't miss Yashar's run. 1/3 of my time!
+	   Although... this is the first 10s map 23 demo ever done! Hehe
+
+Credits:   Doug Merrill
+	   Yashar Garibzadeh
+	   Wim Vanrie and the rest of the 10s max demo package team.
+
+Author:    Albert Valls
+Adress:    vrmr@wanadoo.es
+HP:	   http://www.newdoom.com/cyberdreams/
+

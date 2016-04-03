@@ -1,0 +1,22 @@
+Doomed Speed Demos Archive
+Opulent Homepage
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      10sector.wad
+Map:       04
+Category:  UV Max Demo
+Exe:       Doom2.exe with Boom v2.02
+
+Time:      2:04
+
+Comments:  Could have probably been under two minutes; but
+	   the more I tried to improve this time, the more the
+	   monsters got on my way (specially after picking up
+	   the backpack). So I gave up after some dozens of tries.
+
+Credits:   Author of the map.
+
+Author:    Albert Valls
+Adress:    vrmr@wanadoo.es
+HP:	   http://www.newdoom.com/cyberdreams/
+

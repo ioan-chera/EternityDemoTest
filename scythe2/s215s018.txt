@@ -1,0 +1,22 @@
+WAD: Scythe 2
+MAP: MAP15: End of the Line
+Time: 0:18.91
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: July 7, 2014
+
+When doing the jump onto the crates, it's easy to not make it at all, or get stuck on the window in the process, screwing up the run. It's rather annoying. Also, it's quite
+easy to fail to press the switch which opens the secret exit when running by it - also annoying.
+
+Despite this, I still think the map is fun for a speedrun... at least enough that I didn't mind wasting almost 4 hours to get this (broken up over 2 days, but still).
+
+18 was quite difficult to get. Here, my running before the YK jump was pretty good, the jump went excellent (it's easy to get caught on the pole after jumping and lose a
+lot of time, but I was able to get away from the pole and straight to the door faster than usual this time), the switch pressing and passing went great, and I made no
+major errors on the way to the secret exit. I've included a 19.00 demo and a 19.06 demo because they both greatly motivated me to keep playing for 18.
+
+This is SR40 only, and I think 18s is optimal (at least to the second, probably not to the tic) with SR40 only. As always, I'm sure 17 is possible with the inclusion of
+SR50 and few if any mistakes in said run. As for now, I'm just happy to get 18 without using SR50 at all.
+
+Enjoy!
+
+--Doomdaniel95

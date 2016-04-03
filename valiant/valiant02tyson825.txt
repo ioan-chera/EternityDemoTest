@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	VALIANT.WAD
+Pwad name: Valiant
+Maps:	02
+Skill:	4
+Category:	Tyson
+Exe:      	PRboom+ 2.5.1.4 cl11
+	with advanced HUD
+-------------------------------------------
+Time:     	8:25
+-------------------------------------------
+Comments:  
+MAP02 is really difficult, just like the first map, but in different ways. Most of this map's difficulty is spread thin across the beginning, the middle with the horde of enemies, and the end. My skills with mancubus punching are getting much better lately, though, so that's good! 
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

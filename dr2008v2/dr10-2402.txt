@@ -1,0 +1,12 @@
+Pwad: dr2008v2
+Pwad name: Dark Resolution 2008
+Map:      10
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      24:02
+
+-complevel 9
+
+Author:	   j4rio
+

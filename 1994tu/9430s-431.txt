@@ -1,0 +1,13 @@
+Pwad: 1994 tune up
+wad: 1994tu.wad
+Map:      30
+Skill:     5
+Category:  NM100
+Exe:       PRBoom+ v2.5.1.3
+Time:      4:31
+
+Author:	   Ancalagon   
+
+complevel 9
+
+

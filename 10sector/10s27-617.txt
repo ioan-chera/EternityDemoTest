@@ -1,0 +1,12 @@
+10 Sectors - Map27 UV-Max in 6:17
+
+Author: Veinen
+Pwad: 10sector.wad
+Pwad name: 10 Sectors
+Port: GlBoom 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: Don't know why I even continued after such a brutal start but glad I did, I guess.
+	  I feel like I could do 10-15 secs faster than this but this is really not a very
+	  enjoyable map to speedrun so...

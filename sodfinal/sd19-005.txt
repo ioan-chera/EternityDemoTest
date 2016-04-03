@@ -1,0 +1,9 @@
+SODFinal.wad
+prboom-plus 2.5.0.9
+-complevel 2
+July, 3 2013
+
+map 19 Uv-speed in 0:05
+
+-Hock
+

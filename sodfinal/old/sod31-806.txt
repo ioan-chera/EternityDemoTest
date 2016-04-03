@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: 		Speed of Doom
+Pwad name: 	SOD.wad
+Maps: 		31
+Skill: 		4
+Category: 	UV-Max 
+Exe: 		PrBoom+ 2.5.0.6 -complevel 9
+
+Time: 		8:06
+
+Author: 	Okuplok
+Email: 		Okuplok90@live.co.uk

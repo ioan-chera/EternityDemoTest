@@ -1,0 +1,24 @@
+             Valiant
+      Map 01: Bad Reception
+      WAD Author: Skillsaw
+------------------------------------
+           va01x025.lmp
+
+UV-Speed in 0:25.89
+
+    Kills   - 12%
+    Items   - 2%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 11
+
+Tools used: permanent sr50, sr50 on turns,
+segmenting, 45% slow motion recording
+
+THIS IS A TOOLS-ASSISTED DEMO
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Credits to Looper for the door activation/rocket strat at the end (that was a suggestion for non-TAS UV-Speed that I implemented into this TAS). Lots of minor optimizations and some new strats.

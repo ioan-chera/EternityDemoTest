@@ -1,0 +1,10 @@
+Pwad: vanguard
+Map:      1
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.3
+Time:      0:51
+
+-complevel 9
+
+Author:	   j4rio

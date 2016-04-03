@@ -1,0 +1,32 @@
+Pwad:      Dark Resolution 2008
+Pwad name: DR2008V2.wad
+Map:       06 - Hellstorm Workshop
+Skill:     4
+Category:  UV Max
+Exe:       GLBoom+ v2.5.1.3 -complevel 9
+
+Kills:     109%
+Items:      70%
+Secrets:   100%
+
+Time:      6:57
+
+Comments: NOTE - A lone imp fails to spawn in (Thing 242 in Sector 1271) it skips the teleporter linedef and is marked as deaf, I've played the map several times but to no avail. You can confirm it by viewing the sector in free roaming camera mode after the trap is triggered (Hit 0 twice in the bottom right corner of your keyboard to trigger)
+
+A cool compilation of 11 community made maps back from 2008, moderate in difficulty, pleasing in detail, it's just a good solid blast all around, but I suppose most of the wad's attention is garnered by the last two maps :P
+
+An interesting obsidian tech base with a fusion of slick Quake 2 esque textures coupled with the aforementioned ambush teleporter traps in confined spaces by none other then the sadistic Death-Destiny, goody. That being said the difficulty is moderate at best, most encounters consist of lower tier enemies in small groups with a fair amount of cover and health to avoid being pummeled to a pulp in contrast to other maps by the same author. The gameplay is rambo esque moving from room to room mowing down everything which moves, always being cautious for the innumerable amount of traps which can spring at any moment. 
+
+What raises the difficulty scale without utilizing unfair encounters is the ingenious placement of the SSG, you only acquire it 3/4 through the level after obtaining the RK allowing for more intuitive gameplay as you have to rely on infighting and carefully placed shots otherwise. That being said shells are in abundant supply, you have to use the Chaingun sparingly as it wears out soon enough, it's best use is in the outside area to cleanse through zombies and imps quickly to prevent reducing the pace and wasting time while making your way up and over the neatly designed 3D Bridge.
+
+The AV spawn just before the lift up can be a bitch if that Revenant decides to stick near the pillar before collapsing, otherwise their's a high risk of a revival and precious lost seconds, I didn't use the Berserk due to the danger of the Chaingunner and I use too sloppy to use it so closely while worrying about the Rev corpse.
+
+The red key area is a bitch to handle, you can die easily due to being swarmed and if the everything decides to go trigger happy, I typically try to use the duo Revenants to hit the Cacoes to cause infighting and take off the pressure from being cornered, unfortunately they failed to cooperate here, but fortunately everything took a hefty amount of damage so cleaning up afterwards was relatively quick. Afterwards it's best to unleash the last trap consisting of two cybers and a main armada, then backtracking to the YK area to clean up the trap much faster with the SSG.
+
+It's a matter of luck if one cyber bites the dust after returning saving time, and triggering the 3 AV's in the exit quickly so the crossfire of rockets can decimate their attempt to revive the armada. Here everything was mostly dead and one Cyber was weakened considerably so I'm not complaining much.
+
+Under 7 minutes was the target, with more smoother gameplay, aggression and perhaps luck with some infights 6:4x or even 6:3x should be in reach. 
+
+Author: Bloodite Krypto
+
+30.01.15

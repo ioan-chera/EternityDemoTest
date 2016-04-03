@@ -1,0 +1,33 @@
+Speed of Doom
+
+  Map 28 - Twilight Massacre
+
+  NM-Speed TAS
+
+  Kills:   66%
+
+  Items:   40%
+
+  Secrets:  0%
+
+  Time:  * 1:56.97 *
+
+ Recorded using: GLBoom-Plus 2.5.0.6 beta
+                 XRDE 2.06
+                             -complevel 9
+ SR50 is always on.
+
+
+ This run is a request from Azuruish.
+
+ The two towers were the hardest parts. I wasn't sure whether
+ those tricks were possible. In the yellow skull tower not only
+ you must stay alive yourself and preserve some hp for the jump,
+ but also keep AV ticking as well. And you gotta do it fast. There
+ were attempts where AV died from only one pistol shot! In the
+ second (final) tower the problem was to catch 2 AV at the same
+ time and lower the platform while keeping AV's attention. That
+ was quite a challenge. Enjoy!
+
+Done by Maxim "Akse" Abreev
+ 31 aug 2015

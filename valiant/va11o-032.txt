@@ -1,0 +1,16 @@
+	  	  Valiant
+	Map 11 - Yesterday's Insanity
+
+	Pwad:      	valiant.wad
+	Map:       	11
+	Skill:     	4
+	Category:  	Nomonsters 
+	Source port:    prboom-plus 2.5.1.4
+	   		-complevel 11
+
+	Time:      	0:32
+
+	Author: 	Noobest
+
+Comments: Pretty simple, only slightly tricky thing is getting the button press at yellow key. Got a ton of 0:33s
+	  before getting this. Seeing as it's .37, I'd say 31 is definitely doable, but I'll leave that to someone else.

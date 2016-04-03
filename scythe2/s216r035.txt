@@ -1,0 +1,47 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe 2 (version 2)
+Pwad name: scythe2.wad
+Maps:      16
+Skill:     4
+Category:  UV -respawn
+Exe:       glboom-plus v2.5.0.3
+
+Doom2 -file scythe2.wad -playdemo with Version 1.9
+
+Scythe 2 - Level 16 - Mr. X
+      
+Kills      115%
+Items       54%
+Secrets    100%
+
+              ********
+  and Time -  * 0:35 *
+              ********
+
+Author:    Casey "Altima Mantoid" Alvis
+Email:     altimamantoid@gmail.com
+
+
+Comments:
+
+That first switch can go fuck itself. That light you shoot
+for the first secret can go fuck itself. That jump to the
+third secret can go fuck itself. If it weren't for those
+3 things, I wouldn't have had to restart like 100 damn
+times just for this exit because I missed or it felt
+incredibly sloppy/slow.
+
+I knew I could get 0:35 so I wasn't gonna stop just because
+an exit of 0:36.06 happened. That was the motivation to get
+this time.
+
+Don't even bother with the Evil Doomguy, the crushing
+ceilings do all the work for you, meaning you don't have to
+directly hurt any enemy in the map. Which makes me wonder,
+does this also classify as a Pacifist run?
+
+
+
+April 13th, 2013

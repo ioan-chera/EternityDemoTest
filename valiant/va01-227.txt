@@ -1,0 +1,11 @@
+=--------------------------------------------------=
+Valiant - MAP01 UV-Max in 2:27
+
+=--------------------------------------------------=
+
+Author: Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus 2.5.1.34
+Pwad: valiant.wad
+email: nevan@live.co.uk
+=--------------------------------------------------=

@@ -1,0 +1,31 @@
+________________________________________________________________________________
+
+Pwad:       10 Sectors
+Pwad name:  10sector.wad
+Author:     Various
+Maps:       12 (A Place of Warship by Kurt Kesler)
+Skill:      4
+Category:   UV Max
+Exe:        PrBoom+ 2.5.1.3
+            -complevel 9
+________________________________________________________________________________
+
+Kills:  102%
+Items:  100%
+Secret: 100% (that is, 0 out of 0)
+        ____
+       /    \
+Time:  |2:15|
+       \____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+OK, I admit this is a very good level, but it would be better if torches
+were placed in insets of some sorts...
+
+________________________________________________________________________________

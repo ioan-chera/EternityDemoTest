@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      valiant.wad
+Maps:      Map03
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus 2.5.1.4 -complevel 11
+
+Time:      0:15
+
+Author:    Krankdud
+
+Comments:
+Felt kinda sloppy, but hey it's a 15. I was originally going to do this
+pacifist, but it didn't feel worth the effort for what was essentially
+the same run.
+
+I don't have an attempt count for this unfortunately. There was a bug
+in my batch file so it didn't save all the demos.

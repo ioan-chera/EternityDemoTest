@@ -1,0 +1,11 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+Pwad:      10sector.wad
+Map:       01
+Skill:     NM -5-
+Time:      18 
+Type:      NM Speed 
+Author:    Siprem
+Port:      PrBoom+

@@ -1,0 +1,12 @@
+=-----------------------------------------------------=
+Speed of Doom - Dead Echo (Map22) - UV-Max 6:37
+
+
+=-----------------------------------------------------=
+
+Author: Nevan/Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus 2.5.1.3
+Pwad: sodfinal.wad
+
+=-----------------------------------------------------=

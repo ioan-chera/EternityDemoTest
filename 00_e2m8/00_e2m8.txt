@@ -1,0 +1,27 @@
+----------------------ÅÄÄÄWAD DescriptionÄÄÄÅ-----------------------
+I thought TOJ_15B was rum until I played this.  My first original 
+level, and it is something of a stinker.  But it barely lasts two
+minutes, so you don't have to suffer too much.  It's quite hard, tho
+----------------------ÅÄÄÄWAD InformationÄÄÄÅ-----------------------
+Name:           00_e2m8.wad
+Game:           Ultimate Doom 1.9
+Maps Replaced:  e2m8
+Authors:        S. 'Metabolist' Woodman (I deny it!)
+Email Address:  sewoodman@talk21.com (I deny it!)
+Demo Recording: ---------------------------
+New Graphics:   none
+New Sounds:     none
+New Music:      none
+New Demos:      none
+Known Bugs:     perhaps
+Unknown Bugs:   perhaps
+Build Time:     unknown
+Tools Used:     DEEP 6.25
+----------------------ÅÄÄÄWhere To Find ItÄÄÄÅ----------------------
+At the central Homepage:
+   http://www.doomworld.com/metabolist
+Or at the Walnut Creek Archive:
+   ftp://ftp.cdrom.com/pub/idgames/levels/doom2/s-u/
+
+It really beats me why you'd want to get it though. 
+---------------------------ÅÄÄÄE.O.F.ÄÄÄÅ---------------------------

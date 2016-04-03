@@ -1,0 +1,39 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe 2 (version 2)
+Pwad name: scythe2.wad
+Maps:      16
+Skill:     5
+Category:  NM100S
+Exe:       glboom-plus v2.5.0.3
+
+Doom2 -file scythe2.wad -playdemo with Version 1.9
+
+Scythe 2 - Level 16 - Mr. X
+      
+Kills      115%
+Items       45%
+Secrets    100%
+
+              ********
+  and Time -  * 0:34 *
+              ********
+
+Author:    Casey "Altima Mantoid" Alvis
+Email:     altimamantoid@gmail.com
+
+
+Comments:
+
+Uh... well um... I guess I skipped getting 0:35 and
+went straight to 0:34. Not sure how much lower this
+can go... The full time is 0:34.91 so if this can
+get to 0:33 I think it'd be optimal.
+
+Also, the UV -respawn time should be able to match
+whatever the optimal time here is. I just didn't
+expect to get 34.
+
+
+April 13th, 2013

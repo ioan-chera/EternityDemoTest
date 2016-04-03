@@ -1,0 +1,1432 @@
+===========================================================================
+Title                   : 10 Sectors
+Filename                : 10sector.wad
+Release date            : November 20, 2000
+Author                  : Various
+
+Description             : From mid-August to mid-September, Doomworld.com
+                        : held a contest with a simple premise: design the
+                        : best Boom level you can with only 10 sectors.
+                        : This is the result.
+                       
+Additional Credits to   : The over one hundred people who entered this
+                        : contest and made it as cool as it was.  Andrew 
+                        : Bassett, Matthew Dixon, Martin Friberg, and
+                        : Gaston Lahaut for judging.  Andrew Stine for
+                        : organizing and running the contest.  The authors
+                        : of all the countless utilities used in the
+                        : creation of the levels.  The Unreal Tournament 5
+                        : Cubes contest for providing the idea.
+                        : Telefragged.com for the first prize of a Voodoo
+                        : 5 5500 AGP.  Fanatic for some free CDs.  id
+                        : Software for Doom.
+
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos Replaced          : No
+Other                   : No
+Other files required    : Boom-compatible source port
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : Map01 - Map32
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other Game Styles       : No
+Difficulty Settings     : Some
+
+Gameplay Note           : Each of the 32 levels in this megawad was
+                        : designed to be played from scratch, i.e. 
+                        : 100% health, 0% armor, a pistol and 50 bullets.
+                        : Playing the "normal" way from level to level 
+                        : may cause later levels to become too easy as
+                        : the player brings in more weapons and ammunition
+                        : than the level was designed around.  For the 
+                        : best gameplay experience, start each level from 
+                        : scratch as you reach it, via either IDCLEV or
+                        : committing suicide.
+
+* Construction *
+
+Base                    : From scratch
+Build Time              : One month
+Editor(s) used          : Various
+
+Known Bugs              : Due to the trickery used to make a mere 10 
+                        : sectors feel like many more, many of the levels
+                        : are impossible to play in co-op or deathmatch
+                        : mode.  Map16, Map25 and possibly others may crash
+                        : certain machines or configurations.  Some 
+                        : levels may be able to be forced into an 
+                        : unbeatable state, necessitating a fresh start
+                        : or savegame reload.
+
+Will Not Run With...    : ZDoom, any non-Boom-compatible port
+
+===========================================================================
+* The Levels *
+===========================================================================
+
+ ---------
+ * MAP01 *
+ ---------
+
+  Title       : KUKLOPPE
+  Author      : Tobias Forsberg
+  E-mail      : familjen.forsberg@krokom.mail.telia.com
+
+  Description : When I first saw the contest on doomworld.com I thought: 
+              : Naah...I'm too damn lazy, but when you said that all levels
+              : you've got was crap I decided to make one anyway. So...it 
+              : took me about one hour to make it.
+              : If you've seen my Ropy.wad series then you can see that I 
+              : really like brick9.
+
+  Bassett     : Hey, this level looks great! Lots of little details. On the
+              : walls, mostly. Still, very short. But what are you going to
+              : do? It seems to be either looks or length. A little more 
+              : length, and this level coulda been a contender.
+
+  Friberg     : This is the most detailed map so far and I really liked its
+              : looks.  But, it was too tight to play fluently and it was 
+              : extremely short.	
+
+===========================================================================
+ ---------
+ * MAP02 *
+ ---------
+
+  Title       : HANGAR
+  Author      : Øystein Langhelle
+  E-mail      : t-langh@online.no
+
+  Description : I visit Doomworld.com every day and when I saw the contest,
+              : I thought I`ll just try and see what I could do against all
+              : the levelmakers in the community.  First I sat down and 
+              : thought through what makes a good level (in my opinion), 
+              : and started the work. At first I didn`t know what to do, 
+              : but then I heard "Hangar 18" with Megadeth. And tried to 
+              : make something similar to that facility. I used my favorite
+              : theme, Tech-theme, and tried to capture the good old DooM 
+              : II feeling. As you possible will see/have seen I`ve also 
+              : been inspired by both Quake II and Darkening II.
+
+  Bassett     : I like this level. Very creative use of ten sectors. Still,
+              : rather short, with only one key being used. It does look 
+              : mostly the same. Again, it looks nice, but plays not all 
+              : that well.
+
+  Friberg     : This is the most detailed map so far and I really liked its
+              : looks.  But, it was too tight to play fluently and it was 
+              : extremely short.
+
+===========================================================================
+ ---------
+ * MAP03 *
+ ---------
+
+  Title       : ASTRAL DEFORMITY
+  Author      : Kristian Aro
+  E-mail      : doomed_krise@hotmail.com
+
+  Description : When I first saw at DW that there was going to be a contest
+              : of what you can come up with 10 sectors or less I decided 
+              : that I had to take part. I didn't really care if I'd win or
+              : not. That evening I was just sitting on my bed and listened
+              : to Goa-Trance. It was during the time I listened to 
+              : Hallucinogen's track called L.S.D when it came in my head 
+              : like at the speed of a lightning. I had it all in my mind, 
+              : the theme of the level, which monsters I was going to use 
+              : in the level and how to make good use of the 10 sectors. I 
+              : think the result of what I did came up quite good, since 
+              : the level made it to this a-must-have-megawad. I tried to 
+              : make the level have a claustrophobic feel. And I think I 
+              : succeeded in doing that since the level is so small. But 
+              : anyway, have fun playing!
+
+  Bassett     : Well, this is also a nice level. Lots of detail, lots of 
+              : decorations, although the general feel of the level stays
+              : consistent. Yes, it's pretty good.
+
+  Dixon:      : Constructed in the familiar brick-metal motif, this map is
+              : a compact unit of pure pleasure. Well textured and built,
+              : this map provides a challenge in single-player, and the
+              : author even went so far as to implement full deathmatch
+              : support! Point of interest: this map runs flawlessly
+              : beneath DOOM2.EXE, something few of the other maps enters
+              : into this competition can boast. All the detail and
+              : difficulty of a regular DOOM2 map, compressed into a 
+              : well-used and beautifully built ten sectors.  Essential, 
+              : and classic.
+
+  Friberg     : This was a good one: nice texture schemes and a pretty good
+              : layout.  Traps were easy though, you knew what was coming
+              : and where to go next.
+
+===========================================================================
+ ---------
+ * MAP04 *
+ ---------
+
+  Title       : 60 FEET UNDER
+  Author      : Cephaler
+  E-mail      : doctabeelo@yahoo.com
+
+  Description : This was my 4th design that I sketched up a day after the 
+              : announcement of the contest. By then, I had already made my
+              : first 10 sector level and submitted it. From the beginning,
+              : I had planned this level to be somewhat dark, windy, and at
+              : times cramped to keep the player on their toes and not 
+              : notice the inherent lack of detail in these levels. I tried
+              : to utilize the monsters in a way that would put the player
+              : in different situations at certain points in the map. The 
+              : fact that this map is based on corridors gave me many 
+              : opportunities to restrict the player and force him/her to 
+              : fight, whether by ambush or....otherwise :) This map was 
+              : submitted on the 23rd of August, ~10pm--Just to make my 
+              : point, that Deth is quite capable of producing good levels
+              : _FAST_.
+
+  Bassett     : Wow. Not only does this level look great, it plays great. I
+              : still can't believe it's only ten sectors. Great ammo and
+              : health balance, great use of monsters and lowering walls.
+              : Very, very nice.
+
+  Dixon:      : This map, which reminds me of my own Gothic2 MAP08, takes
+              : full-advantage of the unlimited visplanes that TeamTNT's 
+              : BOOM engine offers, dazzling the player with small-scale
+              : high-detail architecture. Solid texturing, solid gameplay,
+              : and attractive to the eye, this level won a spot in my Top
+              : 10 list the moment I lay eyes on it.
+
+  Friberg     : This is definately the best one yet! I have been waiting 
+              : for quality maps like this one. It really feels and looks 
+              : like a map built year 2000, while many of the other ones 
+              : feel pretty much like they were built in 1994/96. The 
+              : awesome metal theme is used very well from beginning to end
+              : in this map. There is some lack of variety, but I won't be
+              : judging it too hard here. The non-linearity is better than
+              : the rest and so is the architecture and design. I think the 
+              : action all took place in the same level (ie 0) and to make
+              : it perfect the author should have used a few ups and downs.
+              : At least use the ceiling height a bit better. And there is
+              : no need for any extra ammo or rocket-launcher in the end. A 
+              : few too many +25 health boxes in there too.  But just so 
+              : sweet!
+
+  Lahaut      : Great level. Dark, smooth lighting; great textures, detail.
+              : Lotsa trapwalls, but that's OK.
+
+===========================================================================
+ ---------
+ * MAP05 *
+ ---------
+
+  Title       : INTO THE FRAY
+  Author      : Cephaler
+  E-mail      : doctabeelo@yahoo.com
+
+  Description : This was my 2nd design I made the day of the announcement.
+              : It was originally intended as the first of a set of three 
+              : levels, this one leading into an ancient site, (which isn't
+              : surprisingly marble-based..) which in turn leads to a dark
+              : lab-type level, which ended up becoming "60 Feet Under". 
+              : As this level was intended to be the first level in a set,
+              : the layout lended itself to weaker enemies, but realizing 
+              : that I blazed through this level in under 2 minutes, I hung
+              : it up and began and completed work on 60 Feet Under. When 
+              : I got to work on this level once again, I extended the 
+              : outside area (actually I __added__ the outside area--this 
+              : map was completely indoors at first) and applied the new 
+              : tricks I learned from making 60ft under and came out w/ 
+              : what I think is a nicely detailed and populated level. I 
+              : submitted this one September 1. Again, Deth--ph33r
+
+  Bassett     : Now here's a level that looks nice and plays nice. There 
+              : aren't any dramatic shifts of textures all over the place.
+              : Simply subtle lighting effects, and all-around niceness.. 
+              : It's not too hard to get 100/100, either. Although there is
+              : an unaccessible area with monsters. Still, really good.
+
+  Friberg     : Wow I really liked this one. Pretty simple in layout but 
+              : you had to watch your back all the time. The ammo count
+              : even dropped down to a dangerously low level sometimes.. 
+              : Rare. *****
+
+  Lahaut      : Very nice midbar corridor/outdoor style level.  Good!
+
+===========================================================================
+ ---------
+ * MAP06 *
+ ---------
+
+  Title       : PAIN MANOR
+  Author      : Arno Ansems
+  E-mail      : aansems@hotmail.com
+
+  Description : I used to make some DOOM maps about four years ago, before
+              : I even knew about the internet. Today I build maps for 
+              : Quake II. The ten sector contest at DoomWorld.com got my 
+              : attention, since I remembered how much fun it was to make 
+              : maps for DOOM. The editing is relatively easy because of 
+              : the Z-axis restriction, and the the maps still look 
+              : visually impressive with JDoom or ZDoom.
+              : Before I even started WadAuthor, I first sketched the 
+              : entrance of the map on paper, so I knew where to start. 
+              : And I determined in advance the  purpose of the ten 
+              : different sectors : three sectors for outdoor sections, 
+              : with various floor heights for walls and mountains; 
+              : one sector for hallways; one sector for doorways and 
+              : girders; one sector for windows; three sectors for stairs 
+              : and furniture and one sector for the blue door. Notice that
+              : for most sectors I had multiple purposes in mind. I used 
+              : nine sectors in the first two rooms, but that wasn't really
+              : a problem, since I could reuse them everywhere. And I'm 
+              : very satisfied with the result. The map looks very 
+              : Quake-alike with the medieval theme and all the brown 
+              : textures.
+
+  Bassett     : Wow! I'm almost stunned! This level shows great quality. 
+              : The theme is consistent, but still, VERY impressive use of
+              : ten sectors. There's even stairs in this level! It doesn't
+              : take too long to finish, but it's still of good quality.
+              : Really quite impressive.
+
+===========================================================================
+ ---------
+ * MAP07 *
+ ---------
+
+  Title       : DEATH VALLEY FORTRESS
+  Author      : Kurt Kesler
+  E-mail      : kesler@fidnet.com
+
+  Description : Death Valley Fortress was my most common choice of motif's,
+              : and I think I simply make better "base style" maps for 
+              : Doom. I also think the base style is the best choice for 
+              : Doom maps in general.
+              : I build for the fun of building....first it was Lego's and
+              : Erector sets, now it's maps and textures :-)
+
+  Bassett     : Amazing! I cannot believe this is only ten sectors. Great
+              : challenge, great level design, and it looks great, too.
+              : Simply amazing.
+
+  Dixon:      : Those familiar with Iikka Keranen's levels in Requiem, a
+              : thirty-two level replacement set for DOOM2, will be able to
+              : draw immediate parrallels between Keranen's efforts on
+              : MAP13 and MAP22 of Requiem and this level. This map,
+              : sprawling and immense, provides the player with non-linear
+              : gameplay set amidst blocks of stone and buildings. This map
+              : is highly enjoyable, and very pleasing to the eye.
+
+  Friberg     : Is this possibly the winner? My number one fav so far.. How
+              : can one construct such a masterpiece with a 10 sector
+              : limit? Could this be by Kurt Kesler? It is definitely
+              : inspired by his work.
+
+===========================================================================
+ ---------
+ * MAP08 *
+ ---------
+
+  Title       : FRENZY
+  Author      : Gonzalo Perez de la Ossa
+  E-mail      : 6420thi@comb.es
+
+  Description : This was my first thought when I heard about the contest; 
+              : 'What's the limitation? 10 Sectors only. Right, then I'm 
+              : gonna design a map that looks like many more than 10. And 
+              : I'll try to make it evident and as spectacular as I can'. 
+              : So I focused on creating different zones that look 
+              : completely different in heights, something I've done 
+              : through a lot of sector moving. Judge for yourself!
+              : Due to the lack of time (I had to finish the level in a 
+              : hurry, the last day), there are some alignment errors 
+              : (which I wouldn't have made under normal conditions), no 
+              : difficulty settings, no DM starts, and the possibility of 
+              : unexpected level behaviour (don't get surprised if that 
+              : happens, and please let me know!). Anyway, my goal was to 
+              : simulate more than 10 sectors, and I know you'll forgive 
+              : these small inconveniences.
+              : One final word, the first and last rooms are based on 
+              : CyberDreams, and I'd like to dedicate them to my friend and
+              : co-founder of Presage, Albert.
+
+  Bassett     : Hey! Another great level! This one should be in the
+              : megawad. Great design, great look. Lots of imaginitivity.
+              : Especially in the last area with the three cyberdemons.
+              : Definitely one of my top picks!
+
+  Friberg     : Wooa! Innovative I must say. A bit uneven in it's gameplay
+              : but I loved every second of it. The end sequence is
+              : possible in a few different ways as well. Top 10 so far.
+
+  Lahaut      : Technically well done, but not really fun for me.
+
+===========================================================================
+ ---------
+ * MAP09 *
+ ---------
+
+  Title       : UAC BASE
+  Author      : Kinkajoy
+  E-mail      : kinkajou02@yahoo.com
+
+  Description : A lot of people are probably wondering what the hell I was
+              : thinking when I made the room which I'm going to 
+              : arbitrarily call "The MIDSPACE Room."  Basically, at first
+              : I wanted a room with some kind of monster (I decided to 
+              : make it a baron of hell) inside a cage.  But I figured if 
+              : it was just one monster and nothing else, people would skip
+              : it and not kill the monster (I don't know why, but at the 
+              : time it felt like an important thing that the player must 
+              : do.)  So I decided to add a bunch of twists and turns, and
+              : things to slow the player down.  At first, I filled the 
+              : room with imps, but that ended up being really hard and 
+              : chaotic, so I made it so that the imps only appear in UV 
+              : mode, and otherwise there are barrels scattered about.  
+              : That room is probably the most changed room of the level.
+              : And the reason there are only 9 sectors in the level isn't
+              : (entirely) because I was trying to make a statement that 10
+              : sectors are not necessary; I just didn't have a need for a
+              : 10th.  It works fine as it is, so I figured "Why mess with
+              : it?"
+
+
+  Bassett     : Very impressive! I had no idea it was possible to take 13 
+              : minutes to finish a ten-sector level. I even got lost a
+              : couple of times! It all looks mostly the same, but the
+              : playability is beyond my expectations. I don't see how this
+                could not be one of my top picks.
+
+  Friberg     : The biggest map so far, and I must say that I am impressed
+              : that it only took 10 sectors! But then I must right away
+              : ask why the author didn't use a little bit of texture
+              : change in, for example, the maze/corridor with flashing
+              : light (which btw were all too dark).  They all used the
+              : same tech-scheme... Irritating. Some very good fights 
+              : though. The ones worth mentioning are the first baron of
+              : hell encounter where you have to fight through the fence.
+              : But since it was so hard to manoeuver it took away some of
+              : the joy. The 2nd really good fight, was the one over by the
+              : yellow key. It reminded me a lot of Chord_ng by Malcolm
+              : Sailor.  If this map had better texture-use it would be my
+              : favorite of the top 5.  Very close to be anyways.
+
+===========================================================================
+ ---------
+ * MAP10 *
+ ---------
+
+  Title       : TENSION
+  Author      : Cyb
+  E-mail      : cyb@frad.org
+
+  Description : What I originally wanted was some sort of dark, damp 
+              : looking map, and I think I was successful with that part, 
+              : but working with only 10 sectors was a pain in the ass.  I
+              : decided to devote at least two sectors to some sort of 
+              : detail (I ended up using four) and one to lighting (one of
+              : those four).  I also decided for the map to last more than
+              : two seconds without shoving seventy monsters in each room 
+              : I'd need some doors and keys.
+              : The doors were the biggest pain, but since I have some 
+              : experience in this, I didn't run into too much trouble.  
+              : There are a total of about 25 moving regions (sub-sectors),
+              : which can be broken down into 12 'doors' (some of them 
+              : consist of a bunch of bars next to each other).  The 12 
+              : doors are made up of four sectors total.  With the four 
+              : detail sectors the actual 'guts' of the map are only two 
+              : sectors with the same floor heights and different ceiling 
+              : heights.  That's just to give you an idea as to way to 
+              : 'work around' limits.  Good stuff.
+              : The only problem I really have with it, is, looking back on
+              : it now, I wish I'd detailed it some more with some linedefs
+              : here and there, but I guess it's too late now.  The map 
+              : also might be too hard for some players, but I was able to
+              : beat it (with gamesave) and I'm not what you'd call a great
+              : Doom player, so it's not _too_ bad.
+
+  Bassett     : Wow! This is an amazing level. It looks amazing, it plays
+              : pretty good. The cyberdemon at the end is a little edgy,
+              : but that doesn't take away from the fact that this level
+              : looks great. And it takes a while, too! Definitely one of
+              : my top picks.
+
+  Friberg     : Works real good and looks beautiful.  Clearly one of the
+              : best yet.
+
+===========================================================================
+ ---------
+ * MAP11 *
+ ---------
+
+  Title       : DECADE-ENCE
+  Author      : Paul Schmitz
+  E-mail      : PSchmitz1@compuserve.com
+
+  Description : I wasn't sure where this map would end up.   When I first 
+              : created the map, it consisted of two long corridors broken
+              : up by rooms with doors.  However, the map barely played for
+              : 3-4 minutes, so I decided to add one more addition.  Yeah.
+              : :)  
+              : I like the theme best.  10 sectors and I was able to create
+              : a pretty good "room-over-room" effect in the nukage 
+              : section.  DOOM is amazing!  I hope you enjoy the map.
+
+  Bassett     : My, oh my! How in the world can this be only ten sectors?? 
+              : Wow! Special effects I've never seen before. The level
+              : looks mostly the same, but it plays for so long! Seventeen
+              : minutes! Great puzzles! Simply one of the most impressive
+              : so far.
+
+  Friberg     : Ok, I better play this one again sometime. I didn't like it
+              : at all first but it got better with time. Maybe more time
+              : will make it good enough.
+
+===========================================================================
+ ---------
+ * MAP12 *
+ ---------
+
+  Title       : A PLACE OF WARSHIP
+  Author      : Kurt Kesler
+  E-mail      : kesler@fidnet.com
+
+  Description : I always try to make maps convincing in appearance. Keeping
+              : to that idea in Doom is impossible in certain areas, but I
+              : enjoy that challenge, and I think that makes me more 
+              : creative.
+              : A Place of Warship was not my style, and not my strongpoint
+              : in terms of "motif" choices......thats why I did it.
+
+  Bassett     : Yikes! Remind me to not let myself sink so far into
+              : meditation before opening a door. That cyberdemon was a
+              : shock! But still, this is just a great level. Lots of
+              : monsters, though. Very, very hard. Besides its good looks,
+              : this level has great height variance. It does play pretty
+              : well. I am impressed.
+
+  Friberg     : Good enough to fit into the megawad I believe, but it will
+              : not win any prizes.
+
+  Lahaut      : Detailed, good lighting. Too many monsters.
+
+===========================================================================
+ ---------
+ * MAP13 *
+ ---------
+
+  Title       : SUMMERCORE
+  Author      : Jon Rimmer
+  E-mail      : jono@rimmer.demon.co.uk
+
+  Description : I was pretty fired up about the 10 sectors contest as soon
+              : as I heard about it and drew up the design for this level
+              : the very same night.  The starting point for the level was
+              : my memories of "The Seventh 07 - Final Portal" By Afterglow
+              : and Prower.  That level contains an extremely cool valley
+              : area with a 3D bridge over a river and my "vision" for this
+              : level was to emulate that setting.  In the end my level
+              : differed quite a bit from the level that inspired it, but
+              : the influence is still there to see.  While making this
+              : level I hit upon a very pleasing Mordeth style architecture
+              : which I was tempted to use extensively. I resisted this
+              : urge however, deciding to save it instead for my second
+              : level, which I was already beginning to plan out.  In all
+              : this level took about two days to complete, with about six
+              : hours in editor and three hours testing.
+
+  Bassett     : Now this looks great. Very diverse areas. The level isn't
+              : the longest I've seen, but it still looks great. Monster
+              : and ammo placement is great. I can hardly believe it's only
+              : ten sectors.. There's even a 3D bridge special effect stuck
+              : in there. I mean, impressive!
+
+  Friberg     : The ammocount is never all the way through, it usually
+              : drops down to a point where you begin to worry. The use of
+              : textures and lines in the end looks a lot like Kurt 
+              : Kesler's way of building maps.
+
+  Lahaut      : Starts very pretty, ends ugly.
+
+===========================================================================
+ ---------
+ * MAP14 *
+ ---------
+
+  Title       : LIFT TENSION
+  Author      : Jonathan Dowland
+  E-mail      : jon@frad.org
+
+  Description : I decided to call this map 'Lift Tension' because 
+              : originally (believe it or not) the first few rooms were 
+              : going to be part of a gigantic elevator (us limeys call
+              : them 'lifts'). And as for tension, I was under a lot of
+              : tension to get this map finished, indeed I restarted 3
+              : times because of Wadauthor doing very very strange things
+              : (randomly mixing up sector properties with each other for
+              : example).
+              : I think the largest problem with my map is the low ammo on
+              : UV.  Hopefully, some ammo will be carried through from
+              : previous levels in order to help the player out a bit...
+              : the level is possible stand alone on UV if you find some
+              : secrets. (easy) Par times: ~50secs (ITYTD); ~5mins (UV) If
+              : I remember right :)
+
+  Bassett     : This is a pretty nice level. It's reasonably diverse in its
+              : textures, height, and light levels. Ammo balance is okay.
+              : Detail is okay as well, although not all that exciting.
+              : Length is still short, so I don't think it'll make the
+              : megawad. We'll see.
+
+  Friberg     : I liked this one. I was playing in constant fear of running
+              : out of ammo, maybe a few more shells (or berserk) could
+              : have raised the fun in the game a bit. Some boring rooms
+              : (quite a bit) but it was still a quite enjoyable
+              : experience.
+
+===========================================================================
+ ---------
+ * MAP15 *
+ ---------
+
+  Title       : COMPUTER COMPLEX
+  Author      : Paul Berlin
+  E-mail      : Paul.Berlin@telia.com
+
+  Description : I started making the level about a week after the contest 
+              : was announced. What I tried to do was to create a level 
+              : that had many traps, alot of enemies and a nice design. I 
+              : didn't really have a plan of how the whole level was going
+              : to look like before starting, I just made it one room at a
+              : time. I usually only use the easiest enemies in my level
+              : and try to make it challenging, but in this level I also
+              : used some of the bigger ones (Arachnotron, Mancubus,
+              : Archvile, etc.) and I think it turned out quite well. It
+              : was pretty hard to make use of doors with only 10 sectors,
+              : but I managed to put in quite alot of them and used all the
+              : three keycards. I finished about 60% of the level in just a
+              : couple of days before submitting it to doomworld. By the 
+              : way, this level should not be played with Zdoom because 
+              : it's got a bug that makes some enemies wake up even if they
+              : haven't seen or heard you yet. This can cause doors to not
+              : be able to close.
+
+  Bassett     : Hmm. This is an interesting level. A lighted-up space base.
+              : Lots and lots of miniature monsters, though. I don't know
+              : if that's a good thing. Map design is a little square,
+              : although not that bad!
+
+===========================================================================
+ ---------
+ * MAP31 *
+ ---------
+
+  Title       : MARLE - THE HORRIBLE BITCHGODDESS
+  Author      : Kevin Nadolski
+  E-mail      : knadolski@pop.mindspring.com
+
+  Description : The original name to this map was "Marle."  However I did 
+              : not feel that the simple name give the map what it was due.
+              : While I was making her Marle tormented me day and night.  
+              : If I was not working on her (weather I was eating, 
+              : sleeping, showering, ect.) she would taunt me and call me
+              : dirty names until I would load up my map editor.
+              : Oftentimes when I was sleeping she would say, "Why aren't
+              : you working on me? Don't you love me? There's somebody else
+              : isn't there?"  To which I would reply, "No baby, there's 
+              : nobody else I'm really tired.  JUST LET ME SLEEP!"
+
+  Bassett     : Amazing level! Definitely one of my top picks. Great
+              : atmosphere, great design, great use of monsters,
+              : textures.. Great health and ammo balance. Looks like a
+              : winner to me.
+
+  Lahaut      : Obviously effort's been made, but it's futile. You just 
+              : fall in the water, and can never get out.
+
+===========================================================================
+ ---------
+ * MAP32 *
+ ---------
+
+  Title       : HEXAGON
+  Author      : Aardappel
+  E-mail      : wouter@amiga.com
+
+  Description : I was making this level anyway as an experiment in coding
+              : random maps using my mapeditor WadC 
+              : (http://hosted.gamesinferno.com/aardappel/wadc/).  When I
+              : saw the 10 sector contest announcement, I realised how
+              : trivial it would be to enter this map as I wasn't using
+              : more than 10 different sector properties anyway, and
+              : hacking a "mergesector" feature into WadC took 15 minutes.
+              : I continued to tune the map for SP play, and tweaked the
+              : balance until it was playable in skills 0 and UV.
+              : If you like this map, have a look at the source code for it
+              : which is included in the WadC distribution as "hexagon.wl"
+              : (a mere 4k!).  If you regenerate the map it won't ever be
+              : the same as the one included in the 10 sector megawad, as
+              : that one was hand picked by me from a number of runs to
+              : best playable (and some versions don't even allow a path
+              : from start to exit!). It is easy to change the balance of
+              : things in the source and generate any number of maps, all
+              : very much alike but never exactly the same! :)
+
+  Bassett     : I can't decide whether or not I really like this level, or
+              : I hate it. It's a very creative, very original level.
+              : Honeycomb sector designs. Very, very interesting. But lots
+              : and lots of monsters. And if you know the way, the level is
+              : finishable rather quickly. I'm torn on this one. I'd lean
+              : toward liking it, though.
+
+  Friberg     : Looked interesting at first, but that was one repetitive
+              : map.
+
+  Lahaut      : Interesting concept, but too many monsters.
+
+===========================================================================
+ ---------
+ * MAP16 *
+ ---------
+
+  Title       : TECH BASE: SECTOR 10
+  Author      : Michael Niggel
+  E-mail      : TwiceRisen@hotmail.com
+
+  Description : Tech 10 was designed and built not to win, but as a way to
+              : push myself to good design and integration while using
+              : limited resources. I wanted to have many different areas
+              : that played well, but also looked and felt entirely
+              : different from each other. The idea was to fit a good level
+              : into 10 sectors, not the other way around. To achieve this
+              : I used two major floor height differences to start, and
+              : reserved one sector for lifts and another for doors.  After
+              : I constructed the first part of the level, I wanted to
+              : introduce even more new areas, but the number of sectors
+              : became limiting. To use more variations in floor height, I
+              : had to move them from within the level. Instead of just
+              : having linedefs do this, I decided to use the player. It is
+              : from a puzzle the player must solve that the second half of
+              : the level takes its shape.
+              : I admit there are rough spots in this level, some texture
+              : alignment isn't quite right and the second half feels to me
+              : like a rush job. In a sense it was, I needed something to
+              : finish off the level with and I was running out of time. I
+              : made a point to have higher difficulty in this level
+              : because I have had complaints in the past about that, and
+              : much of my time was spent getting the gameplay balance just
+              : right for each skill level. Overall I am very pleased with
+              : the level, though, and would like to thank Brad Carney and
+              : my little brother for their input. Not bad for fitting in
+              : editing time between working and class. :)
+
+  Lahaut      : Another base. Pipelines are a nice touch.
+
+===========================================================================
+ ---------
+ * MAP17 *
+ ---------
+
+  Title       : LORD OF THE FLIES
+  Author      : Kristian Ebola Kaell
+  E-mail      : ebola_kaell@home.se
+
+  Description : Since I found out about this contest a while ahead from Jon
+              : I was planning it out a bit. Not the entire map but what
+              : sector height to use to get the most out of then. I don't
+              : know what could have inspired me, I always had easy to make
+              : gothic maps and this one was no exception. I would however
+              : like to give credit to Requiem and Gothic DM series. Also
+              : Darkening E2.
+
+  Bassett     : This is definitely a masterpiece. Great gothic theme, great
+              : monster/ammo balance. Great height variation, all-around
+              : great quality. One of the best so far.
+
+  Friberg     : Pretty interesting design, like in Map26... Could it be the
+              : same author? It doesn't have to be... But it runs slow and
+              : one area is definitely too big.
+
+===========================================================================
+ ---------
+ * MAP18 *
+ ---------
+
+  Title       : QUICK AND DIRTY
+  Author      : Anthony Soto
+  E-mail      : neworderdatabase@hotmail.com
+
+  Description : When Linguica first announced the ten sectors contest I
+              : knew it was something I wanted to do. DOOM editing has
+              : always been about overcoming the limitations of it's
+              : engine.
+              : I wasn't able to finish the wad appropriately in time for
+              : the deadline but I wanted to be a part of this community
+              : megawad. I did a few quick hacks the last day to make it a
+              : complete level. It's short, but there's enough action that
+              : it should last at least 5 minutes.
+
+  Bassett     : This is a very impressive use of ten sectors! The use of 
+              : stairs, which is amazing. The level is very colorful. 
+              : Although short, I believe it's still suited for one of the
+              : lower to mid-range maps, in terms of map numbers. I like 
+              : it!
+
+  Lahaut      : By now I've seen better.
+
+===========================================================================
+ ---------
+ * MAP19 *
+ ---------
+
+  Title       : NUKAGE TOWN
+  Author      : Sami Mäki-Mantila
+  E-mail      : sami.maki-mantila@mbnet.fi
+
+  Description : I saw the 10 sector contest in Doomworld and decided to 
+              : participate. I hadn't edited Doom wads for years. I wasn't
+              : sure could I still do it.  So I unzipped Windeu from my
+              : good old 486...
+
+  Bassett     : Pretty small. Not too much detail. Height variation is
+              : nice, but nothing special. Not one of my top picks.
+
+  Friberg     : Booooooring, and not enough cool weapons.
+
+  Lahaut      : Simple design, but very nice!
+
+===========================================================================
+ ---------
+ * MAP20 *
+ ---------
+
+  Title       : GANYMEDE OUTPOST
+  Author      : Tarin
+  E-mail      : tarin@gmx.net
+
+  Description : When I first heard about the contest in #doomroom I did not
+              : think I'd submit a level. As most people probably know I'm
+              : not known as a single player level designer at all; this
+              : map was my first attempt for about four years!  But looks
+              : like it turned out to be quite good ;) As all my levels
+              : this is a metal/base style map. It's quite obvious that
+              : it's inspired by Tomi Rajala's style. I think it's quite
+              : large, has good detail and even some lighting. I tried to
+              : make the map as non-linear as possible, so you can run
+              : pretty much anywhere you want to at the beginning, although
+              : you've to get the keys in a special order.  Unfortunately
+              : I did not really make much use of any special effects, 
+              : especially Boom stuff. But since it does not use any big
+              : special effects and is very open once all keys are found
+              : it should be good for DM, but only with about 4+ players.
+              : Thanks go out to Carnevil (opinions of the level) and Ebola
+              : (opinions and level name).
+
+  Bassett     : I don't know where to begin. This is just impressive! Great
+              : detail, great subtle lighting. Great ammo balance, great
+              : health balance, and fifteen minutes to finish! Definitely
+              : one of my top picks. A great level!
+
+  Friberg     : Tarin's map... But so good that I see it in my top 5
+              : already.
+
+  Lahaut      : Above average, but a bit mazy.
+
+===========================================================================
+ ---------
+ * MAP21 *
+ ---------
+
+  Title       : CRUNCH!
+  Author      : Vlad 'blod' Sosedkin
+  E-mail      : blod@knet.ru
+
+  Description : This is a kind of industrial/hitech complex with strong
+              : claustrophobic feel. I keep it as chaotic as can (though
+              : it is 'coz of lack of paper plan) and mastered the map in
+              : two weeks. Instead of detail planning before the work I
+              : made a themes for the 10 sectors first, including 
+              : floor/ceiling heights, light level, texture choice 
+              : (WadAuthor has a good motif customization) and their 
+              : functionality (lifts/doors).
+              : Then I just draw on paper the 10 sectors along each other 
+              : and look at the heights map - cool ideas started to rush 
+              : into my mind instantly.  After that I could't sleep until 
+              : finishing of the wad. Pure magic :)
+
+  Bassett     : WOW this is a refreshing change! Amazing level. Great
+              : design, good ammo and health balance.. And I love the low
+              : light level! This should be one of my top picks.
+
+===========================================================================
+ ---------
+ * MAP22 *
+ ---------
+
+  Title       : STORM APPROACH - DARK CITY
+  Author      : Robert Beladi
+  E-mail      : beladir@egon.gyaloglo.hu
+
+  Description : My nickname is QuarK, what doesn't means QuakeArmy Knife,
+              : means the small quark, wich makes the proton, neutron, if
+              : you know chemistry 8-)
+              : When I saw the contest, I decided to make a good map. I
+              : started one E1 like map, it was delibrate foul. So I
+              : started again. I get a Math excersise book, you know, with
+              : rectangles, and drawed in scholl one day one detailed room,
+              : area. When I went home, I edited it. First, I selected a
+              : theme, what was made up brown and metal textures. Then I
+              : tried to make a DM and SP good map, with many ammo and 
+              : monsters, difficulty settings, etc. The enemies not starts
+              : with Cyber just near you, not. He's only, (if i remember 
+              : well) in UV at the end! It's almost symmetric.
+
+  Bassett     : Hey, a refreshing change!  This has great level design,
+              : some nice detail... Good ammo balance, although when I'm
+              : down to nothing but the BFG, I'm reluctant to terminate
+              : those two imps.. Nevertheless, all-around nice. Should be
+              : one of my top picks.
+
+===========================================================================
+ ---------
+ * MAP23 *
+ ---------
+
+  Title       : HELL PREVEALED
+  Author      : GeminI
+  E-mail      : post2000@c2i.net
+
+  Description : This was my second wad for this contest, the first not
+              : entered. I tried to make the floor/ ceiling heights to vary
+              : so it wouldn't be that obvious that the level was limited
+              : to only 10 sectors, would also be more fun. Anyway i worked
+              : real hard with this, and finished the level 2 days before
+              : the dead-line. I deleted one sector by accident and didn't
+              : found out about it until after i saved the wad, but that
+              : way i got one extra sector and the sector i deleted was a
+              : waste of sectors so i got lucky :). It's a hard level,
+              : which explains the title... also a taste of my levels to
+              : come, in Hell Revealed 2. Credits to Linguica, Doomworld,
+              : Telefragged, the judges and the authors of the levels
+              : (those not included in this megawad too) for good work. I
+              : also added a DM only section out-side the level itself,
+              : check it out. Basically the same thing with some changes.
+              : Enjoy. Out...:)
+
+  Bassett     : Well, here's another nice level. Some good detail. Lots of
+              : monsters, though. Maybe a tad too many. I still like it.
+              : It should be in the top 32.
+
+  Dixon:      : Marble, brick, metal, and most of all, blood, awaits the
+              : player in this tour de force of a map. Set amidst the
+              : familiar brick'n'metal textural motif, this map features
+              : creative architecture, well-constructed and creative traps,
+              : and will provide a challenge to all but the most
+              : experienced DOOM player.
+
+  Friberg     : No major flaws, other than you were forced to take on the
+              : enemies in a certain order.
+
+  Lahaut      : Elaborate and detailed. Lots of poison; too hard for my
+              : liking.
+
+===========================================================================
+ ---------
+ * MAP24 *
+ ---------
+
+  Title       : HIDDEN FACETS
+  Author      : Qingshuo Wang
+  E-mail      : pixelrex@yahoo.com
+
+  Description : I started the planning of my level by guessing what a 10 
+              : sector limit really means...does it mean you need to make 
+              : the most beautiful map ever since that requires lots of 
+              : sectors to do normally? Does that mean you need lots of 
+              : tricks and traps since that...also requires lots of 
+              : sectors? I choose the "creativity" and "different" to be my
+              : goal...to be the most DIFFERENT map in the bunch. To 
+              : compete not by outdoing what others did, but by doing
+              : something totally different. Hidden Facets, a 4-way 
+              : non-linear map focused much on secrets and tricks. I
+              : explored the most bizzare ways a player can make the level
+              : easier...the best way to use my 10 sectors to produce the
+              : most secrets and traps possible. I tried to make use of
+              : every single floor and ceiling height not for decorative
+              : reasons or just for an elevation change, but as a way to
+              : add depth to the gameplay...to make the player ask: "This
+              : is only 10 sectors?". Some sectors that seemed purely
+              : aesthetical, could endup as a staircase to that secret
+              : megasphere ;-) You'll be surprised by how much secrets I
+              : managed to cram into that small map...
+              : One of the biggest set-backs of the production of this map
+              : though, was time. I BARELY finished it before the closing
+              : day. I had to rush on some areas where I could of added
+              : some vertical detail...particularily the area with the
+              : switch face metal textures.
+              : Hope you all enjoy ;-) Don't email me asking for spoilers
+              : either.
+
+===========================================================================
+ ---------
+ * MAP25 *
+ ---------
+
+  Title       : UNDER THE HORIZON
+  Author      : Chrozoron
+  E-mail      : jonasf@stud.ntnu.no
+
+  Description : I wanted to create something wizardly here, and i wish i
+              : had a little more time to do the final area right, fix
+              : some bugs and add some other stuff but it seems like the
+              : end result got pretty good after all. ;-)
+              : I sent in my level approximately 10 minutes before the
+              : deadline.. which was at 9 AM (local time) that day in
+              : september.  That friday night pretty much reminded me of a
+              : typical night before an exam, (total panic) and the final
+              : area with the spaceship was finished in an extreme hurry!
+              : At 8:40 I thought everything was fine, before I (to my
+              : horror) realised there was a critical bug which made it
+              : impossible to complete the level.  I simply had to delete
+              : the stuff that wasnt working in order to reach the
+              : deadline. I built the nodes, created a simple reject map
+              : and quickly playtested the level one last time before
+              : submitting the wad and going to bed. I woke up at 8 pm
+              : later that day :-)  I don't know what I would've done if
+              : the mailserver had been down at the time or something like
+              : that.
+              : BTW, straferunning through this level is not advised since
+              : i used a lot of linedefs that need to be triggered in order
+              : to have the various sectors "slide into place." If one of
+              : the lines are missed then the sectors might come "out of
+              : sync" with eachother so that you wont be able to finish the
+              : level.  I know this sucks, but I had to exploit whatever
+              : possibilites i could think of to give the illusion of using
+              : way more than 10 sectors :-)  You shouldnt experience any
+              : problems unless you're actively trying to speedrun through
+              : however..
+
+  Dixon:      : Installing a strong sense of place within the player
+              : through its use of realistic structures and texturing, this
+              : map also makes the most creative use of sectors that I have
+              : seen amongst the other entrants to this contest...watch as
+              : sectors literally change their characteristics as you go,
+              : morphing and shifting to new heights. Highly creative, and
+              : challenging to boot, this map is a solid example of how a
+              : little creative recycling can make ten sectors seem like a
+              : lot more in the hands of a creative individual. However,
+              : those of you who rely on pure MS-DOS to experience DOOM(2)
+              : will be unable to play this level, as Segmentation
+              : Violation crashes this map under MS-DOS, yet the level runs
+              : perfectly well within a Win9x DOS window.
+
+===========================================================================
+ ---------
+ * MAP26 *
+ ---------
+
+  Title       : THE AQUADUCT
+  Author      : Chris Lutz
+  E-mail      : chris_lutz@hotmail.com
+
+  Description : "The Aquaduct" was really inspired by the opening room of 
+              : the DOOM II level "The Catacombs" -- I wanted to recreate
+              : the fetid atmosphere of rotting marble and play with how it
+              : contrasted with the bright red sky.  From there, I
+              : basically said, "Hell -- let's add some water" and the idea
+              : sort of took off from there.  I knew that I wanted to have
+              : some 3D structures (e.g. bridges) and that I wasn't going
+              : to be able to vary floor/ceiling heights too much, so the
+              : idea of a crumbling, water-logged structure seemed to work
+              : well.
+              : I am pretty damn pleased with the way the level turned out;
+              : I am especially proud of the way I actually managed to work
+              : in some hard-to-find secret areas.  Granted, they aren't
+              : marked secret (friggin' sector limit), but there are a
+              : couple of rooms that are tucked away quite nicely.  The one
+              : thing that bugs me about this level is that it is almost 
+              : too themed, meaning the color scheme gets repititious
+              : pretty quickly; the sky helps detract from that somewhat,
+              : as do the various styles of marble (some is gray, some is
+              : green, some has vines, etc.), but there isn't a whole lot
+              : of difference between any 2 given rooms.  Still, as I
+              : already said, I think this level turned out very nicely;
+              : hope you enjoy it.
+
+  Bassett     : Quite simply the best-looking level so far. Lots of 
+              : linedefs, lots of detail, amazing.. Great playability, and
+              : plain and simply, eye-candy. Another one of my favorite
+              : levels!
+
+  Dixon:      : Those of you with slower processors, beware: this map will
+              : not function adequately on your system. Even my P200 groans
+              : and lags beneath the weight of this behemoth...and a
+              : behemoth it is! This map is a mindblowing amazing example
+              : of how far ten sectors can be stretched in the hands of a
+              : creative and intelligent individual. A fully immersive
+              : environment, complete with three-dimensional effects, this
+              : level takes full-advantage of the special capabilities that
+              : the BOOM engine was built with. A pleasure to explore and
+              : play, despite the processor-heavy detail.
+
+  Friberg     : The best design yet, but it won't win. How can anyone make
+              : Doom run slow? This creator did...
+
+  Lahaut      : Huge marble complex. 3D walkabouts, Boom effects/waterway.
+              : Slows comp down, keep getting stuck. Detailed. Impressed :)
+
+===========================================================================
+ ----------------------
+ * MAP27 -- RUNNER-UP *
+ ----------------------
+
+  Title       : GAS PANIC
+  Author      : Jon Rimmer
+  E-mail      : jono@rimmer.demon.co.uk
+
+  Description : This level was my "real" entry.  Instead of planning out
+              : the level layout, I at first sat down and worked out the
+              : sector types and heights I would need for the theme and
+              : then just started building.  After three weeks I was about
+              : a quarter done with the level and I realised I was never
+              : going to finish it time at that rate.  I speeded up a bit
+              : and the rest of the level started to take shape.  I still
+              : might not have finished the level however, if I had not
+              : fallen ill in the last two weekdays before the deadline and
+              : had to take time off school, thus giving me a lot more time
+              : to work on mapping. The level uses a lot more sector
+              : merging and better use of 2 sided lines than the first map
+              : and I feel is certainly a far more ambitious map overall.
+              : The inspiration for this map was level 4 of Mordeth episode
+              : 1, "Babel By Gaslight", hence the title, which is the name
+              : of an Oasis song I believe.
+
+  Bassett     : Now hey! This is a great-looking, well-designed castle 
+              : level. The way a castle level should be. And only ten
+              : sectors? I like this map. Good monster and ammo balance.
+              : Should be a top pick.
+
+  Dixon:      : An obvious homage to the editing styles of Gaston Lahaut's
+              : Mordeth levels and Iikka Keranen entire catalogue of
+              : amazing levels, this map offers a positively breathtaking
+              : and spellbinding sense of place and atmosphere. 
+              : Well-constructed and highly detailed architecture bring
+              : this map, a city inhabited by extremely hostile creatures,
+              : to life.  This map is an epic in terms of architecture and
+              : creativity and a true tribute to what is possible with only
+              : ten sectors. Utterly mindblowing.
+
+  Lahaut      : Town, almost Mord-style :)  Cramped, but very nicely done!
+
+===========================================================================
+ ----------------------
+ * MAP28 -- RUNNER-UP *
+ ----------------------
+
+  Title       : EVISCER-STATION
+  Author      : Lee Szymanski
+  E-mail      : Lee.Szymanski@europe.simoco.com
+
+  Description : The texturing is loosely based on map03 of Doom2, except 
+              : the water was changed to nukage to allow outflows etc. I 
+              : liked the metal/Dirt theme of this map.
+              : The first room was the only part of the level i sketched 
+              : out, initially it was a test to see what the differing
+              : sectors looked like, and to set the depth of the nukage. It
+              : looked good so i kept it in.
+              : I maybe should have spent more time on the corridors, they
+              : were a last minute addition to stitch the main battles 
+              : together. They're just a little dull. My favourite section
+              : is the blue key area, its nice and meaty. The area with the
+              : crates was put in to replace a larger section of the map
+              : which I couldn't complete in time. The final outdoor battle
+              : initially was larger and had the cyberdemon and some pain
+              : elementals, i think it works better how it is now. If i had
+              : more time i would have increased the detail of the outdoor
+              : sections and used more textures.
+
+  Bassett     : Hey! Another great level! This one should be in the 
+              : megawad. Great design, great look. Lots of imaginitivity.
+              : Especially in the last area with the three cyberdemons.
+              : Definitely one of my top picks!
+
+  Dixon:      : A rich, architecturally complex environment awaits the
+              : player as s/he explores this well-built, thematic map.
+              : Another example of just how far ten sectors can be
+              : stretched, this map is mammoth in proportion and scale,
+              : marking the player with a true impression of place.  This
+              : level leaves the player stranded in a massive toxic
+              : processing plant, and desperately demanding more by the
+              : end.
+
+  Friberg     : I really liked this map even if it did have a bit too much
+              : ammo on it.  Almost too big to be enjoyable as well.
+
+===========================================================================
+ -------------------------
+ * MAP29 -- SECOND PLACE *
+ -------------------------
+
+  Title       : THE BLACK WIND OF MAYHEM
+  Author      : NokturnuS
+  E-mail      : lordnokt@usa.net
+
+  Description : This contest was a real challenge for me. I always made big
+              : maps with lots of sectors, linedefs and things (Demonized,
+              : upcoming stuff in Caverns Of Darkness, etc.), so this map 
+              : demands lots of work. Think worth the pain.... Anyway, a
+              : hard map with lots of baddies and no plasma and no Cybers
+              : or Masterminds. With them I would be far more easy (they
+              : kill lots of demons mercilessly). Hope you enjoy!
+
+  Bassett     : Oh my! This is a very pretty level. Kind of dark and
+              : gloomy.. But so many monsters, and they're everywhere!
+              : Again, a lazy way of making a level challenging. I wouldn't
+              : want to see this kind of level in the megawad, but we'll
+              : see.
+
+  Dixon:      : Those familiar with and those who love the epic Final DOOM
+              : episode, The Plutonia Experiment, by Dario and Milo Casali,
+              : will enjoy this level immensely. Casali-styled architecture
+              : and playability abounds in this terrific and terrifying
+              : map. Well-structured, open-ended, and ultimately
+              : non-linear, this map plays differently every single time.
+              : Brilliantly built and extremely challenging, this map is
+              : bound to knock a few teeth loose in the smile of even the
+              : most battle-hardened DOOM veteran with the punch it packs
+              : in playability, difficulty, and appearance. A pleasure to
+              : experience, this map offers creative and random
+              : confrontations with an assorted bestiary of hellspawn, and
+              : kept me on my toes throughout.  Classic, and absolutely
+              : mandatory playing.
+
+===========================================================================
+ ------------------------
+ * MAP30 -- FIRST PLACE *
+ ------------------------
+
+  Title       : LAST CALL
+  Author      : Michal Mesko
+  E-mail      : msquid@email.cz
+
+  Description : This level was ment for fast and furious action. Beware
+              : though - it takes place in hell, the final destination for
+              : all you sinners. Lava will burn your flesh and monsters
+              : will tear your insides if you are not fast enough.
+              : Strict deadline made me work under stress on this one.
+              : Fortunately, the inspiration came quite easily and I was
+              : able to finish it. I hope I designed some good fights as
+              : well as good architecture. Enjoy.
+
+  Bassett     : Wow! We're not finished yet, are we? This is really, 
+              : really impressive! So much detail, such subtle lightwork. 
+              : And so much area. Such great ammo balance. This should be
+              : one of my top, top picks!
+
+  Dixon:      : This map calls to mind the hellish atmospheres crafted by
+              : masterminds Michal Mesko, John Romero, and Malcolm Sailor,
+              : as seen in maps such as An_Coop2, Ultimate DOOM's E4M6, and
+              : Chord3. Non-linear, expansive, and extremely dangerous, 
+              : this map is an architectural masterpiece. Care has been
+              : given to the elaborate texturing of the assymetrical and
+              : varied structures found throughout the level, and full
+              : advantage has been taken of all ten sectors. No quarter is
+              : given to the player as s/he fights through legions of
+              : hellspawn, seeking refuge amidst the little shelter
+              : present. This is DOOM in all its lava-dripping, 
+              : adrenaline-pounding, demon-infested glory. Spectacular.
+
+===========================================================================
+
+* Megawad Judging Information *
+
+The Doomworld 10 Sectors Contest ran from August 22, 2000 to September 22, 
+2000.  During that time, 138 WADs were submitted.
+
+The judging panel originally consisted of five people: Andrew Bassett, 
+Matthew Dixon, Martin Friberg, Gaston Lahaut, and Malcolm Sailor.
+Unfortunately, Malcolm Sailor had to drop out due to time constraints.  The
+four remaining judges then took about 5 weeks to sort through the 138 WADs,
+with judging reaching completion on November 1, 2000.
+
+The 138 submitted levels were merged into 5 megawads for judging purposes, 
+with the first four containing 30 levels each and the 5th containing 18
+levels.  Judges then designated their picks by saying which megawad of the 
+5 the level was in, and which map slot it filled within that megawad.  The 
+judges were asked to list their favorite 32, 10, 3, and 1, with levels
+within the lists in no particular order.
+
+Here are the judging results.
+
+Mord  = Gaston Lahaut
+Matt  = Matthew Dixon
+AndrB = Andrew Bassett
+Cocnn = Martin Friberg
+
+Top 32:
+
+Mord   Matt   AndrB  Cocnn
+01/07  01/02  01/05  01/02
+01/08  01/04  01/07  01/06
+01/18  01/05  01/08  01/08
+01/27  01/08  01/16  01/09
+01/29  01/11  01/19  01/16
+02/05  01/16  01/29  01/17
+02/07  01/17  02/07  01/27
+02/15  01/27  02/08  01/29
+02/16  01/29  02/15  02/01
+02/18  02/01  02/21  02/07
+02/22  02/07  02/26  02/08
+02/25  02/15  02/28  02/11
+02/28  02/28  02/30  02/15
+02/30  02/30  03/01  02/16
+03/01  03/08  03/02  02/28
+03/02  03/12  03/05  02/30
+03/03  03/13  03/08  03/01
+03/08  03/29  03/12  03/12
+03/13  04/02  03/13  03/29
+03/14  04/12  03/29  04/02
+03/17  04/13  04/02  04/10
+03/21  04/14  04/10  04/13
+03/22  04/20  04/12  04/15
+04/02  04/26  04/13  04/16
+04/12  04/27  04/18  04/20
+04/13  05/05  04/20  04/26
+04/14  05/07  04/26  04/27
+04/20  05/12  04/27  04/30
+05/05  05/14  04/28  05/05
+05/12  05/17  05/04  05/07
+              05/12  05/12
+                     05/17
+
+Top 10:
+
+Mord   Matt   AndrB  Cocnn
+01/29  01/08  01/08  01/08
+02/07  01/17  02/15  02/15
+02/30  02/15  02/21  02/28
+03/01  02/30  02/30  04/13
+03/22  04/12  03/01  04/15
+04/12  04/14  03/12  04/16
+04/20  04/20  04/12  04/20
+05/05  05/05  04/20  04/27
+05/07  05/07  04/27  05/05
+05/12  05/12  05/12  05/12
+
+Top 3:
+
+Mord   Matt   AndrB  Cocnn
+01/29  04/20  02/15  02/28
+04/12  05/05  04/12  04/15
+05/12  05/12  05/12  05/05
+
+Top 1:
+
+Mord   Matt   AndrB  Cocnn
+05/12  05/05  05/12  05/05
+
+===========================================================================
+
+* The Winners *
+
+FIRST PLACE:
+
+Quite surprisingly, there was a two-way tie for first place.  5/12 was 
+picked as the best WAD of them all by two of the four judges, as was 05/05.
+What put 05/12 over the top, so to speak, was the fact that it was the
+third judge's top 3, and the fourth judge's top 10.  It was one of only two
+WADs to be in the top 10 of all four judges, and the only one to be in
+three of the judges' top 3.  05/05, on the other hand, was a third judge's
+top 10, and not even on the fourth judge's top 32.  05/12 became Map30 in
+this megawad.
+
+SECOND PLACE:
+
+With 05/05 and 05/12 being almost identical in the judges' standings, 05/05
+was an easy choice for second place.  05/05 became Map29 in this megawad.
+
+RUNNERS-UP:
+
+Originally, 05/05 and one other WAD were going to share runner-up status, 
+but the difficulty of choosing only one other WAD to fill out the top three
+led to arbitrarily calling 05/05 "second place" and choosing two more 
+runners-up.  04/12 and 04/20 were both very high in the judges' rankings, 
+with 04/12 being in two of the judges' top 3 picks, while 04/20 was only in
+one; but then 04/20 was in all four of the judges' top 10 picks, while
+04/12 was only in three, and not even in the top 32 of the fourth judge.  
+04/12 and 04/20 became Map28 and Map27 in this megawad.
+
+===========================================================================
+
+* The Top 32 *
+
+The top 32 levels out of the 138 submitted were chosen by first taking
+every single WAD that was in all four of the judges' top ten.  Then came
+all the remaining WADs which had been placed in the top 32 by at least
+three of the judges.  This totalled up to 28 levels, and 4 wildcards were
+chosen by Linguica to fill out the megawad to 32.  The 4 wildcards are
+marked with asterisks.
+
+01/05 (9sectors.wad) * -- Kinkajoy
+01/08 (ceph2.wad)      -- Cephaler
+01/16 (johnr_1.wad)    -- Jon Rimmer
+01/17 (kris10sc.wad)   -- Kristian Aro
+01/27 (tobi10s.wad)    -- Tobias Forsberg
+01/29 (warship.wad)    -- Kurt Kesler
+02/07 (ceph3.wad)      -- Cephaler, again
+02/15 (k_dvf.wad)      -- Kurt Kesler, again
+02/21 (marle.wad)      -- Kevin Nadolski
+02/28 (tarin10s.wad)   -- Tarin
+02/30 (aquaduct.wad)   -- Chris Lutz
+03/01 (10ebolas.wad)   -- Kristian Ebola Kaell
+03/05 (aard10.wad) *   -- Aardappel
+03/08 (arno.wad)       -- Arno Ansems
+03/12 (cyb_10.wad)     -- Cyb
+03/13 (decade.wad)     -- Paul Schmitz
+03/22 (nuk_town.wad)   -- Sami Mäki-Mantila
+03/29 (storm.wad)      -- Robert Beladi
+04/02 (10secjon.wad)   -- Jonathan Dowland
+04/10 (crunch.wad) *   -- Vlad 'blod' Sosedkin
+04/12 (fenboi01.wad)   -- Lee Szymanski
+04/13 (frenzy.wad)     -- Gonzalo Perez de la Ossa
+04/14 (gem02.wad)      -- GeminI
+04/15 (hangar.wad)     -- Øystein Langhelle
+04/16 (hdnfacet.wad)   -- Qingshuo Wang
+04/20 (johnr_2.wad)    -- Jon Rimmer, again
+04/26 (pb10sect.wad)   -- Paul Berlin
+04/27 (qckndrty.wad)   -- Anthony Soto
+04/29 (tek10.wad) *    -- Michael Niggel
+05/05 (bwom01.wad)     -- NokturnuS
+05/07 (chz10sec.wad)   -- Chrozoron
+05/12 (lastcall.wad)   -- Michal Mesko
+
+===========================================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use the contents of this file as a base for
+modification or reuse.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://ftp.cdrom.com/pub/idgames/ and mirrors
+Web sites: http://www.doomworld.com/

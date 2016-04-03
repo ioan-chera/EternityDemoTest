@@ -1,0 +1,47 @@
+This is a Demo Archive of the Non Gods entry 
+
+authors:    Vincent Catalaa <vincentDS@netcourrier.com>
+            Jakub "MethoD" Razak <JakubRazak@seznam.cz>
+
+game:       DOOM version 1.9
+
+category:   Cooperative 2 players - Episode 3 - Ultra-Violence
+	    100% kills and secrets
+            
+Green   : Vincent
+Indigo  : Method (view)
+
+         *-------*
+Time:    | 16:59 |
+         *-------*
+                             
+Levels                   Time     
+------------------------------
+E3M1                     1:04		
+E3M2                     1:34		
+E2M3                     1:49   	
+E3M4                     3:29    	
+E3M5                     3:05    	
+E3M6                     2:26    	
+E3M9                     1:43    
+E3M7                     1:49    
+E3M8                     0:17    (excluded)
+------------------------------
+Total w/o E3M8          16:59		
+------------------------------
+        
+Method (indigo) : 
+
+
+Vincent (green) :
+
+	This was made quite in a rush, we got the routes quick and got this
+        within a few tries. You can see a lot of goofy moments. And the routes 
+        most likely need quite a bit of optimizing :) Some maps gave us troubles 
+        with a couple alive monsters (E3M3 and E3M5 come to mind).
+        It was anyway quite fun to play and constitute an honorable 1st entry for
+        this category.
+
+Recorded using Kahn's IPX tunneling with a ping between 80 and 100 ms
+
+ 

@@ -1,0 +1,27 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE2.WAD
+Pwad name: Scythe II
+Maps:	01-05
+Skill:	5
+Category:	NM Speed Episode 1
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	7:46
+-------------------------------------------
+Comments:  
+First run passed MAP02. MAP02 was brutal, but the rest wasn't too bad. I didn't do any practice at all and just improvised the whole run basically, so it's not too good, but first nightmare run of this episode, so not bad.
+MAP01 - 0:57 / 0:57
+MAP02 - 2:06 / 3:03
+MAP03 - 2:35 / 5:38
+MAP04 - 1:13 / 6:51
+MAP05 - 0:55 / 7:46
+
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

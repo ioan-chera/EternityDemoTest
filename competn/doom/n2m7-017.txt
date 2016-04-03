@@ -1,0 +1,35 @@
+This is a Doom .LMP "Competition" Entry
+
+n2m7-017.txt
+n2m7-017.zip
+
+n2m7-017.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E2M7 - Spawning Vats
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :17
+=--------------=
+
+Quite a large improvement here, and it wasn't
+because of no rocket jump.  Sorta new trick. :)
+
+Me and Dash have been really getting into some
+trick analysis just for the hell of it, and the
+first benefits of said research have materialized.
+This harkens back to the discussion about the thing
+glides in a recent thread by Grazza, so I think
+this makes a good continuation of that.  I made
+no real effort to optimize this, as this is the
+first demo using the trick that beat the record...
+yeah, 4 seconds shaved off instantly.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

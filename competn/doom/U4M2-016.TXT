@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+U4M2-018.TXT
+
+ U4M2-018.ZIP
+
+  U4M2-018.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Final DooM - Ep.4 Mi.2 - "Perfect Hatred"
+
+                     Time  00:16.77
+                           --------
+
+  Description :-)
+
+This is technically a DdQr-beater...however, the initial jump to switch is
+rather a lot harder to do under ddqstats.exe (I checked it, the finer control
+of doom.exe comes in real handy). I knew this was possible since I made a
+0:17 with one BFG shot wasted into pinkies while I was messing around for
+DANG MI12. 0:15 is possible on the old route with the straight-to-switch
+jump, but the problem is that the faster you go at the start, the more likely
+cacos are to block SW jump, so I don't know if anyone will manage that. It's
+also just about possible on this route, but probably pretty tough.
+
+Adam Williamson
+adam.williamson1@btinternet.com

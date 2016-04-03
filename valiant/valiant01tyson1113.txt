@@ -1,0 +1,23 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	VALIANT.WAD
+Pwad name: Valiant
+Maps:	01
+Skill:	4
+Category:	Tyson
+Exe:      	PRboom+ 2.5.1.4 cl11
+	with advanced HUD
+-------------------------------------------
+Time:     	11:13
+-------------------------------------------
+Comments:  
+Whew. The first Tyson demo for Valiant. Tyson and Valiant are an interesting combination. On one hand, you have a much more powerful pistol, but on the other, you've got much more deadly enemies. The imp's quicker fireballs are really difficult to dodge when in big firefights. This map is a decent map for tyson, you get a berserk pack and a chainsaw, what could be so hard? Well, mainly it was the end. Mancs, not a huge issue, just the Archvile. I had so many attempts where he would just run somewhere and I couldn't find him, then he'd blast me. Here, I had the idea to fight him near the lift, which worked nicely. Lots of goofy things happened in this demo, too, but hey, I won! Took about 45 minutes to get this. Time could be improved greatly if you tried hard enough. Under 10 shouldn't be too unreasonable...
+
+
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

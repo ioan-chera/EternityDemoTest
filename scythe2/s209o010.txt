@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe 2
+Pwad name: scythe2.wad
+Maps:      09
+Skill:     4
+Category:  NoMo
+Exe:       PRBoom+ v2.5.1.4, -complevel 2
+
+Time:      0:10
+
+Author:    MD922
+
+Comments:  Ok, so *now* I think it's optimal. 10.97, with 2 rocket jumps/boosts. Thanks dew for pointing out the RJ :)

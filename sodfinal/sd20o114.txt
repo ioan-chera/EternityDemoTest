@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Pwad name: Speed of Doom
+Maps:      MAP20
+Skill:     4
+Category:  NoMo
+Exe:       Prboom+ 2.5.1.3 -complevel 9
+
+Time:      1:14
+
+Author:    Plut
+Done October, 23, 2012
+
+Realy cool trick with instant yellow key grabbing :) .
+

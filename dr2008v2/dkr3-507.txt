@@ -1,0 +1,16 @@
+Game: Doom 2
+Pwad: dr2008v2.wad (Dark Resolution 2008 - UPDATED VERSION)
+Filename: dkr3-507.lmp
+Skill and Style: UV Max
+
+Map Level: map03 - The Hunt: by Craigs
+
+Kills:   100%
+Secrets: 100%
+
+Time:    5:07
+
+Exe/Port used: PrBoom-Plus 2.4.8.3 -complevel 9
+
+Author: Nikolay "Heretic" Kamnev
+E-mail: evildoomer@mail.ru

@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+e2m7-015.txt
+e2m7-015.zip
+
+e2m7-015.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E2M7 - Spawning Vats
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :15
+=--------------=
+
+The monster glide trick returns.  It's hard
+to tell how many more seconds can be cut from
+the time, since it's hard to judge exactly how
+long to build up the st50 run by strafing against
+the monster.  Either way, I don't like the way
+this one looks.  Perhaps I'll continue trying..
+
+Props to Dash again for the inspiration here. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore@oakland.edu

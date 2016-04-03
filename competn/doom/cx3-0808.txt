@@ -1,0 +1,32 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop nm100s movie
+mission:  Episode 3
+
+time:     8:08
+
+   Level       Time         
+--------------------
+   E3M1        0:43         
+   E3M2        0:50         
+   E3M3        1:04 
+   E3M4        1:24
+   E3M5        1:12 
+   E3M6        0:30 
+   E3M9        1:13
+   E2M7        1:12     
+   E2M8        -:-- 
+--------------------
+   Total       8:08
+
+
+
+Xit-Vono : Well this episode is not too hard, but of course
+           it requires good planning.
+
+Vincent : quickly done routes ...
+      

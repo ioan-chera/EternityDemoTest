@@ -1,0 +1,28 @@
+Pwad:	Valiant.wad
+Pwad name: Valiant
+Maps:	17
+Skill:	4
+Category:	Pacifist
+Exe:      	prboom-plus 2.5.1.4 -complevel 11
+
+Time:     2:21
+
+Comments:	This turned into a fun map to run...
+
+If you dont fire you wont wake the chaingunners on the pillars or the monsters in the red key arena.
+You can jump straight across to the Yellow key. Most my attempts failed either there or by the chaingunners near the 1st
+elevator which is nice because its at the start. Invulnerability is not necessary i just got tired of the 2nd elevator chaingunner
+owning me. Ive had several attempts where the AV jumped me over the crushers but i dont think its faster because you still
+have to wait for the 2nd group of crushers to open.
+
+Possible improvements...
+I have several ideas but i havent been able to string them together into a single run. It would be nice to see someone 
+try these. 
+-After grabbing the yellow key you can quick turn onto the circle platform without flying over.
+-In the red key arena it might be faster to go around the edges to the switches instead of jumping through portals.
+-You can skip the invulnerability and long jump from the spider platform all the way to the center island.
+-AV jump?
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

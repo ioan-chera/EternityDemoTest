@@ -1,0 +1,29 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+N3M3-027.TXT
+
+ N3M3-027.ZIP
+
+  N3M3-027.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM ver. 1.9
+
+  DooM - Ep.3 Mi.3. - Pandemonium
+  Kills      5%
+  (Items     0%)
+  Secrets   16%  and Time  00:26
+                           -----
+
+  Description :-)
+
+No need for the invuln, says Adam H...no need for the BFG either, says I :).
+uses a small modification of my end room trick - on NM the first imp doesn't
+turn around, so you have to kill him...you can still slide straight past
+the other imps afterwards though.
+
+Adam Williamson
+adam@scisoft.force9.co.uk

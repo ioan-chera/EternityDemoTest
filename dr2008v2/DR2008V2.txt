@@ -1,0 +1,108 @@
+---------
+Contents:
+---------
+[1]Play and Construction
+[2]Authors 
+[3]Storyline
+[4]Levels
+[5]Legal Information
+
+------------------
+[1]WAD Information
+------------------
+Archive Maintainer	:Delete DR2008.WAD from the archive. This is an updated version.
+Update to		:DR2008.WAD
+Advance Engine Needed	:Boom-Compatible Port *WITH A DOUBLED SEGS LIMIT*
+Primary Purpose		:Single+Co-op Play
+
+Title			:Dark Resolution 2008 - UPDATED VERSION
+Filename		:DR2008V2.WAD
+Release Date		:4.9.2008
+Author			:See Section [2]
+Email Address		:brandon@foxfire74.com (Death-Destiny), the360guy89@yahoo.com (Bloodskull)
+Other Files By Author	:Several
+Misc. Author Info	:None
+Description		:Since the Community Project continues to be popular, this is a mapset composed for the 
+			 event of the 2008 New Year and Doom's 14 birthday. This community project includes 
+			 11 maps from 9 different authors from Doomworld's Community, all winnable from
+			 pistol start with 100% kills on UV. Announced near the end of 2007, the project is finally
+			 complete and ready for your enjoyment. Have fun, good luck, and a belated Happy New Years!
+Additional Credits to	:None
+ 
+* What is included *
+New Levels		:11
+Sounds			:No
+Music			:Yes
+Graphics		:Yes
+Dehacked/BEX Patch	:Yes
+Demos			:No
+Other			:No
+Other Files Required	:No
+
+* Play Information *
+Game			:Doom2 (boom-compatible port *WITH A DOUBLED SEGS LIMIT* required)
+Map #			:Map01-Map11
+Single Player		:Yes
+Cooperative 2-4 Player	:Yes. Find a buddy to slaughter monsters with if you wish.
+Deathmatch		:No (only starts so the game won't crash). This WAD is for killing monsters.
+Difficulty settings	:Yes (Authors spend extra time to implement these. Use them if needed.)
+
+* Construction *
+Base			:None
+Build Time		:Too long...
+Editor(s) Used		:Various
+Known Bugs		:None. All bugs have been squashed.
+May not run with	:...out a boom-compatible port *WITH A DOUBLED SEGS LIMIT*
+Tested with		:ZdoomV1.2, PRBoomV2.1, EternityV3.33.50
+
+----------------
+[2]Authors
+----------------
+* Author List *
+Team Leader    :Bloodskull
+Team Sub-Leader:Death-Destiny
+Mappers	       :Bloodskull, Death-Destiny, Dutch Devil
+	        Butts, Fisk, Icecreamsoldier 
+	        Craigs, Printz, Stewboy
+
+------------
+[3]Storyline
+------------
+2008 at last. Ready to kick back and live it up, you receive an emergency call to action from marine HQ.
+Looks like your relaxation will have to wait. Contact has recently been lost with a secret underground facility
+that specializes in weapons storage and long-distance portals. This scenario has hell written all over it. All
+personnel are presumed dead and the facility presumed overrun. This is no rescue mission... it's a search and destroy.
+Since you've lived to face the hordes of hell over and over, you get to be the one to stop them... again.
+Prepare for Part I of Dark Resolution 2008!!!
+
+---------
+[4]Levels
+---------
+Part I
+Map01 - Onset			:Fisk				- Very Easy
+Map02 - Operation Zero		:Death-Destiny			- Medium
+Map03 - The Hunt		:Craigs				- Easy
+Map04 - Den of the Beast	:Printz				- Easy/Medium
+Map05 - Base Construction	:Stewboy			- Medium
+Map06 - Hellstorm Workshop	:Butts and Death-Destiny	- Medium
+
+Part II
+Map07 - Devil's Pit		:Bloodskull			- Easy
+Map08 - The Demons Inside	:Icecreamsoldier		- Medium
+Map09 - Spawning Evil		:Dutch Devil			- Hard
+Map10 - The Soulscarred Universe:Death-Destiny			- Very Hard (UV is for Doom gods only!)
+Map11 -  Lich			:Death-Destiny			- Extremely Hard (You've been forewarned...)
+
+--------------------
+[5]Legal Information
+--------------------
+* Copyright / Permissions *
+
+Authors MAY NOT use the contents of this file as a base for modification or reuse.
+You MAY distribute this file, provided you include this text file without modifications.
+You MAY distribute this file in any electronic format as long as you include this
+file intact. This file may not be used for commercial purposes without the project
+leader's agreement. The project leader is Bloodskull.
+
+* Where to get the file described here *
+Get it here: ftp://archives.3dgamers.com/pub/idgames/ and mirrors

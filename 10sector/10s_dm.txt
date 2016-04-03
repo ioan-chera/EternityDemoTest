@@ -1,0 +1,25 @@
+************************************************************************
+Filename                : 
+LMP Version             : 1.9 Doom2 + Boom2.02
+Pwad(s)                 : 10sector.wad
+Map Level(s)            : MAP01-32
+Skill                   : 4 -nomonsters  
+Author                  : Opulent
+Email Address           : opulent@goodnet.com
+Misc. Author Info       : http://www.goodnet.com/~opulent/doom2.htm
+
+Description             : 
+
+All 32 maps skill 4 -nomonsters except 11, 16, and 21.
+11 -- funky sector behavior; I think I move too fast and the sectors 
+	don't lower all the way.
+16 -- bug prevents exiting AFAIK
+21 -- pfft... forget it.  YOU do it.  =)
+
+Several maps are far from optimized(like the beautiful map27) due to
+the fact that the map is either long or an obstacle course.
+Map24(?), the boat map, requires the player to move slowly or the first
+key cannot be reached.
+
+Additional Credits to   : Doomworld and the authors.
+************************************************************************

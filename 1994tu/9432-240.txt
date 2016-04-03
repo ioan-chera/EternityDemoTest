@@ -1,0 +1,11 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): 1994TU
+Authour of PWAD: Various
+Complevel: 9
+Map: 32
+Recorded with: PrBoom Plus 2.5.1.3 used ZDL to help me
+Category: NM Speed
+Time: 2:40
+
+Notes: Previous recording sessions included: elevators not working amongst some teleporter troubles. I was aiming for 2:30 at least. I didn't open a door before the switch (this consumed time) I got confused in the cyberdemon cage room (the one that has zombiemen not the mastermind one). A lot went wrong but I'll improve this.

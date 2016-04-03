@@ -1,0 +1,30 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop nm100s movie
+mission:  Episode 1
+
+time:     12:23
+
+   Level       Time         
+--------------------
+   E1M1        0:35         
+   E1M2        0:50         
+   E1M3        1:51 
+   E1M4        1:00
+   E1M9        1:02 
+   E1M5        2:11 
+   E1M6        2:05
+   E1M7        2:45     
+   E1M8        -:-- 
+--------------------
+   Total      12:23
+
+
+xit-vono : Well at least he didn't die there :)  It is nice to get this one done.
+
+Vincent : It's not real fast but shows some good routes.
+          Enjoy my wonderfull performance in E1M7, down to 3% = hide

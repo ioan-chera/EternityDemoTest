@@ -1,0 +1,41 @@
+________________________________________________________________________________
+
+Pwad:       1994 Tune-up Community Project
+Maps:       MAP27
+Skill:      4
+Category:   UV Max
+Exe:        PrBoom+ 2.5.1.3
+            -complevel 9
+            -deh notransl.deh (non-translucent projectiles & power-ups)
+
+My recording command line:
+prboom-plus -file 1994tu -deh notransl.deh -complevel 9 -skill 4 -warp 27 -record xxxxxxxx
+
+Playback (brackets [] = optional):
+prboom-plus -file 1994tu [-deh notransl.deh] -playdemo 94271532
+
+________________________________________________________________________________
+
+Kills:  100%
+Items:   71%
+Secret: 100%
+        _____
+       /     \
+Time:  |15:32|
+       \_____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+Don't hide gems like this in megawads :)
+
+I think when I played 1994TU 3 years ago, I stopped playing around level 23.
+So I didn't probably know about this one. This is a gorgeous-looking map,
+with very good weapon and ammo placement throughout, OK monster placement
+(random factor again, heh). I like secrets aren't that vital for survival,
+you have 2 megaarmors for free, etc. Anyway, this is my second exit after
+16:27, tons of deaths and missed monster exits.

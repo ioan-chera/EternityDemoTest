@@ -1,0 +1,24 @@
+WAD: Scythe 2 (2nd release)
+MAP: MAP22: Garden Base II
+Time: 0:57.26
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+From s2no_dd95 text file:
+"Under 1 minute would be very nice, but I don't think I can get it."
+
+Was I really that much of a n00b back then? (Yes, tbh.)
+
+I now consider this a modest demo. I just wanted one that looked semi-decent
+that was also under 1 minute. I aimed for 58, but got 57 and I'm content though
+I think it can be improved by 2 seconds with better running alone. I also
+found a cool glide here while messing around (see the demo s222what.lmp). I
+never seem to get glides that easy, so it was kinda weird, but very cool at
+the same time. I don't think that glide has ever been used before in a speed-
+run, but it would save a second or maybe more if one could get it instantly.
+
+Anyway, nothing impressive to see here (well maybe except for that s222what
+demo with the glide). I just wanted to improve the time and get it under a
+minute is really all.
+
+--Doomdaniel95

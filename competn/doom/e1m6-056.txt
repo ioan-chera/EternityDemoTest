@@ -1,0 +1,26 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e1m6-056.txt, e1m6-056.lmp
+Date     : 2013-7-12 9:55
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : Speed
+Map(s)   : E1M6: Central Processing
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Drew DeVore
+Nickname : Vile
+Country  : USA
+Email    : dadevore83@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 22%
+Items    : 13%
+Secrets  : 50%
+Time     : 00:00:56
+===================================
+Description:
+Well this did not feel like a new record while I was recording it but that
+happens sometimes.  I felt like the first clean exit would get me there if
+the rest of the level went okay.  A few more seconds could be squeezed out
+of this with tighter play.

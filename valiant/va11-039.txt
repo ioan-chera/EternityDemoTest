@@ -1,0 +1,18 @@
+	  	  Valiant
+	Map 11 - Yesterday's Insanity
+
+	Pwad:      	valiant.wad
+	Map:       	11
+	Skill:     	4
+	Category:  	UV-Speed 
+	Source port:    prboom-plus 2.5.1.4
+	   		-complevel 11
+
+	Time:      	0:39
+
+	Author: 	Noobest
+
+Comments: My first route for this map included getting the rocket launcher to deal with the imps on the way
+	  to the yellow key. For some reason I thought there were a lot more of them than there actually are.
+	  This route is almost the same as the nomo just a slightly changed order because of the arachnotron
+	  and mancubi near the red key.

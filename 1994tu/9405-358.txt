@@ -1,0 +1,11 @@
+Pwad: 1994tu.wad    
+Pwad name: 1994 tune-up
+Map:      5
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      3:58
+
+-complevel 9
+
+Author:	   j4rio

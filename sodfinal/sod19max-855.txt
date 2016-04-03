@@ -1,0 +1,9 @@
+Doom 2
+Speed of Doom
+Map19: Impure Serenity
+UV Max in 8:55
+-complevel 9
+
+The beginning was inspired by Qaatar's UV Max run. The later parts was taken quite slowly, especially getting to the plasma rifle. The arachnotrons often blocked me,
+which made that part of run slow. Getting the cyberdemon to warp to the start by shooting at him and then telefragging him made the run much easier and smoother.
+Time could've been faster, but it was at least under 9 minutes.

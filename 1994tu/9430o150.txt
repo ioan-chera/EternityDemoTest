@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      1994tu.wad
+Pwad name: 1994 Tune-Up
+Maps:      MAP30
+Skill:     4
+Category:  NoMo-Pacifist
+Exe:       Prboom+ 2.5.1.3 -complevel 9
+
+Time:      1:50
+
+Author:    Plut
+Done April, 17, 2013
+
+
+
+
+

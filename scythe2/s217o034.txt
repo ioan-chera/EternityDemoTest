@@ -1,0 +1,27 @@
+WAD: Scythe 2
+MAP: MAP17: Canyon of Blood
+Time: 0:34.74
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 4, 2013
+
+When I got 35, I knew I could do 34 if I spent more time and put more 
+effort into it. I wasn't quite satisfied with 35.31.
+
+I started this map again, spent 40 minutes only to get high 35's and some
+36's. I was sick of it so I took a break to help my Dad wash the car, came
+back an hour later, started up again, and got this in 15 minutes. I like
+how strange things like this can happen. :P
+
+This run still has a few minor flaws, and 33 or maybe even 32 can be
+squeezed out. A couple landmarks you should hit for getting at least 34
+are: get on that ash floor by where the wall lowers to reveal the BSK by
+the time 18 seconds rolls around, preferably in between 17 and 18 seconds.
+Also, you should press that end switch somewhere around 29 seconds to allow
+about 5 seconds for running up to the exit switch. You'll probably have to
+be a little quicker than that to get 33 or below. Good luck if anybody
+tries to beat this.
+
+Enjoy!
+
+--Doomdaniel95

@@ -1,0 +1,17 @@
+Pwad: scythe2.wad   
+Pwad name: Scythe 2
+Map:      13
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.1
+Time:      11:45
+
+-complevel 2
+
+Author:	   j4rio
+
+I was sure Xit's demo was around 30 minutes
+long so I didn't bother with this and did
+a 25 minutes long careful one. Then I 
+noticed that he actually did it in 
+18 minutes... Mhhhhh

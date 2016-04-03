@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      valiant.wad
+Maps:      Map06
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus 2.5.1.4 -complevel 11
+
+Time:      0:57
+
+Author:    Krankdud
+
+Comments:
+The jump at the beginning is pretty tough. Some bumps here and there
+but overall pretty good run.
+
+Attempts: 240
+Exits: 6

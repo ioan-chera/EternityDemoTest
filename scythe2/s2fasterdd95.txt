@@ -1,0 +1,163 @@
+WAD: Scythe 2
+MAPS: See Below
+Time: Various
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: See Below
+
+Note: Thanks to Cacatou for making me want to return to Scythe 2 and
+record some more demos for it that are better. :)
+
+All demos use SR40 only unless otherwise specified (just like any other
+of my normal demos).
+
+Map title and comments:			TIME:
+
+MAP01 (Castle Entryway):		OMITTED%
+
+MAP02 (Rooftop Warzone):		OMITTED*
+
+MAP03 (Castle Gardens II):		0:50.51
+Comments: After seeing Cacatou's 3 second improvement on my old demo, I
+thought it might be difficult getting 50. Sure, it took a bit of time, but
+it didn't take as long as I had expected. I guess my old demos just really
+sucked. :P Under 50 is definitely possible but I'm too lazy to try for it.
+This demo is recorded with SR40 except for a small portion between the 12
+and 13 second marks (where I use SR50 to help me get across that water).
+Recorded on: June 3, 2013
+
+MAP04 (Cursed Cellars):			0:21.94
+Comments: I'm surprised Cacatou didn't try to improve more than he did on
+this map. After 5 minutes of low 22's, I got this. All SR40.
+Recorded on: June 3, 2013
+
+MAP05 (Halls of Anguish):		OMITTED&
+
+MAP06 (Temple Entryway):		OMITTED%
+
+MAP07 (Temple of Isis):			OMITTED^
+
+MAP08 (Graverobbers):			0:24.34
+Comments: Strange glide. I figured out it was easiest for me to do as I
+glided in the demos. s208olol features a funny occurance since I did not
+properly trigger a linedef after gliding. Cool map otherwise. :D
+Recorded on: June 3, 2013
+
+MAP09 (Valley of the Queen):		OMITTED%
+
+MAP10 (Pharaoh's Tomb):			OMITTED*
+
+MAP11 (UAC Base X):			0:19.97
+Comments: Wow, very happy with this one. Expected to get more 21's and
+a 20 about an hour later, but I got 19 now. To get 19 is tricky because
+you have to have pretty good running in the halls by the YK (not too hard
+to do) and not pause at the trick jump... at all (this is what is tricky!).
+Now, because of this, you'll miss the trick jump pretty often, but don't
+let that discourage you when you run the level. If you do it successfully,
+it'll be faster. :)
+Recorded on: June 4, 2013
+
+MAP12 (Battleground):			0:33.94
+Comments: Meh, I wish it looked a little cleaner for its time, but what
+matters is that it's a 33. :) I think what helped was the bit of "rail
+running" and bouncing off that switch which reveals the BK.
+Recorded on: June 6, 2013
+
+MAP13 (Mining Project):			0:37.91
+Comments: With the jump trick by the red key, it's easy to get under 40
+seconds. I got 38.91 on my first try today (tried 2 times yesterday then
+had to eat dinner). :) Just from there is trying to bring the time down.
+This wasn't too hard for me to do. I used a little SR50 to help the "no
+door close" jump trick.
+Recorded on: June 5, 2013
+
+MAP14 (The Haunted Mines):		OMITTED&
+
+MAP15 (End of the Line):		OMITTED*
+MAP15s (End of the Line):		OMITTED*
+
+MAP16 (Mr. X):				OMITTED*
+
+MAP17 (Canyon of Blood):		0:35.31
+Comments: Too bad it's .31 hundredths of a second. You just have to not
+bump into a lot of things, get the jump, and press the switch right after
+the jump. More times than not, ironically, I failed when I made the jump
+because I would fly right over that switch and land on the other side,
+somewhere else. Fun map to run though. Very scenic!
+Recorded on: June 6, 2013
+
+MAP18 (Living Lands):			0:31.40
+Comments: First successful exit, I got a 32.09. This irritated me, so I
+had to bring it down to 31. Problem was, it's hard. It took a long time.
+Other times were 32.06, 32.00, 32.03, 32.09 (again), and then just before
+my success I got 32.77. Within a couple of runs after my 32.77, I got this.
+I really don't understand how I can go from high 32 to mid 31 so easily
+and quickly now, but not earlier. Weird, huh? :P I also don't know why
+more people don't use the switch trick near the beginning. Sure, it's
+annoying, but if you get it right away, you can save a full second at LEAST.
+Recorded on: June 6, 2013
+
+MAP19 (Withering Away):			OMITTED%
+
+MAP20 (The Gates):			1:34.46
+Comments: I got a lot of 1:35's before this, not surprisingly. Maps like
+this where you have to run a lot without many stops are tricky and kind of
+hard on the hands (for a keyboarder like me ;P). Idk what I did differently
+here than on my other attempts, but this one is simply faster.
+Recorded on: June 7, 2013
+
+MAP21 (Doom Gardens):			OMITTED*
+
+MAP22 (Garden Base II):			OMITTED*
+
+MAP23 (Whispering Winds):		OMITTED*
+
+MAP24 (Gaias Temple):			1:21.63
+Comments: Cool, not sure how I got that linedef skip to work, but it did.
+There are a couple slightly sloppy moments, but this is probably hard to
+beat unless you also get the linedef skip and have perfect running (unlike
+my running).
+Recorded on: June 7, 2013
+
+MAP25 (Forgotten City):			OMITTED*
+
+MAP26 (Death):				OMITTED*
+
+MAP27 (Afterlife II):			1:31.74
+Comments: Long but very likeable map. First exit was 1:32, and it was kinda
+hard for me to push it down another second. Unfortunately, even though I've
+tried, I just can't seem to get this to 1:30. Maybe Cacatou or somebody else
+could get 1:30 or even 1:2x? :)
+Recorded on: June 9, 2013
+
+MAP28 (Nightmare):			OMITTED*
+
+MAP29 (Dust to Dust):			OMITTED%
+
+MAP30 (Haunting Dreams):		0:48.29
+Comments: Wow, 22 second improvement just by finding a better spot to fire
+the rockets. :) This map can be done under 50 seconds after all! I bet it
+could be done under 45, too, if you were very precise and patient, but I'm
+neither one of those, so you probably won't see better from me.
+Recorded on: June 10, 2013
+
+MAP31 (Secret):				OMITTED*
+MAP31s (Secret):			OMITTED*
+
+MAP32 (Super Secret):			OMITTED*
+
+Reasons for omitting runs:
+
+% means that somebody else already has a better time for that map that
+	I couldn't beat.
+* means that Cacatou beat one of my old runs, and that run of his was so
+	good I couldn't take back the record. :)
+& means that Cacatou simply tied me or did not bother to beat one of my
+	runs. No need for me to record a faster demo there.
+^ means that I can't beat the map with the nomonsters parameter.
+
+Once again, thanks to Cacatou for this motivation to play more Scythe 2.
+You had some pretty good demos, man! I only beat about half of yours. Maybe
+we should do this for some more WADs? :)
+
+--Doomdaniel95

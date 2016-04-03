@@ -1,0 +1,102 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+cp2-0343.txt
+
+ cp2-0343.zip
+
+  cp2-0343.lmp - Coop Ultra Violence
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+
+  DooM - Episode 2 - The Shores Of Hell
+  category: coop speed movie
+
+
+   Level       Time         
+--------------------
+   E2M1        0:34         
+   E2M2        0:18         
+   E2M3        0:36 
+   E2M4        0:45 
+   E2M5        0:33 
+   E2M6        0:44
+   E2M7        0:13     
+   E2M8       (0:54) 
+--------------------
+   Total       3:43
+
+
+Description :
+
+  
+
+  [ JC : ] 
+  
+   E2M1
+   small slowdowns in the end ^^
+   
+   E2M2
+   Run ... Run !!
+   
+   E2M3
+   the hardest map, these demons are really annoying ...
+   
+   E2M4
+   choww does all the work here =)
+   
+   E2M5
+   boring map o/
+   
+   E2M6 
+   where is this angle ? this way could be better !
+   
+   E2M7   
+   a great sg boost mate !
+   
+   E2M8
+   Just ... do not die here xD
+
+
+
+  [ Ch0wW : ]
+  
+   E2M1
+   In this level, I lower the elevator as fast as I can to get a fast time. Then, it's all up to JCD. Also, I have hit JCD unwillingly.
+   
+   E2M2
+   I took the green armor and some shotgun shells. Then, I wait for the exit.
+   
+   E2M3
+   I tried to help JCD as most by opening the door, letting the demons out, and then, taking the Red... aah. MegaArmor.
+   
+   E2M4
+   I got a lot of life, so I do my best to open the colored doors! Also, linedef jump...
+   
+   E2M5
+   I took the chaingun for later, the mini-cells, and waited for JCD.
+   
+   E2M6 
+   I tried to be as fast as possible for JCD to make the void glide, and to exit the level.
+   
+   E2M7   
+   Well, practicing again our shotgunboost skills :).
+   
+   E2M8
+   I ... FORGOT my rocket launcher!
+  
+
+
+  Authors :
+  
+  JC
+  superjc@free.fr
+  18th Compet-N Entry
+
+  Maëllig "Ch0wW"' Desmottes
+  Ch0wW@baseq.fr
+  6th Compet-N Entry
+
+  France
+  2013/06/25

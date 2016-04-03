@@ -1,0 +1,47 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+N1M8-043.TXT
+
+ N1M8-043.ZIP
+
+  N1M8-043.LMP - NightMare !
+
+  Recorded using "DooM v.1.9"
+
+    > doom -playdemo with "Ultimate DooM" OR
+
+    > doom -playdemo with "Doom" OR
+
+    > doom -playdemo with "Shareware Doom"
+
+  DooM - Episode 1 Map 8 - Phobos Anomaly -
+
+  Kills     ??%
+  (Items    ??%)           ---------------
+  Secrets    0%  and Time  |00:43 @ 00:44| 
+                           ---------------
+
+  #####################################################################################
+  # Description:  # Hi folks :)                                                       #
+  ################# I can't believe that such luck happened to me, I started  played  #
+  # this level ( one of my favourite ) almost 1 year ago just for fun, I had no idea  #
+  # that was possible to beat this record. After several tries I noticed that 1  pig  #
+  # at NM can kill me in 2 seconds, so it means 100%. So,  many of them  should have  #
+  # killed the barons in 30 seconds or less, but at first I never had that luck.      #
+  # Then I realized that it wasn't necessary shot the barrels and take the  chaingun  #
+  # because pigs can be faster than your chaingun's fire power, and finally around 6  #
+  # months ago I made 46, but I recorded that demo with Doom95 ( I didn't have  Doom  #
+  # for DOS yet).                                                                     #
+  # Then I tried this again with Vanilla Doom and I was really lucky,  expecially at  #
+  # the end, I also didn't hit the first barons, but I'm satisfied with this.         #
+  # Hope you'll enjoy watch the demo :)                                               #
+  #                                                                                   #
+  # Special thank go to my bro, edgar89, who helped me with vanilla doom, he's  kind  #
+  # of the mind, I'm the arm :)                                                       #
+  #                                                                                   #
+  # See ya folks :)                                                                   #
+  #                                                                                   #
+  ##################################################################################### 
+
+  Author: Red-XIII
+	  silverdragon93@msn.com

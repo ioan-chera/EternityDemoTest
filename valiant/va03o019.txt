@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Iwad:      doom2.wad
+Pwad:      valiant.wad
+Pwad name: Valiant by skillsaw
+Maps:      MAP03 ("Tiers of Pain")
+Skill:     4
+Category:  Nomonsters
+Exe:       Prboom+ 2.5.1.4.test -complevel 11
+
+Time:      0:19
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  More fun with rocket launcher. I take forever to line up, so very improvable!

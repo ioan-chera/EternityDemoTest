@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      10sector.wad
+Pwad name: 10 Sectors WAD (Doomworld)
+Maps:      MAP01
+Skill:     4
+Category:  UV Max
+Exe:       boom.exe -- boom-34.lmp
+           mbf.exe -- mbf-34.lmp
+
+Time:      0:34 (both demos)
+
+Author:    Karthik Abhirama Krishna
+Email:     karthik@newdoom.com
+HP:	   http://www.newdoom.com/karthik
+
+Comments:  
+
+MAP01: Kukloppe is one of my favourite maps in the 10 Sectors megawad.  The DSDA already has plenty of demos for this WAD, but anyway I decided to submit mine too :).  Well, I'll keep trying to shave seconds off my demos, and if I get a better one I'll surely submit to the DSDA!

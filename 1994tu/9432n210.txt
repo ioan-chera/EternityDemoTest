@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      1994tu.wad
+Pwad name: 1994 Tune-up Community Project
+Maps:      32
+Skill:     5
+Category:  NM-Speed
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+Time:      2:10
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Looks horrible but this level is very annoying.
+           Every trigger can easily fail, the first door
+           didn't open every third time as well as the elevator.
+           Even teleports betrayed me, see 9432n_telefail.lmp

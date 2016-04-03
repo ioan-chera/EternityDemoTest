@@ -1,0 +1,15 @@
+Pwad: vanguard
+Map:      12
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.3
+Time:      5:47
+
+-complevel 9
+
+Author:	   j4rio
+
+
+>Anyone up for 7:XX?
+
+Sorry, 7:XX was just out of reach for me.

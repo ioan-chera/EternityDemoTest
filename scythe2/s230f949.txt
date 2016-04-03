@@ -1,0 +1,19 @@
+Pwad:      Scythe II
+Pwad name: scythe2.wad
+Map:       30
+Skill:     4
+Category:  UV-Fast
+Exe:       GLBoom+ v2.5.1.3 -complevel 2
+
+Kills:     147%
+Items:     61%
+Secrets:   100%
+
+Time:      9:49
+
+Comments:  This was surprisingly much easier then I thought after devising a realistic strategy to take care of the Cyber on the stairway and the marines on the opposing balcony. The main fight on the beginning stairway with the Barons/HK's and AV's can be done relatively quickly with luck if the AV's manage to bunch up towards the back and get slaughtered by infighting in one practice run. The main loss of time however were the Afrits at the end, they ended up scattering to the four winds and I had a slight nervous breakdown :P Otherwise under 9 minutes would have been feasible but unrealistic given how sproadic this route is. The target was under 10 minutes so I'm satisfied!
+
+Author:	   Bloodite Krypto
+
+03.01.2015
+

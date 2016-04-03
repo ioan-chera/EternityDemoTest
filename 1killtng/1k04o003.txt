@@ -1,0 +1,15 @@
+ Number One Kill the Next Generation
+              Map 04
+   Map Author: Angelo Jefferson
+-------------------------------------
+           1k04o003.lmp
+
+Nomo Speed in 0:03.26
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Faster than Opulent's 3 seconds (he got 3.94). 2 might be possible with TAS.

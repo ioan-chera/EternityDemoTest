@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Maps:      Map12
+Skill:     4
+Category:  -nomonsters
+Exe:       prboom-plus 2.5.1.3 -complevel 9
+
+Time:      1:09
+
+Author:    Krankdud
+
+Comments:
+Beat a Cyberdemon531 Demo Week
+This took much longer to get than it should have because the linedef skip at the
+second rocket boost just stopped working for me. There's quite a few silly movement
+mistakes since I was getting pretty tired at this point (I was working on the other
+SoD nomos before this). I almost blew it at the exit switch :D

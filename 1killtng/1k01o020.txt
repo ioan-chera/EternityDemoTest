@@ -1,0 +1,15 @@
+ Number One Kill the Next Generation
+              Map 01
+   Map Author: Angelo Jefferson
+-------------------------------------
+           1k01o020.lmp
+
+Nomo Speed in 0:20.94
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Not sure if it's improvable by more than a second, but the centisecond time can definitely be taken down. Maybe I'll try UV-Speed in the future.

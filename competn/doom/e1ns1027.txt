@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry
+
+Run : Ultimate Doom Episode 1 : Knee-Deep in the Dead
+Category : Nightmare! with 100% Secrets
+Recorded with doom.exe v1.9
+
+E1M1 - Hangar              -  0:22
+E1M2 - Nuclear Plant       -  1:05
+E1M3 - Toxin Refinery      -  2:04
+E1M9 - Military Base       -  0:55
+E1M4 - Command Control     -  0:34
+E1M5 - Phobos Lab          -  1:58
+E1M6 - Central Processing  -  1:33
+E1M7 - Computer Station    -  1:56
+E1M8 - Phobos Anomaly      - (1:12)        
+----------------------------------
+Total                      - 10:27
+
+Comments : 
+E1M1 : /
+E1M2 : Yes, this ugly run is a 1:05...
+E1M3 : Nice run here
+E1M9 : The ending was a bit messy, but it's nice to have a quicker way to kill these
+       spectres
+E1M4 : Usual run
+E1M5 : I'm very disappointed... I made too much mistakes. At the end I nearly pressed a
+(yeah, on french keyboards it's not q). It should be possible to take 10s off here.
+E1M6 : I lost some time at the beginning, due to my badly aimed rocket at E1M5,
+       otherwise the run was very smooth.
+E1M7 : No surprise here, my run is always the same on this map.
+E1M8 : /
+
+Overall, that's a nice improvement over Vile's time. It's mostly a better use of the
+rocket launcher, and some better running at some points...
+This episode is the funniest to play, especially in nm100s. I might improve this run
+again. I think an optimal time should be just under 10:00 (according to my best times),
+but it would require a huge load of luck. Maybe, one day... :)
+
+Of course, thanks to all who ran this episode before. I watched their demos several times,
+before thinking of some possible route improvements.
+That was a real pleasure recording this demo, so I hope you will appreciate the results
+of my efforts here ;)
+
+Laurent "Squonk" Sebellin <squonk@free.fr>

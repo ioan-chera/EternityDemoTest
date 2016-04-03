@@ -1,0 +1,10 @@
+Runner: Christopher "Dime" Dewey
+IWAD: Doom2.wad
+PWAD: Valiant.wad
+Category: UV-Speed
+Map: 19, The Popes of Roam
+Source Port: glboom-plus 2.5.1.4
+Time: 0:36
+
+I really wanted to go through the center after the blue key but the success rate was so low i
+ended up going with the side route by the cacos.

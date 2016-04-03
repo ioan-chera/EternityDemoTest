@@ -1,0 +1,15 @@
+Pwad: scythe2.wad   
+Pwad name: Scythe 2
+Map:      11
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      2:28
+
+-complevel 2
+
+Author:	   j4rio
+
+Xit's demo was particularly
+difficult to improve. I like
+how crappy the demo looks.

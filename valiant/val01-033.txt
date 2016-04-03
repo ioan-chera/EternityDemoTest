@@ -1,0 +1,9 @@
+Runner: Christopher "Dime" Dewey
+IWAD: Doom2.wad
+PWAD: Valiant.wad
+Category: UV-Speed
+Source Port: glboom-plus 2.5.1.4
+Map: 1, Bad Reception
+Time: 0:33
+
+That one small ledge for the SR50 is super annoying when it steals all your speed.

@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Pwad name: Speed of Doom
+Maps:      MAP11
+Skill:     4
+Category:  UV-Max
+Exe:       Prboom+ 2.5.1.4.test -complevel 9
+
+Time:      4:58
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  Cowardly hell knight hiding in the cave and silly me falling into the green river ruined this demo a bit. Oh well, at least I got below 5 minutes so I think I'll stop for now. This map is really difficult to survive while playing this aggressive, at least for me.

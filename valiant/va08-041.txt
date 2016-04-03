@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      valiant.wad
+Maps:      Map08
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus 2.5.1.4 -complevel 11
+
+Time:      0:41
+
+Author:    Krankdud
+
+Comments:
+Implemented an Archvile jump that cuts out a lot of the map.
+Kinda sloppy in a few places, but I was aiming for something
+below 0:43 so whatever works.
+
+Attempts: 730
+Exits: 6

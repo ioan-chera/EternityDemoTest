@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SODfinal.wad
+Pwad name: Speed of Doom
+Maps:	03
+Skill:	4
+Category:	Tyson
+Exe:      	PRboom+ 2.5.1.4 cl9
+	with advanced HUD
+-------------------------------------------
+Time:     	6:15
+-------------------------------------------
+Comments:  
+Harder than I thought, by that I mean I suck and kept dying to cacos, this isn't hard at all.
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

@@ -1,0 +1,136 @@
+Pwad: scythe2.wad
+Pwad name: Scythe 2
+Map:      1-30
+Skill:     4
+Category:  UV-Speed
+Exe:       GLBoom+ v2.5.1.3
+Time:      87:30
+
+-complevel 2
+
+Author:	   j4rio
+
+My second released UV-Speed, and it's only one hour and half long! Talk about speed. 
+
+This started out completely randomly amd I'm not even sure what inspired me about the idea of 
+actually doing this, but I vaguely recall that I was actually thinking of doing a max of the whole 
+thing, because I needed something for procrastination. It didn't take particularly long to realise 
+that it's actually undoable, because besides being of a little noticeable difficulty, it's almost 
+impossible to get to map 32 in a movie. Well, shrugs. I didnt't want to abandon the idea completely 
+so I eventually settled with trying this.
+
+S2 features a ton of perfectly reliable map skips and another ton of completely unreliable 
+ones. It was quite a while until I pinned down a working route for the whole thing. Still, I had 
+a huge advantage before even beginning any serious attempts, because I was already familiar with 
+the whole wad, so all that was really necessary was some routing for speeding through. However, 
+most of speed tricks were unknown to me except for very few I remembered from my earlier days, 
+so thanks to whoever discovered stuff I included. Also, despite being an uv-speed, I should 
+mention that I didn't pay attention to the time almost at all and focused just on doing the thing 
+while remaining in one piece. I've never restarted an attempt because of bad time at any point of 
+run, although I did if I failed crucial map-skipping tricks early in this run. 
+
+I suppose individual map comments isn't of any particular use here since I wasn't competing with
+anyone and I doubt somebody will try beating this in very notable while, if ever. Instead, I'm
+going with just general comments about episodes as whole and mentioning some sticking moments.
+
+The first thing that comes on mind is that this really wasn't that difficult to pull off. There
+is a grandiose amount of powerups on the way and hitscan bestiary is deployed very sparsely, so
+luck gets to play only minor role in staying alive, much less notable than in, say, TNT. Routing
+every little detail of run and adjusting reliability of every insufficient tactic were the main
+contributors to the existence of demo (far more important factors than raw number of attempts). 
+ 
+Mentionable re-occuring author's trait is presence of skippable linedefs everywhere, be it crucial 
+lines needed for further progression, exit lines or monster pop-up lines. They were a reason of 
+many slow-downs or sometimes even speed-ups. The only one I noticed that took effect was in map 3 
+shortly before exit, I fired a rocket into sky but I was expecting a few imps  blocking the lower 
+part of stairway, but they failed to raise up.
+
+Another thing is that there's possibility of many very easy tricks, plenty of which completely skip 
+maps. Ep1 is a little plain in this regard, which makes it quite dull to run through each new 
+attempt. Besides the window jump in map 2, which saves only a minor amount of time, there is pretty 
+much nothing but running for keys and to exit. Map 6 is however featuring a rather annoying jump 
+that can get randomly blocked by an imp on RK pedestal. Failing it would mean a lame looking detour 
+so I just quit if I screwed this bit up (or got screwed up by rng). This and window jump in map 2 
+were the only reasons of restarting an attempt, also occasionally failing the waterfall jump in 
+map 3. 
+
+Map 7 is the first map that gets pretty much maxed, but it's only because of map 7 tags. Unassisted 
+RJ over gap to exit while using -cl2 isn't going to happen too soon, I guess. It's also surprisingly
+lethal if played badly and rockets refusing to get some quick kills, so I decided to raise up my
+chances of not facesplatting myself onto a demon face by taking them out before activating mancs. It
+probably caused the most involuntary restarts of all maps in wad. 
+
+The upcoming glide in map 8 and later in map 23 were a main turn-off when switching from maxing to 
+speed. They were just too much of a timesaver not to include them in a run. However, gliding is 
+something that my usual setup doesn't handle exactly well, so I fiddled with mouse settings through 
+menu every time I was about to perform the trick, exactly by turning on vert just for the glide and
+then switched it off after performing it. Note that doing this doesn't automatically make the glide
+work, only increases the odds of doing it in reasonable amount of time (read: seconds instead of 
+minutes). I'm leaving up to watcher to make up their mind about their moral view on the matter.
+
+The rest of ep2 after gliding is a straightforward running and blasting whatever gets in the way.
+RJ in map 9 wasn't even considered, unreliable and minimal time save. With arsenal already 
+gathered since last death exit, it's arguably useless. The finale of the episode can get very ugly 
+in an instant.
+
+Ep3 and ep4 is the most trick-riddled section of wad. Map 11 gets skipped by moderately difficult 
+crate jump, map 14 by a switch trigger at start, map 15 by a very easy crate jump. Entering map 31 
+allows a bypass of death-exit, so I get to keep all of my arsenal for ep4. It has a funny consequence 
+of anticlimatic events in map 16. Maps 17 and 18 again allow me to skip a huge chunk by strafejumps.
+
+The beginning and the end of this section puts up the most resistance, namely maps 12, 19 and 20 are
+the most screwable points here. 12 has a scary cyber that almost got me in the run and lots of other
+stuff without an easy way out. The success rates here were significantly raised when I noticed the 
+crate outside that offered a reliable cover and I could waste mancs without risking a blast to the 
+back. Map 19 gets slogged through as well, even though there are some possible mapbreaking tricks, I
+never got them working reliably. Namely, the RK grab and some wobbly strafejump from the wall that 
+gets me to soulsphere secret. With a sufficiently loaded BFG this isn't that much of a problem. Map
+20 has a risk of facesplat by a random distant rocket, so cybers get wasted as soon as possible, but
+it's by far not as hard as living through map 12.      
+
+Ep5 is a point where headless running to the exit gets swapped for rational surviving, specifically
+the moment I pick yellow key in map 23. It might seem so that this is where my survivability drops 
+to abysmally low levels, well, truth be told I think map 21 and 22 got me more times than the huge
+BFG-ridden chunk that is map 23-25. Map 22 wasn't that far from ending the run again, the section 
+with plasma gun can really hurt and the limited ammo forces some reckless actions. Map 21 isn't 
+exactly a cute little starter map as well, getting an unlucky blast from caco without armor coupled
+with some pecks from zombieman can result in agitating death. The 3D bridge there is also faulty and
+more often than not an imp starts scratching me from below, so they had to be removed with a rocket.
+
+The moment I get YK in map 23 is where success starts depending mainly on BFG. It's necessary to thin
+out the cacos before rushing for exit, because bumping onto an infinitely tall caco is a death sentence
+down there. Map 24 is probably my favorite bit because it's surprisingly easy if I handle it in a mildly
+relaxed pace. There's a lovely AV jump that bypasses a very annoying section of map, which as a bonus
+redirects the invulnerability usage. The downside to that is the invulnerability grab requires another 
+AV jump, but at least it's difficult to screw up. Another trick I realised is the possibility to blast 
+the horde appearing on ground level before exiting from above with infinitely tall rocket blast. In 
+theory, it wouldn't be that hard to just rush for exit, but the success in map 25 is proportional to 
+the amount of health and ammo I bring along from 24. Map 25 gets cheesed with all the ammo I bring along,
+but those evil twins gave me a surprisingly hard time - usually I don't even realise their presence, but
+the first one refused to run into a rocket and the second one managed to follow me through closing
+door, which caught me off-guard. The pleasure of death-exiting for the last time is all mine.
+
+The last ep is unfortunately a murder. Just the start of 26 is complete bullshit and got me no less than 
+3 times, that suicide slide trick is absolutely out of question and the map is really fkin hard on its
+own. The only worse news is the next map is 27, so even if I managed to somehow slide through that gap
+and exit, it's probably for the better starting it with soulsphere from secret and ssg. 27, while possible
+to do in just few minutes in theory, gets almost completely slogged through. None of the huge timesavers
+are really reliable, at all, so you get to sit through the whole damn thing. There's a very long sequence
+of ssg cleaning until the starting area becomes somewhat safe, followed by even slower sections with careful 
+horde thinning . The only speed-related things I did here was a cyberdemon trigger skip when grabbing PG and 
+bypassing second afrit to save up ammo for BK. I'm not really sure if there is any way to speed this up while 
+not getting completely screwed in the process, even the bypass of afrit was already less than optimally 
+reliable stategy but it was necessary. 28 and 29 each fortunately offer quick easy map-skips, but at this
+point even easy stuff becomes difficult due to progress. The huge downside to map 28 is that you get only 
+one single shot at doing it, regardless of how easy it is. If you're wondering, of course I screwed it up,
+fortunately only once though. 29 and 30 were both first-timers, I've never reached 29 before this attempt.
+30, well, it's comparable in difficulty to 24, but the fact that it's a last map makes fails way more 
+probable - yeah, I had 7 HP moments before exiting.
+
+Yeah, well, that's about it. This was in the works for around a month on-and-off, but actual time spent
+with it wasn't that different from time I spent with TNT, probably even less. I couldn't play anywhere 
+near as much as I most likely would. Well, stuff keeps getting in the way of my procrastinating habits. 
+  
+
+
+

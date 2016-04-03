@@ -1,0 +1,27 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe2.wad                     
+Pwad name: Scythe 2                       
+Maps:      MAP18
+Skill:     4
+Category:  NM100
+Exe:       PrBoom+ 2.5.1.4test -complevel 2
+
+Time:      0:50
+
+Author:    Plut
+Done July, 8, 2013
+
+Just tablefiller, first exit. 
+
+
+
+
+
+
+                                               
+
+
+
+

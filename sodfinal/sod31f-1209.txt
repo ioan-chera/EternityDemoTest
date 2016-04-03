@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: sodfinal.wad      
+Pwad name: Speed of Doom
+Maps:      31
+Skill:     4
+Category:  uv-max w/ -fast
+Exe:       Prboom 2.5.0 complevel 9
+
+Time:      12:09
+
+Author:  Cacolord  
+Email:  browithdough@hotmail.com   
+
+
+Comments:  Really shitty run. On some practice run, I got 8:xx or 9:xx. Don't feel like doing this again :/.

@@ -1,0 +1,11 @@
+PWAD: vanguard.wad
+PWAD name: Vanguard
+Map: 7
+Skill: 4
+Category: UV-Max
+Exe: PrBoom+ v2.5.1.4 -complevel 9
+Time: 1:06
+
+Author: rdwpa
+
+Didn't expect that time. :p 

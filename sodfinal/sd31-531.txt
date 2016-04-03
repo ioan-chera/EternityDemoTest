@@ -1,0 +1,13 @@
+Iwad: doom2.wad
+Pwad: Speed of Doom
+Pwad name: sodfinal.wad
+Map: 31
+Skill: 4
+Category: uv-max
+Exe: PrBoom-Plus 2.5.1.1
+Time: 5:31
+
+Author: dannebubinga
+Email: daniel.tomhet@gmail.com
+
+comment: It feels like I know this map by now

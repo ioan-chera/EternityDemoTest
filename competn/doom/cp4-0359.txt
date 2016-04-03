@@ -1,0 +1,29 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop speed movie
+mission:  Episode 4
+
+time:     :
+
+   Level       Time         
+--------------------
+   E3M1        0:33
+   E3M2        0:37
+   E3M3        0:17
+   E3M4        0:35
+   E3M5        0:36
+   E3M6        0:55
+   E3M7        0:26
+   E3M8        -:--
+--------------------
+   Total       3:59
+
+xit-vono : We had 3:54 but I decided to give Vincent a visit while he was using his BFG.
+
+Vincent : Not too good, some lousy parts here and there but break the 4 mins. 
+	  Last and fourth episode is ours now. Waiting for some CZ replies soon :)
+

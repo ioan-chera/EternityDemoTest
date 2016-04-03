@@ -1,0 +1,37 @@
+   1994 Tune-up Community Challenge
+  Map 29: The Castle Invaded by Hell
+     Map Author: Tatsurd-cacocaco
+------------------------------------
+            9429x046.lmp
+
+THIS IS A TOOLS-ASSISTED DEMO
+
+Pacifist TAS in 0:46.71
+
+    Kills   - 2%
+    Items   - 1%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Tools used: slow motion recording (45%),
+segmenting, automated strafe50, strafe50
+on turns
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Initially wanted to glide through the cross, but soon found that the Tatsurd made the cross impassable. Thus, I took the standard route. Bunch of seemingly random shots throughout the run help manipulate the monsters out of the way. It might be possible to do faster, but I'm not sure (it might be possible to get the AV to the cross faster). At any rate, I had a low 47 at first, which I pushed down to a 46, and I'm satisfied with this TAS. Pretty fun TAS to record.
+
+Also, here's few notable points in the demo:
+
+-I wallrun along a few monsters in this run.
+
+-wallrun on wall leading into the second door in the castle, possible to door boost on both doors, but I can't do that with standard TAS.
+
+-second door is opened carefully to not alert the demon to the right; if I run back fast enough from the door, the demon doesn't see me, but if he does, he will run out early and potentially block me
+
+-wallrun along the hell knight platform
+
+-I use the teleporter to get back across the platform; this probably wouldn't be good in normal Pacifist, as you're very likely to telefrag an imp. It helps me a lot, though, given that I can run back before the door closes with the help of a teleport unstuck from the imp.

@@ -1,0 +1,41 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ep4-2058.lmp, ep4-2058.txt
+Date     : 2013-12-30
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Max Movie
+Map(s)   : Episode 4: Thy Flesh Consumed
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Map  - Name                  - Time
+-----------------------------------------
+E4M1 - Hell Beneath          - 2:16
+E4M2 - Perfect Hatred        - 2:29
+E4M9 - Fear                  - 2:49
+E4M3 - Sever the Wicked      - 3:07
+E4M4 - Unruly Evil           - 1:35
+E4M5 - They Will Repent      - 2:15
+E4M6 - Against Thee Wickedly - 3:44 
+E4M7 - And Hell Followed     - 2:43
+E4M8 - Unto the Cruel        - [Excluded]
+-----------------------------------------
+                  ToTal Time : 00:20:58
+=========================================
+Description:
+
+This is my 100th Compet-N Entry. I wanted to do special something for 
+100th Entry, so I tried a Max movie first. This result is not too bad as 
+the first challenge, but this still has rough run in later maps like E4M6 
+or E4M7. Under 20 min would be enough possible. I want to try it again 
+after some Max of each map.
+
+
+100th Compet-N Entry

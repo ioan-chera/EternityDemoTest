@@ -1,0 +1,10 @@
+Runner: Christopher "Dime" Dewey
+IWAD: Doom2.wad
+PWAD: Valiant.wad
+Category: UV-Speed
+Source Port: glboom-plus 2.5.1.4
+Map: 10, Candlecove
+Time: 2:08
+
+Very deadly map, due to the arachnorb walls that often form. These monsters kill extremely quickly :(
+

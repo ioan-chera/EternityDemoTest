@@ -1,0 +1,11 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): Scythe 2
+Author of PWAD: Erik Alm
+Recorded with: PrBoom Plus 2.5.1.3 used latest ZDL to help me
+Category: UV Speed
+Map: 05
+Complevel: 2
+Time: 0:21
+
+Notes: I can't seem to get 0:20. If there's a bump the exit seems to work properly, if there isn't; most of the time the exit seems to not work. I seem to be having a lot of bad luck as of late.

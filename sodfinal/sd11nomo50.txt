@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:     sodfinal.wad
+Pwad name: Speed of Doom
+Maps:    11
+Skill:     4
+Category: No Monsters 
+Exe:      PRboom+ 2.5.1.3 cl9
+
+Time:     0:50
+
+Author:    Cyberdemon531
+Email:     cyberdemon@boun.cr
+HP:	   http://www.twitch.tv/cyberdemon531 
+
+Comments:  Kinda sloppy, just took the first exit that got the keygrab.

@@ -1,0 +1,57 @@
+Number One Kill The Next Generation
+                                    Note: at this site all #1kill is 1kill it dose
+#1killtng.wad                       not I repeat not mean there is only one 
+Angelo Jefferson                    thing to kill in all the levels
+
+       There was hexen and hexen2, startrek and startrek the next generation,
+quake and quake2. What do they all have in common? The sequel was a hell of
+a lot better than the original which was good any ways. Well now theirs #1kill
+the next generation which follows the tradition. It features 23 never before
+seen levels with new textures and music from all off doom ever created 
+under Id. It was built with the experience of building 13 levels for doom/doom2
+and the experience of playing doom, doom2, final doom, obtic, hexen, 
+swheretic, quake, and other levels off the net, These levels are built to be
+challenging with the quality you would expect from Id, playability, and beauty
+in mind. 
+============================================================================== 
+Levels:               20 +three secret(one map consist of two levels)
+single player:                  yes
+cooperative:                    yes
+deathmatch:                     yes
+difficulty:                     yes         
+first two = ultra violent in doom and hurt me plenty in doom2
+hurt me plenty = ultra violent doom2 hurt me plenty final doom    
+Ultra violent = hurt me plenty with fewer health and more monsters  
+demos:                          yes
+new textures:                   yes
+==============================================================================
+
+time until completion: around 24 hours per level
+
+Known bugs
+Visplane overflow: happens in big open complex areas
+effects: player will be kicked out of game 
+prevention: save often When in the levels in question. 
+When reloading after this happens don't look across the
+full span of the room in which it ocuurs
+has occurred but rarely in11,19,20 and in secret level 2
+
+HOM effect: caused by too many lines in one viewing area. It dose occur in
+some sky seens 
+Effect: a hall of mirrors effect. when players walks away or turns the 
+hom affect disappears dose not affect game play but distorts the appearance
+can be seen in minorly in level 11 15 17 
+
+this may seem like alot but they are extreamly rare and are barly noticable.
+Other wise id quality is maintained throughout
+==============================================================================
+permission: do what ever you want with the levels or textures 
+Note: if you can fix such problem send me the level fixed and I 
+will put it in the next version of #1kiltng.wad with your name
+==============================================================================
+Any comments tips or things that i could fix please e-mail me at N1Kill@aol.com
+==============================================================================
+Coming this Christmas or sometime around is #1kill the final frontier
+The ten final levels that will complete the 32 levels #1KILL for doom2
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+All things with the name 1kill On this site was built by the same desighner.

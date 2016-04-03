@@ -1,0 +1,19 @@
+ Number One Kill the Next Generation
+              Map 04
+   Map Author: Angelo Jefferson
+-------------------------------------
+           1k04n003.lmp
+
+NM-Speed in 0:03.77
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Also Pacifist. Actually easier than Ultraviolence.

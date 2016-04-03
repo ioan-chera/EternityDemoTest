@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M9-046.TXT
+N1M9-046.ZIP
+
+N1M9-046.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Doom 2 - E1M9 - Military Base
+
+Kills     49%
+Items      4%
+Secrets    0%
+Time      :46
+         ----
+
+Description:
+Entry #19, for my least favorite level from Episode 1.
+
+Jonathan Rimmer wrote: Hehe, AdamW's going to kill me for this one.
+                       Will the person who tells him on IRC please send me a log? :)
+
+                       Going for the chaingun takes so long, so I decided to cut
+                       it out and do the map with shotgun only, little suspecting
+                       what I was letting myself in for.  This run must be one
+                       the worst in the doom IMHO.  Its not the most difficult
+                       and there are more annoying spots in other runs, but none
+                       are so _consistantly_ annoying and unpleasant.  From the
+                       moment you start til you reach the exit you're under constant
+                       fire from the imps, seargents and troopers.   Should you
+                       avoid their fire, there's about 100 demons ready to surround
+                       you and eat you in about two seconds.  If that wasn't
+                       annoying enough you have to use the RL in enclosed situations
+                       and make a jump at the end of the lmp with monsters firing
+                       at you from all directions.  If I ever see Romero I'm going
+                       to shout "n1m9!" and punch him.
+
+'Nuff said. :)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

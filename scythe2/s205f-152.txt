@@ -1,0 +1,9 @@
+WAD: Scythe 2
+MAP: MAP05: Halls of Anguish
+Time: 1:52
+Added Engine: prboom-plus v2.5.1.3
+Category: UV-Fast
+
+My second demo for DSDA, UV-Fast edition. Took a few tries and went a lot easier when I dealt with the pain elemental first. I have much less trouble with cybers on -fast since you dont play a guessing game when those fuckers want to let off a rocket. Props to myself for missing shots right in front of me, and playing hide and seek with a lost soul for too long.
+
+-Wordy.

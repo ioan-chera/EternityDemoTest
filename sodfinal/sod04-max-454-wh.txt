@@ -1,0 +1,29 @@
+----------------------------------------------------
+This is a Doom II Max demo in Ultra-Violence Skill
+
+Map : Speed of Doom Map 04 - Sedgemire
+Time : 4:54
+Author : William Huber ( [WH]-Wilou84 )
+	 wilou84@yahoo.fr
+	 http://doomfrance.forumactif.com/index.forum
+Recorded with : PrBoom 2.5.0 -complevel 9
+Date : 1st of February, 2014
+
+Level comments : Very nice map, using a cool mix of sewer and "Darkbase" textures.
+		This is the first time we get a Super Shotgun in Speed of Doom, and
+		of course there's a major step up in the opposition you'll face once 
+		you get this weapon.
+
+		The perspective of recording demos on this map was daunting at first for
+		me, as I remembered a maze-y layout with plenty of slime-filled corridors and
+		even a crate maze... But after a few playthroughs, as usual, everything became much more
+		clear, and even the crate maze was actually a small-sized room, and that's a very good thing :)
+
+		This level is immensely fun to play in UV Max. Great music too, fits well with the overall pace.
+
+Demo comments : This is my best attempt so far... I can't seem to get any closer to Tatsurd's DSDA time
+		( I won't even mention Qaatar here, as obviously he's not from this planet ).
+
+		Better rocket management should help me reducing the time here, but for now I don't 
+		have much spare time left to improve.
+----------------------------------------------------

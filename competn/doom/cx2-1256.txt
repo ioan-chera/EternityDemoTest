@@ -1,0 +1,31 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop nm100s movie
+mission:  Episode 2
+
+time:     12:56
+
+   Level       Time         
+--------------------
+   E2M1        1:25         
+   E2M2        1:57         
+   E2M3        1:25 
+   E2M4        2:05
+   E2M5        1:37 
+   E2M9        0:31 
+   E2M6        2:04
+   E2M7        1:52     
+   E2M8        -:-- 
+--------------------
+   Total      12:56
+
+
+
+Xit-Vono : We had some rough times on this episode.
+
+Vincent : I used to have troubles in E2M9... but after many tries here is it.
+      

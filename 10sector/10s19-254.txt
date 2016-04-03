@@ -1,0 +1,12 @@
+10 Sectors - Map 19 UV-Max in 2:54
+
+Author: Veinen
+Pwad: 10sector.wad
+Pwad name: 10 Sectors
+Port: GlBoom 2.5.1.3
+E-mail: veinen22@gmail.com
+
+Comments: Some crappy movements before the ssg and the elevator trick can be done with
+	  stopping it just once but those losses are offset by the chaingunners lining up
+	  perfectly. Missed a ssg shot on a HK completely and missed two RL shots in the
+	  final area. PE's acted very cooperatively as well in this run.

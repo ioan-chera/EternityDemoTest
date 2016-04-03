@@ -1,0 +1,14 @@
+Pwad:	Valiant.wad
+Pwad name: Valiant
+Maps:	23
+Skill:	4
+Category:	UV Speed
+Exe:      	prboom-plus 2.5.1.4 -complevel 11
+
+Time:     2:25
+
+Comments:	Stupid floating brains always block me on the teleporters
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

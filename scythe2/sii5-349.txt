@@ -1,0 +1,36 @@
+======================================================================
+**********************************************************************
+                             Scythe II
+                             Episode V
+                             Done Quick
+                 The Ultra-Violence TAS Speed Movie
+**********************************************************************
+======================================================================
+______________________________________________________________________
+Map    Level    Episode        Time  Kills  Items  Secrets  
+======================================================================
+                Episode V          
+----------------------------------------------------------------------
+Map21 - Doom Gardens         _  0:34    7%     0%   100%     
+Map22 - The Garden Base II   _  0:50   25%     0%     0%     
+Map23 - Whispering Winds     _  0:16    0%    16%     0%     
+Map24 - Gaias Temple         _  0:55    8%    33%     0%
+Map25 - Forgotten City       _  1:14   28%     0%     0%
+----------------------------------------------------------------------
+                       Total _  3:49                         
+======================================================================
+Recorded using GLBoom-Plus 2.5.0.4 & Doom Replay Editor 2.0
+Strafe50 is always ON
+======================================================================
+ prboom.exe -iwad doom2.wad -file scythe2.wad -playdemo sii5-349.lmp
+ (-complevel 2)
+ prboom-plus.exe -iwad doom2.wad -file scythe2.wad
+ -playdemo sii5-349.lmp
+======================================================================
+Author    :Maxim "Akse" Abreev, Russia, Moscow
+E-mail    :ffx2lynx@mail.ru
+          :MaxiAkse@rocketmail.com
+Youtube   :http://www.youtube.com/user/MaxiAkse
+======================================================================
+
+26 aug 2009

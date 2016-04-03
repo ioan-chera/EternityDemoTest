@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+u4m4-034.zip
+ u4m4-034.lmp
+ u4m4-034.txt
+
+Recorded using Ultimate Doom Version 1.9
+
+doom -playdemo u4m4-034
+
+DooM - Ep.4 Mi.4 - Unruly Evil
+
+Category: UV Speed 
+
+Totals:
+
+Kills	 18%
+Items	 52%
+Secret	  0%
+
+Time    0:34
+
+
+Comments: 
+
+A rare new trick for Ultimate Doom, a 32-unit flat-face 
+exit glide. It saves about 3s in regular play, maybe 5s 
+in a built run. Trouble is, it's a seriously hard one to 
+do, and I don't find the rest of the run too easy either. 
+
+But, hundreds of tries later and I finally shaved off the
+last second to get this, my first Compet-N on a "true" 
+Doom map. It turned out fairly well - the glide alignment
+took a while, but there's only one missed shot, unlike 
+some of my earlier tries which had them sprayed all over 
+the place. I didn't use the jump from the existing route 
+because I had so little success with it. So good luck on 
+getting it down to 0:33, or even lower! 
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+14/12/2006

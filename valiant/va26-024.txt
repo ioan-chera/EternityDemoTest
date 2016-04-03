@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      valiant.wad
+Pwad name: Valiant
+Map:       MAP26
+Skill:     4
+Category:  UV-Speed
+Exe:       PRBoom-plus v2.5.1.4cl11
+
+Time:      0:24
+
+Author:    MD922
+
+Comments:  Cool trick Memfis! Arachnatron rocket jumping is pretty epic.

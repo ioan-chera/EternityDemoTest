@@ -1,0 +1,19 @@
+ Number One Kill the Next Generation
+              Map 01
+   Map Author: Angelo Jefferson
+-------------------------------------
+           1k01-732.lmp
+
+UV max in 7:32
+
+    Kills   - 105%
+    Items   - 96%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Not really my kind of gameplay, but I'll give this map a speedrun. First exit, certainly improvable, but I'm too lazy to go any further.

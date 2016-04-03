@@ -1,0 +1,21 @@
+Pwad:      scythe2.wad : Scythe 2
+Map:       map12 : Battlegrounds by Erik Alm
+Category:  NoMo
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.4 w/ -complevel 2 (Doom2+)
+
+------------------
+Time:      0:31.97
+------------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+My #1 entry for the International Beat a Cyberdemon531 Demo Week.
+
+Going against the spirit of the festivities, I had to actually try to beat his time. Then I had a training montage, shook off several kilos of rust and had an unlikely comeback after everyone wrote me off. Also it's .97, baby! 30s would be a really slick nomo, but that would take effort.
+
+
+Recorded:  March 27th, 2015

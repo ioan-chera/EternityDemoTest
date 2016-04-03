@@ -1,0 +1,20 @@
+This is a   Compet-N  entry 
+
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+
+game:       Ultimate DOOM version 1.9
+
+category:   Speed
+            
+level:      E1M9
+            
+stats:      Time   0:29 
+
+description: Credits to Adam_W for the route and tips. :)
+             Optimal maybe 0:27 with fast red key and blue key
+             rooms.
+             
+	               
+
+
+

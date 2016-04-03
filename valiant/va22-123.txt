@@ -1,0 +1,12 @@
+Pwad:	Valiant.wad
+Pwad name: Valiant
+Maps:	22
+Skill:	4
+Category:	UV Speed
+Exe:      	prboom-plus 2.5.1.4 -complevel 11
+
+Time:     1:23
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      vanguard.wad
+Pwad name: Vanguard
+Map:       07
+Skill:     4
+Category:  Pacifist
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+Time:      3:41
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  

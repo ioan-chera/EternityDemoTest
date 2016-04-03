@@ -1,0 +1,15 @@
+=--------------------------------------------------=
+Valiant - MAP09 UV-Max in 6:31
+
+I guess everything went better except for the part 
+with the two elevators and the switches to shoot.
+Happy with this nonetheless.
+
+=--------------------------------------------------=
+
+Author: Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus 2.5.1.4
+Pwad: valiant.wad
+email: nevan@live.co.uk
+=--------------------------------------------------=

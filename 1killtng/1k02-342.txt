@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      1killtng.wad
+Pwad name: Number One Kill The Next Generation
+Map:       02
+Skill:     4
+Category:  UV-Max
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      3:42
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  

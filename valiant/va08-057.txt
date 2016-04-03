@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/wad2601.html
+
+Pwad: valiant.wad
+Pwad name: Valiant
+Map:      MAP08
+Skill:     4
+Category:  UV-Speed
+Exe:       PRBoom+v2.5.1.4cl11
+
+Time:      0:57
+
+Author:    AD_79
+Email:     ad79sda@gmail.com
+

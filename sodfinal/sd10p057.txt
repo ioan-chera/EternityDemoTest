@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Pwad name: Speed of Doom
+Maps:      10
+Skill:     4
+Category:  Pacifist
+Exe:       prboom+ v.2.5.0.6 -complevel 9
+
+Time:      0:57
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  I tried to reproduce dew's excellent UV-Speed without shooting.
+           Yes, this run is ugly!
+           But the most time save event is of course two spiders at the end.
+           This part is luck based, so i needed as many tries as possible,
+           even with such ugly mistakes in the middle...
+           I like three 0:58 runs much more, they are cleaner and without av mess at the end.

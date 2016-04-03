@@ -1,0 +1,29 @@
+This is a Doom .LMP "Competition" Entry
+
+e1m7-115.txt
+e1m7-115.zip
+
+e1m7-115.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M7 - Computer Station
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:15
+=--------------=
+
+C-N entry #147.
+
+Thanks to Adam for a cool demo.  I tried
+hard to make this one look good, but don't
+look at the millisecond time.. that would
+ruin it. ;)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

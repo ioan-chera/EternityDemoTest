@@ -1,0 +1,14 @@
+Pwad: 1994tu.wad    
+Pwad name: 1994 tune-up
+Map:      9
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.3
+Time:      9:02
+
+-complevel 9
+
+Author:	   j4rio
+
+I exited with 2 rockets in that
+9:14 so... meh.

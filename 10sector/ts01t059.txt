@@ -1,0 +1,18 @@
+
+---
+
+DSDA
+Opulent homepage
+Http://www.doomworld.com/sda/
+
+Pwad:      10sector.wad
+Map:       01
+Skill:     UV
+Category:  Max, Tyson
+Exe:       Doom.exe with Boom v2.02
+
+Time:      :59
+
+Author:    Albert Valls
+Address:   vrmr@wanadoo.es
+HP:	   http://www.newdoom.com/hosted/presage/vrmr/

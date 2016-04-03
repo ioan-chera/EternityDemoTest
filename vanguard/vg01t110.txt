@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Vanguard
+Pwad name: vanguard.wad
+Maps:      01
+Skill:     4
+Category:  UV-Tyson
+Exe:       PRBoom+ v2.5.1.4-cl9
+
+Time:      1:10
+
+Author:    MD922
+
+Comments:  THIS RUN IS SO HARD!!!
+
+

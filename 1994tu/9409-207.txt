@@ -1,0 +1,42 @@
+________________________________________________________________________________
+
+Pwad:       1994 Tune-up Community Project
+Maps:       MAP09
+Skill:      4
+Category:   UV Speed
+Exe:        PrBoom+ 2.5.1.3
+            -complevel 9
+            -deh notransl.deh (non-translucent projectiles & power-ups)
+
+My recording command line:
+prboom-plus -file 1994tu -deh notransl.deh -complevel 9 -skill 4 -warp 9 -record xxxxxxxx
+
+Playback (brackets [] = optional):
+prboom-plus -file 1994tu [-deh notransl.deh] -playdemo 9409-207
+
+________________________________________________________________________________
+
+Kills:   21%
+Items:   33%
+Secret:  20%
+        ____
+       /    \
+Time:  |2:07|
+       \____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+Ah, Travers Dunne map! Well, there are 3 authors, but the lighting looks so
+much like t_nostalgia, it is a Travers map for me. I tried original xeno and
+it really sucked, and this is just fantastic. Monsters are mostly Ultimate
+Doom's but there are no lost souls (thanks) + a few chaingunners, mancubi and
+an arch-vile. I wish I could map like this...
+
+Cool music also.
+
+Learning the map + recording speed demo. Is this the fastest route? I don't know.

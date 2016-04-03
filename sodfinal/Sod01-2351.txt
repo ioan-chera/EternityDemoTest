@@ -1,0 +1,30 @@
+Pwad:	Sod.wad
+Episode 1
+Category:	UV speed
+Exe:      	prboom-plus 2.5.1.3 -complevel 9
+
+Time:    23:51
+
+Comments: Ive had many attempts at this already and most of my runs end on map 5-6 (actually map 1). 
+This is my first time getting past 6 in dozens of attmepts.
+
+Map 5 is a pain in the ass because there is an unkillable mastermind in the background pecking at you while trying to attempt a glide.
+So basically its a glide with a forced time limit. 
+On map 6 i managed to die but get through the exit lol. This forced me to totally improvise my strategy from map 7+. 
+I was left with no plasma or BFG which resulted in a lot of close calls.
+
+Map 8 was an absolute panic shit show. I almost died because i couldnt bfg the 2 Archies.
+Another archie actually Jumped me over a line def next to the rocket launcher making another archvile not spawn in.
+I couldnt kill the mastermind so i had to rush by him almost dying yet again. 
+
+Map 9 was beyond frustrating. I managed to make that annoying jump on few attempts then i ran right past the yellow key.
+I wasted 2 mins trying to make the jump again. 
+
+Map 10 I had no Plasma rifle to rush through. I got blocked in right from the start.
+I pretty much gave up, game over. Somehow i survived and pulled off the rest of the run.
+
+I will probably try and improve this with my normal strategy I can handle close to 20 mins.
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

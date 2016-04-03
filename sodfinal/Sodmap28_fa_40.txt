@@ -1,0 +1,15 @@
+Pwad SODfinal.wad
+Pwad name Speed Of Doom
+Map       28
+Skill     4
+Category  UV-Fast
+Exe       PRBoom+ v2.5.1.3
+Time      8:13
+Turbo     100
+-complevel 9
+Date	16,07,2015 //day,month,year
+
+Author	   Azuruish
+
+I thought it took only five minutes, but problems in 'pain elemental'. I just can't reach them.
+Also that idea came to me after NM-Speed on it. It's my first attempt.

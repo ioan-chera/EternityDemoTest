@@ -1,0 +1,6 @@
+cls
+@echo    Assumming this is in your DOOM directory...
+@echo    Fun with batch files :)
+@echo    I hope you have DOOM version 1.9...
+doom -file fava.wad -playdemo fava
+doom -file crap115.wad -playdemo crap115

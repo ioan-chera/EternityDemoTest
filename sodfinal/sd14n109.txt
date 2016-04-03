@@ -1,0 +1,15 @@
+          Speed of Doom
+          Map 14: Sledge
+     Map Author: Darkwave0000
+----------------------------------
+          sd14n109.lmp
+
+NM-Speed in 1:09
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Nightmare
+Author: 4shockblast
+
+Comments: Relatively easy by the standards of the other maps I tried in NM from Speed of Doom. Biggest problems are the damn pain elementals and the archvile that I use for the jump. Often, there end up being so many lost souls in the level, that I'm completely blocked and die from all the attacks, and most of the time the final archvile just doesn't get out soon enough (or leaves and goes off somewhere else), so I don't get attacked and die or get attacked too late and blocked by the demon horde at the bottom. First time the jump succeeded and first exit.

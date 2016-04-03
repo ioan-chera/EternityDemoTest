@@ -1,0 +1,22 @@
+************************************************************************
+Filename                : 10sc*.lmp
+LMP Version             : 1.9
+Game                    : Doom2
+Pwad(s)                 : 10sector.wad
+Map Level(s)            : Maps 1, 2, 3, 6, 9, 12, 13, 18, 22
+Skill                   : 5
+Options                 : -
+Length                  : Various
+
+Author                  : Donatas Tamonis
+Email Address           : dtamonis@takas.lt
+Misc. Author Info       : I like recording/watching lmps
+Description             : A small collection of Nightmare lmps for
+                          10sector.wad. The first two maps were done
+                          normally, others with TAS in slowmotion. All
+                          the demos must be played back with doom2.exe
+                          or dosdoom.exe. I hope someone does more maps
+                          of this great wad in NM...
+
+Additional Credits to   : Author of the wad, Opulent, you
+************************************************************************

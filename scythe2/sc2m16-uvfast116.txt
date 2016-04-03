@@ -1,0 +1,4 @@
+[Doom 2]
+Scythe 2
+Map16: Mr. X
+UV-Fast in 1:16

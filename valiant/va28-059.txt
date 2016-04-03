@@ -1,0 +1,28 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      valiant.wad
+Maps:      Map28
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus 2.5.1.4 -complevel 11
+
+Time:      0:59
+
+Author:    Krankdud
+
+Comments:
+REALLY happy with this one. This map is haaaard.
+The tricky SR50 jump at the beginning took a bit longer to setup than I would have liked,
+but it's a hard trick so as long as it's decently fast, I'm ok with it.
+The other big trick in this is an AVJ at the end to go straight into the exit. Tons of
+luck involved there since the enemies can block the teleport destination, they infight,
+the archvile goes the wrong way, or he just doesn't like you that day.
+
+I was originally going to submit a 1:04 that had gotten a green armor near the end
+to help with the AVJ, but I decided may as well go all out and skip that too. Paid
+off in the end :)
+
+Attempts: 562
+Exits: 3
+(0.5% success rate heheh)

@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: valiant.wad
+Pwad name: Valiant
+Map:      MAP01
+Skill:     4
+Category:  Nomonsters
+Exe:       PRBoom+v2.5.1.4cl11
+
+Time:      0:28
+
+Author:    AD_79
+Email:     ad79sda@gmail.com
+

@@ -1,0 +1,16 @@
+WAD: Scythe 2
+MAP: MAP28: Nightmare
+Time: 0:39.94
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Comments:
+
+Took a couple days (a few minutes less than an hour each day) to get this,
+so I'm pretty happy with this. Probably if you use SR50 at some points, or
+just run even better than I did, you could get 38s, possibly even 37s, but
+I think that's pushing it. I don't see any significant wallbumps in this
+demo (finally!), which I'm assuming got me 39. This is an SR40-only demo,
+as all of my nonTAS ones are.
+
+--Doomdaniel95

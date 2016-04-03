@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FP1-2445.TXT
+
+ FP1-2445.ZIP - Ultraviolence
+
+  FP1-2445.LMP - Episode 1, skill 4, 100% kills/secrets, -FAST monsters
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 1 - Knee Deep in the dead
+
+
+  Map:       Kills: Items: Secrets:   Time:  "C-N" record:
+  --------------------------------------------------------
+  E1M1   -    100%    5%  100%      | 0:41 |    0:31    :|
+  E1M2   -    100%   38%  100%      | 2:00 |    1:49    :|
+  E1M3   -    100%   62%  100%      | 3:33 |    3:09    :|  
+  E1M9   -    100%   23%  100%      | 3:24 |    2:54    :)
+  E1M4   -    100%   33%  100%      | 2:54 |    2:14    :|
+  E1M5   -    100%   65%  100%      | 3:27 |    2:57    :)
+  E1M6   -    100%   42%  100%      | 5:07 |    4:29    :(
+  E1M7   -    100%   60%  100%      | 3:39 |    3:12    :)
+  E1M8   -     ??%   ??%  100%     [Excluded]   1:10 
+  ---------------------------------------------------------
+  And, of course, total time:        24:45     21:15 (-e1m8)
+  ---------------------------------------------------------
+
+General note:
+*************
+  There is not much to say. It was really the pure fun for me. I had known
+  it shouldn't be any problem to do it under 25:00, so i did. It may seem
+  slow compare to c-n total time, but i couldn't play so risky. Maybe, next
+  time. :)
+  
+  
+     
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz

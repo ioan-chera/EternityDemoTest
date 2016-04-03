@@ -1,0 +1,41 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe 2 (version 2)
+Pwad name: scythe2.wad
+Maps:      16
+Skill:     4
+Category:  UV -fast
+Exe:       glboom-plus v2.5.0.3
+
+Doom2 -file scythe2.wad -playdemo with Version 1.9
+
+Scythe 2 - Level 16 - Mr. X
+      
+Kills      100%
+Items       54%
+Secrets    100%
+
+              ********
+  and Time -  * 0:41 *
+              ********
+
+Author:    Casey "Altima Mantoid" Alvis
+Email:     altimamantoid@gmail.com
+
+
+Comments:
+
+That first switch made me restart more than anything
+else in this map. Very anti-climactic as our evil
+doppleganger counterpart doesn't seem to understand
+plasma doesn't go through box corners. Oh well.
+
+Sub 0:40 is possible and optimal with better running
+and getting the first secret on the first shot. I
+don't think that the fight with the Evil Doomguy could
+go any smoother.
+
+
+
+April 13th, 2013

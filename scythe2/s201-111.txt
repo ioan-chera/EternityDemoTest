@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe2.wad
+Pwad name: Scythe 2 (2nd Release)
+Maps:      MAP01
+Skill:     4
+Category:  UV-Max
+Exe:       Prboom+ 2.5.1.3 -complevel 2
+
+Time:      1:11
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  YESSSSSSSSS. Exactly what I wanted after getting 1:10 exit with one missed spectre. This is my favorite megawad opener by the way.

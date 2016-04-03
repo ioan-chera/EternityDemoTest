@@ -1,0 +1,21 @@
+Pwad:      scythe2.wad : Scythe 2
+Map:       map04 : Cursed Cellars by Erik Alm
+Category:  NoMo
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.4 w/ -complevel 2 (Doom2+)
+
+------------------
+Time:      0:20.97
+------------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+My #2 entry for the International Beat a Cyberdemon531 Demo Week.
+
+Took me 10 minutes including the time to find another target on DSDA. Obviously, I aimed for another 97. With intentionally poor movement. On a DDR mat. I'll show myself out. 
+
+
+Recorded:  March 27th, 2015

@@ -1,0 +1,12 @@
+Iwad: doom2.wad
+Pwad: vanguard
+Pwad name: vanguard.wad
+Map: 07
+Skill: 4
+Category: UV-max
+Exe: PrBoom-Plus 2.5.0.8
+Time: 1:08
+Author: dannebubinga
+Email: daniel.tomhet@gmail.com
+
+comment: listening to the new album by Mark Kozelek & desert shore. good stuff

@@ -1,0 +1,19 @@
+Pwad:	Valiant.wad
+Pwad name: Valiant
+Maps:	04
+Skill:	4
+Category:	UV -Max
+Exe:      	prboom-plus 2.5.1.4 -complevel 11
+
+Time:     	3:17
+
+Comments:  This is my first ever demo and speedrun attempt tbh. I hope i did this properly and everything works ok.
+I really enjoyed this Iwad and I found this map to be a lot of fun to UV-Max.
+There are many possiblities for strategic ideas and weapon usage. I had a few attempts around 3:15 but they were
+sloppy pre-recordings. The success rate of getting to the first door was very low for me. I believe under 3 mins
+is possible for a more skilled player. I might give this another shot later on...
+
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

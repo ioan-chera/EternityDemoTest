@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      000207.WAD
+Pwad name: 2000/02/07
+Maps:      01
+Skill:     no monsters
+Category:  -nomonsters
+Exe:       PrBoom-plus 2.5.1.4 -complevel 2
+Time:      0:15
+Author:    DoomLover234
+Email:     luxan52@yahoo.com
+
+Comments:  Improved the time by a second due to managing to flip both switches.

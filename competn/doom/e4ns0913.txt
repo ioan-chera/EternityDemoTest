@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+E4NS0913.TXT
+E4NS0913.ZIP
+
+E4NS0913.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Ultimate DooM - "Thy Flesh Consumed" on Nightmare! skill w/ 100% secrets
+
+E4M1 - Hell Beneath          -  :50
+E4M2 - Perfect Hatred        -  :40
+E4M9 - Fear                  -  :35
+E4M3 - Sever The Wicked      -  :59
+E4M4 - Unruly Evil           -  :58
+E4M5 - They Will Repent      - 1:05
+E4M6 - Against Thee Wickedly - 2:50
+E4M7 - And Hell Followed     - 1:16
+E4M8 - Unto The Cruel        - excluded
+
+Total -  9:13
+
+	Nice improvement. I tried here Ocelot's and Henning's tactics that
+        consists in "just run and care about nothing" :). 
+	Henning told me he's trying that episode too... but he's using another route 
+        on e4m6... (w/o the invul).. this way he could end up around 1:30 (instead of
+        2:50). But it's a lot tougher to kill a skill 5 cyber in a narrow room w/o invul ;)
+	I might try it if Henning beats me and for the NM speed episode run.
+	
+
+
+Author: Vincent Catalaa
+E-mail: vincentds@netcourrier.com

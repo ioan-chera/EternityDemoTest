@@ -1,0 +1,19 @@
+ Number One Kill the Next Generation
+              Map 03
+   Map Author: Angelo Jefferson
+-------------------------------------
+           1k01-336.lmp
+
+UV max in 3:36
+
+    Kills   - 100%
+    Items   - 73%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Level seemed somewhat fun from GrumpyCat's max, so I gave it a max too. Definitely prefer this to map 01, though it could also benefit from some plasma cells. Like map 01, this is a first exit max; about 30 minutes (maybe 40) spent getting this. Start is a bit hard to survive, but once I figured out the relatively safe spots, it became more or less straightforward. A lot of the time, I wouldn't get good runs because  the monsters wouldn't cooperate in the last area; this time, it went fairly well there. Still improvable, of course.

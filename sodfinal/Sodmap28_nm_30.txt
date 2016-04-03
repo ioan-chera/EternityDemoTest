@@ -1,0 +1,26 @@
+Pwad SODfinal.wad
+Pwad name Speed Of Doom
+Map       28
+Skill     5
+Category  NM-Speed
+Exe       PRBoom+ v2.5.1.3
+Time      2:55
+Turbo     100
+-complevel 9
+Date	07,07,2015 //day,month,year
+
+Author	   Azuruish
+
+Attention!!!
+For playback use only PRBoom and only prboom-plus.exe
+This demo jerky as hell BECAUSE OF IT use 'smooth factor' more than '7'. '9' is good.
+Turn off pallete on pain otherwise you will see only red screen XD.
+
+About demo:
+I made something insane. And i regret about it.
+It's like you got ticket to your future life where you can only die die die die die and so on....
+Uhhh. Can say that moment with Cacodemons were hardest but saved me two factors: Lucky and MEGASPHERE there.
+Suddenly noticed that i can catch it.
+Also was problems with 'death exit'. I couldn't catch moment.
+
+Also thanks to 'dew' for "good luck" XD. 

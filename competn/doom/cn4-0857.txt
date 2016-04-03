@@ -1,0 +1,84 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E4CN0857.TXT
+
+ E4CN0857.ZIP - NightMare!
+
+  E4CN0857.LMP - Whole Episode on NightMare! COOPERATIVE
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 4 - Thy Flesh Consumed
+
+
+  E4M1   -    0:54
+  E4M2   -    0:47
+  E4M3   -    1:13
+  E4M4   -    0:52
+  E4M5   -    1:03
+  E4M6   -    2:51
+  E4M7   -    1:17
+  E4M8   -    1:05 (Excluded)
+  -------------------------
+  Total Time: 8:57
+  -------------------------
+
+-------- E4M1 ------- 
+Vincent : Nothing very hard here, some deaths anyway. We changed the route here
+          very lately. It allows to grab the plasma gun and the chaingun which
+          help a lot for the next levels. (a lot easier than on solo)
+Selim   : This level is sure far easier than on solo, and we managed to do it almost all the 
+          time during our later tries. Since its being so easy kinda ruined the watcher's fun :),
+          we decided to be brave and go down in the monsters' cave to get the plasma and chaingun.
+          It can get really funny when a nightmare-boosted baron spawns right in front of you :))
+
+-------- E4M2 ------- 
+Vincent : Selim's domain, I just lure some cacos and grab the sphere.
+Selim   : The beginning can be tricky if u r low on health, but the grab and jump far made easier
+          by vincent's caco luring. The only prob then is the last room, where caco fry your ass
+          if the cybbies doesn't have the time to kill you before :) Fortunately, I had spent "a 
+          little" time playing the level, so here I lost very few health.
+
+-------- E4M3 ------- 
+Vincent : I let selim do the route until the red key. Then it's my turn.
+          The extra health, ammo and invul. help a lot too. I grab the BFG here.
+Selim   : We decided to go for a risky beginning, vincent following me w/o being invulnerable, while
+          I blew everything to hell up to the red key. The rest is piece of cake if we make no stupid
+          mistake.
+
+-------- E4M4 ------- 
+Vincent : Nothing much to report, it's a piece of cake.
+Selim   : I don't agree ... it can be a bit hard to stay alive if ... uhmmm... if your mouse gets 
+          accidentaly disconnected, for exemple :)
+
+-------- E4M5 ------- 
+Vincent : Safe play... would be silly to ruin a good health start for E4M6 
+Selim   : Yeah, I do nothing here except chosing a good place to hide :)
+     
+-------- E4M6 ------- 
+Vincent : Wow, the "hard" thing in EP4, we practised it for a whole afternoon with
+          fillup.wad. And I think we've found a nice route, which fully takes
+          advantage of coop modus. (Watch both view here, both do important things)
+Selim   : This level is, IMO, the hardest in Udoom/doom2. After having died here at least ten times,
+          we decided to make a fillup session which lasted at least 8 hours :) I really think our 
+          route is very good indeed, we almost planned it to the gametic. This was the first time
+          we got past it in a run.
+
+-------- E4M7 ------- 
+Vincent : The start here was a dilema, Selim had low health. So I Alt-Tabbed to windows,
+          and we started speaking of what we should do. Then we finally agreed on a 
+          strategy. It seems it worked. We were both very nervous while playing this one. 
+Selim   : From here my playing sucks a lot. I don't have vincent's or henning's experience of 
+          resisting the stress in a nm run, so my hands were shaking like hell. I was very careful
+          not to die in the beginning, then once we had the inv. on it was piece of cake.. till the
+          last room. I don't know why we were mad enough to try the shotgun boost, but it's really
+          a miracle we got it done. Look at it from vincent's POV, it actually slalom in the air ;)
+
+-------- E4M8 ------- 
+Vincent : IMO, this one is a joke :) ... tons of health and ammo, impossible to die.
+Selim   : I was watching vincent's screen in the end so I didn't realize monsters were actually
+          hitting me :))
+
+
+
+Authors:    Selim "Bastard" Benabdelkhalek (player 1) & Vincent Catalaa (player 2)
+E-Mail:     wmrselim@yahoo.fr & vincentds@netcourrier.com

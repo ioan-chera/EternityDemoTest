@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP3-2349.TXT
+
+ EP3-2349.ZIP - Ultraviolence
+
+  EP3-2349.LMP - Whole Episode on skill 4, with 100% kills & secrets...
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 3 - Inferno
+
+
+  Map:       Kills:  Secrets:     Time:     "C-N"
+  -------------------------------------------------------
+  E3M1   -    100%     100%      | 1:27 |    1:09    :(
+  E3M2   -    100%     100%      | 2:19 |    1:59    :|
+  E3M3   -    100%     100%      | 2:36 |    2:23    :) 
+  E3M4   -    100%     100%      | 5:12 |    4:24    :|
+  E3M5   -    100%     100%      | 3:36 |    3:16    :)
+  E3M6   -    100%     100%      | 3:28 |    2:58    :)
+  E3M9   -    100%     100%      | 2:43 |    2:36    :)
+  E3M7   -    100%     100%      | 2:28 |    2:09    :)
+  E3M8   -     ??%      ??%     [Excluded]   0:45
+  --------------------------------------------------------
+  And, of course, total time:     23:49     20:54 (-e3m8)
+  --------------------------------------------------------
+
+Description: Improving this episode was quite hard, even if
+             it took me just two days. I had some problems
+             with 100% kills in maps e3m4 and e3m5. I also
+             worried about my health in the last map. 
+             
+   
+     
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz
+

@@ -1,0 +1,52 @@
+This is a "COMPET-N/doom/coop" entry, please forward it.
+
+c2x2-127.txt
+
+c2x2-127.zip
+
+c2x2c127.lmp - Coop Nightmare! 100% Secrets !
+c2x2j127.lmp
+
+
+Recorded using Ultimate Doom Version 1.9
+Doom -PlayDemo with Version 1.9
+
+Ultimate Doom : Episode 2, Mission 2 - Containment Area
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+JC            37%      10%      50%
+Ch0wW         16%      47%      50%
+
+
+            ********
+  Time:     * 1:27 *
+            ********
+
+
+Description :
+  
+
+[ JC : ] 
+
+it's not optimal :p
+
+
+[ Ch0wW : ]
+  
+After 94 tries (got a counting machine), we managed to make this run ! 
+still optimisable by 2 seconds, I think.
+ 
+
+Authors :
+
+JC
+superjc@free.fr
+22th Compet-N Entry
+
+Maëllig "Ch0wW"' Desmottes
+Ch0wW@baseq.fr
+10th Compet-N Entry
+
+France
+2013/06/30

@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      valiant.wad
+Pwad name: Valiant
+Map:       MAP03
+Skill:     4
+Category:  Pacifist
+Exe:       PRBoom-plus v2.5.1.4cl11
+
+Time:      0:15
+
+Author:    MD922
+

@@ -1,0 +1,67 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2Re2838.ZIP
+
+ E2Re2838.LMP
+
+  E2Re2838.TXT -UV RESPAWN
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Episode Two - The Shores of Hell
+  
+  Map:       Kills:    Items:  Secrets:       Time:   
+    -------------------------------------------------------- 
+    E2M1   -  105%      100%      100%      | 1:33 |       |
+    --------------------------------------------------------
+    E2M2   -  109%       58%      100%      | 3:58 |       |
+    --------------------------------------------------------
+    E2M3   -  101%       54%      100%      | 2:35 |       |
+    --------------------------------------------------------
+    E2M4   -  118%       32%      100%      | 4:12 |       |
+    --------------------------------------------------------
+    E2M5   -  117%        2%      100%      | 4:29 |       | 
+    --------------------------------------------------------
+    E2M9   -  100%       50%      100%      | 1:22 |       |
+    --------------------------------------------------------
+    E2M6   -  127%       35%      100%      | 5:40 |       |
+    --------------------------------------------------------
+    E2M7   -  126%       44%      100%      | 4:49 |       | 
+    --------------------------------------------------------
+    E2M8   -   ??%       ??%       ??%     [Excluded]      |
+    --------------------------------------------------------
+    And, of course, total time:               28:38 (-e2m8)|
+    --------------------------------------------------------
+
+  C-N entry #18.	Date:02/05/2012
+
+  Description :)
+  Ya! First to complete a UV -RESPAWN movie!! Can't believe nobodies
+  done this yet.
+
+  My goal was to beat 29:11, which is Radek Pecka's time for EP2-2911,
+  obviously.
+
+  At E2M6, I usually exited with 98-99% kills and after 3 days of trying
+  for this, I decided to go way over kill just to make sure. I also went
+  over kill on E2M7 just because I had gotten so far and didn't want to
+  ruin it at the end.
+
+  But anyways, this is so fun. I'm so glad I gave UV -RESPAWN a chance,
+  I may even like it better than UV -FAST which for a long time, I
+  considered my favorite category.
+
+  I hope more people get involved with UV -RESPAWN movies, it would be
+  real cool to see these Episodes optimized, as my run is far from optimized.
+
+  See ya!!!!!!!!!!!!!!!!!!! :P
+  								
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

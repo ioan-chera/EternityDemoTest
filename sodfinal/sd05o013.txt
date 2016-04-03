@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      sodfinal.wad
+Maps:      Map05
+Skill:     4
+Category:  -nomonsters
+Exe:       prboom-plus 2.5.1.3 -complevel 9
+
+Time:      0:13
+
+Author:    Krankdud
+
+Comments:
+Beat a Cyberdemon531 Demo Week
+33 second improvement over Cyberdemon's time :p
+The glide went really quickly and the rest went smoothly. Surprisingly this
+didn't take too long to get.

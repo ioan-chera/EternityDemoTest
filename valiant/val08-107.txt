@@ -1,0 +1,12 @@
+Runner: Christopher "Dime" Dewey
+IWAD: Doom2.wad
+PWAD: Valiant.wad
+Category: UV-Speed
+Source Port: glboom-plus 2.5.1.4
+Map: 8, Bushwhacked
+Time: 1:07
+
+Yaaa, I had one nasty mancubus block but the luck was ridiculous right after, It'll be improved by a few seconds
+but it's a good start.
+
+Fun map.

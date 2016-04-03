@@ -1,0 +1,19 @@
+ Number One Kill the Next Generation
+              Map 04
+   Map Author: Angelo Jefferson
+-------------------------------------
+           1k04p003.lmp
+
+Pacifist in 0:03.57
+
+    Kills   - 0%
+    Items   - 3%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Also Reality. Had an uglier-looking 3 before this one.

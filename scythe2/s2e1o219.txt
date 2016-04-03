@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe 2
+Pwad name: scythe2.wad
+Maps:      01-05
+Skill:     4
+Category:  NoMo
+Exe:       PRBoom+ v2.5.1.4, -complevel 2
+
+Time:      2:19
+
+Author:    MD922
+
+Comments:  1 second improvement woohoo

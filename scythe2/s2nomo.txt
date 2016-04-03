@@ -1,0 +1,40 @@
+WAD:      Scythe2.wad (Scythe2)
+Map:       All Except 01,06,07,09,29
+Category:  No Monsters
+IWAD:      Doom2.wad
+Engine:       prboom+2.5.1.3
+Author:	  Cacatou
+
+Comments: Decent runs.
+There's a new trick in MAP28 but the rest are just slightly faster versions generally.
+
+Times:
+MAP02 (Rooftop Warzone): 0:27.91
+MAP03 (Caste Gardens II): 0:51.83
+MAP04 (Cursed Cellars): 0:22.91
+MAP05 (Halls of Anguish): 0:21.26
+MAP08 (Graverobbers): 0:28.97
+MAP10 (Pharaos Tomb (sic)): 0:44.77
+MAP11 (UAC Base X): 0:21.66
+MAP12 (Battlegrounds): 0:34.94
+MAP13 (Mining Project): 0:38.54
+MAP14 (Power Outage): 0:27.86
+MAP15 (End of the Line): 0:30.57
+MAP15s (End of the Line): 0:19.74
+MAP16 (Mr X): 0:28.46
+MAP17 (Canyon of Blood): 0:36.83
+MAP18 (Living Lands): 0:33.37
+MAP19 (Withering Away): 0:29.51
+MAP20 (The Gates): 1:35.26
+MAP21 (Doom Gardens): 0:38.69
+MAP22 (The Garden Base II): 0:56.83
+MAP23 (Whispering Winds): 0:17.94
+MAP24 (Gaias Temple): 1:25.51
+MAP25 (Forgotten City): 1:16.74
+MAP26 (Death): 0:25.63
+MAP27 (Afterlife II): 1:34.80
+MAP28 (Nightmare): 0:34.77
+MAP30 (Haunting Dreams): 1:10.74
+MAP31 (Secret): 0:13.74
+MAP31s (Secret): 0:11.69
+MAP32 (Super Secret): 0:37.83
