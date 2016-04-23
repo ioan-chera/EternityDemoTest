@@ -40,9 +40,9 @@ for item in items:
         continue
     
     if item[0] == '1':
-        data += '\nfind ' + item[1] + ' -iname "*.lmp" | while read f; do $calldoom -fastdemo "$f"'
+        data += '\nfind ' + item[1] + ' -maxdepth 1 -iname "*.lmp" | while read f; do $calldoom -fastdemo "$f"'
     elif item[0] == '2':
-        data += '\nfind ' + item[1] + ' -iname "*.lmp" | while read f; do $calldoom2 -fastdemo "$f"'
+        data += '\nfind ' + item[1] + ' -maxdepth 1 -iname "*.lmp" | while read f; do $calldoom2 -fastdemo "$f"'
     if len(item) > 2:
         for subitem in item[2:]:
             data += " " + subitem
