@@ -1,8 +1,8 @@
 #!/bin/bash
 
 rm demolog.txt
-calldoom="eternity-port/eternity -base eternity-port/base -user eternity-port/user -iwad doom -nodraw -nosound -demolog demolog.txt"
-calldoom2="eternity-port/eternity -base eternity-port/base -user eternity-port/user -iwad doom -nodraw -nosound -demolog demolog.txt"
+calldoom="eternity-port/eternity -base eternity-port/base -user eternity-port/user -iwad DOOM.WAD -nodraw -nosound -demolog demolog.txt"
+calldoom2="eternity-port/eternity -base eternity-port/base -user eternity-port/user -iwad DOOM2.WAD -nodraw -nosound -demolog demolog.txt"
 
 $calldoom -deh betaskulltest/betaskull.bex -fastdemo betaskulltest/betaskul.lmp
 $calldoom -file 01fava/crap115/crap115.wad -fastdemo 01fava/crap115/crap115.lmp
