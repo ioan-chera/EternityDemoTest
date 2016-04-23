@@ -1,0 +1,15 @@
+1 00_e2m8 -file 00_e2m8/00_e2m8.wad
+1 competn/doom
+1 01fava -file 01fava/fava.wad
+2 scythe2 -file scythe2/scythe2.wad
+2 scythe2/spechits -file scythe2/scythe2.wad -spechit 0x01C09C98
+2 sodfinal -file sodfinal/sodfinal.wad
+2 sodfinal/old -file sodfinal/sodfinal.wad sodfinal/sod_old.wad
+2 valiant -file valiant/valiant.wad
+2 dr2008v2 -file dr2008v2/dr2008v2.wad -bex dr2008v2/dr2008v2.bex
+2 1994tu -file 1994tu/1994tu.wad
+2 vanguard -file vanguard/vanguard.wad
+2 1killtng -file 1killtng/1killtng.wad
+2 10sector -file 10sector/10sector.wad
+2 000207 -file 000207/000207.wad
+2 000emg -file 000emg/000emg.wad

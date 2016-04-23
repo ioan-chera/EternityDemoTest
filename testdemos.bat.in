@@ -1,0 +1,8 @@
+@echo off
+
+del demolog.txt
+set calldoom=c:\users\ioan_chera\development\eternity\vc2012\release\eternity -base c:\users\ioan_chera\development\eternity\base -user c:\users\ioan_chera\development\eternity\user -iwad doom -nodraw -nosound -demolog demolog.txt
+set calldoom2=c:\users\ioan_chera\development\eternity\vc2012\release\eternity -base c:\users\ioan_chera\development\eternity\base -user c:\users\ioan_chera\development\eternity\user -iwad doom2 -nodraw -nosound -demolog demolog.txt
+
+%calldoom% -deh betaskulltest\betaskull.bex -fastdemo betaskulltest\betaskul
+%calldoom% -file 01fava\crap115\crap115.wad -fastdemo 01fava\crap115\crap115.lmp

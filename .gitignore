@@ -4,3 +4,6 @@ DOOM2.WAD
 demolog.txt
 *.dbs
 *.backup1
+testdemos.bat
+testdemos.sh
+eternity-port
