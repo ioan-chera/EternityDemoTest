@@ -1,0 +1,68 @@
+===========================================================================
+Title                   : 0lev1
+Filename                : 0lev1.wad and 0lev1.txt as 0lev1.zip
+Release date            : 8/01
+Author                  : Janek Bringle
+Email Address           :
+Other Files By Author   : 1lev5.wad
+Misc. Author Info       : 
+
+Description             : 
+Additional Credits to   : 
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No 
+Other files required    : none
+
+* Play Information *
+
+Game                    : DOOM2 
+Map #                   : 01
+Single Player           : Yes, Designed for 
+Cooperative 2-4 Player  : Yes, but a bit easy
+Deathmatch 2-4 Player   : Yes, desinged for
+Other game styles       : 
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New level from scratch 
+Build Time              : 4+hours 
+Editor(s) used          : Windeu32
+Utilities used          : BSP30, RMB30
+Known Bugs              : None
+May Not Run With...     :
+
+
+* Copyright / Permissions *
+
+Authors may use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+(delete one of these two paragraphs:)
+
+You MAY not distribute this file in any format.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://ftp.cdrom.com/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+
+

@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineT.wad
+Pwad name: 100 Lines (traditional)
+Maps:      14
+Skill:     4
+Category:  Pacifist
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+
+Time:      1:31
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  All potentially faster runs was ruined by cyber =)

@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+wad:matrix.wad (01matrix.zip)  
+
+map:07
+
+skill: 4    
+Category: ultra-violence max
+Exe:       glboom.exe (prboom PLUS V 2.5.0.7 win 32) complevel 2
+
+
+
+Time: 08:42     
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr
+recorded: april 14th 2011     
+
+Comments:only 75% secret possible.

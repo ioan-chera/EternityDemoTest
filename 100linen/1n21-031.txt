@@ -1,0 +1,19 @@
+            100LinesN
+       Map 21: Shard Gate
+      WAD Author: Capellan
+------------------------------------
+          1n21-031.lmp
+
+UV-Speed in 0:31
+
+    Kills   - 4%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: 30's probably possible.

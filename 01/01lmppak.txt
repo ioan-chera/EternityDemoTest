@@ -1,0 +1,17 @@
+Prboom 2.5.0.6 -clvl 9
+
+Wad: 01.wad
+
+Type: 	Map 01 : UV-speed
+	Map 02 : UV-max
+	Map 01-02: UV-max
+
+Times: 	Map 01 UV-speed: 	1:13
+	Map 02 UV-max: 	 	3:00
+	Map 01-02 UV-max: 	6:34
+
+Recorder: Sebastian "DoomHero85" Graham
+
+Notes: I hate 'almost' unavoidable crushers...and chaingunners.
+
+Enjoy the demos!

@@ -1,0 +1,10 @@
+Wad: 01.wad map 01
+
+Type: UV-speed 
+
+Time: 0:36
+
+Recorder: Sebastian "DoomHero85" Graham
+
+Notes: replacement for my awful speedrun of the same map.
+

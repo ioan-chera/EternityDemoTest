@@ -1,0 +1,19 @@
+            100LinesN
+         Map 05: Burrow
+    WAD Author: Demonologist
+------------------------------------
+          1n12-014.lmp
+
+UV-Speed in 0:14
+
+    Kills   - 4%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Lucky demo. I pass through the mancubi in the beginning without bumping up against them and the switches are hit rather quickly. Also, I manage to exit through the cyberdemon rather nicely.

@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineT.wad
+Pwad name: 100 Lines (traditional)
+Maps:      05
+Skill:     5
+Category:  NM-Speed
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+
+Time:      0:06
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  Before this i got two 0:07.00 and countless 7.xx

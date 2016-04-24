@@ -1,0 +1,9 @@
+100 Lines (Non-traditional) Map05 UV-Pacifist in 0:18
+Author: Veinen
+Pwad: 100lineN.wad
+Pwad name: 100 Lines (Non-traditional)
+Port: GlBoom 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: I was hoping for a death exit but alas, this'll have to do.

@@ -1,0 +1,19 @@
+            100LinesT
+ Map 06: Convenient System Store
+      Map Author: Katamori
+------------------------------------
+          1n05n007.lmp
+
+NM-Speed in 0:07
+
+    Kills   - 14%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Archvile boost could probably bring this down to 6 as well, but it'd be too difficult to bother in my opinion. Also Pacifist.

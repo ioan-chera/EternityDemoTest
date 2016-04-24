@@ -1,0 +1,19 @@
+            100LinesN
+    Map 28: 100 Lines of Doom
+    WAD Author: ArmouredBlood
+------------------------------------
+          1n28-207.lmp
+
+UV-Max in 2:07
+
+    Kills   - 101%
+    Items   - 33%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Everything worked out rather nicely in this run. It's mostly easy left mouse button spamming, and there's basically no need to worry about health/armor or ammo, but the final battle is somewhat cruel. Running from side to side at the door like that usually did not work, but this time both cybers were engaged instantly and blocked the path of the arch-viles out, so I was able to survive the battle. First exit.

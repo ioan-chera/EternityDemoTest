@@ -1,0 +1,12 @@
+100 Lines (non-traditional) - Map04 - UV-Max in 1:26
+
+Author: Veinen
+Pwad: 100lineN.wad
+Pwad name: 100 Lines (non-traditional)
+Port: Glboom+ 2.5.1.3
+Complevel: 9
+
+Date: 9.11.2014
+E-mail: veinen22@gmail.com
+
+Comments:

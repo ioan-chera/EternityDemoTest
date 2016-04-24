@@ -1,0 +1,18 @@
+           The Matrix
+     WAD Author: Ben Gates
+------------------------------------
+          mtrx-220.lmp
+
+UV-Speed in 220
+
+    Kills   - 100%
+    Items   - 7%
+    Secrets - 75%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: A very unimproved speed for this map. I wouldn't be surprised if sub-2:00 was possible (especially with TAS). Didn't study the level too hard, so maybe there's a better route (though it's a pretty good level).

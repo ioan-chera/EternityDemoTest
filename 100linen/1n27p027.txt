@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineN.wad
+Pwad name: 100 Lines (non-traditional)
+Maps:      27
+Skill:     4
+Category:  Pacifist
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+Time:      0:27
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Luck based, often both avs attack me while i open the first door.

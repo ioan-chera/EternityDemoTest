@@ -1,0 +1,39 @@
+This is a Doom.lmp - Please forward it.........
+
+****************************************************
+* 1-11-230.zip                                     *
+* 1-11-230.txt                                     * 
+* 1-11-230.lmp - UV Max                            *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.8(-Complevel 3) *
+****************************************************
+
+1.wad E1M1 - Hangar(UV Max)
+
+****************
+* Kills:  100% *
+* Items:  40%  *
+* Secret: 100% * and time 2:30
+****************          ====
+
+******************************************************************************************************************
+
+Comments:
+
+There's not much difference between E1M1 and this map, except it's a slightly modified version. Strong monsters
+like barons, Spider Masterminds and Cyberdemons are added. The only weapon to kill everything is the shotgun, so
+infighting is important to save time and ammo. I was shocked at that locked cyber shooting a rocket to me, at 
+least I avoid it. Never mind about time taking to kill them!
+
+DSDA record is 4:10 by Michael Novikov.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: daiyu027@yahoo.com.tw
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - ROC Minguo year 100, 28th March in "Republic of China".

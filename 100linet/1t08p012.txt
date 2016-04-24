@@ -1,0 +1,10 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): 100 lines traditional
+Author of PWAD: Various
+Recorded with: PrBoom Plus 2.5.1.3 used latest ZDL to help me
+Category: UV Pacifist
+Complevel: 9
+Time: 0:12
+
+Notes: Got lucky, I tried for 0:11 but couldn't get it.

@@ -1,0 +1,19 @@
+            100LinesT
+ Map 05: Convenient System Store
+      Map Author: Katamori
+------------------------------------
+          1n05str014.lmp
+
+Stroller in 0:14
+
+    Kills   - 7%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Was going for 14, though I think 13 is probably possible. I got past the demons nicely (fairly rare occurence), but the archie decided to be a jackass. Included a faildemo that I found pretty funny where I'm dancing with one of the demons (watch in camera view for extra laughs).

@@ -1,0 +1,12 @@
+100 Lines (Non-traditional) Map08 UV-Pacifist in 0:15
+Author: Veinen
+Pwad: 100lineN.wad
+Pwad name: 100 Lines (Non-traditional)
+Port: GlBoom+ 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: 0:16 was easily done, getting under was a major pain in the ass. It was very
+	  common that the monsters would flock around the opening on top of the stairs thus
+	  blocking the way. Fun fact: if you are fast enough, you can create a run-killing
+	  pit of death in the second switch room!

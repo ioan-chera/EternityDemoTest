@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+  
+Pwad: 0lev1
+Pwad name: 0lev1.wad
+Maps:      1
+Skill:     4
+Category:  UV Speed TAS
+Exe:       PrBoom+ 2.4.8.4
+
+Time:      0:11.94
+
+Author:    ClumsyDoomer   
+Email:     baymurzin2011@yandex.ru
+
+Comments: This is the 1st UV Speed of this level. :) Ou, it it author's mistake - yellow door opens without the key! So, I think the demo is good. :) 
+

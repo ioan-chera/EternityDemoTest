@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineN.wad
+Pwad name: 100 Lines (non-traditional)
+Maps:      28
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+
+Time:      0:50
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  Crusher is very easy to break.
+           Very suicidal ending.

@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineN.wad
+Pwad name: 100 Lines (non-traditional)
+Maps:      30
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+Time:      0:10.94
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  I believe this time is optimal.
+           The distance is too long for autoaim and it works rarely,
+           and aiming must be very precise for one rocket kill.
+           I had ~10 very low 0:11 before this.

@@ -1,4 +1,13 @@
 1 00_e2m8 -file 00_e2m8/00_e2m8.wad
+2 01 -file 01/01.wad
+2 01matrix -file 01matrix/MATRIX.WAD
+1 02what -file 02what/02WHAT.WAD
+2 0lev1 -file 0lev1/0lev1.wad
+2 0slab -file 0slab/#SLAB.WAD
+2 0station -file 0station/#STATION.WAD
+1 1 -file 1/1.WAD
+2 100linen -file 100linen/100lineN.wad
+2 100linet -file 100linen/100lineT.wad
 1 competn/doom
 1 01fava -file 01fava/FAVA.WAD
 2 scythe2 -file scythe2/scythe2.wad

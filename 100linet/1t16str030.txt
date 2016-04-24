@@ -1,0 +1,19 @@
+           100LinesT
+         Map 16: Hunski
+       Map Author: Fiend
+------------------------------------
+        1t16str030.lmp
+
+Stroller in 0:30
+
+    Kills   - 29%
+    Items   - 37%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Demo went very well. Stroller adds a good deal of challenge to this level since it's no longer possible to just jump across the gap to the exit.

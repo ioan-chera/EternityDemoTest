@@ -1,0 +1,19 @@
+               1
+      WAD Author: Unknown
+------------------------------------
+           1-113.lmp
+	   1door.lmp
+
+UV-Speed in 1:13
+
+    Kills   - 46%
+    Items   - 2%
+    Secrets - 33%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Usual times here were around 1:14 or higher, it's merely luck with damage output and the monsters behind the cyber helping out (and noy dying to shotgun fire from the back). It's probably improvable, but it's very luck-based, and I'm not interested in a really long grind on this level. Included a demo that shows that the imp behind the cyber can open the exit door, which means that I can get additional help from the exit room imp on the cyber, but that's uncommon.

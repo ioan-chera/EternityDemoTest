@@ -1,0 +1,19 @@
+            100LinesT
+          Map 20: Logo
+      Map Author: joe-ilya
+------------------------------------
+          1n20p041.lmp
+
+Pacifist in 0:41
+
+    Kills   - 15%
+    Items   - 25%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: I don't know if I've ever played a level with this many vital linedefs that are ridiculously easy to skip; in probably a third of my attempts, the linedef in the blue key room was skipped. Not really sure about why the blue key is necessary at all, either; seems rather pointless given that in Pacifist, the door usually remains open anyway; the fact that I can't open it without the key only causes annoyance in the 1 out of ten or so runs (maybe even less) that the door closes. Also, the revenant and demon in the beginning are very hard to run past without bumping into them (in this demo, I bump into the demon), and the final arch-vile ruined many attempts. 40 is probably possible, but very hard, and I'm not particularly into this map.

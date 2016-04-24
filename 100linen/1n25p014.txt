@@ -1,0 +1,19 @@
+            100LinesN
+        Map 25: Cozy Nook
+        WAD Author: Plut
+------------------------------------
+          1n25p014.lmp
+
+Pacifist in 0:14
+
+    Kills   - 0%
+    Items   - 66%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Found the glide by accident while attempting the same route minus the glide. AVJ was pretty hard when I started recording, but it's easy to learn. It's possible to jump with only one AV, and, oftentimes, it's even better because the second AVJ can sometimes halt me like it does to a certain extent in this demo. Running to the left in the beginning makes the chance of an AV attack go up for some reason, too, so it's not a problem. Getting around the mancubi can be a problem, but with the route in this demo, it should work most of the time. Got lucky with a very fast glide, which managed to get me a good time, and the arachnotron at the end wasn't annoying. I was going for 14 (which wasn't easy), but given the low  time, 13 is probably possible, though good luck to the person that wants to attempt it.

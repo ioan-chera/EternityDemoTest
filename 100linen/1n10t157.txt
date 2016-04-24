@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineN.wad
+Pwad name: 100 Lines (non-traditional)
+Maps:      10
+Skill:     4
+Category:  Tyson
+Exe:       prboom-plus-2.5.0.6 -complevel 9
+Time:      1:57
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Spider Mastermind worked hard for me.
+           Usually he dies first being blocked.

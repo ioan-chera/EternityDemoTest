@@ -1,0 +1,19 @@
+            100LinesN
+   Map 23: Spiral of Despair
+WAD Author: General Rainbow Bacon
+------------------------------------
+          1n23-048.lmp
+
+Pacifist in 0:48
+
+    Kills   - 53%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: This is more like it, only issue was the imps prevented me from running for a bit. Actually, now that I think about it, the pistol shot could probably be fired earlier (same thing applies to Pacifist), but whatever, this demo was lucky anyway. Rather low 48, though, unfortunately.

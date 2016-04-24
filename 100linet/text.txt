@@ -1,0 +1,13 @@
+Pwad:      100linet.wad
+Pwad name: 100 lines (traditional pack)
+Maps:      20
+Skill:     4
+Category:  UV-pacifist
+Exe:       prboom
+
+Time:      1:19
+
+Author:    joe-ilya
+Email:     ilyadude1999@gmail.com
+
+Comments:I made this map

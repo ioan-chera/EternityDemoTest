@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:     100linet.wad
+Pwad name: 100 Lines T
+Maps:    32
+Skill:     5
+Category: NM Speed
+Exe:       GZDoom 1.7.1
+
+Time:     0:02
+
+Author:    Cyberdemon531
+Email:     cyberdemon@boun.cr
+HP:	   http://www.twitch.tv/cyberdemon531
+
+Comments:  Cool

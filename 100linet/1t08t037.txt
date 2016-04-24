@@ -1,0 +1,19 @@
+            100LinesT
+    Map 08: The Broken Gate
+     Map Author: joepallai
+------------------------------------
+          1n08t037.lmp
+
+Tyson in 0:37
+
+    Kills   - 100%
+    Items   - 16%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Not as easy as it seemed to me initially. Chaingunners take away health quickly, and the final area is really hard to punch in. The cacos get pushed back all the time, and I get slaughtered by the lost souls. This demo, I tried to punch some of the lost souls and barely survived.

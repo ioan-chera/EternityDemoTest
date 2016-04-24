@@ -1,0 +1,174 @@
+===========================================================================
+Primary purpose         : Single Player
+===========================================================================
+Title                   : 100 Lines
+Filename                : 100lineT.wad, 100lineN.wad
+Author                  : Various, see below
+Email Address           : crowroadaw@yahoo.com.au
+                          (that'll get you Capellan/Adam Windsor - use
+                          Doomworld PMs to contact individual map authors)
+
+Description             : The challenge was to put together the best possible
+                          level that meets all 5 of the following criteria:
+                           1. is Boom-compatible; and
+                           2. uses only vanilla textures; and
+                           3. is fun to play; and
+                           4. looks OK; and
+                           5. is constructed with 100 linedefs or less.
+
+                          To put this last criteria in context, e1m1 has 486
+                          linedefs.
+                          
+                          Over 70 maps were submitted, and 64 were OK'd for
+                          release to idgames.  These have been split into two
+                          wads:
+                          
+                          100lineT: is levels that are more or less 
+                          'traditional' in their map design.  They may feature
+                          special effects in their gameplay, but the focus is
+                          on providing the standard style of play, just in a
+                          very limited number of lines.
+                          100lineN: is levels that tackle the 100 line limit
+                          either by delivering a slaughtermap, or through the
+                          use of an unusual (for Doom) style of gameplay.
+                          Many of the levels in this wad are considerably more
+                          difficult than any of the maps in 100lineT.wad
+                          
+                          All maps were designed with pistol start in mind,
+                          though continuous play is of course possible.
+                          The order of maps in the wads was determined by the
+                          visual style of the levels; difficulty curve was not
+                          a factor.  Some later maps will be easier than
+                          earlier ones.  If a given map is too hard, too easy,
+                          or just not fun for you, feel free to IDCLEV out of
+                          there and try one of the others :)
+
+===========================================================================
+* What is included *
+
+New levels              : 64 (2 x 32 level wads)
+Sounds                  : No
+Music                   : Yes - for a few levels
+Graphics                : Titlepic by traversd
+                          credits screens by Jayextee
+                          level names by Obsidian
+Dehacked/BEX Patch      : just for level names (also by Obsidian)
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom2.wad
+Map #                   : All
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts included; not tested; some levels
+                          may not work well for co-op
+Deathmatch 2-4 Player   : Player starts included; not tested; many levels
+                          will not work well for deathmatch
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Varies
+Editor(s) used          : Varies
+Known Bugs              : None known
+May Not Run With        : Any vanilla doom port
+Tested With             : prboom-plus-2.5.1.3 (compat 9)
+
+* Map Information *
+Listed below are the Doomworld user names of the map authors, and the map
+names (where one wasn't given by the author, Obsidian made them up):
+
+100lineT.wad
+    01	Capellan - "Project Alpha"
+    02	traversd - "Century Base"
+    03	Kaiser - "Kaiser 27"
+    04	Jayextee - "Cross the Rubicon"
+    05	Katamori - "Convenient System Store"
+    06	Chris Hansen - "100 Shades of Flay"
+    07	Capellan - "Sins"
+    08	joepallai - "The Broken Gate"
+    09	theJF - "Quirkafleeg Performance Review"
+    10	Jayextee - "Root of Evil"
+    11	Scifista42 - "Port Penbene"
+    12	Obsidian - "Shotgun Alley"
+    13	General Rainbow Bacon - "Watch Your Back"
+    14	joe-ilya - "Minimum Fear"
+    15	Capellan - "Bridge Over Troubled Nukage"
+    16	Fiend - "Hunski"
+    17	Jayextee - "Phobos Aberration"
+    18	Scypek2 - "Bitter"
+    19	Walter Confalonieri - "Green Station Fad"
+    20	joe-ilya - "Logo"
+    21	Traversd - "Centennial Mine"
+    22	Scet - "Hell's Triangles"
+    23	Dutch Doomer - "Slaughter Dis"
+    24	Scet - "The Lavaning"
+    25	Jayextee - "Demon Bayou"
+    26	Membrain - "Devil’s Knot"
+    27	Skillsaw - "Springtime in Hell"
+    28	Mikle - "Cells"
+    29	Capellan - "Charnel"
+    30	Obsidian - "Brink of Death"
+    31	Scifista42 - "Wolfenstain"
+    32	ChaingunnerX - "Sleep Town"
+
+
+100lineN.wad
+    01	Scypek2 - "Flow"
+    02	Ribbiks - "Big Butts"
+    03	durian - "DOOMuda Triangle"
+    04	General Rainbow Bacon - "Tiptoe"
+    05	Demonologist - "Hyperborean"
+    06	ArmouredBlood - "Nukage Processing"
+    07	Scypek2 - "Rooftop Rampage"
+    08	BloodyAcid - "abnormalize"
+    09	dobugabumaru - "Exquisite Guilt"
+    10	Magnusblitz - "Demon Abbey"
+    11	TimeOfDeath - "Forest of Undesirables"
+    12	Demonologist - "Burrow"
+    13	Archi - "Trine"
+    14	theJF - "Banyan Tree"
+    15	Obsidian - "Aquaden"
+    16	Jayextee - "Contain Yourself!"
+    17	TimeOfDeath - "Stares"
+    18	JCD - "Bloody Walls"
+    19	Demonologist - "Black Throne"
+    20	Obsidian - "Indulge"
+    21	Capellan - "Shard Gate"
+    22	dobugabumaru - "Hunter"
+    23	General Rainbow Bacon - "Spiral of Despair"
+    24	Jayextee - "God’s Wound"
+    25	Plut - "Cosy Nook"
+    26	Walter Confalonieri - "Welcome to the Limit"
+    27	Scet - "Springtime Slaughter"
+    28	ArmouredBlood - "100 lines of Doom"
+    29	BloodyAcid - "Puncture"
+    30	Da Spadger - "Fire! Fire! Fire! Fire!"
+    31	TimeOfDeath (with thanks to Sandy Petersen) - "Centryway"
+    32	Jayextee - "Nüsse"
+
+
+* Copyright / Permissions *
+
+Authors may use the contents of this file as a base for
+modification or reuse ONLY with the permission of the original
+author (contact them on doomworld).  Permissions have been
+obtained from original authors for any of their resources modified
+or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+ftp://archives.3dgamers.com/pub/idgames/ and mirrors

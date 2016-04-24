@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineN.wad                     
+Pwad name: 100 Lines (Non-traditional wad)     
+Maps:      MAP25
+Skill:     4
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.1.4test -complevel 9
+
+Time:      2:40
+
+Author:    Plut
+Done August, 30, 2013
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+
+
+

@@ -1,0 +1,11 @@
+100 Lines (Non-traditional) Map29 UV-Pacifist in 0:20
+Author: Veinen
+Pwad: 100lineN.wad
+Pwad name: 100 Lines (Non-traditional)
+Port: GlBoom+ 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.comt
+
+Comments: You could say this is slightly luck dependant and I would have to agree. Some
+	  hardcore ninja will probably do this sub 0:20 but I don't have the butt muscles
+	  to grind such a time.

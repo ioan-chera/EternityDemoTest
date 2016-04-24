@@ -1,0 +1,12 @@
+100 Lines (Non-traditional) Map28 UV-Max in 1:46
+
+Author: Veinen
+Pwad: 100lineN.wad
+Pwad name: 100 Lines (Non-traditional)
+Port: GlBoom+ 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: First exit under 1:50, got like half a dozen 1:51s so I didn't want to leave it 
+	  at that. It's an ok run, start and end went nicely, middle part I screwed up a
+	  bit since I expected the Cyber to die with one less BFG shot but oh well.

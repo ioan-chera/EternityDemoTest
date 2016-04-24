@@ -1,0 +1,19 @@
+            100LinesN
+           Map 01: Flow
+        WAD Author: Scypek2
+------------------------------------
+          1n01-52.lmp
+
+UV-Speed in 0:52
+
+    Kills   - 36%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Meh, 51 is possible, but I don't really care to get it. The BFG grab largely simplifies this map.

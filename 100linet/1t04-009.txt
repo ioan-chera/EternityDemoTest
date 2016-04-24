@@ -1,0 +1,17 @@
+100LinesT
+Map 04 : Cross the Rubicon
+Map Author: Jayextee
+------------------------------------
+1n04-009.lmp
+
+UV-Speed in 0:09
+
+    Kills   - ??%
+    Items   - ??%
+    Secrets - ??%
+
+Recorded with: GLBoom 2.5.0
+-complevel 9
+
+Skill level: Ultra-violence
+Author: JC

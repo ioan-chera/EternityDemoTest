@@ -1,0 +1,23 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100linen.wad
+Pwad name: 100 Lines (non-traditional)
+Maps:      05
+Skill:     4,5
+Category:  
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+
+Time:      0:14 Pacifist
+           0:17 NM-Speed
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  To reach 14s i need four lucky events in a row:
+           1. Quickly pass first pinky.
+           2. Don't get blocked at the beginning of the second field.
+           3. AV must not be distracted by loads of projectiles and chaingunners, and let make a good jump.
+           4. Don't get blocked after jump.
+           Success chances of each part are low, especially no.3!.
+           I made it after ~300 attempts.

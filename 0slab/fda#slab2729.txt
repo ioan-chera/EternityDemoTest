@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Secret Lab
+wad:#SLAB
+doomworld/idgames link:http://www.doomworld.com/idgames/?id=11641
+map:01
+
+skill: 4    
+Category: Fda
+Exe:       glboom.exe (prboom PLUS V 2.5.0.7 win 32) complevel 2
+
+Time: 27:29      
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr
+recorded: march 13th 2011     
+
+Comments:Not the best map of the decade, but a good map, a good surprise.
+I missed the most interesting part of the map, a pity.

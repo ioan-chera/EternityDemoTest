@@ -1,0 +1,13 @@
+100 Lines (Traditional) Map19 UV-Max in 0:44
+Author: Veinen
+Pwad: 100lineT.wad
+Pwad name: 100 Lines (Traditional)
+Port: GlBoom+ 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: I didn't usually start like that but looks like it doesn't really matter much.
+	  They either kill themselves or they don't, regardless of what I do. The author is
+	  one cruel person for making that yard as annoying as possible. Everything there
+	  is solely designed to fuck you up. 0:43 at least is reachable but this was enough
+	  of a grind for me. 

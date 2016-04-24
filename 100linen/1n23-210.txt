@@ -1,0 +1,19 @@
+            100LinesN
+   Map 23: Spiral of Despair
+WAD Author: General Rainbow Bacon
+------------------------------------
+          1n23-210.lmp
+
+UV-Max in 2:10
+
+    Kills   - 115%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: A good time is pegged on monster infighting, though this demo isn't very fast at all. First exit, and it's very improvable, but I think I've reached my limit on this map so far.

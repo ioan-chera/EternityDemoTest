@@ -1,0 +1,18 @@
+               1
+      WAD Author: Unknown
+------------------------------------
+           1-221.lmp
+
+UV-Max in 2:21
+
+    Kills   - 100%
+    Items   - 13%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: I had already done a max on the previously unmaxed 2.wad, which is a similarly modified e1m5 (I assume the same person did both, though it's unknown who it is). Therefore, I decided to improve the existing record here. The time depends on a lucky infight and on getting a good kill on the cyber stuck in the door. Here, the infight turned out pretty nicely, with only three barons left, and two were pretty low on health. The cyber happened to die fairly easily as well: on my last shotgun shot, and that's after destroying the barrel behind him and killing the zombiemen and imp. Thus, I'm satisfied with a time of 2:21, though, of course, it's still likely improvable.

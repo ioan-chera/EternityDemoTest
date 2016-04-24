@@ -1,0 +1,19 @@
+            100LinesT
+    Map 04: Cross the Rubicon
+      Map Author: Jayextee
+------------------------------------
+          1n04-015.lmp
+
+UV-Speed in 0:15
+
+    Kills   - 34%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: I think 14 is possible with this route. It's also possible to skip the teleport linedef and, thus, theoretically possible to go into the yellow teleport quicker, but that only happened to me once in many attempts, and I'm not waiting for that kind of luck.

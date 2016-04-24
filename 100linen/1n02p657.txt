@@ -1,0 +1,19 @@
+            100LinesN
+        Map 04: Big Butts
+       WAD Author: Ribbiks
+------------------------------------
+          1n02p657.lmp
+
+Pacifist in 0:06.57
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Last year I tried this map in UV-Speed and found this route too hard. I also couldn't do the alternate route with a RJ from the right platforms. I found it much easier this time, and I got 7.54 seconds in about 10-15 minutes of recording. 6 was a bit of a grind, as the AV often doesn't attack quickly, I often lose too much health or die, and the jump is often blocked by monsters in the slime, and I had a 7.3x and 7.1x before this one. This went pretty smooth, although I wouldn't be surprised if 5 is possible in TAS (I'm not sure it's worth grinding for non-TAS).

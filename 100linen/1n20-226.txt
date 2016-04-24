@@ -1,0 +1,19 @@
+            100LinesN
+         Map 20: Indulge
+      WAD Author: Obsidian
+------------------------------------
+          1n20-226.lmp
+
+UV-Max in 2:26
+
+    Kills   - 110%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Luck-based and somewhat brutal, but I like the idea behind this map. First time I got to the archvile and first exit. Two things make this demo rather difficult; the start and the lost soul barrage. I found out I can alleviate the lost soul problem by not taking the soul sphere instantly and killing them all as they teleport, but the start has no clear strategy. Running around the zombiemen and targeting the revenant first is certainly helpful; the infights between the zombiemen distract them from me, and I can somewhat hide from their fire behind the revenant, but even that wouldn't always work, and often I'd lost much of my health there. Also, I made a route change where I fire one shotgun shot at the second revenant, but here I forgot to do it, and it managed to work out for me. Still improvable, of course (end looks rather ugly here).

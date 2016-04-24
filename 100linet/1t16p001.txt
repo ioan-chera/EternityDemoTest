@@ -1,0 +1,19 @@
+            100LinesT
+         Map 16: Hunski
+       Map Author: Fiend
+------------------------------------
+          1n16p001.lmp
+
+Pacifist in 0:01
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: LOL. At first, I was doing the strafejump and a long route with grabbing the red key by raising the platform below the lift. Then, I realized I hit the switch when I was basically outside the indented area, so I tried to just hit the switch without lowering the wall in front of it, and it worked easily... 0 seconds might even be possible with TAS running, but I don't think it's possible to turn that fast without TAS.

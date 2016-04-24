@@ -1,0 +1,19 @@
+            100LinesT
+       Map 32: Sleep Town
+    Map Author: ChaingunnerX
+------------------------------------
+          1n32p002.lmp
+
+Pacifist in 0:02
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: I don't think 1 second is possible.

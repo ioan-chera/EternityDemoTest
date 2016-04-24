@@ -1,0 +1,19 @@
+            100LinesN
+         Map 04: Tiptoe
+ WAD Author: General Rainbow Bacon
+------------------------------------
+          1n04-020.lmp
+
+UV-Speed in 0:20
+
+    Kills   - 26%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: I think 19 might be possible.

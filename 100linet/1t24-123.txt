@@ -1,0 +1,16 @@
+﻿Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: 100 Lines (traditional)
+Pwad name: 100linet
+Map: 24
+Skill:  4
+Category:  UV Max
+Exe: PrBoom-Plus 2.5.0.8
+
+Time: 1:23
+
+Author: Revved   
+
+Comments:
+This one can be improved by a bit, but there is quite a bit of waiting involved because of the raising platforms, having to kill the teleporting baron, etc. Luck is required for the arch-vile since you're only given an SSG with no place to hide from his attacks.

@@ -1,0 +1,17 @@
+tThis is a .LMP Entry for 100linet.wad
+
+1T14-116.TXT
+
+ 1T14-116.ZIP
+
+  1T14-116.LMP - UV Max
+
+  Recorded using GLBoom+ 2.5.1.3
+  
+  Kills    100%
+  Items     25%          
+  Secrets  100%  and Time  1:16
+                        
+  Third exit.
+
+  Rizera

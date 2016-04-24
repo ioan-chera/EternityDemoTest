@@ -1,0 +1,60 @@
+==============================================================================
+TITLE:          WHAT?!  (as in the sound when something isn't right)
+==============================================================================
+
+MADE BY:        George McGlauflin II
+
+E-Mail:         GMCGLA51@MAINE.MAINE.EDU
+             or George.McGlauflin.II@IMAGEBBS.COM
+
+Description:    I consider this to be one HELL of a level.  Meaning you can 
+                play this for a long time and not win.  However it makes 
+                a great deathmatch.  I made the hard skill levels (4 & 5)
+                look a little more hellish, because the easy skill levels
+                are a cakewalk. I figure it to be a cheap reward. I've 
+                included a .LMP of me beating (finally) the level on Ultra-
+                Violence, but haven't tackled Nightmare yet.
+
+Bugs:           NO! I made it moron proof.  You can even jump behind the
+                giant lifting wall and get out.
+
+Programs Used:  DEU 5.21, DETH 6.3 (buggy, yet better), BSP (I don't
+                remember what this is called. I just type in BSP)
+
+Episode and level:      E3M1 (The sky is a lot cooler in this one)
+
+Single player:          YES
+
+Cooperative 2-4 player: YES (not tested)
+
+Deathmatch 2-4 player:  YES!
+
+
+Copyrights:             You may distribute this WAD, provided you 
+                        include this file, with no modifications.
+
+Comments by Author:     Well, all of the work was done on a Pentium 100
+                        with 16 Megs of RAM, so I'm not sure whether it
+                        will slow down or not.  This one was tested on a
+                        486DX2-80 and a 386DX-40. (!!!) Many thanks to
+                        ^^^^^^^^^       ^^^^^^^^ (corresponding computers)
+                        Sean Birkel and Ben Gates.  They pretty much told
+                        me ALL of my bugs and helped me test it out on 
+                        modem play. (These two have made levels more
+                        complex than ANYTHING out there.  Try them out at 
+                        CDROM.COM on the internet!) Also I want to thank 
+                        the loan company who I owe......BIG!!!! I have 
+                        beaten the level on all difficulty levels, but for
+                        some strange reason, I can never get 100% kills on
+                        either 4 or 5.  (Hmmm CyberDemon maybe??) Anyway,
+                        it IS possible. (Really! I mean it!!)
+
+Included in this file should be:
+
+02WHAT.TXT
+02WHAT.WAD
+02WHAT.LMP
+DEMO.BAT
+FILE_ID.DIZ
+
+==============================================================================

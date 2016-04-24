@@ -1,0 +1,15 @@
+            100LinesN
+        Map 25: Cozy Nook
+        WAD Author: Plut
+------------------------------------
+          1n25o011.lmp
+
+Nomo Speed in 0:11.94
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Initially had a high 12, but kept going just for the hell of it, and managed to bring it down to 11. 11 is probably optimal, though it's possible to have a faster centisecond time, since the glide isn't ideal.

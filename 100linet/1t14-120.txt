@@ -1,0 +1,19 @@
+           100LinesT
+      Map 14: Minimum Fear
+      Map Author: joe-ilya
+------------------------------------
+          1n14-120.lmp
+
+UV-Max in 1:20
+
+    Kills   - 100%
+    Items   - 37%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Demo went rather well, though I'd say it's still pretty improvable, many missed shots. The end went very nicely though, given that the lost soul and demon always wanted to get in my way.

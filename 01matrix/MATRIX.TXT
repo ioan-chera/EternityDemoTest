@@ -1,0 +1,75 @@
+==============================================================================                             
+            The Matrix -- a very well designed level for DOOM2                             
+==============================================================================
+                             
+Designed by Ben Gates
+Send e-mail comments to sean.birkel@imagebbs.com -- comment it for Ben Gates
+
+                             CONTENTS
+
+1. Stuff you need to know.
+2. Crap you might want to know.
+3. Shit you probably don't want to know.
+
+                       STUFF YOU NEED TO KNOW
+
+        This level is for DOOM 2 Level 07. I chose level 7 because it has
+my favorite music in the game. This is NOT a sloppy level, no fuckups,
+it was nodes built perfectly, all textures are aligned (at least the really
+noticable ones, I didn't really feel like driving my self insane!). This is
+also an extremely complex and compact level and is very large. I spent
+a long time on this level and would like to see it circulated to other BBS's
+(just make sure you include the three files in Matrix.Zip if you do), and
+just for the record, I REALLY hate making DOOM levels. It takes too fucking 
+long |(.
+
+        Note: For some reason the percentage at the end of the level only                     
+              goes up to 75% on the secrets, go figure. So if you get 75%
+              you'll know that you got all the secrets. Everything else
+              is normal.
+
+FILE INFO:                     
+
+Name: Matrix.Zip
+Contained files (3) : Matrix.Wad, Matrix.Txt, File_id.Diz.
+
+                     CRAP YOU MIGHT WANT TO KNOW
+
+LEVEL INFO:
+
+Name: The Matrix
+Size: 290 Kb (289,819 b)
+Time: Approx. 3 months (4/1/95 to 6/27/95)
+Things: 544
+Vertices: 1,922
+LineDefs: 2,350
+SideDefs: 3,228
+Sectors: 434
+Segs: 3,793
+SSectors: 1,492
+Nodes: 1,491
+Reject: 23,545
+BlockMap: 16,442
+Editor: DeeP v. 6.13
+Nodes Builder: BSP (comes with DeeP)
+Computer: 386 DX40, 540mb hard drive, 4mb of ram, (no MathCo).
+
+                  SHIT YOU PROBABLY DON'T WANT TO KNOW
+
+        This is my FIRST level, some of you out there ought to be ashamed
+of yourselves (you know who you are!!). I tried to combine my favorite levels
+into this one and still throw in some original ideas too. If you're an avid
+DOOM player you might recognize some areas. I live in Vermon (Hermon), Maine.
+I'm 17 years old and I make levels for a hobby, I do have a life (although
+sometimes it doesn't feel like it). I HATE, no make that DESPISE (C)rap,
+and listen to nothing but the best HEAVY METAL (METALLICA, OZZY, MEGADETH, etc.)
+My name is (yeah right), my alias is Kamakazi or The Denominator, and I plan
+on making about three more levels, just so you'll have something pleasant to
+the eye to play and not a big pile of shit someone slapped together ;).
+
+        Well I guess that's it for now sizzle chest. Rock On, Metallica Rulz,
+Seinfeld is awsome, MTV sucks, look for Cringe in the future, and most 
+importantly take it easy. See ya later fruit cake :).
+
+P.S. I would like to thank Id Software for making DOOM, it kicks fucking ass,
+     and I would encourage anyone to go out and buy it :-o.

@@ -1,0 +1,14 @@
+100 Lines (Non-traditional) Map23 UV-Max in 1:25
+
+Author: Veinen
+Pwad: 100lineN.wad
+Pwad name: 100 Lines (Non-traditional)
+Port: GlBoom+ 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: Pretty half-assed effort and shoudn't be too hard to beat. Maxing this map isn't
+	  very exciting so I didn't bother putting much time into this. Still, the infights
+	  happened pretty smoothly and the only bigger flaw is that one HK not joining the
+	  initial massacre. And obviously the start is pretty damn slow compared to my 
+	  pacifist demo.

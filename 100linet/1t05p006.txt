@@ -1,0 +1,19 @@
+            100LinesT
+ Map 06: Convenient System Store
+      Map Author: Katamori
+------------------------------------
+          1n05p006.lmp
+
+Pacifist in 0:06
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Happened completely by accident. Probably humanly optimal.

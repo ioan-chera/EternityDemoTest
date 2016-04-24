@@ -1,0 +1,19 @@
+            100LinesN
+      Map 05: Hyperborean
+    WAD Author: Demonologist
+------------------------------------
+          1n05-016.lmp
+
+UV-Speed in 0:16
+
+    Kills   - 9%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: What with all the Pacifists made for this map, someone's gotta make a normal speed. Demo depends a lot on luck.

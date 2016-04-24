@@ -1,0 +1,13 @@
+﻿Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: 100 Lines (traditional)
+Pwad name: 100linet
+Map: 13
+Skill:  4
+Category:  UV Max
+Exe: PrBoom-Plus 2.5.0.8
+
+Time: 1:40
+
+Author: Revved 

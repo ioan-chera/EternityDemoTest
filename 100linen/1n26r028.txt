@@ -1,0 +1,19 @@
+           100LinesN
+   Map 26: Welcome to the Limit
+  WAD Author: Walter Confalonieri
+------------------------------------
+          1n26r028.lmp
+
+Respawn in 0:28 (Also Reality)
+
+    Kills   - 100%
+    Items   - 33%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Slightly different route from max, waiting for two demons to respawn is faster than killing all cybers. Demo went well. Not sure if 27 is possible (or anything lower than that).

@@ -1,0 +1,54 @@
+================================================================
+Title          : Secret Lab
+Filename       : #slab.wad
+Author         : Sphagne
+Email Address  : sphagne@yahoo.com
+To Run         : call "wad.bat slab" or "wad.bat slab 1 3"
+================================================================
+ Description: A big level, the secret lab is a level by itself.
+ This is my 4th level, You need to use your mind as your hands.
+ You are instructed to distroy this enemy complex but there is
+ a rumor that their notorious secret lab is hidden here so you
+ cross your fingers and enter the complex. May God help you to
+ find this lab and destroy it. Good luck!
+================================================================
+ Additional help:
+ * To find the Super-shotgun you need to find a bloody secret place.
+ * To catch the Plasma-gun you need to find the hidden yellow key.
+ * When in the secret lab remember that silence can save your life!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DoomII-MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Sky
+New Music               : Yes
+Demos Replaced          : One v 1.9
+Doom Ports              : Boom,ZDoom:OK, GLs:Some visual problems.
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Tweaked DEU 5.2 , BSP 1.2x
+Known Bugs              : Jumping is cheating, you know!
+
+================================================================
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+================================================================
+
+These levels were designed between 1995-1999 for my own pleasure
+and a few select friends, as I did not know about Doom communities
+accessible via internet, now I decided to distribute some of them.
+Hope you like them!
+
+================================================================

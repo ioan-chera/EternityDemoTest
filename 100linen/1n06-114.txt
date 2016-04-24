@@ -1,0 +1,19 @@
+           100LinesN
+    Map 06: Nukage Processing
+    WAD Author: ArmouredBlood
+------------------------------------
+          1n06-114.lmp
+
+UV-Max in 1:14
+
+    Kills   - 103%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: It's still improvable with better shooting and luck.

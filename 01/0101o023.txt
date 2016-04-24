@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+** This is a tool-assisted Doom .lmp! **
+
+PWAD: 01.wad
+PWAD Name: 01.wad
+Map: 01
+Skill: Ultra-Violence with -nomonsters command line argument
+Category: Speed
+Exe: prboom-plus 2.5.1.4 (-complevel 2)
+
+Time: 0:23.66
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+HP: http://www.youtube.com/channel/UCDTi_RRMEduPf5hp7aXS8Nw
+VK: http://vk.com/v3855
+
+Comments: none.

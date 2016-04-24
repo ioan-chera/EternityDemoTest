@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+wad:100lineN.wad
+
+engine: glboom plus 2.5.1.3
+complevel 9
+
+
+map: 27
+skill: 4
+category: ultra-violence pacifist
+
+time:00:56
+
+
+
+Author:DidierTranber 

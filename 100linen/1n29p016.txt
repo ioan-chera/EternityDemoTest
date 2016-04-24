@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineN.wad
+Map:       29
+Skill:     UV -4-
+Time:      16 :))
+Type:      Pacifist Speed
+Author:    Siprem
+Port:      PrBoom+
+Complevel: 9
+
+
+
+
+Comment: optimal?? 15 is hard :/
+

@@ -1,0 +1,26 @@
+            100LinesT
+      Map 31: Wolfenstain
+     Map Author: Scifista42
+------------------------------------
+          1n31x126.lmp
+
+UV-Max in 1:26
+
+    Kills   - 100%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Tools used: permanent strafe50,
+strafe50 on turns, segmenting,
+slow motion recording,
+-trace_thingshealth
+
+THIS IS A TOOLS-ASSISTED DEMO
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Good wad for TAS since it allows for very aggressive play that's theoretically possible, but practically near impossible to achieve. Had a pointless chaingun shot in the beginning, but, somehow, it resulted in a better RNG with the chaingun, so I kept it in. Nice three baron kill with BFG (thanks to the cyber for weakening them). Also got lucky with the two archviles at the room with the blue armor; one of them died with the shot alone on my first try. Initially, I had a 1:27 on this map, until I redid the last room in order to kill the cybers in five BFG shots instead of six; took about 20-30 minutes to get that to happen, but saved a second.

@@ -1,0 +1,9 @@
+100 Lines (Non-traditional) Map19 UV-Speed in 0:29 (Also FDA)
+Author: Veinen
+Pwad: 100lineN.wad
+Pwad name: 100 Lines (Non-traditional)
+Port: GlBoom+ 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: I have no idea how this happened. 

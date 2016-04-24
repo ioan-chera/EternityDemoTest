@@ -1,0 +1,19 @@
+           100LinesN
+   Map 26: Welcome to the Limit
+  WAD Author: Walter Confalonieri
+------------------------------------
+          1n26-033.lmp
+
+UV-Max in 0:33 (Also Reality)
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Had a low 34, so decided to grind a bit for another improvement. Very luck-based map, as the time really depends on whether the cybers decide to stand near the edge of their platforms or in the middle, and it's hard to say what the optimal time here would be. This is only a .11 too, so 32 is clearly possible, but I'm not grinding anymore on this map.

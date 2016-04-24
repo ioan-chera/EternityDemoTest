@@ -1,0 +1,7 @@
+Wad: 100linet.wad
+Demo author: Joe-ilya
+Skill: 4
+Type: UV-speed
+Time: 1:14
+MAP:MAP07
+Comments: Phew.

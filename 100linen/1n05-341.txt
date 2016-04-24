@@ -1,0 +1,12 @@
+Pwad:      100linen
+Pwad name: 100 Lines Non-Traditional
+Map:       05
+Skill:     4
+Category:  UV-Max 
+Exe:       GLBoom-Plus 2.5.1.3 -complevel 9
+
+Time:      3:41
+
+Author:    Demonologist
+Email:     demonologist@inbox.ru
+

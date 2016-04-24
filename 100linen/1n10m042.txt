@@ -1,0 +1,9 @@
+Runner: Christopher "Dime" Dewey
+PWAD: 100linen.wad
+Category: UV-Max
+Map: 10
+Source Port: glboom-plus 2.5.1.3
+Time: 0:42
+
+Fun little map, round em all up and then unleash hell. I had many failed attempts where 100 plasma did not
+kill the mastermind where as in this attempt I had 120.

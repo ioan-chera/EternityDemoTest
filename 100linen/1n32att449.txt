@@ -1,0 +1,19 @@
+            100LinesN
+          Map 32: Nüsse
+      WAD Author: Jayextee
+------------------------------------
+          1n32att449.lmp
+
+UV-Max attempt in 4:49
+
+    Kills   - 105%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Don't really max many slaughtermaps, but this one's not too hard. Couldn't chain the Keens very well in this one; first exit attempt. One of the revenants didn't teleport for some reason (just running around blissfully in his room).

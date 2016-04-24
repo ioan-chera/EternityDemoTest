@@ -1,0 +1,19 @@
+            100LinesN
+      Map 19: Black Throne
+    WAD Author: Demonologist
+------------------------------------
+          1n19-021.lmp
+
+UV-Speed in 0:21
+
+    Kills   - 48%
+    Items   - 80%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: The running strategy I use in the beginning (running straight into the revenant crowd) works almost every time. I have no clue why I switched to pistol at the end (maybe accidental mousewheel press), but I still exited somehow, and I couldn't get a 20 second demo.

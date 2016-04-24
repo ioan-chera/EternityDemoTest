@@ -1,0 +1,19 @@
+            100LinesN
+   Map 23: Spiral of Despair
+WAD Author: General Rainbow Bacon
+------------------------------------
+          1n23p104.lmp
+
+Pacifist in 1:04
+
+    Kills   - 59%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Monster behavior wasn't very good initially, but meh, I made up for that in   UV-Speed. Changed to BFG at the end because I was prepared to just speed it, but realized that the manc started going backwards and deflected my BFG shot to the side and didn't hurt the manc (my first exit it went towards me). Vastly improvable.

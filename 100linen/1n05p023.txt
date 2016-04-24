@@ -1,0 +1,28 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100lineN.wad                     
+Pwad name: 100 Lines (Non-traditional wad)         
+Maps:      MAP05
+Skill:     4
+Category:  Pacifist
+Exe:       PrBoom+ 2.5.1.4test -complevel 2
+
+Time:      0:23
+
+Author:    Plut
+Done August, 23, 2013
+
+
+
+
+
+
+
+
+
+                                               
+
+
+
+

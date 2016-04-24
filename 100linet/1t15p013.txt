@@ -1,0 +1,10 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): 100 lines traditional
+Author of PWAD: Various
+Recorded with: PrBoom Plus 2.5.1.3 used latest ZDL to help me
+Category: UV Pacifist
+Complevel: 9
+Time: 0:13
+
+Notes: A few attempts got me 0:14 with the baron there. I reckon 0:12 or 0:11 should be easily possible.

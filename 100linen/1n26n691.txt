@@ -1,0 +1,17 @@
+           100LinesN
+   Map 26: Welcome to the Limit
+  WAD Author: Walter Confalonieri
+------------------------------------
+          1n26n691.lmp
+
+NM-Speed in 0:06.91 (Also Reality and Pacifist)
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Nightmare!
+Author: 4shockblast

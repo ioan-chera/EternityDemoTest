@@ -1,0 +1,19 @@
+            100LinesT
+    Map 17: Phobos Aberration
+      Map Author: Jayextee
+------------------------------------
+          1n17p037.lmp
+
+Pacifist in 0:37
+
+    Kills   - 11%
+    Items   - 55%
+    Secrets - 100%
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: 1% health exit, hell yeah!

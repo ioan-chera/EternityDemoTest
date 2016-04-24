@@ -1,0 +1,19 @@
+           100LinesT
+Map 15: Bridge Over Troubled Nukage
+     Map Author: Capellan
+------------------------------------
+        1t15str018.lmp
+
+Stroller in 0:18
+
+    Kills   - 7%
+    Items   - 20%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Wow, lucky 18.97. I don't think 17 is possible.

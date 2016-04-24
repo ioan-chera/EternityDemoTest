@@ -1,0 +1,11 @@
+100 Lines (Traditional) Map28 UV-Pacifist in 0:26
+Author: Veinen
+Pwad: 100lineT.wad
+Pwad name: 100 Lines (Traditional)
+Port: GlBoom+ 2.5.1.3
+Complevel: 9
+E-mail: veinen22@gmail.com
+
+Comments: You can open the blue door from the courtyards side too which is a potential time
+	  saver for slicker players. I couldn't do it smoothly enough so I had to settle for
+	  the less tricky way.

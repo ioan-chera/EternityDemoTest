@@ -1,0 +1,48 @@
+Title                : 01.wad
+
+Author               : Conny Vigström
+
+Email Address        : conny.vigstrom@swipnet.se
+
+Description          : Just 2 levels for the good old DooM II that I put 
+		       together two late nights under the influence of 
+		       some J&B my father in law gave me for x-mas. (I just 
+		       love those never ending sentences.
+ 
+Additional Info      : 							       
+
+Beta Testers         : Self
+
+Additional Credits   : id Software
+			  
+
+* Play Information *
+
+Doom Version            : Doom II (tested on ver 1.666)
+Episode and Level #     : 01, 02
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+Release Date            : January 5, 1998
+
+* Construction * 
+
+Base                    : New levels from scratch
+Build Time              : Like I said, two late nights
+Editors                 : The never finished Deu 53b9 and WinDeu 5.23b
+Known Bugs              : Dunno... 
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with no
+modifications.  You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+Ah.. never mind, do what you want with it, I don't care.
+
+* Where to get these wads *
+
