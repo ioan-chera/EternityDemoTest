@@ -54,3 +54,18 @@ for item in items:
 cpu_count = multiprocessing.cpu_count()
 
 Parallel(n_jobs=cpu_count)(delayed(subprocess.call)(a) for a in commands_list)
+
+filelist = [ os.path.join('temp-logs', f) for f in os.listdir("temp-logs") if f.endswith(".txt") ]
+
+try:
+    os.remove('demolog.txt')
+except OSError:
+    pass
+    
+with open('demolog.txt', 'w') as outfile:
+    for f in filelist:
+        with open(f) as infile:
+            outfile.write(infile.read())
+        os.remove(f)
+
+subprocess.call(['osascript', '-e', 'display notification "Demo testing done!" with title "Eternity demo test"'])
