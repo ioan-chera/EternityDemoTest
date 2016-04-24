@@ -7,3 +7,4 @@ demolog.txt
 testdemos.bat
 testdemos.sh
 eternity-port
+temp-logs/*.txt
