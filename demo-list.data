@@ -7,7 +7,7 @@
 2 0station -file 0station/#STATION.WAD
 1 1 -file 1/1.WAD
 2 100linen -file 100linen/100lineN.wad
-2 100linet -file 100linen/100lineT.wad
+2 100linet -file 100linet/100lineT.wad
 1 competn/doom
 1 01fava -file 01fava/FAVA.WAD
 2 scythe2 -file scythe2/scythe2.wad
