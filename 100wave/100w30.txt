@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100wave.wad
+Pwad name: 100th Wave
+Maps:      30
+Skill:     4,5
+Category:  
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+
+Time:      0:24 NM-Speed
+           0:25 UV-Speed
+           0:34 NM-Speed with 100% secrets
+           1:29 UF-Fast
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  UV-Speed - 0:24 should be easy with proper av jump on the lift.
+           NM 100%  - I used arch-viles as a boost, halve the time of previous record =)
+

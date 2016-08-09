@@ -1,0 +1,75 @@
+===========================================================================
+Primary purpose         : Single player
+===========================================================================
+Title                   : 100th wave
+Filename                : 100wave.wad
+Release date            : July 2013
+Author                  : Scypek2
+Email Address           : scypek@onet.pl
+Other Files By Author   :
+Misc. Author Info       : 
+
+Description             : This megawad is compiled out of the first maps I made. I was still learning,
+			so while the first maps may be noobish and simple (but still not really bad),
+			the later ones get better and better as you progress. 100th wave includes new
+			graphics, some of which you've never seen before (some work from scratch and
+			some resources from the internet, but no CC4 or Nick Baker). An OBLIGATORY deh
+			patch grants new storyline and two new enemies. 
+
+			The first commercial trip to Phobos was a great success. However, the second one
+			has to be put on hold due to Hellspawn attack. Rich tourists hate waiting, so get
+			rid of the problem ASAP! And find out more playing 100th wave.
+
+Additional Credits to   : Mertruve & Inq (Tsukuru.pl) - Midis for intermission, text screen, map19, 30, 31
+===========================================================================
+* What is included *
+
+New levels              : 31
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes (required!)
+Demos                   : Yes
+Other                   : No
+Other files required    :
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MAP01-MAP31
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts
+Deathmatch 2-4 Player   : Designed for (MAP01-MAP25)
+Other game styles       : 
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Counting all breaks... 2 years.
+Editor(s) used          : Doombuilder, Slade 3, XWE, MS Paint, Anvil Studio
+Known Bugs              : Some visual flaws, perhaps
+May Not Run With        : original .exe, unless you merge it with your IWAD (chocolate doom can emulate the 			effect of deutex's merging with -merge)
+Tested With             : Chocolate doom 1.6.0, PrBoom+ 2.5.1.3. Deathmatch tested with Zdoom 2.5.0.2508 and 			2.6.1.3794.
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+
+

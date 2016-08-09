@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100wave.wad
+Pwad name: 100th Wave
+Maps:      04
+Skill:     4,5
+Category:  
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+
+Time:      0:16 Nomonsters
+           0:17 Pacifist
+           0:21 NM-Speed
+           0:24 NM-Speed with 100% secrets
+           1:13 UV-Max
+
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  I hate the second HK, especially on pacifist.

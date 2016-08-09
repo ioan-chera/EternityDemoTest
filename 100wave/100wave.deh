@@ -1,0 +1,284 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd2 0.60 build 214
+
+# General version information
+Doom version = 21
+Patch format = 6
+
+# Info for WhackEd2
+Engine config = udoom.cfg
+Data WAD = c:\documents and settings\ja\pulpit\mm dokumenty\ró¿ne - niesiemierodek\doom\kopia biznesmen 100th_vave\doom2.wad
+IWAD = c:\documents and settings\ja\pulpit\mm dokumenty\ró¿ne - niesiemierodek\doom\chocolate_doom2\doom2.wad
+
+Thing 20 (Spiderdemon)
+Hit points = 6000
+Pain chance = 30
+
+Thing 24 (SS Nazi)
+Alert sound = 36
+Death sound = 59
+
+Thing 25 (Commander Keen)
+Initial frame = 632
+Hit points = 4000
+Pain chance = 64
+First moving frame = 634
+Injury frame = 651
+Far attack frame = 776
+Speed = 12
+Width = 4194304
+Height = 4194304
+Mass = 600
+Bits = 4456454
+
+Thing 133 (Hanging Body 5)
+Bits = 2
+
+Frame 776
+Sprite subnumber = 32780
+
+Frame 777
+Duration = 8
+Next frame = 776
+
+
+
+Pointer 426 (Frame 777)
+Codep Frame = 341
+
+
+
+Text 405 402
+YOU HAVE ENTERED DEEPLY INTO THE INFESTED
+STARPORT. BUT SOMETHING IS WRONG. THE
+MONSTERS HAVE BROUGHT THEIR OWN REALITY
+WITH THEM, AND THE STARPORT'S TECHNOLOGY
+IS BEING SUBVERTED BY THEIR PRESENCE.
+
+AHEAD, YOU SEE AN OUTPOST OF HELL, A
+FORTIFIED ZONE. IF YOU CAN GET PAST IT,
+YOU CAN PENETRATE INTO THE HAUNTED HEART
+OF THE STARBASE AND FIND THE CONTROLLING
+SWITCH WHICH HOLDS EARTH'S POPULATION
+HOSTAGE.HELLSPAWN SETTLEMENT ON PHOBOS HAS BEEN
+SUCCESSFULLY DESTROYED. HOWEVER, YOU
+DIDN'T FOUND OUT WHERE THEY CAME FROM,
+BECAUSE YOU JUST RECIEVED MORE IMPORTRANT
+MISSION: HELL FORCES INVADED ONE OF UAC
+EARTH BASES. IT HAVE BEEN EVACUATED AND
+SEALED, BUT MONSTERS ARE STILL INSIDE.
+
+WHILE BACK AT INTERDIMENSIONAL GATE, YOU
+SHOULD ALSO HELP ONE MARINE THAT GOT
+TRAPPED ON THE PHOBOS SIDE DUE TO
+MALFUNCTION.
+
+Text 617 302
+YOU HAVE WON! YOUR VICTORY HAS ENABLED
+HUMANKIND TO EVACUATE EARTH AND ESCAPE
+THE NIGHTMARE.  NOW YOU ARE THE ONLY
+HUMAN LEFT ON THE FACE OF THE PLANET.
+CANNIBAL MUTATIONS, CARNIVOROUS ALIENS,
+AND EVIL SPIRITS ARE YOUR ONLY NEIGHBORS.
+YOU SIT BACK AND WAIT FOR DEATH, CONTENT
+THAT YOU HAVE SAVED YOUR SPECIES.
+
+BUT THEN, EARTH CONTROL BEAMS DOWN A
+MESSAGE FROM SPACE: "SENSORS HAVE LOCATED
+THE SOURCE OF THE ALIEN INVASION. IF YOU
+GO THERE, YOU MAY BE ABLE TO BLOCK THEIR
+ENTRY.  THE ALIEN BASE IS IN THE HEART OF
+YOUR OWN HOME CITY, NOT FAR FROM THE
+STARPORT." SLOWLY AND PAINFULLY YOU GET
+UP AND RETURN TO THE FRAY.CYBERDEMON THAT CORRUPTED POWER PLANT IS
+NOW DESTROYED, BUT IT DOESN'T SEEMED TO
+BE A SOURCE OF INVASION. TRAIL OF HELLSPAWN
+LEADED YOU TO PARTIALLY INDEPENDENT UAC
+SCIENCE LABS - IN WEIRDLY GOOD CONDITION
+AS FOR FACILITIES DESTROYED COMPLETELY
+DURING THE FIRST ATTACK ON EARTH.
+
+YOU PROCEED FURTHER...
+
+Text 312 240
+YOU ARE AT THE CORRUPT HEART OF THE CITY,
+SURROUNDED BY THE CORPSES OF YOUR ENEMIES.
+YOU SEE NO WAY TO DESTROY THE CREATURES'
+ENTRYWAY ON THIS SIDE, SO YOU CLENCH YOUR
+TEETH AND PLUNGE THROUGH IT.
+
+THERE MUST BE A WAY TO CLOSE IT ON THE
+OTHER SIDE. WHAT DO YOU CARE IF YOU'VE
+GOT TO GO THROUGH HELL TO GET TO IT?YOU TOOK A DEEP BREATH AND ENTERED.
+YOU SOON FOUND OUT THAT HELLISH LANDSCAPES
+ARE SOMEWHAT FAMILIAR. IT'S THE SAME
+GATE YOU CAME TO EARTH AFTER DEFEATING
+THE SPIDER LEADER OF DEMONS!
+
+BUT NOW, YOU CAME BACK TO BLAZE THROUGH
+HELL... AGAIN.
+
+
+Text 494 416
+THE HORRENDOUS VISAGE OF THE BIGGEST
+DEMON YOU'VE EVER SEEN CRUMBLES BEFORE
+YOU, AFTER YOU PUMP YOUR ROCKETS INTO
+HIS EXPOSED BRAIN. THE MONSTER SHRIVELS
+UP AND DIES, ITS THRASHING LIMBS
+DEVASTATING UNTOLD MILES OF HELL'S
+SURFACE.
+
+YOU'VE DONE IT. THE INVASION IS OVER.
+EARTH IS SAVED. HELL IS A WRECK. YOU
+WONDER WHERE BAD FOLKS WILL GO WHEN THEY
+DIE, NOW. WIPING THE SWEAT FROM YOUR
+FOREHEAD YOU BEGIN THE LONG TREK BACK
+HOME. REBUILDING EARTH OUGHT TO BE A
+LOT MORE FUN THAN RUINING IT WAS.
+ANOTHER LARGE CHUNK OF HELL HAS BEEN
+DESTROYED. YOU QUICKLY FOUND YOURSELF
+NEXT TO INTERDIMENSIONAL GATE AND
+PROCEEDED BACK TO YOUR HOME.
+THE GATE HAS BEEN DESTROYED BY UAC, AND
+THE RECKLESSLY RECREATED UACSL ITSELF
+HAS BEEN SHUT DOWN AFTER FINDING OUT
+THE HARD WAY WHAT DISADVANTAGES
+EXPERIMENTING WITH HELL HAS.
+FOR THE SECOND TIME...
+
+AND THE TRIP TO PHOBOS IS AVAIABLE
+AGAIN. GO AND BUY LAST MINUTE TICKETS
+NOW!
+
+
+Text 164 151
+CONGRATULATIONS, YOU'VE FOUND THE SECRET
+LEVEL! LOOKS LIKE IT'S BEEN BUILT BY
+HUMANS, RATHER THAN DEMONS. YOU WONDER
+WHO THE INMATES OF THIS CORNER OF HELL
+WILL BE.EXREMELY TIRED AFTER NUMEROUS BATTLES,
+YOU SHUT YOURSELF IN THE ROOM AND WENT
+TO SLEEP. UNFORTUNATELY, YOU HAD THE
+WEIRDEST DREAM YOU EVER DREAMED...
+
+
+Text 92 89
+CONGRATULATIONS, YOU'VE FOUND THE
+SUPER SECRET LEVEL!  YOU'D BETTER
+BLAZE THROUGH THIS ONE!
+THIS LEVEL CONTAINS ULTIMATE PRIZE.
+
+I HOPE YOU'RE NOT A PISTOL-STARTER?
+THAT WOULD SUCK.
+
+Text 41 42
+Picked up a medikit that you REALLY need!You use source port you don't REALLY need!
+
+Text 30 29
+You got the BFG9000!  Oh, yes.You got the super secret BFG!
+
+Text 28 29
+A chainsaw!  Find some meat!A chainsaw does really exist!
+
+Text 22 19
+Degreelessness Mode OnAre you kidding me?
+
+Text 23 23
+Degreelessness Mode OffIt will be easy anyway!
+
+Text 17 17
+level 1: entryway1 - closed season
+
+Text 19 10
+level 2: underhalls2 - cavern
+
+Text 20 17
+level 3: the gantlet3 - eight portals
+
+Text 18 17
+level 4: the focus4 - the red river
+
+Text 26 16
+level 5: the waste tunnels5 - the darkness
+
+Text 20 18
+level 6: the crusher6 - life on phobos
+
+Text 20 16
+level 7: dead simple7 - great return
+
+Text 25 17
+level 8: tricks and traps8 - in the center
+
+Text 16 12
+level 9: the pit9 - barracks
+
+Text 24 16
+level 10: refueling base10 - power plant
+
+Text 29 14
+level 11: 'o' of destruction!11 - warehouse
+
+Text 21 14
+level 12: the factory12 - hellslime
+
+Text 18 18
+level 13: downtown13-closed district
+
+Text 25 19
+level 14: the inmost dens14 - firing grounds
+
+Text 25 19
+level 15: industrial zone15 - trial facility
+
+Text 17 17
+level 16: suburbs16 - intersection
+
+Text 19 19
+level 17: tenementsgardens of the past
+
+Text 23 21
+level 18: the courtyard18 - the headquarters
+
+Text 21 19
+level 19: the citadel19 - getting closer
+
+Text 17 8
+level 20: gotcha!20 - no!
+
+Text 17 19
+level 21: nirvana21 - doomed capital
+
+Text 23 18
+level 22: the catacombs22 - mean while...
+
+Text 24 19
+level 23: barrels o' fun23 - ode to origins
+
+Text 19 15
+level 24: the chasm24 - nicht hell
+
+Text 20 22
+level 25: bloodfalls25 - anti-human system
+
+Text 29 23
+level 26: the abandoned mines26 - twilight sronghold
+
+Text 23 21
+level 27: monster condo27 - turn up the heat
+
+Text 26 17
+level 28: the spirit world28-revival sector
+
+Text 24 14
+level 29: the living end29 - the chase
+
+Text 21 22
+level 30: icon of sin30 - the great justice
+
+Text 21 12
+level 31: wolfenstein31 - gallon
+
+Text 16 11
+level 32: grosse32 - strobe
+

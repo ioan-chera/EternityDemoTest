@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+This is a built demo (using xdre)
+
+
+Pwad:      100wave.wad
+Map:       02
+Skill:     Uv -4-
+Time:      8
+Type:      UV MAX 
+Author:    Siprem
+Port:      PrBoom+
+
+Comment:
+

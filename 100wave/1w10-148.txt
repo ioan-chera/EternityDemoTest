@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+wad:100wave.wad
+
+engine: glboom plus 2.5.1.3
+complevel 2
+
+
+map: 10
+skill: 4
+category: ultra-violence speed
+
+time:01:48
+
+
+
+Author:DidierTranber 

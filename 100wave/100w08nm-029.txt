@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100wave.wad
+Pwad name: 100th Wave
+Maps:      08
+Skill:     5
+Category:  NM-Speed with 100% secrets
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+
+Time:      0:29
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  After getting 30.00 1hp run (included as the bonus) i grinded 0:29 after 1,5 hours.
+           I hate the RL area, i stuck here with 50% chance ;(

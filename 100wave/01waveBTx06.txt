@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+This is a built demo (using xdre)
+
+
+Pwad:      100wave.wad
+Map:       01
+Skill:     Uv -4-
+Time:      06 
+Type:      NoMonsters Speed (TAS)
+Author:    Siprem
+Port:      PrBoom+

@@ -1,0 +1,10 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100wave.wad
+Map:       32
+Skill:     NM -5-
+Time:      00
+Type:      NM speed
+Author:    Siprem
+Port:      PrBoom+

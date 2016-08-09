@@ -1,0 +1,1 @@
+chocolate-doom.exe -merge 100wave.wad -deh 100wave.deh

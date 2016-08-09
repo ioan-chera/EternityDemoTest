@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+wad:100wave.wad
+engine: glboom plus 2.5.1.3
+complevel 2
+
+
+map: 02
+skill: 5
+category: nightmare with 100% secret
+
+time:00:19
+
+
+
+Author:DidierTranber 

@@ -1,0 +1,10 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100wave.wad
+Map:       01
+Skill:     uv -4-
+Time:      1:11
+Type:      UV Pacifist
+Author:    Siprem
+Port:      PrBoom+

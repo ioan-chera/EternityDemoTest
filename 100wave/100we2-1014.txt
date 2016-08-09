@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+
+wad:100wave.wad
+engine: glboom plus 2.5.1.3
+complevel 2
+
+
+map: 11-20 (episode 2)
+skill: doesn't matter
+category: nomonsters
+
+time:10:14
+
+
+
+Author:DidierTranber 

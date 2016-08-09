@@ -1,0 +1,20 @@
+﻿Plays back with 100WAVE_old.wad”
+MAP04
+MAP07
+MAP09
+
+Plays without .deh, with 100WAVE_old.wad
+MAP05
+
+Plays without .deh
+MAP13
+MAP17
+MAP18
+MAP20
+MAP22
+MAP23
+MAP27
+MAP28
+MAP30
+
+Map 22 onwards were recorded with 100wptch.wad. The changes in there are reflected in the WAD version dating 7/05/2013 1:51PM.

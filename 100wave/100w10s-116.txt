@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100wave.wad
+Pwad name: 100th Wave
+Maps:      10
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+
+Time:      1:16
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  I stuck at the corners, cyber was slow to teleport, and i forgot to activate exit door =(
+           But it's new faster route: obvious jump shortcut and activating the cyber cage without jumping off.

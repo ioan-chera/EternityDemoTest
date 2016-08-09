@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100wave.wad
+Pwad name: 100th Wave
+Maps:      08
+Skill:     5
+Category:  NM-Speed with 100% secrets
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+
+Time:      0:36
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  

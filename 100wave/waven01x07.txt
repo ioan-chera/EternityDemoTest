@@ -1,0 +1,10 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      100wave.wad
+Map:       01
+Skill:     Nightmare -5-
+Time:      07
+Type:      Nightmare Speed
+Author:    Siprem
+Port:      PrBoom+
