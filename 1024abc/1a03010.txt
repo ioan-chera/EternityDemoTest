@@ -1,0 +1,7 @@
+Wad: 1024abc.wad
+Demo author: Joe-ilya
+Skill: 4
+Type: Nomo
+Time: 0:10
+MAP:MAP03
+Comments: Pretty sure this can be done in 9 seconds.

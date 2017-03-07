@@ -6,11 +6,15 @@
 2 0slab -file 0slab/#SLAB.WAD
 2 0station -file 0station/#STATION.WAD
 1 1 -file 1/1.WAD
+2 100krevs -file 100krevs/100krevs.wad
 2 100linen -file 100linen/100lineN.wad
 2 100linet -file 100linet/100lineT.wad
 2 100wave -file 100wave/100wave.wad -deh 100wave/100wave.deh
 2 100wave/nodeh -file 100wave/100wave.wad
 2 100wave/old-nodeh -file 100wave/100wave.wad 100wave/100wave_old.wad
+1 101 -file 101/101.WAD
+2 1024 -file 1024/1024.WAD
+2 1024abc -file 1024abc/1024abc.wad
 1 competn/doom
 1 01fava -file 01fava/FAVA.WAD
 2 scythe2 -file scythe2/scythe2.wad

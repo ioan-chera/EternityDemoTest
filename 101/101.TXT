@@ -1,0 +1,82 @@
+================================================================
+Title  : Room 101 (101.WAD)
+Author : Sock
+
+This DOOM level is a collection of all the best ideas from all the levels 
+that I have constructed over the past 6 months. It was designed as a 1 player 
+level, although multiplayer starts have been added. Room 101 makes use of  
+the first four skill levels, but I did not bother testing this level with 
+Nightmare mode as it is extremely silly.
+
+It is possible to complete on Ultra Violence level without CHEATS in about
+20-40 minutes (100% on Kill and Secret scores) depending on how well you 
+known the level. I recommend you do not start at a high skill level but 
+work thru the skill levels as each level is slightly different. By doing 
+this you will get more familiar with the levels layout and will be able to 
+complete the higher skill levels much easier. 
+
+I spent a long time making sure all the wall textures line up correctly as I 
+am a bit of perfectionist. This is the main reason for this level taking 
+so long to construct and test. All the puzzles are not too difficult, but one 
+comment I did have back from the testers is that certain puzzles cannot be 
+completed easily with a mouse.
+
+================================================================
+
+>> Play Information.
+
+This DOOM level will ONLY work with the REGISTERED version 1.2
+
+Episode and Level       : E1M1
+Skill levels            : 1,2,3,4 (Did not bother with Nightmare)
+Single Player           : Yes
+2-4 Multiplayer         : Yes - But was not really designed for this.
+New Demos               : No
+New Sounds              : No
+New Graphics            : No
+
+
+>> Construction
+
+Base                    : New level from scratch
+Build Time              : About 3 months, plus playtesting
+Editor used             : Map builder & Editor for windows v2.6
+                          written by Geoff Allan (It's brillant !)
+
+
+>> 101.WAD level details
+
+Things          : 696
+Linedef         : 1634
+Sidedef         : 2153
+Vertexes        : 1406
+Segs            : 2257
+SSectors        : 690
+Nodes           : 689
+Sectors         : 294
+Platforms       : 37
+
+
+>> Copyright / Permissions
+
+Authors MAY do what they like with this level, ONLY if they mention the 
+original level by NAME in the main text file of credits.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+>> The story
+
+As with all doom levels, there is no story just violence and death !!!
+But for all you sad people (like me) this is the story ....
+
+H.Q have discovered that the aliens have started to set up bases upon
+planet Earth.  Far up in the mountains the creatures of Hell have setup a
+heavy attack force of their best fighters.  The only way into this base
+is by parachute as the only opening is defended by high stone walls.
+Once landed you must seek out all forms of life and destroy them without 
+mercy... (This is so sad ...)
+

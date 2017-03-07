@@ -1,0 +1,31 @@
+2415p014.zip
+ 2415p014.lmp
+ 2415p014.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file 1024.wad -playdemo 2415p014
+
+Congestion 1024 - Level 15 - Bantam
+
+Category: UV Speed / Pacifist
+
+Totals:
+
+Kills	  0%
+Items	  0%
+Secret    0%
+
+Time    0:14
+
+
+Comments: 
+
+Credit to Grazza for spotting the glide. This go is a
+mess, but I was lucky to complete it at all considering 
+how little peace you get while trying.
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+02/11/2006

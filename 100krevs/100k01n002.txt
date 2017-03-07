@@ -1,0 +1,15 @@
+Wad: 100KREVS.WAD
+Wad name: 100,000 Revenants
+Map: 01 - 100,000 Bony Bastards
+Skill: 5
+Category: NM Speed
+Exe: GLBoom+ v2.5.1.4 -complevel 9
+     (Krankdud's build with 2-key SR50 turned off by default)
+Recorded on: 24 September 2016
+
+Time:	0:02.26
+
+Author: Keyboard_Doomer
+
+Description:
+One low effort was not enough so have some more low effort!

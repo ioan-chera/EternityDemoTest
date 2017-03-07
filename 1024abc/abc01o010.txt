@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      1024ABC
+Pwad name: 1024abc.wad
+Maps:      01
+Skill:     4
+Category:  Nomonsters
+Exe:       prboom-plus 2.5.1.4 -cl2
+
+Time:      10
+
+Author:    MD922
+

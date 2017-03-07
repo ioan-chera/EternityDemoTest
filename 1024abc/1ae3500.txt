@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: 1024abc.wad   
+Pwad name: 1024 : ABC edition
+Maps:      MAP21-MAP30(E3)
+Skill:     4
+Category:  Nomo
+Exe:       chocolate doom
+
+Time:      5:00
+
+Author:		joe-ilya

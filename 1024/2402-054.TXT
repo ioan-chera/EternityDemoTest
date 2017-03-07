@@ -1,0 +1,16 @@
+ 2402-054.lmp
+  2402-054.txt
+
+  Recorded using: Boom v2.02
+  Compatibility:  Boom v2.02 Compatibility
+
+  1024.wad (Congestion 1024)
+  Map02: Garden of the Descent - UV Max
+
+  Kills      100%
+  Items       50%
+  Secrets    100%  and Time   0:54.17
+                             ---------
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

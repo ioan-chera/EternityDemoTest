@@ -1,0 +1,20 @@
+For the Doom2 pwad 1024abc by Joe Ilya
+
+File required: 1024abc.wad
+Download link: http://doomedsda.us/lmps/2344/1024abc.zip
+
+Map03
+
+Skill: UV Pacifist
+
+Kills      12%
+Items      33%
+Secrets     0% and Time: 0:14
+
+This is a Doom2.exe-compatible/format demo (recorded with prboom-plus -complevel 2).
+PrBoom-plus site: http://sourceforge.net/projects/prboom-plus
+
+Description: Ugly demo on an ugly map. I was actually hoing for one with a lot more high-speed mouse wiggling, but it wasn't to be.
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com

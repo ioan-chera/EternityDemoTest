@@ -1,0 +1,36 @@
+- 1C15-134.LMP is Doom2 v1.9 demo file
+
+
+IWAD - doom2.wad
+PWAD - 1024.WAD ("Congestion 1024") 
+MAP  - m15 ("Bantam" by Cyb)
+TYPE - UV Max
+EXE  - Doom2+ (1.92)
+
+
+Time      -     1:34
+
+Kills     -   18 / 18
+Items     -    1 / 9
+Secrets   -    1 / 1
+
+
+Description:
+
+Among all of these Congestion maps with just terrible gameplay, 
+this one shines like a gem - featuring neat tyson start and 
+very fun and challenging final battle. 
+
+Recorded in Doom2 for better mouse behavior. It is more 
+important for me than some inaccessible things.
+
+
+Player   - Hitherto
+             hth@lavabit.com
+rec.     - 15-feb-2011
+
+
+-----------------------------
+ Doomed Speed Demos Archive:
+ http://doomedsda.us/
+-----------------------------

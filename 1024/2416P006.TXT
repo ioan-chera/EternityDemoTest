@@ -1,0 +1,31 @@
+2416p006.zip
+ 2416p006.lmp
+ 2416p006.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file 1024.wad -playdemo 2416p006
+
+Congestion 1024 - Level 16 - Deja Vu
+
+Category: UV Speed / Pacifist
+
+Totals:
+
+Kills	  0%
+Items	 50%
+Secret  100%
+
+Time    0:06
+
+
+Comments: 
+
+Credit to Gusta for spotting the glide. Very easy
+and should be quicker but I got tired of stepping 
+through a VPO minefield :-/
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+02/11/2006

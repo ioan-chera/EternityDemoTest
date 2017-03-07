@@ -1,0 +1,13 @@
+            1024abc
+        Map 03: C River
+       Author: joe-ilya
+----------------------------------
+          1a03o977.lmp
+
+Nomo in 0:09.77
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast

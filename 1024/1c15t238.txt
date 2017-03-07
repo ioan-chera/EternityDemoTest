@@ -1,0 +1,35 @@
+- 1C15T238.LMP is Doom2 v1.9 demo file
+
+
+IWAD - doom2.wad
+PWAD - 1024.WAD ("Congestion 1024") 
+MAP  - m15 ("Bantam" by Cyb)
+TYPE - UV Tyson
+EXE  - Doom2+ (1.92)
+
+
+Time      -     2:38
+
+Kills     -   18 / 18
+Items     -    6 / 9
+Secrets   -    0 / 1
+
+
+Description:
+
+This is first exit since I recorded my previous, not valid tyson 
+in 2:21 (where I had used shotgun for killing the switch). 
+Unlike that one, this demo is quite unlucky, but therefore 
+more interesting to watch.
+(Invalid demo included as 1C15X221.LMP)
+
+
+Player   - Hitherto
+             hth@lavabit.com
+rec.     - 16-feb-2011
+
+
+-----------------------------
+ Doomed Speed Demos Archive:
+ http://doomedsda.us/
+-----------------------------

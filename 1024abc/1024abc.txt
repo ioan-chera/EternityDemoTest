@@ -1,0 +1,77 @@
+===========================================================================
+Archive Maintainer      : This is a speedmap megawad done within a mounth!
+Update to               : Whatever, I'm not an expert at versions of doom.
+Advanced engine needed  : No
+Primary purpose         : Single play
+===========================================================================
+Title                   : 1024:ABC edition
+Filename                : 1024abc.wad
+Release date            : 13/6/14
+Author                  : Ilya "Joe" Lazarev
+Email Address           : ilyadude1999@gmail.com
+Other Files By Author   : MAP14 & MAP20 of 100linet.wad
+                          MAP03 of Mayhem2013.wad
+                          MAP21 & MAP26 of nova.wad
+                          Bullets.wad
+                          Maybe even more...
+Misc. Author Info       : A high schooler with a lot of free time.
+
+Description             : 1024x1024 letters with gameplay on/in/around it
+                          that goes in the alphabetical order with some
+                          skip maps in the middle for vanilla compability.
+
+Additional Credits to   : ID for Doom
+                          Impcode for DB2
+                          The guy who made Slade 3
+===========================================================================
+* What is included *
+
+New levels              : 32
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : Yes
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01-MAP32
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : a month and a couple of days
+Editor(s) used          : Slade 3, DB2
+Known Bugs              : Due to DOOM being a 2.5D game, you can push a
+                          linedef even if it's not in your face so if you
+                          push the lift and kill all the arachtrons in
+                          MAP07 while the lift is in its 'lowered'
+                          position, it won't get up and you'll end up
+                          stuck. Unable to kill the arachnotrons again.
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
