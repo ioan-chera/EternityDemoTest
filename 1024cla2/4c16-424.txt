@@ -1,0 +1,36 @@
+This is a Doom .LMP - Please forward it...
+
+4c16-424.txt
+
+4c16-424.zip
+
+4c16-424.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 16 - End of the Line
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       4:24
+================
+
+
+Description:
+
+The yellow key's room was a slight unfair trap. I was 
+often killed by hell knights and revenants. The last 
+part was just lucky. Some hitscanners didn't at all 
+attack me while I was reloading SSG.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

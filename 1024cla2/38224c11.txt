@@ -1,0 +1,53 @@
+This is a Doom .LMP - Please forward it...
+
+38224c11.txt
+
+38224c11.zip
+
+38224c11.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - Episode 2 - Ultra-Violence Max Movie
+
+==========================================================
+ Map     Level                    Time     |Current Record
+-------------------------------------------|--------------
+ Map11 - A Minor Doomsday       -  3:19    |     3:06
+ Map12 - Stagnant Depot         -  3:18    |     4:13
+ Map13 - The Blood Factory      -  4:38    |     4:23
+ Map14 - Twilight of the Demons -  4:00    |     4:00
+ Map15 - Spirited Away          -  4:26    |     5:39
+ Map16 - End of the Line        -  4:14    |     4:24
+ Map17 - Dismalady              -  4:08    |     4:16
+ Map18 - Graytech Industries    -  2:07    |     1:35
+ Map19 - Complex4k              -  4:16    |     4:00
+ Map20 - Calypso Station        -  3:56    |     3:51
+-------------------------------------------|--------------
+ Total                            38:22    |    39:27
+==========================================================
+
+
+Description:
+
+Unlike episode 1, a SSG could be gotten early in many maps of episode 2, 
+so starting with it didn't have an distant advantage. However, there is 
+no SSG in map 12 and there is a SSG in almost the end of map 15. In addtion, 
+map 15 has a lot of tough enemies. Their time therefore was much faster 
+than each max record. Map 15 had a problem for a whole episode run. You 
+would be closed in the secret exit's room if you enter it. I didn't want 
+to try the run at first because I thought going to a secret map was 
+unavoidable, but I found out that it could be prevented. In map 19, I took 
+serious damage when I got a red key. I knew the trap was so dangerous for 
+test play and I would use plasma for the trap. I completely forgot it, but 
+I survived it fortunately. I still did some route errors, but my target was 
+under 40 mins and it's OK.
+ 
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

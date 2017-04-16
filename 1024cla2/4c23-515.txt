@@ -1,0 +1,39 @@
+This is a Doom .LMP - Please forward it...
+
+4c23-515.txt
+
+4c23-515.zip
+
+4c23-515.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 23 - The Dark Dawn
+
+
+================
+Kills      103%
+Items      100%
+Secrets    100%
+----------------
+Time       5:15
+================
+
+
+Description:
+
+Well...this map was too small to fight against the cyber 
+demon well. Even if I could avoid a missile, I couldn't 
+avoid blast damage easily. The last battle depended on luck. 
+Also, I often had a lot of trouble of the 1st vile. I was 
+able to deal with 2nd vile. It's OK. This map as a whole 
+was hard.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

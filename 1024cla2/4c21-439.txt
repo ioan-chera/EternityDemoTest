@@ -1,0 +1,41 @@
+This is a Doom .LMP - Please forward it...
+
+4c21-439.txt
+
+4c21-439.zip
+
+4c21-439.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 21 - Darkness abides
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       4:39
+================
+
+
+Description:
+
+Hard map. There was a SSG after blue key's door, so I wanted 
+to get it quickly. However, attacks of hitscanners usually 
+took me terrible damage and I died frequently because I had 
+no armor. Also, the 2nd secret was so tricky. You can't get 
+it without a vile-jump. If a vile resurrect any monsters, 
+getting the secret is more difficult. An arachnotron which is 
+large size would especially obstruct a player. I was therefore 
+careful about the positions where I should kill monsters.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

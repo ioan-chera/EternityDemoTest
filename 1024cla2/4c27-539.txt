@@ -1,0 +1,48 @@
+This is a Doom .LMP - Please forward it...
+
+4c27-539.txt
+
+4c27-539.zip
+
+4c27-539.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 27 - Tower of Desolation
+
+
+================
+Kills      107%
+Items       97%
+Secrets    100%
+----------------
+Time       5:39
+================
+
+
+Description:
+
+There are many caged enemies around the map and in the 
+center of the map. They aim you from all direction and 
+so you can't avoid their attacks easily. I wanted to 
+ignore enemies until I got a SSG, but a small map with 
+a lot of monsters didn't allow me to do it well. I didn't 
+kill caged imps in the center of the map early because 
+revenants, hell knights, and an arch-vile would teleport 
+if imps died, though imps were sometimes dead from monster-
+infighting or something. At first I frequently failed in 
+UV-Max for missing caged enemies and I felt it so difficult, 
+but I got used to not miss them for many tries. This map 
+therefore was hard as it's a later map of this wad, but 
+it was not harder than I had expected as a result. However, 
+some enemies occasionally didn't teleport and a run was 
+completly ruined. It irritated me a little.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

@@ -1,0 +1,69 @@
+This is a Doom .LMP - Please forward it...
+
+49184c21.txt
+
+49184c21.zip
+
+49184c21.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - Episode 3 - Ultra-Violence Max Movie
+
+==========================================================
+ Map     Level                    Time     |Current Record
+-------------------------------------------|--------------
+ Map21 - Darkness abides        -  5:29    |     4:39
+ Map22 - Power Station          -  3:44    |     3:24
+ Map23 - The Dark Dawn          -  6:16    |     5:15
+ Map24 - Oil Rig Zero           -  4:18    |     2:38
+ Map25 - The Process            -  4:28    |     3:35
+ Map26 - Into the Skies         -  4:08    |     3:46
+ Map27 - Tower of Desolation    -  5:36    |     5:39
+ Map28 - Obliteration           -  6:12    |     4:46
+ Map29 - Taggart Sails to Orion -  6:44    |     6:59
+ Map30 - ???                    -  2:23    |     1:45
+-------------------------------------------|--------------
+ Total                            49:18    |    42:26
+==========================================================
+
+
+Description:
+
+
+Well, it was much harder than I had expected. First of all, map 21 was 
+very difficult to survive until I got a armor. Although I played it slowly 
+and I didn't ignore hitscanners, unlike my map 21 run, I died there many 
+times. Also, two secrets were so troublesome. Secondary, map 24 depended 
+on luck. There was no completely safe place after I pushed a switch in 
+a room with many barrels. The cyberdemon and an arch-vile were especially 
+dangerous. A position where a enemy appeared for teleport was random and 
+it was important where the vile appeared. It would have been best if the 
+vile had been in the cyberdemon's field. Moreover, map 27 was tricky. 
+Enemies in cages gradually shortened my health and it was almost unexpected 
+and unavoidable. I died there three times, though one cause of this was 
+that I overestimated the advantage of starting this map with SSG and BFG. 
+Finally, map 28 was the most serious problem. The beginning part was 
+extremely hard. I was killed easily by two viles if I had no luck. Also, 
+enemies often fell to the outside area. I found out that a fallen enemy 
+could be killed by blast damage of RL, but I would waste much time. When 
+I saw a stuck revenants, I had a sense of foreboding. As a result, the 
+revenants fell, but I was able to deal with it quickly. For such reasons, 
+this episode was too difficult. I got a BFG in map 24 and it was so useful 
+in the later maps of this episode. It was not for faster play but for safer 
+play. Certainly I could get a faster record than each map on max by BFG, but 
+I didn't afford to do it. 
+
+Full max movie? I don't want to try it. Map 32 will depend on luck too 
+much. This map didn't exhaust me in a single map run because I retried 
+easily even if I died, but there is no sure way of surviving. It will 
+be a serious hindrance of a full movie.
+ 
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

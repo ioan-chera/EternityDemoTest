@@ -1,0 +1,39 @@
+This is a Doom .LMP - Please forward it...
+
+4c11-306.txt
+
+4c11-306.zip
+
+4c11-306.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 11 - A Minor Doomsday
+
+
+================
+Kills      108%
+Items      100%
+Secrets    100%
+----------------
+Time       3:06
+================
+
+
+Description:
+
+Three areas each have atmosphere of episode 1, 2 and 3 
+in Doom1 within only 1024x1024 square. It's so interesting 
+idea. I like it. While I was trying episode 2 max movie, 
+I was always able to beat the old record (3:33). I therefore 
+made it, but it's not very good run yet. Below 3 mins would 
+be nice, but killing two viles quickly in the third area 
+would depend on luck. 
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

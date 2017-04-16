@@ -1,0 +1,39 @@
+This is a Doom .LMP - Please forward it...
+
+4c18-135.txt
+
+4c18-135.zip
+
+4c18-135.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 18 - Graytech Industries
+
+
+================
+Kills      101%
+Items       36%
+Secrets    100%
+----------------
+Time       1:35
+================
+
+
+Description:
+
+This map is very short. The strategy was very simple. 
+You release as many enemies as possible right way and 
+you just hope that good monster-infighting occurs. I 
+killed a hell knight by telefrag and it was so lucky. 
+It would be better if you killed a baron by telefrag. 
+Needless to say, it rarely happens.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

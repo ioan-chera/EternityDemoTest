@@ -1,0 +1,41 @@
+This is a Doom .LMP - Please forward it...
+
+4c22-324.txt
+
+4c22-324.zip
+
+4c22-324.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 22 - Power Station
+
+
+================
+Kills      105%
+Items       60%
+Secrets    100%
+----------------
+Time       3:24
+================
+
+
+Description:
+
+After res key's door, a lift which moves up and down 
+automatically starts. If you miss it one time, you will 
+wait for over 10 seconds. You must take the lift well 
+for a better time while you are fighting against enemies. 
+It annoyed me considerably. An arch-vile in the last 
+part was also trobluesome. A vile often resurrected 
+tough enemies, like a mancubus or a baron. I was just 
+lucky in this run.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

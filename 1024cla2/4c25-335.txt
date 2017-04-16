@@ -1,0 +1,36 @@
+This is a Doom .LMP - Please forward it...
+
+4c25-335.txt
+
+4c25-335.zip
+
+4c25-335.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 25 - The Process
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       3:35
+================
+
+
+Description:
+
+This was much easier than map 21, 22, 23, and 24. After 
+I got a soul sphere and a blue armor, I seldom died. 
+From map 26, this wad will be getting difficult. This map 
+was just for a break.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

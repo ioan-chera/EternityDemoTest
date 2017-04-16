@@ -1,0 +1,51 @@
+This is a Doom .LMP - Please forward it...
+
+4c26-346.txt
+
+4c26-346.zip
+
+4c26-346.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 26 - Into the Skies
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       3:46
+================
+
+
+Description:
+
+This map is nice for survival but not very fun as speedrunning. 
+After I made a round of the whole map while I was gathering 
+weapons, I was locked out to the outside area in about 30 
+seconds. 4 pain elementals spew out lost souls without a break, 
+lost souls prevent player's movement and shave off player's 
+health. It was a very hard trap, and I usually died from it. 
+If you push the switch in front of the exit, the exit will 
+be open over 2 mins later. It was enough time for me to kill 
+all enemies, though I actively attacked them with bringing 
+about monster-infighting. The record of this map therefore 
+was almost determined when I pushed the switch in front of 
+the exit. However, the last battle until the exit was pretty 
+difficult to survive. Certainly a blue armor and a soul sphere 
+appeared after the outside trap, but I usually consumed them 
+soon for killing two arch-viles quickly. There were already 
+few recovery items. You have to move well for avoiding to be 
+surrounded by enemies. By the way, two arachnotrons prevent 
+cacodemons from entering the building for their size. I would 
+have been checkmated if I had killed arachnotrons quickly.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

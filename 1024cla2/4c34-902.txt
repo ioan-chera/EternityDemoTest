@@ -1,0 +1,60 @@
+This is a Doom .LMP - Please forward it...
+
+4c34-902.txt
+
+4c34-902.zip
+
+4c34-902.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 34 - Abstraction
+
+
+================
+Kills      105%
+Items      100%
+Secrets    100%
+----------------
+Time       9:02
+================
+
+
+Description:
+
+This is one of the oddest maps in this wad. The other maps are 
+map 30 and map 32. This map was very hard but pretty amazing. 
+There are two soul spheres in the map and they were so helpful, 
+but there is only one blue armor. You can't recover armor point 
+again until a mega sphere in the last area if you get it. Although 
+the blue armor could be gotten quickly after I started the map, 
+I left it for the later half. However, the first half itself was 
+not easy at all. This map has many arch-viles and they usually 
+appear in tricky positions. I wasn't able to kill them easily 
+because resurrected enemies and a uneven field often disturbed 
+me. A vile in a cage after the switch with BFG especially had 
+a lot of trouble. I was often bogged down by the vile when there 
+were many corpses in the cage, and I wasted much time. I made 
+effort not to leave corpses there, but monster-infighting was 
+unavoidable. A red key and a soul sphere were placed in each 
+square surrounded by many small crushers. I was not good at getting 
+them because I grazed a crusher easily. I could usually escape 
+from it even if I touched it, so I certainly rarely died, but 
+the crusher's speed would slow down until it reached a floor. 
+It was a fatal error for a better time. Moreover, I was blocked 
+by demons and was killed by a crusher several times when I got 
+out of a square. I could do it after I killed all demons, but 
+I couldn't take them efficient damage into a square. In the last 
+battle, it was very difficult for me to avoid the combination 
+of fire balls and homing missiles. If I had killed only the boss, 
+I would have aimed only the center of the boss and it would have 
+been easy. However, I would finish this map without killing all 
+enemies.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

@@ -1,0 +1,53 @@
+This is a Doom .LMP - Please forward it...
+
+21564c01.txt
+
+21564c01.zip
+
+21564c01.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - Episode 1 - Ultra-Violence Max Movie
+
+==========================================================
+ Map     Level                    Time     |Current Record
+-------------------------------------------|--------------
+ Map01 - Poliganoy              -  1:00    |     0:53
+ Map02 - Corrosion              -  1:25    |     1:28
+ Map03 - Tekno1000              -  1:22    |     1:25
+ Map04 - 666 Feet Under         -  1:13    |     1:37
+ Map05 - Enough Space?          -  3:09    |     2:54
+ Map06 - Severed Survival       -  3:50    |     3:22
+ Map07 - Into Hell              -  2:11    |     1:53
+ Map08 - Minimal House          -  3:34    |     3:17
+ Map09 - Handful of Dread       -  1:46    |     2:11
+ Map10 - Metallic Echo          -  2:26    |     2:20
+-------------------------------------------|--------------
+ Total                            21:56    |    21:20
+==========================================================
+
+
+Description:
+
+A SSG is not seen frequently in episode 1 of 1024cla2. Some maps 
+of them don't have a SSG or have a SSG in a later part. However, 
+you can get it early in map 1. I thought it was an advantage in 
+playing the whole episode and the run would be so different from 
+each map run, so I tried it. Actually, the time of map 4 and 9 
+was much faster than each max record. Moreover, I could use a SSG 
+instead of a berserk fist in map 2 and 3. I got almost same time 
+as each record without risk. Map 7 was very hard and unstable, so 
+I played it slowly. Map 6 and 8 was also slow. This is because that 
+I saved cells for map 7 in map 6 and I returned and got a berserk 
+pack and a green armor just before I entered a exit in map 8. 
+At least, map 7 and 8 should be very improvable, this record is not 
+too bad though.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

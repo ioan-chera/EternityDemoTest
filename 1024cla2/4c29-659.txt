@@ -1,0 +1,49 @@
+This is a Doom .LMP - Please forward it...
+
+4c29-659.txt
+
+4c29-659.zip
+
+4c29-659.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 29 - Taggart Sails to Orion
+
+
+================
+Kills      111%
+Items       99%
+Secrets    100%
+----------------
+Time       6:59
+================
+
+
+Description:
+
+You only wait for about 30 seconds after you start this map. 
+Certainly it might be a good introduction for a semi-final map, 
+but I tried this map again and again for a better record. 
+I therefore was always bored of it. After the switch in the 
+center of the map were pushed, a lot of enemies teleported and 
+I had to stand it for one minute until the switch for releasing 
+the cyberdemon appeared. It would have been easy if I had only went 
+around the area, but cacodemons prevented it. I was surrounded 
+and killed by them easily. In addition, an arch-vile in the upper 
+floor was a little tricky. I sometimes couldn't avoid its attack 
+for being blocked by enemies. I consume armor points in the trap, 
+so I always thought why a green armor could be gotten later. The 
+last battle was easy, but I could have killed monsters smoothly 
+if I had left a few more rockets. Like I said before, I don't 
+like this map's introduction, but the map itself was very exciting. 
+I had a good time.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

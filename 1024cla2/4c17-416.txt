@@ -1,0 +1,33 @@
+This is a Doom .LMP - Please forward it...
+
+4c17-416.txt
+
+4c17-416.zip
+
+4c17-416.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 17 - Dismalady
+
+
+================
+Kills      100%
+Items       77%
+Secrets    100%
+----------------
+Time       4:16
+================
+
+
+Description:
+
+This map was not hard but fun and well-balanced. 
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

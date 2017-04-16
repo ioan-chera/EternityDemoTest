@@ -1,0 +1,11 @@
+Pwad: 1024cla2.wad   
+Pwad name: Claustrophobia 2
+Map:      1
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      0:52
+
+-complevel 9
+
+Author:	   j4rio

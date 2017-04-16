@@ -1,0 +1,58 @@
+This is a Doom .LMP - Please forward it...
+
+4c331040.txt
+
+4c331040.zip
+
+4c331040.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 33 - The Unknown Machine
+
+
+================
+Kills      100%
+Items        0%
+Secrets    100%
+----------------
+Time      10:40
+================
+
+
+Description:
+
+This map looks like Invasion in Skulltag. You are closed in 
+a 1024x1024 square, and a lot of enemies attack you from all 
+direction. You have to survive it for about 10 mins, then the 
+exit will appear. Weapons, ammo, armor and recovery items are 
+supplied in a fixed term. There is a heliport in the center 
+of the map, so doom guy might wait rescue. I had felt this map 
+was not difficult before I tried it, but it was harder than 
+I had expected. My health gradually decrease by their attacks. 
+I always managed to survive with low health just before a next 
+supply. In the early stage, I didn't assail monsters actively 
+and I only thought of survival. The first reason was that enemies 
+couldn't enter to the player's field, excluding cacodemons. 
+I therefore was never pushed to the wall. They gathered around 
+a fence and fought against one another. The second reason was 
+that I thought battles until the middle part didn't depend on 
+a record. Teleport points of enemies are far from the player's 
+field and the outside area is a little bumpy. They were often 
+stuck on a wall, a object, or something and didn't come here 
+easily. The last horde of enemies wrapped in about 8:00, but 
+I could usually see all of them in over 10 mins. For such reasons, 
+I regarded survival as very important, and behaviors of monsters 
+in the last part greatly influenced a time. This record is still 
+enough improvable but I don't want to try it again. I don't say 
+I dislike this map, but repeating this long survival many times 
+for a better time is a boring task.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

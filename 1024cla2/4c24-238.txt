@@ -1,0 +1,48 @@
+This is a Doom .LMP - Please forward it...
+
+4c24-238.txt
+
+4c24-238.zip
+
+4c24-238.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 24 - Oil Rig Zero
+
+
+================
+Kills      104%
+Items      100%
+Secrets    100%
+----------------
+Time       2:38
+================
+
+
+Description:
+
+This map itself was not too hard, but several enemies were 
+placed in too tricky positions. First of all, some enemies 
+are very far from player's area. You can't hit them with 
+rockets well and can't take them effective damage by hitscan 
+weapons. Moreover, there are some cacodemons in the outside 
+of player's area, and they were the most serious problem for 
+a faster record. Cacodemons were blown off if they were 
+taken any attacks. Even if I got a good result in the inside 
+area for good behaviors of the cyberdemon, the run was frequently 
+ruined by cacodemons. They wouldn't return rapidly if they 
+were blown off to a distance, and it often happened by monster- 
+infighting. In this run, all monsters' behaviors were very nice, 
+but one BFG shot which was usually used for killing cacodemons 
+remained. I should have used it, but it's small error. This is 
+because there would have been an auto weapon change for under 
+40 cells in the last area if I had used it. 
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

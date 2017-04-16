@@ -1,0 +1,57 @@
+This is a Doom .LMP - Please forward it...
+
+4c28-446.txt
+
+4c28-446.zip
+
+4c28-446.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 28 - Obliteration
+
+
+================
+Kills      106%
+Items       83%
+Secrets    100%
+----------------
+Time       4:46
+================
+
+
+Description:
+
+This was one of the most difficult map in this wad. 
+I always had a lot of troubles of arch-viles and the 
+cyberdemon which were placed in tricky positions. 
+First of all, I ever couldn't move normally without 
+killing two viles, and they weren't able to be killed 
+easily. I consumed much time and I was defenseless 
+against enemies from behind while I was dealing with 
+them. Secondarily, this map's exit will open when you 
+push the 6th switch. An arch-vile appears in the upper 
+floor when the 2nd switch is pushed. The vile was not 
+troublesome itself, but the vile revived a mancubus. 
+It was often stuck on the lift and attacked me one-sidedly. 
+I couldn't do anything. Auto aim didn't work and many 
+demons surrounded the lift. Moreover, after the 5th 
+switch, many monsters appeared and it was extremely hard. 
+I couldn't move freely in the lower floor as far as the 
+master mind was alive. In the upper floor, I had to do 
+battle against cacodemons and revenants while I was paying 
+attention to a vile's flame and the cyber's missile. I 
+wanted to kill the vile preferentially, but cacodemons 
+always obstructed me. I was completely confused by the cyber. 
+Finally, this map has a defect. Enemies frequently fell 
+to the outside area. It was impossible to do a correct max 
+if it happened. I don't want to try this map on UV-Max again.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

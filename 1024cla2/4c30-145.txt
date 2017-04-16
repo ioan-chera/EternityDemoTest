@@ -1,0 +1,60 @@
+This is a Doom .LMP - Please forward it...
+
+4c30-145.txt
+
+4c30-145.zip
+
+4c30-145.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 30 - ???
+
+
+================
+Kills      104%
+Items        0%
+Secrets    100%
+----------------
+Time       1:45
+================
+
+
+Description:
+
+This is the oddest map as the final map that I have ever seen. 
+Before the map, I had answered it was map 30 in Kama Sutra. 
+This map has many squares which moves up and down automatically, 
+and there are over 100 arch-viles which teleport one by one in 
+fixed term. The sky changes alternately just before a vile comes 
+here. You push two switches by vile jumps, then a key appears 
+next to a square which is player's start point. You can't get 
+the key until the square rises completely once, then a stand 
+where the key is placed moves with the square. A wall run sometimes 
+can be used for pushing a switch in a Boom-based port. It's very 
+important for a faster record. When you gather three keys, the 
+rest of viles are killed by a crusher. After you open a door for 
+the keys, you will see the shocking end. At first, I pushed two 
+switches for a yellow key and killed a vile until the square rose 
+completely, and I repeated it again for a red key. However, it was 
+impossible to kill two cyber demons while the square went down and 
+up one time. I could push all switches by four viles. I got 2:13 by 
+this route after many tries, but I thought it was still improvable 
+for 1 second. While I was trying it, I got to have several seconds 
+until the fourth vile appeared after I killed the second cyber demon. 
+I therefore fought against the second cyber demon while I was avoiding 
+third vile's attacks, and I pushed the switch by it. It was a little 
+difficult but I managed to get 2:08. However, I suddenly wondered 
+if I can gather two keys while the square went down and up first 
+time. Although it was very hard because much luck was necessary, 
+it was definitely possible. I encountered the third vile when the 
+second cyber demon almost died. I was able to improve much time 
+and I was satisfied with it. I also included in the 2:13 and 2:08 demo.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

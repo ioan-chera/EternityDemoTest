@@ -1,0 +1,36 @@
+This is a Doom .LMP - Please forward it...
+
+4c20-351.txt
+
+4c20-351.zip
+
+4c20-351.lmp - Ultra-Violence Max
+
+Recorded using prboom-plus 2.5.0.6
+Boom ver2.02 compatibility (-complevel 9)
+
+
+Claustrophobia 1024 2 - MAP 20 - Calypso Station
+
+
+================
+Kills      104%
+Items      100%
+Secrets    100%
+----------------
+Time       3:51
+================
+
+
+Description:
+
+This was easy map, an arch-vile after red key was a 
+little tricky though. The final area was especially 
+no problem. You don't have to avoid any attacks because 
+of a megasphere and enough cells.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
