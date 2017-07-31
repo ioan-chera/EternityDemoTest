@@ -1,0 +1,46 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      valiant.wad
+Maps:      Episode 1 (Map01 - Map07)
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus 2.5.1.4 -complevel 11
+
+Time:      5:13
+
+Author:    Krankdud
+
+Comments:
+Finally got an exit! Only took around 862 attempts :p
+
+MAP01: Bad Reception            - 0:43.49 (0:43)
+MAP02: No Rush                  - 0:24.20 (1:07)
+MAP03: Tiers of Pain            - 0:21.57 (1:28)
+MAP04: Moonlit Stroll           - 0:57.86 (2:25)
+MAP05: Aggrovator               - 0:45.91 (3:10)
+MAP06: Engineering Disaster     - 1:10.86 (4:20)
+MAP07: The Mancubian Candidiate - 0:53.51 (5:13)
+
+Various notes:
+The rocket on the second group of imps at the end of map01 makes things a lot more consistent.
+
+Still not entirely sure about plasma in map02, might be able to use rockets to get the
+same effect.
+
+You can wake up the revenant on map03 early by getting in line of sight, and then hopefully
+bait him out and just go for the rocket jump.
+
+Missed the blue key on map04. A first for everything I guess. This was probably the biggest
+mistake in the run. Doing an AVJ to the yellow key might be worth it.
+Also not shooting at the beginning of map04 prevents a ton of monsters from waking up, which
+makes getting to the exit much easier.
+
+Yellow key grab on map05 probably isn't faster, but it is a heck of a lot safer. Although I did
+it really slowly this time around.
+
+The red key bars tried really hard to end this run in map06.
+
+Really glad I got the rocket jump in map07. I had a lot of health afterwards, and maybe I could
+have skipped the secret, but I also needed the cells for the BFG anyway. Although I ended up
+needing the health anyway because of the Cyberdemon...

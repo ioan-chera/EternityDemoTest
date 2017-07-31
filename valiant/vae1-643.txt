@@ -1,0 +1,11 @@
+Runner: Christopher "Dime" Dewey
+IWAD: doom2.wad
+PWAD: Valiant.wad
+category: UV-Speed Episode 1
+Maps: 1-7
+Source Port: glboom-plus 2.5.1.4
+Time: 6:43
+
+I didn't die on map 7???
+
+enjoy.

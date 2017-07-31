@@ -1,0 +1,12 @@
+Runner: Christopher "Dime" Dewey
+IWAD: doom2.wad
+PWAD: Valiant.wad
+category: UV-Speed Episode 1
+Maps: 1-7
+Source Port: glboom-plus 2.5.1.4
+Time: 8:55
+
+I would call this a preliminary run of episode 1. More cool tricks will be added in over time
+as well as knocking down some of the powersup!
+
+got super scared there on the 27 health on mancubian.
