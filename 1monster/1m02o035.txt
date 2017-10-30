@@ -1,0 +1,15 @@
+         1 Monster Megawad
+       Map 02: Hangar of Evil
+         Map Author: Torn
+------------------------------------
+           1m02o035.lmp
+
+Nomo in 0:35.51
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Not a perfect demo, and time is pretty low. There's a long west-east wallrun possible and a few other improvable things, so at least 34 is possible without TAS.

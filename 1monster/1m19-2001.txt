@@ -1,0 +1,27 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My DooM Demos:
+http://doomedsda.us/player611lmps.html
+-------------------------------------------
+
+// 
+
+IWAD: Doom II
+PWADs: 1monster.wad & 1monsterbugfix.wad
+PWAD Name: 1monster
+WAD Author(s): 
+Map / Time / Category / Complevel:
+
+- Map 19 / 20:01 / UV-Max / -cl9
+
+Skill: 4 
+Exe: PrBoom+ 2.5.1.4
+
+//
+
+Player: TheV1perK1ller
+E-mail: dylan.gill49@hotmail.com
+YouTube: TheV1perK1ller
+
+Additional Notes: A cacophony of Cacodemons...

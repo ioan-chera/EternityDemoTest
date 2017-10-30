@@ -1,0 +1,12 @@
+Doomed Speed Demos Archive demo
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      1fiffy3.wad
+Category:  Max 
+Exe:       Doom.exe
+
+Time:      11:08
+
+Author:    Michael Novikov
+Email:     doomer@newmail.ru
+

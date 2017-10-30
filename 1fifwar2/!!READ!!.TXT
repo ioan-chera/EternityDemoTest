@@ -1,0 +1,125 @@
+             REoL TOUGH: TOTAL WAR III: Land of Weirdness
+-------------------------------------------------------------------------
+(C)1994 SNESPC U.S.A. 
+              PLEASE READ THIS TEXT! IMPORTANT INFO. ENCLOSED!
+-------------------------------------------------------------------------
+COPYRIGHT NOTICE: You may edit, alter, or modify any material with in the
+                  level you downloaded. If you decide to upload your
+                  changes to a BBS, or software library, Please include
+                  the author of the original level (George Fiffy, a.k.a.
+                  Resident Expert of Leominster) in your credits! 
+                  FEEL FREE TO DISTRIBUTE THIS DOOM LEVEL!
+-------------------------------------------------------------------------                 
+A MENU SYSTEM IS ENCLOSED! This menu, which is shareware (it says so), is
+  something I copied off the college computers. Instead of typing in the
+  loooooong DOOM command line to get to this level, you just select the
+  level of difficulty from the menu. You can escape to DOS, and there's
+  an option to load a game, using the simple DOOM command line. You will
+  recieve the following files:
+
+                REoLDOOM.COM, AUTOMENU.MDF, and ECHO.DAT.
+
+     These are IMPORTANT files! Do NOT remove them unless you don't want
+  the menu system. You can make your own menu by using a text editor to
+  modify the AUTOMENU.MDF file. It's easy to see how it works! A new file
+  will be created the first time you run the menu. DON'T PANIC! It does
+  this so you can escape to DOS a lot faster the next time around, and in
+  the future. ALL IS TESTED TO BE 100% VIRUS-FREE!
+-------------------------------------------------------------------------
+ABOUT THE TOTAL WAR III EXPERIENCE:
+     To play the new level, type REoLDOOM to start total chaos!
+     This is probably one of the weirdest DOOM levels you may ever had
+  played! There are soooo many weird effects and illusions you may have
+  thought would be IMPOSSIBLE to do (if you're a DOOM level maker your-
+  self)! The effects you will see start right in the beginning! A door
+  in the middle of the starting area! You'll also see doors coming out
+  of the sky, dark rooms you can see fine in (it doesn't make sense at
+  all, doesn't it? Well, it was done. You'll be suprised!), and get this,
+  INVISABLE BUILDINGS! You may see the doors (sometimes), and maybe the
+  windows, but you don't see a building attatched! The "pancake syndrome"
+  is also cleared up (flat outer retaining walls, and unflattened entry-
+  ways can be seen BEYOND the walls, to show thickness, unlike E3M1).
+  Some "flatness" is around, but that's because there are invisable
+  buildings around. Invisable doors leave "slices" or voids in the wall,
+  or the top of the wall.
+      One neat DOOM effect is the Hall Of Mirrors. One room has this
+  effect in it's windows. This is NO screw-up. It's done on PURPOSE!
+      The "teleporting theory" found in the real E3M7 is also in here,
+  but with a different twist. All I'm going to say is that it's harder to
+  do (heh, heh, heh!).
+      Also, be carefull of a few nasty areas! There are five areas where
+  you'll be fighting very hard! You won't be fighting as hard as in TOTAL
+  WAR II, E1M2, but it's quite a nasty brawl!
+
+  MULTI-PLAYER: This is an adventure for up to four of your friends. Each
+     can grab a shotgun and a backpack at the start, so don't be greedy!
+
+  DEATHMATCH: You'll start off with a shotgun, shells, and an energy
+     pack next to you. Why the energy pack? SOMEWHERE (not in a secret
+     area) in this world is a BFG9000! Two of you will be very close!
+     The other two people are also in good position to get it as well!
+
+  KNOWN "BOO-BOOS":
+  * Once again, I ran into that "there's too many enemies on-screen"
+    problem again. Some enemies or other things may "dissapear". Oh well,
+    if it happened in E1M2 of TOTAL WAR II, it'll happen here (ha,ha!)!
+  * There is a Hall Of Mirrors problem at the "Triangular switchboard".
+    It's only a small band. This is NOT suposed to happen! No big deal!
+  * A switch that suposed to open an invisable door and keep it open is
+    somehow shut on occasion by the enemies you face. I fixed this by
+    making it's switch retriggerable, in case it happens again.
+  * Got a PENTIUM? If not, it's alright, if you have a high speed 486
+    at 33MHz or greater (my 486 is a 20. Goes real slow on this one!).
+    If you have a (lowly) 386, I hope it's going 50 to 66MHz!
+  * Demo is known to CRASH on my crash-happy computer. If this does
+    happen to you, please shut off your EMM836 memory manager. It
+    ALWAYS worked when it was turned off.
+
+    Questions? Comments? Contact me via the Internet or America Online!
+
+    E-MAIL for AOL:      Georgef551
+    INTERNET:            Georgef551@aol.com
+
+  IF IT SAYS "REoL TOUGH", YOU'RE GETTING THE BEST DOOM LEVELS AROUND!
+                      (Ziffnet is WICKED impressed!)
+  -----------------------------------------------------------------------
+                (Optional. I like to hear from you though.)
+  QUESTIONAIRE: Cut out this section of text on DOS's EDIT, or any
+     word processor. Type in answers BELOW the questions, and send the
+     QUESTIONAIRE part to the above E-mail addresses. I recomend pasting
+     this into your writing space when answering your mail instead of 
+     sending it as a file. 
+
+(1) What do you like about REoL TOUGH: TOTAL WAR III, Land of Weirdness?
+
+(2) How do you like the difficulty of this level?
+
+(3) How do you rate the construction of this level? Make any comments,
+    if you have any:
+
+(4) If any, what improvements would you want to see in the upcoming
+    REoL TOUGH levels?
+
+(5) If any, other comments:
+------------------------------------------------------------------------
+  Some people wonder why I don't make an entire episode. As you can see,
+construction is pretty complex, quite large, and does look like it takes
+FOREVER (two weeks, before college beginns in September), and it DOES! I
+have no time to make episodes! I just make very big levels.
+------------------------------------------------------------------------
+Try out the OTHER REoL TOUGH DOOM levels:
+
+(1) HELL ON EARTH    My interpretation on how Hell On Earth began!
+(2) SATAN'S CASTLE   Trash Satan's home while he trashes yours!
+(3) TOTAL WAR II*    Tough. Has WORLD'S TOUGHEST LEVEL inside.
+(4) HOTEL            You can check in, but can you check out?
+
+Files: (1): 1FIFFY.ZIP  (2): 1FIFFY2.ZIP    (3):1FIFWAR.ZIP SWCBB,
+                                                FIFFYWAR.ZIP AOL
+       (4): 1FIFFY3.ZIP
+* TOTAL WAR I isn't available by itself. It's included in TOTAL WAR II.
+-------------------------------------------------------------------------
+Happy DOOM-ing!             Resident Expert of Leominster
+
+Todays Moral: Wash your hands after you eat. NOT BEFORE!
+

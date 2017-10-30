@@ -1,0 +1,59 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      ftp://mancubus.net/pub/idgames/levels/doom2/megawads/1monster.zip
+           (or replace "mancubus.net" with your idgames/ mirror of choice)
+Pwad name: 1 Monster Megawad
+Maps:      14 ("The Crucified Factory" by daimon)
+Skill:     4
+Category:  Speed / Pacifist
+Exe:       Boom 2.02
+
+Time:      :45
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+
+Comments:  
+Yet another 1 Monster UV speed demo, which I recorded shortly after I did
+1m05-139.  The first of the two Arch-Vile levels, this one's set in a
+dilapidated building trapped in a subverted landscape, and was designed by a
+man who has since been banned from Doomworld for linking to the Heretic IWAD.
+Speedrunning on this level requires a fair degree of luck in the beginning,
+as the Arch-Vile that attacks you earliest can very well initiate his spell as
+you're climbing crates to the first switch.  You can also get blocked very
+easily in the hallway leading to the red key, as not only are Arch-Viles huge,
+but they're the fastest enemies in the game!  Once you get the key and drop
+down, there's a suit of green armor that's meant to be obtainable only after
+destroying some barrels, but you can grab it through the barrels by
+straferunning.  Combined with the soul sphere you get before the red key, this
+will make any subsequent Arch-Vile blasts you suffer far more bearable.  The
+rest of the map is straightforward from there.
+
+This is actually my first exit.  My first unrecorded time on this was :49, so
+I was hoping to get a time of :48... and ended up getting :45!  I think this
+is the result of the fact that I ended up doing Arch-Vile jumps two times in
+succession.  While I don't pull off any shortcuts, I do reach my destinations
+faster as a result.  In the end, I decided not to improve it any further.
+
+Prior to recording Doom demos, I did some usermap speedruns for Duke Nukem 3D.
+Video versions can be seen on my YouTube channel at
+http://youtube.com/profile?user=TheGreenHerring, and I hope to have a
+"Speedruns" section up on my website in the near future.
+
+By the way, you may be wondering what those funky pictures at the end of the
+level are.  Those were the Doomworld avatars of a few of the authors of this
+megawad at the time they developed it.  However, they are all in an irregular
+size: 36×36, with deldelda's avatar in size 36×33.  While you don't have to
+worry about the tutti-fruitti effect in Boom, the horizontal size of a wall
+texture /must/ be an increment of 32, or the texture will get cut off past 32
+pixels wide when it's tiled.  As a result, none of the avatars are rendered
+correctly in Boom.  These avatars, and the "1M" written on the upper floor,
+make for a rather bizarre break of the fourth wall.  I can understand it if
+these were in a secret room, but when they're in the /exit room/ of what is
+otherwise a /serious/ level, it's quite strange.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- May 31, 2008 -

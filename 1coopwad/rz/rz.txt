@@ -1,0 +1,16 @@
+This is a   Speed Doomer's Archive entry 
+
+author:     Mike Toliver <miketol@mtco.com>
+
+game:       rz.wad (from 1coopwad.zup), DOOM2 version 1.9
+
+category:   max           
+            
+level:      Map 01
+            
+stats:      Kills     95%
+            Items     34%
+            Secrets  100%   and Time   1h, 14m!
+Comments:   Ok, this map was intended for coop play, because it's so big and there are so many monsters (1,410 to be exact).  This map has typical bugs for one with so many monsters - monsters stuck in walls, monsters stuck together.  In addition, there's some pretty bad HOM and a stupid trap with a crushing ceiling.  There's also some things outside any sector, including the 5% of enemies that you can't kill - which I really hate.  I consider a map where you can't get 100% kills to be "bugged".  Still, if you like to kill things, this is pretty much non-stop.  Lots of ammo, and if you got the BFG earlier than I do, you could have a field day.  My demo takes an hour and 14 minutes - use -timedemo and a small screen if you want to watch it!
+
+

@@ -1,0 +1,16 @@
+This is a   Speed Doomer's Archive entry 
+
+author:     Mike Toliver <miketol@mtco.com>
+
+game:       lost.wad (from 1coopwad.zup), DOOM2 version 1.9, using boom 2.02
+
+category:   max           
+            
+level:      Map 01
+            
+stats:      Kills     96%
+            Items     ??%
+            Secrets  100%   and Time   hours!
+Comments:   Ok, this map was intended for coop play, because it's so big and there are so many monsters (2,726 to be exact).  I thought I'd give it a whirl and hit some major frustrations.  I tried it with regular doom2.exe, and I could occasionally get pretty far, but then some awful error would crash the game, or (worst of all) there's one stupid trap well into the map where you try and open a door and instead get crushed by the ceiling - the "door" is a trap.  So, I thought I'd try it in boom, and it's a good thing I did because it takes forever to complete the map and I never could have done it with -maxdemo.  Ninety-six percent is the best you can do on this map, because the author put a bunch of cacos and sergeants in sectors where they should transport - but they're all deaf and so never move.  Over 100 monsters, and you can't get them after killing 2600 +....  I tried to modify the wad with windeu, but windeu can't handle this map.  Maybe I'll give it a shot with deth.  "Why bother?" you ask - who the hell is going to play this thing when it takes so much time?  Well, me for one - as flawed as the map is, it is basically non-stop fighting for close to 3 hours.  Quite a challenge!
+
+If you watch this demo (who will?) use the -fastdemo option on a fast machine, or you'll be there all night!

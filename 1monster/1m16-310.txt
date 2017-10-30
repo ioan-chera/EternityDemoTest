@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      1monster.wad
+Pwad name: 1 Monster Megawad
+Maps:      MAP16
+Skill:     4
+Category:  UV-speed
+Exe:       PRboom+ 2.5.1.4
+
+Time:      3:10
+
+Author:    Joe-Ilya
+Email:     Ilyadude1999@gmail.com
+
+Comments:  -complevel 9

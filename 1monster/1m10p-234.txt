@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      1monster.wad
+Pwad name: 1 Monster Megawad
+Maps:      MAP10
+Skill:     4
+Category:  Pacifist
+Exe:       PRboom+ 2.5.1.4
+
+Time:      2:34
+
+Author:    Joe-Ilya
+Email:     Ilyadude1999@gmail.com
+
+Comments:  -complevel 9

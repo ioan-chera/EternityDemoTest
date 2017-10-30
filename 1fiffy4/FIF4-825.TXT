@@ -1,0 +1,70 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://youfailit.net/pub/idgames/levels/doom/0-9/1fiffy4.zip
+Pwad name: REoL TOUGH: The Pit [by George Fiffy]
+Maps:      E1M5
+Skill:     4
+Category:  Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      8:25
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+Yet more Fiffy.  This is the eighth published WAD (including his crappy first
+level, seen in FIFFYWAR.WAD E1M1 in 1FIFWAR.ZIP) created by a man who is
+nowadays known for being obsessed with elevators, and for being very loudly
+conservative (as in, American conservatism) in a stereotypical sense.  I'm not
+sure how much of an improvement this is from the guy who gained Internet infamy
+with his feud with Something Awful.  In any case, this takes place in the
+Detention Center of the Mt. McKinley Base from FIFFY.WAD, which is home to a
+tall room with a nukage pit (don't ask why, this is Doom) that serves as the
+level's hub.  As is typical of George Fiffy, there are hundreds of monsters in
+this level, but their threat is nerfed by a ridiculous surplus of ammo.
+
+However, there's a worse surprise in store.  You see, there are 18 secrets in
+this level.  "So what?" you ask.  "How would having a lot of secrets detract
+from a map?"  I'll tell you how: By having almost all of them be of the
+"completely impossible to find without cheating with a level editor" class
+of secrets.  Many of them are the usual completely-hidden doors, but some of
+them are truly ridiculous.  For instance, one secret requires you to shoot a
+random wall in a small and plainly unpopulated room.  One secret cannot be
+reached without prior knowledge that crossing a specific portion of a linedef in
+front of a switch will seal it off forever.  One secret can only be accessed if
+you run into one corner of a nukage pool, risking death if you happen to be at
+low health at the time, for /no reason whatsoever./  I think you get the point
+already.  Unless you do what I suggested, watching either my demo or Maikl's is
+the only way you'll ever know how to find them.
+
+There's one other notable feature in this map.  At one point, you'll reach a
+forest from a conspicuously Hell Keep-style entrance, known as the Unenchanted
+Forrest. [sic] Said "Forrest" is a small maze of sprite trees which not only
+overloads Doom's visible sprites limit, but actually manages to slow down my
+Windows 98 computer, built in 2005, predating the infamy of B.P.R.D's "Grove"
+by a decade.  Because it overloads the visible sprites limit, I end up having
+to fire shots all around the room to catch the bad guys before I get to them.
+
+Otherwise, there's nothing else I can say about my demo, other than that my
+previously recorded exit was 8:47, and that my demo beats Maikl's by over ten
+minutes!  (Ten minutes and two seconds, to be exact.)  I make a few mistakes
+here and there, like wasting a BFG shot or two, but otherwise, I'm satisfied
+with this demo, especially as I ended up beating both of my target times (9:30,
+and then 8:30 when I ended up beating /that./)  Enjoy the demo!
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- November 8, 2009 -
+
+P.S. The story in the text file for this level says that whatever's going on
+atop Mt. McKinley could threaten all of mankind, "like George Bush did to this
+country!"  (George /H.W./ Bush, of course.)  Considering Fiffy's now vocally
+conservative political stance, and his current propensity to demonize our
+current President, the very not-conservative Barack Obama, at any opportunity
+he gets, this is hilarious in an ironic sense.  It also shows that not only can
+he not keep his political views out of his WADs, but he's the sort of guy who's
+ready to badmouth the President no matter who's sitting in the Oval Office.

@@ -1,0 +1,49 @@
+================================================================
+Filename                : 1fortres.WAD           date: (6/17/96)
+
+Author                  : Joe A. Leonard
+Email Address           : jleonard@bu.edu
+Misc. Author Info       : Whats there to know?
+
+Description             :A small to medium Single player wad. 
+                        
+================================================================
+
+* Play Information *
+
+Episode and Level #                    : MAP01 (Doom II)
+Single Player                          : yes
+Cooperative 2-4 Player                 : yes
+Deathmatch 2-4 Player                  : Yes 
+Difficulty Settings                    : yes
+New Sounds                             : No
+New Graphics                           : No
+New Music                              : No
+Demos Replaced                         : None
+
+
+* Construction *
+
+Base                    : new level from scratch
+Tools Used              : Editors: DCK
+                          
+Known Bugs              : None. Email me if you find any.
+
+
+
+Please, email me with your comments if you like this wad.  
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com (and mirrors)
+

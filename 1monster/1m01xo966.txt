@@ -1,0 +1,18 @@
+** This is a tool-assisted demo! **
+Tools used: building frame-by-frame
+
+PWAD: 1monster.wad
+PWAD name: 1 Monster Megawad
+Map: 01 "Trooper Trauma"
+Skill: Ultra-Violence with -nomonsters
+Category: Speed
+Exe: xdre.exe 2.06
+Complevel: 9
+Date: 09.06.16 (DD.MM.YY)
+
+Time: 0:09.66
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+
+Comments: haha, I was wrong. I didn't put much effort in this demo, though. 8 is probably out of the question.

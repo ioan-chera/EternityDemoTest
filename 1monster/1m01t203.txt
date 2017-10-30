@@ -1,0 +1,15 @@
+         1 Monster Megawad
+       Map 01: Trooper Trauma
+   Author: deldelda and Macro11_1
+----------------------------------
+          1m01t203
+
+Tyson in 2:03.
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Didn't go under 2:00, unfortunately, and I might improve this later, but I thought this demo was notable because I went around 30 seconds in this wad without getting hit once.

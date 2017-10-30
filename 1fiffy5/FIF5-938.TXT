@@ -1,0 +1,58 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://youfailit.net/pub/idgames/levels/doom/0-9/1fiffy5.zip
+Pwad name: REoL TOUGH: St. Lucifer's Church [by George Fiffy]
+Maps:      E3M1
+Skill:     4
+Category:  Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      9:38
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+Right on time for Doom's 16th birthday is... a demo for another Fiffy map.
+Well, I could've picked worse.  St. Lucifer's Church, the level I play in this
+demo, is certainly improved over his previous WADs.  For one thing, he's visibly
+scaled back his ammo-dispensing habits; although there's still a lot of
+munitions, it's nowhere near as bad as it was before.  Not only that, he
+/finally/ learned to use the grid!  As a result, all of the teleporters seen
+this level are *gasp* /aligned correctly!/  And most of the secrets are at least
+hinted at, although there are still a few that you wouldn't find without prior
+knowledge (the door to the rocket launcher room's teleporter, for one thing.)
+There's also some bouts of "what the hell did that switch do."  The level's
+still not all that tough to deal with, but it's at least /slightly/ harder than
+his previous levels.
+
+Not much I can say about this level, other than that it's set to a MIDI
+conversion of White Zombie's "Black Sunshine" (by Mike Slusher,) which at least
+suits the adrenaline-pumping action of Doom (it's about a racecar, after all,)
+unlike the song used in Satan's School of Warfare.  The first time I beat the
+level (without 100% Kills or Secrets,) I got 12:06.  In unrecorded runs with
+100% Kills and Secrets, I got 10:38, 10:14, and 10:05, which made me set my
+target time to 10:00 or less.  Naturally, when I made my first recorded exit
+tonight, I broke my target time by 22 seconds.  In every one of these cases, of
+course, I beat the level faster than Maikl, who achieved 100% Kills and Secrets
+on this level in /21:49./  Seriously, what the hell!?  I can understand being
+a more laid-back speedrunner, but this is ridiculous!  Oh, well!  Now you can
+see somebody beat this level without having to spend 22 minutes of your life!
+The demo could go even faster if you handle the first part of the level the
+daredevil way by running past the pews and the altar without firing a shot and
+letting infighting take care of the patrons while powering your way through the
+next room, but I haven't been able to get through it this way without dying.
+Maybe some other time!
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- December 10, 2009 -
+
+P.S. The textfile includes this note: "And don't forget Karl Martin who
+proofread this long document for the millions of errors that wer [sic] in this!"
+The irony of this statement should be obvious.  For that matter, the notion of
+demons attending infernal church on /Christmas/ is either silly and hypocritical
+(it's /Christ/mas, after all,) or one "Hell" of a coincidence! ;)

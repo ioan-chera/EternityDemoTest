@@ -1,0 +1,160 @@
+                REoL TOUGH:   The Pit      E1M5 REPLACEMENT
+===========================================================================
+                    ### CONTAINS SELF-PLAYING DEMO ###
+
+By: Resident Expert of Leominster (REoL), a.k.a. George Fiffy
+(c)1994 SNESPC U.S.A.
+
+COPYRIGHT NOTICE: You may FREELY DISTRIBUTE, modify, add, or delete to this
+                  DOOM level, SO LONG AS credit to the ORIGINAL author
+                  (REoL) was given for the original work.
+
+This level works with 1 to 4 players in regular play or deathmatch.
+---------------------------------------------------------------------------
+COMMENTS? QUESTIONS? E-mail me at the following e-mail boxes:
+
+        America On-Line (AOL):   GEORGEF551
+                 The Internet:   Georgef551@aol.com
+!! If you have AOL, e-mail me about being put on a mailing list for REoL !!
+!!   TOUGH DOOM levels! You'll get them the INSTANT they are done! This  !!
+!!    way, you'll get to play them before the WORLD (literally) does!   !!
+---------------------------------------------------------------------------
+                                   STORY:
+
+   It's the year 2094, and after all of hell's daemons that returned to the
+Mt. McKinley Base (FIFFY.WAD: REoL TOUGH: Hell On Earth), found it all
+boarded up. They all broke in, and were sent to the new Detention Center
+located next to it.
+   Most of the daemons were just awaiting for Satan to start the new school
+year at SATAN'S SCHOOL OF WARFARE (next REoL TOUGH level. Look for it soon)
+for classes. They just wanted to go back to hell, but the access way was
+closed, and they just simply wanted to go back!
+   One day, HELL BROKE LOOSE! A riot broke out in the Detention Camp (and a
+fairly nice one too)! Some guards were sent in to put as many deamons as
+they can into 10 prison cells located in the building, 2 in one cell block,
+8 in the other. All could fit 4 comfortably. Some daemons were too big for
+that requirement. There were just too many daemons running around!
+  All the guards were killed, and the daemons are running all over the
+place! A good hiding spot within this Detention Camp is the Unenchanted
+Forrest! They are ready for ANYONE who gets in their way!
+  Meanwhile, you, B.J. BLAZKOWICZ, was sent to the White House to be
+breifed on what's going on atop Mt. McKinley, AGAIN! At first you thought
+something horrible was to happen to the President. It's worse! It could
+threaten ALL MANKIND, like George Bush did to this country!
+  You were given a partial map of the Detention Center, and you were told
+in a briefing by the Pentagon that you'll have to use a room called The
+Pit to gain access to all parts of the building. To keep evil ones from
+escaping, switches throughout the building (sometimes tripwires) are used
+to activate/deactivate lifts to gain entry to doors in The Pit. All were
+lowered at night. It's reported the Daemons have lowered all the platforms
+and filled the pit with 10 feet of radioactive waste! You'll have to find
+the switches or trip wires to raise the lifts to other doors so as not to
+get the goo all over you, AND to be able to reach the doors as well!
+NOTE: ONE door will NOT have a platform for it in The Pit! This door is an
+"exit only" door to exit the Unenchanted Forrest. BEWARE!
+  GOOD LUCK! YOU MAY NEED IT!
+--------------------------------------------------------------------------
+  Your objective is to go through the complex to end all chaos! You'll be
+  relying on The Pit, as if you don't know by now. The Pit is an octagon
+  room with 8 doors, one on each side. Some doors share platforms in the
+  center of the room. The low-lying ones will need a platform to gain
+  access to. ONE door exiting the Unenchanted Forrest will NOT have a plat-
+  form, so RUN to the center when you take a dive!
+** Thers IS one raised platform here to start you off with. From there,
+   each little "world" will have a switch or trip-wire to raise the next
+   platform to another door, and so on. If there's a trip wire, you will
+   walk over it durring the exploration of the "world" you're in. No need
+   to worry about finding it! It's in your path!
+** SECRETS: Well, You'll have one hell of a time trying to find these,
+   even with the all-map cheat! Either way, you won't see ANY of them!
+   All secret areas are invisable on the map. When you finnish the level,
+   secrets or not, the map will show all there will ever show up, except
+   for a few walls that may not appear since you may not have looked at
+   them, or a screw-up in the design (there is ONE).
+   Secrets take roughly 50% of the total map surface, so the map you'll
+   see will only be half of it (just about)!
+** IN REGULAR PLAY (1-4 players), You'll start off with a shotgun and a
+   backpack. As you go along, your high weapon will be the chain gun, un-
+   less you find secrets, where the high weapon will be the BFG-9000!
+   NOTE: ONE secret holds this! Others may hold a rocket launcher, and a
+   plasma gun, others just have ammo, heath, and/or armor.
+** DEATHMATCH: You will start from one of several positions throughout the
+   level, NO starting positions are in any secret areas (heh, heh, heh!).
+   You'll have a SHOTGUN, some SHELLS, a ROCKET LAUNCHER, and a BACKPACK.
+   Use your shots WISELY! Some of you may start real cose to each other,
+   so be careful! Some of you may start in the same sector, like the
+   Unenchanted Forrest! Some are just short walking distance apart. So be
+   prepared for a FAST DEATH if you and a friend start close together!
+--------------------------------------------------------------------------
+TO PLAY:  At the DOOM prompt, type the following:
+
+        DOOM -DEVPARM -WARP 1 5 -SKILL n -FILE FIFFY4.WAD
+
+Note that the "n" stands for the level of difficulty. This ranges from 1
+to 5.  1=I'm to young to die!   2=Hey, not to rough!   3=Hurt me plenty!
+       4=Ultra-violence.        5=N I G H T M A R E !
+
+  There is another way to warp to this level, but I don't know how.
+--------------------------------------------------------------------------
+KNOWN "BOO-BOO'S":
+
+* SHOOT THROUGH IMPASSABLE WALLS: The first part of your journey starts in
+  a room that goes dark, and a platform lowers. The big brown area is a
+  room that holds the important yellow key. When daemons with fire power
+  are in this room, they (and you) can shoot through the walls of this
+  room! This is a bad engineering flaw in the design of this room. DAMN!
+* LIGHTS OUT AGAIN?: This same area. The room goes dark (set to trip off
+  the lights ONCE), and you open the yellow door, The lights are tripped
+  on (set to go on ONCE). Returning back to The Pit, the lights MAY go out
+  AGAIN, even though that is NOT suposed to happen!
+* DISAPPEARING SPRITES: Comes with the REoL TOUGH territory. Too many
+  sprites, several will dissapear. This time, it's all those TREES, and NOT
+  a billion enemies in the Unenchanted Forrest (there are a few well-placed
+  enemies. KEEP MOVING!). If trees disappear, and you walk and suddenly do
+  not move, and nothing's in front of you, there is a tree there.
+---------------------------------------------------------------------------
+                        OTHER REoL TOUGH LEVELS!
+
+1FIFFY.ZIP   REoL TOUGH: Hell On Earth      Help reduce the reign of terror
+                                            from hell!
+
+1FIFFY2.ZIP  REoL TOUGH: Satan's Castle     Lucifer went to Earth to wreak
+                                            havoc at your home, so why not
+                                            go to his castle and kick butt
+                                            over there?
+
+1FIFFY3.ZIP  REoL TOUGH: Hotel              You checked into hell's best
+                                            hotel, the Under Arms. The
+                                            question is, can you check
+                                            out alive???
+
+1FIFFY4.ZIP  REoL TOUGH: The Pit            Things went nuts at the de-
+                                            tention center atop Mt. Mc-
+                                            Kinley! Stop the terror!!!
+
+1FIFWAR.ZIP  REoL TOUGH: Total War II       Includes TOTAL WAR I revised!
+                                            Hundreds of monsters to battle
+                                            all at the same time! ARRGHH!!
+
+1FIFWAR2.ZIP REoL TOUGH: Total War III,     A big-time brawl in a weird
+                         Land of Weirdness  world of weird visual effects!
+                                            Invisable doors and buildings
+                                            are just some of the weird
+                                            wonders to amaze you!
+
+IN THE WORKS, The sequel to Satan's Castle (most popular REoL TOUGH level)
+              called TOTAL WAR IV: SATAN'S SCHOOL OF WARFARE! If SC was so
+              popular, an SC sequel is the most logical thing to do!
+--------------------------------------------------------------------------
+  Thanks for downloading REoL TOUGH, The Pit! Hope you'll download all the
+other adventures! All proven to be BRUTAL (some say IMPOSSIBLE)!
+  I'd like to hear from you, so e-mail me if you can!
+
+Resident Expert of Leominster    TODAY'S MORAL: Keep an eye out above you
+                                                for falling pianos.
+
+
+
+
+
+

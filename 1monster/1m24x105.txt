@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:       1monster.wad
+Maps:       24
+Skill:      4
+Category:   Speed (tool assisted speedrun)
+Tools used: slowmotion 80%, segmenting, permanent strafe50, strafe50 on turns
+Exe:        prboom-plus.exe -complevel 9
+
+Time:       1:05
+
+Author:     Light_Speed (aka odysseyofnoises)
+Email:      cubecat589@gmail.com
+HP:	    http://youtube.com/odysseyofnoises/

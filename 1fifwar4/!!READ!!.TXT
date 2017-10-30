@@ -1,0 +1,296 @@
+      REoL TOUGH: Chambers of Death      An E2M1 replacement for DOOM!
+===========================================================================
+  Contains a self-playing demo for your enjoyment. (approx time: xx min.)
+===========================================================================
+   NEW MUSIC! A special thanks to Mike Slusher for making the music for
+        this level, with his version of Megadeth's 99 WAYS TO DIE. 
+                       MIKE DID ANOTHER GREAT JOB!
+
+                Chambers of Death (c) 1994 SNESPC U.S.A.
+---------------------------------------------------------------------------
+COPYRIGHT NOTICES: You may add to, delete from, or modify this level, so
+                   long as you give the authors credit for the original
+                   work. As for the music, credit goes to Mike Slusher!
+                   And don't forget Elwin Hathat who proofread this long
+                   document for the millions of errors that wer in this!
+                                 MUSIC IS NOT COPYRIGHTED
+
+                   Animaniacs, characters and dialog, copyright 1995 of
+                   the FOX Television Network (they had no part in the
+                   writing of this, but their style was used).
+
+                !!! FEEL FREE TO DISTRIBUTE THIS LEVEL !!!
+
+AUTHORS:
+          DESIGNER/BUILDER: REoL (George Fiffy)
+
+          MUSIC: MATSUO (Mike Slusher)
+
+          PROOFREADER: Elwin Hathat (Karl Martin) 
+---------------------------------------------------------------------------
+COMMENTS? QUESTIONS?  HERE'S WHERE TO E-MAIL US!
+
+                              AOL            INTERNET
+REoL (George Fiffy)       GEORGEF551    Georgef551@aol.com
+MATSUO (Mike Slusher)       MATSUO        Matsuo@aol.com
+Elwin Hathat      (No e-mail address. Contact Georgef551@aol.com)
+
+NEED HELP? PLEASE tell me WHICH REoL TOUGH level you need help in! I have
+nine at the moment, and I may confuse one with the other! If you have AOL,
+read about the  REoL TOUGH DOOM LEVEL HELPLINE below.
+
+PLEASE SEND APROPRIATE MAIL TO THE APROPRIATE PERSON(S)! HOWEVER, if you
+have SOFTWARE CRESTIONS BBS access, but you have no AOL or INTERNET 
+access, I will relay your questions about the music, documentation, or  
+the actual level construction.
+
+IMPORTANT!: Don't slam doors when baking a cake, or it could collapse!
+
+PS: If you have any suggestions for the next REoL TOUGH levels, contact me!
+   I can't change the graphics (SOB!), and someone else does the music
+   (NO RAP, dance , hip-hop , or R&B please. It doesn't fit in DOOM).
+---------------------------------------------------------------------------
+ NEW IN AOL! The REoL TOUGH DOOM LEVEL HELPLINE! As of this writing, you
+ will find the helpline under KEYWORD:PC GAMES. Select the MESSAGE BOARD 
+ and go to the GENERAL topic. Look for REoL TOUGH DOOM level helpline!
+---------------------------------------------------------------------------
+                         ***** NOTE ON GAMEPLAY *****
+
+JERKY LAND! That's right, even you Pentium owners (from e-mail I got) are
+            going to suffer somewhat! You will need a fast 486 or better!
+            (See CPU Requirements below.)
+---------------------------------------------------------------------------
+  This game can be played in all modes. In 1 or multi-player games, you'll
+start out in a rather small room trying to find your way around the dump,
+since there is quite a bit of retracing of your steps. Since there are
+quite a few Barrons to shoot holes into, you might want to have a few of 
+your fellow friends help you out. You can have up to four Doomheads going
+at it agianst the Barrons, and (up to) 495 enemies going at you all at
+once! And to think, that's one of TWO war zones here!
+  In DEATHMATCH, You have the chaingun, and that's it! ALL of you will 
+start REoL close to each other, so this could be short and sweet!
+---------------------------------------------------------------------------
+HOW TO PLAY THE NEW LEVEL
+
+At the DOOM prompt, type:          DOOM -FILE WAR5.WAD
+
+You can choose the level of diffuculty you want, but will be quite jerky.
+As always, HEY, NOT TOO ROUGH is meant to play like ULTRA-VIOLENCE in the
+TOTAL WAR series of REoL TOUGH DOOM levels!
+
+        CPU REQUIREMENTS: You will need a 486 pc of at least 20MHz or
+        better in this ultra jerky enviornment. Even Pentiums are known
+        to suffer a little!
+
+--------------------------------------------------------------------------
+                                 STORY:
+
+    Once again, you are at home watching your soap operas and talk shows
+when yet another special report comes across the tube. You were real up-
+set about this, because you were watching 90210! You march your way to
+Kenedy Airport and fly to the Washington to meet with the Pentagon to ask
+why they had to interrupt the episode where Brendon was cheating on his
+girlfriends. "It's those daemons from Hell again", said Colonel Sanders,
+"they have taken over a top secret millitary bomb shelter enormous in
+size." Sanders gives you a map of the main areas of the bomb shelter.
+You were warned about the "Fiffy Room" (you'll know it when you see it)
+where there are (up to) "99 WAYS TO DIE" coming out of each letter of
+that one famous name in the floor. You know this is going to be a tough
+mission, so you may want to bring a few friends along so you can evenly
+divide the mere 495 enemies teleporting their way into the Fiffy Room.
+     What fun this will be! You then find a square area on the floor
+which makes a door open up in the room you're in. You then find out you
+are not finished after all! You then walk into a large courtyard too big
+to make fighting enemies tough, untill you open the big wooden door on
+the other end of the courtyard....
+-------------------------------------------------------------------------
+                              PLAYING TIPS:
+
+(1) THIS IS QUITE JERKY! Take movements at small intervals, or simply DO
+    NOT RUN! If you run, you'll have REoL bad control of the action!
+
+(2) GRAB THAT SHOTGUN! Can't miss it. It's in front of you!
+
+(3) This game has a few "puzzles" to solve. This may require you to search
+    the entire level (depending on where you go) to find certain doors
+    and switches. Some doors and teleporters are blocked by poles display-
+    ing different colored skulls. This (approximately) tells you what
+    section of the level to search through to raise the poles. Secrets
+    blocked by poles require secret areas to be found to raise them.
+
+(4) When you release Barrons, try to get them in one of the bigger rooms,
+    ESPECIALLY THE MAIN HALL! As you progress through the level, there
+    will be even MORE room to battle these pink boneheads!
+
+(5) Try the Spamburger while you're there. I hear it's good!
+
+(6) This level was brought to you today by the letters R, and K, and
+    by the number 15.
+
+(7) Emergency "Exit": In the event you are being mauled by a mere, say,
+    495 baddies (could be 500 or more), there are teleporters in certain
+    rooms on opposite ends of the map which will teleport you from end to
+    end. Nice, huh? You can sneak up on your daemon friends (or your reg-
+    ular friends) that way.
+    NOTE: These teleporters are monster impassable. This does NOT mean
+         that staying inside the teleporter will be safe, in fact, it's
+         the OPPOSITE! How will you get out of a jam if you let daemons
+         block the way out?
+
+(8) There is one secret where you'll be out of reach from hell's baddies.
+    If you run out of ammo, there is no room where you're standing to get
+    ammo. MAKE SURE you have plenty with you!
+    NOTE: Again, the secret enterance to this place is monster impassable.
+         You could end up in a jam here too, unless....
+
+(9) To the right of the big wooden door of the Fiffy Room is a room full
+    of ammo (as well as a few other big rooms with the same use).
+
+(10) You can get up to almost 300% in armor, if you know where to look.
+
+(11) Don't microwave your food for any longer the directions on the food
+     package says, or your food will actually be cooked, or even burnt!
+
+(12) Also note that if the enemies are coming into the weapon rooms, there
+     are emergency exits located near the opposite end of the rooms. 
+     This is almost as good as the teleporter theory used!
+
+(13) You'll be greeted at the exit switch (it's not marked as an exit).
+     A Cyberdemon will be guarding it! Why do you supose there are big
+     towers near this area?
+
+(14) When in Rome, do what the Romans do.
+
+(15) IMPORTANT! In one of the rooms, you'll notice a small enclosed area
+     with teleporters at each corner. If you can find out how to get in
+     there, I wouldn't do so until you kill EVERYONE in the first war zone
+     (the Fiffy Room)! You'll go DOWN if you don't (or even become
+     trapped)!
+
+(16) SECRETS ARE SECRET: As usual (since REoL TOUGH: The Pit), all of the
+     secrets in this level (and I mean ALL) WILL NOT SHOW even when you
+     try to use the all-map cheat code! HA, HA, HA, HA, HA! All that you
+     will ever see are the rooms and corridors you'll be walking through.
+
+(17) There is enough health kits (stimpaks, med kits, and berserks) to be
+     able to complete this level fairly easilly, if used when needed.
+--------------------------------------------------------------------------
+Known "Boo-boo's":
+
+(1) The main wooden door into the Fiffy Room is suposed to stay open at
+    all times, but the daemons somehow close it on occasion. If you are in
+    this room, just climb the steps and open the door by pressing the
+    space bar. If you're on the OTHER side (main corridor), you'll have to
+    hit the green switch again. This is the switch in the blue keyed area
+    inside the room on the far left corner (you can see the switch from
+    this room through a little window). Usually the daemons will open the
+    door again, if there are enough there.
+
+(2) ENEMIES SEE THROUGH WALLS: Well, sometimes you'll hear grunts of
+    enemies before you even get to them, or they'll be waiting for you
+    right at the door(s)! Scout's motto: BE PREPARED!
+
+(3) DOG BITES: Ouch! Go to the doctor and get checked out for Rabies!
+
+(4) THE USUAL TOTAL WAR PROBLEM: Yep! Too many sprites to draw!
+-------------------------------------------------------------------------
+                  OTHER REoL TOUGH ADVENTURES FOR DOOM!
+
+Hell On Earth interpretation            Daemons from hell are atop Mt.
+(1FIFFY.ZIP)                            McKinley to wreak havoc on Earth!
+                                        STOP THEM!
+
+Satan's Castle                          One of the most popular levels in
+(1FIFFY2.ZIP)                           the United States! 
+                                        Since Satan is trashing Earth,
+                                        why not trash his castle?
+
+TOTAL WAR II:                           Included a heavily modified TOTAL
+(1FIFWAR.ZIP)                           WAR I with nearly impossible DOOM
+(FIFFYWAR.ZIP in AOL)                   levels! Too tough for the average
+                                        DOOM player!
+
+Hotel                                   You decide to check into hell's
+(1FIFFY3.ZIP)                           fanciest hotel, the Under Arms.
+                                        You checked in, but the question
+                                        is can you check out?
+
+TOTAL WAR III: Land Of Weirdness        The DOOM level with the weirdest
+(1FIFWAR2.ZIP)                          visual effects! It has invisible
+                                        buildings, invisible doors, dark
+                                        rooms you can see well in, and
+                                        other weird wonders.
+                                        ####### EXTREMELY JERKY! #######
+
+The Pit                                 The Mt. McKinley detention camp
+(1FIFFY4.ZIP)                           prisoners are out of control!
+                                        You need to access other areas
+                                        of the camp via The Pit.
+
+TOTAL WAR IV: Satan's School            You go through a school building
+              of Warfare                on the moon of Phobos interupting
+(1FIFWAR3.ZIP)                          classes on raising hell. Don't
+(Satan's Castle sequel!)                you just LOVE it?
+
+St. Lucifer's Church                    Go through a satanic church and
+(1FIFFY5.ZIP)                           end satanic rituals forever,
+(VERY POPULAR in the U.S.A.!)           or temporarily....
+
+Total War V: Chambers of Death          JERKYLAND! Go through corridors
+(1FIFWAR4.ZIP)                          of Hell teaching 495 baddies how
+                                        to behave (all at once).
+-------------------------------------------------------------------------
+REMEMBER: I want to hear from you if you have something to say about this
+         or any other REoL TOUGH level! Just E-mail me with the address
+         above. If you have questions about the music, contact Mike
+         Slusher, whos' address is also above. I will take questions
+         about the docs, since Elwin Hathat has no e-mail address.
+
+   Thanks for downloading REoL TOUGH: TOTAL WAR V: Chambers of Death!
+I enjoyed making this level. Hope you'll download all the others and the 
+                       ones to come in the future!    
+=========================================================================                       
+   KEEP AN EYE OUT for REoL TOUGH: Barron Wasteland! This level has the
+       song Enter Sandman by Metallica! (Courtesy of Mike Slusher)
+                     I bet you know what to expect...
+=========================================================================
+
+Thank you once again!
+
+Resident Expert of Leominster          It's that time agian! Time for:
+                                           TODAY'S MORAL:...
+
+Elwin Hathat                            Why don't these morals ever 
+                                        make any sense?  
+                                        
+Yacko                                   Because they're
+                                        only put in to add a bit of 
+                                        educational value to what is
+                                        basically just senseless 
+                                        violence (and senseless 
+                                        entertainment) with no real
+                                        redeeming qualities at all.
+                                        AND NOW FOR...
+
+
+Resident Expert of Leominster           TODAY'S MORAL: We were put on
+                                                       this planet to
+                                                       waste time.
+
+
+Elwin Hathat                            See, I was right--it doesn't 
+                                        make sense, and it isn't even 
+                                        particularly entertaining.
+
+
+Dot                                     Who came up with this idea
+                                        anyway?
+
+Yacko                                   The REoL TOUGH Executives. 
+
+Dot                                     Oh (giggle) TODAY'S MORAL,
+                                        What a great idea!
+
+Elwin Hathat                            Oh . . . I just love the 
+                                        morals! They're great!!
+

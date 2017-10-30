@@ -1,0 +1,32 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://cd.textfiles.com/nightowl/nogames3/005a/1fifwar2.zip
+Pwad name: REoL TOUGH: TOTAL WAR III: Land of Weirdness [by George Fiffy]
+Maps:      E3M7
+Skill:     4
+Category:  Speed
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      2:29
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+If you've seen my 9:10 max demo for this level, you may recall a series of trick
+jumps I used to clear out the entire exit room long before you're supposed to be
+there.  Here, I use a few of them as part of my demonstration of how you can
+beat this level in less than two and a half minutes despite the 600 or so
+monsters.
+
+Note that the first jump down from where you get the yellow key is severely
+luck-based; either you'll make it down, or you'll be blocked by the dozens of
+monsters standing beneath you.  Most often, it's the latter.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- January 30, 2010 -
+- First recorded exit: 2:33 -

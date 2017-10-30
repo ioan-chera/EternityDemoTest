@@ -1,0 +1,131 @@
+  REoL TOUGH: The Total War package.  3 new levels for the KNEE DEEP
+episode. PLEASE READ THE FOLLOWING TEXT! Some things here are IMPORTANT!
+------------------------------------------------------------------------
+  THESE INCLUDE AUTOMATIC DEMOS! DEMOS ARE KNOWN TO CRASH! Please turn
+          off your EMM386 Memory manager if this does happen.
+
+TO ENTER THE MAYHEM, At the DOOM prompt, type:  DOOM -FILE FIFFYWAR.WAD
+
+          CHAPTER 1: TOTAL WAR 1, First ever REoL TOUGH level.
+
+   This is a remake of WAR.WAD, the first ever DOOM level made by me. As
+you will see, the construction is very shoddy, and of poor quality. Your
+first mission is to destroy all the end bosses (and some regulars). In
+spite of lousy construction, the level is pretty tough to do, yet just
+about anyone could do it after some practice.
+
+MAJOR MODIFICATIONS FOR TOTAL WAR 1 INCLUDE:
+
+   * An EXIT switch! You can now get out of there when you're done, or
+     when the action gets a little too much for you.
+   * SECRETS!: There is now a couple secret rooms added to this level.
+     Construction is that of the good REoL TOUGH levels, but is joined
+     or built to match the lousy construction.
+   * MORE AMMUNITION! A little more ammo is around, and lots more if you
+     can find the secret rooms.
+   * DEATH MATCH SUPPORT Now had four starting spots. Grab the waepons
+     quickly, before your friends get them all!
+
+KNOWN BOO-BOOS:
+        Just the shoddy construction. Walls may not touch, dissapear,
+"fuse" together in weird ways, and the like. Was a beginner then!
+
+------------------------------------------------------------------------
+            CHAPTER II: TOTAL WAR II (available as WAR2.WAD)
+
+            THIS IS THE WORLD'S TOUGHEST DOOM LEVEL! Enjoy!
+
+        If you play higher than HEY, NOT TO ROUGH, you're INSANE!
+    At this, and even I'M TO YOUNG TO DIE, this level plays WORSE than
+           ULTRA VIOLENT. Don't even THINK about NIGHTMARE!!!
+
+   After kicking major butt in your first mission, the millitary forces
+in Hell were PO'd big time! They vowed to get even, and will increase
+resistance up to 200 TIMES! You start in a dark hallway. After grabbing
+your guns and ammo, you head to the first room. It's somewhat large, and
+there are (up to) HUNDEREDS of enemies waiting for you! Oh, Did I also
+mention that there are (up to) 16 barrons joining forces with them??????
+You fight like hell through the first few areas of the game, then all of
+a sudden, in red letters, the word "WAR" was lit up on the floor. A loud
+voice is heard saying: "You survived the training, now it's onto the
+REAL THING!". All that work, and it wasn't the TOUGH part! You open the
+door, and you're greeted by (up to) 50 daemons, troopers, imps, and
+sargents, up to 200 enemies coming at you as soon as you open the door!
+  In Deathmatch, you're all in the warfield. you have your own arsenal
+layed out in front of you.
+
+INTERESTING FEATURES:
+* The big green teleporter is one of those where enemies come out of
+them. It's not like those other WIMPY ones that ID SOFTWARE or other
+people make! Get the blue keycard and see for yourself!
+* Secrets are nearly IMPOSSIBLE to find! (without cheats.) All secret
+textures are lined up with the surrounding walls, and appear as walls
+on the map! Watch the second demo to see where at least TWO secrets are!
+* The platform you enter the first room on is also a lift. Watch the
+demo to see which wall to walk up to to activate it.
+
+KNOWN BOO-BOOS:
+(1) Did you know there is a limit as to how many sprites can be in the
+    same room at once? You'll notice the barrons may be invisable, and
+    the rockets in the first weapons storage room (behind the starting
+    point) will "vanish" at ceartain angles. Some regulars will also
+    be invisable as well (heh, heh, heh!).
+(2) Like all levels, even ID SOFTWARE'S, some joints tend to go through
+    the floors and ceilings. 
+(3) HOPE YOU HAVE A PENTIUM! It's also OK to play on a lower speed 486
+    but a high speed 486 or a PENTIUM is prefered (what slowdown?????).
+    If you have a high speed 386, you MIGHT be able to play this one!
+(4) ONCE AGAIN, THE REDUCED SECRET RATIO: If you score 83% in the SECRET
+    DEPARTMENT, you found them all. Can't seem to fix that bug.
+
+    TO START FORM HERE, at the DOOM prompt, type:
+        doom -devparm -warp 1 2 -skill n -file fiffywar.wad
+
+Note that n = 1-5, corrosponding to the level of difficulty. 1 is I'M
+TO YOUNG TO DIE, and 5 is NIGHTMARE.
+
+------------------------------------------------------------------------
+
+                 CHAPTER III, Revenge Of the big suckers!
+
+  This level is ID SOFTWARE'S E1M8, with many additions added to it. At
+the "end", there's a red keycard and you'll have to retrace your steps
+working your way almost to the start, going through "hidden" passages to
+open up the way to the exit.
+    IMPORTANT: Due to enemies being added, after killing the barrons at
+    the "star room", the walls WILL NOT come down! In one of their
+    little booths is a switch you'll have to hit to lower the walls!
+    ALSO, there's a SOUL SPHERE in this area. Grab it BEFORE you head
+    to the rising steps, or you'll die after teleprting to the "room of
+    many monsters" (the original end to this level).
+
+FEATURES:
+*  At the beginning, on the other side of the room, is a lift that will
+   take you to the medical kits and a computer map power up. You'll
+   notice a switch is added. If you accidentally tripped it to go up,
+   you can use this switch to regain access to that part of the level.
+   You will HAVE to return there some time durring the level to finnish!
+*  You know that lift to the barrons at the end of the long hall? Well,
+   there's a doorway there! You'll HAVE to trip the Barron's door's 
+   open before you can open it. 
+   NOTE: After you kill all the monsters in "the room of monsters (re-
+   member, it was the orriginal end to this level), there's a keycard
+   and teleport to exit the room. You'll return in front of the door
+   where the lift is. Open it, and hit the switch on the left, and jump
+   onto the lowered lift. As it starts up, run out so you can make your
+   way back to the beginning of the level (the end is near there). If
+   you're confused about this, watch the third demo.
+
+KNOWN BOO-BOOS:
+   Well, just that the walls in the "star room" now don't go down when
+   you kill the barrons, so a switch is in one of their booths that will
+   lower it.
+
+   COMMENTS, QUESTIONS? E-mail me at Georgef551@aol.com.
+   LET ME KNOW WHAT YOU THINK!
+   Resident Expert of Leominster, REoL for short.
+
+   COPYRIGHT NOTICE: You may modify any part(s) to any level, so long as
+   you give me credit for the original archetecture, except for E1M8,
+   which is ID SOFTWARE'S.
+

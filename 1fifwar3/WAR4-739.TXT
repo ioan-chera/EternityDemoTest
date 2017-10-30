@@ -1,0 +1,100 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://youfailit.net/pub/idgames/levels/doom/0-9/1fifwar3.zip
+Pwad name: REoL TOUGH: Satan's School of Warfare [by George Fiffy]
+Maps:      E1M1
+Skill:     4
+Category:  Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      7:39
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+More Fiffy action, this time with the fourth entry in the Total War portion of
+the REoL Tough series, and the first such entry available on idgames/.  In this
+one, you get to blow away a school where demons learn to, uh, be demonic.  Of
+course, because this is a Total War level, there are 847 monsters.  In a way,
+Fiffy's early levels are impressive.  He has quite a talent for filling levels
+with hundreds and hundreds of monsters, all prepared to rip you apart on
+sight... and then stuffing them so full of ammo that all of those monsters
+become utterly worthless.  And if a lot of them are clustered together, as in
+the Total War series, you can be certain that they'll rip each other apart if
+they're left to their own devices.  Sadly, this level is no exception, with many
+rooms stuffed with different kinds of monsters packed together.
+
+More problems are in store, however.  For instance, the first secret, required
+to access the rest of them, is impossible to reach without cheating with a level
+editor for the same reason as the last secret in WAR3.WAD (from 1FIFWAR2.ZIP:)
+accessing it requires you to press an invisible switch in a completely random
+location.  (I point it out in my demos by punching it three times.)  Oh, and 
+depending on when you hit that switch, you can end up blocking access to that
+secret through no fault of your own.  See, the switch raises a bridge, and how
+high that bridge can go depends on how high the bridge activated by a tripwire
+in the same room is, as instead of making the secret bridge adjacent to the
+walkway, Fiffy made both of the bridges adjacent to each other.  Therefore, if
+the normal bridge hasn't fully risen yet when you hit the secret switch, the
+section of the secret bridge right in front of the door will rise completely,
+but the rest of the bridge won't, which can prevent you from reaching the
+secret depending on how low it stops.  I've included a demo in which this bug
+occurs, entitled WAR4BUG1.LMP.  If you think this is just limited to speed
+demos, I've had a few unrecorded runs where the secret bridge stopped /just/
+short of allowing me to get there.
+
+It's also possible to block yourself from completing the level if you get a
+little too carried away with speedrunning.  In the cafeteria, you can open the
+window of the counter with the red key from either side.  From the nearest
+table or chair, you can jump onto the counter and get the red key.  Should you
+then jump down behind the counter, deliberately or by accident, you can never
+escape from the kitchen without using the noclip cheat, as the secret door into
+the kitchen cannot be opened from the outside.  Fiffy could've at least made
+the door openable from that side, but given the linedef on that side the
+"Secret" flag.  That flag makes the linedef appear as a normal wall no matter
+what, but it also prevents monsters from activating any linedef they can
+normally use while allowing them through if the path is open.  He could've made
+that side of the door "Secret" while still keeping it "Hidden," as the linedef
+will retain its effects even if it's hidden from the automap, but now, I can
+only wonder.  I included a demo of this bug, too, entitled WARBUG2.LMP.  Maikl
+already included a demo ending with this bug with his own max demo as
+NO_WAY.LMP, but mine has the additional function of showing that you can pull
+off the shortcut with /regular/ running, rather than just straferunning.
+
+And if you happen to be wondering if you'll get in trouble for playing this on
+account of it being a school map... don't be afraid.  This level barely even
+/resembles/ a school, with the "classrooms" lacking such standard features as
+/chairs/ as the result of 1) the poor quality of the editing tools of the time,
+2) the limits of vanilla Doom mapping (especially with the aforementioned
+low-quality editing tools,) and 3) the incompetence of George Fiffy.  The only
+other hint towards the fact that this takes place in a school is the custom
+music (a first for REoL Tough,) which is a short and simplistic MIDI conversion
+of Pink Floyd's hit song, "Another Brick in the Wall (Part II)," off of their
+classic album, "The Wall," created by a guy named Mike Slusher.  While the song
+is an undeniable part of the rock music pantheon, and appropriate to a school
+setting (it's about school kids rebelling against their abusive teachers, after
+all,) it's not particularly suited for Doom, and even /less/ suited for a
+slaughtermap created a year before Dario Casali released PUNISHER.WAD, two
+years before Hell Revealed popularized the concept, and long before the word
+"slaughtermap" was even coined.  Nowadays, with the vastly superior editing
+tools available, and with the engine's limits overcome by source ports, you
+could theoretically create a realistic school map with custom textures and a
+slew of modern editing features, but don't expect to get away with it in this
+post-Columbine world.
+
+As for the demo itself, I gain 4 minutes and 15 seconds over Maikl through
+numerous time-savers.  For example, most of the time, whereas Maikl waits until
+he's killed everything in a given room before moving on, I wait on the
+slaughter until I'm sure I won't be visiting those rooms anymore.  This is a
+first exit, and I'm sure this can be improved further.  However, I beat my
+target time of 8:30 by well over a minute, so I feel this is satisfactory
+enough.  Enjoy!
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- November 9, 2009 -
+
+P.S. My unrecorded exit times were 10:48, 9:55, and 8:42, in that order.

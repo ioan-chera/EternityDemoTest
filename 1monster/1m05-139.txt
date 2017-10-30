@@ -1,0 +1,55 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      ftp://mancubus.net/pub/idgames/levels/doom2/megawads/1monster.zip
+           (or replace "mancubus.net" with your idgames/ mirror of choice)
+Pwad name: 1 Monster Megawad
+Maps:      05 ("Infested" by Liberation and Macro11_1)
+Skill:     4
+Category:  Speed
+Exe:       Boom 2.02
+
+Time:      1:39
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+
+Comments:  
+Sometime after I recorded my 1m05-152 demo, Death-Destiny did an improvement
+on it, finishing it in 1:47.  It featured two very useful things to know.
+First, if you shut the first door behind you after going through it, no monster
+teleporting will occur in the red key room when you get there.  The monsters
+to be warped in will only wake up if you fire a shot inside the red key room,
+or at any spot where noise can carry into that room.  This includes the first
+room, as the red key room has a window looking into it.  Closing the door into
+the first hallway behind you will prevent noise from being carried into the
+first room, and thus the red key room, preventing the Demons from warping in.
+Doing this will save on ammo and time, as you won't have to blow away anyone to
+get to the red door.  Secondly, I made a rather massive oversight in my earlier
+demo: Not only is the second berserk not needed, but grabbing it is what causes
+the Demon army to be let out in the first place!  Leaving it alone saves a lot
+of time and ammo, as you can go on your merry way without anyone blocking you.
+
+However, his demo begins with him blowing the pinkies up with barrels.  While
+this undeniably looks cool and doesn't require so much luck to do, it's slower
+than my own luck-based method, which is to barge right past them.  Thus, when I
+decided to improve my demo after seeing it, I was forced to revisit the eroding
+of my patience that my previous demo caused.  He also doesn't use my strafe50
+jump at the first berserk pack, which I use in this demo.  Eventually, after
+at least two hours of work, I successfully got this exit, which is 8 seconds
+faster.  After a few more tries, I decided not to improve any further, content
+in the fact that I got a sub-1:40 time.  The end result is similar to my earlier
+demo, but with Death-Destiny's improvements added to the mix.  Thanks, man!
+
+Prior to recording Doom demos, I did some usermap speedruns for Duke Nukem 3D.
+Video versions can be seen on my YouTube channel at
+http://youtube.com/profile?user=TheGreenHerring, and I hope to have a
+"Speedruns" section up on my website in the near future.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- May 31, 2008 -
+
+P.S. I forgot to mention in the textfile for my earlier demo that I love the
+music in this level.  I just wish I knew where it was from!

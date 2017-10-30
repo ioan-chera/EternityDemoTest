@@ -1,0 +1,20 @@
+WAD: 1monster
+MAP: MAP19: Cacophony
+Time: 3:24.09
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 3, 2013
+
+I know it's just 4 tics away, but I don't want to try again for 3:23. With
+a map this long, the hundredths of seconds kind of become less important,
+unless you get .97 or something, in which case you're pretty excited.
+
+My goal was under 3:30. I was mad when I got low 3:28's twice, both having
+sloppy moments. I had to improve. Consequently, I kept recording, and got
+this after about 20 minutes. Hopefully this one doesn't look quite as
+erroneous and sloppy. :)
+
+Optimal probably lies in the 3:1x range for this route, ofc if a better
+route is discovered it can be much faster. Enjoy!
+
+--Doomdaniel95

@@ -1,0 +1,44 @@
+WAD: 1monster
+MAP: MAP04: Imptech Rampage
+Time: 9:28.23
+Added Engine: prboom-plus v2.5.0.2 (complevel 9)
+Category: UV-Tyson
+Recorded on: July 4, 2013
+
+First of all, happy 4th of July everybody! Today is the day to celebrate
+American independence with fireworks! I think noting this history is very
+important.
+
+As for the run, well... I can see why nobody else put up a tyson demo for
+this map. It's quite tricky, despite the map only containing imps, AND you
+get a chainsaw and green armor near the beginning. I honestly don't think
+this would be possible unassisted without both the chainsaw and the armor.
+Either that, or a tyson would take like 30 minutes to complete. However,
+because of the fortunate case that there are BOTH a chainsaw and armor,
+I was able to do this just under 9:30. This is a table filler. It just
+seemed wrong for this map not to have a tyson. :)
+
+The real problem here is health. You want to save it from the beginning if
+you can, since you only get a few medikits throughout the entirety of this
+long map. That is mostly the reason that this run (though you need skill)
+is pretty luck-based. Also imps' movements factor into luck.
+
+I tried to play as fast as I could, but low health often forced me to slow
+down and take hordes of imps more carefully with the chainsaw.
+
+I think that 2 minutes can easily be shaved off my time with better play,
+more luck, and better imp cooperation (even more luck). Also, it would be
+helpful not to miss that one switch and then get confused by it herp derp.
+
+This is just my first exit for a couple weeks' worth of trying this. It's
+the first time I survived past that imp horde near the switch that opens
+the exit. This map has a curse on tyson, I think. :) Good luck to whoever
+tries to improve this, and you probably will.
+
+BTW there are two secrets to this map. The first one is a green armor,
+EXTREMELY useful for tyson. The second one only contains a plasma rifle,
+so I didn't open it.
+
+Enjoy!
+
+--Doomdaniel95

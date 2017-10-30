@@ -1,0 +1,26 @@
+1m03-105.txt
+1m03-105.zip
+
+1m03-105.lmp - UV-Speed
+
+Recorded using GLBoom-Plus v2.5.1.1
+ GLBoom-Plus -playdemo & -complevel 9 with Version 2.5.1.1
+
+1 Monster - Map03 - Sergeant Center
+
+21-09-2011
+
+**********************
+Kills      53%
+Items      0%
+Secrets    0%
+
+Time       1:05
+********************** 
+
+Description:
+
+A huge improvement on my 1:42 uv-speed! I have changed my route heaps. I started to notice as I was doing this demo, if I could manage to pass the guys in the second room, I could cut a couple of seconds off there. It is hard, because you have to get the 2 shotgunners that see you to hurt each other or you're stuffed. The second route change was to go around the shotgunners in that room, instead of killing them and running straight through. The final route change was to run stright though the rollers instead of going around, I did not know you could do that until I watched Doomdaniel95's No Monster run of this map, thanks for that brothaa :D
+
+Author: Mate "Relic" Crncevic
+E-mail: mate.crncevic@gmail.com

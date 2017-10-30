@@ -1,0 +1,18 @@
+This is a   Doomed Speed Demos Archive entry
+
+author:     Mike Toliver <miketol@mtco.com>
+
+game:       1berserk.wad, Ultimate DOOM version 1.9
+            
+category:   Tyson
+
+level:      E1M1
+            
+
+stats:      Kills     100%
+            Items     100%
+            Secrets     0%   and Time   5:20
+
+comments:   As a tyson map, this is more difficult because of the numerous
+            shotgunners.  Still pretty quick, though.
+

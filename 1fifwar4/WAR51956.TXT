@@ -1,0 +1,71 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://youfailit.net/pub/idgames/levels/doom/Ports/0-9/1fifwar4.zip
+Pwad name: REoL TOUGH: Total War V: Chambers of Death [by George Fiffy]
+Maps:      E2M1
+Skill:     4
+Category:  Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      19:56 (!!!)
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+Oh, how fitting of you, Fiffy.  Get some goodwill from me by putting out a level
+that's evidently improved from your previous levels (REoL Tough: St. Lucifer's
+Church, or FIFFY5.WAD,) and then piss it all away with /this/ level.  Thanks,
+pal!  And yes, this, as of this writing, is the longest non-FDA demo I have ever
+recorded.  It is /not,/ however, because the level is long in any way.  Not at
+all.
+
+I'll get to the explanation for all of that in a moment, but first, let me talk
+about the rest of the level.  This, the fifth level in the Total War series, is
+a subverted base which, as per Total War protocol, is absolutely stuffed with
+monsters.  The first problem is that playing it as Fiffy likely intended you to
+play it is /tedious./  You start out with a shotgun, and then a chaingun, and
+you don't get a stronger weapon until later in the map.  And most of your
+enemies are barons.  I had to cheat to find out where the stronger weapons were,
+because I didn't feel like wasting an hour shotgunning barons to death.
+Eventually, you get to the nefarious Fiffy Room, where monsters teleport in by
+the dozens.  However, as usual, Fiffy dumps a zillion cells and rockets in
+storage facilities that open when you get there, so you can't possibly run out
+of ammo no matter how much you suck.  The final battle?  Pfft... /What/ final
+battle?  You face two cyberdemons and a spiderdemon protecting a switch, but
+it's trivial to get at least one of the cyberdemons to fight the latter, and
+jump past them to hit the switch, not to mention fighting them on your own is
+far too easy.  He calls this level an entry in the "Total War" series, but it'd
+be more accurately titled "Total Bore."
+
+So why am I annoyed by this level, and why does this demo take so long?  Because
+this level has the absolute worst monster teleporters I have ever seen in a Doom
+level.  They're regular teleporters in the wall which are 64×64 map units
+wide... in rooms which are 640×640 map units in size.  And among the monsters
+are pinkies, who are 60 map units wide.  It's a good thing the secret
+teleporters allow you to warp into four of these monster boxes and slay them,
+because you have to wait absolutely forever for them to come out.  And it's
+possible for a monster to /block/ one of the teleporters from being entered,
+making the other monsters take even /longer/ to come out -- which I discovered
+when I wondered why they were taking longer to appear than usual in this demo
+and used the automap cheat.  These monster teleporters are even /worse/ than the
+ones in Total War II!  And after you kill all of those slow-to-appear monsters,
+the one remaining pinky puts his best efforts into refusing to enter the
+teleporter; thus, I have to exit the level with 99% Kills because I don't want
+to wait 20 /more/ minutes just for /one monster/ to warp in.  The rest of the
+level was mediocre at best, but the monster teleporters team up to effortlessly
+sink the entire WAD.
+
+As I mentioned, this is the longest non-FDA demo I've ever done.  When I saw the
+final time, coupled with some of the boneheaded errors I make and the fact that
+I used the automap cheat while waiting for the last remaining monsters, I wasn't
+sure I even /wanted/ to post this demo.  Ultimately, I decided to do so, just to
+show prospective level designers exactly what happens when your monster
+teleporters suck.  Enjoy the rest of the demo, I guess.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- January 18, 2010 -

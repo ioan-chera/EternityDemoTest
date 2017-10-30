@@ -1,0 +1,22 @@
+1m10-219.txt
+1m10-219.rar
+
+1m10-219.lmp - UV-Speed
+
+Recorded using  GLBoom-Plus Version 2.5.1.0
+ GLBoom-Plus -playdemo & -complevel 9 with Version 2.5.1.0
+
+1Monster - Map10
+
+01-07-2011
+
+**********************
+Kills      60%
+Items      90%
+Secrets    0%
+
+Time       2:19
+********************** 
+
+Author: Mate "Relic" Crncevic
+E-mail: mate.crncevic@gmail.com

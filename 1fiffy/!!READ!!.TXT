@@ -1,0 +1,88 @@
+      THE BEGINNING OF HELL ON EARTH:  FIFFY'S INTERPRETATION
+------------------------------------------------------------------------
+
+    NOTE: IMPORTANT IFORMATION ENCLOSED! PLEASE READ! BUT FIRST...
+
+   After fighting your way through the final end boss of INFERNO, you
+return to the plannet Earth after a mission well done. You, B.J.
+BLAZKOWICZ, were part of a big N.Y.C. ticker tape parade to celebrate
+the end of hell's reign of terror! You then go back home to your wife
+and kids in your 5'th Avenue penthouse.
+   While watching Wheel Of Fortune, right when you think you solved
+the puzzle, a special report interupts your programming. You change
+the channels, but ALL the stations are airing a report on something
+horrible happening near the top of Mount McKenley. Daemons from hell
+are building a main HQ building to try and take over the earth! This
+gets you very angry, after all, you thought you solved the puzzle on
+Wheel Of Fortune!
+   You knew what you had to do. You had to go to Mt. McKenley and
+teach those ingrates a lesson before things get out of hand.
+   You arrive to the base from Hell atop Mt. McKenly. It's a big
+metal building filled to the rim with hell's creatures. You walk in
+and find you are too late. Hell already started throwing Earth into
+total chaos, but YOU can reduce the effect! 
+   Reports state that 24 hours ago they started sending daemons out
+into the world, through a special EXIT switch scattering these
+bastards all over the plannet. You trip an infared beam, and the
+creatures re-wire the switch to only bring you to E1M2, and all 
+enemies are on full allert to search and destroy you! Most of them
+are hiding secretly throughout the building waiting for you! You never
+knew anything about their technology anyway, so you're objective is
+not to fix the switch, but to clear the "metal halls of hell" so
+no more creatures will wreak havoc on Earth. After all, if all are
+dead, no one can fix the switch, and no one can transport them-
+selves to the four corners of the globe!
+  Go in there and kick daemon butt! If you fail, Hell on Earth will
+become a force too great for all armies to face.
+
+                          KNOWN BOO-BOOS
+
+   I did fix the "nice" monster problem, by using a separate BSP 
+nodebuilder outside of the one in DEUH.
+
+SECRETS BOO-BOO: You only end up getting half credit for secrets,
+  something I can't figure out. If you get a secret ratio of 50%,
+  you, in reality, got 100% of the secrets. You find half the
+  secrets, you get 25% credit.
+
+FLAWS: There's only ONE graphic flaw throughout the entire level!
+  When walking through the doorway to "the great plunge" (you'll
+  know it when you see it), you'll see a band of gray and black
+  "snow" in the doorway, if you're looking back at it walking
+  through it. That's the only time that happens, and the ONLY
+  graphics mistake made.
+
+           DO IT RIGHT, OR YOUR FUTURE AIN'T TO BRIGHT!
+
+    This level CAN be done! I'm not the best DOOM player in the
+  world, nor am I too great, but if I can do this, YOU can too!
+
+    There are lots of doors to choose from. If you open the right
+    doors at the right time, you'll do alright. Open the wrong
+    one(s) at the wrong time, you're gonna' support room and 
+    board for worms!
+
+    UNLIKE MOST HOME MADE LEVELS, Selecting the level of
+    difficulty WILL change the ammount (and types) of enemies you
+    face, so anyone can do this!
+
+    IT SEEMS I went a little easy on you in a few rooms, doesn't
+    it? Well, if you play ULTRA VIOLENCE or NIGHTMARE, you're
+    in for a RUDE AWAKENING!
+
+    There are two soul spheres and invulnerability spheres. In
+    the ULTRA VIOLENCE and NIGHTMARE difficulty levels, use
+    them sparingly, because you have a mother of a fight near the
+    exit!!! Otherwise, it won't be too tough!
+
+    Comments? Want to tell me what you think about this WAD file?
+  My internet e-mail is: Georgef551@aol.com
+  On Software Creations BB: Send mail to George Fiffy, in confrence
+  #47, ID Software BB.
+  AOL user? E-mail me: Georgef551
+
+    To run FIFFY.WAD, at the DOOM prompt, type: DOOM -FILE FIFFY.WAD
+    MAKE SURE THIS IS IN YOUR DOOM DIRECTORY!
+    It doesn't have to be there, but it's easier to access.
+
+  Resident Expert of Leominster  a.k.a. REoL

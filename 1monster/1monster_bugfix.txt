@@ -1,0 +1,13 @@
+This is the bugfix version released by Ryathaen on 10/28/07 here:
+
+   http://www.doomworld.com/vb/showthread.php?s=&postid=693876#post693876
+
+For some reason it was never uploaded to the archives. I've removed the resources and
+the levels that haven't changed in order to save space. Included maps: 03, 04, 05, 07, 10,
+11, 17, 20, 23.
+
+Thanks to justanotherfool for providing the file.
+
+Update 3/31/11: I've added a fix for MAP03; 100% Kills is always possible, now.
+
+   Andy Olivera

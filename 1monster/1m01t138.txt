@@ -1,0 +1,15 @@
+Pwad:      1 Monster
+Map:       01
+Skill:     4
+Category:  UV-Tyson
+Exe:       PrBoom+ v2.5.1.4
+Time:      01:38
+
+-complevel 9
+
+Author:	   KillerDog745
+
+
+First time playing the wad, maybe I'll try some more levels of this later.
+I got lucky at the start, not getting hurt too badly.
+Then   I tried to play really aggressively, pressing the switch as fast as possible.

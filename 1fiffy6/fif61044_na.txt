@@ -1,0 +1,33 @@
+ Doomed Speed Demos Archive
+ <http://doomedsda.us/>
+
+ game          : DOOM/Ultimate DOOM
+ WAD           : REoL TOUGH Classics: Baron Wasteland
+                 (FIFFY6.WAD by George "King REoL" Fiffy)
+                 <DOOM FTP>/levels/doom/0-9/1fiffy6.zip
+                 http://www.doomworld.com/idgames/index.php?id=8622
+ levels        : E1M1
+ category      : UV Max
+ exec used     : prBoom-plus 2.5.0.9-test -complevel 3
+ date          : December 27 2010
+
+ kills | secrets | time
+ -----------------------
+  100  |   100   | 10:44
+
+ I had been following with amusement TGH's foray into the world of 
+ Fiffy WADs and was dismayed to find out that he's been slacking off
+ for the past year. Too bad, the next installment turned out to be
+ quite fun.
+ In his 1fiffy6_mn MaxMaikl spent nearly 25 minutes here, god knows
+ why (and Allah is all-knowing! ;)*. Either he didn't think the rocket
+ launcher could have been obtained _much_ earlier or he simply enjoyed
+ the grind. Well, whatever the case, this one should be a lot more
+ watchable.
+
+ Here's to Selyodka's Fiffy passion rekindling in 2011. :P
+
+ Never_Again
+ tpoppins@juno.com
+
+ * yeah, I'm reading "Alf leyla wa leyla" again ;)

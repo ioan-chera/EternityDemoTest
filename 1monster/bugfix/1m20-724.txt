@@ -1,0 +1,42 @@
+________________________________________________________________________________
+
+Pwad:       1monster.wad
+Maps:       MAP20 - Bony Encounter
+Skill:      4
+Category:   UV Max
+Exe:        PrBoom+ 2.5.1.3
+            -complevel 9
+
+
+My recording command line:
+prboom-plus -file 1monster_bugfix -complevel 9 -skill 4 -warp 20 -record xxxxxxxx
+
+Playback w/PrBoom+:
+prboom-plus -file 1monster_bugfix -playdemo 1m20-724
+
+________________________________________________________________________________
+
+Kills:  100%
+Items:   50%
+Secret: 100%
+        ____
+       /    \
+Time:  |7:24|
+       \____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+Not a very popular map, as it seems. That pause in justanotherfool's demo always
+annoyed me, but his demo looks better, he just left some unused rockets and cells.
+My demo could have been faster, the ending sucks, though... One BFG shot should
+have killed 4 revenants. I'm done with this map, justanotherfool's comments are
+spot on, I especially hate that BFG secret.
+
+I have no idea what was fixed here in 1monster_bugfix.wad
+
+________________________________________________________________________________

@@ -1,0 +1,243 @@
+  REoL TOUGH: Satan's School of Warfare    An E1M1 replacement for DOOM!
+===========================================================================
+  Contains a self-playing demo for your enjoyment. (aprox time: 15 min.)
+===========================================================================
+   NEW MUSIC! A special thanks to Mike Slusher for making the music for
+      this level, with his version of Pink Floyd's ANTOTHER BRICK IN
+         THE WALL. It's kind of hard to hear, but it's well done!
+
+ SATAN'S SCHOOL OF WARFARE (c) 1994 SNESPC U.S.A.
+---------------------------------------------------------------------------
+COPYRIGHT NOTICE: You may add to, delete from, or modify this level, so
+                  long as you give the authors credit for the original
+                  work. As for the music, contact Mike Slusher!
+                                MUSIC IS NOT COPYRIGHTED
+
+                !!! FEEL FREE DO DISTRIBUTE THIS LEVEL !!!
+
+AUTHORS:
+          DESIGNER/BUILDER: REoL (George Fiffy)
+
+          MUSIC: MATSUO (Mike Slusher)
+---------------------------------------------------------------------------
+COMMENTS? QUESTIONS?  HERE'S WHERE TO E-MAIL US!
+
+                              AOL            INTERNET
+REoL (George Fiffy)       GEORGEF551    Georgef551@aol.com
+MATSUO (Mike Slusher)       MATSUO        Matsuo@aol.com
+
+PLEASE SEND APROPRIATE MAIL TO THE APROPRIATE PERSON(S)! HOWEVER, if you
+have SOFTWARE CRESTIONS BBS access, but you have no AOL or INTERNET 
+access, I will relay your questions about the music, or I'll talk to you
+about the actual level construction.
+
+PS: If you have any suggestions for the next REoL TOUGH levels, contact me!
+   I can't change the graphics (SOB!), and someone else does the music
+   (NO RAP, dance or hip-hop please. It doesn't fit in DOOM).
+---------------------------------------------------------------------------
+  This game can be played in all modes. In 1 or multi-player games, you'll
+all start out in the same room. You'll have a shotgun to start with.
+  In DEATHMATCH, there's no exit. Some of you will start in the same areas
+(uh oh!). You'll start off with a shotgun, some ammo, a backpack, a plasma
+gun, and a energy pack. USE YOUR SHOTS WISELY!
+---------------------------------------------------------------------------
+HOW TO PLAY THE NEW LEVEL
+
+At the DOOM prompt, type:          DOOM -FILE WAR4.WAD
+
+Although you can choose the level of difficulty, it's gonna' be one hell
+of a battle! I hope you're good, and have a Pentium!
+
+PS: A 486 cpu of at least 20MHz will play this game somewhat decently, but
+   will be awful jerky! A high speed 486 (50+MHz) or a Pentium will make
+   this playable at even the highest levels of difficulty.
+    From all the complaints I recieved about TOTAL WAR II and TOTAL WAR
+   III that I read (all 3 of them!), The easy levels of difficulty has  
+   significantly fewer monsters than the medium level of difficulty. Plus,
+   a much simpler building design also helps reduce jerkyness even more.
+--------------------------------------------------------------------------
+  Didn't you wish that you could go to school one day and get even with
+the teachers or professors, as well as the staff and bullies? YOU CAN! Go
+into classrooms. Inturrupt class! Shoot 'em all dead! REVENGE IS SWEET!
+--------------------------------------------------------------------------
+  WE DON'T NEED NO EDUCATION.... You'l all be toasted anyway!
+  HEY, TEACHER, LEAVE THOSE KIDS ALONE!.... I'll belt them for you!
+--------------------------------------------------------------------------
+
+                                 STORY:
+
+   Somewhere on the moon of Phobos, a school sits in a big crator. This
+school takes dumb daemons from hell and teaches them how to become REAL
+FIGHTERS! They go to classes durring the day, and they go out and do
+their "homework" on the streets of the inner Phobos city at night. YOU
+HAVE TO SHUT DOWN THE INSTITUTION!
+   Well, well, well. Looks like they hide the entrance to the school
+grounds fairly well, don't they? But you, B.J. BLASKOWICTZ, are too smart
+for them! (You'll see.) You go through the corridors of the building, and
+you're suddenly telleported into a classroom! The daemons, as well as the
+"professors", turn their excercises into applicastions! But you'll blast
+them all to kindom come, even the Barron "professors"! As you go on a
+classroom rampage, many daemons in the cafeteria will be shooting at you!
+  After all of that, you might take a trip to the Administration Offices
+are share a little of your lead over there as well. You finally reach the
+"final exam" room, filled LITERALLY with about a couple hundred daemons,
+and could be as high as SEVERAL hundred ALL AT ONCE! And if that wasn't
+enough, when you get on the balcony, up to TWENTY Barrons Of Hell will
+join in on the fun! (Now you know why this is soooooooooooooooooo jerky!)
+No need to pannic! You got a GIGANTIC room full of ammo!
+  After giving your best educational lesson to the daemons of Hell, you
+go through the exit, and you can play a level you'll have control over!
+-------------------------------------------------------------------------
+                              PLAYING TIPS:
+
+(1) The action is jerky beyond human belief! Don't try to "floor it" in
+    areas where you'll fall off the edges of ledges and into pools of
+    toxic waste. Make small movements and you'll have good controll over
+    this horrifying School of Hell (and the scrolling).
+
+(2) In order to get into the cafeteria, you will need to get the "lunch
+    card" to open the door (yellow key). Geting in here could LIFT your
+    spirits (hint, hint, hint!).
+
+(3) When you're telleported into your first classroom (you'll walk into
+    the rest of them thereafter), try to shoot your way towards the door.
+    This way, when the invulnerability wears off, you can fight what
+    remains without YOU ending up AS remains!
+
+(4) Secrets, even with cheat codes, will NOT show (heh, heh, heh! Get
+    used to it.) on the map. One's fairly obvious though, like the door
+    that is in the middle of "nowhere". (See tip #2 for accessability.)
+
+(5) There doesn't seem to be any large places to fight those Barrons!
+    As you walk away shooting, lead them into the green weapons room (this
+    is the classroom area). PLENTY of space to dodge and move around in! 
+    
+(6) The teachers (barrons) conduct class behind a potium in front of the
+    blackboard. On the blackboard side of the potium is a switch to open
+    up the next area to be discovered (the Administration Offices can be
+    entered at any time you wish). You'll go through four classrooms.
+    (There is a fifth classroom. Can you find it?)
+
+(9) After going through the four classrooms, a door in the hallway opens
+    up to reveal a big room full of ledges. You must note (it's VERY
+    important!) that the ledges YOU stand on have five sides. Two sides
+    make an "arrow" at the ends of the ledges. Jump off the ledges in the    
+    direction these "arrows" point! If you don't, you'll parrish in the
+    toxic waste pool below.
+
+(8) To do away with the secretaries and others in the main room of the
+    Administration Offices, it's best to shoot from the OUTSIDE. Stay in
+    the main hallway on the other side of the windows and shoot away. DO
+    NOT LET DAEMONS OPEN THE DOOR! If you shoot while the door is open,
+    the faculty in their offices will come out after you! These are not
+    typical scum, they're MEANIES! Wait 'till you kill everyone inside the
+    main room first.
+
+(9) You might want to check out what's inside the Administration Offices!
+    There's some neat stuff in there...
+
+(10) Also in the main hallway is the cafeteria (remember, you need the
+     "lunch card" to open the door), there are quite a few daemons eating
+     lunch. They see you, they come at you. Take this slowly. Expose a few
+     daemons at a time. You get them all going, you'll be full of holes
+     so fast...
+
+(11) At the actual war room (remember, the "final exam" area), when the
+     walls lower, turn around and take the nearby lift to the balcony! DO
+     NOT LEAVE THE BALCONY AREA! You don't need to, since it has it's own
+     ammo room (grey) and health. You won't get mauled on the ground.
+
+(12) If you need to duck into the doorway (while on the balcony), you need
+     not waste valuable time turning around to walk in the doorway. This
+     room was designed so if you miss the door, you'll "slide" into the
+     doorway. 
+     
+(13) IN DEATHMATCH: When going against friends, you will note that you
+     will have NO ACCESS to the exit! This means you'll actually have to 
+     FIND your friends and kill them all!
+--------------------------------------------------------------------------
+Known "Boo-boo's":
+
+(1) BLACKOUT! There is an error in the DOOM.EXE file where rooms that are
+    too tall have some sort of "snow bars" between sectors. This happens
+    in the "room of ledges" when you grab the lift (remember the hint?).
+    If you stand DIRECTLY in front of the lift as close as you can, the
+    screen seems to "black out". Stand back a hare.
+      If you do NOT have a sound card, you'll NEVER know when the lift 
+    came down! You DEFINATELY should stand back a little!
+
+(2) HALL OF MIRRORS: If you're in the dishwasher room next to the kitchen
+    of the cafeteria and open the metal door, you may experience the in-
+    famous (and dreaded) Hall Of Mirrors effect. This is because the cafe-
+    teria has so many sectors that it exceeds the limit DOOM can draw on
+    screen. This happened in HOTEL as well (REoL TOUGH: Hotel).
+
+(3) INVISABLE ENEMIES, AND SHOTS! Well, the usual REoL TOUGH problem of
+    disapearing enemies is in here (gee, what a suprise). What you did
+    NOT expect is that the flames and toxic waste that the Imps and the
+    barrons throw can ALSO be invisable (uh-oh big time!). If you hear
+    them shoot, MOVE! If you want to be nuked or cooked, don't.
+
+-------------------------------------------------------------------------
+                  OTHER REoL TOUGH ADVENTURES FOR DOOM!
+
+Hell On Earth interpretation            Daemons from hell are atop Mt.
+(1FIFFY.ZIP)                            McKinley to wreak havoc on Earth!
+                                        STOP THEM!
+
+Satan's Castle                          One of the most popular levels in
+(1FIFFY2.ZIP)                           the United States! 
+                                        Since Satan is trashing Earth,
+                                        why not trash his castle?
+
+TOTAL WAR II:                           Included a hevily modified TOTAL
+(1FIFWAR.ZIP)                           WAR I with nearly impossible DOOM
+(FIFFYWAR.ZIP in AOL)                   levels! Too tough for the average
+                                        DOOM player!
+
+Hotel                                   You decide to check into hell's
+(1FIFFY3.ZIP)                           fanciest hotel, the Under Arms.
+                                        You checked in, but the question
+                                        is can you check out?
+
+TOTAL WAR III: Land Of Weirdness        The DOOM level with the weirdest
+(1FIFWAR2.ZIP)                          visual effects! It has invisable
+                                        buildings, invisable doors, dark
+                                        rooms you can see well in, and
+                                        other weird wonders.
+
+The Pit                                 The Mt. McKinley detention camp
+(1FIFFY4.ZIP)                           prisoners are out of control!
+                                        You need to access other areas
+                                        of the camp via The Pit.
+
+TOTAL WAR IV: Satan's School            You go through a school building
+              of Warfare                on the moon of Phobos interupting
+(1FIFWAR3.ZIP)                          classes on hell raising. Don't
+(Satan's Castle sequel!)                you just LOVE it?
+-------------------------------------------------------------------------
+REMEMBER: I want to hear form you if you have something to say about this
+         or any other REoL TOUGH level! Just E-mail me with the address
+         above. If you have questions about the music, contact Mike
+         Slusher, who's address is also above.
+
+Thanks for downloading REoL TOUGH: TOTAL WAR IV: Satan's School of
+Warfare! I enjoyed making this level. Hope you'll download all the others
+and the ones to come in the future!
+
+Resident Expert of Leominster           TODAY'S MORAL: Cats do not land on
+                                                       their feet if their
+                                                       paws are cut off.
+
+
+
+
+
+
+
+
+
+
+
+
+

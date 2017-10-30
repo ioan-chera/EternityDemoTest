@@ -1,0 +1,16 @@
+WAD: 1monster
+MAP: MAP19: Cacophony
+Time: 4:15
+Added Engine: prboom-plus v2.5.1.3 (I think)
+Category: Nomonsters 100%
+Recorded on: ????, submitted July 2016
+-complevel 9
+
+This is a 100% secrets demonstration demo I did a few years back in -nomo which I recently found on my computer. I made it, entertaining the idea that someone might do
+a Nightmare! 100% secrets run of this map since I thought that would be fun to watch. Fast forward to May 2016, when my friend odysseyofnoises was looking for a TAS run
+idea. I mentioned this map, Nightmare! 100% secrets, and sure enough, he recorded a thrilling demo. I never knew about the nomo 100% secrets category on DSDA until I saw 
+some -nomo runs recently get put into said category, so I figured that even though there's already a NM100 run up for the map, this could potentially still be useful to
+anyone who wants to record a demo for another category requiring 100% secrets. This is not meant to be a "speedy" demo but rather a demonstrational one. Since I have it,
+I might as well upload it for others to view and use if they like. I hope this will be of use to anyone who considers recording a demo for this map henceforth.
+
+--Doomdaniel95

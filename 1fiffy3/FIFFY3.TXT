@@ -1,0 +1,141 @@
+##########     REoL TOUGH: The Under Arms 5-star hotel     #########
+--------------------------------------------------------------------
+     IMPORTANT INFO IS ENCLOSED! Please read the following text!
+
+====================================================================
+              (C) 1994 SNESPC U.S.A.   COPYRIGHTS:
+   You may, if possible, modify, add to, or delete from this WAD
+   file, FIFFY3.WAD, AS LONG AS YOU GIVE ME CREDIT FOR THE ORRIGINAL
+   WORKMANSHIP! I hope you'll enjoy the DOOM level! GOOD LUCK!
+====================================================================
+
+                        - - - S T O R Y - - -
+
+     So, you have won the great TOTAL WAR II battle (FIFFYWAR.ZIP on
+AOL, 1FIFWAR.ZIP elsewhere), and the day is done. It's getting dark
+outside, and as you reach the SHORES OF HELL, you decide to check
+into hell's finest hotel, the Under Arms. (Get it?)
+     As you aproach, all of hells creatures that are checking in,
+checking out, and the employees see you, and they come to you for
+one reason, as if you didn't know what they want to do to you!
+     Well, all you have for a good weapon is the shotgun (heh,heh,
+heh!). Hope you'll do alright, as if there isn't any helpful items
+anyway! You'll experience the best structurally correct level you
+have ever seen! (There was not enough memory for bathrooms any-
+where!) Go into the maid's closet and get the master key to raid
+all the rooms! Go into the 5-star restraunt and go hunting! Go into
+the kitchen and cook up what you kill in there! There are many
+"emergency exits" that lead you to many unreachable places! Hope-
+fully you will be able to check out of this hotel! It gets quite
+NASTY at the higher levels of difficulty, almost like TOTAL WAR II!
+
+EXCELLENT DEATHMATCH! Gives each of you a shotgun and shells, and
+   yes, a BFG9000 with an energy pack to waste the better of your
+   opponents with. USE YOUR WEAPONS CAREFULLY! What you get is all
+   you will get! (unless you cheat, which is worng. God says so!)
+
+-NOTES: Notice how the lifts have realistic-looking elevator doors!
+  To opperate the "elevator", click the switch to lower the lift.
+  then open the door to it. Open the other door on the other side
+  to get out. ELEVATOR DOORS ARE NOT AUTOMATIC! It's the same going
+  down, but it's faster that way!
+  TO PLAY: Type the following at the DOOM prompt:
+
+  DOOM -FILE FIFFY3.WAD
+
+- This has an automatic demo that'll play at the title screen. It's
+  played on HEY, NOT TO ROUGH (It's a nasty level!).
+
+KNOWN "BOO-BOOS":
+
+* SNOW BARS: This weird effect occurrs in ultra-tall rooms, where
+  at the entryways, alcoves, etc, a band of dots will appear. This
+  is NOT a PWAD error, but a flaw in the DOOM.EXE file. Just pre-
+  tend it doesn't exist! It acts that way too! Also, the imfamous
+  HOM Effect (Hall Of Mirrors) may also occurr in ultra-tall areas.
+
+* HALL OF MIRRORS EVERYWHERE!: God knows why this happened! In
+  many places, the HOM effect occurred a lot durring construction,
+  and seemed to somewhat dissapeared after adding THINGS to it.
+  Some areas may still have it. Where it did (and may still do)
+  occurr is at the northeastern-most corner of the map (where the
+  swimming pool is).You look at the edges of the building at the
+  left and rightmost corners of the outside walls, and the HOM
+  would be there. Also appeared (or appears) leaning next to the
+  right front window (when entering) looking into the restraunt.
+  It would appear in that window, and above the seats at the
+  restraunt, as well as in the door to the kitchen. I think that
+  is still there!
+
+  COMMENTS? QUESTIONS? E-mail me at GOERGEF551@AOL.COM!
+  PLEASE fill out questionaire at the bottom of this file!
+====================================================================
+  OTHER REoL TOUGH DOOM EXPERIENCES!
+
+  (1) Hell On Earth interpretation (1FIFFY.ZIP). Try to reduce
+      the burden Earth will have to pay from hell's creatures!
+      open the right doors at the right time, and you'll survive!
+
+  (2) Satan's Castle (1FIFFY2.ZIP). Payback time! Satan is mess-
+      ing up your home, so you go to his castle and mess up his!
+      Experience TRUE lighting effects, and excellent construct-
+      ion, as well as some eerie effects! It's been called "A well
+      thought-out level", and "Impressive" on Software Creations
+      BBS! A must have for the DOOMsdayer!
+
+  (3) Total War Package (1FIFWAR.ZIP SWCBB, FIFFYWAR.ZIP AOL):
+      Includes the original Total War level, with modifications to
+      toughen it up, and to make it better! Two other levels will
+      test your DOOM playing experiences TO THE LIMIT, especially
+      E1M2, the WORLD'S TOUGHEST DOOM LEVEL! That was backed up
+      by AOL! FLOODED with requests for it to be e-mailed to all
+      interested people, the most I ever had recieved (and may
+      still be more requests!)!
+
+  To get these files, go to SOFTWARE CREATIONS BB, or AMERICA ON-
+  LINE and grab a copy! Please note newer files may not yet be
+  available, and AOL libraries take up to a month or longer to
+  get posted. If you have AOL, and you want any of the above
+  REoL TOUGH levels directly through me, e-mail me at GEORGEF551!
+  You'll get to play them before the world does!
+
+  I hope you'll enjoy this level! Fill out this questionaire, and
+  send this portion of the file back to GEORGEF551, or if you don't
+  have AOL, e-mail portion to GEORGEF551@AOL.COM!
+  =================================================================
+                           QUESTIONAIRE
+
+                  !! Replace blanks with typed text !!
+                  !! Add more space(s) where needed !!
+
+  (1) How would you rate this level in...
+        (a) toughness:_______
+        (b) design:_______
+        (c) playability:_______
+        (d) other:_________________________________________________
+                  _________________________________________________
+                  _________________________________________________
+                  _________________________________________________
+                  _________________________________________________
+
+  (2) What would you like to see in the future REoL TOUGH levels?
+      ___________________________________________________________
+      ___________________________________________________________
+      ___________________________________________________________
+      ___________________________________________________________
+      ___________________________________________________________
+
+  (3) Could there be any improvements you would like to see in
+      the future levels?
+      ___________________________________________________________
+      ___________________________________________________________
+      ___________________________________________________________
+      ___________________________________________________________
+      ___________________________________________________________
+
+  (4) Would you recomend or give this file to friends/ family/etc.?
+      ___________________________________________________________
+      ___________________________________________________________
+      ___________________________________________________________
+
+

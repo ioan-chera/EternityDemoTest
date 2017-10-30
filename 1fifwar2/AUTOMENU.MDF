@@ -1,0 +1,34 @@
+..............................................................
+.Automenu Menu Definition File (7/4/89)
+.Update last on 8/26/92
+...............................................................
+%REoL TOUGH: TOTAL WAR III: Land of Weirdness 
+*I'm to young to die!
+?It's wicked tough here!
+!DOOM -DEVPARM -WARP 3 7 -SKILL 1 -FILE WAR3.WAD
+....................
+*Hey, not to rough!
+?It's the same, but deadlier!
+!DOOM -DEVPARM -WARP 3 7 -SKILL 2 -FILE WAR3.WAD
+....................
+*Hurt me plenty!
+?So you like to dig your own grave, huh?!
+!DOOM -DEVPARM -WARP 3 7 -SKILL 3 -FILE WAR3.WAD
+.................................................................
+*Ultra-violence!
+?Can you say DUMB MOVE?
+!DOOM -DEVPARM -WARP 3 7 -SKILL 4 -FILE WAR3.WAD
+................................................................
+*N I G H T M A R E !
+?It's the Swan Song for you!
+!DOOM -DEVPARM -WARP 3 7 -SKILL 5 -FILE WAR3.WAD
+............................
+* Load a saved game of this hellish world!
+? You boss is gone, load up your "work"!
+!DOOM -FILE WAR3.WAD
+............................
+*BACK TO DOS!
+?You're a chicken after all!
++TYPE ECHO.DAT
+...............................................................
+#END OF AUTOMENU.MDF

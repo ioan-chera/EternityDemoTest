@@ -1,0 +1,79 @@
+***** SNESPC U.S.A. PRESENTS.....     SATAN'S CASTLE! *****
+-----------------------------------------------------------
+    un(c)1994 by REoL (Resident Expert of Leominster)
+
+   To play, start a new game under the INFERNO episode!
+
+   THIS IS THE BEST AND TOUGHEST LEVEL YOU'LL PROBABLY EVER
+PLAY! It's hard to make your way through the front door!
+THAT is how hard it is! If you make it through this "30
+minute" stage (refering how long it takes to play the
+ENTIRE level, secrets and all), IT'S A MIRACLE YOU DID!
+
+PAR TIME: Don't you hate those impossible par times? 
+anyway, although I can't change the par time shown, see if
+you can finnish this level in 10 minutes. Sounds easy to
+do, doesn't it? IT'S NOT! TRUST ME! IT'S IMPOSSIBLE!
+
+   After destroying Lucifer's new "hell raising" base on
+top of Mount McKinley (FIFFY.WAD available on AOL), you
+decide to get even for his evil deeds. You go back to hell
+and wreck his home, or should I say, CASTLE!
+
+    You need the REGISTERED version of DOOM. And you'll
+also need a lot of patience, after all, this isn't a
+typical 5 - 15 minute hellish PWAD, it's tested to be up
+to THIRTY MINUTES+ OF TOTAL HELL!
+
+* There are some neat features in this "humble" abode:
+For deathmatch, a "secret" hiding spot! You can see your
+friends, but they can't see you! Shoot your friend's 
+brains out, and he won't even see the sparks coming out of
+your gun!
+* You can possibly run through my last name (FIFFY)!
+* You can't find or get to that secret exit in episode 3,
+mission 6? HERE'S YOUR SECOND CHANCE!
+* REALISTIC SHADDOWING! Areas get darker as you move away
+from lit areas. You'll see that graduations in the main
+entryway of the castle (ID Software couldn't do this!).
+* To make ID Software proud, 9 upside-down crosses! (A
+note to you religous buffs. Don't say I didn't warn you!)
+There is a tenth, standing upright! Why? You'll be thank-
+ing GOD for letting you survive this death trap!
+* You and a friend can battle it out between turrets!
+
+KNOWN BOO-BOOS:
+
+Again, some deaf monsters get new batteries for their
+hearing aids (suposed to be deaf, but SOMETIMES are not).
+
+Floor and ceiling textures for the teleporters are WAY
+off center! (some are close!) I can't understand it! At
+least they work, and can be recognized.
+
+DURRING BETA TESTING throughout the building process,
+this level is known to CRASH! This may be just my PC,
+since it crashes everything a lot. If this level DOES
+crash or lock up, turn off your EMM386 memory manager.
+It ALWAYS worked after that was done. 
+! Memorize any points where lockup can happen, and save
+your game BEFORE you reach it! You won't have to do all
+that hard work again!
+
+Can you remember WAR.WAD (available as #_WAR_#.ZIP on AOL)?
+Here comes the sequel, WAR2.WAD! Will be the hardest and
+best built WAD I made! I've come a loooooooong way!
+
+FEEL FREE TO DISTRIBUTE to all your DOOM friends!
+
+-George Fiffy, a.k.a. REoL    MORAL OF THE DAY:
+                              DON'T SIT IN MAYONAISE.
+
+
+Look for other REoL TOUGH DOOM levels on AOL, Software
+Creations, and Real Time!
+
+#_WAR_#.ZIP     WAR.WAD: Fight against many mean bosses!
+1FIFFY.ZIP    FIFFY.WAD: Hell atop Mt. McKinley!
+1FIFFY2.ZIP  FIFFY2.ZIP: Trash Satan's Castle! (good luck!)
+

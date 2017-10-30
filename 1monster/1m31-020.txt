@@ -1,0 +1,56 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      ftp://mancubus.net/pub/idgames/levels/doom2/megawads/1monster.zip
+           (or replace "mancubus.net" with your idgames/ mirror of choice)
+Pwad name: 1 Monster Megawad
+Maps:      31 ("Castle Dorkenstein" by Dutch Devil)
+Skill:     4
+Category:  Speed / Pacifist
+Exe:       Boom 2.02
+
+Time:      :20
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+
+Comments:  
+Here's another 1 Monster UV speed demo, this time on Dutch Devil's MAP31, the
+sole secret level and the one with the Wolfenstein SS as the enemy.  I started
+recording on this level shortly before I went to watch Indiana Jones and
+the Kingdom of the Crystal Skull, and continued shortly after I came back from
+watching it.  Given that Indy's former recurring enemies were the Nazis (in the
+new film, set in 1957 during the Cold War, the villains are Russian,) I felt
+that recording on the level where Nazis are the enemies was quite appropriate.
+Anyway, as you can expect, this level is built with a mix of Wolfenstein an
+d Doom textures, with some additional 128×128 textures from the Jaguar/Mac/3DO
+ports of Wolfenstein added on... except Dutch Devil didn't skimp out on
+detailing.  At all.  Despite the obvious Doom II MAP31/MAP32 theme, it's just as
+detailed as Dutch's other map in this project (MAP13.)  And strangely enough, it
+/works./
+
+It also plays well, from what I see.  Speeding through it, however, is rather
+tough.  Given that the Nazis are hitscan enemies, it's basically impossible to
+run through this level without taking a lot of damage.  Making things worse are
+things you can get caught on easily, like pillars in the middle of rooms and
+hallways, and the metal borders of the walls.  Fortunately, it's a very short
+level, as it's a short trip from the start to the key, and from the key to the
+exit.  There are no tricks here, apart from the fact that the mass teleport of
+Nazis in the exit room doesn't happen.  Just like with MAP05, this is because
+it only occurs if you fire a shot in a certain location, this time in the second
+room.  However, I don't fire a shot the entire time, so nobody warps in.  Yes,
+this is a pacifist demo, too!
+
+My first time was :23.  After I came back from the film, I got :22, and then
+:21.  Finally, I got :20 after a long, frustrating struggle, and then another
+:20 that was faster by a couple of tics.  I hope you enjoy it!
+
+Prior to recording Doom demos, I did some usermap speedruns for Duke Nukem 3D.
+Video versions can be seen on my YouTube channel at
+http://youtube.com/profile?user=TheGreenHerring, and I hope to have a
+"Speedruns" section up on my website in the near future.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- May 29, 2008 -

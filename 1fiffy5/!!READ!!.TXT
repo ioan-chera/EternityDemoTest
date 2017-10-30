@@ -1,0 +1,248 @@
+    REoL TOUGH: St. Lucifer's Church      An E3M1 replacement for DOOM!
+===========================================================================
+  Contains a self-playing demo for your enjoyment. (approx time: 13 min.)
+===========================================================================
+   NEW MUSIC! A special thanks to Mike Slusher for making the music for
+      this level, with his version of White Zombie's Black Sunshine. 
+                        ANOTHER EXCELLENT JOB, MIKE!
+
+               ST. LUCIFER'S CHURCH (c) 1994 SNESPC U.S.A.
+---------------------------------------------------------------------------
+COPYRIGHT NOTICE: You may add to, delete from, or modify this level, so
+                  long as you give the authors credit for the original
+                  work. As for the music, credit goes to Mike Slusher!
+                  And don't forget Karl Martin who proofread this long
+                  document for the millions of errors that wer in this!
+                                MUSIC IS NOT COPYRIGHTED
+
+                !!! FEEL FREE TO DISTRIBUTE THIS LEVEL !!!
+
+AUTHORS:
+          DESIGNER/BUILDER: REoL (George Fiffy)
+
+          MUSIC: MATSUO (Mike Slusher)
+
+          PROOFREADER: Karl Martin 
+---------------------------------------------------------------------------
+COMMENTS? QUESTIONS?  HERE'S WHERE TO E-MAIL US!
+
+                              AOL            INTERNET
+REoL (George Fiffy)       GEORGEF551    Georgef551@aol.com
+MATSUO (Mike Slusher)       MATSUO        Matsuo@aol.com
+Karl Martin           (No e-mail address. Contact Georgef551@aol.com)
+
+PLEASE SEND APROPRIATE MAIL TO THE APROPRIATE PERSON(S)! HOWEVER, if you
+have SOFTWARE CRESTIONS BBS access, but you have no AOL or INTERNET 
+access, I will relay your questions about the music, documentation, or  
+the actual level construction.
+
+PS: If you have any suggestions for the next REoL TOUGH levels, contact me!
+   I can't change the graphics (SOB!), and someone else does the music
+   (NO RAP, dance , hip-hop , or R&B please. It doesn't fit in DOOM).
+---------------------------------------------------------------------------
+ NEW IN AOL! The REoL TOUGH DOOM LEVEL HELPLINE! As of this writing, you
+ will find the helpline under KEYWORD:PC GAMES. Select the MESSAGE BOARD 
+ and go to the GENERAL topic. Look for REoL TOUGH DOOM level helpline!
+---------------------------------------------------------------------------
+                         ***** NOTE ON GAMEPLAY *****
+
+  For those of you who are picky about jerky levels, This level IS jerky 
+FOR JUST THE FIRST TWO PARTS, in the church, and the marble room behind the
+altar. After that, all runs pretty smooth! Give this level a chance! 
+  Besides, DOOM II is about this bad animation-wise!
+---------------------------------------------------------------------------
+  This game can be played in all modes. In 1 or multi-player games, you'll
+all start out in the same open field outside the church. You'll start with
+the lowly pistol. Your battle starts right away, so keep an eye out!
+  In Deathmatch, you will start in one of numerous locations. BEWARE, some
+of you COULD start close to each other! You could be in the same sector as
+your friend(s), or "one away", so be prepared, ALWAYS!
+  Also, you'll start off with a shotgun, rocket launcher, some rockets, and
+a box of shells. USE YOUR SHOTS WISELY (my, how old)!
+---------------------------------------------------------------------------
+HOW TO PLAY THE NEW LEVEL
+
+At the DOOM prompt, type:          DOOM -FILE FIFFY5.WAD
+
+Level of Difficulty can be chosen, but expect a big turnout on Ultra-
+Violence and Nightmare levels of difficulty!
+
+I'M TOO YOUNG TO DIE! or HEY, NOT TOO ROUGH is like a regular church day.
+HURT ME PLENTY is like the turnout for a religous holliday, like Easter.
+ULTRA-VIOLENCE and NIGHTMARE is like Christmas. UH-OH!
+
+   CPU REQUIREMENTS: A 486sx 20MHz minumum. Some areas of this game will 
+   need it, but after the first few parts a 386 33MHz+ could even handle
+   this! GOOD LUCK! IT'S TOUGH!
+
+--------------------------------------------------------------------------
+                                 STORY:
+
+   It's Sunday morning, at least to your knowledge, and Satan is STILL
+creating havoc on Earth! For now, you have another mission to accomplish!
+   It's now Christmas Eve in the year 2194, and most of hell's creatures
+usually go to church for a sermon of evil, and for a good night's sleep.
+(Like real church, there will USUALLY be far more vacant pews than the
+day of Christmas, or Easter.)
+   You're heading back to Earth to see what's happening up there, when
+you come across a church that does not exactly preach about God, but the
+evil one, SATAN!
+   Well, you decide to head into the church to see what this twisted
+satanic religion is like, but as usual, you are not greeted quite too
+well for interrupting the sermon. You work your way into the back area of
+the building to find daemons galore on your tail. Once you reach the back
+exit of the church, a door out of nowhere (literally) opens up right out
+of the sky! You then realize that there is an invisible building on site!
+You then realize that your adventure isn't really over, but has only JUST
+BEGUN! 
+-------------------------------------------------------------------------
+                              PLAYING TIPS:
+
+(1) GRAB THOSE SHOTGUNS! Do so before you enter the church!
+
+(2) When you are in the green marble room behind the altar, you will find
+    a switch that will lower the medical kits close to the ground. If you
+    are still fighting enemies, you do not want to pick them up, or even
+    stand on the platform because (blink!) LIGHTS OUT!
+
+(3) When you enter the "back yard" of the church, a invisible door to the
+    invisible building will open. Kill the enemies inside that room. If
+    you fail to, you'll have a BIG job on your hands, or you will be sold
+    as hamburger at the corner grocery store.
+
+(4) In the church, there are stained glass windows. Some will open up and
+    a passage way is found. To gain access to the pathway, stand on a
+    nearby seat and run through the window openings.
+
+(5) ARE THEY DOORS?: In the invisible building, you start off in a room
+    with three pannels of moving, distorted faces. These are DOORS. These
+    WILL NOT WORK by pressing the spacebar, otherwise, the animation
+    would have to be sacrificed. To open the doors, walk up to them and
+    STAND DIRECTLY "ON TOP" OF THEM. You'll trip a wire that opens them.
+    On the other side of the doors you MAY not need to worry about any
+    tripwire to open them....
+
+(6) SECRETS ARE SECRET: Trying to find the secrets? GOOD LUCK! The all-map
+    cheat will NOT display them, so you are on your own! Hey, I warned you
+    that you'll never find them on the map again, since the level REoL
+    TOUGH: The Pit. (Heh, heh, heh!)
+
+(7) RUN FOR YOUR LIVES!: There are two places in this level where trying
+    to kill all the enemies is pretty much a stupid idea (unless death
+    sounds good to you). One word: RUN! This especially holds true near
+    the exit.
+
+(8) SUPRISE!: There are a couple of "suprises" behind the blue-keyed door.
+    Perhaps you may want to know, or maybe you don't....
+
+(9) "HIDDEN SWITCH": There is a switch somewhere in the level (not in a
+    secret) which you do NOT want to hit if you want (or have access to)
+    the BFG-9000.
+--------------------------------------------------------------------------
+Known "Boo-boo's":
+
+(1) HALL OF MIRRORS BIG-TIME! (SOB!): When you open the door to the
+    church, depending on where you stand, you will experience the dreaded
+    HOM EFFECT. This is because (now I REALLY know why) there are WAY TOO
+    MANY linedefs (not sectors) on screen at once. Too much detail for
+    the darn game to draw! This happens when you stand on the altar
+    as well. I think there's a 100 linedef limit, according to sources.
+    (For you who don't make your own levels, LINEDEFS = PLANES.)
+
+(2) "MISSING" CORNER OF BRICK RETAINING WALL: On the leftmost corner of
+    the brick retainer wall, on the church side overlooking the lower
+    courtyard, you'll notice a corner of the brick wall that is
+    "missing". However, on the other side of this wall (a good 30 feet
+    lower than this viewpoint), this corner IS visible. I guess the
+    "engine" of this program has a couple bugs that ID SOFTWARE did not
+    know about (they didn't attempt anything difficult like this)!
+
+(3) ENEMIES SEE THROUGH STAINED GLASS WINDOWS: If you're outside the
+    church, looking at the far end of the building, enemies inside the
+    church will come out after you. If you look at this level with an
+    editor, you now know why the enemies in the church are facing in the
+    weirdest of directions.
+-------------------------------------------------------------------------
+                  OTHER REoL TOUGH ADVENTURES FOR DOOM!
+
+Hell On Earth interpretation            Daemons from hell are atop Mt.
+(1FIFFY.ZIP)                            McKinley to wreak havoc on Earth!
+                                        STOP THEM!
+
+Satan's Castle                          One of the most popular levels in
+(1FIFFY2.ZIP)                           the United States! 
+                                        Since Satan is trashing Earth,
+                                        why not trash his castle?
+
+TOTAL WAR II:                           Included a heavily modified TOTAL
+(1FIFWAR.ZIP)                           WAR I with nearly impossible DOOM
+(FIFFYWAR.ZIP in AOL)                   levels! Too tough for the average
+                                        DOOM player!
+
+Hotel                                   You decide to check into hell's
+(1FIFFY3.ZIP)                           fanciest hotel, the Under Arms.
+                                        You checked in, but the question
+                                        is can you check out?
+
+TOTAL WAR III: Land Of Weirdness        The DOOM level with the weirdest
+(1FIFWAR2.ZIP)                          visual effects! It has invisible
+                                        buildings, invisible doors, dark
+                                        rooms you can see well in, and
+                                        other weird wonders.
+
+The Pit                                 The Mt. McKinley detention camp
+(1FIFFY4.ZIP)                           prisoners are out of control!
+                                        You need to access other areas
+                                        of the camp via The Pit.
+
+TOTAL WAR IV: Satan's School            You go through a school building
+              of Warfare                on the moon of Phobos interupting
+(1FIFWAR3.ZIP)                          classes on raising hell. Don't
+(Satan's Castle sequel!)                you just LOVE it?
+
+St. Lucifer's Church                    Go through a satanic church and
+(1FIFFY5.ZIP)                           end satanic rituals forever,
+                                        or temporarily....
+-------------------------------------------------------------------------
+REMEMBER: I want to hear from you if you have something to say about this
+         or any other REoL TOUGH level! Just E-mail me with the address
+         above. If you have questions about the music, contact Mike
+         Slusher, whos' address is also above. I will take questions
+         about the docs, since Karl Martin has no e-mail address.
+
+        Thanks for downloading REoL TOUGH: St. Lucifer's Church! 
+I enjoyed making this level. Hope you'll download all the others and the 
+                       ones to come in the future!    
+=========================================================================                       
+  Keep an eye out for TOTAL WAR V: CHAMBERS OF DEATH! This will have
+  Slusher's version of 99 WAYS TO DIE by MEGADETH!   !!! COMING SOON !!!
+=========================================================================
+
+Thank you once again!
+
+Resident Expert of Leominster          TODAY'S MORAL: If you built a
+                                       roof for your new house, but there
+                                       is no house or foundation, you
+ So THAT'S the meaning of life! -----> might have overlooked something.
+ -REoL
+                                       (Comment from Fiffy's proofer:
+                                         That makes me feel all warm 
+                                         and squishy.)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Watch 'Animaniacs' sometime--you'll see what we mean.

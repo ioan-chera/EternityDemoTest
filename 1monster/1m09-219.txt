@@ -1,0 +1,20 @@
+Pwad:      ftp://mancubus.net/pub/idgames/levels/doom2/megawads/1monster.zip
+           (or replace "mancubus.net" with your idgames/ mirror of choice)
+Pwad name: 1 Monster Megawad
+Map:      09 - Chamber of Souls				
+Skill:     4
+Category:  UV-Speed
+Exe:       Prboom plus 2.4.8.2 (test) -complevel 9
+
+Kills: 0% (???)
+Items: ?
+Secrets: 100%
+
+Time:      2:19
+Author:    justanotherfool
+
+Comments:  
+Not much to say. This level is atmospheric, but hordes of lost souls aren't a whole lot of fun. Also it looks like it isn't possible to get 100% kills here, so my demo is actually a very slow speedrun. I don't like the level enough to want to improve it just now, but I think it's clear that I had forgotten where I was supposed to be going at the start of the map (on account of not spending any time getting to know the level).
+   Also took my time finding the BFG. I was amused to see that it was right in front of me several times, but I failed to notice it.
+
+justanotherfool

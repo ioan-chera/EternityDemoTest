@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+Opulent Homepage
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      1fortres.wad
+Map:       01
+Category:  UV Max Demo
+Exe:       Original Doom2.exe
+
+Time:      2:02
+
+Credits:   No one but Mike Toliver. Thank you for your demos, Mike.
+
+Author:    Albert Valls
+Adress:    vrmr@wanadoo.es
+HP:	   http://www.newdoom.com/cyberdreams/
+

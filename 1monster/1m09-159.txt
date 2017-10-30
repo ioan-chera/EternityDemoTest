@@ -1,0 +1,23 @@
+Game: Doom 2
+Pwad: 1 Monster
+Filename: 1m09-159.lmp
+Skill and Style: 4 (UV-Speed)
+Map Level: 9 (Chamber of Souls)
+Exe/Port used: GLBoom 2.4.8.1 (PRBoom Plus) -complevel 9
+
+Totals:
+Kills           0%
+Items        42%
+Secrets    100% and (Time- 1:59)
+
+Comments: 
+I haven't recorded much as of late (Addiction, thy name is Cabal Online).  Was having a looksee around the Misc Demos thread and saw a recent string of 1 monster demos.  Quick downloaded it, picked out map 9, and did a quick UV-Speed of it.
+
+Nothing to really say about speeding this level, just try to dodge around the Lost Souls as you hit switches and grab keys.
+
+Final room...after triggering a large amount of souls to start teleporting in, look for the BFG to help keep the number down until the exit lowers.
+
+All in all, pretty good run considering I was shooting for under 2 minutes.  Didn't take long, only around 15-20 minutes.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

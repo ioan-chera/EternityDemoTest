@@ -1,0 +1,79 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://youfailit.net/pub/idgames/levels/doom/0-9/1fiffy.zip
+Pwad name: REoL TOUGH: Hell on earth [by George Fiffy]
+Maps:      E1M1
+Skill:     4
+Category:  Speed / Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      1:09 (UV speed)
+           3:29 (UV max)
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+Ah... George Fiffy, also known as King REoL.  He's quite likely the most
+notorious figure in the Doom community.  He's gotten himself banned from
+Doomworld and Newdoom multiple times, and he even butted heads with
+SomethingAwful a few years ago, all because he's a serious egomaniac.  According
+to Doom Underground, this was very apparent on his former homepage (fragged by
+the recent shutdown of AOL's site-hosting service,) featuring numerous rambling
+essays, where he, /with a completely straight face,/ called himself "the
+Metallica of DooM."  A few months ago, he returned to Doomworld... and in the
+last few days, he's posted some rather lame threads, including several created
+to demonize the current President of the United States (violating Godwin's Law
+in the process,) and fellow countrymen who hold beliefs traditionally described
+in America as "liberal," in an over-the-top and misinformed manner.  In other
+words, not only is he an egomaniac, he's a walking stereotype of American
+conservatism.  That's not what we're going to discuss here, though.  What we're
+going to discuss is his first level, and the demos I recorded on it, inspired
+by those stupid threads.
+
+His first level, to put it lightly, is awful.  No attempt has been made to
+ensure that the textures are aligned correctly; most of the level is drab and
+perfectly flat; and most of all, there's way, /way/ too much ammo.  Not only is
+every last ammo item in this level a box, but there are a few rooms set aside
+specifically for stuffing to the brim with ammo boxes, along with three separate
+backpacks in regularly accessible areas (with two of them in close proximity to
+each other.)  In short, if you play your cards right, /you can never run out of
+ammo no matter how badly you do./  It gets even worse when you open the blue
+door to take on the first cyberdemon... and you find that the room is
+practically /flooded/ with cell packs and rocket boxes.  Along with a plasma
+gun, a BFG, two supercharges, and /two invincibility spheres./  Seriously, how
+horribly do you have to suck at Doom to need /that/ much to take on a lone
+cyberdemon!?
+
+Of course, that's if you find the blue key in the first place.  You might not
+find it at all unless you cheat with the automap or a level editor; it's behind
+a secret door set behind a hollow fence with nothing to hint toward the fence
+being hollow in the first place.  Speaking of secret, only 50% Secrets is
+possible on this map, which Fiffy actually mentions in his text file, after
+which he goes on to say he can't figure out why this is so.  This is because
+two of the four secret flags are placed on sectors which are not used in the
+level, which points directly to his level editor failing to properly delete
+them.  He doesn't mention what editor he used, so I'm left wondering if it was
+DEU or some other level editor of the time period.
+
+Overall, this is a pitiful mess that can be completed far too easily, despite
+the text file's statements to the contrary.  There's a remake of this level by
+Steve Robinson from 2000 (1FIFRMX.WAD) which turns it into something awesome,
+but that will have to wait for later.  For now, have these two UV demos.  In
+the max demo, I open almost every door in the room before moving on in order to
+get some infighting going and save rockets.  My first completion time today was
+4:52, before I tried that in another run, inspired by an idgames/ review comment
+by Coldfusio, and got 3:39.  I played this level before, but it was quite some
+time ago, and it took a bit of time to remember and improve upon the max route I
+devised when I first played it.  When recording started, I got 3:50 (!) before
+my next successful exit got me 3:29.  As for the UV speed demo, you don't need
+the blue key to win the level, but using it is the fastest way to get from the
+yellow key to its door.  My first exit in this discipline was 1:15, before I got
+1:09 in the demo.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- June 6, 2009 -

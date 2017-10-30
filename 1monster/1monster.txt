@@ -1,0 +1,127 @@
+===========================================================================
+Advanced engine needed  : Boom
+Primary purpose         : Single-player
+===========================================================================
+Title                   : 1 Monster Megawad
+Filename                : 1monster.wad
+Release date            : October 24, 2007
+Author                  : Various
+Email Address           : apocsoft01@yahoo.co.uk
+Other Files By Author   : A few bits.
+Misc. Author Info	: 15 Doom mappers, new and old
+
+Description             : In the spirit of 1024 Congestion and 10Sector, 25 new maps from
+                          the Doomworld community, each limited to only one monster type.
+
+Additional Credits to   : Textures from Blood, Hexen, Heretic, Eternal Doom, Gothic DM.  Textures ripped by Afterglow <http://www.doomworld.com/afterglow/>
+===========================================================================
+* What is included *
+
+New levels              : 25
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : No
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MAP01-MAP24 + MAP31
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts and multiplayer items, but untested
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 22 months
+Editor(s) used          : DoomBuilder, WinTex, XWE, E.M.U.S, WADAuthor, SLADE
+Known Bugs              : None
+May Not Run With        : Vanilla Doom
+Tested With             : PrBoom and ZDoom
+
+Map# Monster          Map Name                    Author
+-----------------------------------------------------------------------
+01 - Zombie         - Trooper Trauma            - deldelda and Macro11_1
+02 - Imp            - Hangar of Evil            - Torn                     edited by Ryathaen
+03 - Sergeant       - Sergeant Center           - sausage                  edited by daimon
+04 - Imp            - Imptech Rampage           - alterworldruler          edited by Ichor
+05 - Demon          - Infested                  - Liberation and Macro11_1 
+06 - Imp            - Claws of the Imp          - impClaw                  edited by Ryathaen
+07 - Arachnotron    - Arachnophobia             - sausage                  edited by Ryathaen
+08 - Sergeant       - Buckshot Waltz            - Ryathaen
+09 - Lost Soul      - Chamber of Souls          - Ryathaen
+10 - Pain Elemental - Un-named118               - sausage                  edited by Ichor
+11 - Spectre        - Mausoleum                 - daimon                   edited by Ichor
+12 - Baron          - Baron Citadel             - sausage                  edited by daimon and Ryathaen
+13 - Chaingunner    - Workin' on the Chain Gang - dutch devil              edited by Ichor
+14 - Arch-Vile      - The Crucified Factory     - daimon                   edited by Ryathaen
+15 - Spectre        - Spook House               - sausage and Ichor
+16 - Mancubus       - Mancublood                - daimon                   edited by Macro11_1 and Ryathaen
+17 - Chaingunner    - Zumma                     - Macro11_1                edited by Ryathaen
+18 - Hell Knight    - Knightmire                - Lutarez
+19 - Cacodemon      - Cacophony                 - Ichor
+20 - Revenant       - Bony Encounter            - Kristian Aro
+21 - Cyberdemon     - Cyberswat                 - Paul Corfiatis
+22 - Spiderdemon    - Triad of the Minds        - Ryathaen
+23 - Arch-Vile      - Musical Bar-B-Que         - Jodwin                   edited by Ryathaen
+24 - Icon of Sin    - The One God               - Ichor
+31 - Nazi           - Castle Dorkenstein        - dutch devil              edited by Ichor
+
+The 1monster Team
+-----------------
+Original Concept
+    Dr. Zin
+
+Project Leader
+    Liberation
+
+Editors/Testers
+    daimon
+    Ichor
+    Macro11_1
+    Ryathaen
+    sausage
+
+Graphic Artists
+    Ichor
+    sausage
+
+Mappers
+    alterworldruler
+    daimon
+    deldelda
+    dutch devil
+    Ichor
+    impClaw
+    Jodwin
+    Kristian Aro
+    Liberation
+    Lutarez
+    Macro11_1
+    Paul Corfiatis
+    Ryathaen
+    sausage
+    Torn
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors

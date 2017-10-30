@@ -1,0 +1,106 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://cd.textfiles.com/nightowl/nogames3/005a/1fifwar.zip
+Pwad name: REoL TOUGH: The Total War package [by George Fiffy]
+Maps:      E1M1-2, E1M8
+Skill:     4
+Category:  Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      [see chart below]
+
+[ Legend: ]
+* = speed demo is also pacifist
+@ = not 100% Kills (see comments)
+$ = not 100% Secrets (see comments)
+
+E#M# | Spd  | Max  | Notes
+-----+------+------+-------
+E1M1 | 0:04 | 1:43 | *
+E1M2 | 0:52 | 8:26 | $
+E1M8 | 1:31 | 5:45 | @
+-----+------+------+-------
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+More Fiffy action.  My next level to record on after FIFFY2.WAD was going to be
+FIFFY3.WAD, until I noticed that its description directly referred to Total War
+II, which is not available on the idgames archive.  One search through a
+shovelware disc archive later, I ended up finding 1FIFWAR.ZIP on the Night Owl
+Games 3 disc.  I would have downloaded it from George Fiffy's personal website,
+but it's been dead and buried since AOL shut down its site-hosting service in
+October 2008.  Anyway, FIFFYWAR.WAD contains three different levels, and I
+recorded separate demos for each one.  Here are my comments on the levels.
+
+E1M1: TOTAL WAR -
+I was wrong; FIFFY.WAD wasn't George Fiffy's first level, it was /this/ one.
+It's a round pool in which you fight a small army that includes a Cyberdemon
+and a Spiderdemon, with an exit switch that can be flipped in a matter of
+seconds.  This is actually a "remake" of the level, in which, among other
+things, George added some secret rooms behind (as usual) totally unmarked
+doors.  Apparently, the original didn't even have an exit!  If you want a tough
+level, look elsewhere; as in his other levels, there's far too much ammo for the
+34 monsters to be a threat.  At least he admits the level is bad.
+
+The speed demo is a first exit, while the max demo was preceded by a 2:06 run.
+
+E1M2: TOTAL WAR II -
+The sequel is markedly different from the original.  Whereas the first had just
+34 monsters, Total War II has hundreds of them.  The first few are packed into
+a small room, and there are enough of them to overload Doom's visible sprites
+limit, causing many of them to flicker in and out of existence.  You start the
+level with a Fiffian stockpile of ammo nearby -- which, hilariously, is /also/
+enough to overload the sprite limit.  After the first area is a door labeled
+"WAR," beyond of which is the "Total War" described in the title.  Unlike what
+George tells you, this is /not/ "THE WORLD'S TOUGHEST DOOM LEVEL."  It /might/
+have been at some point in time, but it's nothing compared to Hell Revealed II.
+The only possibly tough parts are the secrets; as Fiffy admits in the text file,
+none of them are marked.  Still, he could have at least tried to mark them
+somehow, 'cause finding them is an annoying Wolfenstein-style wall-humping
+affair.  Speaking of which, only 83% Secrets is possible, as Fiffy also admits,
+once again due to improperly deleted sectors.
+
+Oh, yeah, and there's also the issue that the monster teleporters into the blue
+key room are /slow./  This is because the teleporters themselves are 64×64
+teleport pads in rooms which are 200 units wide on a Y axis.  This is especially
+boneheaded when the monsters who are to be teleported include hellspawn who are
+60 map units wide (i.e. demons and spectres.)  As I result, I end up having to
+check that room multiple times during the max demo just to see if any more
+monsters have warped in.  Annoying, isn't it?
+
+The speed demo and max demo were preceded by 1:03 and 8:46 demos, respectively.
+Highlights of the max demo include a group of completely worthless monsters on a
+thin pathway, and cyberdemons that don't appear until after I've killed them,
+even though there are no other monsters or items on the screen.
+
+E1M8: Revenge Of the big suckers! [sic] -
+And here, we have the likely reason this WAD isn't on idgames: The third level
+is an edit of E1M8.  Because there are four more barons on the level besides
+the ones you fight normally, the lowering of the wall around the star is instead
+triggered through a switch, which makes me wonder why he left it on E1M8 when he
+could've just moved it to E1M3 and left it at that.  The original exit is now
+brightly lit, has a switch you must flip, and can be escaped, after which you
+must run into some new areas built into the level.  You don't get any more
+rockets after the first of these areas until you reach the last part of the
+level, so you'll need to take on the cacodemons with your (berserked) fists,
+chaingun and shotgun after you run out.
+
+Like the original level, this version ends within a dark room in which you lose
+health and "die."  It also provides the reason the max demo ends with only 99%
+Kills: If you pass through the middle of the room, a cyberdemon is released on
+you, and as far as I can tell, there's no way to kill him apart from cheating.
+Even if you take the hidden invincibility nearby, its power will run out before
+you can kill him with the ammo you have left.  This is why I knock myself down
+to low health before exiting the level.  Overall, I'm left wondering why Fiffy
+didn't just make the third level an original one.
+
+Both demos are first exits.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- July 10, 2009 -

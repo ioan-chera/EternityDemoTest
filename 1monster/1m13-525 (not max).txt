@@ -1,0 +1,21 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/1monster.zip
+           (Or mirrors...)
+Pwad name: 1 Monster Megawad
+Maps:      13 - Workin' on the Chain Gang
+Skill:     4
+Category:  None
+Exe:       Recorded with prboom-plus-2.4.8.2.test with -complevel 9
+
+Stats:     (Kills   100%)
+           Items    ??%
+           (Secrets 66%) 
+
+           Time = 5:25 
+
+Comments:  
+Argh, for some reason I only got 66% of secrets here. I'm pretty sure I visited all the secret areas though? I assume it had to have been the slime river secret, mustn't have triggered the secret sector. I'll try again shortly, but I can't be bothered at the moment.
+   Apart from that problem the demo is relatively sound. The time is reasonable, I think. Dangerous map. If you're too hasty, you can very easily get killed. Great fun, though.
+     
+   
+
+Author: justanotherfool    

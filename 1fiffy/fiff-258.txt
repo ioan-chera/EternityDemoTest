@@ -1,0 +1,15 @@
+          Fiffy.wad
+  Wad Author: George Fiffy?
+----------------------------
+         fiff-258.lmp
+
+UV-Max in 2:58
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 3
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Weird how most of the Fiffy wads have speedruns on the DSDA except for this one, which seems like it might be the first (or one of the first), based on the name being just "Fiffy". This one's on D!Zone 1, and it has no text file, so no official author is credited, although I assume it's George Fiffy, since the level has his name and is structured similarly to his levels; it features huge crowds of monsters. Texturing and architecture are pretty poor, though gameplay-wise this level is almost fun, but it's ruined by one major flaw: the ammo and power-ups. There is absolutely no need to include a BFG, except for the cyberdemons, and no need for an invulnerability sphere except for the cyberdemon in the rectangular hallway that might be difficult to kill otherwise (the invulnerability could be hidden in a secret somewhere close by). And there's certainly no need for this much ammo; when I first played this level, I had no idea there was this much ammo, so I got through the red key rooms and to the exit cyberdemon with just a shotgun, chaingun, and infighting, and it was challenging and fun. This run is just spamming the BFG because there's next to no ammo pressure and two invulnerabilities, so it's fairly repetitive. I was going for sub-3:00; although it's still improvable, the run mostly went well.
+The secrets count at the end seems to be flawed as well; Doom Builder shows only two secret sectors in the map, and only two are visible on the map in PrBoom+, but PrBoom+ shows 2/4 secrets in the HUD and 50% secret count at the intermission screen. Not sure why that might be the case.

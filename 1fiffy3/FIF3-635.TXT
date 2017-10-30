@@ -1,0 +1,70 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://youfailit.net/pub/idgames/levels/doom/0-9/1fiffy3.zip
+Pwad name: REoL TOUGH: The Under Arms 5-star hotel [by George Fiffy]
+Maps:      E2M1
+Skill:     4
+Category:  Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      6:35
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+More Fiffy action, this time in an infernal... uh, hotel.  As if to telegraph
+that this is a George Fiffy level, you start on a road with four shotguns,
+four backpacks, and thirty shell boxes.  Oh, dear.  If you're being careful,
+taking out all the monsters on the first floor, including the two barons in
+the elevators, is ridiculously easy, albeit tedious, with all the ammo you
+have.  Take an elevator up, and you get shell boxes and medikits strewn about
+the floor.  Oh, and then you find it's not as "5-star" as you'd think it'd be.
+Why else would there be so many people packed into small rooms with one bed,
+one closet, no bathrooms, and no television?
+
+Anyway, if you don't want to go to the pool, you can exit the hotel through
+the southwest door -- and land on an invincibility sphere in the process.  Very
+Fiffian.  If you grab the berserk pack near the pool beforehand, you can punch
+out two barons in the lobby, and take out the one in the kitchen before the
+invincibility wears off.  Speaking of the kitchen, if you're not careful, you
+can fall between the fridge and the staircase, and there's no way to escape
+without cheating.  "Playtesting?  Durr, what's that?"
+
+And then, there's the exit.  It's located near the aforementioned invincibility
+sphere, but to open it, you have to trip four totally unmarked tripwires hidden
+throughout the level.  They're located in the middle of the staircase connecting
+the second floor and the lobby, the doorway at the bottom of the staircase to
+the pool, the eastern edge of the pool, and the southern edge of the platform
+southeast of the pool.  Triggering it would usually involve jumping off the
+platform, but you can set it off without doing so, letting you enter the pool
+area if you wanted to.  Either way, George, were you honestly unable to think of
+anything else?
+
+Oh, yeah, I shouldn't end this description without mentioning the secret area.
+It's located in an incredibly deep hole and suffers from having one of the
+slowest elevators ever; it takes about 40 seconds for the damn thing to lower
+and rise.  I'm serious.  Why George Fiffy thought this would be a good idea, I
+don't know.  All I know is that it wastes precious time if you're doing a max
+demo.  What the hell, man... :(
+
+Overall, this level aims to be difficult and fun, but falls short of both.  It
+also fails to be a very convincing hotel -- not that it would've been possible
+in 1994, in any case, given the available textures and the quality of the tools
+you could use to edit Doom at the time.  It's a noble effort, but the effort
+was fruitless.
+
+In any case, this is my first recorded exit, beating Maikl's demo by four
+minutes and thirty-three seconds.  Previous unrecorded exits were 9:16, 7:52,
+and 7:09.  My goal was to break 7:00, and because I succeeded by such a huge
+margin (25 seconds,) I'm satisfied with this demo, although I wish my final
+fights with the barons could've ended faster.  Making up for it, however, is
+that at one point, I exploit the "get stuck inside of a door" bug to slay a
+baron quickly.  It's rather amusing, if you ask me. ;)
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- July 12, 2009 -

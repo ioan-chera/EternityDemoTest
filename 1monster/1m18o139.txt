@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+** This is a tool-assisted Doom .lmp! **
+
+PWAD: 1monster.wad
+PWAD Name: 1 Monster Megawad
+Map: 18
+Skill: UV (-nomonsters)
+Category: Speed
+Exe: prboom-plus 2.5.1.4 (-complevel 9)
+
+Time: 1:39.23	
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+HP: http://www.youtube.com/channel/UCDTi_RRMEduPf5hp7aXS8Nw
+VK: http://vk.com/v3855
+
+Comments: 1:38 might be possible but I'm lazy.

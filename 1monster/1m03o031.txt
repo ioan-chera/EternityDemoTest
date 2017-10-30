@@ -1,0 +1,15 @@
+         1 Monster Megawad
+      Map 03: Sergeant Center
+        Map Author: sausage
+------------------------------------
+           1m03o031.lmp
+
+Nomo in 0:31.63
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Not much more to improve. Don't think 30 is likely without TAS.

@@ -1,0 +1,15 @@
+         1 Monster Megawad
+     Map 22: Triad of the Minds
+       Map Author: Ryathaen
+------------------------------------
+           1m22o009.lmp
+
+Nomo in 0:09.94
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Demo needs to be close to perfect for 9, and it's fairly hard.

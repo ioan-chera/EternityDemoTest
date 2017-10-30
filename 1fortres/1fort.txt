@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+Pwad:      1fortres.wad
+Pwad name: 1fortres.wad
+Maps:      01
+Skill:     4
+Category:  Max 
+Exe:       Doom2.exe, v1.9
+Time:      3:04
+Author:    Mike Toliver
+Email:     miketol@mtco.com or miketol@eureka.ed
+HP:	   http://notyet :)
+Comments:  Well, pretty ugly map but short.  Hardly anybody to kill...  

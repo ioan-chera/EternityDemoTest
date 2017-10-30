@@ -1,0 +1,15 @@
+         1 Monster Megawad
+       Map 01: Trooper Trauma
+ Map Author: deldelda and Macro11_1
+------------------------------------
+           1m01o011.lmp
+
+Nomo in 0:11.89
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 9
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Hard to get a fast switch shot at the end. I don't think 10 is possible without TAS (although there are a few speed boosts possible on doors in this level).

@@ -1,0 +1,75 @@
+================================================================
+Title                   : Descent into the Depths of Chaos #1   
+Filename                : #1CHAOS.WAD
+Author                  : The Chaos Brothers
+                          David Montgomery & Jim Milner
+Email Address           : KosBro@aol.com
+Misc. Author Info       : We wrote a couple of articles for "Dungeon"
+                          magazine for TSR inc. on "D&D".  Which used 
+                          to be a cool game, but now has fallen to 
+                          spoonfeeding pre-pubescent boys fantasies, 
+                          and corporate money-grubbing mediocrity. 
+                          
+                          But now there is DOOM!  And it is GOOD.
+                          Look for more to feed your DOOMLUST to come 
+                          from The Chaos Brothers!!!!!!!
+
+                          Send us comments to KosBro@aol.com
+
+                          KILL THEM ALL, AND LET GOD SORT THEM OUT!!!
+
+Description             : This is an outside Pwad, and is intended 
+                          as the opening level to our remake of the 
+                          "Shores of Hell" episode.
+                           
+                          Having survived "Knee Deep in the Dead"
+                          You find yourself in a strange, maze-like
+                          structure that is open to the sky.  You 
+                          Know that you have discovered the lair of
+                          Acerjak, a former human who bartered his 
+                          soul (along with the human race) to the 
+                          hellspawn of Demons.
+                          
+Additional Credits to   : ID software, DEU 5.2 & BSP 1.0
+                          We couldn't have done it without you.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1  
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (lots of rocket launchers)
+Difficulty Settings     : Yes (Ultra-Violent for MAX fun!)
+New Sounds              : Not yet
+New Graphics            : Not yet
+New Music               : Not yet
+Demos Replaced          : None yet
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2, DEU5.2gcc, BSP 1.0
+Known Bugs              : none as built
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+The Authors accept no responsibility for any damage and/or problems
+resulting from this file, or playing DOOM, etc.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: America On-line

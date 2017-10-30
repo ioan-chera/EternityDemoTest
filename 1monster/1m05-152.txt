@@ -1,0 +1,94 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      ftp://mancubus.net/pub/idgames/levels/doom2/megawads/1monster.zip
+           (or replace "mancubus.net" with your idgames/ mirror of choice)
+Pwad name: 1 Monster Megawad
+Maps:      05 ("Infested" by Liberation and Macro11_1)
+Skill:     4
+Category:  Speed
+Exe:       Boom 2.02
+
+Time:      1:52
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+
+Comments:  
+1 Monster is a megawad released in October 2007 with maps that revolve around a
+specific theme: They all have one monster only.  Developed in a single thread
+on Doomworld over the span of 22 months, it was intended to be 32 maps, but in
+the end, they settled for 25.  I haven't played through the whole thing yet, but
+the first five maps (the ones I /did/ play) seemed pretty nice.  Early demo
+activity on this wad, however, was rather dry.  A max demo on MAP18 by Kristian
+Ronge (where has he been, anyway,) a max demo on MAP02 by evocalvin, a Tyson
+demo on MAP06 by Gusta... and that was it.  Lately, however, a poster named
+"justanotherfool" (no way!) did an improved max demo on MAP02, as well as max
+demos for MAP01 and MAP04.  After that, the latter two received improved demos
+by, of all people, /Death-Destiny,/ who I knew more as a level designer than a
+speedrunner.  Kind of like how Never Again knew me more as a speedrunner than a
+level designer, until he found out I did some maps in Community Chest 3.  This
+recent demo activity inspired me to go back to this WAD and do a demo on it.  I
+decided to do a UV speed demo on MAP05, the only map in the WAD with pinkies.
+
+Much to my chagrin, the early parts of this level rely on luck, as you don't have
+anything that can flatten a bull emon in one hit until you get to the first
+outdoor section, and therefore have to fit through small spaces to get around
+them.  Just before you get to that part, you find a passage containing a berserk
+pack.  When you run in to grab it, you're lowered to a group of Demons, who you
+then must punch out.  However, as seen in this demo, it's possible to skip this
+sequence entirely while still getting the pack, although it requires both
+strafe50, and a bit of luck so that the two pinkies around you don't block you.
+Once you're out of there, luck is no longer involved!  You get the super shotgun,
+and now you're set to plow through any Demons in your way without worry.
+
+As you approach the next switch, there are supposed to be a bunch of pinkies
+pouring into the area from conveyor belts... except that all but one group of
+them are blocked from coming in on account of the barrels placed just below the
+openings, for id Software did not program proper Z-clipping for actors.  This
+is undoubtedly the result of the mappers testing this map in ZDoom, where all
+actors have proper Z-clipping, but neglecting to test it in other ports.  I
+pointed out this design flaw in the 1 Monster thread when I found it in the
+public beta that was available, but apparently, they never got around to fixing
+it.  At least it gives me the leisure of gathering shells!  The bug isn't so
+noticeable in this demo, but if you're playing this demo in a port with walkcam,
+you can see this for yourself by watching the openings here while in walkcam
+mode.
+
+Once you enter the next teleport, you will be placed near a room with a switch
+and the red keycard.  Shortly after you fully step into the room, demons will
+teleport in and surround you.  If you're quick enough at hitting the switch and
+getting the key, however, you can exit the room while the pinkies teleport behind
+you, thereby preventing them from blocking you.  All's well up to when you enter
+the red cavern.  I blast the barrels from a safe distance with the super shotgun
+just before grabbing the berserk pack, and then punch out the next few demons to
+reach the next switch.  I proceed to plow down everything in my way with a super
+shotgun, up till I exit the cave.
+
+Once I'm in the final building, I dodge pigs, hit a switch, dodge pigs again, and
+exit.  However, if you played this level before watching this demo, you may
+notice something's rather off.  Specifically, no enemies teleport in the entire
+time, while normally, you'd have to fight off a massive army of pinkies with the
+assistance of a few crushers.  Why is this?  Because the mass teleport that
+brings them in will /only/ happen if you fire a shot at any time past the three
+metal bars.  Go pacifist for this part of the level, and you'll just have a few
+demons to evade.  Also, because all of those barrels are arranged close together
+in a neat line, and the exit is east, you can do a thingrun over to the exit
+room.  Neat, huh?
+
+My first recorded time on this was 2:25.  About half an hour later, I got 2:02.
+Then I got 2:00 seven minutes afterward, and got it /again/ three minutes after
+/that./  Then I took a breather, got 1:56 after fourteen minutes, and started
+writing this text file.  About two hours in, I decided to have another go... and
+managed to get 1:52 in a demo that looks nice to me.  Cool!  Hopefully, someone
+will do a UV max demo on this level -- that is, if I don't do it!
+
+Prior to recording Doom demos, I did some usermap speedruns for Duke Nukem 3D.
+Video versions can be seen on my YouTube channel at
+http://youtube.com/profile?user=TheGreenHerring, and I hope to have a
+"Speedruns" section up on my website in the near future.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- May 28, 2008 -

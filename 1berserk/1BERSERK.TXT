@@ -1,0 +1,38 @@
+Title                   : 1Berserk.wad
+Author                  : Dave Green
+Email Address           : dgreen@cml.com
+
+Description             : The usual.....blah..blah..blah
+
+			  
+Additional Credits to   : Author of DCK34.  Doom Forever!!!!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1 M1 (registered version of Doom only)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : Yes (ultra-violent is a fun challenge for the experts)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 3 hours ( 1st Wad )
+Editor(s) used          : DCK34  Beutiful 2 use 
+Known Bugs              : None 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, as long as
+credit is given.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

@@ -1,0 +1,14 @@
+          Fiffy.wad
+  Wad Author: George Fiffy?
+----------------------------
+         fiff-024.lmp
+
+UV-Speed in 0:24
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 3
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: The way the level's structured, as this run shows, all you need is the yellow key. Hardest part in this run is getting past the spectres at the yellow key quickly; in this run, it goes very smoothly. Still improvable, but 0:24 is a good time compared to what I usually get (0:27-0:29s)

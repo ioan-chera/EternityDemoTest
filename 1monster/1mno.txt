@@ -1,0 +1,214 @@
+WAD: 1monster
+MAP: MAP02-MAP21, MAP23, MAP31
+Time: Various (See below)
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: (See below)
+
+I decided to try 1monster again.. 0monster style upon seeing other players'
+runs deleted from the table for accidental constant SR50 use. Also, this
+great WAD (my favorite) could use some better nomonsters runs, so here we
+go! 
+
+MAP01 and MAP22 were left out because they contain nomonsters demos that I
+could not beat. MAP24 was left out because nomonsters is essentially the
+same thing as UV-Speed, and it already has some nice demos there.
+
+Comments are below.
+
+MAP	MAP TITLE			TIME		TIME SAVED FROM LAST PACK
+
+MAP02 (Hangar of Evil):			0:38.94			-0:06
+Recorded on: October 29, 2013
+Comments: Not bad, perhaps with better running this could get to 37 or 36,
+but I doubt I can run it under 38.
+
+MAP03 (Sergeant Center):		0:32.89			-0:05
+Recorded on: October 29, 2013
+Comments: I got a lot of low 34's when I first started recording this,
+then after about 10 minutes of getting 34.1x and 34.0x, I suddenly got a
+33.14. Fortunately 32 came 3 tries later. :)
+
+MAP04 (Imptech Rampage):		1:19.97			-0:13
+Recorded on: October 29, 2013
+Comments: Even for me, a keyboarder, this map is surprisingly fun to run
+without monsters, despite its linearity and long, narrow hallways. I guess
+the layout sort of reminds me of tnt, my favorite IWAD. I set my target
+time to 1:25 before starting, but I got 1:24 on my second try, so I had to
+go lower. This attempt is bumpy.. I thought I would redo it since it'd be
+a low 1:20, but it turns out it was 1:19.97 and I was happy, so I'm keeping
+this demo.
+
+MAP05 (Infested):			1:22.43			-0:20
+Recorded on: October 31, 2013
+Comments: This map is rather annoying. The jump at the start works about
+half the time thanks to SR50, so failing a lot in the first 10 seconds is
+not fun. After that, it usually goes pretty well until the underground
+rock area with the barrels. That is, unless you don't mess up on hitting
+one of the tiny switches. You would not believe how easy it is to miss
+a barrel unless you speedran this yourself. About 25% (1 in 4) of my 
+attempts that lasted long ended here, either missing a barrel or dying
+because I did not get out of the way in time. From there, it's easy to
+get caught on things in narrow hallways, so at times my demos were just
+too sloppy to be accepted around the BK area. After grabbing the BK, you
+must backtrack (not as annoying but still kinda) and go to the blue bars.
+About half my attempts that lasted that long failed there because I would
+not be angled properly and lose time trying to open the bars while being
+in a proper angle. I know in this demo, I lost about half or 3/4 of a second
+getting caught on a barrel in the end, but screw it, I'm done here. 1:22
+is plenty good for me, especially after having spent an hour on this map.
+Two good things I can say about this map are that it's very nicely designed,
+appealing to the eye, and that it's rather fun for tyson play. Overall it's
+just annoying when going for a general speedrun.
+
+MAP06 (Claws of the Imp):		1:19.51			-0:14	
+Recorded on: November 4, 2013
+Comments: The best demo I got after a few attempts. I'm not particularly
+fond of this map in any mode; imo 02 and 04 are the better imp maps and
+more fun on nomonsters, too. This map is not overall bad, though, rather
+it's not exactly my style.
+
+MAP07 (Arachnophobia):			0:55.63			-0:01		
+Recorded on: November 4, 2013
+Comments: PLAYS BACK WITH 1monster_bugfix.wad!
+	This map is home to arachnotrons, my least favorite monster, so it's
+nice to play it without them. Not my favorite map, but a good one nonethe-
+less. Also it's nice to see a MAP07 with a possible exit in nomonsters.
+Took me ~20 minutes just for this improvement, so I'll stop here.
+
+MAP08 (Buckshot Waltz):			1:17.86			-0:01		
+Recorded on: November 5, 2013
+Comments: It wasn't as hard as I thought to beat my old time. It only took
+~40 minutes. Barrel trick gave me some trouble a lot of times so I had to
+restart from there a lot. Other times, I was just too sloppy, which also
+slowed me down. Here, it went excellent from just before the YK area all
+the way to the last room. Last room is a little sloppy since I got excited
+seeing that walkover-activated door open at 1:05. Fortunately it's a high
+1:17 still. 1:16 would take quite a bit more work for me, but I think it's
+highly possible.
+
+MAP09 (Chamber of Souls):		1:39.54			-0:18
+Recorded on: November 5, 2013
+Comments: After getting 1:50 as a first exit, I immediately set my target
+time to sub 1:40. Took ~15 minutes, so this was a pretty easy one.
+
+MAP10 (Un-Named 118):			2:03.89			-0:05		
+Recorded on: November 5, 2013
+Comments: 2:00 seems a bit out of reach, unfortunately (unless you're
+Looper). I got this in like 10 minutes but I doubt I can really improve
+it a full second.
+
+MAP11 (Mausoleum):			1:57.46			-0:08
+Recorded on: November 24, 2013
+Comments: After taking a break from this due to school keeping me busy, I
+decided to start recording again since I'm on vacation. I got this in 5
+tries. :P What a blast! I never knew under 2 minutes would be this easy!
+
+MAP12 (Baron Citadel):			0:54.94			-0:02
+Recorded on: November 25, 2013
+Comments: Not as hard as I initially thought to do this, even though many
+times I screwed up at the start or ended with 55. Comparably, this was
+about half as hard as av09o029 was for me. Now it's finally under 55! :)
+Hopefully I've wrested this from Light_Speed for the last time, because
+I won't have much fun if I have to go for 52! Good job with your 55, bro.
+Took a bit for me to beat it. ;)
+
+MAP13 (Workin' on the Chain Gang):	1:03.80			-0:09	
+Recorded on: November 25, 2013
+Comments: Nice, easy, relaxing one after running Baron Citadel. 10 minute
+work, but I'm stopping here since I like the demo. Still has a couple
+minor mistakes, though. Anybody for under 1 minute?
+
+MAP14 (Crucified Factory):		0:43.71			-0:04
+Recorded on: November 25, 2013
+Comments: A fairly meh-type demo demonstrating the elevator trick. It'd be
+cool if somebody found a way to jump on that ledge outside via the crates
+from the RSK area and shortcut over to the penultimate area. Unfortunately,
+I've tried a bit and it seems impossible without tools; just not enough
+space in the RSK area to get a good SR jump going.
+
+MAP15 (Spook House - normal exit):	1:37.29			-0:06
+Recorded on: November 26, 2013
+Comments: It's only 29 hundredths of a second but mehhhhh I don't want to
+do it again now. :P
+
+MAP15s (Spook House - secret exit):	1:29.86			-0:06
+Recorded on: November 26, 2013
+Comments: Recorded a 1:31 before this, but my initial target was under
+1:30. Only took ~20 minutes to meet it, but I'm happy.
+
+MAP16 (Mancublood):			2:16.77			-0:38
+Recorded on: November 30, 2013
+Comments: One of the demos which is much better than the first one I made
+because it's much less sloppy. This demo still has a few sloppy bits, but
+I don't know what to say except that they're inevitable in a map this long.
+BTW at the end when I turned the wrong way after coming up that long, dark
+stairway, I didn't lose time because I still had to wait for the bridge to
+the exit to rise.
+
+MAP17 (Zumma):				2:39.77			-2:42
+Recorded on: November 30, 2013
+Comments: My time saved is longer than the time of this demo lolol. Shows
+how sloppy I was back then and how much I really didn't give a crap how my
+demos turned out. Ironically, you don't need the blue key, even though there
+is a "blue switch" for entering the last area. Time can be cut if you use
+odysseyofnoises' (Light_Speed's) glide trick, but I thought meh, I don't
+want to waste a lot of time doing that nonTAS for a general, unexciting 
+demo. For that matter, if you want to see an actual GOOD run of this map,
+I highly recommend watching Light_Speed's UV-Speed in 1:51.
+
+MAP18 (Knightmare):			1:48.97			-0:22
+Recorded on: November 30, 2013
+Comments: Looks pretty good and I'm quite happy to have a .97 at the end of
+the time. :) Nice map, but it's just way too easy to skip linedefs that you
+need to trigger (that's why I walked slowly up the stairs at the last tele-
+porter). Also near the beginning a few hanging decoration items are blocking,
+where realistically you could walk underneath them, which can make a few
+attempts go screwy if you get stuck on seemingly nothing. Very nice design
+and level flow for the map.
+
+MAP19 (Cacophony):			3:22.74			-0:02
+Recorded on: December 1, 2013
+Comments: Not bad, run is fairly smooth with still a few wallbumps. Makes
+me think optimum without discovering a better route is mid 3:1x. Fortunately
+this isn't .09 like my 3:24 demo was!
+
+MAP20 (Bony Encounter):			1:55.83			-0:51
+Recorded on: December 1, 2013
+Comments: Glad I easily got this under 2 minutes. Improvements can still be
+made, but it's much better than my old demo. One of my favorite PCorf maps
+since it doesn't seem to consist of all rectangle-shaped architecture, and
+that it has a nice, open layout.
+
+MAP21 (Cyberswat):			1:07.89			-0:11
+Recorded on: December 1, 2013
+Comments: Just a general reduction in sloppiness saved some time, along
+with a quicker jump to that switch which lowers the BSK. Another cool PCorf
+map; the RSK room reminds me of the blue switch room from the previous map.
+Anybody for under a minute here?
+
+MAP23 (Musical BBQ):			1:42.63			-0:00
+							     (NO PREVIOUS)
+Recorded on: December 1, 2013
+Comments: Cool map, route is pretty straightforward and there's a trick in
+the second room with an elevator (after the blue door). It's pretty difficult
+to get both switches pressed after lowering the elevator and not having the
+elevator rise again before you can make it onto it. That's why I pressed
+one of the switches before sending the elevator down. I fumbled at the first
+switch for about a second and a half, which is about average. I got lucky
+with the second switch by pressing it immediately. What killed most of my
+attempts here was not getting the second switch pressed before the elevator
+went back up. I probably spent about 30-40 minutes here, so the run is so-so.
+
+MAP31 (Castle Dorkenstein):		0:17.89			-0:01
+Recorded on: December 1, 2013
+Comments: I think an unexpected (but nice) boost from a red pillar at the
+beginning and better running in general got me down to 17. Cool map, nice
+detailed version of a Wolfenstein-style map.
+
+TOTAL:			THIS PACK:	33:53	   TIME SAVED:	6:45
+
+I hope you enjoy this pack, which is better than my previous demos, many
+of which were crappy!
+
+--Doomdaniel95

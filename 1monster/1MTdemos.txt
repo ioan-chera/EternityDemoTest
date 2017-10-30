@@ -1,0 +1,41 @@
+
+set of 10 uv max demos for 1 monster
+****************************************************
+*                                   *
+*                                    *                           
+*  - UV Max   category                       *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.6(-Complevel 9) *
+****************************************************
+
+1monster.wad and 1 monsterbugfix.wad(when needed)
+
+****************
+* Kills:  100% *
+* Items:  ??
+* Secret: 100% * 
+****************          ====
+Map 1:      1:12
+2:          2:57
+3:          1:52
+7:          2:27
+8:          3:03
+10:         4:25
+11:         7:25 
+12:         5:42
+14:         3:53
+18:         4:30
+******************************************************************************************************************
+
+Comments:i got 2 weeek vacation so this is the outcome,first i plan to do whole wad demo pack
+but some maps are too long and complex,:(
+all route credits to daiyu,justanotherfool,kristian,evo(a new talent guess), Javier  and other runners who made demos
+for these maps....
+
+
+
+******************************************************************************************************************
+
+
+
+

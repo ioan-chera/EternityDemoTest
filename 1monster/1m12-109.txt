@@ -1,0 +1,22 @@
+1m12-109.txt
+1m12-109.rar
+
+1m12-109.lmp - UV-Speed
+
+Recorded using  GLBoom-Plus Version 2.5.1.1
+ GLBoom-Plus -playdemo & -complevel 9 with Version 2.5.1.1
+
+1Monster - Map12 - Baron Citadel
+
+03-06-2011
+
+**********************
+Kills      5%
+Items      50%
+Secrets    0%
+
+Time       1:09
+********************** 
+
+Author: Mate "Relic" Crncevic
+E-mail: mate.crncevic@gmail.com

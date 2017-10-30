@@ -1,0 +1,79 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://youfailit.net/pub/idgames/levels/doom/0-9/1fiffy2.zip
+Pwad name: REoL TOUGH: Satan's Castle [by George Fiffy]
+Maps:      E3M1
+Skill:     4
+Category:  Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      5:30
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+More Fiffy action.  This time, it's on his second level, and it's in the text
+file for this one that his ego becomes truly apparent.  Right at the start, he
+claims that this map is, "THE BEST AND TOUGHEST LEVEL YOU'LL PROBABLY EVER
+PLAY," and then goes on state that, "If you make it through this '30 minute'
+stage (refering how long it takes to play the ENTIRE level, secrets and all),
+IT'S A MIRACLE YOU DID!"  30 minutes?  Even Maikl, who usually went at a
+leisurely pace when recording his demos, beat this level in about twelve!  Right
+after this, regarding par times, he suggests attempting to finish the level in
+ten minutes.  "Sounds easy to do, doesn't it? IT'S NOT! TRUST ME! IT'S
+IMPOSSIBLE!"  Guess what, REoL?  My first completion time, with 100% Kills and
+Secrets, was 7 minutes and 35 seconds.  What do you say to /that?/
+
+So, anyway, this level is a noticeable improvement over FIFFY.WAD.  At the very
+least, Fiffy has actually kind of grasped height variation... but not 
+completely.  Progressing through the level requires you to climb and descend
+two different staircases, but most of the level is still rather flat.  There's
+a lot of ammo, but not to the same ridiculous extent as FIFFY.WAD... at first.
+Then you get to the end of the level, where you get a buttload of rockets, and
+there's a shack set aside dedicated to being stuffed with loads of ammo boxes...
+including eight cell packs, even though you can't get an energy weapon until you
+reach the secret exit.  Oh, yeah, and four berserk packs, a supercharge and an
+invincibility sphere.  Seriously.  You don't even /need/ all of that when you
+can get the cyberdemon and spiderdemon to fight each other, à la Doom II MAP20.
+
+The text file also claims that this is a castle, but there's a brief interlude
+in STARTAN rooms with wooden doors for whatever reason.  Also, all the
+teleporters placed in this level have misaligned textures, which Fiffy points
+out in the text file, after which he says he can't understand why.  Psst...
+George, this is why you use a grid when designing your levels.  Oh, and when he
+says that you "can possibly run through [his] last name," he's not kidding.
+Find some hidden switches, and you get to run through a series of marble
+hallways built in the shape of his surname!  I'm guessing his ego is the result
+of a superiority complex brought on by kids laughing at him in school because of
+how silly his name is.  Quite frankly, I don't see any way you can have a name
+like "George Fiffy" and expect to be taken seriously.
+
+Oh, yeah, I also mentioned a secret exit.  The end of the Fiffy sequence is
+where it's located, at one tip of the "y."  On the other tip is a switch which
+unlocks access to both the plasma gun and the BFG, which seems rather pointless
+when you're at the end of the level, unless you want to nuke the monsters in
+E3M9 or something.  Or unless you upset the balance of it all by grabbing the
+BFG through the wall, which is what I do in this demo.  You'll need strafe50 to
+pull it off.  It takes me a few tries before I successfully do it, but it lets
+me clear the rest of the area faster than if I just used the rocket launcher.
+
+As mentioned above, my first unrecorded exit was 7:35, achieved eight days ago.
+Subsequent exit times were 7:24 and 6:46, followed by a 6:39 time I achieved
+today.  When I started recording shortly afterward, I didn't expect to get any
+time faster than six minutes, and was pleasantly surprised when I managed 5:42.
+I finally achieved 5:30 after a disappointing 5:50 demo.  A word of warning
+before you improve on my time, should you decide to do so: When you enter the
+teleporter leading into the Fiffy area, you should do so slowly.  The secret
+sector at that spot is so thin that you can fail to trigger it if you run over
+it too fast.  I was nonplussed when I got a 5:55 exit just before my 5:42 demo,
+only to see "SECRET 83%" on the stat screen.
+
+In any case, enjoy.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- June 14, 2009 -

@@ -1,0 +1,52 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://cd.textfiles.com/nightowl/nogames3/005a/1fifwar2.zip
+Pwad name: REoL TOUGH: TOTAL WAR III: Land of Weirdness [by George Fiffy]
+Maps:      E3M7
+Skill:     4
+Category:  Max
+Exe:       Doom.exe v1.9 (Ultimate Doom)
+
+Time:      9:10
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+It's been a while since I've demoed anything by George Fiffy, hasn't it?
+
+Another entry in the "Total War" series -- which isn't on idgames/ for whatever
+reason -- this is Fiffy's shot at very odd design.  The results are apparent:
+You start the level in front of a door surrounded by invisible walls.  There's
+a room with Hall of Mirrors effect windows on each side.  At least one of the
+doors has the sky for a ceiling texture.  Accessing one of the secrets requires
+you to press on one side of a door's frame, and another requires you to press
+the back of a staircase.  Oh, and don't be fooled by the room full of rockets;
+there's nothing on the level to fire them with.  Since this is a Total War map,
+though, you still get enough enemies to overload Doom's visible sprites limit,
+and, as is usual for a George Fiffy map, a frankly absurd amount of ammo even
+for the number of monsters around.  While it is a bit weird, it's not as weird
+as some other levels released around the same time or later -- like, say,
+DARKHELL.WAD, or, even better, The Sky May Be.  Outside of its weirdness, the
+construction is still rather amateurish (there are still misaligned teleport
+pads, for example,) and the level is nothing remarkable apart from having a Hell
+Revealed-level monster count three years before Hell Revealed did it
+competently.
+
+Rather fittingly so, the route I use in this max demo takes advantage of the
+fact that you can jump between the alcoves in the final room to time-optimizing
+effect.  I know the level is strange, but I'm certain this was /not/ what George
+Fiffy had in mind. ;) Because there's no rocket launcher, and you don't get the
+plasma gun and BFG until much later, you end up having to use the shotgun and
+chaingun for most of the map.  Also, after you've cleared everyone out in
+certain areas, you still have to check for wandering monsters -- including in
+the last secret area I visit.  The exit time I got before this one was 9:38; it
+may be possible to get under 9:00, but I don't feel like having to check all
+over the map for monsters any longer -- at least for now.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- October 31, 2009 -

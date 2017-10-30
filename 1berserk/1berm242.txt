@@ -1,0 +1,18 @@
+This is a   Doomed Speed Demos Archive entry
+
+author:     Mike Toliver <miketol@mtco.com>
+
+game:       1berserk.wad, Ultimate DOOM version 1.9
+            
+category:   Max
+
+level:      E1M1
+            
+
+stats:      Kills     100%
+            Items      83%
+            Secrets     0%   and Time   2:42
+
+comments:   Although the text file contends this would be challenging on UV,
+            it's really not.  It is kinda fun, and it's quick.
+
