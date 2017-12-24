@@ -2,6 +2,8 @@
 import multiprocessing
 import os
 import subprocess
+import sys
+import time
 from joblib import Parallel, delayed
 
 # 0. Get data from .data
@@ -53,7 +55,23 @@ for item in items:
 # now we have the commands list. print it
 cpu_count = multiprocessing.cpu_count()
 
-Parallel(n_jobs=cpu_count)(delayed(subprocess.call)(a) for a in commands_list)
+print 'Testing', len(commands_list), 'demos.'
+
+black_hole = open(os.devnull, 'w')
+
+def call_eternity(a):
+    subprocess.call(a, stdout=black_hole)
+    sys.stdout.write('.')
+    sys.stdout.flush()
+    
+time_start = time.time()
+
+Parallel(n_jobs=cpu_count)(delayed(call_eternity)(a) for a in commands_list)
+
+time_end = time.time()
+time_elapsed = time_end - time_start
+
+print 'Elapsed time:', time_elapsed, '; average per demo: ', time_elapsed / len(commands_list)
 
 filelist = [ os.path.join('temp-logs', f) for f in os.listdir("temp-logs") if f.endswith(".txt") ]
 
