@@ -35,6 +35,7 @@
 2 1monster -file 1monster/1monster.wad
 2 1monster/bugfix -file 1monster/1monster_bugfix.wad
 2 av_old -file av_old/AV.WAD
+2 av_old/solonet -file av_old/AV.WAD -solo-net
 2 av_new -file av_new/AV.WAD -deh av_new/AV.DEH
 2 av_new/solonet -file av_new/AV.WAD -deh av_new/AV.DEH -solo-net
 2 av_new/spechit -file av_new/AV.WAD -deh av_new/AV.DEH -spechit 0x01C09C98
