@@ -1,0 +1,14 @@
+Pwad: av.wad  
+Pwad name: Alien Vendetta
+Map:      27
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      17:25
+
+-complevel 2
+
+Author:	   j4rio
+ 
+
+Could have been better.

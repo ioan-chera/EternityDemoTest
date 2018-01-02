@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      av.wad
+Pwad name: Alien Vendetta (2nd release)
+Map:       32
+Skill:     4
+Category:  UV-Fast
+Exe:       prboom-plus-2.5.1.3 -complevel 2
+Time:      5:51
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  

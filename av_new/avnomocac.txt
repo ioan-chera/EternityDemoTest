@@ -1,0 +1,42 @@
+WAD:      AV.wad (Alien Vendetta)
+Map:       Every map except 07 (includes secret exits)
+Category:  No Monsters
+IWAD:      Doom2.wad
+Engine:       prboom+2.5.1.3
+Author:	  Cacatou
+
+Comments: 
+
+MAP01 (Sunset): 00:27.80
+MAP02 (Rusty Rage): 00:17.94
+MAP03 (Cargo Depot): 00:14.74
+MAP04 (Seclusion): 01:02.83
+MAP05 (Crimson Tide): 00:40.51
+MAP06 (Hillside Siege): 01:10.26
+MAP08 (Beast Island): 01:01.54
+MAP09 (Castle Gardens): 00:30.83
+MAP10 (Toxic Touch): 01:41.46
+MAP11 (Nemesis): 00:42.46
+MAP12 (Entropy): 00:56.08
+MAP13 (Suicidal Tendencies): 01:19.17
+MAP14 (Overwhelming Odds): 02:04.11
+MAP15 (Bulls on Parade): 02:19.89
+MAP15s (Bulls on Parade): 01:42.43
+MAP16 (Mutual Destruction): 01:14.31
+MAP17 (Nukefall): 00:28.77
+MAP18 (Lake Poison): 01:29.11
+MAP19 (Alien Resurrection): 02:14.37
+MAP20 (Misri Halek): 01:24.43
+MAP21 (One Flew Over the Caco's Nest): 00:31.91
+MAP22 (Rubicon): 00:49.80
+MAP23 (Blood Sacrifice): 01:23.14
+MAP24 (Clandestine Complex): 00:59.17
+MAP25 (Demonic Hordes): 00:57.66
+MAP26 (Dark Dome): 01:39.20
+MAP27 (Stench of Evil): 02:12.51
+MAP28 (Whispering Shadows): 02:18.63
+MAP29 (Fire Walk With Me): 01:18.66
+MAP30 (Point Dreadful): 01:01.26
+MAP31 (Killer Colours): 02:37.89
+MAP31s (Killer Colours): 02:33.51
+MAP32 (No Guts No Glory): 00:29.69

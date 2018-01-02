@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+af161146.TXT
+
+ af161146.ZIP
+
+  af161146.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 16 – UV Fast
+
+I didn't do this for a long time because of the luck involved. The first part is based on that, due to demons which can bite you during the killing of the shotgun guys. The soulsphere room was also pretty luck-based because of demons again and the imps always throwing fireballs at you. The room with 6 cybers is also luck-based because you have to maneuver them so that you don't get hit by them while shooting. Everything else is pretty simple.
+
+Author: Revved

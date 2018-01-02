@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV25-113.TXT
+
+ AV25-113.ZIP
+
+  AV25-113.LMP - Ultra-Violence Speedrun
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 25 - Demonic Hordes
+
+  Kills      5%
+  Items     20%
+  Secrets    0%
+
+                  ********
+  ... and Time -  * 1:13 *
+                  ********
+
+
+  Description:
+
+  I just wanted to finally show this trick. I did it firstly about a year ago because
+  I thought it's known. Method said that it isn't and made some runs using the trick
+  from which the fastest one was in 1:08 I think. Pity that he lost the demo and never
+  uploaded, it should be more worth watching than this one. This demo is not so fast
+  (ecspecially at start and in tunnel it didn't go so well) but I decided to upload it
+  because it demonstrates both glides done very smoothly, that never happened to me 
+  while recording even in nomonsters.
+  So 1:05 should be reachable with a very good running.
+
+  
+  Adolf "Gusta" Vojta
+  hita@seznam.cz

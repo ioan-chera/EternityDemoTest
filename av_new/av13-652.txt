@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV13-652.TXT
+
+ AV13-652.ZIP
+
+  AV13-652.LMP - speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 13
+
+  Kills     ??%
+  (Items    ??%)          *********
+  Secrets   ??%  and Time *  6:52 *
+                          *********
+                          
+
+  Description :-)
+  
+  A table filler demo.  This is a typical map where you can
+  hardly save much time by doing a speedrun, so 2 minutes faster
+  than max is reasonable here I think.
+
+  Xit Vono
+  Xit_vono@yahoo.com

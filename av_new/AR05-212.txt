@@ -1,0 +1,46 @@
+This is a DooM .LMP "COMPET-N/AV*/" Entry - Please forward it...
+
+AR05-212.ZIP
+
+ AR05-212.LMP
+
+  AR05-212.TXT -Ultra-Violence -Respawn
+
+  Recorded using "DooM 2 v1.9 - Alien Vendetta*" ! (Complevel 2)
+  DooM2 -file av.wad -PlayDemo with Version 1.9
+  *=(2nd Release)
+
+  Alien Vendetta* - Level 5 - Crimson Tide by Anders Johnsen
+
+  Kills: 100 / 96 (104%)
+  Items:   5 / 20 (25%)            ********
+  Secrets: 1 / 1  (100%) and Time  * 2:12 *
+                                   ********
+  C-N entry #45.	Date: 02.03.2012
+
+  Description :)
+  Shit demo, I got a 2:05 with 98% kills and a 1:59 with 96%
+  (or was it 97%?) kills.
+
+  This is just crap. Great map though, Anders always makes the best maps.
+  First AV entry by the way.
+  								
+  								
+  By the way, COMPET-N record was 2:14 by Jakub Razak, timestamped:
+  Sunday, September 07, 2003, 5:33:14 PM
+
+  Complete Historic COMPET-N Leaderboard:
+  AR05-254 - Casey Alvis      - 28.05.2003
+  AR05-238 - Jochen Schneidau - 29.05.2003
+  AR05-227 - Jochen Schneidau - 05.09.2003
+  AR05-214 - Jakub Razak      - 07.09.2003
+  
+  
+  Note: Since this demo was recorded with AV.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/84/av_new.zip
+        and pick it up if you havn't already :) 
+ 
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

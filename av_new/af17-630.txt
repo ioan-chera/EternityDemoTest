@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AF17-630.TXT
+
+ AF17-630.ZIP
+
+  AF17-630.LMP - Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 17 - Nukefall
+
+  Kills   100%           
+  (Items   ??%)          
+  Secrets 100%  and Time = 06:30 
+                          
+
+  Description: In ways this might even be easier on -fast. The start is,
+               certainly, though you need to be more careful later on.
+               Luck plays a big part in determining the time, I had a
+               previous run dying at the Archies at 5:05. Used some
+               ideas from Anders' excellent nightmare run, so thanks to
+               him.
+  
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

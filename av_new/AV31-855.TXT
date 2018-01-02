@@ -1,0 +1,27 @@
+This is an Alien Vendetta demo.
+
+AV31-855.TXT
+
+ AV31-855.ZIP
+
+  AV31-855.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 31 - "Ooh Look At The Colours"
+
+   Kills: 	101%
+   Items:	 ??%
+   Secrets:  	100%
+
+   Time: 	8:55
+		----
+
+Description:	Fairly well optimized I think, except for one stupid fall
+		off the secret lift and the teleporting spiders didn't
+		cooperate.  I could probably get it under 8:45 but...naah.
+
+
+Author: Jason Henry
+E-mail:	space@neteze.com

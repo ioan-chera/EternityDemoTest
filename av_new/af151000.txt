@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AF151000.TXT
+
+ AF151000.ZIP
+
+  AF151000.LMP - Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 15 - Bulls on Parade
+
+  Kills   101%           
+  (Items   ??%)          
+  Secrets 100%  and Time = 10:00 
+                          
+
+  Description: Nice round number. The last arena is a little tricky with
+               -fast, you certainly want to take things slowly here...
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV06-454.TXT
+
+ AV06-454.ZIP
+
+  AV06-454.LMP - Ultra Violence Max!
+
+  Doom2 -file av.wad -playdemo with Version 1.9
+
+  Alien Vendetta - Level 06 - Hillside Siege
+    
+  Kills    102%
+  Items     79%           ********
+  Secrets  100%  and Time * 4:54 * 
+                          ********
+                          
+
+  Description: Fish wrote in his 6:02:
+               > Anders, I don't think you can get this under 6:00.
+               
+               Eat this, and oh reversed psychology is so cheap =P 
+               I've been ranting about how this map is driving me completely 
+               and untterly insane on irc alot. 
+               When I playtested this map prior to av releas I never played
+	       it the right way (in this case that woulda been following 
+	       a sensible compet-N route). Admittedly I've experienced
+               some really frustrating gameplay issues, the cyber teleporter
+               kill being the main one. I wonder if I was the one who asked
+               for it not to be a given frag, but it sure as hell shoulda
+               been. That alone woulda improved the fun of playing this level
+               alot. But its still a map that comes down to pure hair-pulling
+               luck in compet-n context because of all the infight scenario
+               that have to work out. In the end I started dropping aborting
+               when I should have, so the infights in this one are all
+	       mediorc at best, I don't even get the cyber on my first 
+	       teleport. So, in no way happy about this run compared to
+               the ammount of time and energy I invested in it, but as stx
+	       advised on IRC I'm just gonna settle with a decent looking
+	       one. Theres just too much infight luck for it to be worth
+	       more hours of work. Its a brilliant map if played casually
+	       and your not striving for some set time, and the design is
+	       stunning. But unlike av24 by the same two authors, it just 
+	       dosn't work well for "optimization". Route is basically Fish'
+	       with some modifications of my own. 
+               
+   
+               Anders Johnsen
+	       andersjohnsen@hotmail.com

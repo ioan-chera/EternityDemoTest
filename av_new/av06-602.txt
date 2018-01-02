@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV06-602.TXT
+
+ AV06-602.ZIP
+
+  AV06-602.LMP - Ultra Violence Max!
+
+  Doom2 -file av.wad -playdemo with Version 1.9
+
+  Alien Vendetta - Level 06 - Hillside Siege
+    
+  Kills    102%
+  Items      x%           ********
+  Secrets  100%  and Time * 6:02 * 
+                          ********
+                          
+
+  Description: Anders, I don't think you can get this under 6:00.
+    
+
+Author:      Anthony Soto
+E-mail:	     neworderdatabase@hotmail.com 
+WWW:	     http://thefish.8m.com/

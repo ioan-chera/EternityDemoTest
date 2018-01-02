@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AP32-106.TXT
+
+ AP32-106.ZIP
+
+  AP32-106.LMP - Pacifist!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 32
+
+  Kills     ?%           
+  (Items    ?%)          *********
+  Secrets   ?%  and Time * 01:06 *
+                          *********
+                          
+
+  Description :
+  
+
+  First exit after a LOT of tries :)
+The map is very fun to play, but, quoting Anders : "I can imagine the luck required to bypass some areas here". I was very lucky here, the beginning goes perfect ( health-wise that is ), and then everytime I get stuck I manage to work smthg out, often with the help of a cybbie :p
+ It could go much faster, but it's too hard to really optimize the run, for me that is :p
+
+  Selim "Bastard" Benabdelkhalek
+  wmrselim@yahoo.fr

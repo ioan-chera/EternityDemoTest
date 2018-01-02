@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      av.wad
+Pwad name: Alien Vendetta
+Maps:      01
+Skill:     4
+Category:  UV-Max 
+Exe:       prboom-plus 2.5.1.3 -complevel 2
+
+Time:      1:04
+
+Author:    veovis 
+
+Comments:  slopped up the movement in a few spots, 1:03 is definitely possible

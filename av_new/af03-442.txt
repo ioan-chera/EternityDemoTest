@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AF03-442.TXT
+
+ AF03-442.ZIP
+
+  AF03-442.LMP - Ultra Violence Max with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 03 - Cargo Depot
+    
+  Kills    100%
+  (Items    88%)          *********
+  Secrets  100%  and Time * 04:42 *
+                          *********
+                          
+
+  Description:
+
+  [Compet-N entry #96]
+
+  Easy beatable.
+  
+  Jakub "DooMerMan" Machata
+  DMrM@seznam.cz

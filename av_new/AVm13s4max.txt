@@ -1,0 +1,17 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      AV.wad and AVMOVFIX.wad
+Pwad name:      Alien Vendetta
+Map:      13
+Skill:      4
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.9
+
+Time:      14:xx
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+Lucky one, I never thought cyber would cooperate this way, two shots
+is pretty good.

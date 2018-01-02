@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV15-623.TXT
+
+ AV15-623.ZIP
+
+  AV15-623.LMP - Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 15 - Bulls on Parade
+
+  Kills   101%           
+  (Items    ?%)          
+  Secrets 100%  and Time = 06:23 
+                          
+
+  Description: Nothing special here, when I teleported back into
+               the central area and there was just one revenant alive
+               I knew it'd be a good time, so the pressure was off from
+               there. Last part went so-so, too many wasted cells.
+
+               Aaaand the blue key bit from the last demo? Just your
+               everday brain explosion :)
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

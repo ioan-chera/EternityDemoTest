@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV04-221.TXT
+
+ AV04-221.ZIP
+
+  AV04-221.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 04 - Seclusion
+    
+  Kills      52%
+  (Items     97%)          ********
+  Secrets    75%  and Time * 2:21 * 
+                           ********
+                          
+
+  Description:
+
+  My first UV SPEED in this map was for 2:37,
+  but I deleted this lmp by mistake. :(
+  
+  When going to exit I mostly use Plasmagun.
+  It´s possible to play it also with the SSG,
+  but it happened several times that I died
+  while reloading.
+
+  The luck is very important in this run.
+      
+  Jakub "DooMerMan" Machata
+  kuba-m@seznam.cz

@@ -1,0 +1,72 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV08-204.TXT
+
+AV08-204.ZIP
+
+AV08-204.LMP - Ultra-Violence Speedrun
+AV08-ODD.LMP
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 08 - Beast Island
+
+Kills       35%
+Items        4%
+Secrets     22%
+
+              ********
+  and Time -  * 2:04 *
+              ********
+
+
+Description:
+
+In his 3:01, Jakub "method_man" Razek wrote:
+
+>>COOL MAP!!!!!!
+>>Time under 2:00 is possible.
+
+In my 2:27, I wrote:
+
+>>Weeeellll......I'm not so sure. If below 2:00 is possible here, then it'll be
+>>really close to an optimal time....
+
+Yeah, under 2 is possible ^_^ I'm sure I might hit 1:5x after another few days
+of work on this map, but I already spent 6 or 7 hours for a first exit here =P
+
+This is one of my personal favorite maps from Alien Vendetta...the only problem
+I have is with the start, because of the Demons. Dunno why, but 1 out of every
+5 or 6 tries, I wouldn't be facing straight ahead, so I would get blocked off
+when I would have to spin around to find where I was going. Kinda annoying after
+a while. --'
+
+Another trouble-spot for me was the first Hell Knight. 7 times out of 10 he'd
+block me and kill me. 2 out of those remaining 3, the Cacos would block getting
+away from the Hell Knight, and they'd eat me. >.< Then I had that damn Revenant
+to deal with, but I came up with a nice idea that would kill him quicker and
+also with a great success rate...use a rocket on him! =P A little risky with the
+Chaingunners firing all around, but it's easily achievable if you can hide and
+take down all (or at least 3) of the Shotgunners with the first rocket.
+
+That one Imp in the waterfall-cave....he likes to trap me and scratch and claw
+his way through my abdomen --' Got quite old after a while. He usually didn't
+kill me...but he'd lower my health just enough to complicate things for a bit.
+I also wish that the Arachnotron would've died on the first SSG shot. Oh well,
+other than that, I'm really happy with this demo ^^
+
+Oh yeah...there's also a way to go around that Pain Elemental...I did it once,
+but couldn't duplicate it afterwards.
+
+By the way, enjoy the little extra demo in here is quite humorous. Oh the
+possibilities of the No-Clip Bug! Muahaha ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+05.04.2003

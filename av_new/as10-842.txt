@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AS10-842.TXT
+
+ AS10-842.ZIP
+
+  AS10-842.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 10 - Toxic Touch
+
+  Kills     99%
+  (Items    29%)          ********
+  Secrets  100%  and Time * 8:42 *
+                          ********
+                          
+
+  Description :-)
+  
+  This was a little easier than I expected.
+  During practice with savegames I used
+  most of my rockets on the mancubus group
+  so which makes things harder for example
+  at the spot after the plasma gun and on
+  the revenant group. The ending can require
+  some luck if you have low health, as
+  it's hard to kill the spider without rushing
+  it with BFG.
+
+  Xit Vono
+  Xit_vono@yahoo.com

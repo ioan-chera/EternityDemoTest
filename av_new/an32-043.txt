@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AN32-043.TXT
+
+ AN32-043.ZIP
+
+  AN32-043.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 17
+
+  Kills     38%           
+  (Items    30%)          *********
+  Secrets  100%  and Time * 00:43 *
+                          *********
+                          
+
+  Description:
+  
+  Bloody shitty lmp.
+ 
+
+
+  Radek Pecka
+  r.master@email.cz

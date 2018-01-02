@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV08-710.TXT
+
+ AV08-710.ZIP
+
+  AV08-710.LMP - Ultra-Violence Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 08 - Beast Island
+
+  Kills      100%
+  Items       xx%
+  Secrets    100%
+
+              
+  and Time:  7:10 
+             ----
+
+  Hi Radek.
+
+  I wanted to do a maxer for this map on and off for the past few months. I even 
+  made a few half-hearted attempts the night before I saw your demo at incoming.
+  So I thought I was off again until I got a chance to see your 7:42. It was 
+  a sub-par demo coming from Mr. Pecka. Not sure if you were just filling blanks or 
+  having fun or what. I thought I'd step in again and with a few route tweaks this time
+  was not hard at all (if you can manage to exit which I sometimes struggle at). 
+
+  Plenty of room for improvement has been left. I exited with 224 cells and 3 rockets
+  (one I forgot to pick up). Since there is plenty of cells in the final castle area
+  I suggest unloading all cells in the waterfall cave before dropping down. Here's 
+  a tip for the narrow ledge: Teleport in, face left towards to ledge diagonally 45
+  degrees. Now jump, remain facing the wall in the direction you jumped and only
+  use the run mouse button. Usually when you try to strafe run or change directions
+  is when you fall off. Of course, clear the pathway first or you'll get blocked like
+  I did. 
+
+  Return the favor with a 30secs+ improvement, will ya? ;-)
+
+
+Author:      Anthony Soto
+E-mail:	     neworderdatabase@hotmail.com 
+WWW:	     http://thefish.8m.com/  

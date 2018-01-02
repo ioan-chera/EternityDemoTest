@@ -1,0 +1,10 @@
+av.wad
+chocolate-doom 1.3.0
+-maxdemo 666
+May 23, 2011
+
+map26 -fast 18:10
+
+Thanks to Revved for some of his strategies. Also thanks to natt for telling me about -maxdemo, so I could record a demo bigger than 128KB.
+
+by TimeOfDeath

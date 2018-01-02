@@ -1,0 +1,22 @@
+Pwad: AV.wad    
+Pwad name: Alien Vendetta
+Maps:      04
+Skill:     4
+Category:  UV Max (COOP) 
+Exe:       PRBoom+ v2.5.0.6
+
+Time:      6:29
+
+Author:	   Phml    
+Email:     Phml.ji@gmail.com
+
+Comments:  I like to make the first cybie infight stuff, but it didn't work so well in this run (had faster runs with unfortunate deaths near the end).
+
+Plays back with -solo-net parameter in PrBoom+.
+
+-complevel 2
+HUD used
+
+
+
+

@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+af32-818.TXT
+
+ af32-818.ZIP
+
+  af32-818.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 32 – UV Fast
+
+Finally, I got this beast finished. This is pretty much the same as the -fast run on the 1st release, albeit with a few changes to the route and safer. As such, the ending sucks, but it's going to be as is. Besides, it's not like anybody else is gonna try a faster route.
+
+Author: Revved

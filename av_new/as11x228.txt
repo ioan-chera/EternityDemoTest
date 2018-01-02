@@ -1,0 +1,26 @@
+This is a Tool-Assisted entry for the Doomed Speed Demos Archive
+http://doomedsda.us/wad84m211.html
+
+Recorded using PrBoom-Plus version 2.5.1.5 in compatibility level 2
+Done using slowmotion, permanent strafe 50 and -recordfromto
+
+Pwad:      AV.WAD
+Pwad name: Alien's Vendetta
+Maps:      11
+Skill:     5
+Category:  (TAS) 100 % Secrets
+
+Kills:     30%
+(Items:    15%)
+Secrets:   100%
+Time:      2:28
+
+Author:    Ser
+Email:     SerEzER1@GMail.com
+Date:      Saturday, April  8 2017 00:01:07 GMT -06:00:00
+
+Comments:  
+
+   This was easy, in the Alien's Vendetta standards, so in order to make it
+more interesting I put more speed and the result was a nice 2:28. Includes
+a rocket jump.

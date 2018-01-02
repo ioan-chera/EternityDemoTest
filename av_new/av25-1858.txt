@@ -1,0 +1,14 @@
+Pwad: av.wad  
+Pwad name: Alien Vendetta
+Map:      25
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      18:58
+
+-complevel 2
+
+Author:	   j4rio
+
+I did some supremely stupid stuff but I'm not
+replaying this.

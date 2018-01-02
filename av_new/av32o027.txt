@@ -1,0 +1,15 @@
+          Alien Vendetta
+     Map 32: No Guts No Glory
+    Map Author: Anders Johnsen
+----------------------------------
+          av32o027.lmp
+
+Nomo Speed in 0:27.86
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: This may be the hardest nomonsters demo I've ever recorded. 27 seconds not only requires a no-bump demo, but it requires good use of strafe50 (which is used in a large portion of this level) and virtually no movement issues. All the movements have to be as clean as possible, with close to no mouse shakiness. This gets particularly difficult to do at the two switches (fairly hard to hit both switches and perform the spin around to the narrow bridge quickly) and even more difficult at the lift switch. The placement of the switch is ridiculous in respect to the door; it's very difficult to run through the door and turn towards the switch and hit it because usually I either bump into the door or go straight through the room to the other wall and can't hit the switch as quickly as I do in this demo. The last run-through caused me trouble as well because it was hard to maintain strafe50 in that run without veering off-path towards the exit door. My best until this was a 28.11, though, so it was a pleasant surprise getting 27.86 with this demo, especially since some of the movement initially wasn't too clean.

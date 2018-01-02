@@ -1,0 +1,56 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+an23-042.txt
+
+an23-042.zip
+
+an23-042.lmp - Nightmare! Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 23 - Blood Sacrifice
+
+
+================
+Kills       11%
+Items       20%
+Secrets     20%
+----------------
+Time       0:42
+================
+
+
+Description:
+
+SAV88 showed me more aggressive tricks. He charged at an arch-vile 
+and 4 demons to do the shortcut quickly and passed through the side 
+of two cacodemons. Therefore, I tried this again. Although the charge 
+was usually blocked by demons, I avoided it very occasionally with 
+one shot of SSG and the vile's target changed to a chaingunner, so 
+I aimed to succeed in the shortcut by the second vile's attack. 
+However, this way was really hard. The vile's target didn't change 
+from a chaingunner easily, I didn't keep enough health to survive 
+the vile jump easily, and so on. Moreover, to pass through the side 
+of two cacodemons and to kill 3 imps with one shot of SSG weren't easy. 
+Therefore, a considerable luck was necessary. As a result, I got 44 
+seconds with smooth movement in hard parts, but the run overall was 
+not very smooth, then I tried to improve 1 or 2 seconds. After many 
+attempts, I got this run. I failed in killing 3 imps with one shot, but 
+I did the shortcut by the first vile's attack. Actually, I had done it 
+a few times during the attempts, though those run ended in failure.
+There is a bare possibility that it happened, so I didn't aim it.
+Well, below 40 sec is possible, but excessive luck is necessary. 
+I don't want to try it at least. 
+
+I also included 0:44 demo.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+9 - Jan - 2011   64th Comepet-N Entry

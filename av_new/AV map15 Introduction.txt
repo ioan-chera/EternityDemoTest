@@ -1,0 +1,39 @@
+Wad: Alien Vendetta
+Map: 15 - Bulls on Parade
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 8:00
+Time: 7:50
+Category: UV max
+
+****************
+* Kills:  104% *
+* Items:  100% *
+* Secret: 100% *
+****************
+
+******************************************************************************************************************
+
+As the name suggest, this map should have a lot of bulls(Demons). The bulls are on parade nicely packly together
+in pink main battleground.
+
+This map is not very hard, the only hard area is the pink main battleground, which there's lot of teleporting
+monsters and parading bulls. One of the fastest and safest way is to make infighting, which is by releasing all
+hidden monsters behind the wall out. Thanks to that blocked exit, it helps me preventing get killed by the spiders,
+but I got lots of damage there. Getting close and release the archvile isn't that easy, usually monsters,
+especially parading bulls will block your way. And yep, whether to deal that archvile well or not was the most
+important, since archvile attack have great damage.
+
+7:50 is OK, though professional doomers can finish it within 7 minutes. But to me, I am satisfied. As for the
+secret exit, it's just in the blue area with 2 soulsphere!
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 21/03/2011 in People's Republic of China

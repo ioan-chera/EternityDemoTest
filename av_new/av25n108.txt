@@ -1,0 +1,19 @@
+             Alien Vendetta
+         Map 25: Demonic Hordes
+Map Author: Vincent Catalaá and Sam Woodman
+-------------------------------------------
+              av25n108.lmp
+
+NM-Speed in 1:08
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: I thought this demo was garbage when I first made it, and I still do, but I guess it's a WR.

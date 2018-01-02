@@ -1,0 +1,25 @@
+This is a Doom .LMP "Competition" Entry
+
+ap23-037.txt
+ap23-037.zip
+
+ap23-037.lmp - Pacifist
+
+ Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 23 - Blood Sacrifice
+
+  Kills     0%           
+  (Items   20%)          *********
+  Secrets   0%  and Time * 00:37 *
+                         *********
+
+Description:-)
+
+  Followed Eugene Kapustin's UV run route.
+  I saw 2secs I could spare in this demo. 
+  I think I will try it later. :)
+
+Author: Kim "Torn" Bach
+E-mail: Tornthedark@hotmail.com

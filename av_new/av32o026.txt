@@ -1,0 +1,15 @@
+           Alien Vendetta
+       Map 32: No Guts No Glory
+     Map Author: Anders Johnsen
+-------------------------------------
+            av32o026.lmp
+
+Nomo in 0:26.91
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Wasn't particularly difficult to improve my old time here - better control of my movement and much better strafe50 helped a lot. Also had a lot less trouble with those two switches (the one on the lowering floor was annoying to press quickly anyway, though).

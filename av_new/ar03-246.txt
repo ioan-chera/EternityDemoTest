@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AR03-246.TXT
+
+AR03-246.ZIP
+
+AR03-246.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 03 - Cargo Depot
+
+Kills      106%
+Items       90%
+Secrets    100%
+
+              ********
+  and Time -  * 2:46 *
+              ********
+
+
+Description:
+
+Yep, this proves it. This map is funny for -respawn, because in my 2:56 I had
+exactly 100% kills, and this, being 10 seconds faster, has 106% kills... @.@
+Confuses me I tell ya...
+
+Fun map, great design, love it ^^
+
+This demo had a few screw-ups....the Chaingunner at the switch in particular,
+I kept missing him with the SSG. And the Imps at the Yellow Key were after me
+and I fire rockets at them and hurt myself....lessee....ah yes, exit with 2%
+health. You low-health-situation lovers will like that =P
+
+Other than that I guess this demo went pretty smooth ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+24.04.2003

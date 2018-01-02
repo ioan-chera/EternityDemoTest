@@ -1,0 +1,32 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      av.wad
+Pwad name: Alien Vendetta
+Maps:      01 through 10
+Skill:     4
+Category:  UV-Max 
+Exe:       prboom-plus 2.5.1.3
+
+Times:
+   MAP01 - 1:15
+   MAP02 - 2:17
+   MAP03 - 3:06
+   MAP04 - 5:08
+   MAP05 - 2:58
+   MAP06 - 7:00
+   MAP07 - 2:47
+   MAP08 - 8:09
+   MAP09 - 5:06
+   MAP10 - 8:18
+Total:     46:04
+
+Author:    veovis
+Twitter:   @cpxncpxn  
+
+Comments:  first exit, and first time submitting a demo. some of my
+strats are really bad. i think this was my second time ever doing
+map10 uv-max so not only was i pretty clueless the whole map but
+i was also playing it extremely safe. i'll definitely improve this
+but for now i'm probably going to move to ep2 in preparation of
+(hopefully) an eventual maxkills D2ALL of this wad.

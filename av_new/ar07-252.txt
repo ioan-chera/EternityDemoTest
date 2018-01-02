@@ -1,0 +1,17 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+ar07-252.TXT
+
+ ar07-252.ZIP
+
+  ar07-252.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 7 – UV Respawn
+
+Comments:
+Easier said than done. Everything up to the two switches is nothing difficult, if I have good control at the time. However, I kept screwing up that last rocket jump at the end which screwed up most of my attempts. It ended up being easier in PrBoom than in doom2.exe. Finally, I had an attempt which got that rocket jump. Chances are, had I not gotten those 3 hitscanners near the end, this run would only be seen through my own eyes.
+
+Author: Revved

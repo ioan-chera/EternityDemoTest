@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      AV.wad
+Pwad name: Alien Vendetta
+Maps:      MAP02
+Skill:     4
+Category:  Pacifist
+Exe:       Prboom+ 2.5.1.4.test -complevel 2
+
+Time:      1:41
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  At first I wanted to do this the quick way, without the soulsphere, but I just didn't have enough patience and went for the safer route after all.
+           In the exit room it is possible to get a zombieman to block that silver thingy. This time it didn't happen but luckily I had enough health to survive some hits.
+		   The yellow key grab is extremely difficult/random, possibly the hardest grab I've ever seen.
+		   I've also included my best attempt at the "quick route" in this archive.

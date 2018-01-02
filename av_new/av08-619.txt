@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV08-619.TXT
+
+ AV08-619.ZIP
+
+  AV08-619.LMP - Ultra-Violence Speedrun
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 08 - Beast Island
+
+  Kills      100%
+  Items       53%
+  Secrets    100%
+
+              
+  and Time:  6:19 
+             ----
+
+  Description:
+
+  Thanks for the route improvements Fish, and sorry for 
+  the delay.
+
+
+  Radek Pecka
+  r.master@email.cz
+  

@@ -1,0 +1,30 @@
+av02-023.txt
+  av02-023.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.6 with DooM2+ compatibility (-complevel 2)
+
+  Alien Vendetta - map 02 - Rusty Rage (by Anders Johnsen)
+
+  ================
+  Kills       25%
+  Items        0%
+  Secrets      0%
+  ----------------
+  Time       0:23
+  ================
+
+  Description:
+  I've been trying this route from time to time for a few months, whenever I felt zen
+  and calm and stuff... and I always ended up raging, seeing red (THE NAME?!!) This is
+  so about bullshit luck. Take just the first hallway, kill a sarge with the pistol and pass
+  with reasonable health is like a dice toss. Grabbing the YK, getting past the demon,
+  lucking out with the chainees on the RK, etc. Ugh, it just goes on and on, uncomfortably
+  reminding me of my torment on p204.
+
+  It's still very flawed, but I wanted 24 and I got less, so screw this level and screw
+  all the hitscanners along the way. I didn't even get the grab at first and I don't care.
+  I've included a TAS that shows how it SHOULD look if I got all the luck in the world.
+
+author: dew
+e-mail: dewww@seznam.cz
+23. 2. 2010

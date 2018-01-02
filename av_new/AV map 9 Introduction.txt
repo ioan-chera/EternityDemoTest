@@ -1,0 +1,36 @@
+Wad: Alien Vendetta
+Map: 9 - Castle Gardens 
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 6:00
+Time: 5:54
+Category: UV max
+
+****************
+* Kills:  100% *
+* Items:  86%  *
+* Secret: 100% *
+****************
+
+******************************************************************************************************************
+
+This map is relatively easy, but it is very dark, it take place inside a hellish castle garden. I don't like the
+beginning, 2 spectres are below damaging blood, I can't see them clearly, it easily takes damages!!! 
+
+There's one secret leads to a secret elevator to a soulsphere, and I don't really like that secret. The lowering 
+passage is so narrow and small, it really takes quite a lot of tries to drop down. I am lucky I only take 2 times 
+in this run, one lost soul have block the hole.
+
+The remaining playthough is also easy. However I poorly BFG the barons, which leds me take some damages and more
+SSG shots to kill all 3 of them. Other from this, I am satisfied.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 22/03/2011 in People's Republic of China

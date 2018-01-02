@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV16-522.TXT
+
+ AV16-522.ZIP
+
+  AV16-522.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 16 - Matual Destruction
+    
+  Kills      67%
+  (Items      7%)          ********
+  Secrets    50%  and Time * 5:22 * 
+                           ********
+                          
+
+  Description:
+
+  [Compet-N entry #110]
+
+  I found nice Archie-bug in this map > av16ouch.lmp
+  Please check it out :)
+      
+  Jakub "DooMerMan" Machata
+  DMrM@seznam.cz

@@ -1,0 +1,34 @@
+This is a Doom .LMP "Competition" Entry
+
+av261811.txt
+av261811.zip
+
+av261811.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 26 - Dark Dome
+
+=--------------=
+Kills      101%
+Items       85%
+Secrets    100%
+
+Time      18:11
+=--------------=
+
+C-N entry #155.
+
+This map remained unchanged from the
+first release, which is why my demos
+survived the transition.  Regardless,
+I wanted a less shaky run in its place
+with a few route enhancements here and
+there.  I learned from h232 to maximize
+cell usage here, so I hope you enjoy the
+BFG fest. :)
+
+Thanks again for a great map Andy!
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

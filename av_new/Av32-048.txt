@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV32-048.TXT
+
+ AV32-048.ZIP
+
+  AV32-048.LMP - Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 32
+
+  Kills     ?%           
+  (Items    ?%)          *********
+  Secrets   ?%  and Time * 00:48 *
+                          *********
+                          
+
+  Description :-)
+  
+  After a gazillion tries to improve this one I gave up. Some godawful running
+  (note how I manage to bump a wall in the blue key area, that's my sr50 "skillz"
+   showing through). Route is the same as in my nm run, just running around without
+  using any teleports.
+  
+ 
+  Erik Alm
+  erik_a80@hotmail.com

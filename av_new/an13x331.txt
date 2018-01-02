@@ -1,0 +1,26 @@
+This is a Tool-Assisted entry for the Doomed Speed Demos Archive
+http://doomedsda.us/wad84m213.html
+
+Recorded using PrBoom-Plus version 2.5.1.5 in compatibility level 2
+Done using slowmotion, permanent strafe 50 and -recordfromto
+
+Pwad:      AV.WAD
+Pwad name: Alien's Vendetta
+Maps:      13
+Skill:     5
+Category:  (TAS) Nightmare!
+
+Kills:     90%
+(Items:    31%)
+Secrets:   75%
+Time:      3:31
+
+Author:    Ser
+Email:     SerEzER1@GMail.com
+Date:      Monday, April  19 2017 22:20:29 GMT -06:00:00
+
+Comments:  
+
+    This was a bit hard. Basically, the strategy I use is: get the blue key,
+get the BFG, get the red key, get the yellow key and exit, but with a ton of
+monsters in every space. I exit with 37% in 3:31.

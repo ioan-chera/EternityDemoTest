@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV15-317.TXT
+
+ AV15-317.ZIP
+
+  AV15-317.LMP - Speed 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 15 - Bulls on Parade
+
+  Kills     ?%           
+  (Items    ?%)          
+  Secrets   ?%  and Time = 03:17 
+                          
+
+  Description: Wide areas, lots of health, not too many monsters. The biggest
+               delay comes just waiting for the last column to come down...
+
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

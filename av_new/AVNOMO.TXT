@@ -1,0 +1,50 @@
+WAD: AV
+MAPS: MAP01-MAP06, MAP08, MAP12-MAP19, MAP21-MAP22, MAP24-
+MAP29, MAP31-MAP32, MAP15s and MAP31s included.
+Time: Various
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Hi, these are nomo demos for Alien Vendetta. :)
+
+MAP01 (Sunset): 0:31
+MAP02 (Rusty Rage): 0:24 
+MAP03 (Cargo Depot): 0:57
+MAP04 (Seclusion): 1:14
+MAP05 (Crimson Tide): 1:10
+MAP06 (Hillside Siege): 1:21
+MAP08 (Beast Island): 1:30
+MAP12 (Entropy): 1:14?
+MAP13 (Suicidal Tendencies): 1:51
+MAP14 (Overwhelming Odds): 2:11
+MAP15 (Bulls on Parade): 2:41
+MAP15s (Bulls on Parade): 1:59 (Secret Exit)
+MAP16 (Mutual Destruction): 1:45
+MAP17 (Nukefall): 0:42
+MAP18 (Lake Poison): 1:45
+MAP19 (Alien Resurrection): 2:56
+MAP21 (One Flew over the Caco's Nest): 0:46
+MAP22 (Rubicon): 0:57
+MAP24 (Clandestine Complex): 3:13
+MAP25 (Demonic Hordes): 1:49
+MAP26 (Dark Dome): 2:22
+MAP27 (Stench of Evil): 2:39
+MAP28 (Whispering Shadows): 3:25
+MAP29 (Fire Walk with Me): 1:46
+MAP31 (Killer Colors): 3:21
+MAP31s (Killer Colors): 3:07
+MAP32 (No Guts No Glory): 0:40
+
+Now, I'm sorry for rusty playing, but I'm just not the best
+at AV, or lots of WADs with long maps that take much time to
+play nomo runs. I left some maps out because I felt that they
+were too long or didn't exactly appeal to me for speedrunning.
+I was going to include the famous MAP20, but somewhere along
+the way I forgot the red key, and got fed up. XD Please feel
+free to fill those tables and replace my slow records.
+
+Oh, and credit goes to stx-Vile  for his MAP27 trick! :)
+
+--Doomdaniel95
+
+

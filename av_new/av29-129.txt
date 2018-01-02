@@ -1,0 +1,30 @@
+This is a Doom .LMP "Competition" Entry
+
+av29-129.txt
+av29-129.zip
+
+av29-129.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 29 - Fire Walk With Me
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:29
+=--------------=
+
+C-N entry #180.
+
+This archvile jump + keygrab trick has finally
+been used, yay! (it's been known about since the
+first AV by AdamW and myself).  I only finished
+a reasonable run and stopped there, since the
+only delay is in waiting for the archie to get
+in position, otherwise it went fine. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

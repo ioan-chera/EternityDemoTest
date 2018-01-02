@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AT01-216.TXT
+
+ AT01-216.ZIP
+
+  AT01-216.LMP - UV Tyson
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 01 - "Sunset"
+
+  Kills: 	100%
+  Items:	100%
+  Secrets:  	100%
+
+    Time:	2:16
+		----
+
+
+  Description: 
+             
+  Table filling.
+
+  
+  Radek Pecka
+  r.master@email.cz

@@ -1,0 +1,17 @@
+Wad: Alien Vendetta
+Map: 12: Entropy
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 9:00
+Time: 8:38
+Category: UV max
+
+Entropy is a chemistry word seen in thermodynamics, it's the measure of energy not available for useful work in a 
+thermodynamic process. 
+
+This map is easy, the main hard area is the 2nd part, which have many teleporting monsters. It got a chance that 
+barons or hell knights may block you and dead, so make sure you get the BFG or plasma gun ready.
+
+After that part, the remaining part is quite easy, except that you have to be careful of the teleporting archvile.
+
+And yep, this map should be done below 10 minutes!

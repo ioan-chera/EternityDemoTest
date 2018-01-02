@@ -1,0 +1,51 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+av261154.txt
+
+av261154.zip
+
+av261154.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 26 - Dark Dome
+
+
+================
+Kills      100%
+Items       76%
+Secrets    100%
+----------------
+Time      11:54
+================
+
+
+Description:
+
+My thanks goes to TimeOfDeath, who is one of the specialists of 
+slaughter maps. I was going to play this map for AV playthrough 
+in youtube and I wanted to beat previous compet-N record (Vile's av261811). 
+Probably I could beat it on my own, but I couldn't get this record 
+without his impressive improvements. At first I practiced the same 
+route as he did. It was not too hard to get below 12:30, but my 
+record had made little progress after that and I felt that under 
+12min which was my target was very far. I reconsidered more efficient 
+way of collecting cells and use of invulnerabilities, and I tweaked 
+the route many times. Finally, I came up with this route. The battle 
+in the center area after I got the red key was very tricky for me. 
+Even if I was invulnerable, I was often pushed off the upper floor 
+by vile's attacks or cyber's missiles. In this run, very good 
+monster-infighting happened, though I did a poor mistake which was 
+a fall from the floor by my carelessness. Anyway, I managed to 
+achieve under 12min.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+6 - Sep - 2011   70th Comepet-N Entry

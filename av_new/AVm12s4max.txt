@@ -1,0 +1,18 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      AV.wad and AVMOVFIX.wad
+Pwad name:      Alien Vendetta
+Map:      12
+Skill:      04
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      11:39
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+Despite I didn't want to get in place where yellow key is, it was really
+easy, I'm definitely getting better in handling masses with BFG 9000
+but I'm still slow.

@@ -1,0 +1,41 @@
+This is a Doom .LMP "Competition" Entry
+
+av17-238.txt
+av17-238.zip
+
+av17-238.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 17 - Nukefall
+
+=--------------=
+Kills      100%
+Items       50%
+Secrets    100%
+
+Time       2:38
+=--------------=
+
+C-N entry #153.
+
+This level can be really tricky. This
+route needs luck to get back into the
+cyberdemon room and clean up with the BFG,
+but he's almost always near the stairs. 
+I had a 2:40 for the old version of AV that
+I thought I couldn't beat, so I'm rather
+satisfied with this run regardless of the
+little mistakes I made early on.
+
+Also, there's a little trick you can use
+to help speed runs here.  Of the two
+switches behind the red bars, hit only the
+northern-most one and you can squeeze
+between the bars at the end.  This doesn't
+help the max strategy though, since the BFG
+balls would get blocked (The BFG stacking
+strategy is more important for the end.)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

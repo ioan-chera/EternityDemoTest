@@ -1,0 +1,36 @@
+This is a Doom .LMP "Competition" Entry
+
+an24-300.txt
+an24-300.zip
+
+an24-300.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 24 - Clandestine Complex
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets     60%
+
+Time       3:00
+=--------------=
+
+C-N entry #159.
+
+A first exit which turned out ok.
+You'll see a few tricks in place
+here: the red door workaround at
+the start, the blue armor jump at
+the window (very useful) and the
+blue key grab to avoid letting out
+some mid-level monsters on your
+escape.  As always, I hope you
+enjoy this one. :)
+
+From the looks of it, a nm100s
+run might be possible as well!
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AP01-028.TXT
+
+ AP01-028.ZIP
+
+  AP01-028.LMP - Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 01
+
+  Kills     2%           
+  (Items   66%           *********
+  Secrets   ?%  and Time * 00:28 *
+                         *********
+                          
+
+  Description :-)
+  
+  Still not optimal... a fast red key grab which only happened to me once
+  where I dodged the sergeant so smoothly could save a second and a good
+  drop from stairs after activating the switch like in Andry Budko's av01-027
+  would save another second, but I can't see anyone doing both in one run, so
+  27 would be the optimal time :)
+ 
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

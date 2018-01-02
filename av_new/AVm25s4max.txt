@@ -1,0 +1,26 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on Earth
+Pwad:      AV.wad
+Pwad name:      Alien Vendetta
+Map:      25
+Skill:      4
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.1.2
+
+Time:      28:52
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+Since I sent my older demo in this map, I felt I had to be a little bit
+more fearless I didn't like the time, that's why I made this, it is a
+very large map compared to the most of AV, but I really love this
+only for this map ;) first part of demo wasn't optimal, as I made
+a lot of mistakes there and I lost a lot of seconds foolishly. As for
+the second part of the map, I can say I was slower than my older
+demo but it looked better instead, I miscaculated BFG ammo so...
+I had no BFG to kill the last Cyber, ah! it was so annoying moreover
+I wanted to use BFG to kill the "red key horde" but it wasn't as
+planned to, that made me lose so much time, this is so embarrasing
+since all went wrong, I neither killed red key horde neither kill Cyber.

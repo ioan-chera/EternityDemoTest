@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV23-757.TXT
+
+ AV23-757.ZIP
+
+  AV23-757.LMP - max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 23 - Blood Sacrifice
+
+  Kills    102%
+  (Items   100%)          ********
+  Secrets  100%  and Time * 7:57 *
+                          ********
+                          
+
+  Description :-)
+  
+  It's a bit surprising that this map didn't have
+  a maxdemo in pub, the only demo so far was by
+  Eugene Kapustin in 9:13.  He said that a real
+  C-N demo should be under 8:30 so here it is.
+  An excellent map btw.  This one could be faster,
+  one reason is I wasted some cells on the baron
+  which was revived by the arch-vile.
+
+  Xit Vono
+  Xit_vono@yahoo.com

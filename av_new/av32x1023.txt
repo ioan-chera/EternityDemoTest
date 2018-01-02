@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+IWAD:      Doom 2
+PWAD:      AV.WAD (Alien Vendetta)
+Maps:      MAP32
+Skill:     4
+Category:  [TAS] Tyson + Reality + UV-Max 
+Exe:       PrBoom-Plus 2.5.1.4test + XDRE 2.11
+
+Time:      10:23                   
+                     
+
+Author:    ClumsyDoomer   
+Email:     baymurzin2011@yandex.ru
+
+Comments:  It's very raw, unoptimised, unplanned and pretty much complete improvisation, but HOLY SHIT, I'm exhausted. I was just tired after about 60% of the monsters and decided just to finish it and not to try hard, otherwise I would've committed suicide.
+
+20 Jul 2016

@@ -1,0 +1,169 @@
+WAD: Alien Vendetta
+Maps: many of them
+Time: Various (see below)
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Here's av again... 1 mo' time. I realized my old nomonsters runs could still
+be trimmed down, as I was a bit lazy and rushed the recordings. Well, here, I
+hope I do better work and make better demos. :)
+
+I know Cacatou has made a demopack as well and many of his times are better
+than mine since he found different routes and improved on those (nice work
+once again, man!), but here I use many of the same routes that I did last
+time, which I've improved. I also included a long demo of MAP20 which goes
+through the entire map. Cacatou's demopack has the shortcut.
+
+You'll see some maps without demos, and this is the point where I said screw
+it when I saw Cacatou's demopack go up. :P
+
+I show the name of the map, the time, and how much I improved on each map
+from the last demopack I had up. If I omitted a map from the last demopack,
+I just put -0:00 under improvements. Some of these are quite major!
+
+MAP:					TIME:		DIFF FROM 
+							LAST DEMOPACK:
+
+MAP01 (Sunset):				0:28.91			-0:02
+Comments: First I got 30.06, then I tried for 29. I would have been satisfied
+with 29... except that I got 29.06 right after the 30.06, so I tried for 28.
+The result was many more 29's, and even a couple of 30's got mixed in with the
+bunch. Finally, I got the desired time. I realize the demo could look a bit
+more polished than this, but I doubt I can get that many ticks faster and find
+a 27 somewhere.
+MAP02 (Rusty Rage):			0:18.86			-0:06
+Comments: Note that the old demo for this was in my FIRST demopack for av.
+The keygrab is quite a bit annoying, lucky I got it so fast here. After you
+get the general idea, it becomes easier, but it's still annoying. Very nice
+map, though.
+MAP03 (Cargo Depot):			0:16.57			-0:37	
+Comments: Finally, I got the darn glide to work. Too bad I have trouble
+getting 15 or 14.
+MAP04 (Seclusion):			1:04.80			-0:05
+Comments: I tried, but couldn't beat this.. I really wanted to see myself
+get under a minute here, too.. oh well, somebody else will have to do it
+if a < minute demo is put up for this map.
+MAP05 (Crimson Tide):			0:40.77			-0:04
+Comments: Originally I was just going to go for 41, but after 5 minutes of
+playing I realized that I got 41.74 pretty easy. I thought I should push it
+another second. It was kinda hard to do, but now I have a 40 without any
+SR50 or fancy rocket boosts. I'm happy. :)
+MAP06 (Hillside Siege):			1:08.89			-0:07
+Comments: I got a few 1:09's and 1:10's before this. Using a little SR50 +
+rubbing against the tree after the RK allows you to jump over the railing
+right down to the RK door. I had not done this in my two previous demos.
+MAP07 (Showdown):			OMITTED		       (-0:00)
+Comments: Cannot be done in nomonsters.
+MAP08 (Beast Island):			1:03.74			-0:04
+Comments: I got 1:05 then thought I should push it down to 1:04. When I 
+got 1:04, it was 1:04.09. I got this afterward. The reason I turn around 
+on the ledge at the end is because I usually have to run back up the stairs
+there; I don't typically make it.
+MAP09 (Castle Gardens):			0:30.89			-0:05
+Comments: First I got 33.91, and it had some mistakes, so I thought I should
+push it down to 32. Within 3 more tries, I got 32.63, so I figured I should
+try for 31. I tried quite a bit for 31, then after a while I got 31.06. I
+was mad, so I had to go for 30. Right after the 31.06 demo, I got this.
+Strange, isn't it? I probably can't get sub30.
+MAP10 (Toxic Touch):			1:49.69			-0:10
+Comments: I didn't spend a lot of time on this one. I just wanted 1:4x.
+MAP11 (Nemesis):			0:42.46		(NONE)	-0:00
+Comments: I didn't do this one in the last two demopacks. It's really not
+so bad with the RJ. RJ requires only running backwards if you get the right
+angle. Cool map.
+MAP12 (Entropy):			0:58.60			-0:02
+Comments: Hard to improve much with all the annoying elevators. 
+MAP13 (Suicidal Tendencies):		1:32.83			-0:03
+Comments: Meh. Can't get this to 1:30, just like Scythe 2 MAP27. When I
+tried improving this, all I got were low 1:33's.
+MAP14 (Overwhelming Odds):		2:05.71			-0:01
+Comments: There's not a lot of room for improvement unless there's another
+route or trick which makes this faster (e.g. a BK grab that doesn't make
+the door close). Right now I'm not aware of one.
+MAP15 (Bulls on Parade-normal exit):
+Comments:
+MAP15 (Bulls on Parade-secret exit):
+Comments:
+MAP16 (Mutual Destruction):		1:16.34			-0:03
+Comments: I thought this was going to be fun to re-record. However, it was
+a huge pain. I kept getting 1:18, then 1:17.03. After that, I got more 1:18's
+and failed attempts. I freaking hate that invulnerability sphere, and every
+time I have to run over those linedefs, I pray I'll miss it (like here). It
+makes everything so hard to see if you grab it. Then, after you press all
+the switches and teleport, you have to jump down the rocks. Doing this is
+not too hard, but trying to get down as quick as you can usually results in
+you falling into the lava and dying. I know this can easily be 1:15, but
+I don't even care. 1:16 was my target and I'm keeping it.
+MAP17 (Nukefall):			0:30.57			-0:08
+Comments: There's a red skull bar glide trick that can be used. Unfortunately,
+this is hard to pull off just once, so getting it twice quickly w/o TAS
+would require quite a combination of luck and skill. I decided just to go
+the long way here, getting RSK, then opening up one set of bars. At the
+end, there's another "glide" (very easy to do) that can be accomplished
+because of some metal bars being lowered. I tried many times after this to
+get it sub30, but I couldn't do it.
+MAP18 (Lake Poison):			1:30.97			-0:06
+Comments: Yeah, I'm happy with this one! :) A couple of bumps are present,
+but I think this one is pretty good.
+MAP19 (Alien Resurrection):
+Comments:
+MAP20 (Misri Halek):			4:47.37		(NONE)	-0:00
+Comments: One of the maps I left out last time. This map is very long, the
+biggest in AV, and it's not easy, either. Parts that make me grimace are
+around 0:51 (climbing the rocks) and 3:37 (jumping down those layers of
+rock). Hey, you have to give a keyboarder a little credit for hating those
+parts. :P Most of the battle here for nomonsters is remembering every little
+thing about the route. Even in this demo, after some practice, you can see
+points where I have to slow down to think a little bit and other points
+where I'm sure of myself. The running here is jerky due to so many winding
+halls, and I bump on so many things. I hope this demo isn't crap, but I
+don't want to spend any more time here. My target time was under 5 minutes.
+MAP21 (One Flew Over the Caco's Nest): 	0:30.69			-0:07
+Comments: First, I got many 33's, then came 32's.. 32.00 really annoyed
+me. After that, more 32's, then a 31.37. I tried again and right after
+that got 30.69. Interesting. Love the map, but it's hard for a good speed-
+run, especially in nomonsters.
+MAP22 (Rubicon):			0:51.91			-0:05
+Comments: I didn't expect to improve the time this much. 
+MAP23 (Blood Sacrifice):		1:21.91		(NONE)	-0:00
+Comments: 1:21 was actually pretty hard to get. Fortunately my friends on
+ZDaemon encouraged me to go for it. :) This map actually isn't too bad once
+you learn the route. I was just lazy earlier in my other demopacks.
+MAP24 (Clandestine Complex):		1:01.34			-0:15
+Comments: I didn't get it under a minute, but oh well. This is ok but lazy.
+MAP25 (Demonic Hordes):
+Comments:
+MAP26 (Dark Dome):
+Comments:
+MAP27 ():
+Comments:
+MAP28 (Whispering Shadows):
+Comments:
+MAP29 (Fire Walk with Me):		1:15.43			-0:10
+Comments: Even before I started, my target time was 1:15. I began with a 
+1:18, and worked it down from there. A major improvement from last time is
+using SR50 to help aid a useful jump. Just after the first switch and be-
+fore the YSK, there are lava stairs leading down to a lava fall. Sort of
+across from that is a ledge, which you will need to be on (wheter you jump
+to it or fall down the lava and use the stairs to the right). Obviously,
+jumping is faster. Getting the jump is a little tricky, but with the right
+angle, it's easy with a little SR50. From there, it's just running and 
+hoping you don't bump into too many things.
+MAP30 (Point Dreadful):
+Comments:
+MAP31 (Killer Colors-normal exit):
+Comments:
+MAP31 (Killer Colors-secret exit):
+Comments:
+MAP32 (No Gust No Glory):		0:30.66			-0:02
+Comments: Another time in the 3x second range that I knew I should push
+down to 30. Can't get this one under 30, either.
+
+						TOTAL IMPROVEMENTS
+			TOTAL TIME:		FROM LAST DEMOPACK:
+
+
+
+I hope you enjoy this demopack. :)
+
+--Doomdaniel95

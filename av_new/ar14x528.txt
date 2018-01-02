@@ -1,0 +1,28 @@
+This is a Tool-Assisted entry for the Doomed Speed Demos Archive
+http://doomedsda.us/wad84m214.html
+
+Recorded using PrBoom-Plus version 2.5.1.5 in compatibility level 2
+Done using slowmotion, permanent strafe 50 and -recordfromto
+
+Pwad:      AV.WAD
+Pwad name: Alien's Vendetta
+Maps:      14
+Skill:     5
+Category:  (TAS) -Respawn
+
+Kills:     113%
+(Items:    25%)
+Secrets:   100%
+Time:      5:28
+
+Author:    Ser
+Email:     SerEzER1@GMail.com
+Date:      Wednesday, March  12 2017 16:53:40 GMT -06:00:00
+
+Comments:  
+
+ Since the Nightmare! 100% Secrets record was already done my Xit-Vono
+  I thought I would do it on -Respawn. At first it seemed so difficult,
+  but when you are in -Respawn it is an "advantage" that there are many
+  monsters, since you can provoke infighting, then come and kill some
+  extra little monsters so you do not have to kill big monsters.

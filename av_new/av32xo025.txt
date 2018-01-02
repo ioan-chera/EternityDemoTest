@@ -1,0 +1,18 @@
+** This is a tool-assisted demo! **
+Tools used: building frame-by-frame
+
+PWAD: AV.WAD + AV.DEH
+PWAD name: Alien Vendetta
+Map: 32 "No Guts No Glory"
+Skill: Ultra-Violence (I'm a Doom-God) with -nomonsters
+Category: Speed
+Exe: xdre.exe 2.06
+Complevel: 2
+Date: 11.06.16 (DD.MM.YY)
+
+Time: 0:25.63
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+
+Comments: 25 seems optimal, because I have no idea where to save at least 0.66.

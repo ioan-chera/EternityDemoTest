@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry
+
+av22-110.txt
+av22-110.zip
+
+av22-110.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 22 - Rubicon
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:10
+=--------------=
+
+C-N entry #175.
+
+Tricky run, feel free to improve the
+time.  It all depends on how the beasts
+want to behave (or not, most of the time).
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

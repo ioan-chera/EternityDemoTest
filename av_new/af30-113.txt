@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+af30-113.TXT
+
+ af30-113.ZIP
+
+  af30-113.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 30 – UV Fast
+
+Lazy table-filler. Don't watch.
+
+Author: Revved

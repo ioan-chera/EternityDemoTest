@@ -1,0 +1,46 @@
+This is a DooM .LMP "COMPET-N/AV*/" Entry - Please forward it...
+
+AF09-713.ZIP
+
+ AF09-713.LMP
+
+  AF09-713.TXT -Ultra-Violence -FAST
+
+  Recorded using "DooM 2 v1.9 - Alien Vendetta*" ! (Complevel 2)
+  DooM2 -file av.wad -PlayDemo with Version 1.9
+  *=(2nd Release)
+
+  Alien Vendetta* - Level 9 - Castle Gardens by Kim André Malde
+  Kills: 141 / 141 (100%)
+  Items:  13 / 15  (86%)            ********
+  Secrets: 7 / 7   (100%) and Time  * 7:13 *
+                                    ********
+  C-N entry #52.	Date: 23.03.2013
+
+  Description :)
+  One of my favorite AV maps, Kim André Malde did a great job. Love the
+  music too, it adds such a great atmosphere to the spooky level. Shame
+  such a talented mapper had to die so young.
+  
+  Anyways, this was pretty hard, as -FAST always is, but could still be
+  improved upon with little effort. Under seven will be easy, under six
+  -- not so much.
+  								
+  								
+  By the way, COMPET-N record was 7:38 by Revved
+, timestamped:
+  Friday, March 19, 2010, 9:05:14 AM.
+
+  Complete Historic COMPET-N Leaderboard:
+  AF09-738 - Revved
+ - 19.03.2010
+  
+  
+  Note: Since this demo was recorded with AV.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/84/av_new.zip
+        and pick it up if you havn't already :) 
+ 
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

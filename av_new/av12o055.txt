@@ -1,0 +1,21 @@
+WAD: Alien Vendetta
+MAP: MAP12: Entropy
+Time: 0:55.89
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: December 8, 2013
+
+Not as tricky and more fun than I expected. Win-win!
+
+Now that my 1monster demopack is finished, I'm going back and trying to
+get my nomonsters records back for AV.
+
+It took me ~ 15 minutes to get this, so the demo isn't really "pretty," just
+a general demo with a couple small wallbumps. With better running alone and
+SR40 only like this demo, probably 54 is optimal. With SR50, who knows how
+low the time could get?
+
+P.S. this demo is only 7 tics faster than Cacatou's demo. I'm surprised
+he left such a low 56.
+
+--Doomdaniel95

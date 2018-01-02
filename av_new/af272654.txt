@@ -1,0 +1,37 @@
+This isn't a DooM .LMP "Competition" Entry - don't forward it...
+
+AF272654.TXT
+
+ AF272654.ZIP
+
+  AF272654.LMP - Max
+
+  Recorded using Doom2 Version 1.9
+
+  Alien Vendetta - Level 27 - Stench of Evil
+
+  Kills   100%           
+  (Items    ?%)          
+  Secrets 100%  and Time = 26:54
+                          
+
+  Description: I don't know how long it is since I first promised this, but hey, here's an 
+               undone AV -fast for you. My first successful recording was in April, but
+               33 minutes seemed like far too sluggish a time to inflict on anyone as a 
+               record. My goal was at least six minutes faster, and luckily this new try 
+               just made it.
+
+               A tough level mostly for the length of it, and there are key places where
+               -fast increases the difficulty substantially. You often have to rush 
+               dozens of revenants or mancubuses or barons with just a BFG, an unpredictable
+               health tally and a large supply of luck. The areas I ended up having the 
+               biggest problems with were the first Baron trap - if you don't carefully 
+               take it in stages, you die - and for some reason the final room, which I never
+               found a reliable way to do.
+
+               And yes, just watching this now it's obvious there's time to be saved, 
+               but a level this size, that'll always be the case :) 
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com

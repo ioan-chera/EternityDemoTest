@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AR03-256.TXT
+
+AR03-256.ZIP
+
+AR03-256.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 03 - Cargo Depot
+
+Kills      100%
+Items       93%
+Secrets    100%
+
+              ********
+  and Time -  * 2:56 *
+              ********
+
+
+Description:
+
+Exactly 100% kills and under 3 minutes :)
+
+This version of av03 is MUCH more visually pleasing than the old one, especially
+with the city and the boat placed into the map. I like that a LOT, and it really
+adds a feel to the map.
+
+Very addictive to me...this map on this style is a lot of fun, as a few things
+funny happened while working on this. I had a Cacodemon follow me into the
+Yellow key area, and it was quite amusing trying to get him out of my way, as
+the Caco decided to get stuck right in the door frame =P Also had Imps and such
+chase me in areas also...the Revenant at the start followed me into the Cargo
+area once!
+
+Fun map for -respawn ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+07.04.2003

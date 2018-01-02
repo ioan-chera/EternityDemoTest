@@ -1,0 +1,34 @@
+________________________________________________________________________________
+
+Pwad:       Alien Vendetta (2nd release)
+Pwad name:  av.wad
+Maps:       06 (Hillside Siege by Lee Szymanski and Anthony Soto)
+Skill:      4
+Category:   Respawn
+Exe:        PrBoom+ 2.5.1.1
+            -complevel 2
+
+Heh, should I mention "No HUD used?" (because I'm part of a minority...)
+Well, I never use kill/secret HUD in my demos.
+
+________________________________________________________________________________
+
+Kills:  106%
+Items:   82%
+Secret: 100%
+        ____
+       /    \
+Time:  |5:08|
+       \____/
+
+________________________________________________________________________________
+
+Author:     vdgg
+________________________________________________________________________________
+
+Description:
+
+This was too hard for me back then when I was recording m205 -respawn.
+First exit.
+
+________________________________________________________________________________

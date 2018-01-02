@@ -1,0 +1,18 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      AV.wad and AVMOVFIX.wad
+Pwad name:      Alien vendetta
+Map:      08
+Skill:      04
+Category:      UV-speed
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      3:22
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+This map along with map 25 are my favorite maps on Alien Vendetta
+and since a UV-max in this map waste a lot of time, I decided to make
+an ultra-violence speed demo, btw, maybe I improve this time, but not soon.

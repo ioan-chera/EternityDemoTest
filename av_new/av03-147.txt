@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV03-147.TXT
+
+ AV03-147.ZIP
+
+  AV03-147.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 03 - Cargo Depot
+    
+  Kills     60%
+  (Items    31%)          ********
+  Secrets  100%  and Time * 1:47 * 
+                          ********
+                          
+
+  Description:
+
+  Same thing as av04-156.
+  Exit with 1% health.
+
+  Jakub "DooMerMan" Machata
+  kuba-m@seznam.cz

@@ -1,0 +1,44 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+av31-554.txt
+
+av31-554.zip
+
+av31-554.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 31 - Killer Colours
+
+
+================
+Kills      101%
+Items       50%
+Secrets    100%
+----------------
+Time       5:54
+================
+
+
+Description:
+
+Leaving the blue area with over 160 cells was not easy, but my 
+shooting was a little slow for it. The teleport room for hell 
+knights and arachnotrons in the green area was very tricky. 
+Arachnotrons often didn't appear before an wall was lowered. 
+It annoyed me too much (Watch av31bad.lmp). The room with 
+one cyberdemon and many revenants and the last battle with 
+invulnerability were so good. Especially, I seldom killed all 
+monsters before the effect of invulnerability was off. 
+Under 6 min is OK.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+28 - Feb - 2012   77th Comepet-N Entry

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+An26-059.TXT
+
+An26-059.ZIP
+
+  An26-059.LMP 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 26
+
+  Kills     ?%           
+  (Items    ?%)           *********
+  Secrets   ?%  and Time  * 00:59 *
+                          *********
+                          
+
+  Description :
+  
+I don't think that the trick can be done w/o the inv. After 2 seconds on the start area, your screen just turns red and you can don nothing. Moreover, you also need to kill the archie guarding the red key, otherwise he'll make you jump back all the time. I had a first exit in 1:20, but the demo was so bad that I didn't want to beat Vile's record with it. This one is *watchable*.
+
+  Selim "Bastard" Benabdelkhalek
+  wmrselim@yahoo.fr

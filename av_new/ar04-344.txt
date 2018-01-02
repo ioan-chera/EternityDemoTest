@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AR04-344.TXT
+
+ AR04-344.ZIP
+
+  AR04-344.LMP - Ultra Violence Max with -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 04 - Seclusion
+    
+  Kills    101%
+  (Items    97%)          *********
+  Secrets  100%  and Time * 03:44 *
+                          *********
+                          
+
+  Description:
+
+  [89th Compet-N entry]
+
+  Funny map for -respawn.
+  
+  Jakub "DooMerMan" Machata
+  kuba-m@seznam.cz

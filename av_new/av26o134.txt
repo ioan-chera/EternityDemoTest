@@ -1,0 +1,28 @@
+WAD: Alien Vendetta
+MAP: MAP26: Dark Dome
+Time: 1:34.83
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: December 21, 2017
+-complevel 2
+
+Wow, after my frustration with av08 earlier today, I managed to pull this off within only about 45 minutes of serious tries. Awesome.
+
+First I'll start off with why I included a 1:36 demo. Well, that was my second serious attempt to beat Cacatou's 1:39 (I got 1:39 the first time), and
+much to my surprise when I entered the BSK room, the doors closed before the platform lowered enough for me to run over it! I was really confused when
+I saw that and wondered what happened... so I finished the run, and obviously only being my 2nd attempt, my movement was clunky (and I messed up really
+bad at the YSK switch). But I got 1:36.06 and wondered "Can I do that again and get 1:35? I've never seen that before." So, I watched some demos on DSDA
+but never saw this come into play in any of those. Makes sense, since with monsters, there's already the AV jump to RSK which saves a lot of time. That
+left me to keep trying to trigger the linedefs to close the doors before the BSK was lowered.
+
+It took me about 15 minutes before I was even able to pull that off again, and it wasn't on my first run by the BSK platform, but with some moving
+back-and-forth by the point of interest before it fully lowered. I got a high 1:36 for that demo. After about 35 minutes, I finally got the trick to 
+work first try in another demo, and that one was a 1:35.29 exit. It still had a couple bad bumps, so I decided to see if getting 1:34 was feasible.
+
+10 minutes after my 1:35 demo, and after 45 minutes in total, I got this. It still has an ugly moment by the YSK switch and a notable bump after picking
+up RSK, but I don't think I can get 1:33 from there, nor do I want to try for it. I'm more than satisfied with 1:34 when I initially thought 1:35 would
+be my limit.
+
+Enjoy.
+
+--Doomdaniel95

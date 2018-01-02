@@ -1,0 +1,63 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+av201741.txt
+
+av201741.zip
+
+av201741.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 20 - Misri Halek
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time      17:41
+================
+
+
+Description:
+
+I spent over 2 weeks for this map, and the spent time is around 
+35 - 40 hours, including av201840. This map is one of the best-known 
+maps in Alien Vendetta, and I also like it very much. This is a 
+really difficult map. Although this map is very long, there is no 
+armor in the first half, so any enemies' attacks can have fatal 
+damage. Two soul spheres exist in the part, but I couldn't be 
+secure. In the middle of the map, you can get a blue armor, but 
+I usually consumed the half of the armor in two cyberdemons area. 
+Therefore, there is little room on the health side through the entire 
+map, though a green armor is in the secret. Actually, I got the green 
+armor before going to the yellow key door for a safer run in the old run, 
+but I cut it because I lost some seconds and Vono and Radek didn't 
+do it. My health was always under 50% in the exit room, so The spider 
+mastermind was so troublesome. I thought that this was no problem, 
+like av201840, but I was killed by it twice in a row, then my 
+motivation was almost collapsed. I managed to maintain my motivation 
+and get my target which was under 18 min.
+
+All credit for the route goes to Xit Vono. This map is quite complex 
+but very linear, so it is probably unnecessary to change the route. 
+However, I had to consider good selections of weapons well. Vono 
+didn't kill the cyberdemons with two shots of BFG. The reason is 
+probably that the safer way wasn't established when he recorded it. 
+Well, the way itself is easy but some areas are too narrow to kill 
+the cyberdemons safely. I sometimes died or received serious damage 
+in the two cybers area, and blast damage was nearly unavoidable even 
+if I avoided the missiles. However, I was able to save a lot of cells 
+for the way. 
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+14 - Dec - 2010   59th Comepet-N Entry

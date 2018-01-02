@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV12-304.TXT
+
+ AV12-304.ZIP
+
+  AV12-304.LMP - Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 12 - Entropy
+
+  Kills     ?%           
+  (Items    ?%)          
+  Secrets   ?%  and Time = 03:04 
+                          
+
+  Description: Not very well suited for speedrunning, particularly early
+               stages, the monsters have to be cleared out. But you can
+               skip the red key (or is it the blue...?) and it's not
+               a long level anyway, so times can be fairly fast. Lots of
+               improvement possible.
+  
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

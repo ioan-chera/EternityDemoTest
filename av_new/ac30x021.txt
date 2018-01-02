@@ -1,0 +1,48 @@
+       
+ 	********************
+        * built * AC30x021 *
+        ********************
+
+ AC30g021.lmp - built UV SPEED (Green)
+ AC30i021.lmp - built UV SPEED (Indigo)
+ AC30b021.lmp - built UV SPEED (Brown)
+   
+   AC30x021.txt
+
+     AC30x021.ZIP
+
+   Doom2.exe -file av.wad -playdemo ac30b021
+                           (Brown´s is best)
+
+
+   Alien Vendetta 3way coop built demo
+   Map30 UV SPEED in 0:21
+
+      -------------------------------------
+      - PLAYER  - Kills - Items - Secrets -
+      -------------------------------------    
+      - Green   -       -   2%  -  100%   -
+      -------------------------------------
+      - Indigo  -       -       -         -
+      -------------------------------------
+      - Brown   -       -       -         -
+      -------------------------------------
+
+
+   Descripiton:
+   
+   Hi Doomers,
+
+   I started this one about month ago, now it´s all over. Finally it took me
+   about 2-3 hours of clear time.
+   I PLAYED as Green (strafe40 only) and edited Indigo and Brown (strafe40
+   only too).
+   
+   I´m don´t sure if 20 is reachable, this is nice demo IMO - exact time is
+   :21.97 btw.
+   Enjoy :)
+      	    
+	  
+ 	Author:			 Jakub "DooMerMan" Machata (green,indigo,brown)
+        E-mail:			 DMrM@seznam.cz
+

@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+af142259.TXT
+
+ af142259.ZIP
+
+  af142259.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 14 – UV Fast
+
+I'm so glad to finally have this record in my hands. I was already planning this out before Xit's NM TAS of the level (where he said NM wouldn't be possible normally), so some different strategies are used here. For example, using splash damage on all the demons near the elevator. For the cybers, I couldn't see they had already shot the mancubi so I look like an idiot punching. For the cyberdemon/cacodemon battle, I lure their rockets to the caco horde, then just sit back and enjoy. This is why I clear out the room leading to the blue key early. I handle the 2nd caco horde manually since I find it hard to get them to fight the cybers. For the red key room, I do the same thing I always do, couple of BFG blasts, then get the cyber to fight the barons. After that, I BFG my way through revenants, do a bit of infighting, then blast out the rest. Next up is the blue key room. I introduce myself to the enemies, then blast from the bottom of the stairs. I then take the wimp method to the blue key, which is going far enough onto the blue key platform so that the 30-second door closes but the monsters don't teleport. After that time, I grab the blue key, BFG my way out, then kill enemies from the bottom of the stairs again. I save the revenants/demons portion for last because I know I have enough ammo to kill them now and there's nothing to distract me. No real worries on the path to the yellow key because after what I've been through, it seems trivial. I then kill the cybers from afar as to not die, and I don't here, and succession is made.
+
+Author: Revved

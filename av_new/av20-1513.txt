@@ -1,0 +1,17 @@
+Pwad: Alien Vendetta   
+Map:      20
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.3
+Time:      15:13
+
+-complevel 2
+
+Author:	   j4rio
+
+
+A garbage map for casual play, but somewhat
+interesting for maxing. Most of time 
+improvements over previous max comes from 
+faster turning. Should have been 14:XX but
+I fucked it up.

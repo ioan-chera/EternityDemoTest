@@ -1,0 +1,32 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : af261615.lmp, af261615.txt
+Date     : 2013-09-07
+Game     : Alien Vendetta
+Client   : doom2.exe v1.9
+Category : UV-Fast
+Map(s)   : MAP26: Dark Dome
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  85%
+Secrets  : 100%
+Time     : 00:16:15
+===================================
+Description:
+
+This was the last hole of the UV-Fast table on Alien Vendetta. This map on 
+fast has some tricky points. First of all, I often died in blue key's trap. 
+I usually received terrible damage if enemies blocked me. Secondarily, I was 
+annoyed at the main area after I got the res key. Arch-viles pushed me off 
+the upper floor, so I couldn't deal with them during an invulnerability. 
+
+
+83th Comepet-N Entry

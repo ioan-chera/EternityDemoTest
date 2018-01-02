@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV111102.TXT
+
+ AV111102.ZIP
+
+  AV111102.LMP - Ultra Violence with 100% kills & secrets
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 11 - "Nemesis"
+
+   Kills: 	100%
+   Items:	 xx%
+   Secrets:  	100%
+
+   Time: 	11:02
+		-----
+
+Description: 
+		
+  Great map Martin. After my 12:32 demo I spent a lot of time considering cell/bfg
+  shot usage and the route. Lots to consider here especially because the route is
+  wide open after crossing the lava. Each route could totally change the ammo usage.
+  In my opinion the route centers around the cyber/mastermind infight. You might ask,
+  "why did I not provoke the infight earlier?". Well, I had some attempts which turned
+  out seemingly slower by using the most scientific method I can do of judging the route
+  which is time-tableing at certain points with timer exe. 
+
+  The demo is really just a placeholder for this route and more so a template for an even
+  better route. You could copy this route and do some optimizations to say, maybe, 10:30.
+  However, I think the better bet would be to continue trying to get that infight earlier
+  so you waste less ammo and at the same time still be efficient with your route + cleanup.
+  You could get that infight fast and yet have a sloppy route which covers the same areas
+  twice and you'll end up with the same dissappoing results I got. In the end, I just got
+  burnt out of this map. Credits to Radek Pecka and Anders Johnsen. 
+
+
+Author:      Anthony Soto
+E-mail:	     neworderdatabase@hotmail.com 
+WWW:	     http://thefish.8m.com/  

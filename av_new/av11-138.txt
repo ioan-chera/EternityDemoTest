@@ -1,0 +1,10 @@
+Game: Doom 2
+Pwad: av.wad (Sept. 5th, 2004)
+Filename: av11-138.lmp
+Skill and Style: 4 (UV Speed)
+Map Level: MAP11
+Exe/Port used: PrBoom 2.4.7 (-complevel 2)
+
+==============================================
+
+Demo by TimeOfDeath

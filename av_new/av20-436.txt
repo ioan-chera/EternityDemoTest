@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+av20-436.txt
+av20-436.zip
+
+av20-436.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 20 - Misri Halek
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       4:36
+=--------------=
+
+C-N entry #198.
+
+Heard this trick mentioned before at
+various times, so credit goes to no one
+in particular.  After the rocket jump,
+just run a little ways and head back,
+assuming you crossed the right linedefs
+to open up the desired areas.  Crappy
+demo, feel free to improve!
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,22 @@
+Game: Doom 2
+Pwad: av.wad (Sept. 5th, 2004)
+Filename: av20-352.lmp
+Skill and Style: 4 (UV Speed)
+Map Level: MAP20
+Time: 3:52
+Date: April 1, 2007
+Exe/Port used: PrBoom 2.4.7 (-complevel 2)
+Config/Cheats: WASD movement, M1 fire, SHIFT shotgun,
+               R chaingun, Q rocket, E plasma, F bfg
+               SPACE use, ALT strafe on.
+               Uncapped fps, kills/items/secrets/timer
+               HUD.
+
+==============================================
+
+Credit to Vile's demo.
+
+Demo by TimeOfDeath (Chris Balch)
+thelastbreathofthedying@yahoo.com
+http://timeofdeath.wrvids.com
+http://myspace.com/timeofdeath

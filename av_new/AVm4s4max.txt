@@ -1,0 +1,17 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      AV.wad and AVMOVFIX.wad
+Pwad name:      Alien Vendetta
+Map:      04
+Skill:      04
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      7:46
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+This map is pretty easy... I played this map only once before make this
+and it succeded at the first time =).

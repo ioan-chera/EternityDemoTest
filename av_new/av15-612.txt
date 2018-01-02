@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV15-612.TXT
+
+ AV15-612.ZIP
+
+  AV15-612.LMP - Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 15 - Bulls on Parade
+
+  Kills   102%           
+  Items    80%          
+  Secrets 100%  and Time = 06:12 
+                          
+
+  Description: Now Anders, it wouldn't be a proper av15 maxdemo if there
+	       was not a cringe-inducing start, of course.
+
+	       No luck with the speedruns :~(
+
+Author:      Anthony Soto
+E-mail:	     neworderdatabase@hotmail.com 
+WWW:	     http://thefish.8m.com/
+
+
+ 

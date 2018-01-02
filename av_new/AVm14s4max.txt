@@ -1,0 +1,28 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      AV.wad and AVMOVFIX.wad
+Pwad name:      Alien Vendetta
+Map:      14
+Skill:      4
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.9
+
+Time:      23:06
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+Geez!, I wasn't expected I succeded in getting megasphere at first time!
+obviously when you playback this demo you will notice it,
+when demo was starting I was only playing without thinking if it will look
+good but as demo was going on I saw I was going further than I ever
+imagine, so... I wasn't expected to get in zone where red key is, and when
+I got in there I was terrifyied thinking "what the hell am I doing here?,
+if I make only one mistake this lucky demo would be finished, I have to
+avoid screw this one up", that's why I played extra deffensive in that
+zone, fortunately after fighting twin cyber, all went okay and calm.
+btw, since this was not planned I guess I can improve this demo with a
+more offensive play style, but I have to spend a lot tries because in this
+map all can change suddenly (armor and enemies attacks are troublesome,
+one attack you recieve and all is gone)

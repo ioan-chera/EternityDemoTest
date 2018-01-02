@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV20-427.TXT
+
+ AV20-427.ZIP
+
+  AV20-427.LMP - UV speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 20 - Misri Halek
+
+  Kills     24%
+  (Items    33%)          ********
+  Secrets    0%  and Time * 4:27 *
+                          ********
+                          
+
+  Description :-)
+  
+  I discovered a rocket jump here so I thought I would
+  check to see what the speed record here was.  It turns
+  out that Stx-Vile already did it so I went ahead and
+  beat his demo.  It's basically the same thing except
+  I skip a few monsters.  Route credits go to Stx-Vile.
+
+  Xit Vono
+  Xit_vono@yahoo.com

@@ -1,0 +1,46 @@
+****************************************************************
+                      The Alien Vendetta
+                          Episode 1
+                The Ultra-Violence Speed Movie
+****************************************************************
+
+----------------------------------------------------------------
+Level           Map     Time  Kills Items Secrets
+
+Sunset          lv01 -  0:25   18%   16%   16%
+Rusty Rage      lv02 -  0:14   15%   22%    0%
+Cargo Depot     lv03 -  0:46   39%   29%    0%
+Seclusion       lv04 -  1:04   34%   48%    0%
+Crimson Tide    lv05 -  0:39   36%    0%    0%
+Hillside Siege  lv06 -  0:50    9%   48%    0%
+Showdown        lv07 -  0:45   26%    0%  100%
+Beast Island    lv08 -  1:02   17%   11%   11%
+Castle Gardens  lv09 -  0:28    9%    0%    0%
+Toxic Touch     lv10 -  1:25   33%    0%    0%
+----------------------------------------------------------------
+  total episode 01   -  7:38
+----------------------------------------------------------------
+          TOTAL      -  7:38
+----------------------------------------------------------------
+
+****************************************************************
+Recorded  using  PRBoom  2.2.4 with tiny changes of source codes
+for more comfortable record.
+----------------------------------------------------------------
+Note: Strafe50 is always ON.
+----------------------------------------------------------------
+Playback with original Doom2 v1.9:
+  doom2.exe -file av.wad -playdemo av01-738
+
+or  with   any  other  fully  compatible  doom  ports,  such  as 
+PRBoom 2.2.3 (or later) or Eternity engine:
+prboom.exe -iwad doom2.wad -file av.wad -playdemo av01-738.lmp
+Eternity.exe -iwad doom2.wad -file av.wad -playdemo av01-738.lmp
+****************************************************************
+Author  : Andrey Budko, Ukraine, Kiev
+E-mail  : entryway@all-info.com.ua
+          e6y@yahoo.com
+ICQ UIN : 100023, 440240
+****************************************************************
+
+May, 03, 2004

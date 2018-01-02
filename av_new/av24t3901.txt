@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      av.wad
+Pwad name: Alien Vendetta (2nd release)
+Map:       24
+Skill:     4
+Category:  Tyson
+Exe:       prboom-plus-2.5.1.3 -complevel 2
+Time:      39:01
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  

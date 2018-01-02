@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry
+
+av11-053.txt
+av11-053.zip
+
+av11-053.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 11 - Nemesis
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       0:53
+=--------------=
+
+C-N entry #199.
+
+Uses an SP adaptation of the coop
+trick used by Vincent and raiderr
+in their 0:41 run.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

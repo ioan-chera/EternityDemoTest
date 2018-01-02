@@ -1,0 +1,27 @@
+Pwad:	AV.wad
+Pwad name: Alien Vendetta (2nd release)
+Maps:	04
+Skill:	4
+Category:	UV Max
+Exe:      	prboom-plus 2.5.1.3
+
+Time:     4:16*
+
+Comments: Hats off to Anders and Xit. Those posted record times were super fast and i thought untouchable. 
+This is a particularly fun map to run because one can go super agro with all the med kits. 
+This started off as challenge for myself to see if i could crack 5:00 which was a barrier that is actually
+very hard to beat. Eventually i was consistently hovering around the 4:30 mark before i pulled off this gem :-)
+
+I used a slightly different route that may or may not be faster. Picking up the Blue armor after exiting the red key room
+allowed me to play more aggressive in the 2nd half of the map. I provoked infighting between the chaingunners in the red key trap then took
+them out with the chaingun. This saved valuable cells that were otherwised wasted in the air. Then i tried to draw out the barons in the 
+RL room and blow them up with a few rockets in the heard of Imps later. This doesnt always work because the barons sometimes get jammed up 
+in the door. Sometimes they dont line up like in this demo. I wasted a few rockets here. Everything else went smoothly.
+
+I included a heartbreaking 4:19 cleaner demo that ends in me losing a second and the record by smashing my face into the exit switch 
+instead of activating it.
+
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com

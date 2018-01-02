@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+af31-953.TXT
+
+ af31-953.ZIP
+
+  af31-953.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 31 – UV Fast
+
+Basically, same as Xit Vono's recent NM demos on this map, just without respawning enemies. Of course, this demo just happens to have a linedef skip at the blue key where they cacodemons don't appear, as well as a cyberdemon that shoots at the baron for the usual 3 shots even though he's already dead. Like Xit said, the red portion has some tricky parts, but everything else is somewhat trivial.
+
+Author: Revved

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+Av26-028.TXT
+
+Av26-028.ZIP
+
+  Av2-028.LMP 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 26
+
+  Kills     ?%           
+  (Items    ?%)           *********
+  Secrets   ?%  and Time  * 00:28 *
+                          *********
+                          
+
+  Description :
+  
+The 3rd AV level to be completed under 30s :p Easy run, played really crappy here :|
+
+  Selim "Bastard" Benabdelkhalek
+  wmrselim@yahoo.fr

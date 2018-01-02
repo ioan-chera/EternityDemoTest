@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV01-125.TXT
+
+ AV01-125.ZIP
+
+  AV01-355.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 01 - Sunset
+    
+  Kills     100%
+  (Items     ??%)          ********
+  Secrets   100%  and Time * 1:25 * 
+                           ********
+                          
+
+  Description:
+
+  Sure that real max time should be significantly faster, but since 
+  there is silence in pwads incoming, i uploaded that one
+  
+  -=QWERTY=-
+  demosd@mail.ru  

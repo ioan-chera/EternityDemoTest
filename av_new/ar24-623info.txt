@@ -1,0 +1,25 @@
+IWAD: DOOM2.wad
+PWAD: AV.wad (Second Release)
+Map: 24
+Map title: Clandestine Complex
+Skill level: Ultra-Violence
+Category: UV-respawn
+Kills: 103%
+Items: 75%
+Secrets: 100%
+and a time of 06:23
+Recorded using DOOM2 v1.9 on DOSBox v0.74 (doom2.exe -file AV.wad -playdemo ar24-623)
+Date and Time Completed: Wednesday, 28th June 2017 at 12:07
+
+Runner: Jakub Puk
+Nickname: Huncd6814
+Country: United Kingdom
+Email: kuba27131@gmail.com 
+
+Description:
+I have the pleasure to announce that this is the first AV demo to be uploaded to Compet-n in over three years (at the time of making this). 
+
+This map looked possible at a first glance considering I watched Tatsurd's NM100 run of the map...so I decided why not attempt to beat this map for my first Compet-n submission. 
+
+Actually it was not too bad, however you have to get lucky with the red key section due to the overwhelming number of enemies. Skipped the Mancubi at the end, but why do I need to kill them? 
+ 

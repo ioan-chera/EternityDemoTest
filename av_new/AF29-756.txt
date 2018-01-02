@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AF29-756.TXT
+
+ AF29-756.ZIP
+
+  AF29-756.LMP - Ultra Violence -Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 29 - Fire Walk With Me
+    
+  Kills    100%
+  Items     45%           *********
+  Secrets  100%  and Time * 07:56 *
+                          *********
+                          
+
+  Description:
+   First I had problems with the skeletons and arch-viles, but then I came
+  with other tactics and it was easy. Second problem was that I'm bad against cyber demons
+  with BFG (as you can see). Usually it takes me 4 or 3 shots and rarely two. Third problem
+  was when the 5 arch-viles spawn near the red key. They blew my runs many times because
+  sound engine refused to play their attack/pain/burning sound so they just silent
+  killed me. That's why I had to hide there a little bit more than necessary.
+   Fourth problem was the blue key area with many chain gunners. I tried ToDs tactics here
+  but died. I guess my way is quite safe and efficient.
+   This was my second exit (first was 8:57) and I think it's solid enough but I see places
+  for improvement.
+
+
+  Looper

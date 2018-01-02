@@ -1,0 +1,26 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : av02-142.txt, av02-142.lmp
+Date     : 2013-6-12 10:54
+Game     : Alien Vendetta
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP02: Rusty Rage
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Drew DeVore
+Nickname : Vile
+Country  : USA
+Email    : dadevore83@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 22%
+Secrets  : 100%
+Time     : 00:01:42
+===================================
+Description:
+Another demo in a set of map02 runs, this one also a one second improvement,
+but not as a mark of laziness since Anders' demo, as expected, was tough to
+improve by any stretch, though there still seems to be some room to improve.
+A sweet map. :)

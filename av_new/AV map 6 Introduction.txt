@@ -1,0 +1,22 @@
+Wad: Alien Vendetta
+Map: 6: Hillside Siege
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 9:00
+Time: 8:50
+Category: UV max
+
+This map is very hard, it is the 2nd hardest level in episode 1, which hardest is map11 Nemesis. There are many
+luck based to get a fast run, I try my best to get below 9 minutes, and now it's done!
+
+There are 4 hard parts in this map. First the beginning, which is swarmed with cacodemons, zombies and imps. Then
+the mancubus and hell knights, getting them to infight isn't much problem, but to make sure all of them killing
+each other, it's not a easy work. 3rd area the mancubus cliff, which is a pain to me. I just try to kill them one
+by one either SSG or rocket launcher. 4rd area is the hardest, the open cyberdemon court. I just kill everything
+behind the door either rocket launcher or SSG for safety reason. Telefrag the cyberdemon takes luck, it got a 
+chance that the cyberdemon moves away and hit you.
+
+After all these 4 hard parts, the remaining parts are relatively easy. I made a silly mistake by forgetting to
+press the switch and lower the pilars at the end.
+
+This is already my very best run in this map. I don't think I can do it any better, this map is hard.

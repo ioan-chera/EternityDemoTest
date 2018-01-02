@@ -1,0 +1,6 @@
+Alien Vendetta
+Map05: Crimson Tide
+UV-Fast in 8:59
+-complevel 2
+PrBoom v2.5.1.4
+Ling

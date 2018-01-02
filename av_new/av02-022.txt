@@ -1,0 +1,21 @@
+This is an Alien Vendetta demo.
+
+AV02-022.TXT
+
+ AV02-022.ZIP
+
+  AV02-022.LMP - Nomonsters!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 02 - "Rusty Rage"
+
+    Time: 	0:22
+		----
+
+Description:	Old demo, showing a nice shortcut.
+	        	
+
+Author: Arno "SlagDooM" Slagboom
+E-mail:	ajslagboom@chello.nl

@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AR03-238.TXT
+
+AR03-238.ZIP
+
+AR03-238.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 03 - Cargo Depot
+
+Kills      104%
+Items       90%
+Secrets    100%
+
+              ********
+  and Time -  * 2:38 *
+              ********
+
+
+Description:
+
+Was meaning to work on this a while back, but I got off-track by my pn29
+attempts ;) Nothing really changed in the route, but the ending...just a
+tiny little change to how it's done. Probably where my 6 seconds came
+from. Still, a fun, fun map. Spent probably....um....10 hours or so to
+get a successful exit. All the exits I had before this had less than
+100% kills ;)
+
+Not much else to really say, so enjoy it ;) 6 seconds faster than the
+current Max ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+18.05.2003

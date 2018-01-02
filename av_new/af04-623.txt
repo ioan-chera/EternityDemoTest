@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AF04-623.TXT
+
+ AF04-623.ZIP
+
+  AF04-623.LMP - Ultra Violence Max with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 04 - Seclusion
+    
+  Kills    100%
+  (Items   100%)          *********
+  Secrets  100%  and Time * 06:23 *
+                          *********
+                          
+
+  Description:
+
+  [55th Compet-N entry]
+
+  Still easy for beat.
+  
+  Jakub "DooMerMan" Machata
+  kuba-m@seznam.cz

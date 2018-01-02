@@ -1,0 +1,25 @@
+WAD: Alien Vendetta
+MAP: MAP28: Whispering Shadows
+Time: 2:01.74
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: December 15, 2013
+
+Despite this demo's ugliness, I played for over an hour on this map and
+can't seem to do better. :/ I know that under 2 minutes is very possible,
+but my patience is thinning and I want to give my hands a break.
+
+That being said, somebody's gotta prove that this can be done under 2
+minutes. Even if that person is not me, I'd be very happy to see a 1:5x
+time or better (maybe there's a different route... but I highly doubt
+that).
+
+At least in this demo the elevator-switch trick worked well here. Sometimes
+that switch can be annoying and not want to be pressed as soon as you start
+trying from below. Other walls just scream "bump into me," and that exit
+trigger is rather easy to run right through (which happened to me once,
+leading to a 2:02 demo). Despite all that, I think this map is actually
+pretty fun, and you have good scenery along the way as you're strafing
+through.
+
+--Doomdaniel95

@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry
+
+AV24-143.TXT
+
+ AV24-143.ZIP
+
+  AV24-143.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file av.wad -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 24 - Clandestine Complex
+
+  Kills     37%
+  Items      6%           ********
+  Secrets   20%  and Time * 1:43 *
+                          ********
+
+  Description :-)
+
+  I wanted to introduce a couple of tricks I found as
+  a thank-you to Fish for assisting me in getting the new
+  AV release, but it seems stx-Vile already found them :)
+  (red door workaround and blue key bump)
+
+  I'm using a slightly different route than Vile does in his
+  Pacifist demo, though I don't really know if it's any faster.
+  Starting to wonder whether it would have been better to do
+  the first half Pacifist style, since you wake up some
+  teleporting monsters otherwise...
+
+  Anyway, for now I'm just happy to have made it through faster
+  than the Pacifist demo, surviving this run wasn't too easy
+  (especially since I leave the blue armor behind)
+
+  One thing might be worth noticing, though: Pressing the switch
+  with bars in front of it isn't necessary to open the "stuck"
+  door (i noticed Vile did in ap24-155), you just need to run
+  through the room.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

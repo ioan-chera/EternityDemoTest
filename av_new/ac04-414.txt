@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ac04-414.TXT
+
+ac04-414.ZIP - Coop UV max
+
+ac04e414.LMP - Eugene - Green
+ac04s414.LMP - Sergey - Indigo
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 04 - Seclusion  by Mattias Berggren
+      
+Kills       43%
+Items       46%
+Secrets     0%	
+
+Kills       37%
+Items       51%
+Secrets    100%	
+
+and Time - 4:14
+
+
+Description:
+
+
+Green:
+
+Heh, blame me. I lost a vile. We really deserve 3:57. See livevile.lmp.
+
+Indigo:
+
+I like this map.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+10.01.2007

@@ -1,0 +1,63 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ar10-854.lmp & ar10-854.txt
+Date     : 2013-04-156 11:44 -- (April 16, 2013, 11:44 AM)
+Game     : Alien Vendetta
+Client   : doom2.exe v1.9
+Category : Ultra-Violence -respawn
+Map(s)   : Map10: Toxic Touch
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Casey Alvis
+Nickname : Altima Mantoid
+Country  : United States
+Email    : altimamantoid@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  54%
+Secrets  : 100%
+Time     : 00:08:54:XX
+===================================
+Description:
+
+In er15-236, I said:
+
+>> I landed exactly 96/96 killed monsters.
+
+In pr03-307, I said:
+
+>> Exactly 100% kills on this map (or 52/52 enemies), just like in my er15-236
+demo. I'm getting lucky with -respawn kill ratios.
+
+Lucky? More like miraculously. 359/359 enemies killed in THIS one. Of course,
+having a much larger monster count severely decreases the likelyhood of, you
+know, actually getting an exact kill count. Yet somehow, again, I've gotten an
+exact ratio. First time is luck. Second time is silly. This is just
+preposterous how this one happened. Not gonna ask, just gonna nod and smile
+like I have an idea of what I'm doing or what is going on.
+
+Anyway... this is one that I just can't seem to rush. Not enough health for me
+to comfortably just run through it, and just the right designed scenarios
+where putting the map on -respawn makes me paranoid in certain spots. Some of
+the problem spots are at the rocket launcher (Zombiemen like to respawn right
+in front of your rockets and in your face), the Blue Key area (Chaingunners
+can respawn behind you and mow you down while you're dealing with the damn
+Arch-Vile), going from the Blue Key to the blue door and dealing with THAT
+Arch-Vile again (it sucks when you have no cover but I had a plan), the area
+past the Plasma Rifle because of the number of gunners, and the final room is
+plagued by Zombiemen and Chaingunnrs that like to respawn inconveniently,
+too.
+
+This exit is so slow compared to stx-Vile's 6:12 finish. I don't even see how
+that sort of time is even possible, especially not from me lol.
+
+It forces a slower type of gameplay as you are consistently having to look over
+your shoulder. You don't know when something will respawn behind you, or hell,
+even in front of you, that will cause you to lose a lot of health and/or die
+very quickly.
+
+One of my favorite maps (and map musics) in Alien Vendetta, so I'm happy to
+have gotten this one on one category or another.
+
+This map was made by Kim Andre "Mutator" Malde. RIP man, you're sorely missed.

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV01-116.TXT
+
+ AV01-116.ZIP
+
+  AV01-116.LMP - Ultra Violence Max!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 01 - Sunset
+    
+  Kills     100%
+  (Items     83%)          ********
+  Secrets   100%  and Time * 1:16 * 
+                           ********
+                          
+
+  Description: 	Plain and simple, this map plays like shit.
+
+		Thanks to QWERTY for some route ideas.
+  
+
+Author:      Anthony Soto
+E-mail:	     neworderdatabase@hotmail.com 
+WWW:	     http://thefish.8m.com/

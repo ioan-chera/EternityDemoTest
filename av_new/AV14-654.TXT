@@ -1,0 +1,55 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+av14-654.txt
+av14-654.lmp 
+av14-654.zip
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file av.wad -playdemo av14-654 
+
+
+Alien Vendetta - Level 14 - Overwhelming Odds
+
+Category: UV Speed
+
+Totals:
+
+Kills	74%
+Items	25%
+Secret	33%
+
+Comments: 
+
+I saw a gap in the tables and went for it - my first Compet-N
+entry :-) It's a ridiculously slow time for Speed but I couldn't 
+see any tricks to avoid having to fetch all the keys. Unless 
+you're supposed to slide underneath those half-open doors or 
+something :-/ Anyway this map is a blast to play max-style 
+without the bother of having to kill everything.
+
+This demo is much messier than I wanted (especially towards the 
+end which I have no way of practising as the map won't save) and 
+can be much improved but I decided to leave it for now. It's my
+first exit using the dangerous tactic of BFGing the Archies in 
+the red key room. I've been trying a new route that involves 
+grabbing the megasphere then going for the yellow key first, but 
+couldn't even get an exit. 
+
+Watching the demo there seems to be too much time spent 
+collecting ammo and killing things that could be dodged, but try 
+leaving things alone and it becomes a lot more difficult than 
+you'd think. The acid lake is a good example - I waste a lot of 
+time first clearing Demons and then dodging Cybies, but it's 
+rare to survive if you just try blitzing it.
+
+Possible improvements:- one of the hardest parts is the blue key 
+room - it would be a lot easier if we could arrange for someone 
+to hold the door for us ;-) And the red key room - can we make a 
+quick grab for it without clearing the Archies and still have 
+enough cells to make it to the finish?
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+01/07/2006

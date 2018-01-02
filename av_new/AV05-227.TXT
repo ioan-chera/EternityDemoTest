@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV05-227.TXT
+
+ AV05-227.ZIP
+
+  AV05-227.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 05 - Crimson Tide
+    
+  Kills     100%
+  (Items    15%)           *********
+  Secrets   100%  and Time * 02:27 *
+                           *********
+                          
+
+  Description:
+
+   Pfft..finally they cooperate. This took some hours of playing. The old
+   demopack time was suprisingly strong (as ugly as it is, its got
+   some real timesaving luck in it). Most fortunate part of this go
+   was the redkey room and the end section, its extremely rare you get
+   such a nice gathering infront of the revenant ambush to spend your rockets
+   on (which btw, is the only weapon usage difference from the demopack lmp).
+   You gotta make the ssg shots count in this map to get a nice time. It was
+   frustrating to have seemingly nice runs grant times like 2:36. Theres still
+   two fuckups present, one too many ssg shots on the imp ledge near archie
+   and one too many ssg shots on the first pain element released. On the
+   other hand I had luck with the monster crowd that teleport after you 
+   pick up rl (the ones I kill upon backtracking from bluekey). Those
+   usually take 3 shots. All in all happy with this run.
+  
+   Included two odd incidents as well, you'll see my 2'nd rocket fired
+   on the imp ledge hitting a corpse midair, best seen in funky_b.lmp
+
+   Anders Johnsen
+   andersjohnsen@hotmail.com

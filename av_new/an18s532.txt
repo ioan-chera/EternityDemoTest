@@ -1,0 +1,47 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+an18s532.txt
+
+an18s532.zip
+
+an18s532.lmp - Nightmare! Speed (also Nightmare! with 100% Secrets)
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 18 - Lake Poison
+
+
+================
+Kills       35%
+Items       35%
+Secrets    100%
+----------------
+Time       5:32
+================
+
+
+Description:
+
+Actually, I tried this map after I had done this map on UV-Max. 
+However, I always died in first area and I thought that this was 
+nearly impossible map on nightmare. 
+When I watched Ryback's UV-Fast demo (af182230), I wanted to 
+challenge this map again with his strategy referred. And, I turned 
+out that the first area wasn't hard. The three keys' area was 
+no problem. This is because you can prevent imps from teleporting 
+easily, it takes some time though. As I returned to the fist area, 
+The Spider Mastermind who was respawned was so troublesome. There 
+are many enemies which have hitscan attacks in the final area, so 
+I went to the area after getting a mega sphere. I would have died 
+if I had entered it with 0% armor remained.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+8 - Mar - 2010   47th Comepet-N Entry

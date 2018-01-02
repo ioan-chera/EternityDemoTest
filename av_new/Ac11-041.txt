@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AC11-041.TXT
+
+ AC11-041.ZIP
+
+  AC11-041.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 11
+
+  Kills     ??%           
+  (Items    ??%)          *********
+  Secrets   ??%  and Time * 00:41 *
+                          *********
+                          
+
+  Description :-)
+
+	This demo shows a nice SSG/SG jump.
+
+	The demo itself is so-so, I lost some time taking a medikit
+        and I got stuck but the revenant in the end...
+
+	Maybe u'll see future upgrades :)
+
+  Green  : Vincent Catalaa <vincentds@netcourrier.com>v
+  Indigo : Ondøej "RaideR" Vosátka <raiderr@email.cz>
+

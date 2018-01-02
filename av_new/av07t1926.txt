@@ -1,0 +1,10 @@
+Pwad: Alien Vendetta   
+Map:      7
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.3
+Time:      19:26
+
+-complevel 2
+
+Author:	   j4rio

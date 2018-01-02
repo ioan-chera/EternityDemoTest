@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AN07-215.TXT
+
+ AN07-215.ZIP
+
+  AN07-215.LMP - Nightmare
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 7 - Showdown
+
+  Kills     75%
+  (Items   100%)          ********
+  Secrets  100%  and Time * 2:15 *
+                          ********
+                          
+
+  Description :-)
+  
+  Not so difficult a map in nightmare. You need a reliable
+  strategy for the ending and for that I chose to use
+  strafe50 backrunning with rocket assistance. Adam has
+  shown that it can be done without the rocket boost.
+  It's necessary to pick up a berzerk to survive the rocketjump.
+  Oh yeah, I fell off due to my mouse going nuts, so overall
+  this demo shouldn't be hard to beat.
+
+  Xit Vono
+  Xit_vono@yahoo.com

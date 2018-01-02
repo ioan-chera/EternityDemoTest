@@ -1,0 +1,32 @@
+WAD: Alien Vendetta
+MAP: MAP11: Nemesis
+Time: 0:41.37
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 12, 2013
+
+READ THE P.S.!!!
+
+I got this in about half an hour, not because 41 is too hard to get, but
+just because I only had 3 good RJ's in that time. Yeah, it can get quite
+annoying when you keep failing it. The other two demos I had I exited with
+42.34 and 42.06. Just when I was about ready to stop recording for a while,
+I finally got this.
+
+While I think it's pretty good, I know under 40 is possible without all
+my bad and ugly mistakes. These bad and ugly mistakes occur due to the
+nature of the level, with winding, low-ceiling corridors, and also partly
+to my stupid playing. :)
+
+--Doomdaniel95
+
+P.S. I've tried RJ'ing without armor and just straight SR50 jumping over
+the barriers, but when recording without tools, it seems that you need to
+grab both the armor and RL and perform the RJ to stay alive and get over
+the barriers. In AV MAP20, however, I discovered that it's possible to
+SR50 jump over the gap that you'd RJ over. It would save a couple of 
+seconds because you don't need to grab RL and soulsphere. Since I can't
+seem to beat Cacatou's MAP20 run, I've included the demo showing the
+jump trick here. If you want to skip my crappy running at the beginning of 
+that one, the SR50 jump occurs sometime after 30 seconds into the demo. I
+also posted that trick demo on doomworld in the misc demos 2 thread. 

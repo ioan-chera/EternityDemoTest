@@ -1,0 +1,29 @@
+Runner: Zero-Master
+Date: 2017-07-27
+PWAD: AV.wad
+Category: Coop Pacifist TAS
+Map: 30
+Source Port: xdre2.06 (I grabbed some DooM2 v1.9 2-player demo and used XDRE only)
+
+Kills    : 100%
+Items    : 0%
+Secrets  : 0%
+Time     : 01:22
+
+Description: 
+Obviously slower than the UV-Speed, but this is done pacifist.
+
+I have spent some time recently looking into void glides 
+and I've discovered so many different angles being possible.
+Naturally I saw the corners on AV map 30 as I've been planning to
+do a d2all uv-speed and I noticed the deathmatch part of the map.
+So I clipped into the void to see if I could move anywhere, turns 
+out you can reach the exit switch!
+
+I've tried finding a spot where you can gain enough momentum to
+go through without having to resort to coop, but unfortunately
+I couldn't find anything. Might still be possible, but for now
+a coop demo shows the trick.
+
+Also I didn't notice the second megasphere so I wasted some time, 
+I didn't really care about the time even though it's TAS.

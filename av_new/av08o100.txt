@@ -1,0 +1,32 @@
+WAD: Alien Vendetta
+MAP: MAP08: Beast Island
+Time: 1:00.74
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: December 20, 2017
+-complevel 2
+
+I was watching some AV demos recently and decided I wanted to make one of my own. For nomonsters, this meant trying to beat Cacatou's time on another map
+I haven't already (MAP06, MAP09, MAP11, MAP12, MAP14, MAP18, MAP21, MAP23, MAP28, MAP29). 
+
+I had been looking at MAP15 a bit, but both times there seem really solid to me. I also looked at MAP10 with the possiblity of an SR50 jump across the pit
+at the beginning, but that seemed to fail me. I don't know if it's possible or not. Then, I started looking at this map and doing some test runs on my own.
+After figuring out a decent route/way to move around the map and how not to get "extremely" stuck, I got a 1:02 very quickly, then a 1:01.87 a few tries
+later. Those demos still had parts where I knew I could improve, so I decided to make a demo for this map.
+
+It wasn't easy for me, but it was pretty fun. Over two days, I had about 2 hours of attempts on Day 1 and between 30-45 minutes of attempts on Day 2, with
+this run being my success at beating the 1:01 time. Despite being difficult to avoid bumping on a lot of walls, I enjoyed running through this map. The
+scenery is amazing, and there are some open parts that do give good breaks from having to worry about bumping into stuff very easily. The most annoying part
+by far was running on the very thin ledge to get into the fortress (after teleporting). It's really easy to be running at an angle that you think will work,
+but then a microcollision with the wall makes you fly off, killing your run. Eventually, I found my chances were better of staying on the ledge if I faced
+the wall more, which does cause the journey to be a bit slower, but oh well. Other notable annoyances include the first teleporter's linedef being extremely
+easy to skip (so I let up on my strafe key just before entering) and the jump to the switch that opens the exit going wrong. It's an easy jump, but it's also
+easy to hit either wall and screw it up, especially when you're moving quickly.
+
+This demo has a couple of bumps (worst being after successfully getting across the ledge and then opening the door to hit the switch for the elevator), and 
+it's SR40 only, so under one minute is definitely possible. I'm not sure if trying to do the glide to the first teleporter is worth it or not. It does face
+south, but you'd have to get it almost immediately to save time, and I wasn't about to incorporate that kind of frustration in for something like that.
+
+Enjoy.
+
+--Doomdaniel95

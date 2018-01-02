@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV15s257.TXT
+
+ AV15s257.ZIP
+
+  AV15s257.LMP - Speed - Secret Exit
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 15 - Bulls on Parade
+
+  Kills     ?%           
+  (Items    ?%)          
+  Secrets   ?%  and Time = 02:57 
+                          
+
+  Description: And done to the secret exit. Now you don't have to wait for
+               the column to lower, but the doorway to the secret exit
+               is surrounded by spiders and demons, so it's necessary
+               to lure some out. I may have waited a little too long here,
+               though...
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

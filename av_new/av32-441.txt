@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV32-441.TXT
+
+ AV32-441.ZIP
+
+  AV32-441.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 32 - No Guts No Glory
+
+  Kills       100%           
+  (Items       61%
+  Secrets     100%  
+
+  and Time:  04:41 
+             -----
+                          
+
+  Description:
+  
+  This demo is a complete crap, my first exit actually which
+  I did after one hour of playing. Then, I was trying for couple
+  of hours but couldn't improve it, altho I had some nice looking
+  demos, but always screwed the exit part that depends on infights
+  too much. I just wanted to fill a gap in AV table and don't 
+  expect to keep it long. Anders or Vile can beat it quick.
+  Anyway, I like this map and hope to send some faster demo of mine
+  to SDA (if I make any of course ;)
+
+
+  Radek Pecka
+  r.master@email.cz

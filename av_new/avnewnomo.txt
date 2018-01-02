@@ -1,0 +1,43 @@
+WAD: Alien Vendetta
+MAPS: Various
+Time: Various
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Hey, just trying to improve my old nomo times for AV! :)
+
+MAP and Time:
+MAP01 (Sunset): 0:30
+MAP02 (Rusty Rage): [Not improved..see old run] 
+MAP03 (Cargo Depot): 0:53
+MAP04 (Seclusion): 1:09
+MAP05 (Crimson Tide): 0:44
+MAP06 (Hillside Siege): 1:15
+[MAP07 left out due to being impossible to exit on nomo]
+MAP08 (Beast Island): 1:07
+MAP09 (Castle Grounds): 0:35
+MAP10 (Toxic Touch): 1:59
+[MAP11 left out due to being so long and annoying]
+MAP12 (Entropy): 1:00
+MAP13 (Suicidal Tendencies): 1:35
+MAP14 (Overwhelming Odds): 2:06
+MAP15 (Bulls on Parade): 2:26
+MAP15s (Bulls on Parade): 1:54
+MAP16 (Mutual Destruction): 1:19
+MAP17 (Nukefall): 0:38
+MAP18 (Lake Poison): 1:36
+MAP19 (Alien Resurrection): 2:44
+[MAP20 left out due to being so long]
+MAP21 (One Flew Over the Caco's Nest): 0:37
+MAP22 (Rubicon): 0:56
+[MAP23 left out due to being so long and annoying]
+MAP24 (Clandestine Complex): 1:16
+MAP25 (Demonic Hordes): 1:27
+MAP26 (Dark Dome): 1:48
+MAP27 (Stench of Evil): 2:26
+MAP28 (Whispering Shadows): 2:32
+MAP29 (Fire Walk with Me): 1:25
+[MAP30 left out due to being so annoying]
+MAP31 (Killer Colors): 2:56
+MAP31s (Killer Colors): 2:49
+MAP32 (No Guts No Glory): 0:32

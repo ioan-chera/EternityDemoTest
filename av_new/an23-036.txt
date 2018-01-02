@@ -1,0 +1,45 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+an23-036.txt
+
+an23-036.zip
+
+an23-036.lmp - Nightmare! Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 23 - Blood Sacrifice
+
+
+================
+Kills        9%
+Items       20%
+Secrets      0%
+----------------
+Time       0:36
+================
+
+
+Description:
+
+SAV88 demonstrated a new route again. He survived the latter 
+part of the run without BFG, and it was a great and bold way. 
+I thought I should act more aggressively as well, so I improved 
+the beginning part. This way was hard, so I couldn't afford to 
+aim the shortcut by the first vile's attack any more, unlike my 
+an23-042. However, the way is more practical than the vile jump 
+on the first attack at least. Well, I was annoyed that a demon 
+in the start area often came behind the last mancubus. I died 
+two times because of the demon after I managed to avoid the last 
+mancubus. In this run, I lost one or two seconds for it.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+10 - Jan - 2011   66th Comepet-N Entry

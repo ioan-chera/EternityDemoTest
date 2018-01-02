@@ -1,0 +1,17 @@
+WAD: Alien Vendetta
+MAP: MAP14: Overwhelming Odds
+Time: 2:00.74
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: December 15, 2013
+
+After trying for a while (and failing) to beat Cacatou's time for MAP13,
+I decided to come to this map for something new since his 2:04 was a low
+one (not many hundredths of a second). Well, I matched 2:04 on my second
+try not having even familiarized myself with the map well. Definitely
+MAP14 was one of the weaker runs in his pack, if not the weakest. It took
+me only about 20 minutes to improve it 4 seconds. Still, this demo is a
+bit sloppy, so a time sub 2 minutes is possible. I don't want to do it now,
+however.
+
+--Doomdaniel95

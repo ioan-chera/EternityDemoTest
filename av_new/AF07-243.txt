@@ -1,0 +1,40 @@
+This is a DooM .LMP "COMPET-N/AV*/" Entry - Please forward it...
+
+AF07-243.ZIP
+
+ AF07-243.LMP
+
+  AF07-243.TXT -Ultra-Violence -FAST
+
+  Recorded using "DooM 2 v1.9 - Alien Vendetta*" ! (Complevel 2)
+  DooM2 -file av.wad -PlayDemo with Version 1.9
+  *=(2nd Release)
+
+  Alien Vendetta* - Level 7 - Showdown by Anders Johnsen
+
+  Kills:  45 / 45 (100%)
+  Items:   0 / 0 (ERROR)           ********
+  Secrets: 1 / 1  (100%) and Time  * 2:43 *
+                                   ********
+  C-N entry #54.	Date: 30.03.2013
+
+  Description :)
+  First exit, easiest C-N entry I've ever submitted -- though not the worst.
+  Very fun map, (I enjoy it more than LV07) so I will improve this later.
+  								
+  								
+  By the way, COMPET-N record was 2:59 by Tomas Kollar, timestamped:
+  Saturday, March 06, 2004, 1:16:58 AM.
+
+  Complete Historic COMPET-N Leaderboard:
+  AF07-259 - Tomas Kollar - 06.03.2004
+  
+  
+  Note: Since this demo was recorded with AV.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/84/av_new.zip
+        and pick it up if you havn't already :) 
+ 
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

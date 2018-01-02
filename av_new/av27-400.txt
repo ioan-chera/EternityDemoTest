@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+av27-400.txt
+av27-400.zip
+
+av27-400.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 27 - Stench of Evil
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       4:00
+=--------------=
+
+C-N entry #179.
+
+A rather poor speedrun, though fulfilling
+its only original purpose by demonstrating
+a simple but major shortcut.  It's the use
+of flipping a switch from the lava in the
+final room, normally only accessed after
+going through the red and blue doors, so
+only one key is needed here.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

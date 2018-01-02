@@ -1,0 +1,12 @@
+Wad: Alien Vendetta
+Map: 1: Sunset
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 2:00
+Time: 1:41
+Category: UV max
+
+First map of AV, just a very easy map, except the secret to soulsphere annoys me due to a narrow and damaging
+passage.
+
+Nothing hard, this map should have finish below 2 minutes without much problem.

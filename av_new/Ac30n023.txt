@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AC30N023.TXT
+
+ AC30N023.ZIP
+
+  AC30N023.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 30
+
+  Kills     ??%           
+  (Items    ??%)          *********
+  Secrets  100%  and Time * 00:23 *
+                          *********
+                          
+
+  Description :-)
+
+	This demo is rather old, it's been made with 1st version of AV.
+
+	Coop makes this map verryyy easy :)
+
+	This is nm100s too... I don't know where is that secret but 
+        we got it :)
+
+
+
+  Green  : Nicolas Gandou <nicodv@netcourrier.com>
+  Indigo : Vincent Catalaa <vincentds@netcourrier.com>

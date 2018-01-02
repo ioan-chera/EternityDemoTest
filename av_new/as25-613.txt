@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+as25-613.TXT
+
+ as25-613.ZIP
+
+  as25-613.LMP - NM100!
+
+  Recorded using "DooM2 version 1.9"
+  doom2 
+
+  Alien Vendetta: - Level 25, "Demonic Hordes" by Vincent Catalaa
+
+  Kills     49%
+  Items     56%              ++++++++
+  Secrets   100%  and Time   + 6:13 + 
+                             ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :) Definitely one of my best demo I've ever done. The idea of doing
+  #################  this came a lot time ago, 2011 I guess, since this is the first 
+  # "slaughter map" (I used " " since it's different than HR, but still over 1300 monsters...)
+  # I ever played, and I was impressed with it. Of course I didn't even tried this back then,
+  # since my skills weren't that great. But now, I decided to play again this and man,
+  # it took me a whole week just to study and decide the route, there are a lot avaible, but
+  # this one is fast and not insanely hard (thanks to green spheres), but it requires some luck. 
+  # The route is divided in 3 parts, the first one is the easiest one, I almost never died
+  # up to the cathedral, then the second part comes. After a week of playing and dying there
+  # I finally learnt a good way to do it, once again, training a lot was necessary.
+  # Last part begin with a gamble, arc jump or fence glide? After deciding a lot, I chose the
+  # arc jump, but still, I died many times there because they didn't attack me, also,
+  # in doom2 verson 1.9 you have to be near those monsters to actually see them.
+  # Then, the hardest and frustating part, which is all focused on run & killing and doing everything
+  # you can to avoid those cybers in front of doors. I also had to train a lot and decide 
+  # the best way to use the green sphere, though everything can happen here, so I'm glad with
+  # how this turned out, being locked out in that room with all those cybers, heh, it was
+  # quite something, in other attempts this didn't happen at all.
+  # The bfg secret is sloppy because I noticed in prboom that not always you take it, so I
+  # decided to cross that sector many times to be sure.
+  # Last secret is quite easy, but if you go to last part with low health you can die, so
+  # I had to be careful there too. The end kinda sucks, stupid spider, but who cares.
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

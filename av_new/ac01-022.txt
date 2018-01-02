@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ac01-022.TXT
+
+ac01-022.ZIP - Coop UV speed
+
+ac01e022.LMP - Eugene - Green
+ac01s022.LMP - Sergey - Indigo
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 01 - Sunset  by Martin Aalen Hunsager
+      
+Kills        6%
+Items       66%
+Secrets      0%	
+
+Kills        0%
+Items        0%
+Secrets      0%	
+
+and Time - 0:22
+
+
+Description:
+
+First exit under previous run's time.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+11.01.2007

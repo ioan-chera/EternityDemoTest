@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV01-031.TXT
+
+AV01-031.ZIP
+
+AV01-031.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 01 - Sunset
+
+Kills       25%
+Items        0%
+Secrets      0%
+
+              ********
+  and Time -  * 0:31 *
+              ********
+
+
+Description:
+
+I worked from a :34 to a :31....I had a 32.02 which drove me to go for 31.
+
+30 is possible...
+
+The map has some places that you can easily get stuck, but it's fun to speed ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+09.01.2003

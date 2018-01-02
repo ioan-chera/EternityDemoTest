@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AP01-031.TXT
+
+ AP01-031.ZIP
+
+  AP01-031.LMP - Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 01
+
+  Kills     ?%           
+  (Items    ?%)          *********
+  Secrets   ?%  and Time * 00:31 *
+                          *********
+                          
+
+  Description :-)
+  
+  An easy map for pacifist. 
+
+  Erik Alm
+  erik_a80@hotmail.com

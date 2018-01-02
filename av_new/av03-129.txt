@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV03-129.TXT
+
+ AV03-129.ZIP
+
+  AV03-129.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 03 - Cargo Depot
+    
+  Kills     56%
+  (Items    34%)          ********
+  Secrets    0%  and Time * 1:29 * 
+                          ********
+                          
+
+  Description:
+
+  [Compet-N entry #104]
+
+  Before this run I did:
+
+  1:31 [1x] (last record)
+  1:32 [1x]
+  1:33 [8x]
+  1:34 [3x]
+  1:35 [8x]
+  1:36 [2x + 1 where I use IDCLIP at the end,]
+       [     because I did many errors there ]
+  DEATH or QUIT [337 tries - exits (24) = 313 ]
+
+  Jakub "DooMerMan" Machata
+  DMrM@seznam.cz

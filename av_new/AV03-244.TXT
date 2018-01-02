@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV03-244.TXT
+
+ AV03-244.ZIP
+
+  AV03-244.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 03 - Cargo Depot
+    
+  Kills     100%
+  (Items     29%)          ********
+  Secrets   100%  and Time * 2:44 * 
+                           ********
+                          
+
+  Description:
+ 
+  Well, I did a 3:04 for the demopack...thing is, old version of the map
+  had 9 spectres more in the bluekey garden. This attempt was not horrible,
+  tho not totally satisfying. I'm not gonna spend too much time on these
+  maxers tho, better to cover some ground seeing theres plenty of holes
+  in the tables. Obvious errors include the retarded movement in rl secret
+  which sorta led to a sucky cg entry in the storage room before I shook it
+  off and had some fortunate ssg shots. Woulda aborted there if the far off
+  imp next to the cg'ers corner didn't die too (he rarely does). Fuckup two
+  was rockets not being effective enough in clearing out yellowkey cave, got
+  stuck on a survivor. Then there was some fumbling with the switch lowering
+  the grey blocker near the exit, not really a timeloss but ugly. Oh, and of
+  course, there was the incident early on with one too many ssg shots on the 
+  cg'ers nest in the first crate room of the map. Anything sub 2:50 is ok
+  here tho. Around 2:35-2:30 over the same route and we are talking neato.
+
+  Anders Johnsen
+  andersjohnsen@hotmail.com

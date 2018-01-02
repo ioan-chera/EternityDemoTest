@@ -1,0 +1,15 @@
+           Alien Vendetta
+           Map 01: Sunset
+  Map Author: Martin Aalen Hunsager
+-------------------------------------
+           av01o025.lmp
+
+Nomo in 0:25.66
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Had this on my backlog for some time, after seeing Kyle upload a 0:26, I decided to push it up the backlog. :) A little under 200 attempts (plus some extra earlier unrecorded practice), so this didn't take too long, end movement was kinda ugly and I had a hiccup before the green torch and slid alongside that wall too much. Dunno about the possibility of 24, but I'm not inclined to try since it would take too long and I have other runs to do. 

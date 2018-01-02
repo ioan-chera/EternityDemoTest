@@ -35,6 +35,7 @@
 2 1monster -file 1monster/1monster.wad
 2 1monster/bugfix -file 1monster/1monster_bugfix.wad
 2 av_old -file av_old/AV.WAD
+2 av_new -file av_new/AV.WAD -deh av_new/AV.DEH
 1 competn/doom
 1 01fava -file 01fava/FAVA.WAD
 2 cydreams -file cydreams/Cyber110.wad -deh cydreams/Cyber110.deh

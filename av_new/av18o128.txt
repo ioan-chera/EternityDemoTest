@@ -1,0 +1,12 @@
+WAD: Alien Vendetta
+MAP: MAP18: Lake Poison
+Time: 1:28.86
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: December 10, 2013
+
+It took me a fair bit of time to get this, even though the demo looks 
+rather ugly. Oh well, at least I still had fun with it since I like this
+map. :) 1:27 or below is very possible.
+
+--Doomdaniel95

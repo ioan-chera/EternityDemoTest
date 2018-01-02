@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AC25-123.TXT
+
+AC25-123.ZIP
+
+AC25-123.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 25 - Demonic Hordes
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 1:23 *
+              ********
+
+
+Description:
+player 1: Method_man
+player 2: Erik
+
+Erik:
+Coop this time, nice extra monsters to use as rocket push springboards.
+This is our second exit, and it's a pretty good one too =) Not too sure about the
+time, timer.exe choked and lmpc is always a bit uncertain.
+
+method_man:
+We played over zone.com.I had big lagz .SO my first coop. run with erik entry :)
+
+Authors:      Erik Alm
+	      Jakub "method_man" Razak
+
+E-mails:      erik_a80@hotmail.com
+	      dale007@volny.cz
+

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV25-118.TXT
+
+ AV25-118.ZIP
+
+  AV25-118.LMP - Ultra-Violence Speedrun
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 25 - Demonic Hordes
+
+  Kills      5%
+  Items     20%
+  Secrets    0%
+
+                  ********
+  ... and Time -  * 1:18 *
+                  ********
+
+
+  Description:
+
+  Just a little break from zdaemon. Quite an easy run, but some luck
+  is needed.
+
+  
+  Radek Pecka
+  r.master@email.cz

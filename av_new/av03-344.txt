@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:       av.wad
+Maps:       03
+Skill:      4
+Category:   max
+Exe:        prboom-plus.exe -complevel 2
+
+Time:       3:44
+
+Author:     Light_Speed (aka odysseyofnoises)
+Email:      cubecat589@gmail.com
+HP:         http://youtube.com/odysseyofnoises/

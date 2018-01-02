@@ -1,0 +1,25 @@
+WAD: Alien Vendetta
+MAP: MAP08: Beast Island
+Time: 0:58.26
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: December 21, 2017
+-complevel 2
+
+Ok, going for 57 was too frustrating. I swear the walls in the first 20 seconds have arms that try to grab you, the first teleporter is ridiculously easy to
+skip, there are still issues with the wall the narrow ledge rests against wanting to throw me to the ground and kill my run, and even if all that goes well,
+there are still two jumps that can mess up a good run right at the end.
+
+First, the SR50 jump shortcut. Big thanks to GrumpyCat for pointing this out to me; my unobservant self never thought of it. It's a good shortcut, easy for
+an SR50 jump, but the problem is getting it first try when you don't want to waste a lot of time setting up. It's pretty much luck-based at that point. I
+probably got it 1/4 times I even got to that point and didn't mess up on earlier crap.
+
+Same goes for the jump to the switch that opens the exit. I found this one a little easier to do quickly, probably got it in every 1/3 runs where I got to
+that point, and it doesn't require me to stop and press my SR50 key.
+
+I got this demo in about 30 minutes, but after another 90 of trying to get 57, there's no progress. I managed to get another 58, some tics slower, however...
+
+Yes, this got past the point of fun for me. I hate releasing a low 58, but I need to quit wasting my time on this. I still love this map, but I need a break.
+Maybe I'll go for 57 at some point later if nobody else does. No guarantees, though.
+
+--Doomdaniel95

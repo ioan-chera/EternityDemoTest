@@ -1,0 +1,42 @@
+This is an Alien Vendetta demo.
+
+AV04-422.TXT
+
+ AV04-422.ZIP
+
+  AV04-422.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 04 - "Seclution"
+
+   Kills: 	100%
+   Items:	 97%
+   Secrets:  	100%
+
+   Time: 	4:22
+		----
+
+Description:	Casual play, equals demopack time (that one is ugly
+                but have a better monster lineup and infight). Lots of 
+                slow spots here for people to attack :) We could start
+                with the obvious infight aspect which matters alot in
+ 		every crowded area of the map. Here they go so-so in the
+                first room but not great at all in the main stairway ambush,
+                the baron really eats alot of time in this demo. One could
+                wonder if going for the redkey before the plasma would 
+		create some nice cg infights in that area too...
+		Next terribly slow spot in this demo is the imp wave that
+		lowers as you hit switch behind red door. Not good lineups
+		at all, and main point of timeloss in this demo together
+		with the way too many shots in the upper room after the caco.
+		The yellowkey ambush can be terminated by one rocket too,
+		and I waste a rocket on the archie. That ledge archie is
+		the one annyoing thing about this map for max, the bitch
+		enjoys running wild up there. Give em some freedom and this
+		is the thanks you get. Anyway, obviously a demonstration
+		demo begging to get improved.  Vile? DooMerMan? Pecka? :)
+    	        
+Author:    Anders Johnsen
+E-Mail:	   andersjohnsen@hotmail.com

@@ -1,0 +1,25 @@
+Filename : av15t2624.txt, av15t2624.lmp
+Date     : 2015-06-30
+Game     : Alien Vendetta
+Client   : prboom-plus-2.5.1.3
+Category : Tyson
+Map      : 15
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Nickname : Aqfaq
+Country  : Finland
+-------------------------------------------------------------------------
+Kills    : 104%
+Items    : 80%
+Secrets  : 66%
+Time     : 26:24
+===================================
+This was hard. Took me about 100 attempts, most of which were very short. That is because I make an aggressive start and skip the blue armor until I've gotten the yellow key and the berserk pack. This fails often, but it takes less than a minute to try, so it is worth dying and restarting many times instead of playing safe and wasting the armor early.
+
+The elevator trap seemed too difficult at first and I tried many strategies for dealing with it, none of which seemed to work consistently. Then I decided I'll just go with berserker's luck and punch all the cacodemons as soon as they appear. THIS!!! IS!!! TYSON!!! I also learned how to trap the last pair of the elevator ambush monsters in their happy gay marriage wall socket, which helped a lot. By getting rid of uncontrollable monster chaos I make the run look much easier than it is. For me the elevator trap is the highlight of the run, because it caused me so much trouble until I learned a good way to do it.
+
+There are many little details in this map that I utilize to make the run easier. In the last area it is very important to not wake up people. Otherwise it gets too crowded. Near the end of the run I telefrag an arch-vile, but it is completely accidental. This is the first time it happened, and I had not practiced the ending much, so I was afraid that the cyberdemon would not die from my pistol shots. Luckily, the infights worked well. It looks like the cyberdemon took nice damage from barons and an arachnotron. I had spent hours dying in stupid situations, so forgive me for not killing the cyberdemon any faster.
+
+Watching j4rio's runs helped again. Now I know how to punch barons quite fast and safely. Interestingly, fast is safe when punching barons.
+
+TL;DR THIS!!! IS!!! TYSON!!!

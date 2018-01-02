@@ -1,0 +1,47 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+av29-457.txt
+
+av29-457.zip
+
+av29-457.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 29 - Fire Walk With Me
+
+
+================
+Kills      101%
+Items       25%
+Secrets    100%
+----------------
+Time       4:57
+================
+
+
+Description:
+
+Looper's failed demo of av29 showed possibility of below 5 min, but 
+it was really hard for me. While attempting this map, I tried various 
+routes, including Looper's route. However, I wasn't able to find much 
+more effective routes. All of them just brought for around 5 min or 
+slower time. In this run, I ignored teleporting enemies after the red 
+key's door. After I got the blue key, an arch-vile upset me and I lost 
+over 5 sec, but this run was so smooth, excluding it, in my runs. You 
+can save at least one BFG shot in the area with many revenants. It means 
+you have 560 cells when you pick up 100 cells after killing 4 viles. It 
+was not hard but not easy, and it was not very important for under 5 min, 
+so I didn't aim it. Saving two BFG shots is not impossible but it is a 
+rare case. It is probably not practical.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://tatsurdcacocaco.ninja-web.net/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+8 - Feb - 2012   76th Comepet-N Entry

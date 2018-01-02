@@ -1,0 +1,19 @@
+  Recorded using Prboom with TAS features
+
+  Alien Vendetta - Level 22 - Rubicon - Nightmare!
+
+  Kills     75%
+  (Items    45%)          ********
+  Secrets  100%  and Time * 3:18 *
+                          ********
+                          
+
+  Description :-)
+    
+  This is just a quick TAS demo to show it's possible. If anyone
+  wants to give this a try then they can use this demo for ideas.
+  I will be trying this off and on for a while until hopefully
+  I get it done.
+
+  Xit Vono
+  xit_vono@yahoo.com

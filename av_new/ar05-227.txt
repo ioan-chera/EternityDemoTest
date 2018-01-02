@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AR05-227.TXT
+
+AR05-227.ZIP
+
+AR05-227.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Map 05 - Crimson Tide
+
+Kills      108%
+Items       20%
+Secrets    100%
+
+              ********
+  and Time -  * 2:27 *
+              ********
+
+
+Description:
+
+This equals max time, but I'm not very happy with this demo. There are too much kills and
+wasted shots. My best exit time was 2:19 (95% kills), so under 2:00 should be possible for
+a really good player.
+
+
+Author:      Jochen "Angus" Schneidau
+E-mail:      cohen-lbg@gmx.de
+
+
+05.09.2003

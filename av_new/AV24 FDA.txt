@@ -1,0 +1,35 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+-----------
+FDA demo
+
+FDA demos are demos you have recorded when playing a map for the first time ever, with no previous knowledge of the map. That is, you have never ever played it before, and have not looked at it in an editor, or watched demos on it.
+
+-----------
+
+Pwad:      Av.wad
+Pwad name: Alien vendetta
+Iwad:      Doom2.wad		
+Category:  Uv-FDA
+Port used: PrBoom+ 2.5.0.7
+Complevel: 2
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+Date:	   12/03/2011
+
+
+ MAP    | TOTAL  |  LAST  | DT | NOTE
+-------------------------------------------------------
+ map24  | 33:20  |  11:18 |  4 | 
+ 
+-----------
+Ending score
+-----------
+Kills:   100%
+Items:   68%
+Secrets: 60%
+-----------
+
+Detailed comments:
+very cool map, but thats normal for AV; every map of the wad is wonderful ;)

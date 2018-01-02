@@ -1,0 +1,26 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : av09-904.lmp & av09-904.txt
+Date     : 2013-09-06 17:42
+Game     : AV
+Client   : prboom-plus 2.5.1.3 (-complevel 2) boom HUD, smart totals OFF
+Category : Max / R3ality
+Map(s)   : MAP09
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Chris Balch
+Nickname : TimeOfDeath
+Country  : Canada
+Email    : thelastbreathofthedying@yahoo.com
+WWW      : http://nostrilcaverns.bandcamp.com
+           http://youtube.com/timeofdeath
+           http://timeofdeath.wrvids.com
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : ???%
+Secrets  : 100%
+Time     : 00:09:04:XX
+===================================
+Description :-)
+
+NOTE: "r3ality" means "reality". The same reality rules apply for r3ality, except you're also allowed to get hurt by damaging sector floors like acid (without abusing them by standing in them to fight monsters, etc). On some maps it's impossible to finish without getting hurt by a damaging floor, other times you have to rely on the random behaviour of those sectors to not damage you immediately. The degree of luck required to avoid damage depends on how much acid you must run through and how difficult the map is in general, so sometimes it's worth retrying until you avoid damage, other times it's not. This is very annoying for reality play, including this demo, hence "r3ality".

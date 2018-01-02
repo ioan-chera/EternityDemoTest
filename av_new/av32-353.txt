@@ -1,0 +1,34 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+	
+Iwad:      	doom2.wad
+Pwad:     	av.wad
+Pwad name: 	Alien Vendetta
+Map:      	32 – No guts no glory
+Skill:     	Ultra Violence
+Category:  	Uv-Max
+Port used: 	PrBoom+ 2.5.1.4
+Time:      	03:53
+Complevel: 	2
+Author:    	blob1024 aka Adramelk
+Email:     	adramelk1024@yahoo.it
+Date:	   	24/02/2013
+
+------------------
+
+
+Comments:
+
+One of the levels created by one of the top 5 players ever, Anders Johnsen who sadly kinda left the show for a while...
+The level is divided in 2 main rooms, with hundreds of enemies to slain. There are little space to feel safe, and the large ammo amount can finish without proper tactics. A major role in clearing the areas is bound to infighting, which can help a lot. Like stx-vile and Radek's old videos, the route I choose is the one suggested by the author himself; the main strategy is to collect as soon as possible the keys and wake all monsters in the second half, to let them kill each other and clear the first half before returning there. Even excellent starts of demos may turn to be much slower or ruined by bad infighting or unlucky monster behaviour, like cyberdemons waiting right at bottom of the elevator or archviles being bitches. In order to survive you have to choose which weapons to use but... to hope in a good exit time you will be pretty much relying just on BFG :) I make sure to wipe the 2 archviles in front of the keys, and best which can happen there is that the cyberdemon fires towards the revenants, starting right away the fight. Very often you are forced to retreat before that happens, getting blasted by cross fire or because cyber is already "busy" with something else. Second half is more delicated, as everytime you return there it's a totally different story. You'd best to see most of the PEs and lost soul killed, so that no shits floating around blocks your run and leads a rocket in your face... but it may be fine to have most of the enemies on the fences near the exit killed, and the rest well packed.. it really depends. Since I was having hard times to get a low 4min exit for weeks, I then came up with a couple little new ideas to (possibly) be faster... but everything brought even more risks of course :) Once I started to have decent infighting on the second area, I could finally score a 03:58 and 03:59, and then this record exit. There are two sloppy BFG shoots, and the 2archviles close to the start of map sucked ass - wasting some seconds, but all in all it was okay. I was lucky to have the final cyber dying from fireballs, so that my cells were enough to wipe everything else and run away. Dont know if I'm terribly unlucky, but I had less than 10 times 345~ kills on the way back, in probably more than 200 attempts reaching that final part...
+
+The DSDA record for this version was 04:41 from Radek, even if it was already improved by Tatsurd Cacocaco as well (04:21, you can watch it on his youtube page) ... he didnt public the demo on DW because Anders made a faster 03:58 back in 2002 for the first release, which was till today the fastest exit recorded.  Nothing important change between the 2 versions but Anders demo desynchs with the newer av.wad. According to Anders' txt in the old av demopack, I'm quite happy to have improved an "hardworked" demo of his, even if it took for me an embarassing amount of tries and time to get under 4mins (maybe Memfis can understand this very very well eheh, after he struggled to improve Anders' "20min work" map1 run).
+This demo was the 4th of my dream demo list, and couple among the other 5 will most likely impossible for me I guess

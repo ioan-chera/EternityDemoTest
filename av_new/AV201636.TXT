@@ -1,0 +1,49 @@
+This is a Doom LMP Entry
+
+AV201636.ZIP
+
+	AV201636.TXT
+	AV201636.LMP - UV Max
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Alien Vendetta - Level 20 - Misri Halek
+
+=---+------+---=
+Kills       100%
+Items       100%
+Secrets     100%
+ 
+TIME       16:36	Old record: 17:41 by Tatsurd-cacocaco
+=---+------+---=        
+
+Demo entry #75.
+
+Description:
+
+Many doomers consider this legendary map to be the most impressive level ever.
+My personal most beloved map is HR26, but AV20 is also one of my all-time
+favorites (about on par with Deus Vult Map04 and Eternal's Gravity.wad). And
+unlike some people, I just love that majestic, thrilling mountain section, and
+I think this map wouldn't be SO epic and atmospheric without it. 
+
+There is an old Alien Vendetta review by NoPoet, written highly creatively
+and eloquently. For example, I really recommend reading his Map20 description:
+http://web.archive.org/web/20030813225723/www.nopoet.pwp.blueyonder.co.uk/av.htm
+
+When I first played this level in 2004, it was just as tough for me as HR24, and
+much harder than AV25/AV26 (though still easier than HR26, AV27, Scythe Map30
+and HR2 Map32). It felt so long, and dangerous from beginning to end. My first
+survival time was 55:58, and it's nice that today I can do it in under 1000
+seconds (16:40).
+
+Under 16 minutes of course doable, but sub-16:40 was already challenging enough
+for me. I agree with what Tatsurd said about the difficulties of this run in his
+previous TXT's. Demo has some slow ugly actions in the final third, but overall
+turned out reasonably smooth, and the end went just the way I wanted :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 15, 2010, 11:33:08

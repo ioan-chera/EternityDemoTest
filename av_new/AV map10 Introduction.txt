@@ -1,0 +1,19 @@
+Wad: Alien Vendetta
+Map: 10: Toxic Touch
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 9:00
+Time: 8:50
+Category: UV max
+
+This map take place in a toxic treatment plant, and it is swarmed with a lot of zombies, as well as some imps and
+demons, archviles etc.
+
+As what tatsurd have said before, zombies attack are unavoidable. There's lot of toxic waste in this map, but 
+there's no radiation suit. You also can't get an armor until the later part of this map, which is inside a fake 
+wall in the red key area. Therefore getting to low health is easy. The hardest area is probably the mancubus area,
+which I usually dead in that part. Other from this, the last part is also quite tough. I try to kill the 
+chaingunners first then the monsters at the lower level to save time.
+
+A very nice map with a very nice music, "Plasma" from Duke Nukem 3D is one of my favourite music. This map also
+have a great and beautiful design, which makes this map as one of my favourite map in AV.

@@ -1,0 +1,53 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+av201840.txt
+
+av201840.zip
+
+av201840.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 20 - Misri Halek
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time      18:40
+================
+
+
+Description:
+
+This map is one of the famous maps from Alien Vendetta, and 
+I also like it very much. This is a really difficult map.
+Although this map is very long, there is no armor in the first 
+half, so any enemies' attacks can have fatal damage.
+All credit for the route goes to Xit Vono. This map is quite
+complex but very linear, so it is probably unnecessary to change
+the route. However, I have to consider timing of using weapons
+well. Vono didn't kill the cyberdemons with two shots of BFG.
+The reason is probably that the safer way wasn't established
+when he recorded it. Well, the way itself is easy but some areas 
+are too narrow to kill the cyberdemons safely. I sometimes died 
+or received serious damage in the two cybers area, but I was 
+able to save a lot of cells for the way. From fear of death, 
+I got the green armor before going to the yellow key door. Vono 
+and Radek didn't do it, so I should cut it, though this run 
+would have been failed if I had done it. Monster-infightings or 
+something don't help the big improvement of time, so the way 
+for the faster record is only decreasing mistakes. 
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+5 - Dec - 2010   58th Comepet-N Entry

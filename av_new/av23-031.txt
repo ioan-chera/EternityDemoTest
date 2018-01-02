@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV23-031.TXT
+
+ AV23-031.ZIP
+
+  AV23-031.LMP - Ultra-Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 23
+
+  Kills      5%
+  Items     20%
+  Secrets    0%
+
+    ...  and time  0:31 
+                  ------
+
+  Description:
+
+  I got this speed running mood and this turned
+  out to be nice option. 30s shouldn't be problem,
+  but i'll leave it for someone else.
+  
+   
+  Radek Pecka
+  r.master@email.cz

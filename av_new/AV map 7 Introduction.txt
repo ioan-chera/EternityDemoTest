@@ -1,0 +1,13 @@
+Wad: Alien Vendetta
+Map: 7: Showdown
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 3:00
+Time: 2:45
+Category: UV max
+
+Same as other map 7 in many wads, map 7 in AV give you dead simple feeling again. And this time it's not that 
+simple, there's no armor.
+
+Short map, but easy. I think I should get below 2:40 for better time.
+

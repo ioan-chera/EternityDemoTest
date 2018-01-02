@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV03-047.TXT
+
+AV03-047.ZIP
+
+AV03-047.LMP - UV Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Map 03 - Cargo Depot
+
+Kills       26%
+Items       27%
+Secrets      0%
+
+            ********
+and Time -  * 0:47 *
+            ********
+
+
+Description:
+
+It's a pretty easy glide, you only have to press
+'forward' while moving the mouse a bit. The problem
+are the imps in your back. I wasted a lot of time
+with killing them, so it could go much faster.
+
+Ugly demo. I had not enough practice with doom2.exe
+for a smoother run. Sorry for that.
+
+
+Author:      Jochen "Angus" Schneidau
+E-mail:      cohen-lbg@gmx.de
+
+04.03.2003

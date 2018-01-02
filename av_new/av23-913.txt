@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+av23-913.TXT
+
+av23-913.ZIP
+
+av23-913.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 23 - Blood Sacrifice by Kim Andre Malde
+
+Kills     101%
+Items     100%
+Secrets   100%  and Time - 9:13
+
+Description:
+
+Heh, a real C-N demo should be under 8:30.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+08.04.2006

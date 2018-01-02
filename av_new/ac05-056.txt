@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ ***** AC05-056.ZIP - Coop. UV pacifist *****
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+ Alien Vendetta - Level 05
+         
+           *********
+           * 00:56 *
+           *********
+                   
+			     KILLS  ITEMS  SECRET 
+
+ ***** Twister - Green *****   21%      0%    14%
+
+
+
+ ***** MeThOd - Indigo *****   26%     10%     0%
+
+	
+ Description: Demo was recorded at 17.4. 2003 in Prag.
+
+	Twister: We decided, that join our [id] power and this is
+		 the result. AdamW: pls dont beat this with someone:))
+	MeTh0d : OK!!!!
+
+
+   David "mr.twister" Ficenec <mr.twister@gamezone.cz>
+   Jakub "method_man" Razak <dale007@volny.cz>

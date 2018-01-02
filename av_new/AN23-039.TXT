@@ -1,0 +1,46 @@
+This is a Doom LMP Entry
+
+AN23-039.ZIP
+
+	AN23-039.TXT
+	AN23-039.LMP - NM Speed
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Alien Vendetta - Level 23 - Blood Sacrifice
+
+=---+------+---=
+Kills        12%
+Items        20%
+Secrets       0%
+ 
+TIME        0:39	Old record: 0:42 by Tatsurd-cacocaco
+=---+------+---=        
+
+Demo entry #77.
+
+Description:
+
+Credits to Tatsurd for a great hardworked improvement over my wimpy, extra-old
+0:49, and also for an interesting textfile which detailedly explains the
+difficulties of this run. Like him, I didn't aim to execute the AV jump on the
+first try, because of extremely low success rate. Doing it on vile's second or
+third attack is relatively easy (this way my success rate is 3-5%) and allows
+me to pick up 40 extra health. So I did the speedrunning trick the "slow" way
+(like Tatsurd did in his second-best run, 0:44), compensating it by clean aiming
+in the start. And the main improvement comes from rushing the last part without
+BFG. It's dangerous, but can be handled with running at the right trajectory,
+shooting at the right moments, and luck.
+
+Here's my first exit, gotten in only 5 hours. Time isn't that great, but I like
+the look of the demo (except from getting stuck before the end, just like in my
+old AN23-049).
+
+I also include a failed run which could be 0:35 with right luck in the end,
+AN23SCRW.LMP.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done January 10, 2011, 02:35:12

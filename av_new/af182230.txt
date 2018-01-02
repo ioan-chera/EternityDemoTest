@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AF182230.TXT
+
+ AF182230.ZIP
+
+  AF182230.LMP - Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 18 - Lake Poison
+
+  Kills   100%           
+  (Items   71%)          
+  Secrets 100%  and Time = 22:30 
+                          
+
+  Description: One of my favorite levels from AV, there are a couple of
+               tricky situations when playing -fast (the start and end,
+               mainly), but otherwise it's not much harder than max.
+  
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

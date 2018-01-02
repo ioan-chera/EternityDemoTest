@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV21-439.TXT
+
+ AV21-439.ZIP
+
+  AV21-439.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 21 - One Flew Over The Caco's Nest
+
+  Kills    100%           
+  (Items    59%)          *********
+  Secrets  100%  and Time * 04:39 *
+                          *********
+                          
+
+  Description :-)
+  
+  This level kind of annoys me a bit. Anders says he did ammo balance and 
+  that he purposely made it so that beserk would be needed in certain
+  areas. I still think there is just not enough ammo to the point where I
+  feel I might as well make a tyson demo if I were to attempt a max demo.
+  The health is scarce too and made barely sufficient by an unmarked soul
+  sphere secret. You can get aggravated pretty fast when you die in the
+  final room because your trying to get a soul sphere secret (?) that is
+  behind a door located in a pool of -20 blood (?). GRR. It also is visually
+  a bit boring because Pablo's editor doesn't seem to be able to change
+  heights in a level. 
+
+  Anthony Soto
+  neworderdatabase@hotmail.com

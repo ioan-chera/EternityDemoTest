@@ -1,0 +1,19 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+af221044.TXT
+
+ af221044.ZIP
+
+  af221044.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 22 – UV Fast
+
+Nobody had ever done any other kind of demo on this level except for UV Speed and Max so I decided to make another -fast. It was kind of tricky to do, but I pulled it off in the end. Trying to get that Knight to infight with the mancubi was a bit hard, sometimes it wouldn't work, but it did here. It was a bit hard to release the monsters in the yellow key room, but somehow, I found a way.
+
+af22-av.LMP
+This was a demo I saved where I got hit by an arch-vile, but somehow I survived even though I had 34 health and green armor. I didn't even hug a wall, but I still survived. Happens 6 minutes into the demo.
+
+Author: Revved

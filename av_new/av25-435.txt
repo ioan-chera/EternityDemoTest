@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV25-435.TXT
+
+AV25-435.ZIP
+
+AV25-435.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 25 - Demonic Hordes
+
+Kills       ??%
+Items       ??%
+Secrets     ??%
+
+              ********
+  and Time -  * 4:35 *
+              ********
+
+
+Description:
+
+No tricks, only the usual route... 
+
+
+Author:      Vincent Catalaà
+E-mail:      vincentds@netcourrier.com
+
+

@@ -1,0 +1,19 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      AV.wad and AVMOVFIX.wad
+Pwad name:      Alien Vendetta
+Map:      08
+Skill:      04
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      10:00
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+This time is not the best at all!, I like this map but feel it's a little hard
+since cyberdemon has to be out of the castle for you to enter and kill
+arch-vile, that's my sin... I play so much deffensive which makes me
+lost a lot of minutes.

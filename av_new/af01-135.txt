@@ -1,0 +1,25 @@
+This is an Alien Vendetta demo.
+
+AF01-135.TXT
+
+AF01-135.ZIP
+
+  AF01-135.LMP - Ultra Violence -Fast
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 01 - "Sunset"
+
+   Kills: 	100%
+   Items:	 ??%
+   Secrets:  	100%
+
+   Time: 	1:35
+		----
+
+Description: First -fast demo for av in the incoming that year.
+
+
+Author:    -=QWERTY=-
+E-Mail:	   demosd@mail.ru

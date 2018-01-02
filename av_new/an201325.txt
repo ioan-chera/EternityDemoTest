@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AN201325.TXT
+
+ AN201325.ZIP
+
+  AN201325.LMP - Nightmare
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 20 - Misri Halek
+
+  Kills     60%
+  (Items    50%)          *********
+  Secrets    0%  and Time * 13:25 *
+                          *********
+                          
+
+  Description :-)
+  
+  Because of the rocketjump, this map is quite possible to
+  do in nightmare. It's nearly impossible to keep health from
+  the first soulsphere all the way to the rocketjump, and
+  besides, the BFG and plasma are really helpful to do the
+  rest of the map. I had a demo where I got all the way to the
+  exit, but then it gave me an error message and the demo was
+  not recorded, so that was annoying. I had plenty of practice
+  on this map by then that it wasn't a problem to produce this
+  demo. In this demo I had a very bad start due to that pig
+  that respawned that I couldn't hit too well. For that reason
+  I was forced to take the soulsphere which I usually save for
+  the end. After getting past the hell knights, which can
+  be quite frustrating sometimes because of respawning imps
+  and chainers, there were no further problems, except for
+  a revenant that in retrospect I should not have used SSG on.
+  I haven't looked at nightmare secrets but I imagine it would
+  make sense to travel to the secret, then go back to do the
+  trick. I wouldn't recommend anyone try the mountain in
+  nightmare.
+
+  Xit Vono
+  Xit_vono@yahoo.com

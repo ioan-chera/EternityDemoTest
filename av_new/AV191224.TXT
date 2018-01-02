@@ -1,0 +1,63 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+av191224.txt
+av191224.lmp 
+av191224.zip
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file av.wad -playdemo av191224 
+
+
+Alien Vendetta - Level 19 - Alien Resurrection
+
+Category: UV Max
+
+Totals:
+
+Kills	108%
+Items	100%
+Secret	100%
+
+
+Comments: 
+
+A frustrating map to play with lots of narrow corridors to
+snag on and too many unfair traps to survive. The teleport
+trap after the red door can be especially tough - it went
+perfectly here but a bit of bad luck and you can lose 150+ 
+health in seconds.
+
+There can be a problem with ammo shortages too if you don't
+pick it up in the right order and encourage infighting,
+hence some otherwise puzzling diversions to the route at 
+times.
+
+The ending is pure mayhem - you just can't know what to 
+expect, especially with the Archies reviving folks, and the 
+position of the Cyberdemon is crucial to making a fast run.
+
+I chose to do this map simply because the official Compet-N 
+entry at 15:21 looked very beatable, and it didn't take 
+long to clock a time of 14:40. But then I saw an 
+"unofficial" time of 12:54 on the old version of the wad - 
+I don't know how that version differs but it seemed lame
+to submit something slower, so it was back to the fray ;-) 
+Under 12 minutes would be nice, but I've had it with this 
+for now.
+
+Beware of a few oddities here which ruined some promising 
+runs. The red door once closed behind me and wouldn't open 
+again, and if one of the Chainies near the eye switch 
+stands in just the right place he seems invulnerable to 
+bullets. But the worst "bug" is the ghosts that turn up at 
+the end more often than not if you don't play carefully. 
+They're caused by the fight exiting the door from the blue 
+armour area - if you have to kill things there it helps to 
+stand right in the doorway so nobody has room to die 
+underneath the door.
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+19/07/2006

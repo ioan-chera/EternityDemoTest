@@ -1,0 +1,21 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      AV.wad and AVMOVFIX.wad
+Pwad name:      Alien Vendetta
+Map:      12
+Skill:      4
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      9:40
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+I really enjoyed this, but I'm slow yet, sometimes I play safely when
+I have to be agressive and when I can play calm I get nervious about
+time I make mistakes a lot, specially on strafefunning (I got stuck
+easly on narrow places), time is not that bad but it can be improved it
+with no much effort... I want to get near world record or perhaps...
+beat it.

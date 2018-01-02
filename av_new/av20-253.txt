@@ -1,0 +1,40 @@
+Runner: Zero-Master
+IWAD: Doom2.wad
+PWAD: AV.wad
+Category: UV-Speed
+Map: 20
+Source Port: Doom2.exe v1.9, DosBox v0.74
+
+Kills    :   12%
+Items    :   33%
+Secrets  :    0%
+Time     : 02:53
+
+Description: 
+My first demo recorded in dosbox, figured I would do one.
+
+What an awful demo, but it wasn't easy.. A new trick was discovered recently, 
+and I noticed it was useful on this map, unfortunately it's the hardest
+type with a 32 unit gap between the wall and the switch. 
+
+When recording demos your turning resolution is reduced, and when you
+are facing straight forward you move slowly to the left, but when
+you punch something it changes your direction and I need the same direction 
+in order to do the trick. I tried getting to the part of the map without punching, 
+but you lose so much time and it's very difficult, so it's not worth it. 
+
+I got the right direction quite quickly here, and I got the trick on
+the first attempt (it's very easy to screw something up). The first
+thing I need to do is to get perfectly close to the wall. The reason 
+being I need to be at a very precise location away from the wall,
+so by getting perfectly close to it I can move to the place I want to be
+using a MF1 command. This means I have to push my mouse the smallest
+possible amount forwards, and to do this I actually take my hand 
+off the mouse and gently tap my finger at the back of the mouse :)
+
+I need to turn slightly to the right before pushing the mouse, and 
+once that is done I turn back and simply hit use to activate the switch through
+the wall.
+
+59 second improvement over the previous record, still a lot of time
+that could be saved here though.

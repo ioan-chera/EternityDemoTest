@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV24-123.TXT
+
+ AV24-123.ZIP
+
+  AV24-123.LMP - Ultra-Violence Speedrun
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 24 - Clandestine Complex
+
+  Kills     28%
+  Items      6%
+  Secrets   20%
+
+                  ********
+  ... and Time -  * 1:23 *
+                  ********
+
+
+  Description:
+
+  Got 1:40 after about an hour, then it just took 15 minutes to finally get the key grab right.
+  Route leeched from Vile's demo.
+  DomRem probably won't let me have this for very long :P
+  
+  Belial
+  nowylepszyszatan@wp.pl

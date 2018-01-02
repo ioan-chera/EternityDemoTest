@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ac03-249.TXT
+
+ac03-249.ZIP - Coop UV max
+
+ac03e249.LMP - Eugene - Green
+ac03s249.LMP - Sergey - Indigo
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 03 - Cargo Depot by Mattias Berggren, Kim Andrä Malde
+      
+Kills       47%
+Items       44%
+Secrets    100%	
+
+Kills       42%
+Items       55%
+Secrets      0%	
+
+and Time - 2:49
+
+
+Description:
+
+Indigo runs by risky route to save some time.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+09.01.2007

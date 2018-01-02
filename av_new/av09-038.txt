@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV09-038.TXT
+
+ AV09-038.ZIP
+
+  AV09-038.LMP - Ultra Violence !
+
+  Doom2 -file av.wad -playdemo with Version 1.9
+
+  Alien Vendetta - Level 09 - Castle Gardens
+    
+  Kills     12%
+  Items      0%           ********
+  Secrets    0%  and Time * 0:38 * 
+                          ********
+
+  
+  Description: e6y team
+    
+  Andrey Budko
+
+  e-mail  : entryway@all-info.com.ua, e6y@yahoo.com
+  ICQ UIN : 100023

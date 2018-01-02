@@ -1,0 +1,41 @@
+This isn't a DooM .LMP "Competition" Entry - don't forward it...
+
+AV272609.TXT
+
+ AV272609.ZIP
+
+  AV272609.LMP - Max
+
+  Recorded using PrBoom Version v2.3 or thereabouts, I don't quite remember which now.
+
+  Alien Vendetta - Level 27 - Stench of Evil
+
+  Kills   100%           
+  (Items    ?%)          
+  Secrets 100%  and Time = 26:09 
+                          
+
+  Description: Some time ago I realized there wasn't any maxkill entry on level 27 in the Compet-N 
+               database, so I started practising the route, since I really didn't know the level 
+               that well. Eventually I got this run, which is five seconds faster than Drew's 
+               in the original AV pack. The plan then was to replicate the same run in Doom2.exe, 
+               but access to a decent environment for running it in was hard to get at that time, so 
+               I eventually forgot about it. You're only seeing this demo now because I noticed a 
+               Doomworld thread mentioning the gap, and I'm too lazy to record this the proper way :)
+               It will play back on Doom2.exe though.
+
+               The main reason demos from the first version of the level won't play back in the new one,
+               btw, is because the location of a couple of keys has been switched, and it changes the 
+               order in which you play through the level. Ammo/armor seems the same (not that I've watched
+               Drew's demo closely to check) seems the same, but the route as a whole is slightly easier,
+               or at least that's my impression.
+
+               Only route change I can remember making apart from this reordering of the level is that
+               halfway through an imp teleporter starts disgorging imps. Drew hung around to kill them 
+               all, I leave them alone to do other things, which must have saved at least thirty seconds.
+               Generally I think my playing is okay, although I got to the final area with a little ammo
+               shortage so this part dragged a bit. Anyway, enjoy.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com

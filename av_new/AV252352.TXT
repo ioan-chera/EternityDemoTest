@@ -1,0 +1,80 @@
+av252352.zip
+ av252352.lmp
+ av252352.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file av.wad -playdemo av252352
+
+
+Alien Vendetta - Level 25 - Demonic Hordes
+
+Category: UV Max
+
+Totals:
+
+Kills	109%
+Items	 84%
+Secret	100%
+
+Time:  23:52
+
+
+Comments: 
+
+Not bad for a second exit :-) OK so I've been playing 
+on and off for over two months now, but all but one try
+(av252532.zip) has been a dud. Mostly I'd miss a 
+monster or two somewhere, and when that didn't happen 
+I'd somehow manage to miss a secret, or just do 
+something pathetically stupid like forget to collect 
+enough cells to deal with the Cyberdemon at the end. 
+And I won't even mention the bug that crashes the game 
+with a zmalloc error about every one exit in three...
+
+It's not an especially fast run on this route, with a 
+few mistakes (saved the worst till last!), a bit of bad 
+luck, mostly slow running and some general time-wasting. 
+Under 22 minutes would be good. With an entirely new
+route a time of well under 20 minutes should be 
+possible, but that would be very tricky to play...
+
+A couple of tips:
+
+Don't try to play the very first room pacifist like I
+was doing for a while - it can lead to monsters 
+infighting then going to sleep and not teleporting
+through to where they can be killed.
+
+To avoid the escaped spider bug, once you've entered
+and fired in the yellow room stay in the Palace for
+some time while the spiders teleport in. This stops 
+them from wandering to the right of the holding area 
+where the linedef error allows them to escape.
+
+More comments, quoting av252532.txt:
+
+>Credits for much of the route go to Ryback in his
+>spectacular av252437, but I've done some things
+>differently to avoid having to use quite such
+>suicidal tactics.
+
+>It's a fantastic map to play, but frustrating for max
+>as there's plenty of places where you can balls it
+>up irredeemably - not least the very first room!
+
+>There's also a bug which prevents 100% kills most of
+>the time. It's due to a faulty linedef at the back
+>of the spider teleport holding area, meaning that one 
+>or two spiders end up wandering off the back and
+>are unable to rejoin the map. When this happens you 
+>can hear them at odd times clanking through voidspace.
+
+>Problems like these meant that this is actually my 
+>first valid max exit (despite playing for over a 
+>week) and I might try and improve it sometime soon.
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+28/09/2006

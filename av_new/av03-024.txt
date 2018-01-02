@@ -1,0 +1,29 @@
+av03-024.txt
+  av03-024.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.6 with DooM2+ compatibility (-complevel 2)
+
+  Alien Vendetta - map 03 - Cargo Depot (by Mattias Berggren & Kim Andre Malde)
+
+  ================
+  Kills        9%
+  Items        0%
+  Secrets      0%
+  ----------------
+  Time       0:24
+  ================
+
+  Description:
+  ha, what a fluke! i was trying this run for a few weeks, waiting exactly for this
+  kind of glide luck. and when do i get it? i didn't get picked in captain selection
+  for a ctf game, so i went to pout in a bit of singleplayer... :)
+
+  the weapon switch is timed wrong, so cg comes up, but it might be actually faster
+  this way. i'm killing some of the imps on the left from the glide spot, cause their
+  shots bumped me away too often. the exit time is 24.14 thanks to my lazy, relaxed
+  finish sprint, but i'm not too bothered to repeat it.
+  
+
+author: dew
+e-mail: dewww@seznam.cz
+2. 3. 2010

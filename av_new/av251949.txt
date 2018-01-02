@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV251949.TXT
+
+ AV251949.ZIP
+
+  AV251949.LMP - Ultra Violence 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 25 - Demonic Hordes
+
+  Kills    107%
+  Items     ??%           
+  Secrets  100%  and Time = 19:49
+                          
+                          
+  Description: I've wanted to have this level back since cack_handed did his run in 2006, and in the 
+               last few days sat down for some serious sessions. cack_handed used quite a few little 
+               tweaks and timesavers in his run, but I thought they looked a little fiddly and 
+               timeintensive to set up. Plus I thought I could use the BFG more. So this is pretty much
+               the route from my old demo.
+
+               The goal was always under twenty minutes, which I thought I could get with aggressive play.
+               That turned out to be the case but a bit of luck helped. The main bit of good fortune, 
+               which almost never happened in other runs, was that all four Cybers were out in the 
+               open area waiting for me when I returned from the start. Usually you have to wait around 
+               and do other things while they file out one by one. So this saved 30-45 seconds, plus 
+               a few cells.
+           
+               Second part of the level went okay, the teleporting archie could have been killed quicker
+               but this is pure chance. I took some cack_handed route ideas here, mainly the first part 
+               up till the Cyber+Archie fight. Thereafter it's mostly my route, although I try to set off 
+               teleporters early and cop an unlucky rocket in the face thanks to a hiding chaingunner. 
+               I think this is the best way of handling all those teleporting monsters at the end - 
+               they'll either be out in the open area, in the near room containing two arachnotrons, or 
+               in the room with two mancubii. The last few revenants could have been killed quicker but 
+               at this point I knew I had a good time and was playing a little more conservatively.  
+
+               In his text file (a nice long info-filled one too, always like that) cack_handed talked 
+               about the arachnotron teleporter bug, where arachnos would wander off into voidspace
+               if you went into the wrong part of the map while they teleported in. Luckily for me this
+               never turned out to be a problem in any of my tries. I think the route of using BFG on the 
+               Barons+Hell Knights after taking the yellow key must fix that issue.                
+  
+               So even though this demo could be tighter I'm happy with this. Looking back at the first 
+               demo I recorded on this level (for the first version of AV), I see the time was 64:35 (!)
+               Took some discussion with Vincent on IRC before I could see the route improvements 
+               possible. The goal then was under half an hour.
+
+               So yes, I'll defend this one :)  	
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com

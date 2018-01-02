@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ap25-122.txt
+ap25-122.lmp 
+ap25-122.zip
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file av.wad -playdemo ap25-122 
+
+
+Alien Vendetta - Level 25 - Demonic Hordes
+
+Category: UV Pacifist
+
+Totals:
+
+Kills	  4%
+Items	 12%
+Secret	  0%
+
+Time    1:22
+
+
+Comments: 
+
+A lot of ingenuity has gone into finding ways to get past those
+bars in front of the red key, so I'm spoiling the fun a bit
+here by just casually walking through them. After first 
+spotting the trick I did a very rough Speed run of 1:21 before
+checking the latest times and finding there's already a 1:13
+run in Incoming by Gusta using a variation of the glide. I was 
+never going to beat that because a) it's horribly luck based
+and would take hours of hair-tearing frustration and b) I run
+like a cripple anyway. So here's pacifist instead. I didn't
+spend too long on this run before getting lucky with two 
+fairly quick glides, and it doesn't look too terrible either
+but can still be made much faster.
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+8/08/2006

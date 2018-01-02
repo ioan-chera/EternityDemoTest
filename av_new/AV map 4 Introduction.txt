@@ -1,0 +1,39 @@
+Wad: Alien Vendetta
+Map: 4 - Seclusion 
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 6:00
+Time: 5:42
+Category: UV max
+
+****************
+* Kills:  100% *
+* Items:  97%  *
+* Secret: 100% *
+****************
+
+******************************************************************************************************************
+
+This map is very wonderful and exciting, it seems to be hard, but no, it's pretty easy! Most monsters in this map 
+are just zombies, and leading them to infight is very easy, there's lot of health pickups too, so you won't get
+dead easily.
+
+The point of getting fast is to release everything out in the grey corridor and lead the monsters infight, you 
+won't get dead easily since lots of medikats are available at the next room. I try to save more rockets and plasma 
+cells, so that I can get ready and kills everything faster in the final exit room. Really nothing hard, the only 
+hard thing is the teleport archvile in the outdoor area before the exit. Anyway, just kill the revenants fast and 
+stand under the archvile will be OK.
+
+I got the 1st and 2nd run which use 6:36 and 6:03, but I am not satisfied, I know I could get below 6 minutes. I
+try a few more times and finally done! 5:42 is OK! ^_^
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 27/03/2011 in People's Republic of China

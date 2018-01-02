@@ -1,0 +1,48 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: av.wad (2nd release)                    |
+            | Filename: af282745.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP28 - Whispering Shadows         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     97%           *********        |
+            |      Secrets  100%  and Time * 27:45 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Allrighty... this is too difficult for me to take more risks. I had    |
+| 28:39 earlier with PrBoom+, now a minute faster with Doom2.exe. But    |
+| even with my cautious chess-like strategy, this might have been 1-2    |
+| minutes faster. I had unusual health problems at the start and I lost  |
+| about 90 seconds on the 3rd cyber which is really annoying. The        |
+| original strategy (which never works) was: kill 2 hell knights behind  |
+| the blue key door, hide behind one central brick wall, kill two        |
+| revenants, lure the cyber, get it attacked by chaingunners, kill the   |
+| cyber with 2 BFG shots. As you can see, the chaingunners didn't wait,  |
+| I even didn't finish the hell knights when they hit the cyber! the     |
+| latter blocking the entrance and firing his rockets like there was no  |
+| tomorrow.                                                              |
+|                                                                        |
+| The moments I'm really proud of is the caco horde and the yellow key   |
+| area (+14 revenants). I learned to kill all of the monsters there      |
+| unharmed, it almost always works.                                      |
+|                                                                        |
++========================================================================+

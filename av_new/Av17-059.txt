@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV17-059.TXT
+
+ AV17-059.ZIP
+
+  AV17-059.LMP - Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 17
+
+  Kills     ?%           
+  (Items    ?%)          *********
+  Secrets   ?%  and Time * 00:59 *
+                          *********
+                          
+
+  Description :-)
+  
+  Didn't realize that I had lost this record until after the update. Here's an updated
+  demo. Too bad I screwed up the revenant part quite a bit, thought I was dead when I 
+  got hit by that last ball. Ah well, below 1 min at least.
+
+  Erik Alm
+  erik_a80@hotmail.com

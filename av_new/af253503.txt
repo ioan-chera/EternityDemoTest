@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AF253503.TXT
+
+ AF253503.ZIP
+
+  AF253503.LMP - Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 15 - Demonic Hordes
+
+  Kills   112%           
+  (Items   ??%)          
+  Secrets 100%  and Time = 35:03 
+                          
+
+  Description: Time was a little surprising. I have a maxdemo at
+               27:58 - obviously that's got to be improved.
+
+               This level is changed a fair bit from its previous AV
+               incarnation. For one, more than three hundred monsters
+               are gone, though I'll be blowed if I know from where.
+               It's just as difficult as before. The final area
+               has seen the most changes, it's much bigger and prettier
+               now - though I miss the infighting glories of the
+               first version. And there's a little surprise for you
+               at the end :)
+
+               I use a different route because because of one slight
+               change in the main arena - the doors leading to a platform
+               of teleporting monsters can now be opened by the monsters,
+               so there's no chance of letting these guys fight it out
+               while you do other things. Instead I save this area till last
+               then let the monsters teleport in while I hide and provoke
+               fights. It looks slow, but I don't think there's a faster
+               way.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

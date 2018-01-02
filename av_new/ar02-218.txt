@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AR02-218.TXT
+
+AR02-218.ZIP
+
+AR02-218.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 02 - Rusty Rage
+
+Kills      100%
+Items       66%
+Secrets    100%
+
+              ********
+  and Time -  * 2:18 *
+              ********
+
+
+Description:
+
+Hehe, exactly 100% kills ;) I guess wasting time in the exit room to waste
+those rockets was a good thing after all!
+
+Erm...had some problems completing this one on -respawn, due to the Arch-Vile.
+You have to wake the Archie up so he can go resurrect what hasn't respawned,
+and you can get kills faster that way ^_~
+
+Below Max time is possible but will be difficult I think ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+11.02.2003

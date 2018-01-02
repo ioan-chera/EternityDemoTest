@@ -1,0 +1,15 @@
+Wad: Alien Vendetta
+Map: 2: Rusty Rage
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 3:30
+Time: 3:18
+Category: UV max
+
+This map is a little bit hard, this is due to many shotgun guys and chaingunners. I just play this map one place 
+to another for safety.
+
+The teleporting revenant in SSG area need to be careful to kill since place is quite small. Other from this, the
+only real difficulty is the archvile. I shoot rockets to him to prevent him going up the cargo base.
+
+Anyway, I still satisfied with my run.

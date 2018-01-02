@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      AV.wad (+AV.deh)
+Pwad name: Alien Vendetta
+Maps:      MAP01
+Skill:     4
+Category:  UV-Max
+Exe:       Prboom+ 2.5.0.9.test -complevel 2
+
+Time:      1:05
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  I spent ~10 hours to improve Anders Johnsen's "20 minute effort demo" by 2 seconds. Just great.
+           Actually I'm very happy. I think this is one of my greatest accomplishments. HELL YEAH.
+           Oh, and do not touch this bloody map, its cursed... Pleaaaase. ;)

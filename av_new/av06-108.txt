@@ -1,0 +1,45 @@
+This is a Doom .LMP "Competition" Entry
+
+av06-108.txt
+av06-108.zip
+
+av06-108.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Alien Vendetta - Level 06 - Hillside Siege
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:08
+=--------------=
+
+C-N entry #154.
+
+Not a bad time, but I'm not a big speed
+freak so don't expect any stellar play.
+Oh well, I hope you enjoy it regardless. :)
+
+I thought I'd explain the merit of the
+AV jump in this run: when you speed the
+level normally, you cross a linedef in
+front of the 2nd red door that raises bars
+in front of the yellow door, forcing you
+to first enter the large building and hit
+the switch to lower them.  With the jump,
+you vault back into the first yard AND
+avoid that linedef, allowing you to skip
+the building.
+
+I tried not to make any mistakes, but it's
+possible to fly over the railing to the 1st
+red door after getting the key rather than
+using the stairs.  Implement that if you want
+to improve this and hope you get a fast AV
+jump too. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

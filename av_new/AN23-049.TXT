@@ -1,0 +1,33 @@
+This is a Doom LMP Entry
+
+AN23-049.ZIP
+
+	AN23-049.TXT
+	AN23-049.LMP - NM Speed
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Alien Vendetta - Level 23 - Blood Sacrifice
+
+=---+------+---=
+Kills        15%
+Items        20%
+Secrets      20%
+ 
+TIME        0:49	Old record: 0:59 by Tatsurd-cacocaco
+=---+------+---=        
+
+Demo entry #76 (because it's uploaded very lately, on January 2, 2011).
+
+Description:
+
+This is a very old demo, and earlier I didn't want to publish it because I
+felt it's a not-too-impressive, cheap run. Today, after Tatsurd uploaded
+his 0:59, I decided to publish my old 0:49 in order to showcase some faster
+approaches to a few parts of the run. With good stamina, one can utilize
+enough luck to achieve a time close to 40 seconds. Enjoy pulling it out!
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 20, 2008, 20:32:56

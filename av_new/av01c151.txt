@@ -1,0 +1,22 @@
+Pwad: AV.wad    
+Pwad name: Alien Vendetta
+Maps:      01
+Skill:     4
+Category:  UV Max (COOP) 
+Exe:       PRBoom+ v2.5.0.6
+
+Time:      1:51
+
+Author:	   Phml    
+Email:     Phml.ji@gmail.com
+
+Comments:  Some poor SSG shots against imps, forgot to press Use on the green torch and more seconds lost near the end as I'm disoriented (don't know the map much).
+
+Plays back with -solo-net parameter in PrBoom+.
+
+-complevel 2
+HUD used
+
+
+
+

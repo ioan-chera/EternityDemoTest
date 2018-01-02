@@ -1,0 +1,46 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+av22-550.txt
+
+av22-550.zip
+
+av22-550.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file av.wad
+
+Alien Vendetta - MAP 22 - Rubicon
+
+
+================
+Kills      101%
+Items       67%
+Secrets    100%
+----------------
+Time       5:50
+================
+
+
+Description:
+
+I found this map rather tricky. Good monster-infightings didn't happen
+easily beyond my expectation in the red key's area, and I sometimes 
+lost much health. Moreover, I was often killed by the combination of 
+an arch-vile and the cyberdemon. I wanted the cyber to deal with all 
+enemies in the green stone's passage, but the vile was just troublesome. 
+However, it was very hard to kill only the vile and ignore the other 
+enemies before the cyber appeared. Also, there are not enough recovery 
+items until the soul sphere's secret, so I couldn't afford to receive 
+vile's attack or blast damage by the cyber's missile even if I had enough 
+health. In this run, I was upset a little with the vile, but the cyber
+killed it well as a result. Well, below 6 min is still OK.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+27 - Dec - 2010   61th Comepet-N Entry

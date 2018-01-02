@@ -1,0 +1,18 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      AV.wad and AVMOVFIX.wad
+Pwad name:      Alien Vendetta
+Map:      10
+Skill:      04
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      14:42
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+This map is very interesting, temple textures are very awesome and
+gameplay is better; time is not that good, I didn't feel I made a lot
+of mistakes but I'm very slow yet (partly cause I played deffensive).

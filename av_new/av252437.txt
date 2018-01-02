@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV252437.TXT
+
+ AV252437.ZIP
+
+  AV252437.LMP - Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 25 - Demonic Hordes
+
+  Kills   108%           
+  (Items   84%)          
+  Secrets 100%  and Time = 24:37 
+                          
+
+  Description: This level is too good to go without a C-N maxdemo. I basically just 
+               went the way I used in the -fast demo for this level and made sure 
+               I got a few minutes below the time in the AV demopack. This route can 
+               probably be improved 2-3 minutes if you play at a helter-skelter pace, 
+               though death starts to be a problem around about then :)
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com

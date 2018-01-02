@@ -1,0 +1,67 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AS29-257.TXT
+
+AS29-257.ZIP
+
+AS29-257.LMP - Nightmare! 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -file av.wad -playdemo with Version 1.9
+
+Alien Vendetta - Level 29 - Fire Walk With Me
+
+Kills       41%
+Items       25%
+Secrets    100%
+
+              ********
+  and Time -  * 2:57 *
+              ********
+
+
+Description:
+
+Nothing but carnage. From start to finish, this is pure mayhem,
+chaos incarnate, and downright fun, for the most part.
+
+The big trouble spots here are right after the Yellow Key since
+you can get blocked by Pinkies here, or the Mancubus. Then the
+Red Key is a pain coming back, especially if those Arch-Viles
+start spawning, which this time they did not. I'm not entirely
+sure how they are woken up but I didn't trigger it this time.
+The last difficult spot is the final stretch with the Blue Key.
+There is no amount of skill that can really save you here, at
+least in my opinion. You can get trapped by the tons of
+Chaingunners, which allows you to be fried by roaming Arch-Viles
+or blown to pieces by the Cyberdemon from the first secret. If
+you can't weave past them fast enough, and with enough plasma
+left over, you aren't going to finish. Even more true if the
+room past the Red bars decided to start spawning demons as well.
+
+In short: All three keys will cause you to die, repeated,
+painful, endless deaths that will make you want to either rage
+quit, keep trying, or destroy something.
+
+Oh yes, 95% of this map is going to be ran with the BFG. This is
+why I said earlier... if you run out of plasma, you're pretty
+fucked.
+
+This is my favorite map in Alien Vendetta, so I want to thank
+Anders Johnsen for making such pure brilliance. Even the music
+is amazing here.
+
+Below 2:30 is possible, and I realize my time is a bit slow, but
+there really isn't any *safe* way to approach most everything in
+this map.
+
+This also takes the normal Nightmare! speedrun exit... I wonder
+if you can even really cut out any secrets and not rip your hair
+out.
+
+
+Author:      Casey Alvis
+E-mail:      altimamantoid@gmail.com
+
+
+09.30.2011

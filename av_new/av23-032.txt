@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV23-032.TXT
+
+AV23-032.ZIP
+
+AV23-032.LMP - Ultra-Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 23
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:32 *
+              ********
+
+
+Description:
+
+Route credit to Eugene Kapustin. This just polishes the run a bit really.
+I was going for :29, but I can't seem to get a clean run all the way through :\ 
+
+
+Author:      Erik Alm
+E-mail:      erik_a80@hotmail.com
+
+
+
+
+11.05.2003

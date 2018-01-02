@@ -1,0 +1,34 @@
+This is a Doom .LMP "Competition" Entry
+
+AN01-030.TXT
+AN01-030.ZIP
+
+AN01-030.LMP
+
+Recorded using Doom2 Version 1.9
+Doom -File AV.WAD -Playdemo with Version 1.9
+
+Alien Vendetta - Level 01
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets      ?%
+
+ Time        :30
+)---------------(
+
+Using the chaingun is finally a better
+option than the SG to pass by the 2 
+sergeants/chaingunner. Even if
+they're dead when you come back from
+the switch shoot in the air to wake
+the imps in the lava room otherwise
+they'll block your way.
+
+Don't look at the exact time please.
+If you do, you'll have to get :29.
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

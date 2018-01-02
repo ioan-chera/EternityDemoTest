@@ -1,0 +1,25 @@
+This is a Tool-Assisted entry for the Doomed Speed Demos Archive
+http://doomedsda.us/wad84m212.html
+
+Recorded using PrBoom-Plus version 2.5.1.5 in compatibility level 2
+Done using slowmotion, permanent strafe 50 and -recordfromto
+
+Pwad:      AV.WAD
+Pwad name: Alien's Vendetta
+Maps:      12
+Skill:     5
+Category:  (TAS) 100 % Secrets
+
+Kills:     53%
+(Items:    6%)
+Secrets:   100%
+Time:      2:01
+
+Author:    Ser
+Email:     SerEzER1@GMail.com
+Date:      Sunday, April  9 2017 14:59:37 GMT -06:00:00
+
+Comments:  
+
+   This is easy/medium because of the health in the level so the strategy I
+use is mostly aggressive.

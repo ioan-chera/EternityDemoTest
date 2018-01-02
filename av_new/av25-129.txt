@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV25-129.TXT
+
+AV25-129.ZIP
+
+AV25-129.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 25 - Demonic Hordes
+
+Kills        8%
+Items       20%
+Secrets      0%
+
+              ********
+  and Time -  * 1:29 *
+              ********
+
+
+Description:
+
+Under a minute and a half wasn't that hard of a goal to achieve ^^ And only one
+invuln is used too!
+
+Over 3 minutes faster than Vincent's old one, but if it weren't for him and
+stx-Vile I wouldn't have known about the Arch-Vile jump or squeezing through
+the bars with the Barons in them at the start. So big thanks to them ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+11.01.2003

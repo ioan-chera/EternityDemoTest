@@ -1,0 +1,16 @@
+Wad: Alien Vendetta
+Map: 3: Cargo Depot
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 4:00
+Time: 3:48
+Category: UV max
+
+This map take place in a cargo base, and it is swarmed with monsters, mostly zombies, imps and demons.
+
+Easy map, all you have to do is to kill everything with the SSG. First get the yellow key. And then go up the top 
+port, kill the 4 revenants with rocket launcher, get the blue key, kill the spectres and demons. After that, press 
+a button to open the door, kill 3 hell knights and lower the exit pillar by pressing a switch. And finally, kill 
+the cacodemons and exit! After that it's done!
+
+This map is easy, it should be done below 4 minutes.

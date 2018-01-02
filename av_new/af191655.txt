@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+af191655.TXT
+
+ af191655.ZIP
+
+  af191655.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 19 – UV Fast
+
+Yet another -fast table-filler. The first part up to getting the red key is tricky, but after that, it shouldn't be too difficult. The last 3 minutes are a bit nervously played, due to the couple of arch-viles around I want to kill ASAP but can't until everybody else is. The cyberdemon can also be pretty gut-wrenching as well.
+
+Author: Revved

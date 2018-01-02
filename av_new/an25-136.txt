@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AN25-136.TXT
+
+AN25-136.ZIP
+
+AN25-136.LMP - Nightmare! Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 25 - Demonic Hordes
+
+Kills        6%
+Items       20%
+Secrets      0%
+
+              ********
+  and Time -  * 1:36 *
+              ********
+
+
+Description:
+
+Only slightly more difficult than the UV speedrun, the only real difference
+is that the Cyberdemons are harder to get by in those tunnels right after
+the fence passing.
+
+Under 1:30 is possible ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+11.01.2003

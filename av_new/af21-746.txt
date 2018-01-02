@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AF21-746.TXT
+
+ AF21-746.ZIP
+
+  AF21-746.LMP - Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 21 - One Flew Over the Caco's Nest
+
+  Kills   100%           
+  (Items   71%)          
+  Secrets 100%  and Time = 07:46 
+                          
+
+  Description: Pesky fast monsters means there's less room to use
+               tyson strategies here, so you need to make every
+               bit of ammo count. Hence most of this demo is an
+               ammo gathering exercise. I was also helped out by some
+               convenient infights. In fact everything went so well
+               that I got incautious at the end, wasted everything,
+               and had to punch out a -fast caco...
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

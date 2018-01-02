@@ -1,0 +1,46 @@
+This is a "CN Entry" Doom.lmp - Please forward it.........
+
+****************************************************
+* AV-12-737.zip                                    *
+* AV-12-737.txt                                    *                           
+* AV-12-737.lmp - UV Max                           *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.8(-Complevel 2) *
+****************************************************
+
+Alien Vendetta Map12 - Entropy(UV Max)
+
+****************
+* Kills:  100% *
+* Items:  34%  *
+* Secret: 100% * and time 7:37
+****************          ====
+
+******************************************************************************************************************
+
+Comments:
+
+If you learn Physics, Chemistry or Engineering before, then you should heard about this term before. Entropy is a very famous and important term for Thermodynamics, it have a big relationship to our livings and it's also part of the 2nd law of Thermodynamics, as it stated that:
+
+1. No process is possible whose sole result is the transfer of heat from a body of lower temperature to a body of higher temperature without doing any work.
+
+2. No process is possible in which the sole result is the absorption of heat from a reservoir and its complete conversion into work.
+
+3. In a system isolated from its environment, the entropy of that system will tend not to decrease.
+
+4. Entropy of universe increase in any open system.
+
+A lot of different ways to express the 2nd law of Thermodynamics. But anyway what is entropy? Entropy is the heat property that measures a system's thermal energy which can't do any work, this term was first described by Rudolf Clausius. Entropy can also express by the equation "Delta S=Q/T", where Q is heat and T is Temperature.
+
+Back about this map. I can't remember the exact date, I think it's about 2 years ago which I done this map with time 8:38. The previous run is crap, not playing aggressive enough. As exams finally finished, I decided to redone this map. This map is rather easy compare to other maps of Alien Vendetta, and it got inspirations from E1M2, Doom 2 Map02 and 03, it seems to be a mix. The 2nd part kills if you deal with the chaingunnies too long, because monsters will block your way and then you died. To my surprise, I finish this map faster than tatsurdcaocaco(His time is 7:54). Although I can't beat the DSDA record, I am pleased with this result. A few ugly parts at the 1st part, but it's fine!
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: daiyu027@yahoo.com.tw
+Hotmail: t.c_1014@hotmail.com
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - ROC Minguo year 102, 10th January in New Taipei City, Taiwan "Republic of China".
+民國103年於中華民國台灣地區新北市淡水區製(Recorded in Taiwan)，玩家Daiyu Xiaoxiang。

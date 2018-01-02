@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AR15-705.TXT
+
+AR15-705.ZIP
+
+AR15-705.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 15 - Bulls On Parade
+
+Kills      108%
+Items       60%
+Secrets    100%
+
+              ********
+  and Time -  * 7:05 *
+              ********
+
+
+Description:
+
+The first Alien Vendetta -respawn demo.
+
+Is it just me, or did they do everything they could to kill me this time?
+I have 3 spots with low-healh and near-death experiences...the first at
+the start with all the Chaingunners...then there was that lucky
+Revenant...and then the Mancos and Arch-Vile (who happened to be in the
+blue area with 2 soulspheres). ^^'
+
+I was going to use the normal exit for a while, but things kept screwing
+up when that happened...half of the time, the Cyberdemon wouldn't
+teleport, so I was screwed there...
+
+Then Anders suggested to take the secret exit...which I did. It didn't
+take too much longer once I started playing to get a successful exit ^_^
+
+Route credits go to Anders for suggesting the secret exit ^_~
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+07.02.2003

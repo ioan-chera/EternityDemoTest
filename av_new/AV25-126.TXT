@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AV25-126.TXT
+
+AV25-126.ZIP
+
+  AV25-126.LMP - Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 25
+
+  Kills     ?%           
+  (Items    ?%)          *********
+  Secrets   ?%  and Time * 01:26 *
+                          *********
+                          
+
+  Description :-)
+  
+  Just showing that it isn't hard at all to skip the invuln, 
+  you just die another 50% of the time. Very shitty demo, skipped the invul and still
+  only beat the old time by 3 lousy seconds.
+  
+  Erik Alm
+  erik_a80@hotmail.com

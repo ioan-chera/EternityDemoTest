@@ -1,0 +1,16 @@
+Wad: Alien Vendetta
+Map: 5: Crimson Tide
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 4:00
+Time: 3:27
+Category: UV max
+
+Professional doomers can finish this map within 3 minutes. I try many times to do it, but I can't. So I think 
+setting the target as 4 minutes is better. I try my best to done faster so that I can save more time, and I use 
+3:27. The 1st run is 4:05.
+
+This map isn't very difficult, except for too many revenants. I try to kill just 2 HKs with the plasma gun at
+that rocket launcher area, I hope to save it for killing the teleporting revenants in the yellow key area.
+
+Time can be improved if the last area can deal it faster. Any I just satisfied with 3:27.

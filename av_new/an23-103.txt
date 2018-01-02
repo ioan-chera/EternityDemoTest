@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AN23-103.TXT
+
+AN23-103.ZIP
+
+AN23-103.LMP - Nightmare!
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 23
+
+Kills       15%
+Items       20%
+Secrets     20%
+
+              ********
+  and Time -  * 1:03 *
+              ********
+
+
+Description:
+
+I love this trick.
+
+
+
+Author:      Jakub "method_man" Razak
+E-mail:      dale007@volny.cz
+
+

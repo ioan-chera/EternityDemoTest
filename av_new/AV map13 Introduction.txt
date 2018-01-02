@@ -1,0 +1,42 @@
+Wad: Alien Vendetta
+Map: 13 - Suicidal Tendencies
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 14:00
+Time: 13:57
+Category: UV max
+
+****************
+* Kills:  100% *
+* Items:  79%  *
+* Secret: 100% *
+****************
+
+******************************************************************************************************************
+
+This is my favourite map in Alien Vendetta. I like the beautiful design techbase and the music "The demons from
+Adrian's pen", which suits very well in this map.
+
+To me, this map is actually not very hard, instead it's fun! I always like to spam on BFGs and rockets. However,
+I can say this map is quite aggressive since there's 592 monsters. 
+
+The beginning is not very hard if you just kill the shotgun guys in one corner, but taking care of ammo is needed,
+since shotgun ammo is quite limited in the beginning. My favourite part is the zombieman killing with chaingun, 
+cha-cha using the chaingun against them is so fun!!! As for that cyberdemon, I use a safer method. The traditional
+method is to BFG him after getting the red key, but this is very dangerous since the area is quite small. I try to 
+BFG the cyberdmon in a larger space which is swarmed with demons, and this work is much easier. I was also happy 
+that I can finish all teleporting archviles in the end with a very short time. ^^
+
+I really hope I can finish this map within 14 minutes, and I was really happy I can done it! If I do kill that
+missing revenant fast, I should have done with 13:4X.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 23/03/2011 in People's Republic of China

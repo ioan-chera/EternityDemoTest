@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+AC20-327.TXT
+
+ AC20-327.ZIP
+
+  AC20-327.LMP - Ultra-Violence coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 20 - Misri halek
+
+           Kills    Items   Secrets
+
+  Green     15%       12%       0%      PenumbraSix
+  Indigo    10%       25%       0%      JC
+
+              ********
+  and Time -  * 3:27 *
+              ********
+
+
+Description :
+
+[ JC : ]
+
+Ahah, yeah ! Finally !
+This fu**ing berserk part is sooo random ! and it's really annoying ...
+We manage to change our strategy at the end of the map and ... it works :D
+
+
+[ PenumbraSix : ]
+
+JCD and I love this map, it only seemed natural we try to achieve something on it ! 
+After numerous tries, fails, tears and cold sweats, we ended up achieving this demo under 3:30, which was satisfying enough. 
+Main problems of this map are the berserk part in the beginning (because it is a really random weapon) and the Arch-vile after the Baron/swarm of Zombies near the end. 
+Good luck if you try to do a batter time!
+
+
+
+Authors :
+
+PenumbraSix
+arnaud.florian.71300@gmail.com
+1st Compet-N Entry
+
+JC
+superjc@free.fr
+47th Compet-N Entry
+
+
+PenumbraSix's LAN, France
+12/07/2014

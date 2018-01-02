@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ac01-124.TXT
+
+ac01-124.ZIP - Coop UV max
+
+ac01e124.LMP - Eugene - Green
+ac01s124.LMP - Sergey - Indigo
+
+Recorded using Doom2 Version 1.9
+Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+Alien Vendetta - Level 01 - Sunset  by Martin Aalen Hunsager
+      
+Kills       49%
+Items       33%
+Secrets     83%	
+
+Kills       49%
+Items       66%
+Secrets     16%	
+
+and Time - 1:24
+
+
+Description:
+
+First exit with all monsters killed.
+
+Green:
+
+I wish that bfg was placed near by the viles.
+
+Indigo:
+
+See how a vile revives a chanie through the void.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+12.01.2007

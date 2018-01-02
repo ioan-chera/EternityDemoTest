@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+Af07-259.TXT
+
+ Af07-259.ZIP
+
+  Af07-259.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File AV.WAD -PlayDemo with Version 1.9
+
+  Alien Vendetta - Level 07 - Showdown
+
+  Kills    100%           
+  (Items     0%)          *********
+  Secrets  100%  and Time * 02:59 *
+                          *********
+                          
+
+  Description :
+
+               Wanted a time under 3 mins.:) Nice map.
+
+  Author: Tomas "DeDo" Kollar
+  Email: akollar@edoma.sk

@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+af101149.TXT
+
+ af101149.ZIP
+
+  af101149.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file av.wad -playdemo with version 1.9
+
+  Alien Vendetta – Map 10 – UV Fast
+
+Finally got this one finished. At first I didn't want to because of the 359 monsters in the level, but I eventually became curious and started to get a good route going. This is mostly the same demo as Xit's NM100S demo of the map, but this is a lot slower due to my skill, killing all monsters and less ammo. It's pretty tough until I get the red key where there's a green armor. The last part I got lucky because the Spiderdemon didn't shoot when she saw me, and I didn't lose a lot of health, but the time gain was negated when I skipped over the exit line.
+
+Author: Revved
