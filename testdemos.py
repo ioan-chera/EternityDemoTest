@@ -22,6 +22,7 @@ args_base = ['eternity-port/eternity', '-base', 'eternity-port/base', '-user', '
 args_doom = ['-iwad', 'DOOM.WAD']
 args_doom2 = ['-iwad', 'DOOM2.WAD']
 
+
 # delete old entries
 filelist = [ os.path.join('temp-logs', f) for f in os.listdir("temp-logs") if f.endswith(".txt") ]
 for f in filelist:
