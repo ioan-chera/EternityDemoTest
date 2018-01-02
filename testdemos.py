@@ -41,7 +41,7 @@ for item in items:
     if len(item) > 2:
         args.extend(item[2:])
     # now look in the folder with demos
-    files = os.listdir(item[1])
+    files = sorted(os.listdir(item[1]))
     for f in files:
         if f.lower().endswith('.lmp'):
             demo_path = os.path.join(item[1], f)
@@ -71,9 +71,11 @@ Parallel(n_jobs=cpu_count)(delayed(call_eternity)(a) for a in commands_list)
 time_end = time.time()
 time_elapsed = time_end - time_start
 
+print
+
 print 'Elapsed time:', time_elapsed, '; average per demo: ', time_elapsed / len(commands_list)
 
-filelist = [ os.path.join('temp-logs', f) for f in os.listdir("temp-logs") if f.endswith(".txt") ]
+filelist = [ os.path.join('temp-logs', f) for f in sorted(os.listdir("temp-logs")) if f.endswith(".txt") ]
 
 try:
     os.remove('demolog.txt')
