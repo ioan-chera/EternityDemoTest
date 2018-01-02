@@ -36,6 +36,8 @@
 2 1monster/bugfix -file 1monster/1monster_bugfix.wad
 2 av_old -file av_old/AV.WAD
 2 av_new -file av_new/AV.WAD -deh av_new/AV.DEH
+2 av_new/solonet -file av_new/AV.WAD -deh av_new/AV.DEH -solo-net
+2 av_new/spechit -file av_new/AV.WAD -deh av_new/AV.DEH -spechit 0x01C09C98
 1 competn/doom
 1 01fava -file 01fava/FAVA.WAD
 2 cydreams -file cydreams/Cyber110.wad -deh cydreams/Cyber110.deh
