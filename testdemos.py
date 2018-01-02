@@ -6,6 +6,27 @@ import sys
 import time
 from joblib import Parallel, delayed
 
+###################################################################
+###################################################################
+
+# https://stackoverflow.com/a/5967539
+import re
+
+def atoi(text):
+    return int(text) if text.isdigit() else text
+
+def natural_keys(text):
+    '''
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    (See Toothy's implementation in the comments)
+    '''
+    return [ atoi(c) for c in re.split('(\d+)', text) ]
+
+###################################################################
+###################################################################
+
+
 # 0. Get data from .data
 with open('demo-list.data', 'r') as demolist:
     s = demolist.readlines()
@@ -76,7 +97,7 @@ print
 
 print 'Elapsed time:', time_elapsed, '; average per demo: ', time_elapsed / len(commands_list)
 
-filelist = [ os.path.join('temp-logs', f) for f in sorted(os.listdir("temp-logs")) if f.endswith(".txt") ]
+filelist = [ os.path.join('temp-logs', f) for f in sorted(os.listdir("temp-logs"), key=natural_keys) if f.endswith(".txt") ]
 
 try:
     os.remove('demolog.txt')
