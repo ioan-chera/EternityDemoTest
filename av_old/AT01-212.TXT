@@ -1,0 +1,28 @@
+This is an Alien Vendetta demo.
+
+AT01-212.TXT
+
+ AT01-212.ZIP
+
+  AT01-212.LMP - UV Tyson
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 01 - "Fire Walk With Me"
+
+  Kills: 	100%
+  Items:	100%
+  Secrets:  	100%
+
+    Time:	2:12
+		----
+
+
+Description: I was trying this on AdamW's comp, but it was impossible.
+             Needed more than 1 hour to get used to my comp again, heh.
+             
+             
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz

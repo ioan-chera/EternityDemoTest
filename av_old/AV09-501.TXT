@@ -1,0 +1,25 @@
+This is an Alien Vendetta demo.
+
+AV09-501.TXT
+
+ AV09-501.ZIP
+
+  AV09-501.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 9
+
+  Kills:       100%
+  Items:        ??%
+  Secrets:     100%  and Time = 05:01
+
+
+  Description: Quick improvement on Espi's 6:01. Nothing special - could go
+               rather faster. This route is cleaner and has more efficient
+               weapon usage. Please no-one beat this, I want *one* max run
+               in the demopack at least :)
+               
+   Adam Williamson
+   adam.williamson1@btinternet.com

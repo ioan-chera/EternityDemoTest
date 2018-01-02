@@ -1,0 +1,26 @@
+This is an Alien Vendetta demo.
+
+AV02-039.TXT
+
+AV02-039.ZIP
+
+  AV02-039.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 02 - "Rusty Rage"
+
+   Kills: 	?%
+   Items:	 ?%
+   Secrets:  	?%
+
+   Time: 	0:39
+		----
+
+Description:   Almost everything went well this time, a missed shot in the beginning cost me
+	       a little time, and the running is damn shaky...
+
+
+Author:    Erik Alm
+E-Mail:	   erik_a80@hotmail.com

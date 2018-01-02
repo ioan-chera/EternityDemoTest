@@ -1,0 +1,29 @@
+This is an Alien Vendetta demo.
+
+AV112450.TXT
+
+ AV112450.ZIP
+
+  AV112450.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 11 - "Nemesis"
+
+   Kills: 	100%
+   Items:	 84%
+   Secrets:  	100%
+
+   Time: 	24:50
+		-----
+
+Description:	There was a (local :) demand for the author to complete the 
+		map on ultraviolence, so here it is. Hope someone will try
+		to make a fast demo here sooner or later. Noticed I forgot        
+		a lower texture in the cave area, sorry bout that.
+		This one should be possible on Nightmare as well...tho hard.
+		(Henning? :)
+
+Author: Martin Aalen Hunsager
+E-mail:	mhungsa@hotmail.com

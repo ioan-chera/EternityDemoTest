@@ -1,0 +1,30 @@
+This is an Alien Vendetta demo.
+
+AV32-623.TXT
+
+ AV32-623.ZIP
+
+  AV32-623.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 32 - "No Guts No Glory"
+
+   Kills: 	101%
+   Items:	100%
+   Secrets:  	100%
+
+   Time: 	6:23
+		----
+
+Description:	Slow and sloppy "tutorial" demo after a few tries.
+	        Shows how the route was	planned....alto I doubt its 
+		the fastest way. Releasing everything and maybe even 
+		leaving the start area for infighting and clearing out
+	        the last part first, would be the way to go. I'll do a 
+		hardworked demo over it sooner or later.
+
+
+Author: Anders Johnsen
+E-mail:	andersjohnsen@hotmail.com

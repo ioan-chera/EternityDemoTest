@@ -1,0 +1,150 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Alien Vendetta (AV.wad)
+Map(s):    1 - 10
+Category:  UV Max Movie
+Exe:       Doom2 v1.9 
+Note:      Desynchs with prboom v2.2.3 (cph said it's an intermission bug that should be fixed in a future release)
+
+
+"Alien Vendetta Episode 1" :     
+--------------------------------------------
+Map  Level Name      Record Time  Movie Time
+--------------------------------------------
+01  Sunset               1:11	    1:18	
+02  Rusty Rage           1:53	    2:09	
+03  Cargo Depot          3:04       3:51 	
+04  Seclution            4:22       5:37
+05  Crimson Tide         2:31       3:20  	
+06  Hillside Siege       7:38       8:56 	
+07  Showdown             2:15       3:14
+08  Beast Island         9:20      10:18
+09  Castle Gardens       4:07       5:36 
+10  Toxic Touch          7:18      10:00
+===========================================
+	       Totals:  43:39      54:19
+
+Map 01 - Sunset:
+----------------
+I developed a tactic of shooting the pistol before picking up the shotgun 
+to wake the enemies. Usually you can round the corner towards the first
+door and get two (and sometimes three) enemies in one shot. I'm not sure 
+if it really makes a difference time-wise either way. I could have used
+better running skills and luck in the first 2/3 of this demo. Honestly
+though, I'm pretty happy with a 1:18.
+
+Map 02 - Rusty Rage:
+--------------------
+One cool thing that happened here was the chaingunner started an infight
+with the imps while I was waiting on the lift. It happens every so often
+(didn't happen in Anders demo though :P) and helps with the time. Another
+thing I did differently then Anders (besides run fast, heh) is jump the 
+gap between the red key and rocket launcher platform instead of back-tracking
+through the caves. Again, I'm not exactly sure which route is faster. 
+Make or break moments recording in this map include the imp cages and 
+the archvile. I managed the cages fine but the archvile scene got messy.
+
+Map 03 - Cargo Depot
+--------------------
+There's too many spectres in the blue key area. Really slows the action down.
+
+Map 04 - Seclution
+-----------------
+About as fast as I can go here.
+
+Map 05 - Crimson Tide
+--------------------
+The keys seem harder to grab then usual. Anders?
+
+Map 06 - Hillside Siege
+----------------------
+Slow! gah. Target time here is a 8:30 and usually I can get a 8:15. Lost 
+time when I got gang-banged by a crew of Revanants and ran away like a
+little girl with 2% health. Two wasted bfg shots here also. As you'll
+see that really hurts later on - this is a stock up level. Nothing like
+getting your arse kicked on your home court. :~(
+
+Map 07 - Showdown
+----------------
+I usually have enough cells to take care of all the mancubi. If I didn't
+screw up map06 badly...
+
+Map 08 - Beast Island
+--------------------
+Time says "10:18". Should read "Time sucks!". Botched this one badly.
+Again, the cells I waste in map06 hurts me - VS. the archie I normally
+bfg him. Here, I look like a trigger-happy blind man with a rocket 
+launcher. I missed a late teleporting imp and knew it so I had to 
+return to the top of the waterfall. I fell off the castle ledge
+twice and faced the cyber pretty cowardly with the bfg. Make sure you
+get the shell boxes at the beginning - even if you start the level with
+50 shells you can find yourself running out later on.
+
+Map 09 - Castle Gardens
+-----------------------
+If your wondering why I start shooting at nothing and return to areas I
+already cleared it's because I'm paranoid about not getting 100%/100%.
+It started in map08 and continues on until map10 exit. That soulsphere 
+secret can really be a bitch to get. 
+
+Map 10 - Toxic Touch
+--------------------
+Ten map episode run, map 10, in 10:00 minutes. Works for me. :-)
+300 shells and 18 rockets to unload is great fun although I didn't
+really plan how to use it effectively. That's not even considering
+the ammo in the level. 
+
+=======================================================================================
+
+Description:
+		This is my first movie. I'm not sure why I chose AV for a first movie
+	attempt. Not good in hindsight, heh. AV is a great wad for sure but I really
+	did struggle to get a complete 100/100 recording. I started archiving my 
+	serious attempts (usually to level 06 or later). So I can date my first serious
+	attempt back to September 10. After I recorded 30 "serious attempts" (file
+	listing in my dir goes from 01av0001 to 01av0033) I got fed up and stopped 
+	keeping most attempts. I figure most of these were at least 30 minutes in
+	length (the 33 demos are 7.64mb total).
+
+		AV episode 1 is my favorite of the three (plus ep 2 + 3 start off with
+	some enormous maps). Sunset as map01 is your typical starter map. I was pretty
+	fed up with this map though. The design is not very considerate of a speedrunner.
+	Rusty Rage is one of Anders handful of great maps in ep1. It's unadulterated fast
+	paced action. Small nuances include the imp cages, tree sprite placement, and the
+	red-key exit door not staying open (grr :). Very fun tho. Usually if I can clear
+	maps 01 + 02 without dieing or quitting because of the time I'm good to go until
+	I reach map06. Maps 03 + 04 are Berggren treats. They're fun but it's pretty hard
+	to die with the excessive health. Just a few too many medkits. =)
+
+		Crimson Tide, map 05, starts off the second part of episode 1. It's a
+	very solid gameplay map. Straight on to map 06. Hmm, what to say of map 06? I
+	died the most in Hillside Siege. Yes, my own (co)map. =) It's got excellent
+	architecture (Thanks Lee!), excellent monster placement (Thanks Anthony! [your 
+	welcome!]), and excellent gameplay balance (Thanks Anders!). Map 07 was a 
+	pleasant suprise. (Suprise, suprise Anders made it). Smooth, quick gameplay.
+	Map 08 is a beast. I'm going to slap whoever put a thin-sector secret for the
+	soulsphere secret. 1000 whip lashes to you. Also, 1000 whip lashes to Kim Malde
+	for that soulsphere secret in map09. My fat arse couldn't fit in that 64x64 hole. heh.
+	Map 10 is a solid finish. I got 99% kills here twice. The demon ambush in the plasma
+	room was a poorely constructed teleporter - with the bfg it's possible to overlook
+	a monster.
+
+		I want to thank Doug for his movie of The Darkening Episode 2. That was what
+	got me interested in doing a movie. I enjoyed watching that movie also. I want to 
+	thank Radek Pecka for inspiration. Today we talked about AV episode 1 in IRC and it
+	inspired me to record. (I can't wait to see you or stx-Vile record this!). I want to
+	thank Altima for mocking my cyberdemon skills (sorry I don't sit at home strafing
+	cybers in Grosse trying to punch them out on a 14" monitor - hehe j/k). Finally, I 
+	want to thank the designers of episode 1: Martin Aalen Hunsager, Anders Johnsen, 
+	Mattias Berggren, Lee Szymanski, Jan Endre Jansen, and Kim Malde. Excellent maps!
+
+Woohoo!
+
+Author:    Anthony Soto
+Email:     neworderdatabase@hotmail.com
+HTTP:	   http://thefish.8m.com/
+
+November 5, 2002.
+//eof
+

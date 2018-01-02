@@ -1,0 +1,26 @@
+This is an Alien Vendetta demo.
+
+AN01-043.TXT
+
+ AN01-043.ZIP
+
+  AN01-043.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 01 - "Sunset"
+
+   Kills: 	33%
+   Items:	16%
+   Secrets:  	25%
+
+   Time: 	0:43
+		----
+
+Description:	Crap. Beat it :)
+
+	        	
+
+Author: Anders Johnsen
+E-mail:	andersjohnsen@hotmail.com

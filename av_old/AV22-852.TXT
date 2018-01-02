@@ -1,0 +1,24 @@
+This is an Alien Vendetta demo.
+
+AV22-852.TXT
+
+ AV22-852.ZIP
+
+  AV22-852.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 22 - Rubicon
+
+  Kills:       101%
+  Items:        60%
+  Secrets:     100%  and Time = 08:52
+
+
+  Description: There're some obvious improvements to be made here, this is
+               just a first exit.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

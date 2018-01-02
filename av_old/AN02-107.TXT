@@ -1,0 +1,26 @@
+This is an Alien Vendetta demo.
+
+AN02-107.TXT
+
+ AN02-107.ZIP
+
+  AN02-107.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 02 - "Rusty Rage"
+
+   Kills: 	53%
+   Items:	55%
+   Secrets:  	50%
+
+   Time: 	1:07
+		----
+
+Description:	Just an experimental demo. Was actually my first try.
+		In other words, I want this to be beaten =)
+	        	
+
+Author: Anders Johnsen
+E-mail:	andersjohnsen@hotmail.com

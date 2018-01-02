@@ -1,0 +1,15 @@
+wad: av.wad: Alien Vendetta (1st release)
+
+map 01
+
+Type: UV-max
+
+Parameters: -solo-net
+
+Time: 3:37
+
+Recorder: Sebastian "DoomHero85" Graham
+
+Recorded with: Prboom+ 2.5.0.7 -clvl 2 
+
+Notes: Much harder level with -solo-net, give it try guys!

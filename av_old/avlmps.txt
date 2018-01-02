@@ -1,0 +1,538 @@
+Alien Vendetta UV lmp collection
+--------------------------------
+
+Recorded by Drew "stx-Vile" DeVore, Adam Hegyi, Jason Henry, Anders Johnsen, 
+Radek Pecka, Esa "Espi" Repo, Chris "Ryback" Ratcliff, Henning Skogsto, 
+Anthony Soto and Adam Williamson.
+
+This is a collection of recorded demos (lmps) for all 32 levels of Alien
+Vendetta. All lmps were recorded on skill 4 (Ultra-Violence), ending with at
+least 100% kills and 100% secrets (where possible).
+
+To playback these demos, put them in your doom2 directory and type:
+
+        doom2 -file av.wad -playdemo av??-uv
+
+where ?? is the level number.
+
+Alien Vendetta is available at the Alien Vendetta hompage:
+http://www.doom2.net/~av/
+
+This pack was put together over a period of several months: as a result, 
+A LOT of demos were recorded, in all sorts of categories - speed, -fast, 
+tyson, nightmare etc. If all the demos in this pack haven't fully whetted 
+your appetite and you're hungry for more, these miscellaneous demos 
+can be downloaded from
+
+http://www.doomworld.com/sda/av.htm
+
+Some of these demos are pretty slow, but some are *very* entertaining :)
+
+
+General Pack Comments
+---------------------
+
+Drew "stx-Vile" Devore
+----------------------
+This is the first demopack I have taken part in, and also the first 
+batch of max demos I've ever recorded, so I hope they are enjoyable to 
+watch.  I like the way these packs work out, with lots of players coming 
+together to contribute to the final product, so I wish I was around when 
+packs for wads like MM, MM2, or Requiem were being made.  I want to 
+thank Anders and the gang for creating AV, which is a truly remarkable 
+megawad, to say the least.  It's yet another testament to Doom's excellent 
+replayability. :)
+
+
+Adam Hegyi
+----------
+[none received]
+
+
+Jason Henry
+-----------
+[none received]
+
+
+Anders Johnsen
+--------------
+Well, I should start by noting I planned to involv myselfe alot more with the
+recording of this pack. In a way that was my goal with AV in the first place,
+to record a shitload of demos for it. Funny how things turn out. I think the
+pack as a whole have some nice demos in it, a few levels coulda needed some more
+sessions, but one shouldn't complain when one is too lazy to do anyhting about
+it :P Thanks to Ryback for organizing the releas of it, to Doug for keeping
+the AV table updated and everyone who contributed with demos. Not too different
+from Henning, this will be my last involvment in a demopack (btw, thanks Hen
+for going like, totally way over hill with your av comments, heh :P)
+Have fun watching...
+
+
+Radek Pecka
+-----------
+This is probably my LAST demo for a few months. I don't even
+know when I come back, but this is life and I can't do anything
+about that. Now I can say just one thing --> I'LL BE BACK !!!
+I'm happy that I was a part of DooM circus for 2 years. Thanks
+everyone in c-n for keeping DooM alive. KEEP ON DOOMING!
+
+
+Chris "Ryback" Ratcliff
+-----------------------
+Not my first demopack by a long stretch, but this is certainly the 
+biggest.  Alien Vendetta would have to be one of the most eagerly 
+awaited Doom megawads ever, and the fact that it managed to live 
+up to the hype just shows how good it is. These maps stretch the 
+Doom engine in ways that wouldn't have been thought possible 
+a few years ago. You can clearly see the influence of source ports
+and their associated pwads: yet the result is a massive 23meg wad
+that plays back flawlessly on vanilla doom2.exe. I think this
+is something great :)
+
+Also I have to say something about the demos you're about to 
+watch. They're all great. (Yes, even mine :) The demo team gave itself
+plenty of time to pull out improvements on certain levels, and 
+there was some great competition; of which you're only seeing the 
+results. Very difficult to choose favorites from this bunch, so 
+I'll limit myself to my favorite demo from each player.
+Anders Johnsen came along when we thought some times were
+nearly optimised and showed us all wrong: his map02 in particular
+is incredible. Henning only contributed one demo, typically
+smooth and stylish and speedy. Radek also only had time to put in 
+one demo - his map29 is just as good as you'd expect. 
+Espi's map10, tight and action-packed. Jason Henry's map20 demo, showing
+every corner of this brilliant, incredibly difficult level. Adam 
+Williamson's tightly played map17 (even if he did steal my route :) 
+Drew "Fearless" DeVore's exhausting map27 run.
+
+It was great to be on a demopack stuffed full of such talented 
+people. The keyboarders live still :)
+
+
+Esa "Espi" Repo
+---------------
+Three of my demos were somehow spared from total butchery, which is a 
+shame seeing how bad they are. :P I haven't had time to improve them 
+myself either.
+
+
+Henning Skogsto
+---------------
+I'm ashamed that I didn't record more demos for this great
+megawad. It's truly (from my perspective) the best ever.
+And further on every map is designed in such a unique way that
+every doomer out there should be ashamed for not having
+played them all. I also hope that this megawad will sometime
+be a part of COMPET-N. The .wad itself can only make COMPET-N more
+attractive and fun to be a part of.
+
+On a side note conserning myself I have to say that this is my last
+contribution to doom. (I know I have joked about these things before but
+this time it's not meant to be a joke) Before I move on though I would
+like to say a few things first.
+
+First I have to say a big *THANK YOU* to Adam Hegyi for his never ending 
+interest in doom and for everything he have done for doom and espessialy 
+COMPET-N. I guess COMPET-N would be something I will always remember until 
+the day I'm six feet under :) We (I know I have) had alot of fun during all 
+the years we played for COMPET-N. But finaly
+though, life has to go on ;)
+
+
+Anthony Soto
+------------
+AV is a very good megawad. If I used the 3 point test of any great wad it
+would get 1 full point for playability and 1/2 points for detail and 
+design. Would have been the best wad of 2001 if it wasn't for the outstanding
+work of Richard Wiles Slayer wadset. AV's high points are it's playability
+and creativity in design. Some of the levels really show a stride towards
+creating detail and design never seen in DOOM. 
+
+AV suffers from a lack of discretion. If AV were a film it could use some
+serious editing. Many wads have too many areas 'tact' on. I can feel that
+whole "mine is bigger then yours" vibe. Someone should have took a broom
+and swept out the bad parts of certain levels. Otherwise, I don't think
+it would have hurt to see a new version of AV. I think it's just one of
+those inevitable aspects of making a megawad. Megawads as early as Momento
+Mori had to release bug fix versions. You just cannot anticipate everything.
+I think Anders stuck with the idea of not breaking compatibilty in favor 
+of fixing some nagging bugs. All he was really saving was some first, 
+second, and maybe third effort runs. 
+
+My contributions are just miscellaneous. I really only recorded what
+I felt like.  Nice to see some diverse contributions to this pack from 
+a variety of talented individuals. See ya at Compet-n!
+
+
+Adam Williamson
+---------------
+Well, since Henna beat my MAP09 I guess I only get one map in this pack
+:(. Not much to say really, thanks to Anders and his team for putting
+together such an awesome map pack. MAP17 was great fun to play, except
+for that damn cyberdemon :). Also big credits to the other players on
+this pack, who all did great jobs too.
+
+
+Here is a quick table listing all lmps - detailed descriptions come later.
+
+Level  Level Name                    Recorded by               Time
+-----  ----------                    -----------               -----
+ 01    Sunset                        Anders Johnsen            01:11    
+ 02    Rusty Rage                    Anders Johnsen            01:53    
+ 03    Cargo Depot                   Anders Johnsen            03:04    
+ 04    Seclution                     Anders Johnsen            04:22    
+ 05    Crimson Tide                  Anders Johnsen            02:31    
+ 06    Hillside Siege                Esa "Espi" Repo           07:38    
+ 07    Showdown                      Adam Hegyi                02:29    
+ 08    Beast Island                  Esa "Espi" Repo           09:20    
+ 09    Castle Gardens                Henning Skogsto           04:07    
+ 10    Toxic Touch                   Esa "Espi" Repo           08:52    
+ 11    Nemesis                       Anthony Soto              17:37
+ 12    Entropy                       Chris "Ryback" Ratcliff   07:44
+ 13    Suicidal Tendencies           Jason Henry               13:12
+ 14    Overwhelming Odds             Drew "stx-Vile" DeVore    13:46
+ 15    Bulls on Parade               Chris "Ryback" Ratcliff   10:06
+ 16    Mutual Destruction            Chris "Ryback" Ratcliff   08:34
+ 17    Nukefall                      Adam Williamson           03:24
+ 18    Lake Poison                   Drew "stx-Vile" DeVore    12:26
+ 19    Alien Resurrection            Chris "Ryback" Ratcliff   12:54
+ 20    Mishri Halek                  Jason Henry               29:24
+ 21    One Flew Over The Caco's Nest Anthony Soto              04:39
+ 22    Rubicon                       Adam Hegyi                06:41
+ 23    Blood Sacrifice               Chris "Ryback" Ratcliff   09:28    
+ 24    Demonic Hordes                Chris "Ryback" Ratcliff   27:42
+ 25    Valley of Echoes              Drew "stx-Vile" DeVore    21:09
+ 26    Dark Dome                     Drew "stx-Vile" DeVore    19:24    
+ 27    Stench of Evil                Drew "stx-Vile" DeVore    26:14
+ 28    Whispering Shadows            Drew "stx-Vile" DeVore    16:47
+ 29    Fire Walk With Me             Radek Pecka               09:15
+ 30    Point Dreadfull               Adam Hegyi                01:07
+ 31    Killer Colours                Adam Hegyi                06:33
+ 32    No Guts No Glory              Drew "stx-Vile" DeVore    03:58
+
+
+Descriptions
+------------
+
+The descriptions were written by the team member who recorded the map.
+
+AV-01 - Sunset
+--------------
+Neat clean map by Martin, one of my AV favs. third attempt demo, so don't 
+expect much..
+
+
+AV-02 - Rusty Rage
+------------------
+Ok demo I suppose, the imps in the towers can be annoying to kill off. Wish 
+I put a barrel or two in each of them.
+
+
+AV-03 - Cargo Depot
+-------------------
+Mattias Berggern map so its bound to be a fun one. Too many spectres in the 
+bluekey garden tho. Again, demo is not too shitty timewise.
+
+
+AV-04 - Seclution
+-----------------
+Superior in design to map03, another Matte map this one. Great gameplay too, 
+so-so demo, didn't expect it to stay in the final pack.
+
+
+AV-05 - Core Infection
+----------------------
+One of my better levels I belive. A few ugly moves in this demo, but 
+timewise its decent.
+
+
+AV-06 - Hillside Siege
+----------------------
+The start and end of the demo are decent I think, but the 
+middle part is horrible and I take a lot of damage, but somehow manage to 
+survive. Lucky enough to telefrag the cyberdemon too, not very easy to 
+get that happen.
+
+
+AV-07 - Showdown
+----------------
+[none received]
+
+
+AV-08 - Beast Island
+--------------------
+Ugly.
+
+
+AV-09 - Castle Gardens
+----------------------
+Nice map, it also provides a great gameplay. I gave it a few sessions
+and steadily worked my way down timewise second by second, and when I
+got the current time I decided that enough was enough :)
+
+
+AV-10 - Chambers of War
+-----------------------
+Slow, but it gets the job done.
+
+
+AV-11 - Toxic Touch
+-------------------
+I must advise against watching this demo. That's right, I said don't watch 
+this demo. It's somewhere between not too good and downright bad. It's 
+just one of those demos that can only be appreciated by my mother or
+the level author himself. Well, my mom said she's not interested in 
+watching the demo right now so that is definately a bad sign. And 
+usually she'll sit down and watch our favorite lmp's together. She
+said something or another about 'not having enough time to watch 
+my exploration missions'. Yeah, well, you know.
+
+One of the architectural masterpieces from AV. This level plays for the 
+most part well also. I wish Martin would have stayed away from 
+too much cave activity at the end. By then my nerves are fried and
+not really happy about navigating 96 units wide caves. Some noticeable 
+alignment problems, but otherwise, a great monster of a map.
+
+
+AV-12 - Nemesis
+---------------
+I don't know what it is about Brad Spencer's maps that makes them so
+unique... you can pick the author almost from the first room. Maybe it's
+the ornamentation he manages to fit into even the barest square room.
+Or the way levels seem inspired by eighties arcade games. The gameplay
+is well balanced here, particularly the ammo... if you play too fast and
+don't watch your supply you're bound to run out. On the other hand, the
+design doesn't quite escape a feeling of room-passage-room-passage-room.
+
+The demo is rough, but reasonably well optimised - I was familiar enough
+with the level to be able to press forward with confidence most of the time.
+Keep your ammo for dangerous situations and it's easy.
+
+
+AV-13 - Suicidal Tendencies
+---------------------------
+I think this is as fast as I can push it.
+
+
+AV-14 - Overwhelming Odds
+-------------------------
+Thanks go to Opulent for recording the first demos over this one; I 
+didn't change his route at all.  I couldn't think of anything to say about 
+this map before, I suppose the gameplay spoke for itself at the time.  
+When I played through all of AV with savegames, I ran out of ammunition 
+here, so I had to run past the hordes semi-pacifist style.. and my 
+lucky ass made it, haw haw! :)
+
+
+AV-15 - Bulls On Parade
+-----------------------
+This level is a real mixed bag, some OK bits and some terrible bits
+(the outside arena with the revenants is not my cup of tea). In some
+ways it feels undeveloped, especially the start area and the darkened
+rooms after the outdoor arena. And I never know how to play that
+crusher trap.
+
+The end section, though, is good enough to make up for just about
+all of this. If you hang around it's challenging, but it's faster
+to zip back and finish the rest of the level :)
+
+
+AV-16 - Mutual Destruction
+--------------------------
+A typical tight Brad Spencer map, with lots of attention to detail
+and difficult fights. The start is chancy played fast, after that 
+things calm down a little, right up to the revenant trap that tests 
+if you're still awake :) The hardest part of the map is the Cybie
+trap, you've got just enough time with the invuln to kill all of them, 
+but you have to collect ammo, so you have to MAKE YOUR SHOTS COUNT.
+In this demo this part went absurdly well, and I had so much ammo
+the remainder of the level was a breeze...
+
+
+AV-17 - Nukefall
+----------------
+Well, thought i'd try this some more tonight...it's a really frustrating run
+but somehow I like it too :). Played for a MAP05 tyson for a while first -
+sorry to offend Fish but if his demo had been any slower i'd've grown a beard
+by the time I finished watching it - but got no luck there (well, actually,
+I just screwed up a lot :>) so thought i'd try a couple of route changes i'd
+discussed with Anders. Only one is used in this demo - I use fewer BFG shots
+on the revenant packs and save up six so I can take the exit archviles down
+much quicker. Very frustrating though, this fails often...they killed me three
+times before this run came. Rest of the run is OK, the start is very nice but
+there's a couple of stupid bits elsewhere. *Really* optimised run could maybe
+just push under 3:00, but i'm happy being under 3:30 :).
+
+
+AV-18 - Lake Poison
+-------------------
+I thought it was surprising that I was the only person who attempted 
+this map.  It's an excellent map, so thanks go to Anders for making it.  
+My favorite part of this map is the huge arena near the end.  With the 
+BFG, lots of cells, and a surplus of spheres/armor, you can't go wrong 
+here. :)
+
+
+AV-19 - Alien Resurrection
+--------------------------
+Nobody else seemed keen on recording this map, so it was left to me.
+The earlier sections of the map are the best, with simple, 
+interesting monsterfights. The later sections, inside this huge 
+building/arena, suffer too much from monsters just being piled on...
+and you *desperately* need some armor here. Strange things tend to
+happen too... in my first successful run here I got a ghost mancubus
+who fell off the edge of the map and couldn't climb back up. And in
+another try (not recorded) I had to deal with a ghost PE :)
+
+
+AV-20 - Mishri Halek
+--------------------
+Beautiful map, but that $%@*!& spiral mountain had me wishing
+that Kim Malde's mother had used birth control...(a megasphere
+at the top would have been very nice, sir!)  Other tough parts
+are the low-ammo start (I suck at Tyson) and the close-range
+Cybies.  I also get totally lost at the end.  Under 26 minutes
+certainly possible.
+
+
+AV-21 - One Flew Over The Caco's Nest
+-------------------------------------
+This level kind of annoys me a bit. Anders says he did ammo balance and 
+that he purposely made it so that beserk would be needed in certain
+areas. I still think there is just not enough ammo to the point where I
+feel I might as well make a tyson demo if I were to attempt a max demo.
+The health is scarce too and made barely sufficient by an unmarked soul
+sphere secret. You can get aggravated pretty fast when you die in the
+final room because your trying to get a soul sphere secret (?) that is
+behind a door located in a pool of -20 blood (?). GRR. It also is visually
+a bit boring because Pablo's editor doesn't seem to be able to change
+heights in a level. 
+
+
+AV-22 - Rubicon
+---------------
+[none received]
+
+
+AV-23 - Blood Sacrifice
+-----------------------
+This is a beautifully laid out castle level, totally linear, but great fun
+to run through. A lot of effort has gone into the castle region itself, 
+resulting in a multi-level but compact structure. Also the textures need 
+to be mentioned: this level has a light, flecked gray look that's quite 
+different to your average Doom castle. I got myself in some trouble 
+in the demo, but it's not a hard level.
+
+
+AV-24 - Demonic Hordes
+----------------------
+This is the huge mutha. 1696 monsters (out of AV's total of 11906 monsters, 
+btw: almost one in every six AV monsters is waiting for you here :)
+But don't worry, because the map isn't actually so hard as all that. 
+It's big, but very simple. And the main strategy in most situations
+is just to provoke monsterfights. When those run out, it's just
+a left-right-and-centre BFG blastathon. 
+
+My initial demo was over an hour long, after which Vincent said he thought
+under thirty minutes should be possible... so I had to get that. A couple
+of strategies help, in particular snatching the blue key early, and 
+provoking monsterfights in several sections of the map simultaneously.
+
+Just to illustrate how much infighting will help you: the total monster
+hitpoints on this map is 51360, and the included demo runs for 1662 
+seconds. That makes an average of 30.9 monster hit points per second, 
+every second. By contrast, the plasma rifle takes an average of 26.3 hit
+points per second. Assuming every cell hits something.
+
+And that's *before* you take into account the roughly 300 monsters
+resurrected by Archies... :) 
+
+
+AV-25 - Valley of Echoes
+------------------------
+Thanks to Ryback for his run here, I didn't change the route again.  
+This level.. phew, it really took me by surprise when I first played 
+through it.  It's not only the fact that some areas are absolutely 
+gigantic, but the way these parts are first introduced.  As an example, once 
+you press the yellow switch and go down, into those underground 
+passages.. you get dumped into a huge canyon with an army of mancubi, revenants, 
+and cyberdemons.  If that wasn't enough, you take a lower path there 
+into some more underground passages.. only to get dumped into ANOTHER 
+huge area, with an island guarded by 10 cyberdemons.  It's quite a unique 
+experience, wondering if there was any end to the madness. :)
+
+
+AV-26 - Dark Dome
+-----------------
+This was the first level I ever recorded a max run for, and it remains 
+to be my favorite map from Alien Vendetta.  It's a tough map to learn, 
+but the possibilities for routes here seem endless.  However, once you 
+know where the important rocket/cell caches are, as well as when to use 
+the 3 invulnerabilities, you can slowly eat away at the hordes of 
+monsters that roam the central part of this map.  It's easy to get nervous 
+late in this map, after accomplishing so much, but it's also what 
+appealed to me and developed my fondness for maps with tons of monsters for 
+max play.
+
+
+AV-27 - Stench of Evil
+----------------------
+A long and linear map, where conservation of ammo is important.  This 
+map was problematic, as I was told 100% secrets sometimes didn't happen 
+here when the map was played during beta testing.  We think the culprit 
+was very thin secret sectors, so I ran over each sector a few times 
+just to be on the safe side.  It looks silly, but hey, what else did you 
+expect from me. :)
+
+
+AV-28 - Whispering Shadows
+--------------------------
+Similar to map 27, this one is long and linear, and you have to take 
+good care of your ammunition.  The cyberdemon battles are the focus of 
+this map, since they are placed in some tricky locales.  The last one in 
+particular can really get the blood pumping, his lair is very dark and 
+very small.  Nice level name, too. :)
+
+
+AV-29 - Fire Walk With Me
+-------------------------
+What a beautiful map! I love it. The most dificult part is 
+the room with Skeletons. But Anders was so kind, that he put
+it at the start. The room with hanged Imps made me really 
+laugh (thx Anders).
+
+
+AV-30 - Dreadful
+----------------
+[none received]
+
+
+AV-31 - Killer Colours
+----------------------
+[none received]
+
+
+AV-32 - No Guts No Glory
+------------------------
+Special thanks to Vile for being the first to try out the route shown in 
+this demo. Had some attempts here to bring it below 4 mins. Takes a bit 
+of luck, and thus gets old really fast. One can have better goes which 
+just decide to turn out slower cus of shitty infights.
+
+
+*****
+
+That's it - enjoy the lmps!
+
+Drew "stx-Vile" Devore <DrwDevore@aol.com>
+Adam Hegyi <ha211@hszk.bme.hu>
+Jason Henry <space@neteze.com>
+Anders Johnsen <andersjohnsen@hotmail.com>
+Chris "Ryback" Ratcliff <jaranbue@yahoo.com.au>
+Esa "Espi" Repo <esa.repo@phnet.fi>
+Henning Skogsto <skohen@dph.no>
+Anthony Soto <neworderdatabase@hotmail.com>
+Adam Williamson <adam.williamson1@btinternet.com>
+
+[Text file based on fduvdemo.txt]
+

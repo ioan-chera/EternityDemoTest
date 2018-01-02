@@ -1,0 +1,27 @@
+This is an Alien Vendetta demo.
+
+AV03-348.TXT
+
+ AV03-348.ZIP
+
+  AV03-348.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 03 - "Cargo Depot"
+
+   Kills: 	100%
+   Items:	 86%
+   Secrets:  	100%
+
+   Time: 	3:48
+		----
+
+Description:  An easy map, just followed Anders' nomo demo. Spent 10 mins
+              on this.
+
+
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz

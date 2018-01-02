@@ -1,0 +1,26 @@
+This is an Alien Vendetta demo.
+
+AN04-315.TXT
+
+ AN04-315.ZIP
+
+  AN04-315.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 04 - "Seclution"
+
+   Kills: 	72%
+   Items:	92%
+   Secrets:  	75%
+
+   Time: 	3:15
+		----
+
+Description:	Hectic and suprisingly fun map for nm play =) Just to
+		tempt someone into making a good demo. Map03 is going to be
+	        a bitch to beat on NM btw, just tried it....ouch.	
+
+Author: Anders Johnsen
+E-mail:	andersjohnsen@hotmail.com

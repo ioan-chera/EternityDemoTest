@@ -1,0 +1,28 @@
+This is an Alien Vindication demo.
+
+AP24-417.TXT
+
+ AP24-417.ZIP
+
+  AP24-417.LMP - Ultra Violence pacifist
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vindication - Level 24
+
+  Time: 4:17
+
+Heh, this is a truly horrible run, lots of time lost...just a proof demo
+really. Got stuck in a weird way at the red pulsing corridor, completely
+fucked up the slide, and forgot where the red key building was at the end :).
+Still happy to have finished this run. Also included are two bonus demos -
+world_cybie_convention.lmp shows the Cyberdemons having their annual
+convention in the corridor where barons hide at first...*NOT* where you want
+to see three of them together :). av24trik.lmp shows a trick i discovered
+entirely accidentally while getting biffed around by cybie rockets in the
+corridors behind yellow door...dunno if this is useful to anyone.
+
+Adam Williamson
+adam.williamson1@btinternet.com
+

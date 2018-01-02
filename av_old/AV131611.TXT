@@ -1,0 +1,28 @@
+This is an Alien Vendetta demo.
+
+AV131611.TXT
+
+ AV131611.ZIP
+
+  AV131611.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 13 - "Suicidal Tendencies"
+
+   Kills: 	101%
+   Items:	???%
+   Secrets:  	100%
+
+   Time: 	16:11
+		-----
+
+Description:	The cyberdemon got out of its "cage" so I had to change my
+		route on the fly...turned out pretty well although I had
+		some ammo trouble near the end.  Maybe I'll try it faster
+		later.
+
+
+Author: Jason Henry
+E-mail:	space@neteze.com

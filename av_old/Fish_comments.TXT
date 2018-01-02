@@ -1,0 +1,82 @@
+AV Demopack comments:
+
+AV is a very good megawad. If I used the 3 point test of any great wad it
+would get 1 full point for playability and 1/2 points for detail and 
+design. Would have been the best wad of 2001 if it wasn't for the outstanding
+work of Richard Wiles Slayer wadset. AV's high points are it's playability
+and creativity in design. Some of the levels really show a stride towards
+creating detail and design never seen in DOOM. 
+
+AV suffers from a lack of discretion. If AV were a film it could use some
+serious editing. Many wads have too many areas 'tact' on. I can feel that
+whole "mine is bigger then yours" vibe. Someone should have took a broom
+and swept out the bad parts of certain levels. Otherwise, I don't think
+it would have hurt to see a new version of AV. I think it's just one of
+those inevitable aspects of making a megawad. Megawads as early as Momento
+Mori had to release bug fix versions. You just cannot anticipate everything.
+I think Anders stuck with the idea of not breaking compatibilty in favor 
+of fixing some nagging bugs. All he was really saving was some first, 
+second, and maybe third effort runs. 
+
+My contributions are just miscellaneous. I really only recorded what
+I felt like. The only demo I could not pull off that I was trying was
+a tyson of map03. It's a bit tricky, but I know I can do it. I just
+don't have the patience right now. Nice to see some diverse contributions
+to this pack from a variety of talented individuals. See ya at Compet-n!
+
+Individual demo comments:
+
+Level 11 Max - 17:37
+
+I must advise against watching this demo. That's right, I said don't watch 
+this demo. It's somewhere between not too good and downright bad. It's 
+just one of those demos that can only be appreciated by my mother or
+the level author himself. Well, my mom said she's not interested in 
+watching the demo right now so that is definately a bad sign. And 
+usually she'll sit down and watch our favorite lmp's together. She
+said something or another about 'not having enough time to watch 
+my exploration missions'. Yeah, well, you know.
+
+One of the architectural masterpieces from AV. This level plays for the 
+most part well also. I wish Martin would have stayed away from 
+too much cave activity at the end. By then my nerves are fried and
+not really happy about navigating 96 units wide caves. Some noticeable 
+alignment problems, but otherwise, a great monster of a map.
+
+Level 21 Max - 4:39
+This level kind of annoys me a bit. Anders says he did ammo balance and 
+that he purposely made it so that beserk would be needed in certain
+areas. I still think there is just not enough ammo to the point where I
+feel I might as well make a tyson demo if I were to attempt a max demo.
+The health is scarce too and made barely sufficient by an unmarked soul
+sphere secret. You can get aggravated pretty fast when you die in the
+final room because your trying to get a soul sphere secret (?) that is
+behind a door located in a pool of -20 blood (?). GRR. It also is visually
+a bit boring because Pablo's editor doesn't seem to be able to change
+heights in a level. 
+
+Level 15 Speed - 3:41 (secret exit)
+
+I'm NOT at all a speed player. I don't really have any interest in it.
+However, as months of time passed making this demopack there was a lot
+of blanks. I decided to make this demo to show a real speed player how
+easy this map could be done. I guess if your reading this no one stepped
+up to beat this time. BTW, I use the secret exit. I just got tired of 
+dieing 15 straight times in the final room trying to exit normally.
+
+Level 05 Tyson - 9:30
+
+My first tyson style demo for one of the best maps from AV. Simple, pure 
+design and a clean layout complement fine tuned gameplay. Chris and Anders
+quickly sealed off the max category and I thought why not try the tyson
+cat? I've always admired that cat from afar. The demo came out good
+even though this was my first exit. Thats because I finished 3 times before
+with 98% kills and a time near 11 minutes. Then I realized the monster I was
+missing was the chaingunner teleporting in at the exit. 
+
+
+Author Info:
+
+Anthony "Swedish Fish" Soto
+neworderdatabase@hotmail.com 
+http://thefish.8m.com/

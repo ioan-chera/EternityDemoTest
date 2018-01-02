@@ -1,0 +1,43 @@
+This is a collection of Alien Vendetta demos.
+
+http://www.doom2.net/~av/
+
+alternative download:
+http://www.3ddownloads.com/?file_id=159477
+
+
+This demoset includes all of the demo_team's misc demos.
+including:
+-- all the max runs that weren't quite records
+-- all the other categories that were recorded
+=====================================================
+
+The Players			Email				Demo #
+
+Adam Hegyi			ha211@hszk.bme.hu		3
+Adam Williamson			adam@scisoft.force9.co.uk	9 + 2
+Anders Johnsen			nfp7065@privat.cybercity.no	5
+Anthony 'Swedish Fish' Soto	neworderdatabase@hotmail.com	2
+Cameron Prosser			allgoodnamesrgon@hotmail.com	3
+Casey 'Altima Mantoid' Alvis	altima_mantoid@hotmail.com	1
+Chris 'Dashiva' Laverdure	mirraincoming@hotmail.com	2
+Chris 'Ryback' Ratcliff		jaranbue@yahoo.com.au		24
+Doug 'Opulent' Merrill		opulent@cox.net			10
+Drew 'stx-Vile' DeVore		drwdevore@aol.com		9
+Erik Alm			erik_a80@hotmail.com		4
+Esa 'Espi' Repo			espib@luukku.com		9 + 1
+Jason 'King God Space' Henry	space@neteze.com		2
+Jim 'Xit Vono' Leonard		xit_vono@yahoo.com		1
+Marijo 'Sedlo' Sedlic		msedlic@inet.hr			1
+Martin Aalen Hunsager		mhungsa@hotmail.com		1
+Radomir 'Radek' Pecka		r.master@email.cz		7
+Rich Sham			rj-bus@charter.net		2
+
+								======
+								95 + 3
+
+Thanks to Disturbed for use of the Doom Speedrunner's Forum board (mschultz@online.no).
+
+========================================================
+
+Html page is included  -- because I'm too lazy to list all the demos.  =P

@@ -1,0 +1,26 @@
+
+ Alien Vendetta - Level 26: Dark Dome - UV Max 26:27
+
+ Description: I did this run three times successfully, scrapping the first two demos for
+              different reasons:
+              
+              1. With a time a little over 30 minutes, this demo showed me running
+                 around not knowing exactly where to go.  After learning the level
+                 better, I produced a second run.
+
+              2. This run is only slightly slower than the included run, but after
+                 viewing the run in prboom with iddt I noticed that I missed some monsters
+                 that teleported late into the blue key room; hence, it was not a true max
+                 demo, which kinda sucked :).
+
+              3. The included run, which shows my ideal strategy for this map.
+                 I double-checked the main area and the blue key room to make sure
+                 I didn't miss anyone.
+
+              This map was pretty fun to play, and as said, it isn't as hard as it
+              first appears.  You just need to know where to rearm and how to gradually
+              eat away at the masses of monsters running around the central area.  Thanks
+              to Anders Johnsen for making this cool map. :)
+
+ Author: Drew DeVore "stx-Vile"
+ email: drwdevore@aol.com

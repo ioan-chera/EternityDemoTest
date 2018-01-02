@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      Alien Vendetta
+Pwad name: av.wad
+Maps:      12
+Skill:     4
+Category:  UV -fast
+Exe:       Doom2.exe
+
+Times:
+
+12:       10:56
+
+Author:    Chris "Ryback" Ratcliff
+Email:     jaranbue@yahoo.com.au
+
+Comments:  Couple of fast demos (the monsters are fast, not me :)
+           Can't say I remember when I recorded them, was after the AV
+           pack came out though. All quite routine.

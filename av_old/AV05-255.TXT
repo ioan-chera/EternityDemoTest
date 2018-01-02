@@ -1,0 +1,28 @@
+This is an Alien Vendetta demo.
+
+AV05-255.TXT
+
+ AV05-255.ZIP
+
+  AV05-255.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 05 - Crimson Tide
+
+  Kills:       100%
+  Items:        ??%
+  Secrets:     100%  and Time = 02:55
+
+
+  Description: Damn, I spend ages trying to get it below three minutes and
+               the resulting lmp looks worse than all my slower tries.
+               Missed shots left right and fucking centre. Oh well, I added
+               those to the zip, if you're bored enough. I'm sure Anders
+               will be able to get twenty seconds off this time without
+               raising a sweat...
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

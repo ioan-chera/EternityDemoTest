@@ -1,0 +1,27 @@
+This is an Alien Vendetta demo.
+
+AF245802.TXT
+
+ AF245802.ZIP
+
+  AF245802.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 24 - Demonic Hordes
+
+  Kills:       116%
+  Items:        ??%
+  Secrets:     100%  and Time = 58:02
+
+
+  Description: I think this is fairly well optimised, most of the
+               time while the monsters are infighting I'm off somewhere
+               else. As you can see with these strategies it's not
+               a hard map, although my early Cyber-BFG strafing was
+               a little risky...
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

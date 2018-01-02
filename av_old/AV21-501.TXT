@@ -1,0 +1,25 @@
+This is an Alien Vendetta demo.
+
+AV21-501.TXT
+
+ AV21-501.ZIP
+
+  AV21-501.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 21 - "One Flew Over the Cuckoo's Nest"
+
+  Kills:       100%
+  Items:        ??%
+  Secrets:     100%  and Time = 05:01
+
+
+  Description: This map gave me some frustration until I found
+               out about the two soulspheres. Pity the demo didn't
+               get below 5 minutes, oh well.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

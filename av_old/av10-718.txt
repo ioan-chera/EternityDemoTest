@@ -1,0 +1,28 @@
+This is an Alien Vendetta demo.
+
+AV10-718.TXT
+
+ AV10-718.ZIP
+
+  AV10-718.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 10 - "Toxic Touch"
+
+   Kills: 	100%
+   Items:	 54%
+   Secrets:  	100%
+
+   Time: 	7:18
+		----
+
+   Description: 
+              
+   Still slow, I think.    
+ 
+
+
+   Radek Pecka
+   r.master@email.cz

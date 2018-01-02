@@ -1,0 +1,31 @@
+This is an Alien Vendetta demo.
+
+AV01-123.TXT
+
+ AV01-123.ZIP
+
+  AV01-123.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 01 - "Sunset"
+
+   Kills: 	100%
+   Items:	 83%
+   Secrets:  	100%
+
+   Time: 	1:23
+		----
+
+Description:  My first AV demo ever. You may think that it's too late, but
+              I was short of time during the Chrismas and downloaded the 
+              wad just two days ago. 
+              
+              This demo took me about 20 mins I think. I don't know if
+              my route is the fastest one, but I hope so. The Caco's room
+              should be done better, I wasted a few more ammo there.
+         
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz

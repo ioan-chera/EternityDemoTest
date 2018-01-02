@@ -1,0 +1,25 @@
+This is an Alien Vendetta demo.
+
+AV02-051.TXT
+
+AV02-051.ZIP
+
+  AV02-051.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 02 - "Rusty Rage"
+
+   Kills: 	?%
+   Items:	 ?%
+   Secrets:  	?%
+
+   Time: 	0:51
+		----
+
+Description:   First exit. This is my favorite map in the first episode.
+
+
+Author:    Erik Alm
+E-Mail:	   erik_a80@hotmail.com

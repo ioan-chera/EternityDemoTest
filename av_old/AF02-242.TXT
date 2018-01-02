@@ -1,0 +1,27 @@
+This is an Alien Vendetta demo.
+
+AF02-242.TXT
+
+AF02-242.ZIP
+
+  AF02-242.LMP - Ultra Violence -Fast
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 02 - "Rusty Rage"
+
+   Kills: 	100%
+   Items:	 ?%
+   Secrets:  	100%
+
+   Time: 	2:42
+		----
+
+Description:    This is the most fun way to play this map imo. 
+		I play safe at the mancubus.
+		The time could be a lot better of course... 
+
+
+Author:    Erik Alm
+E-Mail:	   erik_a80@hotmail.com

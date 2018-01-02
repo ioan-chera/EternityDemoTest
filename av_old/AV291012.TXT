@@ -1,0 +1,35 @@
+This is an Alien Vendetta demo.
+
+AV291012.TXT
+
+ AV291012.ZIP
+
+  AV291012.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 01 - "Fire Walk With Me"
+
+   Kills: 	101%
+   Items:	 33%
+   Secrets:  	100%
+
+   Time: 	10:12
+		-----
+
+Description: What a beautiful map! I love it. The most dificult part is 
+             the room with Skeletons. But Anders was so kind, that he put
+             it at the start. The room with hanged Imps made me really 
+             laugh (thx Anders). This is my first demo I reached the exit. 
+             I didn't play so risky as I normally do. Also I got a bit 
+             nervous at the second part of the demo. You may ask why I am 
+             uploading this ? I simply couldn't let you waiting. :) 
+             But don't worry, I will definitely redo it soon. 
+             
+             note: pls, ignore the date of the lmp. It's obviously
+                   a nonsense.
+
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz

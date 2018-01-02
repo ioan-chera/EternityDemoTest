@@ -1,0 +1,7 @@
+Wad: Alien Vendetta
+
+Av01-034.lmp  -- uv speed
+Av09-123.lmp  -- uv speed
+
+Author: Dashiva
+

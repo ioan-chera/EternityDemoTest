@@ -1,0 +1,27 @@
+This is an Alien Vendetta demo.
+
+AV17-429.TXT
+
+ AV17-429.ZIP
+
+  AV17-429.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 17 - Nukefall
+
+  Kills:       100%
+  Items:       100%
+  Secrets:     100%  and Time = 04:29
+
+
+  Description: I knew I could get it faster by picking up the
+               rocket launcher up the start, and I wanted a time
+               below 4:30. The middle sequence is a little slow, with
+               some less than optimal events, but I think a 3:xx is just
+               out of reach...
+
+               
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

@@ -1,0 +1,9 @@
+
+ Alien Vendetta - Level 32: No Guts No Glory - UV Speed 0:47
+
+ Description: Those archviles are assholes; they ruin most attempts. :)
+              Theoretically they could be used to make the run even faster,
+              but it's unrealiable and hard to control.
+
+ Author: Drew DeVore "stx-Vile"
+ email: drwdevore@aol.com

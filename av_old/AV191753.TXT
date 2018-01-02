@@ -1,0 +1,26 @@
+This is an Alien Vendetta demo.
+
+AV191753.TXT
+
+ AV191753.ZIP
+
+  AV191753.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 19 - Alien Resurrection
+
+  Kills:       100%
+  Items:        ??%
+  Secrets:     100%  and Time = 17:53
+
+
+  Description: The first half went well, the second half is very slow...
+               but there are some dangerous situations to take care of.
+               A wandering ghost Mancubus is left at the end, I couldn't
+               see any way to kill him...
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

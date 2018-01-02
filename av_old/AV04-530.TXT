@@ -1,0 +1,28 @@
+This is an Alien Vendetta demo.
+
+AV04-530.TXT
+
+ AV04-530.ZIP
+
+  AV04-530.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 04 - "Seclution"
+
+   Kills: 	100%
+   Items:	100%
+   Secrets:  	100%
+
+   Time: 	5:30
+		----
+
+Description:  Not as easy as it looks. When I played this for the first time,
+              the first Archie surprised me a lot. But I think the demo
+              is ok. 
+
+
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz

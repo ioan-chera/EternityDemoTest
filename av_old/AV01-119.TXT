@@ -1,0 +1,27 @@
+This is an Alien Vendetta demo.
+
+AV01-119.TXT
+
+ AV01-119.ZIP
+
+  AV01-119.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 01 - "Sunset"
+
+   Kills: 	100%
+   Items:	 83%
+   Secrets:  	100%
+
+   Time: 	1:19
+		----
+
+Description:  Not bad, the Caco's room went ok. Pity I got stuck on the
+              way to the exit.
+         
+
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz

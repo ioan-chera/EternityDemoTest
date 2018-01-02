@@ -1,0 +1,33 @@
+This is an Alien Vendetta demo.
+
+AV111429.TXT
+
+ AV111429.ZIP
+
+  AV111429.LMP - Ultra Violence with 100% kills & secrets
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 11 - "Nemesis"
+
+   Kills: 	100%
+   Items:	 54%
+   Secrets:  	100%
+
+   Time: 	14:29
+		-----
+
+   Description:	
+
+   I must admit it took me while to learn the route,
+   in my first tries I was pretty lost in the caves,
+   but after studying the map found out it's not
+   so complicated. Overall, I like this map and it's
+   cool to play it. The route credits go to Martin
+   Aalen Hunsager (btw. author of this map).
+
+
+   Radek Pecka
+   r.master@email.cz
+

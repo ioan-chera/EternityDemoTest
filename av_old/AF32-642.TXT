@@ -1,0 +1,30 @@
+This is an Alien Vendetta demo.
+
+AF32-642.TXT
+
+ AF32-642.ZIP
+
+  AF32-642.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 32 - "No Guts No Glory"
+
+   Kills: 	100%
+   Items:	 84%
+   Secrets:  	100%
+
+   Time: 	6:42
+		----
+
+Description:	Highly experimental run, improvisation suprises and 
+	        alot of messing around after cell/health...just kept   
+	        first one, died some 90% of the time after opening
+	        the first door :P 15 mins session so don't expect 
+	        anything half decent.
+	        	        
+	        	        		
+
+Author: Anders Johnsen
+E-mail:	andersjohnsen@hotmail.com

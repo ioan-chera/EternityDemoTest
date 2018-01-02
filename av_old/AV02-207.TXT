@@ -1,0 +1,30 @@
+This is an Alien Vendetta demo.
+
+AV02-207.TXT
+
+ AV02-207.ZIP
+
+  AV02-207.LMP - Ultra Violence with 100% kills
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Alien Vendetta - Level 02 - "Rusty Rage"
+
+   Kills: 	100%
+   Items:	 22%
+   Secrets:  	100%
+
+   Time: 	2:07
+		----
+
+Description:  I like this map, especially the Udoom part. I'm satisfied
+              with the time. My previous demo was 2:25 and I thought it 
+              was good, heh. This time I was fast with the Archie. Don't 
+              know if it's needed to pick up the invisibility. If not, 
+              another 10 secs could be cut off.
+
+
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz
