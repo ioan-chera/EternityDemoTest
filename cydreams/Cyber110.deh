@@ -1,0 +1,790 @@
+Patch File for DeHackEd v3.0
+
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 19
+Patch format = 6
+
+
+Thing 2 (Trooper)
+Attack sound = 0
+Pain sound = 0
+Action sound = 0
+
+Thing 3 (Sargeant)
+Pain sound = 0
+Action sound = 0
+
+Thing 6 (Revenant)
+Initial frame = 674
+First moving frame = 676
+Alert sound = 44
+Injury frame = 690
+Pain sound = 26
+Close attack frame = 0
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+Action sound = 77
+Respawn frame = 0
+
+Thing 12 (Imp)
+Pain sound = 0
+Action sound = 0
+
+Thing 13 (Demon)
+Initial frame = 674
+First moving frame = 676
+Alert sound = 44
+Attack sound = 0
+Injury frame = 690
+Close attack frame = 0
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+Respawn frame = 0
+
+Thing 15 (Cacodemon)
+Initial frame = 674
+First moving frame = 676
+Alert sound = 44
+Injury frame = 690
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+Respawn frame = 0
+
+Thing 16 (Baron of Hell)
+Initial frame = 674
+First moving frame = 676
+Alert sound = 44
+Injury frame = 690
+Close attack frame = 0
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+Respawn frame = 0
+
+Thing 18 (Hell Knight)
+Initial frame = 674
+First moving frame = 676
+Alert sound = 44
+Injury frame = 690
+Close attack frame = 0
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+Respawn frame = 0
+
+Thing 19 (Lost Soul)
+Initial frame = 674
+First moving frame = 676
+Alert sound = 44
+Attack sound = 0
+Injury frame = 690
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+
+Thing 20 (Spiderdemon)
+Initial frame = 674
+First moving frame = 676
+Alert sound = 44
+Attack sound = 0
+Injury frame = 690
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+
+Thing 23 (Pain Elemental)
+Initial frame = 674
+First moving frame = 676
+Alert sound = 44
+Injury frame = 690
+Pain sound = 26
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+Respawn frame = 0
+
+Frame 174
+Sprite number = 28
+
+Frame 175
+Sprite number = 28
+
+Frame 176
+Sprite number = 28
+
+Frame 177
+Sprite number = 28
+Sprite subnumber = 1
+
+Frame 178
+Sprite number = 28
+Sprite subnumber = 2
+
+Frame 179
+Sprite number = 28
+Sprite subnumber = 3
+Next frame = 176
+
+Frame 184
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 3
+Next frame = 184
+
+Frame 187
+Sprite number = 28
+Sprite subnumber = 0
+Next frame = 187
+
+Frame 189
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 20
+
+Frame 190
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 20
+
+Frame 191
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 20
+
+Frame 192
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 20
+
+Frame 193
+Sprite number = 28
+Sprite subnumber = 0
+
+Frame 207
+Sprite number = 28
+Next frame = 207
+
+Frame 209
+Sprite number = 28
+Duration = 6
+
+Frame 210
+Sprite number = 28
+Sprite subnumber = 1
+Duration = 6
+
+Frame 211
+Sprite number = 28
+Sprite subnumber = 2
+Duration = 6
+
+Frame 212
+Sprite number = 28
+Sprite subnumber = 3
+Duration = 6
+Next frame = 209
+
+Frame 213
+Sprite number = 26
+Sprite subnumber = 4
+Duration = 8
+
+Frame 214
+Sprite number = 26
+Sprite subnumber = 5
+Duration = 8
+
+Frame 215
+Sprite number = 26
+Sprite subnumber = 6
+Duration = 8
+
+Frame 216
+Sprite number = 26
+Sprite subnumber = 7
+Duration = -1
+Next frame = 220
+
+Frame 217
+Sprite number = 28
+
+Frame 218
+Sprite number = 28
+Duration = 5
+
+Frame 219
+Sprite number = 28
+
+Frame 220
+Sprite number = 26
+Sprite subnumber = 8
+Duration = 8
+
+Frame 221
+Sprite number = 26
+Sprite subnumber = 9
+Duration = 8
+Next frame = 0
+
+Frame 222
+Sprite number = 26
+Sprite subnumber = 0
+Duration = 8
+
+Frame 223
+Sprite number = 26
+Sprite subnumber = 1
+Duration = 8
+
+Frame 224
+Sprite number = 26
+Sprite subnumber = 2
+Duration = 8
+
+Frame 225
+Sprite number = 26
+Sprite subnumber = 3
+Duration = 8
+Next frame = 213
+
+Frame 226
+Sprite subnumber = 0
+
+Frame 406
+Sprite number = 28
+Next frame = 406
+
+Frame 408
+Sprite number = 28
+Duration = 2
+
+Frame 409
+Sprite number = 28
+Sprite subnumber = 1
+Duration = 2
+
+Frame 410
+Sprite number = 28
+Sprite subnumber = 2
+Duration = 2
+
+Frame 411
+Sprite number = 28
+Sprite subnumber = 3
+Duration = 2
+Next frame = 408
+
+Frame 416
+Sprite number = 28
+Sprite subnumber = 6
+Duration = 20
+Next frame = 408
+
+Frame 422
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 15
+
+Frame 423
+Sprite number = 28
+Sprite subnumber = 6
+Duration = 15
+
+Frame 424
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 15
+
+Frame 425
+Sprite number = 28
+Sprite subnumber = 6
+Duration = 15
+
+Frame 426
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 15
+
+Frame 427
+Sprite number = 28
+Sprite subnumber = 6
+Duration = 15
+
+Frame 428
+Sprite number = 28
+Sprite subnumber = 0
+
+Frame 442
+Sprite number = 28
+Next frame = 442
+
+Frame 444
+Sprite number = 28
+Duration = 6
+
+Frame 445
+Sprite number = 28
+Sprite subnumber = 1
+Duration = 6
+
+Frame 446
+Sprite number = 28
+Sprite subnumber = 2
+Duration = 6
+
+Frame 447
+Sprite number = 28
+Sprite subnumber = 3
+Duration = 6
+Next frame = 444
+
+Frame 448
+Sprite number = 28
+Sprite subnumber = 1
+
+Frame 449
+Sprite number = 28
+
+Frame 450
+Sprite number = 28
+Next frame = 452
+
+Frame 452
+Sprite number = 28
+Sprite subnumber = 0
+Duration = 3
+Next frame = 448
+
+Frame 455
+Duration = 3
+
+Frame 456
+Duration = 3
+
+Frame 457
+Sprite number = 28
+Sprite subnumber = 4
+Duration = 20
+
+Frame 458
+Sprite number = 28
+Sprite subnumber = 4
+Duration = 20
+
+Frame 459
+Sprite number = 28
+Sprite subnumber = 4
+Duration = 20
+
+Frame 460
+Sprite number = 28
+Sprite subnumber = 5
+Duration = 20
+
+Frame 461
+Sprite number = 28
+Sprite subnumber = 4
+
+Ammo 0 (Bullets)
+Max ammo = 49
+
+Ammo 1 (Shells)
+Max ammo = 0
+
+Ammo 2 (Cells)
+Max ammo = 0
+
+Ammo 3 (Rockets)
+Max ammo = 0
+
+Cheat 0
+Change music = twipÿ
+Chainsaw = spindizzy
+God mode = manic
+Ammo & Keys = miner
+Ammo = fred
+No Clipping 1 = idspispopr
+No Clipping 2 = jetset
+Invincibility = sirfrednÿ
+Berserk = sirfredhÿ
+Invisibility = sirfrediÿ
+Radiation Suit = sirfredrÿ
+Auto-map = sirfredaÿ
+Lite-Amp Goggles = sirfredlÿ
+BEHOLD menu = sirfredÿ
+Level Warp = jetpac
+Player Position = knightÿ
+Map cheat = lore
+
+Misc 0
+Initial Bullets = 0
+
+Text 405 407
+YOU HAVE ENTERED DEEPLY INTO THE INFESTED
+STARPORT. BUT SOMETHING IS WRONG. THE
+MONSTERS HAVE BROUGHT THEIR OWN REALITY
+WITH THEM, AND THE STARPORT'S TECHNOLOGY
+IS BEING SUBVERTED BY THEIR PRESENCE.
+
+AHEAD, YOU SEE AN OUTPOST OF HELL, A
+FORTIFIED ZONE. IF YOU CAN GET PAST IT,
+YOU CAN PENETRATE INTO THE HAUNTED HEART
+OF THE STARBASE AND FIND THE CONTROLLING
+SWITCH WHICH HOLDS EARTH'S POPULATION
+HOSTAGE.PLEASE READ:
+
+GOOD JOB, CYBERKILLER! HERE FINISHES THE
+FIRST PART OF CYBERDREAMS, WHICH IS SUPPOSED
+TO BE JUST A BASIC INTRODUCTION OF WHAT'S
+ALL ABOUT. IN OUR OPINION, EVEN A SINGLE-
+LEGGED SPACE MARINE SHOULD BE ABLE TO GET
+HERE...
+
+WELL, WE REALLY HOPE YOU'LL KEEP ENJOYING
+THE NEXT GROUP OF CHALLENGES.
+
+BY THE WAY, WE'VE MET THE NEXT CYBER BEFORE
+AND WE CAN ASSURE YOU'LL APPRECIATE HIS
+UNUSUAL HELP...
+
+Text 617 616
+YOU HAVE WON! YOUR VICTORY HAS ENABLED
+HUMANKIND TO EVACUATE EARTH AND ESCAPE
+THE NIGHTMARE.  NOW YOU ARE THE ONLY
+HUMAN LEFT ON THE FACE OF THE PLANET.
+CANNIBAL MUTATIONS, CARNIVOROUS ALIENS,
+AND EVIL SPIRITS ARE YOUR ONLY NEIGHBORS.
+YOU SIT BACK AND WAIT FOR DEATH, CONTENT
+THAT YOU HAVE SAVED YOUR SPECIES.
+
+BUT THEN, EARTH CONTROL BEAMS DOWN A
+MESSAGE FROM SPACE: "SENSORS HAVE LOCATED
+THE SOURCE OF THE ALIEN INVASION. IF YOU
+GO THERE, YOU MAY BE ABLE TO BLOCK THEIR
+ENTRY.  THE ALIEN BASE IS IN THE HEART OF
+YOUR OWN HOME CITY, NOT FAR FROM THE
+STARPORT." SLOWLY AND PAINFULLY YOU GET
+UP AND RETURN TO THE FRAY.PLEASE READ:
+WE KNOW, WE KNOW, IT GETS HARDER EVERY TIME.
+BUT, HEY, YOU'RE BECOMING AN EXPERT! ALL THE
+CYBERS YOU KILLED DIDN'T EXPECT A GROWN-UP
+PLAYER LIKE YOU.
+ANYWAY, IF YOU EVER THOUGHT YOU KNEW EVERY-
+THING ABOUT CYBERDREAMS... WE GIVE YOU A
+CHANCE TO PROVE IT TO YOURSELF IN THE NEXT
+LEVELS. A CYBER NEVER APPEARED TO BE ALMOST
+IMPOSSIBLE TO KILL... TILL NOW. FROM NOW ON
+CYBERS WILL BE NOTHING BUT AN OBSESSION
+YOU'LL HAVE TO FEED, AND AT THIS MOMENT YOU
+ALREADY KNOW THE WAY TO DO SO. GOOD LUCK,
+AND REMEMBER -IN CASE YOU DON'T KNOW IT YET-
+THAT YOU'RE PLAYING A 32 LEVEL ADVENTURE.
+THE LORDS WELCOME YOU...
+
+Text 312 315
+YOU ARE AT THE CORRUPT HEART OF THE CITY,
+SURROUNDED BY THE CORPSES OF YOUR ENEMIES.
+YOU SEE NO WAY TO DESTROY THE CREATURES'
+ENTRYWAY ON THIS SIDE, SO YOU CLENCH YOUR
+TEETH AND PLUNGE THROUGH IT.
+
+THERE MUST BE A WAY TO CLOSE IT ON THE
+OTHER SIDE. WHAT DO YOU CARE IF YOU'VE
+GOT TO GO THROUGH HELL TO GET TO IT?PLEASE READ:
+
+JUST TEN LEVELS LEFT. WE WISH TO TELL
+YOU A COUPLE OF THINGS ABOUT THEM:
+  - YOU'RE ABOUT TO TRY EIGHT OF THE
+    MOST EXHAUSTING AND CRUEL LEVELS.
+  - LEVELS 29 & 30 ARE NOTHING BUT A
+    SUPREME WAY TO FINISH THIS
+    ADVENTURE. BELIEVE IT.
+
+HAVE A NICE DEATH...ER...DAY.
+                           
+
+Text 494 494
+THE HORRENDOUS VISAGE OF THE BIGGEST
+DEMON YOU'VE EVER SEEN CRUMBLES BEFORE
+YOU, AFTER YOU PUMP YOUR ROCKETS INTO
+HIS EXPOSED BRAIN. THE MONSTER SHRIVELS
+UP AND DIES, ITS THRASHING LIMBS
+DEVASTATING UNTOLD MILES OF HELL'S
+SURFACE.
+
+YOU'VE DONE IT. THE INVASION IS OVER.
+EARTH IS SAVED. HELL IS A WRECK. YOU
+WONDER WHERE BAD FOLKS WILL GO WHEN THEY
+DIE, NOW. WIPING THE SWEAT FROM YOUR
+FOREHEAD YOU BEGIN THE LONG TREK BACK
+HOME. REBUILDING EARTH OUGHT TO BE A
+LOT MORE FUN THAN RUINING IT WAS.
+THE FINAL RESURRECTION IN THE MOST
+ONEIRIC EXTENSION IN CYBER'S DOMAIN
+HAS BEEN THE LAST EPISODE OF THIS
+EVIL STORY. YOU HAD MANY CHANCES TO
+GIVE UP DEFINITELY, BUT YOU DIDN'T!
+THAT'S THE PHILOSOPHY OF CYBERDREAMS'
+PLAYING (YOU) AND DESIGNING (US) AS
+WELL; THERE IS ALWAYS A NEW CHALLENGE
+TO TRY, AND SURELY THERE IS A WAY TO
+WORK IT OUT.
+FROM THE AUTHORS: CONGRATULATIONS.
+YOU ARE NOW A NEW CYBERDREAMER IN
+THE WORLD. BUT LOOK OUT, SOMEDAY ONE
+OF THESE DREAMS CAN TURN INTO A
+CYBERNIGHTMARE...
+
+Text 164 167
+CONGRATULATIONS, YOU'VE FOUND THE SECRET
+LEVEL! LOOKS LIKE IT'S BEEN BUILT BY
+HUMANS, RATHER THAN DEMONS. YOU WONDER
+WHO THE INMATES OF THIS CORNER OF HELL
+WILL BE.
+
+
+
+
+      YES! DEFINITELY YOU'RE INTERESTED IN
+      TAKING A LOOK AT THE SECRET LEVELS
+
+
+
+
+                    ... BUT MAYBE
+             YOU'RE NOT THE FIRST ONE...
+
+Text 92 92
+CONGRATULATIONS, YOU'VE FOUND THE
+SUPER SECRET LEVEL!  YOU'D BETTER
+BLAZE THROUGH THIS ONE!
+
+
+
+
+
+
+       AND NOW, THE SUPER-SECRET LEVEL.
+
+
+
+
+         NO LSD! JUST A CYBER'S DREAM...  
+
+Text 7 7
+SLIME16SFLR6_1
+
+Text 7 7
+RROCK14SFLR6_4
+
+Text 7 7
+RROCK07SFLR7_1
+
+Text 7 7
+RROCK17FLAT5_6
+
+Text 7 7
+RROCK13RROCK19
+
+Text 7 7
+RROCK19SFLR7_4
+
+Text 9 8
+ZOMBIEMAN  1982  
+
+Text 11 8
+SHOTGUN GUYSINCLAIR
+
+Text 17 16
+HEAVY WEAPON DUDE   SPECTRUM     
+
+Text 3 3
+IMP48K
+
+Text 5 7
+DEMONPHEENIX
+
+Text 9 8
+LOST SOULSIR FRED
+
+Text 9 9
+CACODEMONMATCH DAY
+
+Text 11 8
+HELL KNIGHT JET PAC
+
+Text 13 12
+BARON OF HELLKNIGHT LORE 
+
+Text 11 11
+ARACHNOTRONMANIC MINER
+
+Text 14 13
+PAIN ELEMENTALJET SET WILLY
+
+Text 8 9
+REVENANTSPINDIZZY
+
+Text 8 8
+MANCUBUSGAUNTLET
+
+Text 9 8
+ARCH-VILEARKANOID
+
+Text 21 20
+THE SPIDER MASTERMINDREMEMBER THOSE DAYS?
+
+Text 14 12
+THE CYBERDEMONWE REALLY DO
+
+Text 8 11
+OUR HEROZX FOREVER!
+
+Text 11 9
+-nomonsters-nocybers
+
+Text 80 80
+                         DOOM 2: Hell on Earth v%i.%i                                                      Doom2: CYBERDREAMS v1.1                              
+
+Text 6 6
+-turbo-sweat
+
+Text 5 5
+-file-game
+
+Text 9 10
+-playdemo-playdream
+
+Text 9 10
+-timedemo-timedream
+
+Text 6 6
+%s.lmp%s.cyb
+
+Text 21 20
+Playing demo %s.lmp.
+Dreaming in %s.cyb.
+
+
+Text 5 6
+-warp-dream
+
+Text 35 33
+R_Init: Init DOOM refresh daemon - R_Init: Calling all Cyberdemons -
+
+Text 4 4
+.lmp.cyb
+
+Text 71 70
+are you sure? this skill level
+isn't even remotely fair.
+
+press y or n.SORRY, CYBERDREAMS WON'T
+WORK IN NIGHTMARE MODE.
+
+PLEASE PRESS ESCAPE.
+
+Text 11 11
+	adding %s
+  It's %s!
+
+
+Text 17 18
+level 1: entryway1. WARM UP: 1 ON 1
+
+Text 19 17
+level 2: underhalls2. THE S-2 FACTOR
+
+Text 20 21
+level 3: the gantlet3. THE BRIDGE BETWEEN
+
+Text 18 16
+level 4: the focus4. COME ON IN   
+
+Text 26 24
+level 5: the waste tunnels5. CYBERS AND HOLES     
+
+Text 20 20
+level 6: the crusher6. JOHN'S LAMENT    
+
+Text 20 21
+level 7: dead simple7. UNUSUAL FRIENDSHIP
+
+Text 25 24
+level 8: tricks and traps8. HAPPY END?           
+
+Text 16 16
+level 9: the pit9. DOUBLE DUPLEX
+
+Text 24 24
+level 10: refueling base10. ESCAPE FROM THE...  
+
+Text 29 28
+level 11: 'o' of destruction!11. SEQUENTIAL MOVEMENTS    
+
+Text 21 21
+level 12: the factory12. LORDS OF THE RING
+
+Text 18 18
+level 13: downtown13. AFTER THE RING
+
+Text 25 26
+level 14: the inmost dens14. BASICALLY SUFFERING...
+
+Text 25 24
+level 15: industrial zone15. FOUR LEAF CLOVER    
+
+Text 17 16
+level 16: suburbs16. URBANITY    
+
+Text 19 16
+level 17: tenements17. TIC-TAC-TOE 
+
+Text 23 22
+level 18: the courtyard18. THE BLOCKED WAY...
+
+Text 21 20
+level 19: the citadel19. ARCH-ITECTURE   
+
+Text 17 18
+level 20: gotcha!20. ANTI-CLOCKWISE
+
+Text 17 18
+level 21: nirvana21. BLEEDING WOODS
+
+Text 23 20
+level 22: the catacombs22. HOT DOG         
+
+Text 24 25
+level 23: barrels o' fun23. DESCENT AND CLIMBINGS
+
+Text 19 18
+level 24: the chasm24. SORRY, 66% MAX
+
+Text 20 20
+level 25: bloodfalls25. PURE BLOOD      
+
+Text 29 28
+level 26: the abandoned mines26. THE TOUGH TWINS         
+
+Text 23 20
+level 27: monster condo27. U SEE ME U DON'T
+
+Text 26 27
+level 28: the spirit world28. THE FLOATIN' CONSPIRACY
+
+Text 24 26
+level 29: the living end29. THE WAY TO GOD'S MANNA
+
+Text 21 20
+level 30: icon of sin30. RESURRECTION    
+
+Text 21 22
+level 31: wolfenstein31. WITH A LITTLE HELP
+
+Text 16 18
+level 32: grosse32. FROM MY FRIEND

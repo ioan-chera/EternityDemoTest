@@ -1,0 +1,23 @@
+ cy01-016.lmp
+  cy01-016.txt - UV Max
+
+  Recorded using Doom2 Version 1.9
+
+  Cyberdreams - MAP01 - Warm Up: One On One  
+
+  Kills      100%
+  Items        0%
+  Secrets    100%  and Time   0:16
+                             ------
+  Description :)
+
+  Just a normal trick, the exit sign prevents you jumping
+  over exit earlier. This is the optimal time for Max and
+  Speed but if someone manages to get a rocket to kill him
+  and push your corpse in the right direction to slide
+  under the exit sign and over the wall that's still lowering
+  That could save 1 second for Speed :P
+  
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

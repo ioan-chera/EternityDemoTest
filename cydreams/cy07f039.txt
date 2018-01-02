@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      cyber110.wad + cyber110.deh
+Pwad name: Cyberdreams
+Map:       07
+Skill:     4
+Category:  UV-Fast
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      0:39
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  0:39.00 damn it!
+           -fast cyber likes a lot to shoot to already dead monsters.

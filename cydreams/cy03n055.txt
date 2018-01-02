@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      cyber110.wad + cyber110.deh
+Pwad name: Cyberdreams
+Map:       03
+Skill:     5
+Category:  NM-Speed
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      0:55
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  

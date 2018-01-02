@@ -1,0 +1,32 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      cyber110.wad
+Pwad name: Cyberdreams
+Maps:      13
+Skill:     4,5
+Category:  
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+
+Time:      0:48 UV-Max (Category Other, see below)
+           0:52 UV-Fast
+           0:03 NM-Speed
+           0:02 Nomonsters
+           0:06 Stroller
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  Recorded without using cyber110.deh, but except UV-Max i didn't
+           use pistol and .lmps behave 100% the same with dehacked file.
+           In max run I helped crusher with the pistol, ~15 bullets are enough
+           to kill the cybers from both sides under 0:49!
+           The middle one must receive more damage as he stands
+           slightly lower and crusher reach him later.
+           Remained bullets from outside then fist damage from exit passage is barely enough.
+           0:48.37 - first cyber died
+           0:48.49 - second cyber died
+           0:48.71 - the last cyber died
+           0:48.89 - Doomguy reached the exit teleport! Yeah!
+           The trick is impossible on -Fast, cybers are able to shoot even under crusher...
+           NM-Speed is not hard, you just need to pass between 3-shots.

@@ -1,0 +1,349 @@
+ ==========================================================================
+ ==========================================================================
+
+ Cyberdreams text file - 17/03/1998
+ __________________________________
+
+ PRSAGE proudly presents
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿                 
+  ³   °°°°°°°°°±±±²²Û  -  C Y B E R D R E A M S  -  Û²²±±±±°°°°°°°°°   ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ =========================================================================
+
+ Contents:
+
+ 1. Introduction
+ 2. Wadauthor
+ 3. The behaviour of Cyberdreams
+ 4. Recording demos
+ 5. Levels list
+ 6. Permissions
+
+ ========================================================================
+ ========================================================================
+
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³ 1. INTRODUCTION ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ First of all, let's make a revision of the files you MUST have in your
+ Doom ][ directory after unzipping the compressed file. Here they are:
+
+                    CYBER.BAT    - Batch file to install and play Cyberdreams.
+                    DEHACKED.EXE - The Greg Lewis program to modify the
+				   original .EXE file.
+                    CYBER110.DEH - Dehacked modifications for Cyberdreams.
+                    CYBER110.WAD - Main WAD of Cyberdreams.
+                    CYDREAMS.TXT - You're reading it right now.
+                    FILE_ID.DIZ  - .DIZ description of Cyberdreams.
+
+
+ So, as you probably guessed, the way to run Cyberdreams can't be easier.
+ Just type 'cyber' at your Doom ][ prompt.
+
+ Well, and now the key question: WHAT IS CYBERDREAMS?
+ In our opinion, we consider that Cyberdreams can be described, first, as a
+ pile of Doom levels in which the point is killing Cyberdemons in several
+ ways and situations. But if you have been playing Doom for a long time and
+ have tried the different playing modes (solo, deathmatch and ctf - who the
+ hell plays cooperative?), after finishing Cyberdreams maybe you'll have the
+ sensation that this is a different way of playing Doom in which you probably
+ never thought before.
+
+ Killing a Cyber never was so difficult in the original game: you had a lot
+ of weapons and ammunitions to fulminate them in a second. The difference in
+ Cyberdreams is that your only "weapons" will be your movements, your
+ strategy and a bit of your imagination. The only real weapon that you'll
+ be able to use (and just in a few maps) will be the pistol. And not for
+ killing a Cyber, but for doing other things (anyway, killing a Cyber with
+ the pistol seems completely ridiculous and boring...).
+
+ You'll find while playing Cyberdreams that in some levels you can exit
+ without killing all the Cybers. We really tried to avoid it, but in some
+ cases it seems impossible, because of the design of the level. At least
+ for us it's clearly obvious that the REAL point of each map is kill them
+ all before exiting. Think about it.
+
+ We think the best way to realize what Cyberdreams is is to start trying it.
+ And if you get interested in the first levels, you'll probably enjoy the
+ rest of them, which become more attractive and complex. The ambientation
+ of the maps is in most of the cases simple and accurate as well. We have
+ been designing Doom levels for more than a year and a half and we almost
+ have imagined everything that can be done using Doom editors. We got tired
+ a long time ago of seeing the same kind of maps with the same kind of
+ structures. In general, people have forgotten that risk can be one of the
+ best tools while designing. In Cyberdreams levels there is a bit of that
+ risk, and a bit of our experience. All we can say is that we tried to make
+ the detailing and the texture alignments in an almost perfect way. For the
+ rest of the things, the veredict belongs to you. We'll surely respect your
+ opinion, but first... please take a look at the whole adventure.
+
+ One last thing: the Dehacked modifications refer only to text sequences,
+ weapons, ammunitions and cheat codes. The behaviour of
+ Cyberdemons and the rest of the things KEEPS BEING THE SAME as in the
+ original Doom. Maybe YOUR behaviour won't be the same after playing this
+ adventure, but...
+
+ So that's the story. As simple as it seems. We're dying to see what's your
+ opinion about Cyberdreams. Just remember that there is more information
+ in this text file that can be interesting for you while (or even after)
+ playing it. Thank you and good luck.
+
+                                                    Pr‚sage - 1998
+
+ =========================================================================
+ =========================================================================
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³ 2. WADAUTHOR ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+ Name                   : Cyberdreams v1.1                                                        
+ Filename               : CYBER110.WAD
+ Authors                : Gonzalo P‚rez de la Ossa (Barcelona)
+                          Albert Valls (Barcelona)
+
+ Email Address          : limsa@grn.es
+                          This email belongs to a private laboratory. If you
+                          send any kind of information please make reference
+                          to the word "Pr‚sage" clearly in some way.
+
+ Misc. Authors Info     : Musicians... and deathmatch addicts. 
+ Description            : See 'Information'.
+
+ Other levels by authors: 11GON.WAD                 ¿
+                          HOTRATS.WAD               ³ 
+                          SH.WAD (Dm)               ³ G.P.
+                          AFORA.WAD, BFORA.WAD,     ³
+                          CFORA.WAD.                ³
+                          MRSDOOM.WAD (Dm)          Ù
+
+                          STARLESS.WAD              ¿
+                          UZER0.WAD                 ³
+                          HEATWAVE.WAD (5)          ³ A.V.
+                          QPGDM.WAD (3, Dm)         ³
+                          SGREEN.WAD                ³
+                          CDT.WAD (Dm)              Ù
+
+ Additional Credits To  : id, for their everlasting DOOM.
+                          Ben Morris, for DCK
+                          TiC, for NWT
+                          Olivier Montanuy, for Wintex
+                          JASC Inc. ,for PSP
+                          Zink The Dink, for Endoomer
+                          Greg Lewis, for Dehacked
+                          Our patient playtesters: Albert, Marc, Roger.
+                          Possibly you, if you recognize some graphic
+                          of yours into this file. Thanks.
+
+
+ ==========================================================
+ ==========================================================
+
+ * PLAY INFORMATION *
+
+ ==========================================================
+
+ Game                    : DOOM ][ v1.9
+ Episode & Level         : MAPS 01-32
+ Single Player           : Absolutely.
+ Cooperative 2-4 Player  : No starts. No way. Not the point.
+ Deathmatch 2-4 Player   : No. But the game itself is a special deathmatch...
+
+ Difficulty Settings     : Implemented -> Easy: 1,2
+                                          Normal: 3
+                                          Hard: 4
+                                          With NIGHTMARE skill, Cyberdreams
+                                          doesn't work right. Don't try it.
+
+ New Sounds              : Hmmm. It depends on how many levels you play...
+ New Music               : No... for now.
+ New Graphics            : Yes, some.
+ Demos replaced          : All of them.
+
+ ==========================================================
+
+ * Construction *
+
+ ==========================================================
+
+ Base                    : Levels from scratch (more than ever).
+ Editor(s) Used          : DCK v3.61
+                           Wintex v4.3
+                           Dehacked v3.0a
+                           NWT v1.3
+                           Paint Shop Pro v3.0                          
+                           Endoomer v1.0.1
+ Build Time              : September '97 / March '98
+ Known Bugs              : We hope everything is working right, but in
+                           case you detect some strange thing, please
+                           read 'The behaviour of Cyberdreams' (below).
+                           About conventional bugs, we have detected a
+                           couple of HOM in maps 8 and 29. Actually
+                           we don't give a shit about the one in level 29.
+                           The map is so amazing that probably you will not
+                           look for it...
+                           Oh, and don't try to save in map 30, or the game
+                           will crash. Again, we know the reason, but we
+                           can't tell you more...
+
+ ===========================================================================
+ ===========================================================================
+
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³ 3. THE BEHAVIOUR OF CYBERDREAMS ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ While making the adventure we had to change a bit our way of designing. We
+ had ideas for Cyberdreams that seemed to be not comprehensible for any
+ Doom editor. In fact, we have a few maps which still stay just as good
+ ideas but not possible to turn them into a reality.
+
+ Still, the main reason to write this chapter in the text file is to explain
+ some of the important things that can happen while playing the adventure and
+ which can be considered as "errors", though they are just limitations of
+ the Doom engine. Most of them are on behalf of how the Cyber is killed.
+
+ 1) The first, and probably the most desperating one, is that sometimes,
+ Cyberdemons won't die in levels 4, 11, 12, 19 and 30. We are almost sure
+ that in Doom, Cybers can die only in three ways:
+
+        - building stairs below them when the ceiling is low enough
+          to "squeeze" the Cyber.
+        - crushers that can be activated by a switch or an invisible line.
+        - ... and of course by teleporting.
+
+ In those maps, we use the first method and without any apparent reason
+ stairs don't kill the Cybers. Maybe it depends on every little thing that
+ is being done within the map at the moment that they are activated (player
+ actions, moving sectors, or Cyber movements). If any Doom designer has ever
+ been in a similar situation and knows more about this problem, we'll
+ appreciate his comments (see email above).
+
+ 2) With the second method it seems that switches never fail, altough lines
+ sometimes do. Once again, this is not just a Cyberdreams problem, but one
+ thing that can happen in the original game as well. Lines don't always
+ activate when the player crosses them at high speeds. This can happen in
+ two different circumstances: using turbo (something that you can't do in
+ Cyberdreams) or crossing the line just after receiving some special "kiss"
+ of any Cyber, which makes you gain speed inmediately. This can happen in
+ three or four levels, but basically in levels 21 and 31 (we really hope
+ not!).
+
+ 3) Fortunately we are absolutely sure that every time you teleport into
+ a place where a Cyber stays things will work correctly (that is, the third
+ method NEVER fails...).
+
+ There is a "moral" problem that you'll notice in some levels if you
+ save your game. If Cyber wasn't facing you at the moment you
+ desperately pressed F2 and took a deep breath, the next time you reload it
+ the Cyber won't move or even know where you are until you let him know.
+ If you go on with this game without "waking him up" it can be considered
+ as cheating. That's the reason why we think the best way to play Cyberdreams
+ is without saving. If you ever use saved games, please be honest and use
+ your fist (remember you can use the fist?) or let him (them) know where you
+ are if the Cybers are apparently swimming into wet dreams. This is very
+ important specially in map 21.
+
+ Finally, we hope you'll discover some strange things that can happen in
+ some levels. They are not errors at all, but curious to see.
+
+
+ ===========================================================================
+ ===========================================================================
+
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³ 4. RECORDING DEMOS ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+ 
+ To record a demo, you must write the following line in your Doom ][ prompt:
+
+      cydreams -game cyber110.wad -dream XX -record namedemo
+
+ where:
+
+  - XX is the number of the map you wish to record the demo.
+  - namedemo is the name of your demo (that's what we call a wasted line in
+    a text file...)
+
+  And in case you want to see some demo you recorded, just type:
+
+      cydreams -game cyber110.wad -playdream namedemo
+
+
+ Important: in Cyberdreams the extension of your demos will be .CYB, altough
+ you don't need to type it in any case.
+ We hope this little change won't bother the authors of original Doom if they
+ ever know that Cyberdreams exists. Thanks again to id.
+
+ Send us your demos, we'll appreciate it very much... There are some levels
+ that were not included in Cyberdreams but are finished. We'll be delited to
+ send them to you if we can enjoy your playing against Cybers.
+
+ And if you can't find the way to solve some of the levels... well, you can
+ do it better, man! Seriously, we have recorded demos of all levels that can
+ be helpful to you. Ask for the one(s) you need.
+
+ ===========================================================================
+ ===========================================================================
+
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³ 5. LEVELS LIST ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+ 
+   01. WARM UP: ONE ON ONE               17. TIC-TAC-TOE
+   02. THE S-2 FACTOR                    18. THE BLOCKED WAY TO ARCH-ITECTURE  
+   03. THE BRIDGE BETWEEN                19. ARCH-ITECTURE
+   04. COME ON IN                        20. ANTI-CLOCKWISE
+   05. CYBERS AND HOLES                  21. BLEEDING WOODS
+   06. JOHN'S LAMENT                     22. HOT DOG
+   07. UNUSUAL FRIENDSHIP                23. HARD DESCENT, HARDER
+   08. HAPPY END?                            CLIMBINGS
+   09. DOUBLE DUPLEX                     24. SORRY, 66% MAXIMUM
+   10. ESCAPE FROM THE HIDDEN TRINITY    25. PURE BLOOD
+   11. SEQUENTIAL MOVEMENTS              26. THE TOUGH TWINS
+   12. LORDS OF THE RING                 27. YOU SEE ME, YOU DON'T
+   13. AFTER THE RING                    28. THE FLOATIN' CONSPIRACY
+   14. SATYRS, GARGOYLES, LIONS          29. THE WAY TO GOD'S MANNA
+       AND SUFFERING                     30. ?
+   15. FOUR LEAF CLOVER                  31. WITH A LITTLE HELP...
+   16. URBANITY                          32. ... FROM MY FRIEND.
+
+
+     Levels 01,04,05,07,10,11,12,13,16,18,23,25,26,27 and 31 by Gonzalo.
+     Levels 02,03,06,08,09,14,15,17,19,20,21,22,24,28 and 32 by Albert.
+     Levels 29 and 30 by Gonzalo and Albert.
+
+
+ ===========================================================================
+ ===========================================================================
+
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³ 6. PERMISSIONS ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ Authors MAY NOT use these levels as a base to build additional levels.
+
+ You MAY distribute this WAD project, provided you include this 
+ file, with no modifications.  You may distribute this file(s) 
+ in any electronic format (BBS, Diskette, CD, etc) as long as 
+ you include this file intact.
+
+ Pr‚sage are:
+                Gonzalo P‚rez de la Ossa
+                Albert Valls
+
+ Adresses:      Av. Madrid 85-87 ESC.C AT. 2
+                BARCELONA - 08028
+                SPAIN
+
+                C/ Dos de Maig 321-325, ESC.D AT. 1
+                BARCELONA - 08025
+                SPAIN
+
+ ===========================================================================
+ ===========================================================================
+
+  (End of file)

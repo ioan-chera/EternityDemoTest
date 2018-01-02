@@ -1,0 +1,66 @@
+Cyberdreams demo set
+--------------------
+Recorded by Yonatan Donner
+
+These are 32 demos completing all the levels of the megawad Cyberdreams
+(ftp://ftp.cdrom.com/pub/idgames/levels/doom2/megawads/cydreams.zip) in quite
+a quick times. I did these demos a few weeks ago, before the new Hell
+Revealed collection (http://www.geocities.com/Hollywood/4704/hr.html) and
+Doom2 done Quick (http://www.planetquake.com/qdq/d2dq.html) were finished,
+and just didn't get to write this text file until now :)
+
+I heard about Cyberdreams and downloaded it. It's a very nice megawad with a
+very original levels and the levels are pretty good, too. They are very
+short so I played them when I took breaks from studying for a test. The
+whole collection was done in less than three hours so it seemed a bit pathetic
+to start a team collection for such a short wad...
+
+You'll need to install the dehacked patch to play back these demos:
+cydreams -game cyber110.wad -playdream cy??-uv
+(replace ?? with the level number)
+
+Demos are called .cyb instead of .lmp in Cyberdreams, so don't be confused :)
+
+Here is a quick table listing all lmps:
+
+Level  Time
+-----  ----
+ 01    0:21
+ 02    0:15
+ 03    1:19
+ 04    0:16
+ 05    1:29
+ 06    0:45
+ 07    0:56
+ 08    1:11
+ 09    0:56
+ 10    0:28
+ 11    1:05
+ 12    2:07
+ 13    0:53
+ 14    2:22
+ 15    0:27
+ 16    1:37
+ 17    1:28
+ 18    0:32
+ 19    1:13
+ 20    0:38
+ 21    1:04
+ 22    1:35
+ 23    3:56
+ 24    0:31
+ 25    2:35
+ 26    1:11
+ 27    2:31
+ 28    1:01
+ 29    1:14 (amazing level!)
+ 30    1:02
+ 31    0:53
+ 32    4:30
+
+*****
+
+That's it - enjoy the lmps!
+
+Yonatan Donner <ruthd@post.tau.ac.il>
+http://www.geocities.com/Hollywood/4704/

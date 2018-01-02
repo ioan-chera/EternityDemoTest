@@ -34,6 +34,7 @@
 2 1fortres -file 1fortres/1FORTRES.WAD
 2 1monster -file 1monster/1monster.wad
 2 1monster/bugfix -file 1monster/1monster_bugfix.wad
+2 cydreams -file cydreams/Cyber110.wad -deh cydreams/Cyber110.deh
 1 competn/doom
 1 01fava -file 01fava/FAVA.WAD
 2 scythe2 -file scythe2/scythe2.wad

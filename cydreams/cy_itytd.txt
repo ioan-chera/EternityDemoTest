@@ -1,0 +1,25 @@
+
+---
+
+Doomed Speed Demos Archive
+Opulent homepage
+http://www.doomworld.com/sda/doom_sda
+
+Pwad:      CyberDreams
+Map:       01-30 (without the secret levels)
+Skill:     ITYTD
+Category:  speedrun movie (some runs are Max, though)
+Exe:       Boom v2.02 with cyber110.deh
+
+Time: 	   32:01
+
+Comments:  The demo shows that it is possible to get a whole movie of this megawad, despite the tiny
+	   CyD-Boom incompatibilities. The 667-tagged sector on map 07 raises twice the high it is
+	   supposed to race. Other than that, some crushers on maps 13 and 17 behave in a different way
+	   than the usual.
+
+	   Special thanks to Opulent.
+	   
+
+Author:    Albert Valls
+Address:   vrmr@wanadoo.es

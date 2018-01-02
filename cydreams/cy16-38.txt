@@ -1,0 +1,22 @@
+cy16-38.txt
+--------------------
+
+Filename:	cy16-38.lmp
+Game:		Doom 2 
+Pwad:		Cyber110.wad+Cyber110.deh
+Pwad Name:	CyberDreams
+Skill:		Ultra-Violence
+Map:		16 (Urbanity)
+Category:	UV-Pacifist
+Time:		00:38.66
+------------------------------------------------------------------------------------------
+
+Author:		SuperWeaponDude
+E-mail(s):	mailtosam95@gmail.com
+Exe:		PrBoom+ v2.5.1.4 -Complevel 2
+
+-------------------------------------------------------------------------------------------
+
+Comments:
+-----------------
+Nothing interesting. Hitting the switch is the only burden.

@@ -1,0 +1,18 @@
+This is the original pack of demos for the CyberDreams megawad.
+All these demos were recorded a long time ago (1999-2000) with vanilla doom2.exe v1.9. Most of them still show a large number of tricks that can be used to decrease exit times close to its possible limits.
+
+The following ones were recorded by Gonzalo Perez de la Ossa:
+
+04uv009z.lmp
+04uv012a.lmp
+05uv004z.lmp
+22uv036z.lmp
+
+Rest of demos recorded by Albert Valls.
+
+Demos which names finish with an "a" are max demos. The ones finishing with a "z" are speed demos.
+All of them must be watched using both cyber110.wad and cyber110.deh files, and have been tested with PrBoom-Plus 2.5.0.6.
+
+Albert Valls
+siravj@gmail.com
+

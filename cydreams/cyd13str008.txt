@@ -1,0 +1,10 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): Cyberdreams
+Authour of PWAD: Albert Valls & Gonzalo Perez de la Ossa
+Recorded with: PrBoom Plus 2.5.1.3 used latest ZDL to help me
+Category: Stroller
+Complevel: 2
+Time: 0:08
+
+Notes: An old favourite of mine that I decided to do a demo for after seeing Daiyu Xiaxiang's pacifist demo I decided to have a go at a stroller.

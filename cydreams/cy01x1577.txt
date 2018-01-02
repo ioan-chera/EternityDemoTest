@@ -1,0 +1,27 @@
+cy01x1577.txt
+---------------------
+----------------------------------
+||This is a Tools Assisted Demo.||
+----------------------------------
+
+Filename:	cy01x1577.lmp
+Game:		Doom 2 
+Pwad:		Cyber110.wad+Cyber110.deh
+Pwad Name:	CyberDreams	
+Skill:		Ultra-Violence
+Map:		01
+Category:	UV-Pacifist (TAS)
+Time:		0:15.77
+Tools:		SlowMo,Strafe50,Segmenting,Xdre2
+
+-------------------------------------------------
+
+Author:		SuperWeaponDude
+E-mail(s):	mailtosam95@gmail.com
+Exe:		PrBoom+ v2.5.1.4 -Complevel 2
+
+-------------------------------------------------
+
+Comments:
+-----------------
+Probably Optimal Time. As i couldn't find any other way to reduce this any further. 

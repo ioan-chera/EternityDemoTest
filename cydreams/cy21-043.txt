@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      cyber110.wad
+Pwad name: Cyberdreams
+Map:       21
+Skill:     4
+Category:  UV-Max
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      0:43
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  

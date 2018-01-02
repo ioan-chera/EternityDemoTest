@@ -1,0 +1,18 @@
+ cy02-006.lmp
+  cy02-006.txt - UV Speed
+
+  Recorded using Doom2 Version 1.9
+
+  Cyberdreams - MAP02 - The S-2 Factor
+
+  Kills       50%
+  Items      100%
+  Secrets    100%  and Time   0:06
+                             ------
+  Description :)
+
+  Credits to Dislogical for the jump trick
+  
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com
