@@ -1,3 +1,0 @@
-av.wad, map10
-
-Weird demo, everything goes noclip all of a sudden.
