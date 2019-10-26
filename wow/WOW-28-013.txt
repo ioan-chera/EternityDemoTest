@@ -1,0 +1,37 @@
+This is a Doom.lmp - Please forward it.........
+
+****************************************************
+* WOW-28-013.zip                                   *
+* WOW-28-013.txt                                   * 
+* WOW-28-013.lmp - UV-Fast                         *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.8(-Complevel 3) *
+****************************************************
+
+wow.wad E2M8(UV-Fast)
+
+****************
+* Kills:  100% *
+* Items:  0%   *
+* Secret: 100% * and time 0:13
+****************          ====
+
+******************************************************************************************************************
+
+Comments:
+
+Same thing need to do, but killing that cyberdemon inside the pit is impossible since he attack so fast. The only
+method is to indicate his location, then kill him using BFG at upper stairs.
+
+There's no DSDA record yet of this map in this category.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: daiyu027@yahoo.com.tw
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - ROC Minguo year 100, 21th February in "Republic of China".

@@ -1,0 +1,45 @@
+===========================================
+Title: Wow
+Filename: WOW.WAD
+Author: Paul Thrussell
+Email Address: paulus@happypuppy.com
+Misc. Author Info: NONE
+
+Description: A cyberdemon has escaped from a lab, where they are trying to find his weakness. He was injured by a marine,which was made short work of, and he was trapped inside a illusio-pit. Your job is to find it, and kill it.
+
+Additional Credits to: Ice59, for sitting patiently, watching me make this level.
+===========================================
+
+* Play Information *
+
+Episode and Level #: E1M1
+Single Player: Yep
+Cooperative 2-4 player: nope, no multiplayer
+Deathmatch 2-4 player: I said, no multiplayer!!! :-)
+Difficulty Settings: Nope Period.
+New Sounds: No!
+New Music: No way!
+New Graphics: no, still
+Demos Replaced: NONE!!!
+
+* Construction *
+
+Base: New level from scratch
+Editor Used: WadAuthor
+Known Bugs: For some reason you can see the demon's head, when at a certain distance.
+
+
+
+* Permissions *
+
+Authors MAY NOT use this level as a base to build other levels.
+
+
+You may copy this file, place it on CD compilations, upload to BBS's etc, etc, provided that you ask my permission by e-mail, FIRST!
+
+
+* Where to get this WAD *
+
+Don't think you can get it anywhere else than good old ftp.cdrom.com,
+or it's mirrors.
+

@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+PWAD: wow_x.wad
+PWAD Name: Wow
+Maps: E2M8
+Skill: 5
+Category: Speed
+Exe: GLBoom-Plus 2.5.1.5 -complevel 3
+
+Time: 0:08
+Date: 10-2-2017
+
+Author: GuyNamedErick
+Email: guynamederick@gmail.com
+
+Comments:  wow.wad is one of the most primitive levels I can imagine, but really I can't find myself harping it
+as some other people since I find it pretty hilarious knowing why it exists. I mean heck, even Paul himself pretty
+much knows the infamy of it, so well there's that. Anyways, I decided to see if completing wow.wad in under 10
+seconds is possible on Nightmare, and turns out it is. If anything the only difference between Nightmare Speed and
+UV Fast is the double ammo on Nightmare.

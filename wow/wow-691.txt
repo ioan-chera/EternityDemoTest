@@ -1,0 +1,18 @@
+Game:           Crispydoom v5.5.2
+IWAD:		Doom.wad
+PWAD:		wow.wad wow_x.wad
+Category:       UV-Max
+Mission:        E2M8
+Time:           6.91
+
+
+Comments:
+		Saw this map done in 7 seconds by Robby DeCandia at https://www.twitch.tv/doomspeeddemos ,
+		so I thought I could improve it.
+
+		Also reality. Also UV-Speed.
+
+		It took 5 attempts to get this.
+
+
+Author:         Looper

@@ -1,0 +1,52 @@
+This is a simple speedrun of wow.wad, by Paul Thrussell.  I would like
+to give a special thanks to Grazza for modding wow.wad to E2M8 for exiting
+and checking that player is alive.  I have included wow_x.wad in the zip.
+
+Pwad:      wow_x  (Credits to Grazza for this mod of wow.wad.)
+Pwad name: wow_x.wad
+Maps:      E2M8
+Skill:     4 UV
+Category:  UV Speed
+Exe:       Doom.exe (Works great with glboom, prboom.)
+Time:      0:07
+
+Author:    Robby DeCandia "r_rr"
+Email:     Rnitrofish@aol.com
+
+---------------------------------------------------------------------------
+Technical Specs of my LMP file:
+
+File name       : wow_x007.lmp
+Version         : 1.9
+Skill           : 4 = Ultra-Violence!
+Episode         : 2
+Map             : 8
+Rules           : Cooperative/Single
+Options         : none
+View            : Player 1's
+Players in game : Green
+Length          : 1405 gametics = 0 minutes 40.14 seconds
+
+------------------- Statistics: ---------------
+
+Paused: No, Saved: No, Unknown Actions: No
+
+     Note - X%=X% of time, >X=maximum rate, *X=X gametic counts
+Player|Forward |Backward|StrafeL |StrafeR |TurnLeft|TurnRght|Fire|Use   |Change
+------+--------+--------+--------+--------+--------+--------+----+------+------
+Green |  6%>50 |  1%>50 |  5%>40 |  5%>40 |  5%>54 |  2%>11 | 11%|*0    |*23
+
+------------------- Other info: ---------------
+
+Player|Control |Run  |Strafe |BackFactor|FlickFactor|ArnieFactor|LurkFactor
+------+--------+-----+-------+----------+-----------+-----------+----------
+Green |Mouser  |Fast |Notalot|0         |3          |4          |42
+
+Statistics for player 1 (all data given are percentages except where noted):
+
+Total gametics of while player was strafing: 11.316726
+Total gametics of while player was strafing 41-50: 0.000000
+Total gametics of while player was straferunning: 6.192171
+
+Straferunning gametics that are normal: 100.000000
+Straferunning gametics that are above normal: 0.000000

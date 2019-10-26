@@ -1,0 +1,43 @@
+This is a Doom.lmp - Please forward it.........
+
+****************************************************
+* WOW-28-007.zip                                   *
+* WOW-28-007.txt                                   * 
+* WOW-28-007.lmp - UV Max                          *
+* WOW_FAIL.lmp - Draw!!! But fail!!!               *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.8(-Complevel 3) *
+****************************************************
+
+wow.wad E2M8(UV Max)
+
+****************
+* Kills:  100% *
+* Items:  0%   *
+* Secret: 100% * and time 0:07
+****************          ====
+
+******************************************************************************************************************
+
+Comments:
+
+A nice small wad, really WOW!!! There's only 1 enermy in this map, which is the ultimate cyberdemon!!! The story
+is as below:
+
+"A cyberdemon has escaped from a lab, where they are trying to find his weakness. He was injured by a marine, 
+which was made short work of, and he was trapped inside a illusio-pit. Your job is to find it, and kill it."
+
+It's not that easy to kill that cyberdemon since the space is so small! Therefore luck is required, it's true!!!
+
+DSDA record is 0:08 by Grazza.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: daiyu027@yahoo.com.tw
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - ROC Minguo year 100, 21st February in "Republic of China".

@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+PWAD: wow_x.wad
+PWAD Name: Wow
+Maps: E2M8
+Skill: 4
+Category: Fast
+Exe: GLBoom-Plus 2.5.1.5 -complevel 3
+
+Time: 0:08
+Date: 1-7-2018
+
+Author: GuyNamedErick
+Email: guynamederick@gmail.com
+
+Comments: Nearly the same as Nightmare, although the Cyberdemon does behave a bit differently so getting a pattern
+was a bit iffy, still the same nonetheless.

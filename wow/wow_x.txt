@@ -1,0 +1,24 @@
+For the Ultimate Doom pwad "wow" by Paul Thrussell
+Recorded on a version (two bytes altered!) where it is possible to exit the map.
+
+File required: wow_x.wad (included in this zip)
+This zip also includes the original wow.wad and wow.txt
+
+Map: E2M8
+wow_x008: UV Speed/Max in 0:08
+wowxN008: NM in 0:12
+Two miscellaneous demos (wow_xheh and wowxNheh) where the player and the cyber both die, and the map doesn't exit.
+
+These are Doom.exe-compatible demos (recorded with glboom 2.2.4).
+PrBoom download link: http://sourceforge.net/projects/prboom
+
+Description: Some demos on one of the famously "worst wads of all time" (unmodified apart from two bytes I changed with a hex editor so that the map would exit when the cyber died).
+
+Funnily enough, NM is easy. You get stacks of ammo and the cyber doesn't move around in its "illusio-pit" very much, so you can do it plenty of damage from outside. On UV, I think you just need to dive in. This is quicker, but has a poorer success rate.
+
+If you watch the NM demos in Doom.exe, then you will see for yourself that "For some reason you can see the demon's head, when at a certain distance."
+
+I'd never realized that on E2M8, the engine did a check for the player still being alive as well as for the cyber(s) being dead. "You learn a new thing every day."
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com
