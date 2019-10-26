@@ -1,0 +1,13 @@
+Pwad: nuts.wad    
+Pwad name: nuts
+Map: 01
+Skill: 4
+Category: UV-Max
+Exe: PRBoom+ v2.5.1.4
+Time: 7:44
+
+Author: JamBawa
+
+complevel: 9
+
+comments: my first demo. enjoy.

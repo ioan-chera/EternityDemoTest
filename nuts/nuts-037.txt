@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      nuts.wad
+Pwad name: Nuts
+Maps:      MAP01
+Skill:     4
+Category:  UV-Speed
+Exe:       Prboom+ 2.5.1.4.test -complevel 2
+
+Time:      0:37
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  This was actually one of the first demos I ever attempted. Back then I couldn't beat Albert Valls' time but today I finally got lucky in the second room. I've also tried to implement Grazza's imprunning idea but it's quite difficult to do (need perfect angle).

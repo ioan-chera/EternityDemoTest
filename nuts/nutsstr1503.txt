@@ -1,0 +1,11 @@
+wad:       Nuts
+Map:       01
+Skill:     4
+Category:  Stroller/UV-Max
+Exe:       PrBoom+ v2.5.1.4 krankdud's build.
+Time:      15:03
+-complevel 2
+
+Author:	   Ancalagon
+
+Yes, a stroller max.

@@ -1,0 +1,31 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      nuts.wad
+Pwad name: 
+Maps:      01
+Skill:     4
+Category:  Max 
+Exe:       Boom2.02 with 2.deh
+
+Time:      3:10 / 3:23
+
+Author:    Opulent
+Email:     opulent.doom2@home.com
+HP:	   http://members.home.com/opulent.doom2/doom2/doom2.htm
+
+Comments:  
+
+I was shooting for under 3:00, but this is really a hard run to optimize.
+if you RUN it, then you will run out of cells... seems silly, but it happens every time.
+so, you must get the backpack.  the advantage to this is that you never have to turn the bfg off.  :)
+
+Actually, I wanted to do a rocket-launcher only demo.. but there is no rl.  Can't wait for HR2, then we'll see some dehacked map32 action. ;)
+
+very easy to leave monsters behind in the first room when you play for speed.
+cyber room is a very interesting place with the dehacked patch... how close do you cut those corners...  :)
+
+It is really a shame that this has a distinct lack of sufficient ammo... I would've liked to have done a maxdemo.
+
+play the demo back with Boom, unless you like directx frame-by-frame(or have a 2Ghz machine).
+boom -iwad doom2.wad -file nuts.wad -playdemo nuts_310 -deh 2.deh

@@ -1,0 +1,19 @@
+
+---
+
+The Doomed Speed Demos Archive
+Opulent's page
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      nuts.wad, by B.P.R.D.
+Map:       01
+Skill:     UV
+Category:  pacifist speedrun
+Exe:       Doom2.exe with Boom v2.02
+
+Time:      :39
+
+Comments:  All credits to Graham "Grazza" Burgess for his idea.
+	   
+Author:    Albert Valls
+Address:   vrmr@wanadoo.es

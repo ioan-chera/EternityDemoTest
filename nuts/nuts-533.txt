@@ -1,0 +1,13 @@
+Pwad: nuts.wad    
+Pwad name: nuts
+Map:      01
+Skill:     4
+Category:  UV-Max/reality
+Exe:       PRBoom+ v2.5.1.1
+Time:      5:33
+
+Author:	   Ancalagon   
+
+complevel 2
+
+only 92% kill, i am not going to kill those cybers

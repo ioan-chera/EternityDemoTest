@@ -1,0 +1,66 @@
+================================================================
+Title                   : NUTS
+Filename                : NUTS.WAD - you must run it with an edited Doom2, 
+			  like Boom or Zdoom. 
+Author                  : B.P.R.D
+Email Address           : burp_n_gurgle@hotmail.com
+Misc. Author Info       : This WAD is just some crap i threw together one night. 
+			  Enjoy swimming through the 100,000 monsters i've 
+			  laid out for ya ;)
+
+Description             : Once upon a time in a galaxy far, far away...
+
+			  NUTS.WAD!!!!
+
+			  THE STORY SO FAR...
+			  You are assigned to destroy the final Hellspawn
+			  army on Litrivin IV. The government sends you all
+			  alone becuase you got drunk at the General's 
+			  Birthday party last year and he never liked you
+			  since. Since this is the biggest Hellspawn army 
+			  ever esstablished, the cheap-ass General sends 
+			  you with nothing but a pea shooter. Good luck.
+
+Additional Credits to   :
+================================================================
+
+* Play Information *
+
+Map Number              : MAP1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No- sorta
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : WinDeu 32 bit; InkWorks
+Known Bugs              : Use BOOM and there wont be any.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites: maybe
+
+BBS numbers: perhaps
+
+Other: na
+

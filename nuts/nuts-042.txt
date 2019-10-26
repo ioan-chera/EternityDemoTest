@@ -1,0 +1,22 @@
+nuts-042.txt
+nuts-042.zip
+
+nuts-042.lmp - UV Speed
+
+Recorded using  GLBoomPlus v2.5.1.1
+GLBoomPlus -playdemo with Version 2.5.1.1
+
+Nuts - Map01 - Nuts
+
+18-09-2011
+
+**********************
+Kills      29%
+Items      10%
+Secrets    100%
+
+Time       0:42
+********************** 
+
+Author: Mate "Relic" Crncevic
+E-mail: mate.crncevic@gmail.com

@@ -1,0 +1,27 @@
+File:      nutsn038.lmp
+Pwad:      Nuts (nuts.wad)
+Iwad:      Doom2.wad
+Maps:      01
+Skill:     5
+Category:  NM-speed
+Exe:       prboom-plus.exe v2.5.1.4 -complevel 2
+
+
+Kills:     38%
+Items:     10%
+Secrets:  100%
+
+Time:     0:00:38
+
+Recording date: 24/08/2018
+
+Author: FC19    
+Email:  federicocavallo95@hotmail.com   
+
+
+Comments: I found there is plenty of empty space in the zombiemen area, so you can run quite 
+          directly to the door switch cutting that part in diagonal without having to follow 
+		  all the perimeter of the room, similarly to nuts 2.
+
+          A 38 seconds demo was rather unexpected - I didn't think the wallrun on the last 
+		  wall could be that fast. Also, good exit switch press.   

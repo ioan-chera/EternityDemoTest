@@ -1,0 +1,18 @@
+Pwad:      http://youfailit.net/pub/idgames/levels/doom2/Ports/m-o/nuts.zip
+Pwad name: NUTS [by B.P.R.D]
+Maps:      MAP01
+Skill:     4
+Category:  Cheated Max ;)
+Exe:       GLBoom+ 2.5.0.2 w/ -complevel 9 (Boom v2.02 compatibility) and
+           SUPRWEP8.DEH (included with the DeHackEd 3.1 distribution; get it at
+           http://youfailit.net/pub/idgames/utils/exe_edit/dhe31.zip)
+
+Time:      2:56
+
+Author:    Joonas (Jodwin) Äijälä
+Email:     jodwin@gmail.com
+HP:        http://www.akinomori.com
+
+Comments:  
+After many, many tries, some pretty close to getting under 3 minutes, I finally got a 2:59 run. The 
+try following after that got me a three seconds better time, 2:56. This still ought to be improvable by at least a few seconds.

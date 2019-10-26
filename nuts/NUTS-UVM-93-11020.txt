@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: NUTS.WAD     
+Pwad name: nuts
+Maps:      01
+Skill:     4
+Category:  Max 
+Exe:       prboom-plus-2.5.1.4.exe
+
+Time:      1:10:20
+
+Author:    MBCollector672
+Email:     epicperson456@gmail.com
+
+Comments: First person to get 93% kills! That was very frustating and tedious.

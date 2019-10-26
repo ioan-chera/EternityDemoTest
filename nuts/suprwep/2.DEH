@@ -1,0 +1,299 @@
+Patch File for DeHackEd v3.0
+
+# Note: Use the pound sign ('#') to start comment lines.
+
+# Suprwep8 is a patch file for DeHackEd v3.0 or higher.  All of the
+# weapons have been upgraded into an extraordinarily fast monster-crushing
+# arsenal.  The super shotgun is now one of the most deadly weapons ever
+# seen, taking away several thousand hitpoints a second!  Even a mere fist
+# is a formidable weapon to use against any foe.  All weapons have a
+# virtually unlimited ammo capability (100,000 units of each type).  And
+# yes, the weapons are slightly faster in suprwep8 than in suprwep7,
+# notably the BFG, the chaingun, and the rocket launcher.
+
+#   Now for a quick explanation of this patch, for those who are curious.
+# First of all, one thing that will speed up the weapons drastically is
+# to change the Durations of all the weapon frames to 1 (except those that 
+# are already 0).  The weapon frames are 2 through 89.  This radically
+# decreases the time that Doom spends displaying each picture (thus
+# speeding up how often you can shoot).
+
+# The other important shortcut to take is to skip certain frames by editing
+# the Next Frame column of the frame table.  This is a rather tricky
+# science (and crashes Doom if done wrong) so the best way to learn is to
+# see how it's done in this patch.   For example, for the super shotgun,
+# the Next Frame of frame 36 is frame 32.  Normally the super shotgun would
+# cycle all the way up to frame 44 before jumping to frame 32, but I just
+# made it jump right away, and cut out a full 12 frames from the animation!
+# It certainly does save some time!
+
+#   So, enjoy the patch, and don't blow too much up...  if the super weapons
+# make Doom seem boring, you can try another little idea that a friend and
+# I use when we're bored.  Edit ALL of the monster hitpoints to be 10 times
+# what they usually are (or less or more, according to taste).  Then try
+# blowing them away, and you'll see it takes a bit longer!
+
+Doom version = 21
+Patch format = 6
+
+Thing 43 (BFG Hit)
+Bits = 201327120
+
+Frame 5
+Sprite subnumber = 3
+Duration = 0
+
+Frame 6
+Sprite subnumber = 3
+Duration = 1
+Next frame = 2
+
+Frame 7
+Duration = 1
+Next frame = 2
+
+Frame 13
+Duration = 1
+
+Frame 14
+Sprite subnumber = 0
+Duration = 1
+Next frame = 10
+
+Frame 15
+Sprite subnumber = 0
+Duration = 1
+
+Frame 16
+Sprite subnumber = 0
+Duration = 1
+
+Frame 17
+Duration = 1
+
+Frame 21
+Duration = 1
+
+Frame 22
+Duration = 1
+Next frame = 18
+
+Frame 23
+Duration = 1
+
+Frame 30
+Duration = 1
+
+Frame 31
+Duration = 1
+
+Frame 35
+Duration = 1
+
+Frame 36
+Duration = 1
+Next frame = 32
+
+Frame 37
+Duration = 1
+
+Frame 47
+Duration = 1
+
+Frame 48
+Duration = 1
+
+Frame 52
+Duration = 1
+
+Frame 53
+Duration = 1
+Next frame = 49
+
+Frame 55
+Duration = 1
+
+Frame 56
+Duration = 1
+
+Frame 60
+Duration = 1
+
+Frame 61
+Duration = 1
+
+Frame 63
+Duration = 1
+Next frame = 66
+
+Frame 64
+Duration = 0
+Next frame = 66
+
+Frame 65
+Sprite subnumber = 32769
+Duration = 1
+
+Frame 66
+Sprite subnumber = 32770
+Duration = 1
+
+Frame 71
+Duration = 1
+
+Frame 72
+Duration = 1
+
+Frame 77
+Duration = 1
+Next frame = 74
+
+Frame 78
+Sprite number = 14
+Duration = 1
+Next frame = 81
+
+Frame 79
+Duration = 1
+
+Frame 80
+Duration = 1
+
+Frame 84
+Duration = 1
+
+Frame 85
+Duration = 1
+
+Frame 86
+Duration = 1
+
+Frame 87
+Duration = 1
+Next frame = 78
+
+Frame 88
+Duration = 1
+
+Frame 89
+Duration = 1
+
+Frame 90
+Duration = 2
+
+Frame 91
+Duration = 2
+
+Frame 92
+Duration = 2
+
+Frame 93
+Duration = 2
+
+Frame 94
+Sprite subnumber = 2
+Duration = 1
+
+Frame 95
+Sprite subnumber = 3
+Duration = 1
+Next frame = 0
+
+Frame 115
+Sprite number = 47
+
+Frame 116
+Sprite number = 47
+
+Frame 117
+Duration = 6
+
+Frame 118
+Duration = 6
+
+Frame 119
+Duration = 6
+
+Frame 120
+Duration = 6
+
+Frame 121
+Duration = 6
+
+Frame 122
+Duration = 6
+
+Frame 123
+Duration = 6
+
+Frame 124
+Duration = 6
+
+Frame 125
+Duration = 6
+
+Frame 126
+Duration = 6
+
+Ammo 0 (Bullets)
+Max ammo = 100000
+Per ammo = 100000
+
+Ammo 1 (Shells)
+Max ammo = 100000
+Per ammo = 100000
+
+Ammo 2 (Cells)
+Max ammo = 100000
+Per ammo = 100000
+
+Ammo 3 (Rockets)
+Max ammo = 100000
+Per ammo = 100000
+
+Weapon 0 (Fists)
+Shooting frame = 6
+
+Weapon 1 (Pistol)
+Shooting frame = 14
+
+Weapon 2 (Shotgun)
+Shooting frame = 22
+Firing frame = 31
+
+Weapon 4 (Rocket Launcher)
+Shooting frame = 61
+
+Weapon 6 (BFG 9000)
+Shooting frame = 86
+Firing frame = 89
+
+Weapon 8 (Super Shotgun)
+Shooting frame = 36
+Firing frame = 48
+
+Text 281 280
+===========================================================================
+             This version is NOT SHAREWARE, do not distribute!
+         Please report software piracy to the SPA: 1-800-388-PIR8
+===========================================================================
+**********==========----------..........
+  Do not distribute!  Report software piracy to the SPA: 1-800-388-PIR8
+**********==========----------..........
+
+Super Weapons VIII - Ultimate firepower for Doom
+By Greg Lewis                                                              
+
+
+Text 265 265
+===========================================================================
+                            Do not distribute!
+         Please report software piracy to the SPA: 1-800-388-PIR8
+===========================================================================
+**********==========----------..........
+  Do not distribute!  Report software piracy to the SPA: 1-800-388-PIR8
+**********==========----------..........
+
+Super Weapons VIII - Ultimate weapon powerup for Doom
+By Greg Lewis                                          
+

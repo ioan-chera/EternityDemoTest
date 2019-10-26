@@ -1,0 +1,22 @@
+For the Doom 2 pwad Nuts by B.P.R.D.
+
+File required: Nuts.wad
+Download links: https://www.doomworld.com/idgames/levels/doom2/Ports/m-o/nuts
+                http://doomedsda.us/wad706.html
+                https://www.dsdarchive.com/wads/nuts
+
+Map01
+
+Skill: Nightmare! Pacifist
+
+Kills        41%
+Items        10%
+Secrets      n/a and Time 0:42
+
+This is a Doom2.exe-format demo (recorded with prboom-plus -complevel 2).
+PrBoom-plus site: http://sourceforge.net/projects/prboom-plus
+
+Description: My best NM Pacifist time so far. I also got a few 42s running the other way and thingrunning along the imps. It looks cool, but I'm not sure it saves time. Seems fastest to get blasted to the left in the second room. Clearly a luck-dependent run. I'm not convinced NM Pacifist ought to be any slower than NM Speed. I should probably turn off vertical mouse movement for runs like this.
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com

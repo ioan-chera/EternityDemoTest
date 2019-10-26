@@ -43,6 +43,8 @@
 1 01fava -file 01fava/FAVA.WAD
 2 cydreams -file cydreams/Cyber110.wad -deh cydreams/Cyber110.deh
 2 cydreams/nodeh -file cydreams/Cyber110.wad
+2 nuts -file nuts/nuts.wad
+2 nuts/suprwep -file nuts/nuts.wad -deh nuts/suprwep/2.deh
 2 scythe2 -file scythe2/scythe2.wad
 2 scythe2/spechits -file scythe2/scythe2.wad -spechit 0x01C09C98
 2 sodfinal -file sodfinal/SODfinal.wad

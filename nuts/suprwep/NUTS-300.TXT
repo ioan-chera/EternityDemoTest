@@ -1,0 +1,31 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://youfailit.net/pub/idgames/levels/doom2/Ports/m-o/nuts.zip
+Pwad name: NUTS [by B.P.R.D]
+Maps:      MAP01
+Skill:     4
+Category:  Cheated Max ;)
+Exe:       GLBoom+ 2.5.0.2 w/ -complevel 9 (Boom v2.02 compatibility) and
+           SUPRWEP8.DEH (included with the DeHackEd 3.1 distribution; get it at
+           http://youfailit.net/pub/idgames/utils/exe_edit/dhe31.zip)
+
+Time:      3:00
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+Seeing entryway suggest using GLBoom+ to play "Long Days," a WAD he posted
+about in Doomworld, inspired me to try it with its inspiration, the notorious
+WAD known as NUTS.  Eventually, I decided to try to break the current cheated
+UV max record -- by which I mean the current UV max record attained by using
+Greg Lewis's Super Weapons VIII patch included with DeHackEd 3.1. ;p  In the
+end, I knocked ten seconds off of Opulent's record, but I didn't manage to break
+3:00.  Maybe some other time... ;)
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- June 29, 2009 -

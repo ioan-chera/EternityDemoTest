@@ -1,0 +1,24 @@
+For the notorious Doom 2 pwad Nuts by B.P.R.D.
+
+File required: Nuts.wad
+Download link: ftp://3darchives.in-span.net/pub/idgames/levels/doom2/Ports/m-o/nuts.zip
+
+Map01
+
+Skill: UV Pacifist
+
+Kills        31%
+Items         5%
+Secrets     n/a% and Time 0:45
+
+Recorded with PrBoom 2.2.3 (-complevel 1). [Actually, with GLBoom at 1600x1200 resolution - yes, I have a decent graphics card! :)]
+PrBoom download link: http://sourceforge.net/projects/prboom
+
+Description: A new route idea - the gaps between the cybers and spiders are big enough to squeeze between, while in the air at least. It is recorded with PrBoom's v1.9 compatibility mode (this demo should in principle play back with Doom2.exe v1.9, if the map didn't crash it), but the same idea also works in PrBoom's compatibility mode for Boom 2.02 (which has been used for most other demos on this map). I haven't tested whether it plays back with any DOS engines - my best non-XP machine is only a PIII 750MHz notebook.
+
+I'm fairly happy with the running, but there are still major time improvements possible. In the second room, it is possible to land much closer to the exit switch. In NutsP051.lmp (included in this zip) I land almost next to it, having been lucky enough to change direction between the two times the archies lifted me up (it's a sloppy run otherwise though). This doesn't happy very often, and I'm not sure how controllable it is. Presumably it would even be possible to get blasted direct to the exit switch, and to press it while still in the air. Might a time like 0:37 be possible in that case?? Normally you get flung a long way from the exit switch, and must then slowly make your way past the spiders. One idea for an improvement (apart from the obvious ones): it is possible to "thing-run" across the backs of the imps near the start (like the barrel-run jump in Doom2 Map23). A significant time saving in this 0:45 run was that I didn't bother picking up an invulnerability in the first room. This strategy is a bit risky, but it's surprising how often you get away with it.
+
+3333 monsters die in 45 seconds - more than 74 per second on average. Is this a record for a pacifist run?
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com

@@ -1,0 +1,21 @@
+
+---
+
+DSDA
+Opulent homepage
+Http://www.doomworld.com/sda/
+
+Pwad:      nuts.wad, by B.P.R.D.
+Map:       01
+Skill:     UV
+Category:  pacifist speedrun
+Exe:       Doom2.exe with Boom v2.02
+
+Time:      :57
+
+Comments:  Quite satisfied with it, considering that my box cannot reach more than 8 frames-per-second here...
+	   and even less... :) 
+	   A weird pacifist run, isn't it?: 3430 kills (32%). Heh.
+
+Author:    Albert Valls
+Address:   vrmr@wanadoo.es

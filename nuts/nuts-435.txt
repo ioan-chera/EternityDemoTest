@@ -1,0 +1,11 @@
+wad:       Nuts
+Map:       01
+Skill:     4
+Category:  UV-Max
+Exe:       PrBoom+ v2.5.1.4 krankdud's build.
+Time:      4:35
+-complevel 2
+
+Author:	   Ancalagon
+
+I just noticed my max for this map was beaten, this time I didn't care about making it reality.

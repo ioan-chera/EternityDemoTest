@@ -1,0 +1,24 @@
+For the notorious Doom 2 pwad Nuts by B.P.R.D.
+
+File required: Nuts.wad
+Download link: ftp://3darchives.in-span.net/pub/idgames/levels/doom2/Ports/m-o/nuts.zip
+
+Map01
+
+Skill: Nightmare! Pacifist
+
+Kills        46%
+Items        10%
+Secrets     n/a% and Time 0:52
+
+Recorded with PrBoom 2.2.3 (-complevel 1).
+PrBoom download link: http://sourceforge.net/projects/prboom
+
+Description: At first I thought that NM should be as fast as UV on this map, but that's probably not true - I'm fairly sure you need an invulnerability in the first room, and the archies tend to be less cooperative in the second room. They fling me right into the corner in this run, which is pretty normal. Maybe a "direct flight" to the exit switch is possible on NM though...
+
+I'm not completely happy with the running in this demo - it could be smoother in a few places, and I get blocked a bit more than I should. Still, it is my best NM run by a margin of 6 seconds.
+
+4869 monsters die in 52 seconds - more than 93 per second on average.
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com
