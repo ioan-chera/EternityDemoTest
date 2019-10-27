@@ -112,11 +112,11 @@
 
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file 100krevs/100krevs.wad -fastdemo 100krevs/100k01n002.lmp -demolog temp-logs/25.txt 
 0	Setup MAP01
-76	Exit normal		(k: 0%, i: 16%, s: 0%)
+96	Exit normal		(k: 0%, i: 16%, s: 0%)
 
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file 100krevs/100krevs.wad -fastdemo 100krevs/100k01p002.lmp -demolog temp-logs/26.txt 
 0	Setup MAP01
-85	Exit normal		(k: 0%, i: 16%, s: 0%)
+84	Exit normal		(k: 0%, i: 16%, s: 0%)
 
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file 100linen/100lineN.wad -fastdemo 100linen/100lineN-11-656-TOD-prplus2513.lmp -demolog temp-logs/27.txt 
 0	Setup MAP11
