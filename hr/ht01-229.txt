@@ -1,0 +1,26 @@
+This is a DooM .LMP Entry - Please forward it...
+
+HT01-229.TXT
+
+ HT01-229.ZIP
+
+  HT01-229.LMP 
+
+  Recorded using PrBoom 2.4.7 -complevel 2
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 01 - UV Tyson
+
+  Kills    100%
+  (Items    ??%)          *********
+  Secrets    0%  and Time *  2:29 *
+                          *********
+                          
+
+  Description:
+
+  Made this just for fun :-) 1st exit after a few tries.
+  HR is still the best and most legendary hardcore-gameplay wad for me. 
+  
+  Adolf "Gusta" Vojta
+  hita@seznam.cz

@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+************************************************************************
+Filename(s)             : arsevile.lmp
+LMP Version             : Doom ][
+Pwad(s)                 : HR.wad
+Map Level(s)            : MAP29
+Skill                   : 4 with the -fast option
+Length                  : 15:3x
+
+Author                  : Claudio Barba	
+Email Address           : elguapo@access.unizh.ch
+
+Description             : hmm..                                                                                       
+************************************************************************

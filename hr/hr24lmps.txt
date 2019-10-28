@@ -1,0 +1,43 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      HR.WAD by Yonatan Donner and Haggay Niv
+Download link: All know it.
+Pwad name: Hell Revealed
+Maps:      Map 24 Post Mortem by Yonatan Donner
+Skill:     4
+Category:  Max
+
+For hr241315.lmp.
+
+Kills    107%
+Items     94%    
+Secrets  100%  and Time  13:15 
+
+For hr241318.lmp.
+
+Kills    105%
+Items     94%    
+Secrets  100%  and Time  13:18 
+
+For hr241534.lmp (I like to see the duel with three cybers on 1% health & armor.)
+
+Kills    108%
+Items     88%    
+Secrets  100%  and Time  15:34 
+
+Exe:       Doom2.exe. The demo plays back with PRBOOM 2.2.4 and Eternity.
+Date:      August - October 2003
+Author:    Eugene Kapustin
+Email:     egk@ukr.net
+HP:        no DooM related page
+
+Description:
+
+Post Mortem is among my favorite levels. 
+
+I've never got under 18 mins with Angew's route. Here, I let cybies and mancubi do anything what they want. Guess, using this route, some players will manage to cut down the time under 10 mins. But the route is heavily depended on cybies-mancubi score. I've want to put this one under 13 mins. But I'll believe I beat it next time.
+
+Special thanks Yonathan Donner, all players that recorded demos for this map before me and Eternity team for outstanding engine. I've extensively used walkcam feature to learn the most beneficial infights. 
+
+The demo is dedicated all doomers that were constantly killed wading HR (me was killing too) and still like HR. 

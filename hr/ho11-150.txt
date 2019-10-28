@@ -1,0 +1,30 @@
+       
+ 	********************************
+        * doom2 * HO11-150 * nomo 100s *
+        ********************************
+
+ HO11-150.lmp - nomonsters with 100% secrets
+   
+   HO11-150.txt
+
+     HO11-150.ZIP
+
+   doom2.exe -file hr.wad - playdemo ho11-150
+
+
+   Hell Revealed demo, map 11, nomonsters 100s
+
+      -----------------------------------------
+      - Kills     -   0%  -     ...final time -
+      -----------------------------------------    
+      - Items     -  85%  -          1:50     -
+      -----------------------------------------
+      - Secrets   - 100%  -                   -
+      -----------------------------------------
+
+  Descripiton: 1 minute and 6 seconds down :)
+  
+	 
+ 	Author:			 Jakub "DooMerMan" Machata
+        E-mail:			 DMrM@seznam.cz
+

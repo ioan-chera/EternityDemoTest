@@ -1,0 +1,32 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/themes/hr/hr.zip
+           (Or mirrors...)
+Pwad name: Hell Revealed
+Maps:      18 - "Hard Attack"
+Skill:     4
+Category:  Trick
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      ~3:05
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills    ??%
+           Items    ??%
+           Secrets  ??%
+
+Comments:  
+
+Finally I can include one of the best Doom-related 
+quotes of all time in a .txt file ...
+
+"The gayest moment in doom? The start of hr18."
+--Vile, Doomworld Forums, November 19th, 2004
+
+Three minutes of staring at a Cyberdemon's arse. :-)
+Good way to save some ammo, though.
+
+
+Kristian Ronge
+
+zuckuss@gmail.com

@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1901HR01.TXT
+
+ 1901HR01.ZIP
+
+  1901HR01.LMP - Ultra Violence speed Movie!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+ **********************
+ * LEVEL         TIME *	          
+ **********************
+ *  01 	 	 0:18 *      :|
+ *  02 		 1:40 *      :|
+ *  03		 2:26 *          :(
+ *  04  	 0:48 *      :|
+ *  05  	 3:22 *          :(
+ *  06  	 1:55 *   :)
+ *  07  	 3:39 *          :(
+ *  08  	 1:15 *      :|
+ *  09  	 2:14 *      :| 
+ *  10  	 0:57 *   :)
+ **********************
+ * TOTAL TIME   19:01 *
+ **********************
+
+  Description :-)
+  
+  Map01 - awesome time (I took rl+green armor)
+
+  Map03 - bad run, many mistakes = bad time :P
+
+  Map05 - I had problems with plasmagrab, next time I´ll pick it with forward+straferight
+  Map06 - some mistakes, but time wasn´t so bad after all
+  Map07 - bad strategy
+
+  Map09 - I did redkey grab at first try
+
+  Jakub "DooMerMan" Machata
+  kuba-m@seznam.cz

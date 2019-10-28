@@ -1,0 +1,11 @@
+
+Filename                : pa12-114.lmp
+LMP Version             : MBF
+Game                    : Doom2
+Pwad(s)                 : Hell Revealed (http://www.geocities.com/Hollywood/4704/)
+Map Level(s)            : 12
+Skill                   : UV - Pacifist
+Author                  : Cameron Prosser
+Email Address           : allgoodnamesrgon@hotmail.com
+Description             : about my 3rd or 4th take after a long break from this lvl, so it's a little sloppy but a            
+                          slightly modified route gives a rather cool time (the tool assisted demo is 1.29)

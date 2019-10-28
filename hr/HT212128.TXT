@@ -1,0 +1,18 @@
+Player: Alexander Sushkov <sushkov@thsun1.jinr.ru>
+Skill:  4 (uv)
+Fast:   No
+Style:  Tyson
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    21
+Time:   21:28
+LMP:    HT212128.LMP
+
+Credits to: id Software, all HR authors and players
+
+Description:
+
+It is my old demo (recorded at July, 1999) from my old HR archive :)
+
+Alexander
+Aug., 2001

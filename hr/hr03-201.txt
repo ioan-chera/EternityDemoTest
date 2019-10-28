@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR03-201.TXT
+
+ HR03-201.ZIP
+
+  HR03-201.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 03 - The Dumpster
+
+  Kills    100%           
+  (Items    71%)          
+  Secrets  100%  
+
+              ...and Time   02:01
+                            -----                         
+                          
+  Description: 
+
+  Once again nice route improvements, this time by 
+  AdamW/DooMerMan. I just got a little bit pissed 
+  by that chaingun bastard down there near teleport
+  leading to yellow key. When he makes a move, you 
+  may press "Q".
+  
+
+  Radek Pecka
+  r.master@email.cz

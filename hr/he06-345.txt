@@ -1,0 +1,24 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : he06-345.txt, he06-345.lmp
+Date     : 2013-08-19 8:00
+Game     : Hell Revealed
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : Map 06: The Round Crossroads
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Mate Crncevic
+Nickname : Relic
+Country  : Australia
+Email    : mate.crncevic@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 116%
+Items    : 84%
+Secrets  : 100%
+Time     : 00:03:45
+===================================
+Description:
+
+A very fun small map. Respawn is particularly hard on here since the whole map loops back to the outdoors area. Because of that, completing the level itself was challenging enough and I only managed to reach the exit once. Overall, the run is really ugly and sloppy, especially towards the end because I was shaking like crazy. This run has a lot of room for improvement, maybe under 3 min. 

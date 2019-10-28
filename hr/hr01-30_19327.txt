@@ -1,0 +1,72 @@
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      1-30 (including 31/32)
+Skill:     2 (Hey, Not too rough)
+Category:  Max 
+Exe:       Doom2.exe
+
+As with all of my demos since 1995:
+Completely vanilla setup with doom/doom2.exe, no cheats, source-ports(with the exception of a scant few MBF/Boom demos), or crutches.
+native OS calls, no autorun, no mixed key binds, TSRs, or config cheats
+This is the real game.
+
+
+hr01-30_19327 -- Hell Revealed movie 1-30 including 31/32 on skill 2.
+
+
+							 best time in HNTR movie
+MAP01 -  0:46.69 (  0:46)  K:  29/29   I:  1/9   S: 1/1   
+MAP02 -  2:04.03 (  2:50)  K:  66/66   I:  9/15  S: 1/1  1:58
+MAP03 -  2:25.54 (  5:15)  K:  57/57   I: 18/21  S: 2/2  2:22
+MAP04 -  1:21.06 (  6:36)  K:  61/61   I:  2/15  S: 1/1  
+MAP05 -  2:49.11 (  9:25)  K:  61/61   I:  3/3   S: 1/1  2:45
+MAP06 -  3:32.26 ( 12:57)  K:  79/79   I: 11/12  S: 2/2  
+MAP07 -  2:10.57 ( 15:07)  K:   9/9    I:  3/3   S: 2/2  2:04
+MAP08 -  2:57.26 ( 18:04)  K:  71/71   I:  2/3   S: 3/3  2:52
+MAP09 -  2:57.94 ( 21:01)  K:  71/71   I: 10/17  S: 3/3  
+MAP10 -  2:29.74 ( 23:30)  K:  49/49   I:  2/3   S: 1/1  2:27
+MAP11 -  7:34.54 ( 31:04)  K: 142/142  I: 12/13  S: 4/4  7:25
+MAP12 -  4:31.20 ( 35:35)  K:  51/51   I: 11/13  S: 3/3  4:16
+MAP13 -  9:15.31 ( 44:50)  K: 116/116  I:  6/14  S: 3/3  8:07
+MAP14 -  9:28.00 ( 54:18)  K: 159/159  I: 12/24  S: 5/5  8:43
+MAP15 -  8:30.03 ( 62:48)  K: 185/185  I:  2/3   S: 3/3  8:09
+MAP31 -  5:01.34 ( 67:49)  K: 100/100  I:  2/4   S: 5/5  4:55
+MAP32 -  6:21.46 ( 74:10)  K: 217/217  I: 16/20  S: 1/1  5:21
+MAP16 -  7:54.63 ( 82:04)  K: 113/113  I:  5/6   S: 2/2  
+MAP17 -  6:50.89 ( 88:54)  K: 111/111  I:  5/5   S: 2/2  6:32
+MAP18 - 16:32.63 (105:26)  K: 192/192  I: 13/20  S: 2/2 13:44
+MAP19 -  2:37.77 (108:03)  K:  57/57   I:  2/2   S: 1/1  2:27
+MAP20 -  6:41.77 (114:44)  K:  64/64   I: 17/26  S: 1/1  5:44
+MAP21 -  5:21.54 (120:05)  K:  88/88   I:  1/10  S: 1/1  5:06
+MAP22 -  7:08.97 (127:13)  K: 101/101  I:  7/9   S: 1/1  6:53
+MAP23 - 13:09.54 (140:22)  K: 181/182  I:  6/8   S: 3/3 
+MAP24 - 13:01.83 (153:23)  K: 261/261  I: 13/17  S: 4/6 
+MAP25 -  8:18.63 (161:41)  K: 190/190  I:  9/15  S: 1/1 
+MAP26 - 15:18.80 (176:59)  K: 244/246  I: 21/40  S: 1/1 
+MAP27 -  4:56.57 (181:55)  K:  82/82   I:  3/27  S: 1/1 
+MAP28 -  4:00.80 (185:55)  K:  42/42   I:  9/31  S: 1/1 
+MAP29 -  6:35.20 (192:30)  K:  78/78   I:  4/5   S: 2/2 
+MAP30 -  0:57.17 (193:27)  K:   0/0    I:  4/7   S: 1/1 
+
+
+This took more tries than it should have.  Soundcard failed ruining several runs...  it is just too annoying to play without sound.  Visiplane crashes on 15 and 24.  A "Not enough Flats" crash even.  
+
+Before this run, I had just failed on Map23 - trying to save the megaspheres.  Foolish.  It was a shame, I had played the first 12 maps better than ever.
+
+Map11 - mouse driver freaks out, which happens sometimes; I think it is from lifting the mouse off the mousepad a little.
+Map13 - lucky with infighting in the beginning.
+Map15 - I almost die.
+Map32 - First time I use the invulnerability in the trench, which makes so much more sense.
+Map16 - I almost die at the mancubus teleporter.  sometimes they are down at the other end and easily managable.
+Map18 - Revenents don't come around, so I have to get them at the lift.  I'm not sure why this happens.
+Map22 - I wing it at the beginning for some stupid reason -- which wastes a lot of time.
+Map23 - An arachnatron doesn't teleport in, which is common.  The end, which is the second most dangerous part of the movie(next to Map30), goes very well.
+Map24 - I back into the teleporter at the red key.... and forget to go back for the strafe secret.
+Map25 - I take a lot of damage from the chaingunners.
+Map26 - I shouldn't have released the Cyber at the start.  I almost die twice, which is due to my poor playing instead of the map being that difficult.
+Map27 - I go back for the last imp.  If you run to the exit, then back, it has always worked for me.
+Map30 - Two rockets on the first time up was lucky... usually I get none.
+
+
+
+Doug 'Opulent' Merrill

@@ -1,0 +1,19 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      HR.wad
+Pwad name:      Hell revealed
+Map:      01
+Skill:      04
+Category:      UV-speed
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      0:14
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+This was not hard but I always had the feeling that my time is more than beatable
+and certainly so this is. I got 15 seconds many times, but I always made mistakes
+in some places like narrow corridor where you get to press the switch, that Imp was
+a pain in the ass!!

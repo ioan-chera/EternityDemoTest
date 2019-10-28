@@ -1,0 +1,66 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : hr30-121.lmp & hr30-121.txt
+Date     : 2013-04-156 11:44 -- (April 17, 2013, 8:36 AM)
+Game     : Hell Revealed
+Client   : doom2.exe v1.9
+Category : Ultra-Violence Max-Kill
+Map(s)   : Map30: Hell Revealed
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Casey Alvis
+Nickname : Altima Mantoid
+Country  : United States
+Email    : altimamantoid@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 147%
+Items    :  50%
+Secrets  : 100%
+Time     : 00:01:21:XX
+===================================
+Description:
+
+In hr30-140 I wrote:
+
+>> I'm satisfied with this demo. This took me maybe.... 3 hours to get,
+unlike the 2 or 3 months the first one took.
+
+This took me maybe all of 30 minutes. Well then.
+
+You know, I still don't understand why this was a blank spot in the tables
+until I uploaded hr30-156. It took a month to get that, and in retrospect
+it's a terrible time compared to what is possible. Then again, I've never
+really felt that I am a Doomgod. I'm just a guy with a deep-seated passion
+for a game that never gets old. A game that, I suppose in a way, has helped
+me out in some strange, emotional ways.
+
+It's kind of funny in a way. Speedrunning is something that's helped me out
+as a person. I've been doing this since I was 16 years old, back in 2001. I
+started out posting awful, crappy runs. I won the Golden Cyber award for the
+Most Improved Player category. Looking back, I suppose I have come a long,
+long way. Especially when I look back and see how I've chipped this from a
+1:56 down to this 1:21.
+
+This is testament to the determination of a guy who has a love for something
+that he enjoys. As a person, speedrunning has helped me grow on an emotional
+level. I've never really considered myself good at anything at all. Decent,
+at best. Recording these .lmp files for almost 12 years now, and after the
+thousands of hours of practice, patience, and perseverance, I can finally
+say to myself, "Look at what you have done. Look at the things you CAN do."
+What this record tells me is that, with enough patience and determination,
+you can do almost anything you set your mind to. Practice is also important.
+
+Enough of my real life, philosophical blabbering. This is not nearly as
+difficult as I remember. The Cyberdemon was telefragged again, and instead
+of using rockets from below I decided to just go balls to the wall and plow
+myself through the Imps on the sides with the BFG. Oddly enough, there is
+just enough plasma in the map to finish everything off with and still get
+the rockets in the brain safely. You get 20 BFG shots, but you can't afford
+to waste them though. 4 go to the Arch-Viles, so you actually have 16 to
+use as you see fit. Proof is that I run out of BFG at the very end.
+
+At one point I thought this was the hardest map in Hell Revealed. That's
+pretty funny now, because it isn't. I thought this almost 9 years ago when
+I last touched this map, so I guess I've improved as a Doomer more than I
+thought I ever would.

@@ -1,0 +1,24 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      11
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.3
+Time:      11:07
+
+-complevel 2
+
+Author:	   j4rio
+
+
+A somewhat cool map that is a complete 
+disaster to max due to crappy monster 
+behavior dependance, especially on cyber 
+in BFG room. He rarely infights and 
+usually does nothing. If you're
+wondering, of course he did completely 
+nothing during my only first exiter as 
+well. In ggg's demo cyber completely 
+cleaned out that room, so if you're 
+feeling like wasting your life for a 
+lucky gamble, around 9 should be doable.

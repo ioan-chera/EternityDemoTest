@@ -1,0 +1,129 @@
+Opulent's Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+THE HELL REVEALED -FAST COLLECTION
+
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      all, excepting (23, 26, and 30)
+Skill:     4
+Category:  Fast 
+Exe:       Doom2.exe
+
+The times:      
+---------------------
+Map01            2:06
+Map02            3:18
+Map03            3:50
+Map04            2:10
+Map05            6:50 
+Map06            7:17
+Map07            9:50
+Map08            6:37
+Map09           21:38 
+Map10            5:59
+Map11           29:45 
+Map12            8:54
+Map13           33:16
+Map14           33:07 
+Map15           34:04 
+Map16           26:30 
+Map17           25:03 
+Map18           35:08 / 28:07
+Map19            5:32 /  4:06
+Map20           18:38
+Map21           12:57
+Map22           18:31
+Map23           ----- 
+Map24           30:19
+Map25            8:04 
+Map26           -----
+Map27           17:18 
+Map28           12:47 
+Map29           14:46 
+Map30           -----
+Map31           12:13 
+Map32            8:46 
+
+
+Author:    Chris "Ryback" Ratcliff
+Email:     ryback@maximumedge.com
+
+Comments:  
+
+Hmm, well this collection sort of came together at random. Some of these
+demos have appeared at the DSDA, some at COMPET-N. Some are all new! Can't
+remember which though. In any case, this represents every -fast HR level
+that has been done. Maybe I can give this PWAD a rest for now...
+
+Map01: Easy easy map. I've done it faster for COMPET-N since, though.
+       I was going to include that demo, but I couldn't find it on my HD...
+Map02: Complete timewaster. You have better things to do than watch this.
+       Record should be easy to get.
+Map03: Early demo. Improved this one for COMPET-N too, if they've
+       finally updated you can get it there...
+Map04: Really really annoying map. Have to cover shots from all angles
+       with little room to move.
+Map05: The slow, easy route. Don't remember a thing about this one.
+Map06: Never really liked this level. Demo is okay.
+Map07: Played the wimp route, not that you have much choice here. As
+       boring as they come. This is actually the record by 6 seconds,
+       but there's no way this shit is compet-n standard...
+Map08: Not bad. Anders has an unbelievable record here. Tough map.
+Map09: Ultra-tough start, harder than UV. But, just like UV, make
+       it to the megasphere and you're just about home.
+Map10: Messy.
+Map11: This is the current record. The start can be tricky. The rest is
+       as exciting as watching wet cheese go moldy.
+Map12: Anders' route, I think. If you're fast enough the Barons won't
+       wander. Stupid me forgot to wake up the cacos, and later on
+       Spider got me pretty good :)
+Map13: Not at all easy. Start is hard, and I'm so unfamiliar with the
+       later territory that I get tentative. But still a current record.
+Map14: First try- bit of a fluke, this one. Cybie was so helpful, killing
+       all those cacos and somehow missing me :)
+Map15: Living on the knife edge. A few mistakes, a few strange things...
+Map16: Infighting really helps on this level. Cause there's not quite
+       enough rockets. Old demo.
+Map17: I don't know how Peo managed to get the SSG straight off in his
+       run. Every time I tried it the mancubuses gave me a fiery death...
+       Rocket launcher is just as useful though :)
+Map18: The longer demo was my first successful run through the level.
+       The second just me pissing around.
+Map19: The 5:32 is crap, except for a nice Cyber kill. The 4:06 is
+       okay, would be hard for me to push it further - plus it equals
+       another recording on this level :)
+Map20: I like this one. Everything went according to plan :)
+Map21: Took a rocket near the end, but everything else was cool. This is
+       definitely the way to play this level.
+Map22: Killer start - I almost always die. After that, you get to do
+       one of two things: a) kills lots of enemies from a distance
+       with the rocket launcher; b) BFG a few Cybers. Nice how the spiders
+       get the attention of all the cybers so I can dispose of them
+       as a group...
+Map24: AFAIK, this is the first ever -fast recording of this level. Not
+       so hard when you know what to do. I knew I needed to get somewhere
+       safe early on - the Archvile ledge looked right for this. And the
+       invuln helps survive the first thirty insane seconds, as well
+       as getting the BFG. From then on it's just mopping up. Things would
+       go faster if you could get the blue key when invulnernable, but I
+       rarely managed this. Greater infighting means you'll be swamped in
+       ammo by the end.
+Map25: I'm no good at this level, but I love it.
+Map27: * The first Cybie is easy if you handle him right.
+       * I wimped out in the maze big time. Memo to self - BFG is not
+         an effective long-range weapon :)
+       * The ending! Freakin' Cyber wouldn't come out! Cross your fingers,
+         because I certainly was :)
+Map28: Ehh...
+Map29: Another Killer Start. Rest of the level is very pretty.
+Map31: Wimp route in the lift, the rest went well. Actually made the secret
+       exit... the wonders of strafe50 :)
+Map32: Heheh... damn you Anders :) I would have had this collection done
+       two weeks ago if it hadn't been for this level.
+       This was HELL to get. But I just sat down ten minutes ago, started
+       playing... and this came out. Things got hairy at the end... Don't
+       know if I killed all the Hel Knights, and frankly don't care - no way
+       am I going to do this again...
+
+

@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HC10-035.TXT
+
+HC10-035.ZIP
+
+HC10-035.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 10
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:35 *
+              ********
+
+
+Description:
+player 1: RaideR
+player 2: Method
+
+RaideR:
+hmm
+
+Method:
+Credits to erik and Torn
+
+
+Authors:      Ondrej "Raider" Vosatka
+	      Jakub "method_man" Razak
+
+E-mails:      raiderr@email.cz
+	      dale007@volny.cz
+

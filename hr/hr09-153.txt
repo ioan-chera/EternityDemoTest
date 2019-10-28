@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+HR09-153.TXT
+
+ HR09-153.ZIP
+
+  HR09-153.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 09 - Knockout
+
+  Kills     29 %
+  Items     35 %           ********
+  Secrets    0 %  and Time * 1:53 *
+                           ********
+
+  Description :-)
+
+  Just wanted to show a keygrab I found.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

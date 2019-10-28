@@ -1,0 +1,13 @@
+Player: Alexander Sushkov
+E-mail: sushkov@thsun1.jinr.ru
+Skill:  4 (uv)
+Fast:   Yes!
+Game:   Doom2
+Wad:    Hell Revealed (HR.WAD)
+Map:    31
+Time:   09:20
+LMP:    HF310920.LMP
+
+Credits to: id Software, all HR authors and players
+
+Special thanks to Yonatan for teaching me about "strafe50" :)

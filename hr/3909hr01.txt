@@ -1,0 +1,41 @@
+This is a Doom .LMP "Competition" Entry
+
+3009HR01.TXT
+
+ 3909HR01.ZIP
+
+  3909HR01.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file hr.wad -playdemo with version 1.9
+
+  Hell Revealed - Episode 1 - Max-Kill
+
+
+                            Time     Kills      Secrets 
+---------------------------------------------------------
+01 - Into the Gate          1:52      100%        100%
+02 - Gateway Lab            2:32      100%        100%
+03 - The Dumpster           2:43      100%        100%
+04 - The Garden Terminal    1:48      100%        100%
+05 - Core Infection         3:49      100%        100%
+06 - The Round Crossroads   4:26      100%        100%
+07 - Arachnophobia          5:21      100%        100%
+08 - The Jail               4:22      100%        100%
+09 - Knockout               7:35      100%        100%
+10 - Chambers of War        4:41      100%        100%
+---------------------------------------------------------
+Total                      39:09
+                          *******    
+
+
+Description:  I was working on this about 1 year ago, but I forgot to 
+              finish it. The first HR episode is very wasy to complete
+              on Maxkill. The problem is to get 100% kills on all maps.
+              This is 17min and 19sec faster than last record.              
+
+
+
+Author:    Radek Pecka
+E-mail:    r.master@email.cz
+

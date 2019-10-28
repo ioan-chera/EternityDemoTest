@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hr31-727.txt
+
+hr31-727.zip
+
+hr31-727.lmp - Ultra Violence max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD HRmus.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 31 - The Descent by Yonatan Donner
+  
+Kills    102%
+Items     75%    
+Secrets  100%  and Time  7:27 
+                
+                          
+Description:
+
+Surprisingly easy. Forth exit. I had first exit at first try with 7:53 and two spectres left. It's equal my last year time. Second exit was 7:48. Next day second exit 7:27. Still slow. Under 7 mins would be great to see. Route credit goes to Alexander. 
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+04.03.2004.

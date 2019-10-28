@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HT101521.TXT
+
+ HT101521.ZIP
+
+  HT101521.LMP 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 10 - Tyson style
+
+  Kills    100%
+  (Items   100%)          *********
+  Secrets  100%  and Time * 15:21 *
+                          *********
+                          
+
+  Description :-)
+  
+  After searching through the original TAS website I came
+  across this one and remembered that the level was very easy
+  and had a berzerk pack, so I tried it and indeed it was easy.
+  
+  Xit Vono
+  xit_vono@yahoo.com

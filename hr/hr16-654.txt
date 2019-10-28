@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR16-654.TXT
+
+HR16-654.ZIP
+
+HR16-654.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 16 - The Path
+
+Kills       46%
+Items       66%
+Secrets     50%
+
+              ********
+  and Time -  * 6:54 *
+              ********
+
+
+Description:
+
+Yeah yeah, 7 minute speedrun. Big whoop. But guess what? You don't know
+HOW many times I was killed by all those Mancubi guarding the Blue Key.
+So I had to come up with a new strategy instead of just rushing them all
+at once.
+
+This level is a great level, both in design and playability. It's just
+not suited for Speedrunning...
+
+I realized this would be possible once I found out what key did what and
+if it was needed...although both keys were necessary after I gave the
+map a thurough looking-over. This is a slow demo, I'm sure it could be
+faster...but I'm not sure how much...and it's a really difficult run to
+do in the first place. But I pulled it off, so enjoy ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+04.06.2002

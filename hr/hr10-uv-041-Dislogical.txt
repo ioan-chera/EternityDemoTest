@@ -1,0 +1,14 @@
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      10
+Skill:     4
+Category:  UV Speed
+Exe:       PrBoom.exe
+
+Time:      0:41
+
+Author:    Dislogical
+Email:     steftres@hotmail.fr
+HP:	   none
+
+Comments:  I get stuck by monsters everywhere, really need to do this run again.

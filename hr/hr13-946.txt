@@ -1,0 +1,47 @@
+This is a Doom .LMP "Competition" Entry
+
+hr13-946.txt
+hr13-946.zip
+
+hr13-946.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - HELL REVEALED 
+
+
+Kills:  107%
+Items:   ??% 
+Secret: 100%
+--------------
+Time:  09:46
+      -------
+
+
+Description: 
+
+12years ago in 1998 I was apart of a team making a demopack for this megawad. 
+I spend hours playing this map, over and over again. After a week of playing I made exits around the 17-18min mark. I dunno if it ever made me a better player but I had to give it up finaly. Peo Sjoblom made it to about 15min, which was fantastic given the standards back then. When coming back for this one to get revenege I couldn't belive I would spend time even loading it into doom. 
+I had to finish it for old times sake and make piece with it. First exit below 10mins. 
+
+Here is a list of my complains in no particular order:
+
+# Totaly in lack of any gameplay mechanics
+# Horrible design all over the place. 
+# Weapon balance in general, no BFG?, 25rockets in total?
+# Monster placements, placing two barons in their own respective towers? just   because its so fun having to chop down a gazillion hitpoints with cg or use 8   out of 25rockets on them? 
+# Gohost issues, how likely is it that a revenant is gonna be crushed under the   bluedoor? No rockets to kill ghosts with ? 
+# Too many luck based sitations all over. 
+
+As for this demo itself it's a first time exit under the 10min mark really. 
+Too much luck involved all over for this to ever be any fun. With some exceptional luck you can probably get this on at around 8min or something, even late 7 I guess but who cares :) I could never play this one for more than 1hour at the time, you just get tired. 
+
+As for previous demo submissions beeing done, I do not recognize them unless they are played under doom2 v1.9. There is no reason as to why a d2 1.9 compatible .wad should be played under diffrent circumstances. DosBox emulators gives no problem loading\running d2 1.9.exe anymore. 
+
+
+
+Date: 17.09.10
+
+Author: Henning Skogsto
+Email: skogstoe@gmail.com

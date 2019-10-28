@@ -1,0 +1,20 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      HR.wad
+Pwad name:      Hell revealed
+Map:      29
+Skill:      4
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      16:15
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+I love this map, music is just amazing, and despite I'm not so bad with
+BFG 9000 I like that in this map there isn't BFG and you have to kill
+all enemies with SSG or RL (keeping PR ammunition to fight twin cyber).
+My time is not the best I can do however trying to get a good time in
+this map takes a lot of time and tries which makes map tedious.

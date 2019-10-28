@@ -1,0 +1,12 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+PWad : Hell revealed
+Map : 27 - Cyberpunk
+Category : UV Max
+Exe : prboom 2.4.7
+Author : Mickaël GIRARD <psychokwak_86@hotmail.fr>
+
+Time : 14:02
+
+Comments : A slow and cautious UV Max run, as usual...

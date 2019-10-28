@@ -1,0 +1,118 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : 3743hr01.lmp & 3743hr01.txt
+Date     : 2016-02-16 04:21
+Game     : Hell Revealed
+Client   : doom2.exe v1.9
+Category : UV Max Movie
+Map(s)   : Map01-Map10
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : n/a%
+Secrets  : 100%
+Time     : 00:37:43.xx
+
+
+
+
+________________________________________________ _____________________
+| PWAD:          | hr                          | |  Kills     100 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | 3743hr01.lmp                | |  Items     n/a    |
+|________________|_____________________________| |___________________|
+| Category:      | UV Max Movie                | |  Secrets   100 %  |
+|________________|_____________________________| |___________________|
+| Map:           | MAP01 - MAP10               | |            _____  |
+|                |                             | |           /     \ |
+|________________|_____________________________| | and Time: |37:43| |
+| Exe/Port used: | Doom2 1.9                   | |           \_____/ |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 16.02.2016                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| Okay so I watched Radek's demo and it was all fiine... Until I saw |
+| that he was shooting that spider mastermind in Arachnophobia with  |
+| his rocket launcher... That seemed such a waste... so I recorded   |
+| this demo, rather poor quality, but at least that part was done    |
+| with a proper weapon. My exits include 39:06 with PrBoom+, 38:39,  |
+| then an illegal 37:48 in which the secret count in Map09 was 66%,  |
+| (3 secrets are really one secret so this was strange), and then    |
+| this demo.                                                         |
+|                                                                    |
+| From these maps, I like Map01 and Map09 a lot, Map03 also, but I   |
+| find the rest mediore to poor to atrocious (Map07, even though it  |
+| is the most challenging one, in which I died most after Map01 and  |
+| Map02 which I play riskier). In vanilla recording I can't see      |
+| anything in a flashing light dark tunnel in Map02 and in the       |
+| yellow key in Map09 some sprites disappear (invisible mancubuses). |
+|                                                                    |
+| Let's see the stats and finish with some quick commentary.         |
+|                                                                    |
+|                                                                    |
+| +-----+-------+-------+-------+                                    |
+| |Level|  vdgg | Radek | Diff. |                                    |
+| +-----+-------+-------+-------+                                    |
+| |  1  |  1:54 |  1:52 | +0:02 |                                    |
+| |  2  |  2:59 |  2:32 | +0:27 |                                    |
+| |  3  |  2:48 |  2:43 | +0:05 |                                    |
+| |  4  |  1:54 |  1:48 | +0:06 |                                    |
+| |  5  |  3:28 |  3:49 | -0:21 |                                    |
+| |  6  |  4:35 |  4:26 | +0:09 |                                    |
+| |  7  |  5:33 |  5:21 | +0:12 |                                    |
+| |  8  |  4:00 |  4:22 | -0:22 |                                    |
+| |  9  |  6:23 |  7:35 | -1:12 |                                    |
+| | 10  |  4:09 |  4:41 | -0:32 |                                    |
+| +-----+-------+-------+-------+                                    |
+| |Total| 37:43 | 39:09 | -1:26 |                                    |
+| +-----+-------+-------+-------+                                    |
+|                                                                    |
+| The start is slower and on Map02 I'm always slower no matter what. |
+| After Map04 I'm 40 seconds behind and then again 40 seconds after  |
+| Map07. BUT... I have 86 rockets and 308 cells at the beginning of  |
+| The Jail, while Radek 40 rockets ans 346 cells and this is the     |
+| point. The last three levels are much faster with this ammo.       |
+|                                                                    |
+| Map01 - The most efficient way to used rockets is on the cacodemon |
+| IMO, but I keep missing so I use it differently.                   |
+| Map02 - A mad rush to the SSG ends always with being killed due to |
+| infinitely tall actors. Radek somehow made it. I like my route     |
+| better though, it's funny to open the blue key door without the    |
+| key :) Also, the only 1% health moment is here.                    |
+| Map03 - I miss that rocket pickup from the crate room, a shame.    |
+| Map07 - It's plasma against the big spider and it's still slower   |
+| than Mr.Pecka... awful, awful, awful. I say the BFG from Map04     |
+| would be handy here against the arachnotrons ;)                    |
+| Map10 - Bad ammo management and route, I finish with unused cells. |
+|                                                                    |
+| Compet-N entry no. 144.                                            |
+|____________________________________________________________________|
+|             |       |                                              |
+| Old records | 61:21 | Opulent                                      |
+|             |       |                                              |
+|             | 56:28 | Altima Mantoid                               |
+|             |       |                                              |
+|             | 39:09 | Radek Pecka                                  |
+|_____________|_______|______________________________________________|
+|                                                                    |
+| My recording command line:                                         |
+| doom2 -file hrmus.wad hr.wad -nomouse -skill 4 -warp 1 -maxdemo    |
+| 999 -record xxxxxx                                                 |
+|                                                                    |
+| Playback with PrBoom+:                                             |
+| prboom-plus -file hrmus hr -playdemo 3743hr01                      |
+|____________________________________________________________________|
+
+

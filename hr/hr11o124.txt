@@ -1,0 +1,14 @@
+WAD: Hell Revealed
+MAP: MAP11: Underground Base
+Time: 1:24.80
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: September 27, 2013
+
+Cool map, for some reason a desire came over me to record a nomonsters
+demo for this beast. You can see that the demo is still somewhat sloppy
+in parts and that a couple seconds can be shaved with just better SR40
+running, but this is my best demo out of quite a few attempts, so that's
+what's here.
+
+--Doomdaniel95

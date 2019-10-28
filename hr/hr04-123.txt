@@ -1,0 +1,14 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      4
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      1:23
+
+-complevel 2
+
+Author:	   j4rio
+
+Chaingun used instead of ssg in the last hitscanner hall is really the only 
+thing I can think of that saved any time.

@@ -1,0 +1,34 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      01-08
+Skill:     4
+Category:  Max -fast
+Exe:       Doom2.exe
+
+Time:      
+
+Map01 --  2:08
+Map02 --  4:00
+Map03 --  6:19
+Map04 --  4:17
+Map05 -- 11:44
+Map06 --  9:20
+Map07 -- 11:58
+Map08 --  9:43
+
+Map10 --  8:47
+
+Author:    Opulent
+Email:     opulent@goodnet.com
+HP:	   http://www.goodnet.com/~opulent/doom2.htm
+
+Comments:  
+
+Most of these are not optimized at all.  Many of them were acheived on my first attempt.
+Once I got it, I moved to the next map.
+Forget Map09.  I don't think I can even do that without -fast.
+Even though the demo for Map07 doesn't look so great, it is easily the hardest of the bunch -- the rest are academic.
+

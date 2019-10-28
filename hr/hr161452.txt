@@ -1,0 +1,50 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+************************************************************************
+Game                    : Doom2.exe v1.9
+Pwad(s)                 : HR.wad (Hell Revealed)
+Style                   : UV Max 
+Filename                : hr161452.lmp
+Map Level(s)            : 16 
+Length                  : 14:52 
+
+Author                  : Anthony Soto
+Email Address           : neworderdatabase@hotmail.com
+Webpage                 : http://thefish.8m.com/
+************************************************************************
+
+Description             : 
+
+Honestly, I cannot believe this is slower then Chris Ryback's current
+COMPET-N record of 14:10. It's primarily the same route with a few 
+new approaches to a couple areas.
+
+1) IMO, The plasma/3 archie room is handled better. By teleporting back
+and forth you can get continual shots between the enemies on both sides.
+Instead of jumping off you can land 2 good SSG shots, then teleport back,
+etc. My aim was pretty shoddy at this part in this demo though.
+
+2) The red key area. Whereas Chris plays "ledge inspector" with the archvile
+I just jump in. In this demo I fail to get an infight between the arch and
+spider. Usually I can get them going and avoid a blast while I freeze the
+others. Then I proceed to release the hounds (barons)! Again, all things seem
+to have gone to shit in this demo and I have an awkward moment strafing for
+my life. I think this also saves 1 trip Chris makes from circling around.
+
+3) I use all my ammo. I don't understand how Chris could even exit with that
+much ammo. I might put myself in a bad situation if I run out but he just 
+stands to shave off another 20 or so seconds if he uses those 70 cells.
+
+4) No IDDT. It may sound stupid, but Chris clearly uses IDDT before he 
+exits. I don't know why: it's really not necessary on this level. He
+could have had it under 14 mins if he didn't stop. 
+
+All in all, I guess with these tricks a time of under 13 minutes could be
+achieved. The final cleanup went really bad for me. Who knows how much time
+I lost there (?). Perhaps Chris will see this and re-record? Otherwise, these
+new approaches are going to fall in oblivion . . .
+
+
+
+

@@ -1,0 +1,77 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+Please forward it...
+
+HR06-350.ZIP
+
+ HR06-350.LMP
+
+  HR06-350.TXT -UV MAX
+
+  Recorded using "DooM 2 v1.9 - Hell Revealed" ! (Complevel 2)
+  DooM2 -file hr.wad hrmus.wad -PlayDemo with Version 1.9*
+
+  Hell Revealed - Level Six - The Round Crossroads
+
+  Kills: 125 / 125 (100%)
+  Items:  11 / 13  (84%)            ********
+  Secrets: 2 / 2   (100%) and Time  * 3:50 *
+                                    ********
+  C-N entry #13.	Date:01/15/2012
+
+  Description :)
+  Wow, each time I think this is my last C-N entry I always surprise my self.
+  It was just less than a month ago when I submitted my PL11-244 demo... But
+  anyways, this was always one of my favorite maps across all DooM wads.
+  Hell Revealed and Alien Vendetta are the only PWADs that are on par with the
+  original Ultimate DooM and DooM II IWADs, sometimes, I even think they're
+  better. Like I said in the first sentence, this hit me as a surprise. I was
+  just revisiting one of my favorite maps and I got a UV-MAX time of 4:09 on
+  the first try. I thought this time was decent and then looked up the record,
+  only to find it to be 15 seconds less. I then knew I could break another
+  record so I went for it. Quickly I reduced my time by ten seconds with the
+  level clocking at 3:59, then after a few more tries, I scored a 3:50. You'll
+  notice that it takes me along time to exit the intermission screen, as I was
+  staring in awe at my achievement. Though once I clocked at 4:09, I knew I
+  could beat this record, I am still surprised that I manage to continue to
+  contribute demos to the COMPET-N database.
+
+  My third C-N entry was of this map, I had done a UV-Fast run in 5:05,
+  beating Anders Johnsen's record by three seconds. That entry was always my
+  favorite entry of mine, such an enjoyable demo on such a great map. Ahh God,
+  after reading my text file for my HF06-505 run, I see how immature I was
+  back in December of 2009.
+
+  One thing Anders Johnsen said in his text file for his HR06-354 run was that
+  this was "one ugly demo," but I can assure mine is uglier. When I played
+  back my demo, I could see how unpleasant this recording was. My movements
+  are jerky and my turning is just disgustingly hard to watch, as my hand was
+  shaking with adrenaline; but it certainly shows the struggle I went though
+  to achieve such a time. Beating Anders Johnsen by four seconds, even on a
+  demo like HR06-354, is not the easiest thing in the world. It's epically
+  not the easiest thing in the world when you know that your good friend who
+  lives four-thousand miles away could have her baby any time, and you're
+  just playing DooM so the stress and the worry of it all doesn't consume
+  your life to insanity.
+
+  I love you baby Alexzander, and I hope you have a beautiful life, a life
+  better than mine.
+								
+								
+  By the way, COMPET-N record was 3:54 by Anders Johnsen, timestamped:
+  Tuesday, May 16, 2000, 4:10:48 PM.
+
+  Note: Since this demo was recorded with HR.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/585/hr.zip
+        and pick it up if you havn't already :) 
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  *Recorded with just HR.WAD but then played back with both HR.WAD and
+   HRMUS.WAD.		
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

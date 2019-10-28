@@ -1,0 +1,30 @@
+       
+ 	********************************
+        * doom2 * HO08-038 * nomo 100s *
+        ********************************
+
+ HO08-038.lmp - nomonsters with 100% secrets
+   
+   HO08-038.txt
+
+     HO08-038.ZIP
+
+   doom2.exe -file hr.wad - playdemo ho08-038
+
+
+   Hell Revealed demo, map 08, nomonsters 100s
+
+      -----------------------------------------
+      - Kills     -   0%  -     ...final time -
+      -----------------------------------------    
+      - Items     -  33%  -           :38     -
+      -----------------------------------------
+      - Secrets   - 100%  -                   -
+      -----------------------------------------
+
+  Descripiton: 26 seconds down.
+  
+	 
+ 	Author:			 Jakub "DooMerMan" Machata
+        E-mail:			 DMrM@seznam.cz
+

@@ -1,0 +1,23 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/themes/hr/hr.zip
+           (Or mirrors...)
+Pwad name: Hell Revealed
+Maps:      24 - "Post Mortem"
+Skill:     5 - NightMare!
+Category:  Strolling (No running, no strafing, pacifist)
+Exe:       Recorded with PrBoom 2.2.4 with -complevel 0 (doom2.exe comp)
+Time:      0:34
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com
+
+Stats:     Kills    20%
+           Items    17%
+           Secrets  33%
+
+Comments:  
+
+Might as well do a NM strolling run as well. I hope Grazza sees this, because I know he attempted it back when we put together the original Strolling Collection, and he'd be delighted to see this map get pwned. This might actually be the first NM strolling demo? The predictability of the Arch-Vile blasts makes this run easier than the UV run actually, though the ending is still 100% luck, as you can easily get thrown around like a silverball in a pinball machine. 
+
+Kristian Ronge
+
+zuckuss@gmail.com

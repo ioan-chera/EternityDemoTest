@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR03-126.TXT
+
+ HR03-126.ZIP
+
+  HR03-126.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 03 - The Dumpster
+    
+  Kills     52%
+  (Items    61%)          
+  Secrets    0%  and Time  01:26 
+                        
+ 
+  Description: I think this is first using of straferunning backwards:-)
+               Strange, but its necessary for this trick. I am still
+               doing a lot of mistakes here, so really dunno how could
+               be the optimum...
+               I`ve discovered also one another trick here, great for 
+               max-kill. So before teleporting to yellow key step on the
+               lift to get it down and then go back, quickly jump down,
+               kill chaingunner, teleport, get the key and reach the lift,
+               which is still down. Saves about six seconds I guess.
+               PS: Do this level in pacifist style !!!
+
+
+Author:     Adolf "Gusta" Vojta
+E-Mail:     hita@seznam.cz

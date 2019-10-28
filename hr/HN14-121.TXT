@@ -1,0 +1,40 @@
+This is a Doom LMP Entry
+
+HN14-121.ZIP
+
+	HN14-121.TXT
+	HN14-121.LMP -- Nightmare Speed
+
+Recorded using GLBoom-Plus v2.5.0.8 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Resolution: 640x480
+Gamma level used during recording this demo: 4
+Capped framerate (which is much more convenient for me)
+HUD not used
+
+Hell Revealed -- Level 14 -- "City in the Clouds"
+
+=---+------+---=
+Kills        36%        
+Items        21%
+Secrets       0%
+                
+TIME        1:21	Old record: 1:37 by me
+=---+------+---=	TAS record: 3:09 by Esko Koskimaa			
+			
+Demo entry #101.
+
+Description:
+
+Another one of my old results bites the dust. One of my (many) beloved Hell
+Revealed levels, so I decided to give it a try for the third time (after 1:51 in
+2007 and 1:37 in 2010). No new tricks here, just much better general running
+(and also good fortune with the yellow key vile).
+
+NM100S would be an interesting challenge.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done November 26, 2011, 18:17:33

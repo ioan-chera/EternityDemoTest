@@ -1,0 +1,26 @@
+Pwad - Hell Revealed
+Map  - Map24 Post Mortem
+Type - Max UV (100/100/100)
+Port - Prboom-2.2.4 (Complevel 0)
+
+Kills   - 105%
+Items   - 100%
+Secrets - 100%
+
+Time    - 11:04
+
+Description -
+Well, at first I had a 11:09 maxdemo that I recorded with the Complevel 2 parameter set,
+but when I went back to watch it (after already mailing it to Opulent) I realized that the
+damn thing didn't work right.... Went out of sync right as the demo started.... Ohhh, but I
+was really, really pissed off... So I went and looked at the demo text files that came with
+the newest version of Prboom, and it seems that the Complevel 0 is the one that is used for
+doom and Doom 2 version 1.9.... Well, that would explain the weird things that happened in 
+the making of the other demo (archviles and chaingunners being stuck together and such)...
+That doesnt happen here... :) Okay, now I'm done with this map.... I love it to death, but
+am now sick of recording it.... Thanks for beating my times here Eugene, without your kick
+ass demos, this route would have remained hidden for a long ass time.... Oh and Doug, again
+thanks for the tips with the other demos I sent... They did pay off, by over a minute... :)
+
+Laters all,
+Richie Agnew

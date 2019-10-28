@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF31-646.TXT
+
+ HF31-646.ZIP
+
+  HF31-646.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 31 - The Descent
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 6:46
+                          
+                          
+  Description: This demo came about solely because I was browsing the DSDA and noticed 
+               that my time of 7:31 (which I haven't uploaded anywhere but youtube) 
+               was only 18 seconds slower than Yonatan's TAS time of 7:13. I was fairly
+               happy with the route I'd used in my last demo but thought it could be 
+               sped up if I managed to kill the first Cyber and release all the monsters
+               quicker - this is THE crucial determinant of a good time. It can be 
+               a little difficult to focus on this task early on because there's a lot 
+               spectres and chaingunners milling about and whether they come and check
+               on you seems to be an entirely random process. But eventually this run
+               came, things went smoothly after that, and the two main crowds of monsters
+               all went down fast. 
+
+               Some things go wrong - an incautious moment at a door costs me a rocket
+               flush in the face, and I didn't handle the AV fight well at all. But I
+               wasn't expecting to beat the TAS time by 27 seconds, so I'm happy enough.
+
+               UV time here is 7:04, and this is one of those HR levels where -fast 
+               *should* be faster - the initial two minutes in the descending room is
+               easier, and the infights later on work so much more to your advantage
+               with -fast. But you should be able to tell just from watching that 
+               this isn't close to an optimised time yet. There's about thirty 
+               seconds to be taken out without changing anything drastic with the 
+               route, so we'll see who's keen...
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

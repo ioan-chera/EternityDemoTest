@@ -1,0 +1,189 @@
+Opulent's Doomed Speed Demos Archive
+http://www.doomworld.com/sda/
+
+THE (IMPROVED!) HELL REVEALED -FAST COLLECTION
+
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      all, excepting (23, 26, and 30)
+Skill:     4
+Category:  Fast 
+Exe:       Doom2.exe
+
+The times:      
+---------------------
+Map01            1:41
+Map02            3:09
+Map03            2:41
+Map04            1:44
+Map05            4:54 
+Map06            5:21
+Map07            5:23
+Map08            4:35
+Map09           13:35 
+Map10            4:34
+Map11           22:18 
+Map12            6:55
+Map13           26:11
+Map14           16:44 
+Map15           15:07
+Map16           17:08 
+Map17           16:54 
+Map18           24:18
+Map19            3:13
+Map20           15:29
+Map21            6:40
+Map22           11:42
+Map23           ----- 
+Map24           22:45
+Map25            4:04
+Map26           -----
+Map27            9:04
+Map28            7:46
+Map29           12:24 
+Map30           -----
+Map31            8:27
+Map32            5:14
+
+
+Author:    Chris "Ryback" Ratcliff
+Email:     ryback@gmail.com
+
+Comments:  
+
+Okay, it's no secret that I like this megawad a lot. Some time back I
+started recording some new -fast demos in my off time, and somehow
+the idea arose that I should do an all-new -fast pack, improving all
+my times from my last HR demopack. Well lethargy and impatience
+eventually put paid to that idea, so some of the demos you'll see here
+are pretty old. But not many. And all the times from the first pack
+*have* been beaten. Quite a few of these demos are new records.
+
+About halfway through recording all these, I got a better computer.
+Unfortunately it has no DOS legacy sound drivers, so a lot of these
+demos were recorded without sound. Maybe you'll be able to tell which
+from watching - I don't remember which ones myself.
+
+In my last text file I wrote, "Maybe I can give this PWAD a rest
+for now..." Obviously that didn't turn out to be true :)
+
+Okay, the level comments!
+
+
+Map01: One of the 'older' demos here, this was a COMPET-N record
+       when I recorded it in 2001. Could obviously have been improved,
+       but it's a fairly boring level in my opinion. 
+Map02: This one I'm annoyed about. I recorded a nice looking 2:41
+       but stupidly managed to delete it, and instead you've got
+       to suffer with this crappy pile of shit. There is nothing
+       good to be said about this demo at all, and just releasing it
+       could be considered an act of premeditated cruelty.
+       Still, beats the time from my last pack.
+Map03: Another old demo, also a COMPET-N record when it was recorded.
+       Watching it again it seemed alright, and I didn't think I could
+       make much of an improvement on it again. So here it is.
+Map04: Would have been happy with a time under 1:40, but this will have
+       to do. It's surprisingly hard trying to push the time on this
+       level.
+Map05: There are no really good routes on -fast for this level,
+       and even taking things easily you're likely to take lots of
+       punishment. As you can see things are really on a knife-edge
+       in the early part of the demo, but it gets easier later.
+       Experimental playing at the end. It's a new record, but
+       nothing astounding.
+Map06: Going sort of on the Anders route, or at least how I remembered
+       Anders going. The start is nice and chaotic, but I wimp out later,
+       this should certainly go below 5 minutes. Not a bad level really.
+Map07: Damn, this level will teach you how to circle-strafe. When I first
+       tried it the fast route I died and died and died. Took a lot of
+       practice before I learnt the right techniques. Even so, it never
+       went as well as in this demo, where I somehow went the whole first
+       circuit without taking a single hit of damage. Rest of the demo is
+       fairly smooth, if too relaxed to be near record pace.
+Map08: I'm five seconds faster than Anders' excellent record here.
+       Mostly his route, some things different here, some the same there.
+       Risk of death is high throughout, and I run short of extra health
+       as the end approaches...
+Map09: I've just about gotten the hang of this level. As you can see,
+       my Tysoning skills are pretty shithouse, but fortunately you
+       don't need to do much punching in this level. And where you do,
+       there's often cover that can be usefully exploited (eg, where
+       I take out the imp and trooper group). Time is about a minute
+       slower than Xit's record, which given Xit's general Tysoning
+       excellence, I'm quite happy with.
+Map10: A new record. This felt really fast and snappy to record. The best
+       part of this level is the start, where you release a bunch of
+       monsters and absolutely anything can happen. Thereafter
+       it gets more reliable and you're not in much danger.
+Map11: My old record had to be improved, it was just so boring. This demo
+       could still be faster, mainly because the Cyber got distracted by
+       a nearby wall and started firing rockets into it, instead of the
+       Barons and Revenants above. 
+Map12: The BFG on the Barons went badly. Otherwise things went fairly well,
+       if a little strange at some points. New record.
+Map13: I thought I would be able to improve this one, first of all because
+       my time was barely any faster than Peo, secondly because I'd gotten
+       scared in that recording and slowed down in the second half.
+       Well, unlike most HR levels, this one doesn't get easier after
+       you've gotten through the first half or so. It's tense right
+       to the end, as this demo will certainly indicate :) Generally
+       my play was stronger here, and a few lucky accidents
+       allowed me to try some quick route speedups - eg the red key snatch :)
+Map14: Pretty happy with this. Just letting the monsters fight it out,
+       running through the route in the meantime. Jump to the BFG
+       worked straight off, there weren't any health scares. Time is
+       good, I think my last exit was around 24 minutes or so. 
+Map15: The product of several exits, at last I got one where events
+       worked in my favor. 3 minutes faster than Claudio.
+Map16: Bit of a superfluous demo this, only two minutes or so faster than
+       my last exit. Probably should have tried the max route here,
+       though I'm scared of the archie/spider pit.
+Map17: The start went very well, health in surplus and lots of infights.
+       Most situations were controlled well, although I was lucky to
+       escape the Archvile trap alive. The final stage was a little
+       strange though... I needed a way to quickly kill the Mastermind.
+       This worked, although it's somewhat chancy :)
+Map18: Demo is okay, though the time could have been better. I had the
+       idea of using the Cybie to clear out the revenants. As you can
+       see this saved me some ammo and I didn't have to fire a shot at
+       the Cybie, but maybe the time cost is too great? Anyway, happy
+       with the demo.
+Map19: Another oldie, this one from last year sometime. Claudio beat it
+       of course, and I don't think I can beat his :)
+Map20: This is actually the first demo recorded out of the new batch,
+       so you can blame this level. It's exactly the same as my last demo,
+       just faster. Beats the current (COMPET-N) record by half a minute.
+Map21: Another old demo. This is a fun level, but I decided my 6:40 was
+       too speedy to bother about beating again. 
+Map22: Used a different tactic at the start - if you rush the first
+       set of revenants with the BFG, then it gets slightly easier
+       from then on. Things went pretty smoothly here, though the last
+       lot of cybers took a while to die, and I forgot about the red
+       key...
+Map24: My first recording of this level was always too slow. Here
+       the time is at least competitive, but a few little things go wrong
+       and I don't play particularly aggressively. Under twenty minutes
+       shouldn't be hard,
+Map25: Last of the old demos. This is one of my hardest worked demos,
+       so I wasn't going to worry about improving it :)
+Map27: Another demo I'm very annoyed about. I have a couple of 7:30's
+       with 98 or 99% kills, the problem is that blasted bloody
+       imp teleporter. You just can't rely on it to work properly.
+       In this demo I waste more than a minute just waiting for
+       that imp nearby to teleport in. But the rest of the demo went
+       fine, so here it is.
+Map28: Played reasonably fast, but I'm not good at this level. You
+       actually have to memorise routes and play intelligently to
+       get a good time :)
+Map29: Wanted to get this one back from Claudio, it's really a good
+       level. Most of the run is solid, nothing spectacular, but
+       I forgot how to get the cybers teleporting in at the end, which
+       lost me about a minute. Nice exit though :)
+Map31: Start section is always chaotic and unpredictable. Thereafter
+       I just got relaxed and took things safe.
+Map32: It's a pretty good time, most of the improvement over Anders comes
+       from the fact that I don't keep going back to the first section
+       for cell ammo. (You don't need that much). Taking out those Archies
+       at the end is always luck based, here it seems easy.
+
+

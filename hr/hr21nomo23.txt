@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:     HR.WAD
+Pwad name: Hell Revealed
+Maps:    21
+Skill:     4
+Category: No Monsters
+Exe:      PRboom+ 2.5.1.4 cl2
+
+Time:     0:23
+
+Author:    Cyberdemon531
+Email:     cyberdemon@boun.cr
+HP:	   http://www.twitch.tv/cyberdemon531 
+
+Comments:  This map isn't terrible I guess, and this run is fine. 

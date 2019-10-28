@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hs31-219.txt
+
+hs31-219.zip
+
+hs31-219.lmp - Nightmare 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD HRmus.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 31 - The Descent by Yonatan Donner
+
+Kills       12%
+Items        0%    
+Secrets    100%  and Time  2:19 
+              
+                          
+
+Description:
+
+First exit.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+29.03.2004

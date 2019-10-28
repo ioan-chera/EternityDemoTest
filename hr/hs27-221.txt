@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NS27-221.TXT
+
+NS27-221.ZIP
+
+NS27-221.LMP - Nightmare with 100% secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 27
+      
+Kills       ?%
+Items       ?%
+Secrets     100%
+
+              ********
+  and Time -  * 2:21 *
+              ********
+
+
+Description :-)
+
+Well I saw Altima's demo and wondered if there were any major speedups
+possible. I couldn't manage to skip the archviles, though stx-vile says it's
+possible, more than once, so I went back to killing them. Couldn't dodge
+the yellow key cybie either. So it's just a small improvement gained through
+route tweaks and more aggressive running early on. Still a long way to be
+improved, but I don't feel like doing it :)
+
+Author:      Adam Williamson
+E-mail:      adam.williamson1@btinternet.com
+
+ 

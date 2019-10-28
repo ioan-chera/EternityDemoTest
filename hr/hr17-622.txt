@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR17-622.TXT
+
+HR17-622.ZIP
+
+HR17-622.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 17 - The Black Towers
+
+Kills       55%
+Items        0%
+Secrets      0%
+
+              ********
+  and Time -  * 6:22 *
+              ********
+
+
+Description:
+
+This is better than a 9:42 I had on this map. The first Mastermind
+would usually toast me before I could get anywhere in the level,
+and the infighting between the first Cyber and all those Barons is
+important. I had one time where the Cyberdemon took out all of the
+Barons, then took one rocket to die.
+
+Not really difficult, just...annoying at times. The ending didn't
+go like expected, I kept trying to get through the Hell Knights
+but I ended up killing most of them to get around the second
+Mastermind...
+
+In my opinion, the Yellow Key is easier to grab than the Blue Key,
+because the Blue Key area has the other 45% of the monsters ^_~
+
+Luckily, you only need two keys to exit ^_^
+
+On a side note, this demo desyncs with timer.exe ^^'
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+15.07.2002

@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hr201603.txt
+
+hr201603.zip
+
+hr201603.lmp - Ultra Violence max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD HRmus.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 20 - Judgement Day by Yonatan Donner
+  
+Kills    101%
+Items     96%    
+Secrets  100%  and Time  16:03 
+                
+                          
+
+Description:
+
+Heh, some improvement. Some alternations of Donner's original route. I've played slow. I got 5:2x with one left caca and 5:4x with a knight left in the teleporter that lead to the last yard. Now I feel too bored to wade through castle again after almost three months after first session. Have two other several seconds HR max beater, but seems I'll try improve them else.
+
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net

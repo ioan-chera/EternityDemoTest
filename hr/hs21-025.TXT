@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hs21-025.TXT
+
+ hs21-025.ZIP
+
+  hs21-025.LMP - NM 100%S
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Hell Revealed - MAP21 - Siege
+
+  Kills       6%
+  Items       0%           +++++++++
+  Secrets   100%  and Time + 00:25 +
+                           +++++++++
+
+
+  Description :)
+
+  I think I didn't lose much time with the late
+  drop to the bk hole, because if you drop well
+  you'd have to wait a little for it to rise
+  and there was no wait here.
+  I also think 24s on this run is gonna be much
+  harder than 23 on UV Speed or NM Speed 
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 4
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Operating System: Windows XP Professional SP3 (x86)
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  XP Sensitivity: 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Speakers: Stereo Speakers with the label 'HELIVM-Hi' on them

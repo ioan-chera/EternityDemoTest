@@ -1,0 +1,27 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HE10-333.TXT
+
+ HE10-333.ZIP
+
+  HE10-333.LMP - Ultra Violence -Respawn
+
+  Recorded using "DooM 2 - Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2 - Hell Revealed" 
+
+  Hell Revealed - Map10 - Chambers of War(?)
+
+  Kills    103%
+  (Items    66)         
+  Secrets  100%  and Time  3:33
+                           ----
+
+Description:   Well, barely faster than Anders' 3:44 Maxdemo.
+	       All those Barons can block your way.
+	       I had a 2:50 with 95% that looked much better, but I
+	       couldn't get close to that again.
+	       Thanks to Chris and Xit for the inspiration.
+
+Author:    Doug Merrill
+Email:     opulent@mindspring.com(temporary)
+HP:	   http://www.mindspring.com/~opulent/doom2.htm

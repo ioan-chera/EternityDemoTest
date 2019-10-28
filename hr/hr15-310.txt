@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR15-310.TXT
+
+HR15-310.ZIP
+
+HR15-310.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 15 - Gates to Hell
+      
+Kills       54%
+Items       66%
+Secrets     33%
+
+              ********
+  and Time -  * 3:10 *
+              ********
+
+
+Description:
+
+I still don't like this map.
+
+The normal exit is pretty straight-forward, just know where the doors and keys
+are and flip the switches behind the doors....and you're there, as long as you
+know where everything is it's not really that hard.
+
+The only thing that worries me on this map, taking the normal exit is those
+Cyberdemons. It makes going in those teleporters a little bit harder. Had a
+run end when one of those rockets went through the teleporter as I was going
+in it and I died -_-'
+
+Eh, as I said, I may not like this map but it doesn't mean I won't speedrun it
+^_^
+
+I wonder what I'll work on next...
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+06.07.2002

@@ -1,0 +1,28 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HR21-408.TXT
+
+ HR21-408.ZIP
+
+  HR21-408.LMP - Ultra Violence - Respawn
+
+  Recorded using "DooM 2.Exe"
+  DooM2 -PlayDemo with "DooM 2 -file HR.wad"
+
+  Hell Revealed - Map21 - Siege
+
+  Kills    104%
+  (Items    30)         
+  Secrets  100%  and Time  4:08
+                           ----
+
+Description:  easy.  3rd try.
+	      Chris had 122%...
+	
+	      I used the uv route to get the demons up.
+	      now, how about that -fast record...
+
+
+Author: Doug "Opulent" Merrill
+HP:     http://www.goodnet.com/~opulent
+E-mail: opulent@goodnet.com 

@@ -1,0 +1,13 @@
+************************************************************************
+Filename                : hr01_13.lmp
+Game                    : Doom2
+Pwad(s)                 : HR.wad
+Map Level(s)            : MAP01 speedrun
+Skill                   : 5
+Length                  : :13
+Author                  : opulent@goodnet.com
+Description             : killing the chaingunner in the start I think is
+			  faster, but I only could get 14 that way.
+
+Additional Credits to   : Donner, Niv, and all the demorunners for HR.
+************************************************************************

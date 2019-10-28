@@ -1,0 +1,78 @@
+------------------------------------------------
+||No Monsters Speed Movie of Hell Revealed||
+------------------------------------------------
+
+----------------------------------
+||This is a Tools Assisted Demo.||
+----------------------------------
+
+Filename:	hr6x234.lmp
+Game:		Doom 2 
+Pwad:		hr.wad
+Pwad Name:	Hell Revealed
+Skill:		Ultra-Violence
+Maps:		1-6
+Category:	No-Monsters (TAS)
+Time:		2:34
+Tools:		Xdre 2.0.6
+
+-------------------------------------------------
+
+Author:		SuperWeaponDude
+E-mail(s):	mailtosam95@gmail.com
+Exe:		PrBoom+ v2.5.1.4 -Complevel 2 + xdre 2.0.6
+
+-------------------------------------------------
+
+--------
+||TIME||
+--------
+
+
+-------------------------------------------------
+Map	-	Time		
+-------------------------------------------------
+
+01	-	00:06.71	
+02	-	00:09.97	
+03	-	00:30.60	
+04	-	00:24.34	
+05	-	00:49.91
+06	-	00:36.66	
+	
+--------------------------------------------------
+Total	-	02:34	 
+--------------------------------------------------
+
+----------------
+||COMMENTS||
+----------------
+
+Map 1 - 00:06
+--------------
+Just a few tics faster than existing dsda record.
+
+Map 2 - 00:09
+--------------
+I knew the glide could be a tad faster and the time could be a few tics less but i dont see the possibility of 8 here so i left it be.
+
+Map 3 - 00:30
+--------------
+Just a little change. I keep the door opened at the beginning. Saves a few tics i suppose. 29 or even 28 should be possible but i could only get this far.
+
+Map 4 - 00:24
+--------------
+Should have put more effort to get it to 23 but i felt i had to redo the entire level. I am pretty sure 23 is possible.
+
+Map 5 - 00:49
+-------------
+Got a 50.47 which i decided to improve. Threw a few rockets and here we go.
+
+Map 6 - 00:36
+-------------
+Ok run. Should be faster though.
+
+
+I guess this demo is not too bad for a first built TAS. Suggestions are welcome. If it wasn't for m07 i would've built all 30 (which would've been a lot of fun!).
+ 
+EOF

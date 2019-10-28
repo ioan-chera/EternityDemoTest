@@ -1,0 +1,30 @@
+       
+ 	********************************
+        * doom2 * HO10-032 * nomo 100s *
+        ********************************
+
+ HO10-032.lmp - nomonsters with 100% secrets
+   
+   HO10-032.txt
+
+     HO10-032.ZIP
+
+   doom2.exe -file hr.wad - playdemo ho10-032
+
+
+   Hell Revealed demo, map 10, nomonsters 100s
+
+      -----------------------------------------
+      - Kills     -   0%  -     ...final time -
+      -----------------------------------------    
+      - Items     -  33%  -           :32     -
+      -----------------------------------------
+      - Secrets   - 100%  -                   -
+      -----------------------------------------
+
+  Descripiton: 13 secs down.
+  
+	 
+ 	Author:			 Jakub "DooMerMan" Machata
+        E-mail:			 DMrM@seznam.cz
+

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hr241315.txt
+
+hr241315.zip
+
+hr241315.lmp - Ultra Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD HRmus.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 24 - Post Mortem by Yonatan Donner
+  
+Kills    107%
+Items    94%    
+Secrets  100%  and Time  13:15 
+                
+                          
+
+Description:
+
+I've never got under 18 mins with Angew's route. Here, I let cybies and mancubi do anything what they want. Guess, using this route, some players can cut down the time under 10 mins. But the route is heavily depended on cybies-mancubi score.
+
+Special thanks Yonathan Donner for outstanding level, all players that recorded demos for this map before me and Eternity team for outstanding engine. I've extensively used walkcam feature to learn the most beneficial infights.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net

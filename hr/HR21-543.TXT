@@ -1,0 +1,28 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HR21-543.TXT
+
+ HR21-543.ZIP
+
+  HR21-543.LMP - Ultra Violence - Respawn
+
+  Recorded using "DooM 2.Exe"
+  DooM2 -PlayDemo with "DooM 2 -file HR.wad"
+
+  Hell Revealed - Map21 - Siege
+
+  Kills    122%
+  (Items    10)         
+  Secrets  100%  and Time  05:43
+                           -----
+
+Description:  Well, let the mad HR respawn rush begin! Some maps will
+              are plainly impossible, like 07, but there are probably
+              quite a few that can be done this way. The trick here is
+              to get to the end and let the monsters do your work for
+              you...
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com    

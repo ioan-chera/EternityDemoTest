@@ -1,0 +1,51 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hn24-019.TXT
+
+ hn24-019.ZIP
+
+  hn24-019.LMP - Nightmare Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Hell Revealed - MAP24 - Post Mortem
+
+  Kills      22%
+  Items      29%           +++++++++
+  Secrets    16%  and Time + 00:19 +
+                           +++++++++
+
+
+  Description :)
+
+  The arachnatrons are deadly in NM
+  This is just a lazy demo, but it shows it's
+  possible to do this route without invul
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 4
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Operating System: Windows XP Professional SP3 (x86)
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  XP Sensitivity: 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Speakers: Stereo Speakers with the label 'HELIVM-Hi' on them

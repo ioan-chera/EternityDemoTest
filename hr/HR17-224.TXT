@@ -1,0 +1,42 @@
+This is a Doom LMP Entry
+
+HR17-224.ZIP
+
+	HR17-224.TXT
+	HR17-224.LMP - UV Speed
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 17 - The Black Towers
+
+=---+------+---=
+Kills        41%
+Items        20%
+Secrets      50%
+ 
+TIME     2:24.50	Old record: 3:46 by Tatsurd-Cacocaco
+=---+------+---=
+
+Demo entry #70.
+
+Description:
+
+Extremely great map for the 17th stage of HR's progression. Terrific visuals,
+truly HRish structures and color combination. Also, this music track is my
+favorite in the megawad (together with the one on MAP11) -- it fits the
+atmosphere of Hell Revealed extraordinarily well.
+
+This level is really crowded (with a total monster health over 100000%), and 
+unfriendly for speedrunning, but still a fun challenge. Cameron Prosser's TAS
+pacifist time is 1:04, and his run is still imperfect, but I can't follow his
+route in a real demo -- there is practically no chance of surviving the blue
+key building at his speed in a single attempt, for me at least. I also suck at
+glides, and almost can't perform this particular red key grab, so here is a run
+without any shortcut tricks :-) It's also done using only the rocket launcher.
+First exit.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done November 26, 2010, 17:44:02

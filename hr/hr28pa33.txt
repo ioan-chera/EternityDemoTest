@@ -1,0 +1,21 @@
+************************************************************************
+Filename                : hr28pa33
+Pwad(s)                 : Doom2 -- hr.wad 
+Map Level(s)            : MAP28
+Length                  : :33
+skill			: 4 pacifist
+
+Author                  : Doug Merrill
+Email Address           : opulent@goodnet.com
+Misc. Author Info       : http://www.goodnet.com/~opulent/doom2.htm
+
+Description             : they say on their page that it isn't optimized,
+			  so I thought I'd see how quick I could do it.
+ 			  Another less-than-optimized Selim demo.
+			  A combination of 3 archvile jumps, the 
+			  wall-hugging near the barons, and strafe50
+			  could drop this to :28.  I know that 33 is my
+			  limit.  good luck beating it.
+
+Additional Credits to   : Selim and the TAS demo team.
+************************************************************************

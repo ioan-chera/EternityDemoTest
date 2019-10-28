@@ -1,0 +1,40 @@
+This is a Doom.lmp - Please forward it.........
+
+****************************************************
+* HR-19-344.zip                                    *
+* HR-19-344.txt                                    *                           
+* HR-19-344.lmp - UV Max                           *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.8(-Complevel 2) *
+****************************************************
+
+Hell Revealed map19 - Everything Dies(UV Max)
+
+****************
+* Kills:  100% *
+* Items:  100% *
+* Secret: 100% * and time 3:44
+****************          ====
+
+******************************************************************************************************************
+
+Comments:
+
+As what the name suggested, to exit this map, you need to have everything dies, including lost souls.
+
+This is not a hard map, it's short and fun. The only hard area is the cyberdemon court, the other areas are just
+relatively easy. And this is the most important, no matter you are doing UV Max or UV-Fast. You need to make sure
+that everything dies before exit!!! This is for sure, the map name already tells you.
+
+Time can surely be improved, below 3 minutes can be possible.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 09/06/2011 in People's Republic of China

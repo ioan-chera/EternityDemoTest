@@ -1,0 +1,41 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad + hr28.wad
+
+doom2 -file hr.wad hr28.wad -timedemo hr282542
+
+Maps:      28 altered
+Skill:     4
+Category:  Max 
+Exe:       Doom2.exe
+
+Time:      25:42
+
+Author:    Opulent
+Email:     opulent@goodnet.com
+HP:	   http://www.goodnet.com/~opulent/doom2.htm
+
+Comments:  
+
+Well, I hope no one is upset about this.
+
+This is map28, extracted, then modified.
+Only changes are all multi-player only items are now in single
+player too.
+
+I had this idea as a HR anniversary contest... 
+but several things stood in my way:
+1) most of the maps don't have multi-player items.
+2) most of the maps are actually easier with the added monsters
+(try map07 if you don't believe me)
+3) I can't play the real maps, much less the harder versions.
+
+so this very poor example demo is the result.
+First try on the new version, so I run around trying to figure out where to use my ammo...
+
+(Initially, I wasn't going to re-add all the megaspheres, but then it wouldn't be Yonatan's incarnation, so I made a straight modification.)
+
+ps. Where's HR2? 
+

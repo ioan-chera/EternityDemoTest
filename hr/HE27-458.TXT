@@ -1,0 +1,26 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HE27-458.TXT
+
+ HE27-458.ZIP
+
+  HE27-458.LMP - Ultra Violence - Respawn
+
+  Recorded using "DooM 2.Exe"
+  DooM2 -PlayDemo with "DooM 2 -file HR.wad"
+
+  Hell Revealed - Map27 - Cyberpunk
+
+  Kills    152%
+  (Items    12)         
+  Secrets  100%  and Time  04:58
+                           -----
+
+Description:  Okay, this can go a little faster :)
+              Probably you only need to visit the imps once. And
+              taking the BFG direct would save time too.
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com    

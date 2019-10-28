@@ -1,0 +1,70 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF232114.TXT
+
+ HF232114.ZIP
+
+  HF232114.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 23 - Ascending To the Stars
+
+  Kills    103%
+  Items     ??%           
+  Secrets  100%  and Time = 21:14
+                          
+                          
+  Description: I only seem to record demos because of discussion at Doomworld these days :)
+               There was talk a couple of days ago about all the Compet-N levels that 
+               were still undone on -fast, and it got me thinking about this level again. 
+               I've wanted to get it done on -fast for quite a long time, but nothing about 
+               the level appealed in terms of sitting down and working out how to do it. 
+               It would have to have some of the most monotonous sequences of any HR level.
+               Just at the opening you're immediatley thrown into a tedious war of attrition, 
+               you and a shotgun versus nearly a hundred imps. And it doesn't get any 
+               friendlier after that. 
+
+               But playing through the level yesterday I realised the fast max route is 
+               very possible on -fast, and in fact easier than trying to play safe. You
+               still have to clear out the imps from the first room, but the whole sequence 
+               up to the Spiderdemon can be run through, and it's much easier to do this 
+               than, say, running the opening of HR13. The level can still smack you hard
+               for a moment's lack of concentration later on, but at least it's not boring
+               anymore.
+
+               The central problem is of course the chaingunner trap, and it's what the whole
+               route is designed around. My aim is to get in there with 200/200, since if you
+               enter the room with a normal 100 health you'll be dead before you even get a 
+               chance to jump off the pillar. Plus there's the small matter of taking damage
+               so rapidly it literally becomes impossible to see through the red haze. 
+               After experimenting a bit, my strategy became to run forward - this seems to
+               maximize the chance of infights - kill the chaingunner in front, then run
+               clockwise round the inner walls of the room, mopping up the chaingunner ring
+               one by one as I bumped into them. This turned out to have a better than one 
+               in two chance of success.
+               
+               Yesterday I managed to get as far as the final arch-vile room, whereupon 
+               Doom had a venetian blinds crash. This morning at 7:15 or so, unable to
+               sleep with a pounding hangover, I got an exit in 25:23. (I recommend Doom 
+               as a hangover cure - concentrating on the game distracts your brain from
+               worrying about itself). Watching that again it looked much too cautious, 
+               so this is my second exit. Which I'm happy with. A time under Peo's TAS
+               is very achievable here - just with more efficient ammo usage, no need to
+               even alter the route - but I'll leave that to someone else.
+
+               Some other notable stuff in this demo:
+
+               * At five and a half minutes in, I take an Arch-vile blast with only 43% health,
+                 but it only knocks me down another twenty points. I think it's because the
+                 majority of the blast detonated inside the voidspace next to the door.
+               * The second Hell-Knight at 14 minutes in was a complete surprise to me.
+                 I still have no idea where that guy had been hiding.
+               * Yes, I was very lucky not to die at the yellow key door. The concentration
+                 just slipped for a little bit there.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

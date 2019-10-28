@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hr31s205.txt
+
+hr31s205.zip
+
+hr31s205.lmp - Ultra Violence speed (secret exit)
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD HRmus.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 31 - The Descent by Yonatan Donner
+  
+Kills      2%
+Items      0%    
+Secrets   20%  and Time  2:05 
+                
+                          
+Description:
+
+First try tonight.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+30.03.2004.

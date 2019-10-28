@@ -1,0 +1,31 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HR10-041.TXT
+
+ HR10-041.ZIP
+
+  HR10-041.LMP - Ultra Violence
+
+  Recorded using "DooM 2 - Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2 - Hell Revealed" 
+
+  Hell Revealed - Map10
+
+  Kills    ??%
+  (Items    ??)         
+  Secrets  ???%  and Time  00:41
+                           -----
+
+Description:  Well, I rarely play these days, so I decided to make a demo
+              for fun :) Now I can see how much my skills have decreased
+              (though this was one of my ugliest tries .. funny that the uglier
+              is the demo, the faster it is ;). Anyway I'll try to make a better
+              one, and Waldon told me he'd try it too :)
+
+Note: 		Since this demo was recorded with HR.WAD, I suggest you drop
+                by at http://www.geocities.com/Hollywood/4704/ and pick it up
+                if you havn't already :)
+
+
+Author:    Selim "Bastard" Benabdelkhalek
+E-mail:    wmrselim@yahoo.fr    

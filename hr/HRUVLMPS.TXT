@@ -1,0 +1,354 @@
+Hell Revealed UV lmp collection
+-------------------------------
+
+Recorded by Daniel Lindgren, Kai-Uwe Humpert, Peo Sjoblom and Yonatan Donner.
+
+This is a collection of recorded demos (lmps) for all 32 levels of Hell
+Revealed. All lmps were recorded on skill 4 (Ultra-Violence), ending with at
+least 100% kills and 100% secrets.
+
+To playback these demos, put them in your doom2 directory and type:
+doom2 -file hr.wad -playdemo hr??-uv
+
+?? is the level number.
+
+The Hell Revealed files are available from:
+ftp://ftp.cdrom.com/pub/idgames/themes/hr/
+
+And the Hell Revealed homepage is: http://www.geocities.com/Hollywood/4704/
+
+Here is a quick table listing all lmps - detailed descriptions come later.
+
+Level  Level Name		Recorded by	      Time
+-----  ----------		-----------	      -----
+ 01    Into the Gate		Yonatan Donner	      02:50
+ 02    Gateway Lab		Yonatan Donner	      03:24
+ 03    The Dumpster		Yonatan Donner	      03:36
+ 04    The Garden Terminal	Yonatan Donner	      02:17
+ 05    Core Infection		Yonatan Donner	      07:07
+ 06    The Round Crossroads	Yonatan Donner	      07:57
+ 07    Arachnophobia		Yonatan Donner	      05:53
+ 08    The Jail 		Yonatan Donner	      09:08
+ 09    Knockout 		Yonatan Donner	      23:37
+ 10    Chambers of War		Yonatan Donner	      08:16
+ 11    Underground Base 	Peo Sjoblom	      33:45
+ 12    Great Halls of Fire	Peo Sjoblom	      10:15
+ 13    Last Look at Eden	Peo Sjoblom	      34:46
+ 14    City in the Clouds	Peo Sjoblom	      39:39
+ 15    Gates to Hell		Yonatan Donner	      30:34
+ 16    The Path 		Yonatan Donner	      27:51
+ 17    The Black Towers 	Peo Sjoblom	      28:01
+ 18    Hard Attack		Peo Sjoblom	      41:44
+ 19    Everything Dies		Yonatan Donner	      04:15
+ 20    Judgement Day		Peo Sjoblom	      27:11
+ 21    Siege			Yonatan Donner	      26:28
+ 22    Resistance is Futile	Daniel Lindgren       14:09
+ 23    Ascending to the Stars	Peo Sjoblom	      34:36
+ 24    Post Mortem		Kai-Uwe Humpert       18:50
+ 25    Dead Progressive 	Kai-Uwe Humpert       05:00
+ 26    Afterlife		Kai-Uwe Humpert       45:02
+ 27    Cyberpunk		Yonatan Donner	      23:18
+ 28    Top Hell 		Yonatan Donner	      13:19
+ 29    Temple of Fear		Peo Sjoblom	      15:40
+ 30    Hell Revealed		Yonatan Donner	      01:02
+ 31    The Descent		Yonatan Donner	      17:20
+ 32    Mostly Harmful		Yonatan Donner	      07:42
+
+Descriptions
+------------
+
+The descriptions were written by the team member who recorded the map.
+
+HR-01 - Into the Gate
+---------------------
+I let some monsters fight each other and punched some demons and ended up
+having lots of ammo.
+
+Something is hidden in this level, which is not revealed in the infopack and
+not counted as a secret, so I don't show it here... see if you can find it!
+
+HR-02 - Gateway Lab
+-------------------
+One of my earliest levels, I still like it. There are no difficult areas.
+
+HR-03 - The Dumpster
+--------------------
+Another of my earliest levels. Very easy. In coop it's possible to take the
+yellow key early.
+
+HR-04 - The Garden Terminal
+---------------------------
+My part of the map is the garden (the start of the level), Haggay's part is
+The Terminal (the area after you teleport). It's very easy.
+
+HR-05 - Core Infection
+----------------------
+Some people think it's too complex, I find it very simple though. I take the
+plasmagun here in the easiest way, thanks to John Keniry for the idea. I
+designed it to be taken in another way, but this is easier.
+
+HR-06 - The Round Crossroads
+----------------------------
+Another of the early creations, easy.
+
+HR-07 - Arachnophobia
+---------------------
+The first tough map in Hell Revealed, this is an old map by Haggay (edited
+by me) which was made more difficult. No need to hide from the spiderdemon,
+his aiming is very bad :)
+
+HR-08 - The Jail
+----------------
+Haggay's earliest map. The bodies can block the way, and if you want to save
+ammo, you can crush barons.
+
+HR-09 - Knockout
+----------------
+This is very tough. There is hardly any ammo, so punching is necessary. My
+punching here is ok. The most critical area is the 128 imps fight. (Yes,
+there are 128 imps teleporting after you take the yellow key. Don't believe
+me? Count them.)
+
+Try to do it in full Tyson style!
+
+HR-10 - Chambers of War
+-----------------------
+Another early level of Haggay, I like it, especially the outside area with
+the hedgemaze. Quite easy.
+
+HR-11 - Underground Base
+------------------------
+A pretty straight forward map that probably looks harder than it is. There
+are plenty of areas with natural shields and the 3 Cyberdemons and the
+Spiderboss are not that difficult. The most difficult monsters are probably
+the Archviles. My favourite part is the wooden towers with the lifts in the
+first Cybie area, beautifully designed. The only tip I can give is to use the
+Cyberdemon as an extra weapon in the bfg room..
+
+HR-12 - Great Halls of Fire
+---------------------------
+This map is the easiest of the maps I recorded and most maps after this are
+pure hell. Things can still go wrong, especially in the room with some
+Barons/Hellknights and Archviles. There is only one 100% armor and one
+soulsphere so conserve your health. I really like the part where (I think
+there are 9) some Barons come out from the marble walls one after another
+and you only have the time for maximum 4 ssg shots before getting attacked
+by the next..
+
+HR-13 - Last Look at Eden
+-------------------------
+The first real hard map I did from HR. It kept me busy for a long time
+until I managed to record it in 56 minutes something. This is about 20
+minutes faster than my first lmp. The best way to to finish the first room
+is to open the door, avoid the revenants and let the Archvile in, then try
+to make the other monsters kill him. The second room is fairly easy if you
+not rush it, don´t try to run for the supershotgun, it is no idea without
+any armor. Next real hard part is the blue key that is in a cage that will
+lock you in for 30 seconds while a bunch of monsters are released. Try to
+get the Chaingunners killed first, then the Revenants since they are the
+most dangerous in the situation you are in. When the door unlocks and you
+still have a fair amount of health left there are no problems. The end is
+pretty easy, the Cyberdemon will kill the Archvile and you will kill the
+Cyberdemon.
+
+HR-14 - City in the Clouds
+--------------------------
+Wonderful map to play but oh so hard. It has some very nasty Cyberdemons in
+close combat and a vicious yellow key trap. The design is lovely. Some
+tips: Make the first Cyberdemon busy by fighting other monsters, on this
+lmp he actually gets killed by them, mainly from the Arachnotrons I believe
+since they are very effective monster killers. I have only made this map
+twice in many tries, so I recommend an easy difficulty setting unless you
+are very skilled. Some parts of this lmp aren´t probably exciting to watch
+but they are needed for survival. You should really try to create
+monsterfights because there are many willing combatants. It has a very hard
+jump which takes a near perfect strafe run or a strafe on run to make, plus you
+have to stop right away when you have reached the first ledge, it took me
+over a minute of trying in this lmp. Fastest way of making this map would
+probably be to create some disturbance in the midarea, take the
+invulnerability and get the rocketlauncher, jump to the blue key and get an
+archvile hit that throws you back on the ground, that will of course mean
+that you will face a Cyberdemon without protection in a tiny room. It is
+possible but I chose the safer way..
+
+HR-15 - Gates to Hell
+---------------------
+This is the first lmp of a hard level which I recorded with the mouse, I
+switched from keyboard control shortly before it. So forgive me for any bad
+playing, aiming, maneuvering and all the other stuff. I let one cyberdemon
+kill many of the imps, because killing them myself takes a lot of time and
+ammo. I leave through the secret exit.
+
+HR-16 - The Path
+----------------
+I used to find it very hard, but with the radiation suits it's not too bad.
+The amount of rockets I fire in my own face is probably a world record :)
+
+HR-17 - The Black Towers
+------------------------
+Probably the the third easiest of the episode 2 maps (10-20). The beginning
+can be a bit chaotic with only a rocketlauncher against tons of Barons but
+I try to get the ssg as soon as possible (I just love that weapon). The
+hardest part is probably the blue key house. The Cyberdemons can be tricked
+to stay at the door of the start area and can thus be easily dealt with..
+The only tip I can come up with is to spare the Sergeant that stands close
+to the Spiderboss downstairs in the yellow key area, since he locks the
+spider, so first kill the spider and then the soldier..
+
+HR-18 - Hard Attack
+-------------------
+This map has 143 Revenants! That will tell you a bit about the difficulty.
+I have 2 favourite areas, first the megasphere area with some beautiful
+effects in the darkness, check it yourself, it is close to the start! Then
+the large area with 2 Spiderbosses, beautiful, it is not very easy to get
+that far though! The tip is just to try to stay alive ;-). Oh yes, it has a
+pretty scary start if standing next to a Cyberdemon is scary.
+
+HR-19 - Everything Dies
+-----------------------
+Since the only health and ammo are in the start, you might think that
+careful playing is necessary. But it's not, this lmp is the proof.
+
+BTW, the end was meant to create an "end of the world" feel, I hope it works
+:)
+
+HR-20 - Judgement Day
+---------------------
+Pretty hard map with some typical Yonatan traps, like an angry Archvile
+that appears when you take the rocketlauncher. This map is also made for
+creating monsterfights. The Cyberdemons are hard here and it doesn´t feel
+safe until the exit area, which has the neccessary space to control the
+game. It has a nice invisible bridge just before an Archvile trap.
+
+HR-21 - Siege
+-------------
+The start is easy, but the end, which is one of my favorite areas ever, is
+very hard. If Haggay had put some more cells there, I wouldn't have hidden
+so much while fighting the cyberdemons. But as it is, the end is very
+boring.
+
+HR-22 - Resistance is Futile
+----------------------------
+Thanks for a VERY good wad Yonatan, this is extacly the kind of wads I like..
+Took me some hours to make this one, once you've learned the level and found a
+good route it's a lot easier though.. My first complete 100/100 recording was
+at 42 min... However, I thought it was kind of slow so... I made it again..
+faster. I think one should save the plasma for the Cyberdemons, mainly because
+they can take almost 50 rockets and it's quite dangerous to use rockets only
+(sooner or later you make a mistake when using rockets).. Compared to level 32
+Plutonia and Punisher.wad I think it has the same
+"can't-stop-playing-this-level" feeling.. I don't know if it's harder but it's
+still very hard if you don't know extacly what to do.. Personally I think this
+is the most enjoyable wad of the ones you've made Yonatan, it's maybe not the
+hardest but it's easily the one that is the most fun to play..
+
+HR-23 - Ascending to the Stars
+------------------------------
+Ascending to the grave would be a better name for me ;-) I have died in
+every possible way and place on this map. It is such a hard map but also
+one of the most beautifully designed maps I have seen. I have made it twice
+in many, many tries (cannot count them all). The only trick is to be agile
+and to take a lap in the red key area to snap the key and teleport out of
+there again, then some Cyberdemons might get killed by all that autoplasma.
+3 very nasty traps are the Chaingunner lift, the lift to the radioactive
+room and the lift to the Cyberdemons/pigs room a. Just try to survive.. The
+end looks awesome but is not that difficult if you time it right (Open the
+door, fire 2/3 rockets and teleport away, repeat).. Goodluck!
+
+HR-24 - Post Mortem
+-------------------
+Hope I missed no monster, I've checked with IDDT, some Lost Souls out of the
+map was all I've seen. Had some luck at the red door, but this way is best :)
+Have the Cyberdemon fire at the Mancubus make meanwhile a 2 BFG kill.
+Sometimes I killed the teleporting Spiderboss with only one shot, maybe 1 out
+of 4. The time improve-ment is caused by the better handling of the Pain
+Elementals and the (long lasting) internal fight Archviles vs Cyberdemon on the
+bridge. And of course the monster-mix near the exit. I tried to have the
+arachnotrons there too, but it was nearly impossible to clean out the red
+key area then. I wonder who killed the second Spiderboss there. So, think
+it's a nice map, but I'll stop now playing it. Dunno if this time will ever
+be improved, since I am still the only player for it ... I hope that
+changes. Everything less than 30:00 is really good here.
+
+HR-25 - Dead Progressive
+------------------------
+Not that I don't care for Revenant missiles anymore, but have a friendly
+Cyberdemon at one of the Imp teleport exits. As I checked with iddt I realized
+that the second Cyberdemon was very close as I decided to step onto the
+Supercharge. It was the first time I released the Cybies to this side, because
+they didn't spend many rockets if they were on the other one. I don't know if
+something still can be improved here, I doubt it (but maybe Yonatan has got
+another idea?). I like the time.
+
+HR-26 - Afterlife
+-----------------
+Spent the last 3 days for that map, because I knew it isn't that difficult.
+But sometimes I can't wait and catch rockets, get ghost in the blue/black rift,
+or die with 4 Supercharges left at the 4th teleporter in the green area. Or
+simply the last ghosts won't come, because I missed a line. A few times it
+happened that I got both backpack and SSG alive, without teleporting to the
+chessboard, so I could run for the rifts first. I succeed to take the backpack
+in one tenth that safe, I survive another half. It's important to move away
+from the door a short time after you've opened it, the Archies would else
+immediately attack you and prevent you from taking the backpack. And, at last,
+I got a perfect attempt with the ghost at the end, shot rockets like here,
+retired, and teleported, hurt myself to 60% health, and did that again and
+died. Man, I can't tell you how frustrating that was. I thought of keeping
+a Cyberdemon to have some rockets for the ghost if the boxes were not enough,
+but there is really a lot of ammo. Okay, NOW I'll never play that map again.
+
+HR-27 - Cyberpunk
+-----------------
+Haggay's latest level. An easy start if you use the radiation suits, but the
+labyrinth can be very hard. I tried several times to kill the cyberdemons
+closely and kept dying, this lmp is the result. Tons of hiding and SSG usage
+from far range in there, it must be one of the most boring lmps ever. But an
+additional megasphere would have really helped me - I told Haggay that, but
+he didn't listen :)
+
+HR-28 - Top Hell
+----------------
+My favorite of Haggay's maps. This underground city looks hard but it isn't,
+see how much health I leave behind. I think my way of killing the cybies is
+the easiest (and no cells are wasted if it's done right).
+
+HR-29 - Temple of Fear
+----------------------
+This is probably the easiest of the last 10 maps together with map 25. It
+has a very nice design. The start is quite hard though and you need some
+luck with the Archviles. The rest is very enjoyable if not that hard.
+
+HR-30 - Hell Revealed
+---------------------
+I heard people saying this it too tough. But the key here is speed - destroy
+the megademon quickly, or you will stand no chance. I let the revenants hit
+the cyberdemon so he'll be occupied. 100% kills doesn't mean a lot here, but
+I got it anyway.
+
+HR-31 - The Descent
+-------------------
+Yes, there is a trick to avoid fighting in the lift. But I didn't use it.
+This is the way to do this level, fight it out in there. The ammo in the
+start is essential if you start from scratch. It's easy to die because
+there's no armor, but I wanted it to be hard. I leave through the secret
+exit (jumping on the columns isn't easy).
+
+HR-32 - Mostly Harmful
+----------------------
+This is an extremely tough level, also the one in which I implemented the
+most tricks (the bridges you can go both above and under, the arches, the
+exit, the HOM-blocker). The most violent level in Hell Revealed. I died a
+lot here, but still enjoyed playing it, because there is action all the
+time, so many explosions and attacks all around me. Here also 100% kills
+doesn't mean much, but here also I got it anyway.
+
+*****
+
+That's it - enjoy the lmps!
+
+Kai-Uwe Humpert <gazelle@cs.tu-berlin.de>
+Daniel Lindgren <akllin95@student.umu.se>
+Peo Sjoblom <peo.sjoblom@mbox300.swipnet.se>
+Yonatan Donner <ruthd@post.tau.ac.il>
+
+[Text file based on fduvdemo.txt]

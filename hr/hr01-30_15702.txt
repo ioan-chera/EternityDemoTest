@@ -1,0 +1,156 @@
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      1-30 (including 31/32)
+Skill:     1 (I'm too young to die)
+Category:  Max 
+Exe:       Doom2.exe
+
+As with all of my demos since 1995:
+Completely vanilla setup with doom/doom2.exe, no cheats, source-ports(with the exception of a scant few MBF/Boom demos), or crutches.
+native OS calls, no autorun, no mixed key binds, TSRs, or config cheats
+This is the real game.
+
+
+
+
+MAP01 -  0:50.71 (  0:50)  K:  29/29   I:  1/9   S: 1/1 
+MAP02 -  2:04.94 (  2:54)  K:  66/66   I: 10/15  S: 1/1 
+MAP03 -  2:59.54 (  5:53)  K:  57/57   I: 19/21  S: 2/2 
+MAP04 -  1:29.23 (  7:22)  K:  61/61   I:  3/15  S: 1/1 
+MAP05 -  2:44.06 ( 10:06)  K:  61/61   I:  2/3   S: 1/1 
+MAP06 -  3:03.20 ( 13:09)  K:  79/79   I: 11/12  S: 2/2 
+MAP07 -  1:46.89 ( 14:55)  K:   9/9    I:  3/3   S: 2/2 
+MAP08 -  2:42.34 ( 17:37)  K:  71/71   I:  2/3   S: 3/3 
+MAP09 -  2:52.03 ( 20:29)  K:  71/71   I:  8/17  S: 3/3 
+MAP10 -  2:27.77 ( 22:56)  K:  49/49   I:  2/3   S: 1/1 
+MAP11 -  6:21.94 ( 29:17)  K: 142/142  I: 12/13  S: 4/4 
+MAP12 -  3:54.06 ( 33:11)  K:  51/51   I:  8/13  S: 3/3 
+MAP13 -  7:09.49 ( 40:20)  K: 116/116  I:  6/14  S: 3/3 
+MAP14 -  8:04.94 ( 48:24)  K: 159/159  I: 12/24  S: 5/5 
+MAP15 -  7:04.17 ( 55:28)  K: 185/185  I:  2/3   S: 3/3 
+MAP31 -  5:05.46 ( 60:33)  K: 100/100  I:  4/4   S: 5/5 
+MAP32 -  4:02.34 ( 64:35)  K: 217/217  I: 18/20  S: 1/1 
+MAP16 -  7:07.09 ( 71:42)  K: 113/113  I:  5/6   S: 2/2 
+MAP17 -  6:22.86 ( 78:04)  K: 111/111  I:  5/5   S: 2/2 
+MAP18 - 10:20.34 ( 88:24)  K: 192/192  I: 11/20  S: 2/2 
+MAP19 -  2:15.11 ( 90:39)  K:  56/57   I:  2/2   S: 1/1  probably an imp before the Baron
+MAP20 -  4:47.26 ( 95:26)  K:  64/64   I: 14/26  S: 1/1 
+MAP21 -  4:56.66 (100:22)  K:  87/88   I:  1/10  S: 1/1  assuming this was a cacodemon that didn't teleport in
+MAP22 -  5:14.97 (105:36)  K: 101/101  I:  8/9   S: 1/1 
+MAP23 -  9:13.03 (114:49)  K: 182/182  I:  7/8   S: 3/3 
+MAP24 -  9:37.06 (124:26)  K: 261/261  I: 14/17  S: 5/6  one secret didn't register, but I got them all.
+MAP25 -  5:39.91 (130:05)  K: 190/190  I:  9/15  S: 1/1 
+MAP26 - 12:00.97 (142:05)  K: 244/246  I: 12/40  S: 1/1  the 2 unreachable ghost-spawner archviles
+MAP27 -  4:24.37 (146:29)  K:  82/82   I:  4/27  S: 1/1 
+MAP28 -  3:57.83 (150:26)  K:  42/42   I: 11/31  S: 1/1 
+MAP29 -  5:01.34 (155:27)  K:  78/78   I:  3/5   S: 2/2 
+MAP30 -  1:35.31 (157:02)  K:   0/0    I:  5/7   S: 1/1 
+
+
+This run has been a passion of mine for a long time. I'm surprised anyone wasted their time watching my old run as I didn't even know most of the levels.
+This run was done as practice for skill 2 and skill 3... and hopefully skill 4, but I think that might be a little ambitious.  Actually, I think HMP is might also be a little ambitious.  For me anyway. 
+
+I re-watched my 30hr_op run and it is played a lot more dangerous than this one.  Well, as dangerous as ITYTD can be.
+Skill 1 has double the ammo and you take half damage.
+The two monsters I miss, I don't really care about as they don't impact the validity of the run, only the official record validity. 
+
+I have to admit, I don't understand how to avoid the final ghosts on 26.  I don't recall what Chris told me 18 years ago and gggmork runs around a linedef that shouldn't matter(???) in his record 15:53 demo.  I think gggmork(or someone similar on DWforums) spoke of the actual prevention mechanism; which is the linedef that stops the crusher -- if the crusher is down too far for the archvile to reach the dead bodies, then there are no ghosts.  That is my current theory without testing it anyway.  As usual, I could be completely wrong.
+
+
+
+Map01
+Lost Souls aren't counted in monster counts even if they are original; but I usually get them.  I skip them on this run, because you won't be tracking them down(especially outside the map) on levels like 24, 26, 32....
+
+Map02
+The switch trick saves so little time, it's not worth bothering with.
+
+Map03
+The yk trick is annoying since I don't use autorun or double-bind keys; so I skip it.  I missed the RL jump(fall) - that never happens.
+
+Map06	
+Not worth returning for cells or health since the overload on 7.  Revved's method of rocketing the first room is useful since you don't need to save more than 60 rockets for 7.
+
+Map07
+The easiest level.  Extra ammo will come in handy for 9 on UV.	
+
+Map09
+A little too easy on ITYTD.  The two soulspheres are not secrets.
+
+Map10
+Extra cells, but there are extra cells on 11 too.
+
+Map11
+Extra cells and rockets.
+
+Map12
+Invulnerability makes this one very easy.  Trigger the ssg trap last otherwise they'll hear you and awaken.
+
+Map13
+Only need 180 cells before 14, so plasma/bfg the Cyberdemon as he is the only slightly hard part.
+
+Map14
+Actually not that easy from a pistol start; even on ITYTD.  Might as well use invulnerability against the Cyberdemon since that is the only danger here.  Sometimes I get the sr50 jump on the first try... other times it takes 8-10 tries.  It is all about the start spot for the bobbing.  The ledges themselves are not secrets, so no need to go to the opposing two.
+
+Map15
+I finally learned this map and I use the UV max record route -- 12 o'clock, right 3 o'clock, left 9 o'clock, right in front of you at 6 o'clock, then the red areas - 1 o'clock, 5 o'clock, 7 o'clock, then 11 o'clock(which is where the secret exit teleporter is).  30-50% chance of visiplane overflow at demon area, but only if you turn around -- face counter-clockwise and it will never crash.  Just to be sure I got them all, I save the raised HKs for the end.  No need to pick up ammo before 31; if you were skipping 31 though, you should stock up.
+
+Map31
+Easy to miss a monster here as they move as you do.  On skill 1 and 2, trigger the blue key before the red.  Watch out for late teleporting monsters in the corners.
+
+Map32
+Remember to be in the right position(far side - blue key side) for the Romero death to not take damage.
+Easy to exit early on skill 1 and 2 by killing Romero with bfg.  You can get sandwiched to death by Cacodemons in the trench if you don't keep moving.  Happens on UV a lot more than the easy skill settings, but still possible.  Kill the viles first in the 4 outside areas.  If you die here on skill 1 or 2, you need to get a new hobby.
+
+Map16
+Finally learned this map.  Saving the invunerability for the final clean up makes it the most useful -- on skill 1 and 2, that is.
+
+Map17
+Lots of excess rockets, so keep blasting.
+
+Map18
+I forget to raise the lift; a common mistake.
+In a movie, since you have the bfg already, this level is easy.  On ITYTD, it is easy to grab the bfg and blast the viles with the Cyberdemon alive.  No reason to do that in a movie.  The last HK always spawns in minutes after all others are dead in dark room... just come back.  I like my method of hanging by the door in the "third" area -- this allows you to rocket the distant imps easier.  On UV that isn't a good option.  On skill 1 and 2, just snipe the 4-teleporter archvile with the RL or plasma instead of bfg or telefrag.
+
+Map19
+Trying to conserve some health and ammo makes for a slower run than from a pistol start.
+
+Map20
+Late teleporting HK again at the bfg room -- just come back.  First Cyberdemon is easy if you save a Baron to distract him.  Second Cyber can be annoying if you waste too many cells(especially in a single-map demo).  Easy to step into the teleporter without killing him too.  Sometimes the monsters don't teleport in in the final area for some reason.(apparently the sound trigger is in the previous room) 
+
+Map21
+Ammo refresh, and 22 is too.  Either sandwich the Cyberdemon with demons and let them freeze-kill him to death or let the Cyber kill all the demons in the standard way.  The easiest way is to bfg the Cyberdemon down and clean up yourself.
+
+Map22
+Since there are three non-invulnerability Cyberdemon fights in this one, I can't say it is THAT easy, but it is really easy for anyone who can beat this level on UV.  Twice I had runs that 2 bfg shots didn't kill the Spidermastermind...  you are not expecting that.  Run to the middle archvile in the very beginning.
+
+Map23
+Remember to be in the right position(just stay up top) for the Romero death to not take damage.
+Save health for after the Baron/arachnatron area.  Save cells for the Cyberdemon at the end.  Let the Cyberdemon infight the barons before you start shooting.  The exit fight is the second hardest part of an ITYTD movie run.  Sometimes 1 to 3 arachnatrons don't teleport in.
+
+Map24
+With a route this map is much easier... or rather, it is much, much faster.  Knowing which linedefs release which PEs makes a big difference.  I finally learned this level as well.  Easy to eat a rocket from the two loose Cybers if you aren't paying attention.  I like to use the invulnerabilities on the archvile/spidermastermind room and the red key Cyberdemon.  The strafe jump to lift the exit platform path saves minutes off the time as the infighting will clear up almost everything.  Sometimes(?) a monster or two won't teleport in.  Visiplane crashes are possible here, but not too common.
+
+Map25
+Use the invunerability against the two Cyberdemons.  Ammo is tight in the beginning from a pistol start.
+
+Map26
+Horrible playing.
+The hardest part is the two archviles; bfg them before you release the Cyberdemon on skill 1 and 2.  I forget the trick to avoid the ghosts.  Clean up the first area first on ITYTD to make it much easier.  26 is significantly easier in a movie as you have the bfg and rocket launcher at the start.  I've been killed by an archvile attack through the wall at the 4-switch area.
+
+Map27
+Barons clump to the left in the "maze".   The final imp _will_ teleport in, but you have to be patient -- the teleport line is not around him in his room, so running back to the exit will help unstick him from the walls to cross the line.
+
+Map28
+Almost as easy as 7.  A nice break after the last bunch.  So much health and ammo, it is absurd on ITYTD.
+
+Map29
+That maze secret is awful, Mr. Niv, but I finally learned(re-learned, as I know I knew it back in 1999) the secret to the secret - just run straight and watch for the pit in front of you(it will be just visible), then do a 180 and hang left.  easy.
+
+Map30
+I waste the invulnerabilities.  Perfect last shot... felt good.
+15 years ago I wrote that this was an unforgiving final movie level; and I was right.  By far the hardest part of a movie demo on ITYTD.  Not to mention, you can just get rng screwed with an archvile or PE at the wrong time.  And good fucking luck on skill 3 or 4 in a movie....
+
+
+
+Doug 'Opulent' Merrill - 7/20/16
+

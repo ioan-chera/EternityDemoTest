@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR201233.TXT
+
+ HR201233.ZIP
+
+  HR201233.LMP - Ultra Violence 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 20 - Judgement Day
+
+  Kills    100%
+  Items     96%           
+  Secrets  100%  and Time = 12:33
+                          
+                          
+  Description:
+	Eugene's demo inspired this. I've always had trouble with the run to
+	the SSG, him making it look so easy I thought I should try again.
+	Borrowed a technique from the TAS run of having Cybie take out some
+	Barons. Pretty neat time but I guess it could go faster.
+  
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com

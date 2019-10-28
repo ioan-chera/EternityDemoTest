@@ -1,0 +1,24 @@
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Map:       13 - Last Look at Eden
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.5 -complevel 2
+
+Kills:     149%
+Items:     92%
+Secrets:   100%
+
+Time:      43:13
+
+Comments:  My first Tyson demo ever. Easy tyson, first exit on my first attempt!
+
+Not a traditional tyson as I barely use the fist to kill a demon, but have everything die by infighting through tactical maneuvering and use the pistol towards the end. A faster time comes from unleashing the viles early and being daring, my strategy is to line myself up between a vile and a group of Mancubie so it quickly dies to a shower of fireballs.
+
+The only challenging section is returning to the beginning stairway after the blue key, I hope their aren't many goats left over as it takes time to kill them through infighting due to their awkward positioning, as I need to save bullets for the Cyber at the end and any stragglers. This segment took a bit longer then expected due to the Archvile moving unpredictably and a lot of Revenants were left over.
+
+I was hoping for sub 40 but seeing as this run was easy to get, I'll likely do another one.
+
+Author:	   Bloodite Krypto
+
+25.12.17

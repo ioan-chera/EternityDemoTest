@@ -1,0 +1,41 @@
+This is a Doom LMP Entry
+
+HN14-137.ZIP
+
+	HN14-137.TXT
+	HN14-137.LMP - Nightmare Speed
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 14 - City in the Clouds
+
+=---+------+---=
+Kills        42%
+Items        21%
+Secrets       0%
+ 
+TIME        1:37	TAS record: 3:09 by Esko Koskimaa
+=---+------+---=
+
+Demo entry #22.
+
+Description:
+
+Yet another exciting masterpiece from HR. It's of course a serious challenge on
+skill 5, but compared to HN13 it is like Heaven compared to Hell.
+
+In 2007, soon after HN13-223, I recorded HN14 in 1:51. In 2010 I decided to do
+it with a more unordinary and risky route: going to the blue key without
+invulnerability, and saving it for passing the next building more quickly.
+
+The goal here was to go below Xepop's UV Speed record (1:40). This demo has some
+slow clumsy movements after the blue door, otherwise not bad.
+
+P.S. It really was a lucky Monday! Doing two demos in one day is very rare for
+me, but on January 25 I managed to pull out THREE in a day: HN16-254, HR16-210,
+HN14-137.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done January 25, 2010, 16:45:50

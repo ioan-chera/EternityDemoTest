@@ -1,0 +1,23 @@
+=--------------------------------------------------=
+
+Hell Revealed - MAP11 - UV-Max in 12:15
+-complevel 2
+
+Been trying to speedrun this for more than a year. 
+After countless failures in the past, today, done in
+my second attempt, I got this and I'm happy with it!
+
+Getting past the Archviles to the secrets was one of
+my bigger downfalls as I am usually slow to avoid 
+them or just time it wrong. I say the ending is also 
+a pain if you don't have the right ammo for it. Cells
+for BFG proved very effective against the barons and
+HKs.
+
+=--------------------------------------------------=
+
+Author: Nevan/Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus 2.5.1.3
+Pwad: hr.wad hrmus.wad
+=--------------------------------------------------=

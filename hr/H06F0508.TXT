@@ -1,0 +1,33 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+H06F0508.TXT
+
+ H06F0608.ZIP
+
+  H06F0508.LMP - Ultra Violence / With -FAST
+
+  Recorded using "DooM 2 - Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2 - Hell Revealed" 
+
+  Hell Revealed - Map06 - The Round Crossroads
+
+  Kills    100%
+  (Items    84)         
+  Secrets  100%  and Time  05:08
+                           -----
+
+Description:   Hmmm...3:06 faster then the old -fast time for this map. The
+               first minutes is quite chaotic, all those high placed enemies
+               can really kill you off in notime...its a bit harder then
+               it looks infact, and you have a few "narrow" scenes in this
+               map. Funny thing its, this took me more tries then HR22 / 28
+               with -fast :-)
+
+Note: 		Since this demo was recorded with HR.WAD, I suggest you drop
+                by at http://www.geocities.com/Hollywood/4704/ and pick it up
+                if you havn't already :)
+
+
+Author:    Anders Johnsen
+E-mail:    anders-johnsen@c2i.net    
+Vissit:    http://www.geocities.com/Broadway/Booth/3568/

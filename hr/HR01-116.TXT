@@ -1,0 +1,23 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : hr01-116.txt, hr01-116.lmp
+Date     : 2014-2-15 18:20
+Game     : Hell Revealed
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP01: Into the Gate
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Laszlo Gere
+Nickname : Slade
+Country  : Hungary
+Email    : vertigodx@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 22%
+Secrets  : 100%
+Time     : 00:01:16
+===================================
+Description:
+The green armor doesn't worth the effort IMO.

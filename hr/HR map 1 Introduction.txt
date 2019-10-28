@@ -1,0 +1,15 @@
+Wad: Hell Revealed
+Map: 1: Into The Gate  
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 3:00
+Time: 2:29
+Category: UV Max
+
+This is the first map of Hell Revealed. Hell Revealed is a hard megawad but very famous, it have the skill same
+as Alien Vendetta or something, I don't know.
+
+This map is extremly easy, only hard(Really?) area is the last area of that teleporter. I have thought that the
+chaingunner may come out and kill those shotgun guys for me at the start, but no.
+
+I just kill the demons with fist in that tech-base room, everything is easy. Nothing to say now!

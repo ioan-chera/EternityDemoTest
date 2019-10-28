@@ -1,0 +1,13 @@
+WAD: HR (Hell Revealed)
+MAP: MAP09: Knockout
+Time: 1:17(.86!)
+Added Engine: prboom-plus v2.5.0.2
+Category: Skill 3 Speed
+
+Why Skill 3? you may ask at first. Well, skill 3 has the plasma rifle that's 
+real nice for blazing through a group of monsters, and you get the RL by the
+YK, so you can perform the death slide at the end.
+I didn't really spend much time on this... probably my 5th attempt or so. I
+just played this because it's extremely fun! :D
+
+--Doomdaniel95

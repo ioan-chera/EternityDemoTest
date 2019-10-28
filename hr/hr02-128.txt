@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR02-128.TXT
+
+HR02-128.ZIP
+
+HR02-128.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 02 - Gateway Lab
+
+Kills       48%
+Items       13%
+Secrets    100%
+
+              ********
+  and Time -  * 1:28 *
+              ********
+
+
+Description:
+
+Hey DooMerMan, I told ya not to mess with me ;)
+
+Actually I had some trouble beating his 1:37, and then I get this as a total
+surprise. I had one exit at 1:37, and so I thought of ways I could cut the
+time down enough to get it back from him.
+
+I think I'll go work on some Alien Vendetta stuff now ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+09.01.2003

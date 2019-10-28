@@ -1,0 +1,42 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HR161410.TXT
+
+ HR161410.ZIP
+
+  HR161410.LMP - Ultra Violence
+
+  Recorded using "DooM 2.Exe"
+  DooM2 -PlayDemo with "DooM 2 -file HR.wad"
+
+  Hell Revealed - Map16 - The Path
+
+  Kills    100%
+  (Items   100)         
+  Secrets  100%  and Time  12:47
+                           -----
+
+  Description:  Anthony sent me a 14:52 with some route improvements he'd
+                come up with. In the end I just decided to use the one -
+                killing the archies at close range using the teleporter.
+                Together with some route rejigging done more or less
+                on the fly, that got me this demo.
+
+                Time improvement comes from the archie change, plus I use
+                all my ammo, and tighter running overall. Only one real
+                mistake in the demo, when I forgot about a certain archie,
+                but the end could have been better, with a few missed rockets.
+                Still it's nice to be under 13 min :)
+
+                Possible further improvement: clearing out the red key area
+                in one pass. Anthony actually did this in his demo, although
+                he had to do some fancy circling work to stay alive. IMO
+                there's too many monsters to cover, with Hellnights on both
+                sides of you. Plus I didn't have enough rockets at that
+                stage to take them all out. Then again I had to do some
+                circle work of my own to save my skin... didn't seem to hurt
+                the time much :)
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

@@ -1,0 +1,23 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+hr02p011.zip
+ hr02p011.txt
+ hr02p011.lmp
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - MAP 02 - Gateway Lab
+Ultra Violence Speed / Pacifist
+================
+Kills       0%
+Items       0%
+Secrets      0%
+----------------
+Time       0:11
+================
+Description: Some maniac does 0:10 someday? Route credit to
+Kristian Ronge/cack_handed. I did glide a little differently though
+by using stafe on and mouse to get smaller strafe speed.
+
+Author: xepop
+8 - Dec - 2009   2nd Compet-N Entry

@@ -1,0 +1,1 @@
+hr.wad, map27, uvmax, cl 2, gggmork, 5:38

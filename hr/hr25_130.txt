@@ -1,0 +1,26 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      hr.wad
+Pwad name: Hell Revealed 
+Maps:      25
+Skill:     4
+Category:  Max 
+Exe:       Doom2.exe + Boom2.02 + dehacked patch.
+
+Time:      1:30
+
+Author:    Opulent
+Email:     opulent@goodnet.com
+HP:	   http://www.goodnet.com/~opulent/doom2.htm
+
+Comments:  
+
+just for fun.  1:30 was my target.  requires little skill, if any.
+I had tried HR2 map32, but it would always crash on me.
+I _will_ definitely do it (rl-only) when it is finally released.
+
+boom -file hr.wad -deh d.deh -playdemo hr25_130
+
+
+

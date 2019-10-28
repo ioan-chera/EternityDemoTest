@@ -1,0 +1,43 @@
+This is a Doom LMP Entry
+
+HF10-330.ZIP
+
+	HF10-330.TXT
+	HF10-330.LMP - UV -Fast
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - Level 10 - Chambers of War
+
+=---+------+---=
+Kills       100%
+Items       100%
+Secrets     100%
+ 
+TIME     3:30.97	Old record: 4:34 by Chris "Ryback" Ratcliff
+=---+------+---=
+
+Demo entry #18.
+
+Description:
+
+A wonderful level, my favorite of the first 10 maps together with MAP04.
+Visually it's simple but atmospheric, and the war is fun from beginning to end
+(especially when speeding with -fast).
+
+The idea of facing 10 hellknights closely with plasma rifle came to me six
+years ago, when I was a bad player. I found Peo's 6:56 from HRUVLMP2 too slow,
+and quickly recorded it myself in 5:20. Then I discovered Anders' record of that
+time (4:52), and with HARD work I managed to beat it by one second.
+
+After half a year, I saw Ryback's recent upload. It didn't take too long to
+improve his 4:34 with my 4:11.
+
+Many years later, when I got much better, I returned to this map once again.
+Not a particularly optimized demo (though 14 seconds below Anders' max record),
+but with a funny-looking time. Nice improvement over my previous exit, 3:37.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 28, 2009, 17:51:34

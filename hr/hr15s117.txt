@@ -1,0 +1,60 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR15s117.TXT
+
+HR15s117.ZIP
+
+HR15s117.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 15 - Gates to Hell
+      
+Kills       17%
+Items       33%
+Secrets    100%
+
+              ********
+  and Time -  * 1:17 *
+              ********
+
+
+Description:
+
+This map is probably my least favorite from Hell Revealed...maybe because
+of the design, and the fact that it's a maze as well ^^'
+
+While working on improving the times of the HR -nomonsters 100% secrets
+pack I'm doing, I avoided this map as until it was the last one left to
+do. So I got some help from Drew "stx-Vile" Devore who told me the
+secrets to this map. My -nomo demo came out alright, but since the map
+was just pissing me off, I decided to download Cameron's speedrun for
+this map and study it closely. It took a while to learn the route, and I
+must say that this 1:20 was quite impressive.
+
+While his demo was impressive, he made it also look 10 times easier than
+what it actually is.
+
+My time is improvable, because I lose about 10 - 15 seconds in the area
+with the Revenants and such because I was trying to lure them away from
+that switch behind the poison. If I didn't get them away from it, they'd
+surround me and simply punch me to death.
+
+And that Chaingunner I telefrag...um, oops ^^' I was aiming for Pacifist
+as well, I just hope that telefragging him didn't cancel out the
+Pacifist attempt at this one...I had no idea that Chainer was there.
+-_-'
+
+This demo wouldn't be possible without help from Drew "stx-Vile" Devore
+and Cameron Prosser's awesome route for this map. I wonder if normal
+exit will be easy to do...
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+06.07.2002

@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF241527.TXT
+
+ HF241527.ZIP
+
+  HF241527.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 24 - Post Mortem
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 15:27 
+                          
+                          
+  Description:
+
+  When Grazza mentioned that Hell Revealed's ten year
+  anniversary was coming up, I knew I should record something
+  but didn't have the energy for a big project. Fortunately
+  there was one demo from my last -fast pack that I'd
+  always been dissatisfied with - here was the perfect
+  opportunity to improve it.
+
+  First I tried the same route as before, and got an 18:17.
+  But the max route has changed a lot in recent years, and
+  I thought maybe it'd be a worthwhile experiment to release
+  the cybers early. Here it worked absurdly well, they just
+  keep fighting and fighting and killing teleporting monsters
+  while I stay safe in the corner of the map clearing out
+  demons and cacos.
+
+  With the most difficult part of the level out of the way
+  the rest of the level was a breeze, all I had to worry
+  about was the two cyber trap, which went well enough.
+  You can probably stop watching about halfway through,
+  the last part of the demo is a little conservative,
+  not so much because I was afraid of dying but because I
+  hadn't been in this position on this level before and
+  wasn't exactly sure of the route. Still, the time beats
+  Esko's TAS demo, of which I am immensely proud. Enjoy,
+  if you're into that sort of thing.
+
+    
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

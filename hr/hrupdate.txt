@@ -1,0 +1,24 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:		hr.wad
+Pwad name:	Hell Revealed
+Map:		2-5
+Skill:		4
+Category:	UV Max
+Exe:		Doom2.exe
+
+Time:
+	Map02	3:09
+	Map03	3:03
+	Map04	2:00
+	Map05	5:23
+
+Author:		Ilkka Kunttu
+Email:		ilkkaknt@voimax.cygnnet.jkl.fi
+
+Comments:
+		These are updates to my previous demos. The time has
+		improved, and I don't get hurt as much!
+		The next thing I'm trying is to finish Map09, which
+		is a very hard one, so it will take some time.

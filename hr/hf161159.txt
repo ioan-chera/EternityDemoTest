@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry at Doom.Com.Hr
+
+HF161159.TXT
+
+ HF161159.ZIP
+
+  HF161159.LMP - Ultra Violence with -fast monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 16 - The Path
+
+  Kills    100%
+  Items    ???%           
+  Secrets  100%  and Time = 11:59    (old record 17:08)
+                          
+                          
+  Description:
+  Recorded this one a couple of weeks after my maxkill run on this
+  level, while the routes were still fresh, then sat on it. Most 
+  of the run is the same, save having to kill the Spider early on.
+  Infights help you here a lot more compared to UV max, but on the
+  other hand you've got to be more wary of some packs of monsters, 
+  particularly the Mancubii around the blue key. Probably you could
+  push this to be close to the maxkill record, I think I'd like to
+  see that run.
+  
+  Thanks to kraflab for a Doomworld contest idea that finally gave
+  me a reason to upload. Maybe I'll dust off the old win98 machine
+  and give the old game a try again :)
+
+  
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

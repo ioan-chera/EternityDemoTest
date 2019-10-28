@@ -1,0 +1,17 @@
+Hell Revealed help demos
+------------------------
+These are 32 -nomonsters demos showing how to finish all levels of Hell Revealed
+with 100% secrets. Level 7 is impossible to finish with -nomonsters, so I
+recorded it on skill 1. I tried to do the demos as fast as possible.
+
+To play back the demos type:
+
+doom2 -file hr.wad -playdemo hr??-nom
+
+Replace ?? with the two-digit level number.
+
+These demos are for people who are stuck in a particular level, or can't get
+100% secrets in a level, and don't have the patience to watch the all
+kills/secrets UV demo. I hope they will be helpful.
+
+The Hell Revealed homepage: http://www.geocities.com/Hollywood/4704/

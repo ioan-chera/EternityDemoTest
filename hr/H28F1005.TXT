@@ -1,0 +1,31 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+H28F1005.TXT
+
+ H28F1005.ZIP
+
+  H28F1005.LMP - Ultra Violence / With -FAST
+
+  Recorded using "DooM 2 - Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2 - Hell Revealed" 
+
+  Hell Revealed - Map22 - Top Hell
+
+  Kills    102%
+  (Items    40)         
+  Secrets  100%  and Time  10:05
+                           -----
+
+Description:   This was a tad harder...30 mins spent in here. Slow exit part,
+               but there is no good way of solving it on -fast. Could also
+               equal the regular max time with some luck and patience.
+
+
+Note: 		Since this demo was recorded with HR.WAD, I suggest you drop
+                by at http://www.geocities.com/Hollywood/4704/ and pick it up
+                if you havn't already :)
+
+
+Author:    Anders Johnsen
+E-mail:    anders-johnsen@c2i.net    
+Vissit:    http://www.geocities.com/Broadway/Booth/3568/

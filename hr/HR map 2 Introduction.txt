@@ -1,0 +1,10 @@
+Wad: Hell Revealed
+Map: 2: Gateway Lab 
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 3:30
+Time: 3:24
+Category: UV Max(Including Lost Souls)
+
+A easy map but a hard start, many zombies and demons in this map. This map is consider very easy in this wad, I
+should have finish it within 3:20.

@@ -1,0 +1,33 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      HR.wad
+Pwad name:      Hell revealed
+Map:      28
+Skill:      4
+Category:      UV-max (Despite I got 100% kills on Prboom-plus,
+I have to admit this is only an attempt)
+
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      13:19
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+This time I wanted to fight cyberdemons with BFG 9000 and this was
+the perfect map to do that, certainly this map is really easy and I only
+wanted to upload this to DSDA for the pleasure to show you some
+dangerous situations where I could've died and it didn't happen.
+Obviously this is not a good time and I feel capable to beat this time for
+about 4 minutes (with a efficient route and killing all cybers with two
+shots of BFG), and since I missed a fuckin mancubus at the end
+I have to improve this and upload a worthy demo for this map soon
+BTW, I almost never check my demos out to find misses, and this was
+the second time I do it... I repent to have done that!, thanks to that
+I realized I miss a monster and I really took great care at finding it
+but this was futile, when I played-back demo to check out what was
+that damned hellspawn I missed before with IDDT/automap cheat
+I noted that it always was in front of me, I feel ashamed about it anyway
+Since I only can play Doom at weekends my improved demo in this map
+has to wait.

@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR08-022.TXT
+
+ HR08-022.ZIP
+
+  HR08-022.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 8 - The Jail
+
+  Kills        3%
+  Items        0%            
+  Secrets      0%  and Time: 0:22 
+                             ==== 
+
+  Description :-)
+
+  20th COMPET-N entry.
+
+  Well, here's another trick, and it's yet another glide.
+  The story behind this isn't exciting at all; I was just 
+  watching some HR speedruns, when I saw the runs on this 
+  map and thought: "What if you don't have to raise those 
+  bars?". The rest, as they say, is history. :-)
+
+  The glide is very easy, in fact it's one of the easiest 
+  I've seen (matching perhaps the glide at the start of 
+  KS map 5). I worked a fair bit on this one because I 
+  wanted a run which didn't completely suck. Making a 
+  half-assed attempt would also IMHO be disrespectful to 
+  Jakub's inspiring runs on this map. According to my 
+  estimates the trick saves at least 12-13 seconds, so a 
+  time below 0:20 should be the aim.
+
+
+  Kristian Ronge
+  zuckuss@gmail.com

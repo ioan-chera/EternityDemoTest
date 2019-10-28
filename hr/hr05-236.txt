@@ -1,0 +1,15 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      5
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      2:36
+
+-complevel 2
+
+Author:	   j4rio
+
+After a week of struggling with this map, I'm glad this damn recording session 
+finally ended. My best demo ever, even though it's improvable.
+

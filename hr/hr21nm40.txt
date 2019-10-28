@@ -1,0 +1,16 @@
+************************************************************************
+Filename                : hr21nm40
+Pwad(s)                 : Doom2 -- hr.wad 
+Map Level(s)            : MAP21
+Length                  : :40
+skill			: 5
+
+Author                  : Doug Merrill
+Email Address           : opulent@goodnet.com
+Misc. Author Info       : http://www.goodnet.com/~opulent/doom2.htm
+
+Description             : they say on their page that it isn't optimized,
+			  so I thought I'd see how quick I could do it.
+
+Additional Credits to   : the TAS demo team.
+************************************************************************

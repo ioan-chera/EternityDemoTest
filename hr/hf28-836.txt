@@ -1,0 +1,112 @@
+
+*******************************************************************                                     *          **
+                                         **************************                                     *          **
+Author: Claudio Barba                       ********************                                        *          **
+E-mail: elguapo@access.unizh.ch                   *********                                             *          **
+Skill:  4                                           *****                                               *          **
+Fast:   of course                                     *                                                 *          **
+Game:   Doom ][                                     *****                                               *          **
+Wad:    Hell Revealed (HR.WAD)                    *********                                             *          **
+Map:    28 (Top Hell)                       ********************                                        *          **
+Time:   8:36                             ************************                     *                 *          **
+                                                                                     * *                           **
+*******************************************************************                 *   *               *          **
+                                                                                   *  *  *                         **
+number of cybies and archies: 14 & 17                                               *   *                          **
+total health/armor/cells: 2175/1608/3600                                             * *                           **
+difficulty: ridiculously easy if you know how to strafe, otherwise easy               *                            **
+recommended watching using the music wad from requiem, reqmus.wad (when using -timedemo ie)                        **
+                                                                                                                   **
+                                                                                             *                     **
+********************************************************************                        * *         *          **
+                                                                                           *   *                   **
+                        ******************         *****************                      *  *  *       *          **
+                             ************           *************                          *   *        *          **
+                                                                                            * *                    **
+*********************************************************************                        *          *          **
+                                                                                                                   **
+                                                                                                                   **
+other demos by the                                                                                  *              **
+author (for doom2): lv27-358, fa28-301, lv12-407, fa18-306 etc                                     * *             **
+                                                                                                  *   *            **
+                                                                                                 *  *  *           **
+additional credits: Doug 'Opulent' Merrill and Anders Johnsen                                     *   *            **
+                                                                                                   * *   *         **
+                                                                                                    *   *          **
+                                                                                                       *           **
+******************************************************************************* * * * * * * * * * * * *            **
+                                                                                                                   **
+                                                                                                                   **
+      *********************************                       **************                            *          **
+                      ******************                         *********                              *          **
+****************************************************************************                            *          **
+                                                                                                                   **
+                                                                                                                   **
+introduction:                                                                                                      **
+                    												   **
+beat this if you dare... just kidding										   **
+   														   **
+well, I did this just for fun some weeks ago, I didn't hurry, I simply tried to play as relaxed (doh)		   **
+and careless (umn) as possible, funny I even got it a little bit under the regular UV time in hrlmp2..             **
+														   **
+My aim when doing this recording was just to beat a HR -fast recording made by Anders.				   **
+There are still very little players who succeeded in doing so (AFAIK no one)                                       **
+I did not bother to improve the time, below 8:00 should be rather easy to reach. 				   **
+In fact I assume that even below 7:30 could be possible..                                 			   **
+														   **
+														   **
+														   **
+map description:												   **
+														   **
+I like this level, full of action gameplay and still very easy, nice design too					   **
+No lack of ammo or health in this level, there's plenty of everything						   **
+(I left behind three soulspheres, a megasphere and 240 cells..) 						   **
+														   **
+the only problematic point (when playing with -fast that is), is the berzerk room guarded by 10 fatsos.            **
+You have 2 choices here, either you cowardly hide behind a corner and fire some rockets from a distance		   **
+or then you just wipe'em off with a few close bfgs. 	 							   **
+														   **
+Other than that there are no challenges here, the cybies on the ledges are even easier than in regular UV          **
+(watch'em going down like flies), my way of doing the endroom isn't as hard as it might seem at first sight,       **
+though it can be frustrating.. I think in this lmp in went rather slow.                                            **
+The wall-to-wall-BFGs on the five cybers are pretty boring to watch (I almost felt asleep when recording),         **
+I wonder what killed the second-last one..                                                                         **
+														   **
+          													   **
+Uhm, long and silly text-file, hope you have enough disk space to read it.. :)                                     **
+     											 			   **
+														   **
+														   **
+                                                                                                                   **
+      **************************************************************************************            *          **
+     *******************************************************************************                    *          **
+    **************************************************            **************                        *          **
+   *******************************                        *********                                     *          **
+  ************************                          **   **                                             *          **
+ ******************                                  ** **                                              *          **
+*****************                                      *                                                *          **
+                                                     ** **                                              *          **
+                                                    **   **                                             *          **
+                                                                                                                   **
+******       *********           ****    ***         **         *     ********                          *          **
+    **********        *******   ********************  ** ** ** ** ** ** ** ** **                        *          **
+                                                                                                                   **
+*********   ** *      ***** * * *** ** ** **** ** ** *** * * ** ** ** ***** ** *                        *          **
+**  **  **  ** *********** *** * ***** *** **** ***** ** **** ** ** ***** * * * *                       *          **
+                                                                                                                   **
+                                                                                                                   **
+                                                                                                                   **
+                                                                                                                   **
+*********************************************************************************************************************
+*********************************************************************************************************************
+*********************************************************************************************************************
+          **   **  *******    ******    ****         ****     *****      ****             **********                *
+          **   **  ******    *   **** **    **     **    **  **  ***   **                   *********              **
+          **   **  **             *** **    **     **    **       **  ***                    *********            ***
+          *******  ******        ***    ****   ***   ****      *****  ********                *********          ****
+          *******  *****        ***     ****   ***   ****      *****  ***   ***              *********          *****
+          **   **  **          ***    **    **     **    **       **  ***    **             *********          ******
+          **   **  **         ******  **    **     **    **  **  ***  ********             *********          *******
+          **   **  **        ********   ****         ****     *****    ******             ********           ********
+*********************************************************************************************************************
+*********************************************************************************************************************

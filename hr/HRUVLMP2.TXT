@@ -1,0 +1,145 @@
+Hell Revealed UV lmp set version 2.0
+------------------------------------
+
+(Also known as "the new HR collection" :)
+
+Recorded by:
+
+Anders Johnsen
+Adam Hegyi
+Esko Koskimaa
+Henning Skogsto
+Jonas Feragen (Chrozoron)
+Kai-Uwe Humpert
+Peo Sjoblom
+Yonatan Donner
+
+This is the new lmp set for Hell Revealed. All lmps were recorded on
+skill 4 (Ultra-Violence), killing every monster and finding every secret, as
+quickly as possible. The time improvement over the first set is huge!
+(Many of the lmps are twice as fast as the original ones, and even more!)
+
+All of the demos are new! Even the ones we thought were already unbeatable,
+we managed to beat!
+
+A few comments:
+
+In level 26 there is a bug with the ghosts - sometimes there aren't any
+ghosts in the end. This happens randomly and that's why it wasn't discovered
+before. Kai recorded a 33:09 lmp but unfortunately there were no
+ghosts in his lmp. Peo recorded a 41:05 lmp with ghosts. We include both
+lmps. Note that both of them are faster than the old lmp.
+
+We include two demos for level 30, one without 100% kills and one with 100%
+kills. The reason is that in level 30, many of the kills are monsters that
+are spawned, so it is arguable that kill don't really matter in such a
+level. However, for people who do care, there is also a demo with 100% kills
+included.
+
+And now the really cool part! We are including a special bonus:
+
+We are also including lmps for 21 out of the 32 levels in Hell Revealed
+recorded with the -fast option, which makes the levels even more difficult!
+Those demos aren't all super speedy, but we're sure you will enjoy them.
+They are also recorded on Ultra-Violence with 100% kills and secrets, of
+course. If you can do any more HR maps with -fast, please let us know. We're
+even including a demo of level 1 done with -fast and in "tyson" mode - using
+only the pistol and the fist.
+
+To playback these demos, put them in your doom2 directory and type:
+  doom2 -file hr.wad -playdemo hr??-uv
+For levels 26 and 30, there is also:
+  doom2 -file hr.wad -playdemo hr??-uv2
+For the -fast lmps:
+  doom2 -file hr.wad -playdemo hr??fast
+For the level 1 -fast tyson lmp:
+  doom2 -file hr.wad -playdemo hr01-tgm
+
+?? is the level number.
+
+The Hell Revealed files are available from:
+ftp://ftp.cdrom.com/pub/idgames/themes/hr/
+
+And the Hell Revealed homepage is:
+http://www.geocities.com/Hollywood/4704/hr.html
+
+Here is a quick table listing all lmps:
+
+Regular UV lmps:
+
+Level  Level Name		Recorded by	      Time
+-----  ----------		-----------	      -----
+ 01    Into the Gate		Anders		      01:34
+ 02    Gateway Lab		Anders		      02:41
+ 03    The Dumpster		Henning 	      02:39
+ 04    The Garden Terminal	Anders		      01:41
+ 05    Core Infection		Yonatan 	      04:12
+ 06    The Round Crossroads	Anders		      04:07
+ 07    Arachnophobia		Kai		      04:51
+ 08    The Jail 		Anders		      05:10
+ 09    Knockout 		Peo		      10:52
+ 10    Chambers of War		Anders		      04:53
+ 11    Underground Base 	Peo		      15:52
+ 12    Great Halls of Fire	Anders		      06:47
+ 13    Last Look at Eden	Peo		      15:42
+ 14    City in the Clouds	Peo		      20:57
+ 15    Gates to Hell		Chrozoron	      12:33
+ 16    The Path 		Yonatan 	      18:54
+ 17    The Black Towers 	Chrozoron	      12:51
+ 18    Hard Attack		Yonatan 	      26:54
+ 19    Everything Dies		Yonatan 	      03:25
+ 20    Judgement Day		Yonatan 	      16:07
+ 21    Siege			Henning 	      12:51
+ 22    Resistance is Futile	Anders		      09:43
+ 23    Ascending to the Stars	Peo		      17:56
+ 24    Post Mortem		Esko		      16:26
+ 25    Dead Progressive 	Adam		      04:49
+ 26a   Afterlife		Kai		      33:09
+ 26b   Afterlife		Peo		      41:05
+ 27    Cyberpunk		Anders		      11:52
+ 28    Top Hell 		Anders		      08:44
+ 29    Temple of Fear		Esko		      10:56
+ 30a   Hell Revealed		Yonatan 	      00:32
+ 30b   Hell Revealed		Yonatan 	      00:56
+ 31    The Descent		Yonatan 	      09:34
+ 32    Mostly Harmful		Yonatan 	      05:08
+
+The bonus UV -fast lmps:
+
+Level	    Level Name		     Recorded by	   Time
+-----	    ----------		     -----------	   -----
+ 01	    Into the Gate	     Yonatan		   02:15
+ 01 (tyson) Into the Gate	     Peo		   05:38
+ 02	    Gateway Lab 	     Yonatan		   03:53
+ 03	    The Dumpster	     Yonatan		   03:21
+ 04	    The Garden Terminal      Yonatan		   02:37
+ 05	    Core Infection	     Yonatan		   07:47
+ 06	    The Round Crossroads     Yonatan		   08:14
+ 07	    Arachnophobia	     Esko		   09:56
+ 08	    The Jail		     Yonatan		   07:14
+ 09	    Knockout		     Peo		   20:52
+ 10	    Chambers of War	     Peo		   06:56
+ 11	    Underground Base	     Peo		   36:00
+ 12	    Great Halls of Fire      Peo		   13:03
+ 13	    Last Look at Eden	     Peo		   37:46
+ 14	    City in the Clouds	     Esko		   27:10
+ 19	    Everything Dies	     Peo		   05:45
+ 20	    Judgement Day	     Peo		   28:16
+ 22	    Resistance is Futile     Esko		   20:57
+ 25	    Dead Progressive	     Adam		   05:56
+ 28	    Top Hell		     Anders		   11:41
+ 29	    Temple of Fear	     Esko		   17:07
+
+*****
+
+That's it - enjoy the lmps!
+
+Anders Johnsen <gunjohns@online.no>
+Adam Hegyi <alien@eik.bme.hu>
+Esko Koskimaa <koskimaa@cc.helsinki.fi>
+Henning Skogsto
+Chrozoron <odferage@online.no>
+Kai-Uwe Humpert <gazelle@cs.tu-berlin.de>
+Peo Sjoblom <peo.sjoblom@mbox300.swipnet.se>
+Yonatan Donner <ruthd@post.tau.ac.il>
+

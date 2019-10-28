@@ -1,0 +1,62 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hn28-013.TXT
+
+ hn28-013.ZIP
+
+  hn28-013.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Hell Revealed - MAP28 - Top Hell
+
+  Kills       0%
+  Items       0%           ++++++++++
+  Secrets     0%  and Time + 00:13 +
+                           ++++++++++
+
+
+  Description :)
+
+  I tried to check if 12s is possible in UV as Sedlo
+  didn't use SR50, but it turns out there's no hope
+  unless someone can use a 2nd av boost on the way :)
+  Compared to UV, it's very difficult to survive on NM but
+  speed-wise the monsters are more cooperating:
+  1. The arachnotron right after yellow key doesn't
+  block me usually
+  2. The mancubi don't usually block you over the stairs
+  because they're firing in their place
+  Also what helped me get this time was that I figured
+  a more reliable way to get the av to move just some small
+  steps to the right place then begin his attack, just as
+  soon as I open the door I immediately try to straferun
+  to the left as much as I can
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 4
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Operating System: Windows XP Professional SP3 (x86)
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  XP Sensitivity: 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Speakers: Stereo Speakers with the label 'HELIVM-Hi' on them

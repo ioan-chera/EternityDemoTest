@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:		hr.wad
+Pwad name:	Hell Revealed
+Map:		7
+Skill:		4
+Category:	UV Max
+Exe:		Doom2.exe
+
+Time:		7:24
+
+Author:		Ilkka Kunttu
+Email:		ilkkaknt@voimax.cygnnet.jkl.fi
+
+Comments:
+		I really hate this kind of maps! I thought I was 
+		going to die when I run out ammo, but I managed
+		to kill those few spiders with a pistol. As always,
+		the big Cyberspider is the easiest part of this map.

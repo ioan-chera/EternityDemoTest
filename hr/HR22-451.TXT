@@ -1,0 +1,47 @@
+This is a Doom LMP Entry
+
+HR22-451.ZIP
+
+	HR22-451.TXT
+	HR22-451.LMP -- UV Max!
+
+Recorded using GLBoom-Plus v2.5.1.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+1152x864, gamma level 4, capped framerate
+HUD used (timer, monster counter)
+
+Hell Revealed -- Level 22 -- "Resistance is Futile"
+
+=---+------+---=
+Kills       101%
+Items       100%
+Secrets     100%
+                
+TIME        4:51	Old record: 8:03 by Drew "stx-Vile" DeVore
+=---+------+---=	TAS record: 5:40 by Esko Koskimaa
+			
+Demo entry #150.
+
+Description:
+
+The atmosphere of this minimalistic location is just fantastic. An elegant and
+surreal combination of HR's starry sky and cleverly chosen wall/floor textures.
+
+MAP22 is more violent than the previous HR levels, but not more difficult.
+There's very much cover and firepower, so none of the assault waves are
+particularly hard to avoid. When I first played Hell Revealed on UV in 2004,
+MAP13 was a severe barrier for me to pass, but MAP22 was relaxing (unlike 23,
+which is a true step up in HR's difficulty). As one of the WAD reviewers said,
+22 is "the easiest of HR's hard levels, or the hardest of HR's easy levels".
+
+Many years ago I downloaded the pack of HR TAS maxes, and Esko's HR22-540 was
+the most impressive one for me to watch. It's full of crazy cyber-blasting, but
+still, with a higher degree of aggression it's heavily improvable. My route
+provides astronomical amounts of instant death risks, but releasing all the
+major hordes on the first 2 minutes hugely increases the power of infights.
+First survival :)
+
+
+Author: SAV88 (Artem V. S.)
+Done October 21, 2017, 12:27:59

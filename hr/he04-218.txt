@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HE30-218.TXT
+
+HE30-218.ZIP
+
+HE30-218.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 04 - The Garden Terminal
+      
+Kills      103%
+Items        7%
+Secrets    100%
+
+              ********
+  and Time -  * 2:18 *
+              ********
+
+
+Description:
+
+Great map, of course this is expected from Hell Revealed, this
+is probably my favorite map within the first 10 levels, but
+they only get better from there!
+
+That Imp at the end....he was an unnecessary kill, so I wasted
+about 2 to 3 seconds on him >.<
+
+Not relatively difficult to do, it's just how they happen to
+respawn.
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+08.02.2002

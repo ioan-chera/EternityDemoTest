@@ -1,0 +1,22 @@
+Player1: Eugene Bondarchenko <bond@nfsun1.jinr.ru>  (Green)
+Player2: Alexander Sushkov <sushkov@thsun1.jinr.ru> (Indigo)
+Category: coop, NET-2
+Skill:  4 (uv)
+Fast:   No
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    07
+Time:   1:53
+LMP:    H7C2-153.LMP
+
+Credits to: id Software, all HR authors and hruvlmp(s/2) players
+
+Description:
+
+It was easy but very interesting. Thank Adam for this great idea!
+For NETx (x>1) playing there is a interesting moment: how split one
+backpack and one armor between x (x>1) players. And we get one heavy
+soldier, one light soldier, one very light soldier (cannon-fodder ?),
+etc... (Ah? CTF?)
+
+We'll be glad if someone will beat our time. Welcome!

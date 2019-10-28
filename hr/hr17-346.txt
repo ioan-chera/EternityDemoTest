@@ -1,0 +1,39 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+hr17-346.txt
+
+hr17-346.zip
+
+hr17-346.lmp - Ultra-Violence Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file hr.wad
+
+Hell Revealed - MAP 17 - The Black Towers
+
+
+================
+Kills       30%
+Items        0%
+Secrets      0%
+----------------
+Time       3:46
+================
+
+
+Description:
+
+Thanks to Grazza for the glide. (hr17o022.lmp)
+I got the demo on a few attempts, so this run is not good.
+You would get much faster time if you grab only the red key,
+like HR TAS by jongo.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+15 - Jan - 2010   34th Comepet-N Entry

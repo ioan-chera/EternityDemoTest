@@ -1,0 +1,16 @@
+Player: Doug Merrill
+E-mail: opulent@goodnet.com
+Skill:  4 (uv)
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    19  Pacifist
+Time:    :31
+
+Comments:
+
+I did my hr19pa33 with the old route.
+then I saw that the cage area could be avoided with the trick in
+the hr19-nm run.
+so I re-recorded this. 
+very easy run because of the megasphere in the beginning.
+took me 3 tries to get the trick right.     

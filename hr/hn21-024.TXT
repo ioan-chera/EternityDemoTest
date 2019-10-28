@@ -1,0 +1,58 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hn21-024.TXT
+
+ hn21-024.ZIP
+
+  hn21-024.LMP - Nightmare Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Hell Revealed - MAP21 - Siege
+
+  Kills       4%
+  Items       0%           +++++++++
+  Secrets     0%  and Time + 00:24 +
+                           +++++++++
+
+
+  Description :)
+
+  In NM, the group of imps die much more often
+  but the barons are a pain to get by
+  23 would be the optimal time
+  If you grab the blue armor, you'd have to have
+  nearly perfect movement and the spiderdemon at
+  the end should move away for 23s.
+  Without blue armor it should not need not as
+  perfect movement but it'll be difficult to survive
+  but possible, for example in this demo I took less
+  than 50 dmg with BA = less than 100 dmg without it
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 4
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Operating System: Windows XP Professional SP3 (x86)
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  XP Sensitivity: 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Speakers: Stereo Speakers with the label 'HELIVM-Hi' on them

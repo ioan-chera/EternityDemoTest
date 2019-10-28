@@ -1,0 +1,20 @@
+--------------------------TTTTTTT-----T-----TTTTTTTT-------
+----------------------------TT------T---T---TT-------------
+----------------------------tt-----T----T-----Tt-------------
+----------------------------tt-----tttttt-------ttyt--------
+----------------------------tt----t------t---ttttttt---------
+
+Pwad hr.wad
+Pwad name Hell Revealed
+Map       11
+Skill     4
+Category  UV-Tyson
+Exe       PRBoom+ v2.5.1.3
+Time      19:32
+-complevel 9
+Date	22,01,2017 //day,month,year
+
+Author	   Azuruish
+link -  www.youtube.com/user/Azuruish/
+
+Just added some speed :D

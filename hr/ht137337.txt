@@ -1,0 +1,20 @@
+Filename : ht137337.txt, ht137337.lmp
+Date     : 2015-02-13
+Game     : HR.wad
+Client   : prboom-plus-2.5.1.3
+Category : Tyson
+Map      : Map 13
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Nickname : Aqfaq
+Country  : Finland
+-------------------------------------------------------------------------
+Kills    : 168%
+Items    : 100%
+Secrets  : 100%
+Time     : 1:13:37
+===================================
+Comments:
+
+Unexpected problem while playing a long map: I had to go and pee at 26:40. Sorry for the wait. I lost at least one minute in the bathroom. At 36:00 I enter the nasty cage trap, which I believe is one of the highlights of the run. Thanks to the level design, the timed door can be avoided like this: Trigger the door without releasing monsters, then wait and quickly take the key as the door is opening. Doors can't both open and close simultaneously, so you are free to leave. It is a hair raising moment, but this time it went flawlessly. Some strange moments and surprises happened as always: The out of bounds lost souls keep opening a door, which is unnerving! This took me about 6-7 hours to do. The session included about 30 very quick deaths, but only a handful of good attempts. While this is a success, I actually play quite badly, almost dying a few times, getting blasted by archies like an idiot and whatnot. The infights can be done much faster. Anyway, together with PT15 this is easily one of my top gaming achievements. Doom + Tyson = The best chess game ever!
+

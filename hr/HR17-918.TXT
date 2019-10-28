@@ -1,0 +1,51 @@
+This is a Doom LMP Entry
+
+HR17-918.ZIP
+
+	HR17-918.TXT
+	HR17-918.LMP - UV Max
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 17 - The Black Towers
+
+=---+------+---=
+Kills       107%
+Items        80%
+Secrets     100%
+ 
+TIME        9:18	Old record: 11:44 by Chris "Ryback" Ratcliff
+=---+------+---=
+
+Demo entry #71.
+
+Description:
+
+Here is my first regular UV Max for HR, on one of my beloved levels.
+
+Ryback wrote:
+"I believe a time very close to TAS is achievable here... I mean come on, it's
+not a difficult level."
+
+When playing it at a faster pace, without wasting much time for defense, it's
+far from "not difficult", for me at least. The first spiderdemon usually
+refuses to cooperate (which leads to instant death), and the rest is also full
+of similar risky spots. After 24-28 hours, I got more or less used to these
+loads of hairy parts, and it became a bit easier to survive the entire fragfest.
+
+This is the first acceptable result (under Peo's TAS time, 9:24). My previous
+exits were 9:45, *censored*:05 and 9:41, due to lame monster cooperation and
+extra-shaky performance in the second half. Don't know if my route is the
+fastest one, but I'm sure that even 8:XX is reachable with really hard work.
+
+As for Peo's long TAS max demos, they aren't even remotely perfect, and cannot
+compete with his excellent HT10-456, for instance. His HR17-924 has a number
+of noticeable slowdowns and other unoptimized actions. If the TAS for MAP17
+was recorded by Esko, I think it would be 7:40-8:40, judging by his playing in
+HR15-654 :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done November 29, 2010, 21:45:25

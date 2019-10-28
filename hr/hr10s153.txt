@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      hr.wad
+Pwad name: Hell Revealed
+Maps:      10
+Skill:     4
+Category:  TAS Stroller 
+Exe:       Prboom+ 2.5.0.9.test -complevel 2
+
+Time:      1:53
+
+Author:    Memfis
+Email:     kuchitsu4@gmail.com
+
+Comments:  Took me 30 minutes to build. I've used 6 "savepoints" (all of them inside the house). Btw, this music is so cute! :)
+

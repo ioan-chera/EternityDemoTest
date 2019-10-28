@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hs28-027.txt
+
+hs28-027.zip
+
+hs28-027.lmp - Nightmare! 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD HRmus.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 28 - Top Hell by Haggay Niv
+
+Kills      5%
+Items      0%    
+Secrets  100%  and Time  0:27 
+              
+                          
+
+Description:
+
+Second exit.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+24.04.2004

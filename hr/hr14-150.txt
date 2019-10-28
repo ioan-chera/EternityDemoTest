@@ -1,0 +1,24 @@
+NOTE: This is a Tool-Assisted demo
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad, hrmus.wad
+Map:       14 - "City In the Clouds"
+Skill:     4
+Category:  Speed
+Exe:       Recorded with PrBoom-Plus 2.4.8.2 -complevel 2 
+Time:      1:50
+Author:    ANpDaD (also known as jongo at doomworld forums :])
+
+Stats:     Kills     13%
+           Items     30%
+           Secrets    0%
+
+Description:
+Not the fastest route, and it's not meant to be. It is just quite funny =)
+The demo looks like some kind of escape, where i release prisoned monsters
+and lead them to their long-waited freedom... 
+Complete the story yourself after viewing!
+
+
+Alexander Nikulin
+anpdad02@rambler.ru

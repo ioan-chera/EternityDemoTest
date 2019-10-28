@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      hr.wad
+Pwad name: Hell Revealed
+Map:       04
+Skill:     4
+Category:  Nomonsters
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      0:28
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Very easy glide!
+           Can be useful for speed/pacifist runs.

@@ -1,0 +1,34 @@
+This is a Doom LMP Entry
+
+HR16-210.ZIP
+
+	HR16-210.TXT
+	HR16-210.LMP - UV Speed
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 16 - The Path
+
+=---+------+---=
+Kills        19%
+Items        50%
+Secrets      50%
+ 
+TIME        2:10	Old record: 3:02 by Casey "Altima Mantoid" Alvis
+=---+------+---=
+
+Demo entry #23.
+
+Description:
+
+Recorded this to have some easy fun after HN16. I only wanted something below
+2:20 (because Cameron Prosser's TAS Pacifist time is 2:26).
+
+Took just a few minutes. A typical unpolished first-exit run, but I like the
+crazy ending of this demo. With flawless running and brilliant luck, it's doable
+in 1:5X without the trick glides :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done January 25, 2010, 11:24:10

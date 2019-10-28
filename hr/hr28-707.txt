@@ -1,0 +1,104 @@
+
+*******************************************************************                                     *          **
+                                         **************************                                     *          **
+Author: Claudio Barba                       ********************                                        *          **
+E-mail: elguapo@access.unizh.ch                   *********                                             *          **
+Skill:  4                                           *****                                               *          **
+Fast:   nope                                          *                                                 *          **
+Game:   Doom ][                                     *****                                               *          **
+Wad:    Hell Revealed (HR.WAD)                    *********                                             *          **
+Map:    28 (Top Hell)                       ********************                                        *          **
+Time:   7:07                             ************************                     *                 *          **
+                                                                                     * *                           **
+*******************************************************************                 *   *               *          **
+                                                                                   *  *  *                         **
+number of cybies: 14                                                                *   *                          **
+total health/armor/cells: 2175/1608/3600                                             * *                           **
+difficulty: ridiculously easy if you know how to strafe, otherwise easy               *                            **
+recommended watching using the music wad from requiem, reqmus.wad (when using -timedemo ie)                        **
+                                                                                                                   **
+                                                                                             *                     **
+********************************************************************                        * *         *          **
+                                                                                           *   *                   **
+                        ******************         *****************                      *  *  *       *          **
+                             ************           *************                          *   *        *          **
+                                                                                            * *                    **
+*********************************************************************                        *          *          **
+                                                                                                                   **
+                                                                                                                   **
+other demos by the                                                                                  *              **
+author (for doom2): lv27-358, fa28-301, lv12-407, fa18-306, hf28-836 etc                           * *             **
+                                                                                                  *   *            **
+additional credits: Opulent, Esko (for his MBF demo), and of course Anders, it's                 *  *  *           **
+                    always a pleasure to improve one of his demos, I guess when                   *   *  *         **
+                    AV is finished, we'll see how fast he really can do it :)                      * *  *          **
+                                                                                                    *  *           **
+******************************************************************************* * * * * * * * * * * * *            **
+                                                                                                                   **
+                                                                                                                   **
+      *********************************                       **************                            *          **
+                      ******************                         *********                              *          **
+****************************************************************************                            *          **
+                                                                                                                   **
+                                                                                                                   **
+description: 													   **
+														   **
+I rule hell.. err.. "top hell, strange name for a BFG party.."							   **
+             													   **
+well, after snatching a couple of doom2 max records I wanted to try something else, 				   **
+and since this map is very enjoyable, pretty small, and action-packed, some weeks ago    			   **
+I decided to give it a try..                                                  					   **
+														   **
+This is more than a minute faster than Anders' previous demo, but all I did were some small 			   **
+modifications here and there, nothing to write home about really.. maybe some better weapon 			   **
+usages or more effective BFG handling (like killing the 10 fatsos in the berzerk room with  			   **
+three shots rather than four, or fragging the cybies on the ledges from closer range). 				   **
+Remember that there's a lot of cells so dont be afraid to use BFG even on the barons. 				   **
+("I like that ssshttt-cruuuoooo when I kill Barons with the BFG, sometimes it sounds 				   **
+ssshtttt-crzzzz-cruuooo, when a Baron decides to give me his hand before he dies" :D				   **
+														   **
+Funny thing I look around but still managed to forget a cell pack. 						   **
+I dont like the endroom since often the three archies hide from me and start reviving mancubi			   **
+like madmen, very ammoconsuming.. very frustrating..								   **
+														   **
+														   **
+Uhm, long text-file, hope I haven't missed anything :P 								   **
+Under 7 minutes should be rather easy, I might do it myself on a cold and rainy day, but first 	          	   **
+I'll need a new mousedriver (mine sucks), feel free to send donations, they're always welcome....                  **                                          **
+                                                                                                                   **
+                                                                                                                   **
+                                                                                                                   **
+                                                                                                                   **
+                                                                                                                   **
+      **************************************************************************************            *          **
+     *******************************************************************************                    *          **
+    **************************************************            **************                        *          **
+   *******************************                        *********                                     *          **
+  ************************                          **   **                                             *          **
+ ******************                                  ** **                                              *          **
+*****************                                      *                                                *          **
+                                                     ** **                                              *          **
+                                                    **   **                                             *          **
+                                                                                                                   **
+******       *********           ****    ***         **         *     ********                          *          **
+    **********        *******   ********************  ** ** ** ** ** ** ** ** **                        *          **
+                                                                                                                   **
+*********   ** *      ***** * * *** ** ** **** ** ** *** * * ** ** ** ***** ** *                        *          **
+**  **  **  ** *********** *** * ***** *** **** ***** ** **** ** ** ***** * * * *                       *          **
+                                                                                                                   **
+                                                                                                                   **
+                                                                                                                   **
+                                                                                                                   **
+*********************************************************************************************************************
+*********************************************************************************************************************
+*********************************************************************************************************************
+          **   **  *****      ******    ****       ********    ****    ********           **********                *
+          **   **  **  **    *   **** **    **      *******  ***  ***   *******             *********              **
+          **   **  **   **        *** **    **          **   **    **       **               *********            ***
+          *******  **  **        ***    ****   ***     **    **    **      **                 *********          ****
+          *******  ******       ***     ****   ***    **     **    **     **                 *********          *****
+          **   **  **  **      ***    **    **       **      **    **    **                 *********          ******
+          **   **  **   **    ******  **    **      **       ***  ***   **                 *********          *******
+          **   **  **    **  ********   ****       **          ****    **                 ********           ********
+*********************************************************************************************************************
+*********************************************************************************************************************

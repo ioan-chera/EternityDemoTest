@@ -1,0 +1,33 @@
+hr15p020.zip
+ hr15p020.lmp
+ hr15p020.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file hr.wad -playdemo hr15p020
+
+Hell Revealed - Level 15 - Gates to Hell
+
+Category: UV Speed / Pacifist
+
+Totals:
+
+Kills	  4%
+Items	  0%
+Secret	  0%
+
+Time    0:20
+
+
+Comments: 
+
+Route credits to Grazza - two switch tricks and an
+exit glide. Archie can be a bit uncooperative, and
+the chaingunner is a nuisance if you insist on
+keeping it pacifist, but otherwise easy. The time
+could still lose a second or two.
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+11/04/2007

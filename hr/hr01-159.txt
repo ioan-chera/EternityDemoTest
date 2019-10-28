@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:		hr.wad
+Pwad name:	Hell Revealed
+Map:		1
+Skill:		4
+Category:	UV Max
+Exe:		Doom2.exe
+
+Time:		1:59
+
+Author:		Ilkka Kunttu
+Email:		ilkkaknt@voimax.cygnnet.jkl.fi
+
+Comments:
+		It took me a couple of tries until I completed this
+		under 2 minutes, mostly because it takes so long
+		for that last imp to teleport! This time however
+		all monsters teleported in nicely.
+		

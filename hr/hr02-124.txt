@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR02-124.TXT
+
+ HR02-124.ZIP
+
+  HR02-124.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 04 - Gateway Lab
+    
+  Kills     50%
+  (Items    26%)          ********
+  Secrets  100%  and Time * 1:24 * 
+                          ********
+                          
+
+  Description:
+
+  Woo, nice!
+
+  This level construction is too bad for speedrunning.
+  After activate switch in room, where is secret to SSG, you want return 
+  back (go to blue door), you have problem.
+  The pigs and hens (demons and specters) can stop you :P
+
+  The exit room is uneasy too :/
+  So, Altima, what now? :)
+
+
+  Jakub "DooMerMan" Machata
+  kuba-m@seznam.cz

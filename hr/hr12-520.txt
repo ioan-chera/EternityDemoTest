@@ -1,0 +1,15 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      12
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.3
+Time:      5:20
+
+-complevel 2
+
+Author:	   j4rio
+
+
+Another quick fast-food demo. It's faster than 
+current max so why bother.

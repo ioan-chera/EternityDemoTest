@@ -1,0 +1,23 @@
+WAD: Hell Revealed
+MAP: MAP24: Post Mortem
+Time: 0:37
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+I love the WAD hell revealed, and I was poking around on some maps (this was
+one of them of course ;D) and I was trying to find all the secrets for what-
+ever reason. (I think this is a cool, traditional MAP24, and I haven't play-
+ed it in a while, so I figured I'd try to find all the secrets. Then, in the
+second secret (with the BFG and that platform with all the pillars), I won-
+dered if strafe-jumping would be possible to that platform with the switch. I
+tested it a little, and decided it was not (unless you used permanenet S50 or
+something, which I don't use; actually, I don't use strafe-50 at all... just
+my trusty keyboard :D). Then, I wondered about a rocket jump from one of the
+pillars. I tested it a bit, and to my amazement, I was actually able to per-
+form it rather well, and I suck at rocket jumps! :) Needless to say, the jump
+is very easy, but it's still one of those either-you-get-it-or-you-don't sce-
+narios. ;) This took about 5 tries. XD And I can't believe how much time it
+saves... I beat the previous record by 1 minute and 5 seconds, even if it was-
+n't really meant to be TOO fast... oh well, nice record for me. ;D
+
+--Doomdaniel95

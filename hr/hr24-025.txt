@@ -1,0 +1,74 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR24-025.TXT
+
+ HR24-025.ZIP
+
+  HR24-025.LMP - Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 24 - Post Mortem
+        
+  Kills      8%
+  (Items    29%)          *********
+  Secrets   33%  and Time * 00:25 *
+                          *********
+                          
+
+  Description :-)
+  
+  Since Cameron and Adam chose to only do the nightmare
+  run, I thought I should beat Yonatan's(Mr. ???) demo.
+  
+  AdamH's nm record is :21...
+  take off 2 seconds for more monster movement in UV...
+  take off 1 second for slower AV jump...
+  take off 1 second because it's Adam...  =D
+  gives you :25... which was my target.
+
+  You can see in the demo that :23 is _easily_ 
+  reachable by a real speedrunner... no reason why a 
+  lucky UV run couldn't duplicate :21, but I think it
+  would be harder than nm.
+ 
+  I always thought that jump was SR50...  shows how 
+  much I know, huh?  :)
+  Such an easy run, I expect this to last a very short
+  time...
+  
+ 
+other!:  hehe
+Been without the internet for several days.  :(
+re-read some old email of my brothers'...
+some humourous Quake haiku for your reading enjoyment. :)
+
+===
+Q3dm17
+
+Calculating my dance
+to slip out in flight to the railgun,
+hanging low
+gently tapping them off to rapid death.
+
+Bouncing back in rapid flight
+scorpion sting nips my side
+but just who can say
+what is the wrong place for me to be
+
+Rockets shower from the yellow armor
+Railman zooms in
+lone warrior strafes towards bullets
+quad_factor prevails.
+===
+
+Fog settles slowly
+distant bullets ricochet
+unused quad runs out
+q3dm14 sucks ass.
+
+
+  Doug Merrill
+  opulent@mindspring.com
+ (my old isp just died...)

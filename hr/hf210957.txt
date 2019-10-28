@@ -1,0 +1,11 @@
+Player: Alexander Sushkov
+E-mail: sushkov@thsun1.jinr.ru
+Skill:  4 (uv)
+Fast:   Yes!
+Game:   Doom2
+Wad:    Hell Revealed (HR.WAD)
+Map:    21
+Time:   09:57
+LMP:    HF210957.LMP
+
+Credits to: id Software, all HR authors and players

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR03-223.TXT
+
+ HR03-223.ZIP
+
+  HR03-223.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 03 - The Dumpster
+
+  Kills    100%           
+  (Items    80%)          
+  Secrets  100%  and Time   02:23
+                            -----                         
+                          
+
+  Description: This time is not bad, but this demo is quite ugly. I didn't 
+               hope i can get it under 2:30. The route credits go to Henning
+               Skogsto.
+  
+  
+
+Author:  Radek Pecka
+E-Mail:  r.master@email.cz

@@ -1,0 +1,48 @@
+This is a Doom LMP Entry
+
+HN12-117.ZIP
+
+	HN12-117.TXT
+	HN12-117.LMP -- Nightmare!
+
+Recorded using GLBoom-Plus v2.5.0.8 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+640x480, gamma level 4, capped framerate
+HUD not used
+
+Hell Revealed -- Level 12 -- "Great Halls of Fire"
+
+=---+------+---=
+Kills        25%
+Items        30%
+Secrets      33%
+                
+TIME        1:17.00	TAS record: 8:36 by Peo Sjoblom
+=---+------+---=	
+			
+Demo entry #110.
+
+Description:
+
+This level is not as exciting as 11 or 13, but still a good introduction to the
+second episode. Great fun to speed through.
+
+Peo's TAS run obviously contained quite a lot of redundant actions, and beating
+it was on my to-do list for a long time. At first it seemed very frustrating to
+me, but later I discovered that it's easier to rush the map with minimum amount
+of detours to powerups. Getting the BFG is not worth the trouble. So the result
+is much lower than my initial target (sub-2:00).
+
+A relatively easy and comfortable run, even though significant luck is
+necessary. Lots of goodies, but the slightest imperfection in monster behavior
+can ruin your health instantly.
+
+This took a very little effort, only one morning-session. Nice first exit, some
+confusion early in the run, but the time is faster than what I was aiming for --
+around 1:26, which is 1/6 of Peo's TAS time :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done March 19, 2012, 10:46:44

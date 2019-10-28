@@ -1,0 +1,28 @@
+This is a .LMP Entry for hr.wad
+
+HR24-833.TXT
+
+ HR24-833.ZIP
+
+  HR24-833.LMP - UV Max
+
+  Recorded using PrBoom+ 2.4.8.1 -complevel 2
+  
+  Kills    106%
+  Items     94%          
+  Secrets  100%  and Time   8:33
+                        
+  Inspired by Ryback's recent -fast run, I combined elements of his route
+  and Eugene's Compet-N max with some of my own ideas.
+
+  Taking this under 8 minutes is definitely possible. There are some major
+  screw-ups in the early part of the demo, unnecessary damage taken at 
+  some of the cyber fights and unplanned safe plays at the archviles near the end.
+
+  1st exit, I really wanted to improve upon it but I find that I have less
+  and less free time to spend on Doom these days.
+  
+  
+
+  Przemys³aw "Belial" Woda
+  nowylepszyszatan@wp.pl

@@ -1,0 +1,40 @@
+This is a Doom LMP Entry
+
+HR05-242.ZIP
+
+	HR05-242.TXT
+	HR05-242.LMP -- UV Max!
+
+Recorded using GLBoom-Plus v2.5.0.8 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+640x480, gamma level 4, capped framerate
+HUD used (timer, monster counter)
+
+Hell Revealed -- Level 5 -- "Core Infection"
+
+=---+------+---=
+Kills       100%
+Items       100%
+Secrets     100%
+                
+TIME        2:42.94	Old record: 3:09 by j4rio
+=---+------+---=	TAS record: 2:43 by Yonatan Donner
+			
+Demo entry #109.
+
+Description:
+
+Lots of great plasma action which nicely harmonizes with the level design. The
+whole map consists of cramped rooms, but they don't have many awkward structures
+(such as odd angles or uneven ground), and are pure fun to run through.
+
+Yonatan's 2:43 is one of my favorite HR TAS demos, but it's still far from
+perfect, just like other TASes of the past century. I played the nasty beginning
+carefully, without trying to replicate Yonatan's luck-manipulation with gunners,
+but saved enough time in other parts, and reached my goal at the first exit.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done March 17, 2012, 15:48:17 

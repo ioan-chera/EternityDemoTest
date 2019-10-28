@@ -1,0 +1,74 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      01-32 sans 32   =(
+Skill:     1 !  hehe
+Category:  Max 
+Exe:       Doom2 + Boom2.02
+
+Time:      
+
+01	 1:01
+02	 2:05
+03	 2:43
+04	 1:32
+05	 2:52
+06	 3:30
+07	 1:57
+08	 3:16
+09	 4:20
+10	 2:42
+11	 8:18
+12	 4:27
+13	 7:02
+14	12:44	99K	80S -- BFG strafe secret
+15	11:42		66S
+31	 5:12
+32 	 ----	 =(
+16	11:13	93K	50S
+17	 7:01		50S
+18	16:53	99K
+19	 2:40
+20	 5:46	96K
+21	 6:02
+22	 6:15
+23	12:55	99K	 0S
+24	15:05	99K	16S
+25	 7:45
+26	16:12
+27	 6:14	98K	 0S
+28	 4:18
+29	11:33	98K	 0S
+30	 2:53
+
+3:28:08  (total playtime is 3:35:01)
+
+Author:    Opulent -- Doug Merrill
+Email:     opulent@goodnet.com
+HP:	   http://www.goodnet.com/~opulent/doom2.htm
+
+Comments:  
+
+Some maps are really easy, some are somewhat hard.
+I nearly die on 24, 26, and 30.
+Make a bunch of mistakes, but none as big as exiting 
+with the wrong exit on 31.  =(
+
+Most of missed monsters and secrets is due to my
+unfamiliarity with the some of the maps.
+Also, those bastards don't teleport as fast on skill 1.
+Map20, I back into the teleporter when battling a 
+Cyberdemon, so I miss my chance to kill him.
+
+Best frag is Cyb. kill on Map22.  =)
+Best moment is the last one.  =D
+(It takes me 10(!) times up the lift on Map30! --
+last run I only have 9% health! -- Whoo hoo!)
+
+449456 gametics = 12841.6 seconds == 3:35:01.6
+
+not sure, but I think this is the longest Doom demo ever at the time of this writing.
+Mike Toliver has a 3:25:18 with 1coopwad.wad.
+Who the hell would want to sit through this!?   =-)

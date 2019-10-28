@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:       hr.wad
+Maps:       24
+Skill:      4 
+Category:   fast (tool assisted speedrun)
+Tools used: slowmotion 80%, segmenting, permanent strafe50, strafe50 on turns
+Exe:        prboom-plus.exe -complevel 2
+
+Time:       3:28
+
+Author:     Light_Speed (aka odysseyofnoises)
+Email:      cubecat589@gmail.com
+HP:	    http://youtube.com/odysseyofnoises/
+
+Comments:   INSANE map. archviles blinding me, revenants everywhere, 3 cyberdemons in cage hard to kill, lost souls......

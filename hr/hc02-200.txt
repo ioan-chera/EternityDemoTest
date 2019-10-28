@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HC02-200.TXT
+
+HC02-200.ZIP
+
+HC02m200.LMP 
+HC02mg200.LMP - Ultra-Violence Max, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 02
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ***********
+  and Time -  * 2:00.00 *
+              ***********
+
+
+Description:
+player 1: Adolf "Gusta" Vojta
+player 2: Jakub "method_man" Razak
+
+Jakub:
+No comment :)
+   
+Adolf:
+Cool time :).Our better timing at the end would improve it a bit but we really don't worry 
+
+
+Authors:      Jakub "method_man" Razak
+	      Adolf "Gusta" Vojta
+
+E-mails:      dale007@volny.cz
+	      hita@seznam.cz

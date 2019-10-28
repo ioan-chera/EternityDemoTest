@@ -1,0 +1,18 @@
+** This is a tool-assisted coop demo! **
+Tools used: building frame-by-frame
+
+PWAD: HR.WAD + HRMUS.WAD
+PWAD name: Hell Revealed
+Map: 02 "Gateway Lab"
+Skill: UV with -nomonsters
+Category: Speed
+Exe: xdre.exe 2.06 + lmpc32.exe 3.4.4
+
+Time: 0:08.83
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+HP: https://www.youtube.com/channel/UCDTi_RRMEduPf5hp7aXS8Nw
+
+Comments: player4 was useless, sorry.
+Also includes UV Speed in 9.49 and 9.46 (2 players).

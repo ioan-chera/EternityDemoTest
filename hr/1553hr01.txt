@@ -1,0 +1,76 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1553HR01.TXT
+
+ 1553HR01.ZIP
+
+  1553HR01.LMP - Ultra Violence speed Movie!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+ **********************************************
+ * LEVEL         TIME * 1718HR01 TIME *  HR-N *         
+ **********************************************
+ *  01 	 	  :13 *     :17       *   :07 *
+ *  02 		 1:03 *    1:17       *   :48 *
+ *  03		 2:09 *    2:18       *  1:25 * 
+ *  04  	  :40 *     :42       *   :37 *
+ *  05  	 3:14 *    3:08       *  2:20 * 
+ !  06  	 1:15 !    2:00       !  1:22 !
+ *  07  	 3:54 *    3:08       *  4:12 *
+ *  08  	  :52 *     :55       *   :35 *
+ *  09  	 1:46 *    2:41       *  1:03 * 
+ *  10  	  :47 *     :52       *   :39 *    
+ **********************************************
+ * TOTAL TIME   15:53 *   17:18       * 13:08 *
+ **********************************************
+
+  Description :-)
+
+  Guess who큦 back.
+  Back again.
+  DooMerMan back, tell a friend,
+  Guess who큦 back, Guess who큦 back, Guess who큦 back ......
+
+  Yeah, DooMerMan is back after long 6 none-record
+  days.
+  I trying to play optimal hr04 (36 seconds), but
+  after :37.00, my nervs crashed ...
+
+  But... Andy, hr06 Max - Barons can stay alive, you can
+  kill some spawn-Zombiemans or Imps ... (Archie can help you!)
+  And Radek, try hr04 Max again - start of run is great,
+  but continue of the lmp is ... I have four 1:24, so go
+  for it, it큦 possible about 1:15.
+
+  And now I going for 1648HR01 comment:
+  
+  Map01 - I used speedroute, I don큧 take chaingun
+  Map02 - classic movie route (survival), I ending with 
+          0 shells and 17% of health, nice
+  Map03 - two hard jumps... My stats is 0% (0 suceed jumps
+          from 2 possible jumps)
+  Map04 - hmhm, nice speedrunning, but damned :40 ?!
+          When I tried hr04 Speed I always have :37,:38 ...
+          But look at yellowkey pasage - :oh my eyes:
+  Map05 - survival run. I have problems with Mancubus큦 IDCLIP
+          shots, when I have only 30%
+          After this, I have 5% health, when I want to go for
+          activate first switch!
+  Map06 - YEAH! Ssupa! Plasma is very helpful here, time is better
+          than HR-N best time.
+  Map07 - very bad, it큦 too hard without sound (WIN 2k)
+  Map08 - survival. I have colizion, when I came from "gunner room",
+          two hot Barons stay in the door like cocks.
+          Next problem is Cacodemon and Pain Elemental.
+  Map09 - redkeygrab LIVE :
+          1st try: "hm"
+          2nd try: "eh"
+          3rd try: "fuck"
+          4th try: "shit"
+          5th try: "I got it, but the time?" Time is OK.
+  Map10 - Pacifist route. Easy map.
+
+  Jakub "DooMerMan" Machata
+  kuba-m@seznam.cz

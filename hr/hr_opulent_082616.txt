@@ -1,0 +1,29 @@
+
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      various
+Skill:     various
+Category:  Max and -fast
+Exe:       Doom2.exe
+
+As with all of my demos since 1995:
+Completely vanilla setup with doom/doom2.exe, no cheats, source-ports(with the exception of a scant few MBF/Boom demos), or crutches.
+native OS calls, no autorun, no mixed key binds, TSRs, or config cheats
+This is the real game.
+
+There is a single prboom-plus demo in here too.
+==========================
+
+Picked DOOM back up in 2016.  I haven't played more than a few minutes here and there for nearly 10 years.  It is remarkable how much of HR I have forgotten.  I've been watching some demos and recording some single map levels to recall the routes and re-learn the maps.  I'm still very rusty, but I do manage some new single map records of mine.
+
+I had been wanting to re-visit HR since my previous HR compilation... finally to do Map24... and hopefully a UV max movie... and have some fun playing DOOM once again.  
+
+I provided a more comprehensive HR html table... I'm not 100% certain it is fully accurate or complete.  And there are some miscellaneous demos that are intentionally missing.
+
+The misc/junk demos are two buffer overflow demos and a couple fun oddities on Map24.
+
+
+Doug 'Opulent' Merrill
+8/26/16
+
+

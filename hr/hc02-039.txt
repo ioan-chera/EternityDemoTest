@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HC02-039.TXT
+
+HC02-039.ZIP
+
+HC02-039.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 09
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:39 *
+              ********
+
+
+Description:
+player 1: Torn
+player 2: Erik
+
+Erik:
+Quite a deadly run, first exit. Msn zone stuff.
+   
+Torn:
+annoying map, but fun coop session
+
+Authors:      Erik Alm
+	      Kim "Torn" Bach
+
+E-mails:      erik_a80@hotmail.com
+	      tornthedark@hotmail.com
+

@@ -1,0 +1,40 @@
+This is a Doom LMP Entry
+
+HN16-216.ZIP
+
+	HN16-216.TXT
+	HN16-216.LMP -- Nightmare Speed!
+
+Recorded using GLBoom-Plus v2.5.0.8 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+640x480, gamma level 4, capped framerate
+HUD used (timer)
+
+Hell Revealed -- Level 16 -- "The Path"
+
+=---+------+---=
+Kills        41%
+Items        50%
+Secrets      50%
+                
+TIME        2:16	Old record: 2:28 by me
+=---+------+---=	TAS record: 5:11 by Peo Sjoblom
+			
+Demo entry #111.
+
+Description:
+
+An extremely fun run through a huge magnificent level, so I decided to play it
+for the THIRD time. Now I tried to go for true aggression, eliminating the
+redundant delays and detours of my 2:28 run.
+
+First exit again, and I didn't expect a whole 12-second improvement over my
+recent record. Demo turned out the way I wanted -- some natural slow/ugly bits
+don't disturb me. The straferunning is much more daring than in HN16-228 -- in
+particular, I was lucky to survive that direct rush through final scenes.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done March 25, 2012, 17:49:12

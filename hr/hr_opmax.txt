@@ -1,0 +1,177 @@
+Opulent's Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      all, but 24
+Skill:     4
+Category:  Max 
+Exe:       Doom2.exe
+
+Time:      
+
+Map01		 1:55
+Map02		 3:40
+Map03		 3:54
+Map04		 1:55
+Map05		 6:23 (have since squeezed a 3:53 for the compet-n)
+Map06		 5:46
+Map07		 7:15
+Map08		 7:37
+Map09		23:08		new
+Map10		 6:49
+Map11		32:41		new
+Map12		 9:46
+Map13		29:41
+Map14		46:54		new
+Map15		33:45		new
+Map16		35:48		new
+Map17		20:55 / 30:43
+Map18		32:57
+Map19	 	 5:18
+Map20		29:41
+Map21		18:03
+Map22		21:35
+Map23		35:41		new
+Map24		loser
+Map25      	 7:45 / 10:34   new
+Map26		53:53		new
+Map27		17:22		new
+Map28		13:08 / 17:08
+Map29		20:35		new
+Map30		  :34
+Map31		17:32		new
+Map32		 9:17		new
+
+total time: 
+
+new ones are marked -- like anyone is really actually reading this.  :)
+
+Author:    Doug 'Opulent' Merrill
+Email:     opulent@goodnet.com
+HP:	   http://www.goodnet.com/~opulent/doom2.htm
+
+Comments:  
+
+Big credits to Chris Ratcliff (the first person to do all the maps) for encouragement and great example demos -- and to all the other HR demo players for their good examples as well.
+Many of these were first recordings, and most were kept if they were successful, so they are somewhat improvable by me, as well as having little replay value for anyone else.   (that is, watch the other HR demos; these are a waste of your time!)
+see Map24 for incompleteness comments...
+
+Map01: not much to say. not a bad time.  2nd attempt
+Map02: easy map.  even easier than the real Map02.  First attempt.
+Map03: Hideous demo.  I just didn't bother re-doing it.  First attempt.
+Map04: Another easy map. Fun to play too!  Second attempt.
+Map05: Nice to see other players' demos for this one. Fourth attempt.
+Map06: Only a second attempt! Not a bad demo for me. I didn't play it enough to remember where to go.  :)
+Map07: I mix everyone's routes on this one.... not man enough to play it like the big boys.
+Map08: I should improve this, I guess.  First attempt that I made it passed the imp/demon room.  The map is harder than it looks.
+
+Map09 -- not as hard this time around.
+still an unfriendly tyson map(besides the berzerk at the start).
+guess I should be glad there was no Cyberdemon...
+
+Map10: First attempt(after that bug demo). easily improvable...
+
+Map11 -- well, easy map when you take it so carefully.  the third Cyb really did all my work for me(what a workhorse!).  :)
+Oh, I waste all those cells on the SpiderMastermind, because the last time I played this, I died after not killing her with 2 shots!
+
+Map12: I actually got all the secrets, just didn't register.
+Tried Anders' route a bunch of times -- ARGH!  How does he control the Baron movements so well?  hard route to use.
+This is an average, academic demo.
+
+Map13: Just like with Map12, I tried the FAST route again and again.
+Just too easy to die from a random event on this map.
+For those interested, it is not that hard (for a good player) to duplicate Peo's run.  I can get to the yellow key area pretty easily.
+perhaps I'll improve this later.
+
+Map14 -- first try.  :)   Watched Chris' demo right before it... used his route from start to finish.  :)
+Since I was my first try, I made one mistake at the small Cyb room -- I didn't lower the bfg teleporter -- had to go back in and get it.
+I get a really close shave from the first Cyberdemon... and I eat 2 rockets.  (takes me 11 tries at the bfg strafe-secret, btw)
+
+Map15 -- well, I couldn't remember how to get all the secrets, so I had to exit normally.  great Doom design here -- wonderful map.
+run for the plasma gun and all is well...
+there is a lost soul in the wall(no pun intended!)
+not as hard as I had originally thought -- tried this map like 40 times a month or two ago and couldn't do it.  This was a first try.
+
+Map16 -- pfft.  a lot easier than I expected.  first try(but I watched Chris' demo closely right before it).  
+not that you can't die, but the second half has so many cells and health.  get a good amount of infighting and good rocket use and you'll save tons of ammo.  biggest danger is using your rad suits unwisely and running out of them...
+now I have the terrible 3 left -- 23, 24, and 26.  =0
+
+Map17: follows Chrozoron's fast route... kind of.  =)
+absolutely amazing I survived -- from myself   on this run.
+I miss the blur sphere secret.
+very fun HR map.  plenty of room to play around in.
+
+Map18: my first try.  improvable. pretty easy.
+
+Map19: nice dynamic with the health/weapons.
+       key is the Cyb. kill
+
+Map20: harder than the last few. run for ssg is a good move.
+
+Map21: Well, an archie didn't teleport... which is not unusual for this map.
+No big deal really -- that's just 3 less rockets for the other part.  =)
+Played it safe like usual for my HR collection.
+I hope to have time to go back and play fun maps like this one again so I can improve my times.
+The infighting really doesn't save you much.
+actually, I think it wastes more time, but saves some ammo.
+I am trying to get the Cyb to teleport at the end...
+
+Map22: Both Chris and Claudio urged me to try this map.
+It sure is fun.  Great, simple design.  Challenging, but not overly hard.
+I would consider it the easiest of the HR hard maps... or the hardest of the HR easy maps.  :)
+I make one REALLY dumb, timewasting mistake -- I release the 4 cybs before I am ready to face them.  doh!
+This is one of those levels that if everything goes right, you can really reduce your time.  bfg-ing all the Cybs at close range will drastically reduce your playtime.
+I leave behind 4! megaspheres... perhaps I should play this again a bit more carelessly...
+watch Anders' demos.
+
+Map23 -- well, the first part requires several tries, but the last 1/2 is much easier.  If you get caught by any of the traps, you WILL die.
+I take it really slow and safe.  the first part wasn't as good as many of my earlier tries.
+thanks to Chris once again for invaluable info and example demo.
+
+Map24 -- well, after taking so many wasted tries to finally can hr26, I have run out of time that I can devote to this demoset.
+I think this *very* slow recording shows that I can do this map.  very safe route... and about 5 megasphere lying around for this one sequence, then there is the invulnerability-final sequence -- and that's it.  kind of sucked to die by multiple invisible archvile attacks.  =(
+just a mistake on my part.  I wish I had the time to finish this, but I really should have closed the dsda long ago...
+
+Map25 -- first try.  I could really could cut some time here on my next try by being a little brave.
+*updated* -- tried a -respawn 25 demo for the compet-n. quickly realized that that was one of the dumbest ideas I have had in awhile, so I did another maxdemo in a much faster time.
+
+Map26 -- UGH! What a pain in my fucking ASS!  The map itself is not that hard.  There is really only one hard part: the fourth teleporter at the 'second' area -- the one that releases the revenents and Chainers.  In this run, I do the start slower than normal (I have done it at least 80 times in the last week), but this hard part goes really well.
+The problem I had been having with the map is that it is very long and I repeatedly got visiplane crashes at the final battle in the 'third' area.
+When you play for 45 minutes and it just crashes, you are not happy...
+at the time of this writing, Chris managed 32 minutes without the ghosts... IMO, since the ghosts are not monsters as accountable by the engine, so they are not needed to get a maxdemo.(but Adam decided differently for the Compet-n, which is fine -- they are a feature of the map)
+I prevent the ghosts in my demo, BTW (thanks to Chris for the info on that -- but it really is not hard to have ghosts at the end of the map. If you had ghosts DURING the map, it would be different.)
+on to 24!
+
+Map27 -- an early attempt -- never looked in an editor and did the run from memory of others' demos.
+so I didn't know about the monster-impassable lines, etc...
+didn't save cells for the final Cyber. and didn't make him infight with the Barons...
+wimped out at the first Cyberdemon...
+
+Map28: easiest of the big action maps.
+first recording: I had never recorded max demos for HR.
+after watching a bunch of demos, I new that this map wasn't very hard.
+(provided you take it safe and slow like I do)
+I will do some other HR maps, then come back and improve this.
+doom2 -file hr.wad hrmus.wad -timedemo hr281708
+is an absolute must, unless you are a sadist.
+second recording: Well, not much of an improvement from my 17:08, but I wanted an easier diversion after hr22.  
+
+If you can optimize your cells(like Claudio does), then you can use the bfg
+all over the place and reduce the time greatly.
+
+29 -- another early attempt.  I hate that black area.  the rest is easy.
+last room should have 4 or 5 Cyberdemons, IMO.  but then 30 is so hard, that it is good that 28 and 29 are a bit easier.
+
+Map30: harder than it looks.
+unforgiving final map when recording a movie.
+I feel for anyone who movies on UV to Map30...  good luck!
+
+31 -- wimp out at the start and this is easy.  very impressive records on this one.  trimming time is not easy.
+lots of cells, lots of infighting.  got the strafe exit on the first try EVER.  hehe
+
+32 -- harder than Anders and Chris had said.  at least for me.  clear the second area and you're home free.
+sometimes, you run low on cells...  the key here is speed (and killing the archies).
+
+Thanks for reading!
+Doug

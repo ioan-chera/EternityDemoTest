@@ -1,0 +1,50 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+Please forward it...
+
+HR06-348.ZIP
+
+ HR06-348.LMP
+
+  HR06-348.TXT -Ultra-Violence MAX
+
+  Recorded using "DooM 2 v1.9 - Hell Revealed" ! (Complevel 2)
+  DooM2 -file hr.wad hrmus.wad -PlayDemo with Version 1.9
+
+  Hell Revealed - Level Six - The Round Crossroads
+
+  Kills: 125 / 125 (100%)
+  Items:  11 / 13  (84%)            ********
+  Secrets: 2 / 2   (100%) and Time  * 3:48 *
+                                    ********
+  C-N entry #39.	Date:03/18/2012
+
+  Description :)
+  Still far behind j4rio's PrBoom-Plus HR06-327 but as far as COMPET-N is
+  concerned, mine's a record, so here you go.
+
+  Ahh, what a great way to start the week, with a C-N entry :)
+  I miss you Lele...
+								
+								
+  By the way, COMPET-N record was 3:50 by me, timestamped:
+  Sunday, January 15, 2012, 1:42:09 AM
+
+  Complete Historic COMPET-N Leaderboard:
+  HR06-757 - Yonatan Donner - 05/25/1997
+  HR06-407 - Anders Johnsen - 04/26/1998
+  HR06-354 - Anders Johnsen - 05/16/2000
+  HR06-350 - Archy          - 01/15/2012
+
+
+  Note: Since this demo was recorded with HR.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/585/hr.zip
+        and pick it up if you havn't already :) 
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  		
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

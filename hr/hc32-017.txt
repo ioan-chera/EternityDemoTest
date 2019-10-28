@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HC32-017.TXT
+
+HC32-017.ZIP
+
+HC32-017.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 32 - Mostly Harmful
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:17 *
+              ********
+
+
+Description:
+player 1: Torn
+player 2: Erik
+
+Erik:
+After doing NM faster than our old UV time we thought we could just as well go
+back and improve this one. 7 sec improvement came after about 15 min of play with
+some route tweaks and better timing.
+MSN zone stuff as usual.
+    
+Torn:
+heh, piece of cake on uv, compared to nightmare!
+
+Authors:      Erik Alm
+	      Kim "Torn" Bach
+
+E-mails:      erik_a80@hotmail.com
+	      tornthedark@hotmail.com
+

@@ -1,0 +1,188 @@
+
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      1-30 (skip 31/32)
+Skill:     3 (Hurt Me Plenty)
+Category:  Max 
+Exe:       Doom2.exe
+
+As with all of my demos since 1995:
+Completely vanilla setup with doom/doom2.exe; no cheats, source-ports(with the exception of a scant few MBF/Boom demos), or crutches.
+native OS calls, no autorun, no mixed key binds, no TSRs, or config cheats
+This is the real game.
+============================
+
+
+I remember playing arcade ROM games(Asteroids, Robotron, Frenzy, etc...) for hours at a time on a single play in the arcade.  With both Frenzy and Race Drivin' I quit a bit after 8 hours, on several occasions, as I could play those games non-stop on a single quarter.  Back in the Robotron days(1984 or so), I learned that arcade games had difficulty settings(to reduce the length of time a person would occupy the game).  I guess I've always had some gaming endurance.
+
+Even though I would have had a tough time playing this back in 2000, this run isn't anything special.  It is just long.  It is really just me casually playing until Map30 when I cross my fingers and hope for some luck(as well as hope I play better than usual).
+
+When you think of HR, you think of Map22, 24, 28, with rows of ammo and lots of big bad guys, but really HR isn't quite that.  Or at least not compared to many notable slaughter maps around now in 2016.  There is not a lot of extra ammo, even in a movie run.  Many maps are tight with ammo overall, even with infighting.  HR isn't quite the rocket/BFG-fest like just Map24 is.	
+	
+Hell Revealed is filled with lots of small touches that make it a fantastic megawad.  Good secrets, well-planned fights, good monster infighting, simple/short levels to keep it fresh, good implementation of skill settings, etc...  It is a player's wad.  There are lots of great maps and "megawads" out there, but I think this is still my favorite.  
+Good job, Yonatan and Mr. Niv!
+				
+					
+=============================			
+Velle's recent Plutonia nightmare run was widely praised(and rightly so).  I found it amusing that they list the monster count he faces.  Here they are versus the totals for this run:
+			
+
+Trooper		86			Trooper		205
+Sergeant	315			Sergeant	261
+Chaingunner	704			Chaingunner	347
+Imp		436			Imp		1599
+Demon		139			Demon		501
+Spectre		111			Spectre		246
+Lost Soul	47			Lost Soul	133
+Cacodemon	123			Cacodemon	189
+Hell Knight	151			Hell Knight	324
+Revenent	422			Revenent	548
+Arachnatron	94			Arachnatron	213
+Pain Elemental	74			Pain Elemental	65
+Mancubus	140			Mancubus	275
+Archvile	99			Archvile	201
+Baron of Hell	90			Baron of Hell	449
+SpiderMastermind 4			SpiderMastermind 15
+Cyberdemon	23			Cyberdemon	 59
+Icon of Sin	 1			Icon of Sin	  4
+		3059 total				5634 total
+			
+Of course, his run was nightmare and his monster kills per minute is a tad higher than mine...  alright, enough silliness.
+================================
+
+
+
+I'm not sure if I have time or should bother with a UV run.  I've never made it passed 15 sadly.  My last 3 tries, my sound has died between 11 and 13.... and my level 15 run exited with a visiplane error(for those who don't know, you don't even get a demo when it crashes like that).  Also, simple extrapolation from this run would mean I'd probably not get to Map25 before my 8:19:19 was up.
+
+
+7
+It is possible to get double-blocked by the arachnatrons -- ended one of my UV runs.
+There is a pause here - mom on phone.  :)  10-15min
+
+11
+First harder level -- careless play can get you killed. 
+I let the Cyberdemon clear the room - just for fun.
+Another pause for restroom/beverage and an unexpected phone call -- about 15min?
+
+13
+First Cyber fight I was thinking about other things, really on autopilot.
+I BFG the red door trap; avoiding the door trigger is a bother.
+
+14
+Lots of herding and infighting - very safe level clearing.
+A third(and long) phone call(sigh).  An important one about my new job -- 30min?
+3 naked Cyber fights makes this level the first potential run killer.
+Revved will be relieved to know I get the jump on the first try.
+
+15
+More dangerous than it looks -- lots of crossfire and potential monster blocking/trapping.
+Regular exit - the previous run I had a lots of ghosts on 31 from the viles in the corners.  Ghosts in a movie are bad.
+
+16
+Some ammo saving(too much) and weakening the mancubus trap takes time.
+
+17
+Forget the archviles released again.
+The archvile/chaingunner trap can be deadly(behind the mancubus/imps); play it safe.
+
+19
+Spidermastermind killed a previous run, so I dispose of him directly.
+
+20 
+First Cyber was a run killer on a previous try.
+
+21
+Longest Cyber/SMM fight in history.
+
+22
+Second Cyberdemon is definitely a run killer in that small room.  You can just get unlucky with him at the entrance.
+
+23
+2 arachnatrons don't teleport in -- which is common.
+Cyberdemons get massacred!  
+Only 6% health near the end.
+Exit Cyber goes well.
+
+24
+2% health.  yikes.
+Credit to Chris R. and Richie A. for the routes.
+I have some mouse issues during the demo; just wasn't moving smoothly.
+I take the second invulnerability too early... or did I?
+
+25
+very safe
+
+26
+Checkerboard rapes me.
+Damn mancubi and PEs
+Low on rockets... mental note for next time....
+Demon versus Spidermastermind - now on pay per view.
+I wasn't sure if there were ghosts(first ghost imps) or not in HMP, so I leave a Baron around.
+
+27
+Almost die trying to get the Cyberdemon out to infight the barons.  I thought I was dead for sure.
+
+28
+First Cyberdemon can cause problems.  The rest is easy.
+
+30
+So stressful; deep breath before going in.  By far the hardest map in a HMP run.  I had practiced 30 a bunch of times before this run just to get a feel for when to fire the rockets.  When I got archvile popped and missed the lift, I thought my chances faded from 30% to 5%.  Third time around and I thought I was done for sure.  If I needed another time up, I doubt I would have made it.  I can't believe I got it.  You can play this map 20 times in a row and not make it.
+And, yes, it is not max, but only Casey, Albert, and Looper have done that... in a single-map demo.  
+
+
+
+MAP01 -  2:07.66 (  2:07)  K:  69/69   I:  3/9   S: 1/1 
+MAP02 -  3:23.69 (  5:30)  K: 112/112  I: 12/15  S: 1/1 
+MAP03 -  2:59.49 (  8:29)  K:  89/89   I: 18/21  S: 2/2 
+MAP04 -  2:03.37 ( 10:32)  K:  77/77   I:  2/14  S: 1/1 
+MAP05 -  4:47.54 ( 15:19)  K:  95/95   I:  3/3   S: 1/1 
+MAP06 -  6:54.37 ( 22:13)  K: 125/125  I: 10/13  S: 2/2 
+MAP07 -  6:43.46 ( 28:56)  K:  47/47   I:  3/3   S: 2/2 
+MAP08 -  5:44.77 ( 34:40)  K: 145/145  I:  3/3   S: 3/3 
+MAP09 -  8:30.57 ( 43:10)  K: 317/317  I: 11/17  S: 3/3 
+MAP10 -  5:48.46 ( 48:58)  K: 102/102  I:  2/3   S: 1/1 
+MAP11 - 23:03.91 ( 72:01)  K: 300/300  I: 18/19  S: 4/4 
+MAP12 -  9:29.09 ( 81:30)  K: 105/105  I:  6/11  S: 3/3 
+MAP13 - 19:24.29 (100:54)  K: 183/183  I:  7/14  S: 3/3 
+MAP14 - 19:56.51 (120:50)  K: 196/196  I: 20/24  S: 5/5 
+MAP15 - 17:03.14 (137:53)  K: 221/221  I:  2/3   S: 3/3 
+MAP16 - 19:56.03 (157:49)  K: 203/203  I:  6/6   S: 2/2 
+MAP17 - 13:38.23 (171:27)  K: 183/183  I:  5/5   S: 2/2 
+MAP18 - 26:07.20 (197:34)  K: 332/332  I: 14/20  S: 2/2 
+MAP19 -  5:09.29 (202:43)  K:  94/94   I:  2/2   S: 1/1 
+MAP20 - 13:14.97 (215:57)  K: 136/136  I: 24/26  S: 1/1 
+MAP21 - 16:04.06 (232:01)  K: 151/151  I:  7/10  S: 1/1 
+MAP22 - 19:28.46 (251:29)  K: 230/230  I:  6/9   S: 1/1 
+MAP23 - 21:19.29 (272:48)  K: 296/297  I:  7/8   S: 3/3 
+MAP24 - 16:58.11 (289:46)  K: 340/340  I: 15/17  S: 6/6 
+MAP25 -  9:58.06 (299:44)  K: 190/190  I:  9/15  S: 1/1 
+MAP26 - 29:56.91 (329:40)  K: 342/344  I: 23/40  S: 1/1 
+MAP27 -  8:50.14 (338:30)  K: 134/134  I: 25/27  S: 1/1 
+MAP28 - 11:30.26 (350:00)  K:  85/85   I: 17/31  S: 1/1 
+MAP29 - 12:04.11 (362:04)  K: 133/133  I:  5/5   S: 2/2 
+MAP30 -  1:25.06 (363:29)  K:  64/85   I:  3/5   S: 1/1 
+
+
+There are a few test demos, long "paused" demos, and that googol.wad TAS demo that are longer; but not a non-stop playing demo like this one.
+6:03:29(7:08:47 total demo time) makes this the longest 'legitimate' DOOM demo to date(as far as I know).
+
+
+Enjoy.(and if you do even bother with this, don't forget the fast-forward and -skipsec features in prboom-plus!)
+
+
+
+Doug 'Opulent' Merrill
+8/19/16
+
+
+
+
+
+
+
+
+
+
+
+
+

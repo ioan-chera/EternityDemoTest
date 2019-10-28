@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      01
+Skill:     4
+Category:  Max 
+Exe:       Doom2.exe
+
+Time:      3:31
+
+Author:    Mark Thompson
+Email:     atomic-punk@mindspring.com
+
+Comments:  
+
+[Opulent -- nice to see a different route on this map.]
+

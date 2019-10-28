@@ -1,0 +1,19 @@
+WAD: Hell Revealed
+MAP: MAP13: Last Look at Eden
+Time: 0:45.97
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: September 16, 2013
+
+My goal was 45 and I achieved it quickly. :)
+
+There are some errors so 43 or 42 should be possible using SR40 only like
+I did. However, this is .97, so I'm kinda too lazy to push it any more. :P
+
+That BSK sneak grab trick isn't hard, but it's annoying for a speedrun 
+when you try to be quick. I got it on the second attempt, so time can of
+course be cut there.
+
+Nice map.
+
+--Doomdaniel95

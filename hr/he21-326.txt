@@ -1,0 +1,26 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HE21-326.TXT
+
+ HE21-326.ZIP
+
+  HE21-326.LMP - Ultra Violence - Respawn
+
+  Recorded using "DooM 2.Exe"
+  DooM2 -PlayDemo with "DooM 2 -file HR.wad"
+
+  Hell Revealed - Map21 - Siege
+
+  Kills    105%
+  (Items    ??)         
+  Secrets  100%  and Time  3:26
+                           ----
+
+Description:  
+
+      Funny map for -respawn..
+
+
+
+Author: Jakub "method_man" Razak
+E-mail: dale007@volny.cz

@@ -1,0 +1,19 @@
+Pwad: HR.wad    
+Pwad name: Hell Revealed
+Maps:      17
+Skill:     4
+Category:  UV Speed 
+Exe:       PRBoom+ v2.5.0.6
+
+Time:      1:36
+
+Author:	   Phml    
+Email:     Phml.ji@gmail.com
+
+Comments:  I know there's a glide to skip one more key but... I don't know how to glide. :)
+
+Tool Assisted (50% speed, segmenting)
+-complevel 2
+HUD used
+
+

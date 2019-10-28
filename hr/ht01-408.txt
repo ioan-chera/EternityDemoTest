@@ -1,0 +1,13 @@
+Author: Erwin Lin
+E-mail: e_lin@coloradocollege.edu
+Skill:  UV Tyson
+Game:   Doom2 Hell Revealed
+Map:    01
+Time:   4:08
+
+recorded with Doom2.exe v1.9
+
+Description: Don't watch my 4:36 run; this one is better.  I modified
+the route a little and also didn't spend much time waiting for
+monsters to kill each other.  This time, the exit linedef works the
+first time I cross it, unlike the other run.

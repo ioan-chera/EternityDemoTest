@@ -1,0 +1,11 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      11
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.3
+Time:      2:01:07
+
+-complevel 2
+
+Author:	   j4rio

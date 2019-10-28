@@ -1,0 +1,19 @@
+** This is a tool-assisted coop demo! **
+Tools used: building frame-by-frame
+
+PWAD: HR.WAD + HRMUS.WAD
+PWAD name: Hell Revealed
+Map: 01 "Into the Gate"
+Skill: Ultra-Violence
+Category: Speed
+Exe: xdre.exe 2.06
+Complevel: 2
+Date: 08.04.16 (DD.MM.YY)
+
+Time: 0:05.71
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+HP: http://www.youtube.com/channel/UCDTi_RRMEduPf5hp7aXS8Nw
+
+Comments: none.

@@ -1,0 +1,20 @@
+For the Doom2 megawad "Hell Revealed" by Yonatan Donner and Haggay Niv
+
+Files required: hr.wad hrmus.wad
+Download link: oh come on, you've got HR
+
+Map17: The Black Towers
+
+Skill: Nomonsters Speed
+
+Kills         0%
+Items         0%
+Secrets       0% and Time 0:22
+
+This is a Doom2.exe-format/compat demo (recorded with a test version of glboom-plus 2.4.8.2).
+PrBoom-plus site: http://sourceforge.net/projects/prboom-plus
+
+Description: I just recorded this so the idea wasn't forogtten. I think it was Eugene Kapustin who mentioned that all you needed was one key. Of course, to do this with monsters present would be another matter.
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com

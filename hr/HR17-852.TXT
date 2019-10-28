@@ -1,0 +1,32 @@
+This is a Doom LMP Entry
+
+HR17-852.ZIP
+
+	HR17-852.TXT
+	HR17-852.LMP - UV Max
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 17 - The Black Towers
+
+=---+------+---=
+Kills       108%
+Items        80%
+Secrets     100%
+ 
+TIME        8:52	Old record: 9:18 by me
+=---+------+---=
+
+Demo entry #72.
+
+Description:
+
+Yes, this level certainly deserves a better time than 9:18, and I had to redo
+it. Now I'm more experienced on this particular run, and it became somewhat
+less frustrating. For more info, read my previous TXT :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done November 30, 2010, 11:53:37

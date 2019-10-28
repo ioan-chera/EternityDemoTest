@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HC01-007.TXT
+
+HC01-007.ZIP
+
+HC01-007.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 01
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:07 *
+              ********
+
+
+Description:
+player 1: Erik
+player 2: Torn
+
+Erik:
+Well, 6 is surely possible.
+    
+Torn:
+heh 
+
+Authors:      Erik Alm
+	      Kim "Torn" Bach
+
+E-mails:      erik_a80@hotmail.com
+	      tornthedark@hotmail.com
+

@@ -1,0 +1,61 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+Please forward it...
+
+HF06-456.ZIP
+
+ HF06-456.LMP
+
+  HF06-456.TXT -UV FAST
+
+  Recorded using "DooM 2 v1.9 - Hell Revealed" ! (Complevel 2)
+  DooM2 -file hr.wad hrmus.wad -PlayDemo with Version 1.9*
+
+  Hell Revealed - Level Six - The Round Crossroads
+
+  Kills: 125 / 125 (100%)
+  Items:  11 / 13  (84%)            ********
+  Secrets: 2 / 2   (100%) and Time  * 4:56 *
+                                    ********
+  C-N entry #14.	Date:01/20/2012
+
+  Description :)
+  It's funny that I recorded this on a Friday, as Friday was when I made
+  HF06-505. Recording HR06-350 re-jogged my memory of how much I loved this
+  map and then I just started playing this map for fun. UV -FAST is my
+  favorite category so I was playing with the -fast parameter for the most
+  part. I knew HF06-505 was easily beatable but didn't expect to beat it so
+  fast. HR06-350 was just recorded 5 days ago so it's not like I've been
+  playing this map like crazy. I didn't intend to improve HF06-505, well I
+  did but not on this run, but this demo came really natural to me. Maybe
+  since I wasn't all nervous, my lack of hand shaking made this run more easy
+  than normal but luck was definitely on my side. The Plasma gun worked
+  perfectly, way better than normal. However, this run could still be
+  improved by about 20 seconds if someone took the time to do it...
+  
+  ...Wow, 2 COMPET-N entries in a week. I'm not sure I'll ever stop
+  submitting these things no matter how futile life gets.
+  								
+  								
+  By the way, COMPET-N record was 5:05 by me, timestamped:
+  Friday, December 11, 2009, 6:32:30 PM.
+  
+  Complete Historic COMPET-N Leaderboard:
+  HF06-505 - Archy - 12/11/2009
+  HF06-508 - Anders Johnsen - 5/17/2000
+  HF06-814 - Yonatan Donner - 5/24/1998
+  
+  Note: Since this demo was recorded with HR.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/585/hr.zip
+        and pick it up if you havn't already :) 
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  *Recorded with just HR.WAD but then played back with both HR.WAD and
+   HRMUS.WAD.		
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

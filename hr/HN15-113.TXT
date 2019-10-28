@@ -1,0 +1,32 @@
+hn15-113.zip
+ hn15-113.lmp
+ hn15-113.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file hr.wad -playdemo hn15-113
+
+Hell Revealed - Level 15 - Gates to Hell
+
+Category: Nightmare!
+
+Totals:
+
+Kills	 40%
+Items	 33%
+Secret	 33%
+
+Time    1:13
+
+
+Comments: 
+
+Route credits to Grazza - two switch tricks and an
+exit glide. Much of this was played in a blind panic,
+and it does not look good! First exit, and I'm not
+in the mood to try it again any time soon.
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+12/04/2007

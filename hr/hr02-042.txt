@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR02-042.TXT
+
+ HR02-042.ZIP
+
+  HR02-042.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 02
+    
+  Kills     31%
+  (Items    13%)          ********
+  Secrets  100%  and Time * 0:42 * 
+                          ********
+                          
+
+  Description:
+
+  [Compet-N entry #132]
+
+  So, after my TAS lmp for Tool Assisted Speedruns
+  (0:42 - yeah I´m lame) I wanted to get close to
+  the optimal time (it will be about 0:3x).
+  Again I didn´t succeeded to jump from than
+  someimps-shotgunner-ssg-switch room :)
+  Lot of errors, under :40 possible. Enjoy...
+  
+  Jakub "DooMerMan" Machata
+  DMrM@seznam.cz

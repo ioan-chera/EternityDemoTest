@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Hell Revealed 
+Pwad name: hr.wad
+Map:      21
+Skill:     4
+Category:  Stroller
+Exe:       Doom2.exe 1.9
+
+Time:      0:58
+
+Author:    xepop
+Comments:  This was the first try of my session that day. Other than this, I didn't even get close so
+yeah I'm lucky. 
+

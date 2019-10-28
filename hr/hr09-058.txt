@@ -1,0 +1,22 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      hr.wad
+Pwad name: Hell Revealed
+Map:       09
+Skill:     4
+Category:  UV-Speed
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      0:58
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  This death slide is hard in vanilla doom.
+           Your corpse cannot slide under monsters =(
+           Using imps is of course possible but hard,
+           you need to be killed while moving with decent speed to the teleport.
+           Previous records use revenants as they can push you corpse.
+           This run uses slide with av assistance.
+           Good timing is a must for this trick: at the moment of the av attack
+           you need not only the right momentum but also
+           the right position to not bump into the upper bars.
+           

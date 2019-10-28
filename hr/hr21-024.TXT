@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hr21-024.TXT
+
+ hr21-024.ZIP
+
+  hr21-024.LMP - UV Speed/Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Hell Revealed - MAP21 - Siege
+
+  Kills       1%
+  Items       0%           +++++++++
+  Secrets     0%  and Time + 00:24 +
+                           +++++++++
+
+
+  Description :)
+
+  That stop at the dead body is intentional
+  cause I wait for the arachno to move away
+  For this map, you really need a lot of luck
+  to get past the imps while running fast
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 4
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Operating System: Windows XP Professional SP3 (x86)
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  XP Sensitivity: 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Speakers: Stereo Speakers with the label 'HELIVM-Hi' on them

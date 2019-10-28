@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hc07-132.TXT
+
+hc07-132.ZIP - Coop UV speed
+
+hc07e132.LMP - Eugene - Green
+hc07s132.LMP - Sergey - Indigo
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 7 - Arachnophobia by Haggay Niv
+      
+Kills       33%
+Items       33%
+Secrets      0%	
+
+Kills       27%
+Items       33%
+Secrets      0%
+
+and Time - 1:32
+
+
+Description:
+
+Green:
+
+First exit.
+
+Indigo:
+
+I had enormous luck with green's rockets.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+16.12.2006

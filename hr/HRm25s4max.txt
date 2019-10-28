@@ -1,0 +1,26 @@
+Wad:      Doom2.wad
+Wad name:      Doom II: Hell on earth
+Pwad:      HR.wad and HRMUS.wad
+Pwad name:      Hell revealed
+Map:      25
+Skill:      04
+Category:      UV-max
+Exe:      	Prboom-plus 2.5.0.8
+
+Time:      13:44
+
+Author:      J. Learn Shiore
+Email:      im_alive_007@hotmail.com
+
+Comments:
+This map was very easy but this is not a good run, while I was fighting
+revenants I felt that I've could get a better strategy to get a good time
+moreover, I lost a lot of seconds trying to fight cyberdemons on differents
+zones of the map (which would make be too easy the job), however,
+I don't feel guilty to kill hell knights before entering to zone where
+blue key is, thanks to that, I was able to calm down and focus to kill
+chaingunners and wait to door to open up.
+
+BTW, This was my first try of speedrun in this map and it succeded
+at the first time which makes me happy because before join to
+DSDA I wasn't capable to beat this map even with saved games =)

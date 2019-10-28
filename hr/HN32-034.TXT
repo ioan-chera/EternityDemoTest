@@ -1,0 +1,32 @@
+This is a Doom LMP Entry
+
+HN32-034.ZIP
+
+	HN32-034.TXT
+	HN32-034.LMP - Nightmare Speed
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - Level 32 - Mostly Harmful
+
+=---+------+---=
+Kills        47%
+Items        50%
+Secrets       0%
+ 
+TIME     0:34.34	Old record: 0:35 by Tatsurd-Cacocaco
+=---+------+---=
+
+Demo entry #19.
+
+Description:
+
+Credits to Erik for the idea, and to Tatsurd for a great record. The run itself
+is easy compared to my NM runs for HR's second episode, even though that red
+screen makes it a pain to see anything during recording. But I just barely
+managed to run this sprint distance one second faster :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 29, 2009, 12:11:00

@@ -1,0 +1,51 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF32-440.TXT
+
+ HF32-440.ZIP
+
+  HF32-440.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 32 - Mostly Harmful
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 4:40
+                          
+                          
+  Description: This demo came about because of some discussion on Doomworld. vdgg had gone 
+               through all the Compet-N levels looking for anomalies like secrets you 
+               couldn't get, monsters that you were allowed to leave alive, etc, and asked
+               me to look at Hell Revealed. Mostly this was a pretty easy job - HR is a well 
+               built PWAD with no inaccessible secrets, and the two maps where you're allowed 
+               to skip monsters (map23 and map26) are well known. But map32 was interesting - 
+               something I discovered that I'd never known before is that there are 40 
+               inaccessible pain elementals on this map, placed outside the walls for who knows
+               what. The only reason it's possible to get 100% kills in a maxkill demo is 
+               because there's also a monster spawner on the level, so you can accrue extra 
+               kills from that. This can result in some farcical demos though - on Yonatan's 
+               TAS of this level he kills all the monsters required in about two and a half 
+               minutes, then has to spend a further minute running around killing spawned 
+               monsters to make up the percentages.
+
+               Now Compet-N rules require valid maxkill demos to kill all currently living and 
+               accessible monsters, which means on Mostly Harmful you had to kill 287 out of 
+               327 monsters. But after checking old records on this level, turns out only one 
+               qualifies - Anders Johnsen's current UV Max record of 4:14. My old -fast record 
+               of 5:14 had one monster still alive at the end - frustratingly, he turns out to 
+               be in my field of vision as the level ends. So once I knew this I had to record 
+               a demo which was 100% valid. Hence, this one.
+
+               The time's a fairly significant reduction from my old record, mostly because once 
+               the first part of the level's out of the way I never have to return to the moat 
+               or the starting room to replenish on cells - just run from key to key to key, 
+               and then to the exit. Since the TAS time on this level is 5:06 I'm quite happy 
+               with the improvement. 
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

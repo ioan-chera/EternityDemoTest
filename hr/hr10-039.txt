@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      10
+Skill:     4
+Category:  Speed
+Exe:       Doom2.exe
+
+Time:      0:39
+
+Author:    Selim "Bastard" Benabdelkhalek
+Email:     wmrselim@yahoo.fr
+
+Comments:  
+ Said I would do better :) Anyway I had much faster beginnings, so it 
+shouldn't be hard to beat that ...

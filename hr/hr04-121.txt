@@ -1,0 +1,26 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : hr04-121.txt, hr04-121.lmp, hr04grab.lmp
+Date     : 2014-7-6 22:54
+Game     : Hell Revealed
+Client   : doom2.exe v1.9
+Category : UV Max
+Map(s)   : MAP04: The Garden Terminal
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 28%
+Secrets  : 100%
+Time     : 00:01:21
+===================================
+Description:
+
+Interestingly enough, Radek's CN record, j4rio's record, and my new record all have different ways of clearing out the first monsters. Mine is closest to j4rio's, as I found Radek's to be rather luck-based, and, while I couldn't find many route changes from j4rio's demo, a few seemed natural to me. In particular, I focus almost fully on the switches and key and disregard taking any detours to shoot monsters in order to kill everything at the end; this isn't necessarily faster than j4rio's route, but it was the way I felt would work best for me. Otherwise, though, this is essentially a task in getting luck with lining up monsters and infighting, and this demo went pretty well, except for that damn imp in the red key room that alone lost me a good two seconds (if not three). Sub-1:20 is very clearly possible.
+
+Also included is a grab I only got twice of the first SSG; theoretically, this could save some time, but it's not significant enough to be worth going for, I think.

@@ -1,0 +1,21 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+hn02-011.zip
+ hn02-011.txt
+ hn02-011.lmp
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - MAP 02 - Gateway Lab
+NightMare! Speed
+================
+Kills       6%
+Items       0%
+Secrets      0%
+----------------
+Time       0:11
+================
+Description: Just a copy of my UV/pacifist run... 
+
+Author: xepop
+8 - Dec - 2009   3rd Compet-N Entry

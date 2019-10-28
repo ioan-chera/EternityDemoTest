@@ -1,0 +1,18 @@
+Opulent's Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:		hr.wad
+Pwad name:	Hell Revealed
+Maps:		various
+Skill:		4
+Category:	UV Max
+Exe:		Doom2.exe
+
+Time:		Map 01 -> 1:35 -- All monsters teleported very quickly this time
+		Map 05 -> 4:46 -- This one does NOT beat the recent Compet-N record... ;)
+		Map 07 -> 4:58 -- A time under 5 min. is what I was looking for.
+
+Author:		Albert Valls
+Email:		vrmr@wanadoo.es
+HP:		http://www.newdoom.com/cyberdreams
+

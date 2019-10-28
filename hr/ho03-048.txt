@@ -1,0 +1,30 @@
+       
+ 	********************************
+        * doom2 * HO03-048 * nomo 100s *
+        ********************************
+
+ HO03-048.lmp - nomonsters with 100% secrets
+   
+   HO03-048.txt
+
+     HO03-048.ZIP
+
+   doom2.exe -file hr.wad - playdemo ho03-048
+
+
+   Hell Revealed demo, map 03, nomonsters 100s
+
+      -----------------------------------------
+      - Kills     -   0%  -     ...final time -
+      -----------------------------------------    
+      - Items     -  76%  -           :48     -
+      -----------------------------------------
+      - Secrets   - 100%  -                   -
+      -----------------------------------------
+
+  Descripiton: last nomo100s was beated by 35 secs.
+  
+	 
+ 	Author:			 Jakub "DooMerMan" Machata
+        E-mail:			 DMrM@seznam.cz
+

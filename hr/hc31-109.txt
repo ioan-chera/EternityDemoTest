@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HC31-109.TXT
+
+HC31-109.ZIP
+
+HC31-109.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 31
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 1:09 *
+              ********
+
+
+Description:
+player 1: Matej Razak
+player 2: Jakub "method_man" Razak
+
+Jakub:
+I went to toilet :)
+   
+Matej:
+Boredom
+
+Authors:      Jakub "method_man" Razak
+	      Matej Razak
+
+E-mails:      dale007@volny.cz
+	      matejR@seznam.cz

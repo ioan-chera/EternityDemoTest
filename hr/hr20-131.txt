@@ -1,0 +1,19 @@
+Pwad: HR.wad    
+Pwad name: Hell Revealed
+Maps:      20
+Skill:     4
+Category:  UV Speed 
+Exe:       PRBoom+ v2.5.0.6
+
+Time:      1:31
+
+Author:	   Phml    
+Email:     Phml.ji@gmail.com
+
+Comments:  Fun level. :)
+
+Tool Assisted (50% speed, segmenting)
+-complevel 2
+HUD used
+
+

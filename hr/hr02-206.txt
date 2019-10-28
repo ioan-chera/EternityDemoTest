@@ -1,0 +1,15 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      2
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      2:06
+
+-complevel 2
+
+Author:	   j4rio
+
+The first 5 seconds I wasted each retry was really the most annoying part, especially
+considering how usually I required a retry. The second annoying part is that I couldn't
+even have some damn music on because I had to hear that underground switch flick.

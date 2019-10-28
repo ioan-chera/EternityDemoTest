@@ -1,0 +1,52 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      hr.wad
+Pwad name: Hell Revealed by Yonatan Donner and Haggay Niv
+Maps:      A few
+Skill:     4
+Category:  -fast
+Exe:       Doom2.exe
+
+Times:      
+
+Map14  23:29
+Map15  19:16
+Map19   3:13
+Map22  13:13
+Map25   5:13
+Map28   7:47
+
+
+Author:  Chris "Ryback" Ratcliff
+Email:   jaranbue@yahoo.com.au
+
+
+Comments: I got the bug again :)
+                                
+HF142329: New record by 3:41. Not destined for the compet-n though, as
+          the last few minutes are very wonky - I start missing jumps and
+          playing cute. And Esko's v. stylish demo deserves a better
+          challenger...
+HF151916: The demo that got me recording. I was thinking about Claudio's
+          classic run here and wondering if I could beat it. This is a
+          minute slower, but I reckon I could with some better map
+          knowledge at the end. The route was made up on the fly,
+          no reference to any other demo. And I can see what he means
+          about it being a good level for -fast :)
+HF19-313: Another Claudio route. compet-n record, and also beats Claudio's
+          time. It *may* be possible to get a 2:xx using this route,
+          but a lot of luck is needed in the second half of the level.
+HF221313: New record by 1:45. Could have been a minute faster if I hadn't
+          chickened out at the PEs. That's a dangerous situation, so I
+          backed off. But otherwise the run went smoothly.
+HF25-513: Left both cybers out to handle the teleporting imps and demons,
+          and they did a fantastic job. I hardly had to lift a finger
+          at the end. New compet-n record by 43 seconds.
+HF28-747: Just an attempt to push my last recording for this level.
+          Wasn't hard.
+
+
+Yep, I think I like this WAD :)
+
+

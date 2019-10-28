@@ -1,0 +1,20 @@
+Player: Alexander Sushkov
+E-mail: sushkov@thsun1.jinr.ru
+Skill:  4 (uv)
+Fast:   No
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    27
+Time:   08:42
+LMP:    HR270842.LMP
+
+Credits to: id Software, all HR authors and hruvlmp(s/2) players
+
+Special thanks to Anders Johnsen. His demo (8:47) gave me some ideas
+about the route. Hi Anders, your playing is excellent! This demo is a
+intermediate part of my small project of playing map 27 :) Because time
+can be improved about 20-30 (maybe 40 :) sec.
+
+Description:
+
+   "The more we are together the merrier we'll be" :)

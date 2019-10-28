@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+hr14-140.txt
+hr14-140.zip
+hr14-140.lmp
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - MAP 14 - City in the Clouds
+Ultra Violence Speed
+================
+Kills       32%
+Items       21%
+Secrets      0%
+----------------
+Time       1:40
+================
+Description:
+
+Hard map. 4th time I even made it to the exit during these couple 
+weeks. I might tweak this route in future (and get rid of constantly 
+getting stuck on walls), but this was only a start of my project 
+on hr uv-speed demos so I'll move on to other maps now.
+Credits to those who should be credited.
+
+Author: xepop
+
+7 - Dec - 2009   1st Compet-N Entry

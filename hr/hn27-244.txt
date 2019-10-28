@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HN27-244.TXT
+
+ HN27-244.ZIP
+
+  HN27-244.LMP - NightMare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 27 - Cyberpunk
+        
+  Kills     26%
+  (Items     7%)          *********
+  Secrets    0%  and Time * 02:44 *
+                          *********
+                          
+
+  Description :-)
+  
+  Well this is interesting... but the pigs are the most
+  annoying monsters on this level.
+  Lots of time could be cut off by leaving the RL and
+  going straight in at the archies... but it's hard.
+
+  Route credits to Peo for his TAS run.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

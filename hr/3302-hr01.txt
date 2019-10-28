@@ -1,0 +1,69 @@
+Pwad:	HR.wad HRmus.wad
+Pwad name: Hell Revealed
+Maps:	01-10
+Skill:	4
+Category:	UV Max Movie
+Exe:      	prboom-plus 2.5.1.3 -complevel 2
+
+Time:    33:02
+
++-----+-------+-------+-------+                                    
+| |Level|  vdgg | PjSpartacus | Diff. |                                    |
+| +-----+-------+-------+-------------+                                    |
+| |  1  |  1:54 |  1:51       | -0:03 |                                    |
+| |  2  |  2:59 |  2:23       | -0:36 |                                    |
+| |  3  |  2:48 |  2:25       | -0:23 |                                    |
+| |  4  |  1:54 |  1:36       | -0:18 |                                    |
+| |  5  |  3:28 |  3:12       | -0:16 |                                    |
+| |  6  |  4:35 |  4:03       | -0:32 |                                    |
+| |  7  |  5:33 |  4:18       | -1:15 |                                    |
+| |  8  |  4:00 |  3:52       | -0:08 |                                    |
+| |  9  |  6:23 |  5:32       | -0:51 |                                    |
+| | 10  |  4:09 |  3:50       | -0:19 |                                    |
+| +-----+-------+-------+-------------+                                    |
+| |Total| 37:43 | 33:02       | -4:41 |                                    |
+| +-----+-------+-------+-------------+                                    |
+
+Comments: 
+
+Map 01- I died here the most and redundency made this my least enjoyed map. 
+I tried many different strategies including tyson and uv-max records but the end time often was the same.
+I decided to play it safe and straight forward saving my rockets for map 02.
+
+Map 02- Limited health made this one of the tougher maps. I put the most practice and planning into this map.
+I decided to rush for the sgg and use 2 rockets from map 1 to help clear the jump afterwards. 
+With all the practice i put in my success rate was pretty high getting past this map easily.
+This was one of my fastest times and i didn't even to bother to pick up 2 medkits at the end.
+ 
+Map 03- Everything went great here. I've lost quite a few runs by missing that stupid secret platform.
+Odds are if a run gets through this map then i'm going to finish.
+
+Map 04- Went ok but i had to detour because i was low in health. Most my improvement came from following
+the UV-Max route
+
+Map 05- Love maps with cramped rooms and crowds of weak monsters to plow through. It reminds me of
+AV04, one of my favorite maps. This was a pretty fast time but i had trouble in the plasma room and
+i missed the plasma grab so i could have probably saved 10+ secs.
+
+Map 06- Hate this map, nobody wants to peck away at all these hordes of 2-3 barons with a shotgun it gets so tedious.
+This map would be much better if they were just hell knights. Most the time saved was agressive play by clearing
+out the 1st section with the plasma rifle.
+
+Map 07- This map was the big time saver from all the other previous records. I didnt understand why all the
+previous record holders just used ssg on this massive horde of spiders. I only needed cells for one other part
+and that was to make a dash on map 09. My strategy was to dump most my cells and a fair amount of rockets
+on the initial herd. Not only was this faster it was significantly safer.
+
+Map08- Love the imps with the diving deaths at the begining lol
+
+Map 09- Love this map, lot of fun. Caught a surprise rocket but time was fast
+
+Map 10- Damn, wish i would have shaved off 2 secs somewhere
+
+Enjoy the movie!
+
+
+-------------------------------------------
+Author:    PjSpartacus
+email: Pspartajr@live.com
+ 

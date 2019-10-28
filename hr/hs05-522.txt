@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HS05-522.TXT
+
+ HS05-522.ZIP
+
+  HS05-522.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 5 - Core Infection
+
+  Kills    157%
+  (Items    66%)          ********
+  Secrets  100%  and Time * 5:22 *
+                          ********
+                          
+
+  Description :-)
+  
+  After some early attempts, I got to the point where I can
+  do the beginning without much trouble. The ending isn't hard
+  either. I found that lining up the plasma and using st50 makes
+  the trick very reliable. The time is probably a little slow.
+
+  Xit Vono
+  Xit_vono@yahoo.com

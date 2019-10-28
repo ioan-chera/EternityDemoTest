@@ -1,0 +1,14 @@
+Player: Alexander Sushkov
+E-mail: sushkov@thsun1.jinr.ru
+Skill:  4 (uv)
+Fast:   No
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    07
+Time:   4:47
+LMP:    HR07-447.LMP
+
+Credits to: id Software, all HR authors and hruvlmp(s/2) players
+
+Special thanks to Kai for his excellent HR07 guide (4:51) from hruvlmp2 and
+Yonatan for a inspiration.

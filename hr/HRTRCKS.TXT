@@ -1,0 +1,165 @@
+I've made a collection of tool assisted mostly pacifist demos over
+the last week or so.  While making these demos I used a number of 
+tricks that I don't think have been used before, so here is a little
+document explaining them all.
+
+if you haven't already, make sure you check out
+
+Tool Assisted Speedruns
+http://www.doomworld.com/tas - for the demos
+
+Hell Revealed Homepage
+http://www.geocities.com/Hollywood/4704/ - for hr.wad
+
+
+The demos are:
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      02 - 0.54 UV Pacifist (hr02-pa.lmp)
+           03 - 2.30 UV Pacifist (hr03-pa.lmp)
+           09 - 2.11 UV Pacifist (hr09-pa.lmp)
+           14 - 2.06 UV Pacifist (hr14-pa.lmp)
+           15 - 0.40 UV Pacifist (hr15-pa.lmp)
+           16 - 2.26 UV Pacifist (hr16-pa.lmp)
+           17 - 1.04 UV Pacifist (hr17-pa.lmp)
+           18 - 2.42 UV Pacifist (hr18-pa.lmp)
+           19 - 0.26 Nightmare Pacifist (hr19-pn.lmp)
+           20 - 1.02 UV Pacifist (hr20-pa.lmp)
+           29 - 1.57 Nightmare Pacifist (hr29-pn.lmp)
+           30 - 0.15 Nightmare (hr30-nm.lmp)
+           31 - 2.07 UV Pacifist (hr31-pa.lmp)
+           32 - 0.52 Nightmare (hr32-nm.lmp)
+           32 - 2.28 UV Pacifist (hr32-pa.lmp)      
+
+Author:    Cameron Prosser
+Email:    allgoodnamesrgon@hotmail.com 
+
+Comments:  
+Level 2
+The major trick here is that the blue key is useless - the blue key door
+is a normal door.  This makes the lvl possible pacifist style and helps
+alot in nightmare. (Update - just downloaded a demo where Opulent used
+this trick, still I'm suprised there are no other demos using this,
+the lvl could be done 20-25 secs faster than the hrdq TAS demo.)
+The switch near the start that raises the stairs to the exit is very 
+easy once you know where it is.
+If you hit the switch at the start you don't need to hit the switch after 
+the blue key door but you do need to trigger a line just before the switch.
+Have a look on a map editor (or automap IDDT) there are two lines near the 
+switch, if you only trigger the 1st you can leave via the blue key door, and
+you don't open that other room with monsters in it.
+
+Level 3
+Getting the yellow key at the start is actually pretty easy (OK not so easy
+pacifist or nightmare).  Try facing the switch that raises the walkway to the 
+YK then start moving backwards, hit the switch as you are moving backwards
+then quickly turn around.  Hmm don't know if that makes sense but really it's 
+not that hard, just practice with no monsters a couple of times.
+Note the very easy way to get the soulsphere near the end
+
+Level 6
+Pacifist style = cannot deliberately crush monsters...what about braindead 
+ones that keep walking under...
+
+Level 7
+Can anyone work out some obscure trick to complete this lvl pacifist style?
+, it's the only level stopping me making a complete run through hr pacifist 
+style.
+
+Level 9
+The red key can be 'grabbed' quite easily (strafe 40), like all keygrabs
+you just need to find the right spot.  Saves about 20 secs.
+
+Level 11
+Theres a few AV and rocket jumps but nothing that really helps
+
+Level 12
+The beserk pack can be 'grabbed' through the wall, only saves about 1 sec 
+though
+
+Level 13
+Arrgh, got the blue?(final) key the 1st time I tried pacifist style (non assisted)
+but died a silly death andhave had no such luck since :-(
+
+Level 14
+Oohhhh.. so many tricks, quite easy pacifist style, especially if you take 
+your time.  Grabbing the yellow key and getting past the AV is not too hard, 
+it depends on your dexterity and how quickly the AV teleports...I probably get it 
+1 in 3 tries.  You can trigger the AV teleport line near the key but not take the 
+key.  This lets you get past the AV more like 4 out of 5 times but then you have 
+to coax the AV and revenants out.
+The AV jump to the red key is very easy, just don't let the imps hit your AV.  IMHO
+this way beats mucking around in that small room with the cyber and it's a lot 
+quicker.
+The fastest way to complete the lvl is to get 2 AVs near the exit 
+and get a double AV jump straight up onto the exit column...this may be possibly 
+with the two AVs in the shotgun room.. but I haven't really tried. (Update - yes 
+it is possible but rather tricky.)
+
+Level 16
+Pacifist style it is possible to get both keys in the one trip but I couldn't be
+bothered wasting more than 2 hrs gettting past the mancubi without an invuln.
+
+Level 17
+The red key is another relatively easy strafe 40 keygrab saving maybe 10-15 seconds.
+
+Level 18
+Actually very easy pacifist style, once you get the three barons up the elevator 
+the rest is trivial.
+
+Level 19
+Nice AV jump in my demo (hr19-pn) pretty acidental and I doubt it saves much time
+
+Level 24
+Yonatan suggested getting AV jumped to the last switch but it is quite easy with 
+strafe 50 and interestingly enough you can 'wall run' along the chaingunners and 
+make the jump with strafe 40 - kind of like the jump to the YK in doom2 map 26.
+AV jumping to the end is quite easy - you probably need a double jump though.
+It 'may' be possible to jump from the last switch to the other side of the end
+area (where the cybies are).
+This route is possible without the invulnerability but those arachnatrons are so 
+damn annoying.
+
+Level 28
+Easy AV jump, best AV to use is the one to the left when you exit the 1st room.
+14 secs is my best time here.  Note it is possible on nightmare just rather 
+difficult.
+
+Level 29
+Once again the red key is grabbable, saving a fair bit of time. You don't even 
+need to strafe to get this key, but you do need to know the exact position
+Try not activating the switch in the room with 3 arachnotrons (near the second 
+blue door) and then getting a triple AV jump up onto the half lowered pentagram 
+at the end.  This requires a megasphere so it actually takes about 5 secs longer
+but it would make a rather cool demo.
+The 1st blue door is only keyed on one side like the exit door in doom2 lvl 28,
+so monsters will open it for you, pretty useless though since you do need the 
+blue key for the next door.
+
+Level 30
+Along with lvl 7, the only really impossible hr lvl pacifist style, but mabye 
+you could get a friendly cyber onto the elevator with you... (and then again...maybe 
+not).
+PS...wanna beat a TAS time - instead of lowerering the elevator try AV jumping to 
+it, even better fire some rockets mid AV jump....I haven't quite got this to work 
+yet.  (Update: Now I have, hehe 15 secs on nightmare.  Update 2: spent half an hour
+trying non-assisted, the AV jump is not too bad I just have trouble staying on the 
+elevator afterwards... but then again I'm not real good at these end levels)
+BTW I think this may only be possible on nightmare or with -fast to get all the AVs 
+to attack you.
+
+Level 31
+The rocket jump at the end to the secret exit is very easy, with bit of luck and 
+good placement of the rocket it is possible with 100 health and no armor.  IMO it's
+easier than jumping on those damn sticks.
+
+Level 32
+Easier than it looks, even pacfist style.  I'm not sure what a good time is for this 
+level, under 2 mins should be possible.  It all depends on how quickly your cybies
+kill the revenants.  You can let the revenants in right at the start which is faster
+but the cybies might die too early, but then again they really died a bit too soon in
+my demo anyway.  The TAS -fast time must be beatable here, though I usually clear the 
+first couple of rooms and waste too many megaspheres.  I did a rather lame (bad style)
+TAS demo on -fast getting 100%kills/secrets in 4.40 pacifist style so who knows what's
+possible...maybe when/if hr goes to compet-n.

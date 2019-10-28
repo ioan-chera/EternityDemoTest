@@ -1,0 +1,42 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+H27-0847.TXT
+
+ H27-0847.ZIP
+
+  H27-0847.LMP - Ultra Violence
+
+  Recorded using "DooM 2- Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2- Hell Revealed" 
+
+  Hell Revealed - Map27 - Cyber Punk
+
+  Kills    100%
+  (Items    14)         
+  Secrets  100%  and Time  08:47
+                           -----
+
+Description: 	When I dropped by at Yonatans page recently, I noticed that 
+                someone had improved some of the HR2-demos. The new times 
+                are great, so are the playing of the ones who recorded them.
+                Alexanders Sushkov improved this map down to 09:38, which is
+                a big cut from my old 11:XX demo :-) Your route is awesome
+                Alexander, it shows what can be done if a little brain-effort
+                is spent on the map before one starts to play...
+
+		Hmmm...when I think back on those HR demos, I realize that 
+                alot of the maps I recorded can be done so much better with
+                some route modifications. Henning have already planned to 
+                improve some of his demos, so I guess I'll do the same :-)
+                Although I won't be in a hurry recording them, I'll drop by
+                a new upgrade every now and then. Hell Revealed is a great
+                wad and deservs great lmps! 
+
+Note: 		Since this demo was recorded with HR.WAD, I suggest you drop
+                by at http://www.geocities.com/Hollywood/4704/ and pick it up
+                if you havn't already :-)
+
+
+Author:    Anders Johnsen
+E-mail:    andersjohnsen@hotmail.com    
+Doompage:  Soon there will be a brand new DEMO-PAGE up'n running :-)

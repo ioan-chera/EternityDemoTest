@@ -1,0 +1,6 @@
+Hell Revealed
+Map 04: The Garden Terminal
+UV-Fast in 3:48
+-complevel 2
+PrBoom+ v2.5.1.4
+Ling

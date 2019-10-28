@@ -1,0 +1,45 @@
+This is a Doom LMP Entry
+
+HN13-121.ZIP
+
+	HN13-121.TXT
+	HN13-121.LMP -- Nightmare Speed!
+
+Recorded using GLBoom-Plus v2.5.0.8 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+640x480, gamma level 4, capped framerate
+HUD not used
+
+Hell Revealed -- Level 13 -- "Last Look at Eden"
+
+=---+------+---=
+Kills        51%
+Items        38%
+Secrets      33%
+                
+TIME        1:21	Old record: 2:23 by me
+=---+------+---=	TAS record: 5:55 by Peo Sjoblom
+			
+Demo entry #112.
+
+Description:
+
+A gorgeously designed map, just like the following HR levels. The architecture
+reminders me a bit of "Schlosspark Rheinsberg", which is just a few hundreds of
+meters away from my home :-)
+
+It's the first truly HRish map in terms difficulty, and playing it on NM felt
+like "doing the impossible" back in 2007. But now it's just a normal challenge
+for me, though surviving all these raBid-fire flows in a single attempt is
+unthinkable without utilizing gigantic luck. The principle "SAV must die!" is
+almost a physical law here.
+
+In my old demo I approached the central yard in a semi-confused way, but now I
+put my trajectory into science (except for hesitating a bit in the blue key
+cage), hence such a huge improvement.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done March 26, 2012, 10:53:49

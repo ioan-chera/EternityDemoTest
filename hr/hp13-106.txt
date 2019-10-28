@@ -1,0 +1,36 @@
+This is a Doom .LMP "Competition" Entry
+
+hp13-106.txt
+hp13-106.zip
+
+hp13-106.lmp 
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - MAP13 - Last Look at Eden
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:06
+=--------------=
+
+C-N entry #99.
+
+This is my first *intentional* pacifist entry
+(pl21 was meant to be UV speed) and my first
+HR run... neat.
+
+I thought I would try something different, and
+this run turned out to be rather enjoyable. The
+majority of the run is routine, but the blue key
+room is completely luck related.  I also never
+get a fast exit from the blue key cage, since the
+imps move in to block the door.  If one was lucky
+enough to get out right away, a time under 1 minute
+should be possible..
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

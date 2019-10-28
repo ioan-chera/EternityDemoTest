@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR171144.TXT
+
+ HF171144.ZIP
+
+  HF171144.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 17 - The Black Towers
+
+  Kills    113%
+  (Items    80%)                   
+  Secrets  100%  and Time = 11:44  
+                                                             
+
+  Description: Well, I was just sitting at the computer when I thought,
+               "I want the max record on HR17." Don't ask me why this
+               seemed very important. So I loaded up Doom and started
+               playing through what I remembered of Chrozoron's route.
+
+               This demo is about a minute faster, this may be from
+               better weapon usage. Our routes are bit different, but
+               not by much. I believe a time very close to TAS is
+               achievable here... I mean come on, it's not a
+               difficult level.
+
+  
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

@@ -1,0 +1,48 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+hr01-118.txt
+
+hr01-118.zip
+
+hr01-118.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file hr.wad
+
+Hell Revealed - MAP 1 - Into the Gate
+
+
+================
+Kills      100%
+Items       33%
+Secrets    100%
+----------------
+Time       1:18
+================
+
+
+Description:
+
+I was quickly able to get 1:31 which was the same as Compet-N record,
+so I thought I could beat the record easily. However, it was wrong.
+I usually got 1:3x with correct max or 1:2x with 98% kills while using 
+the old route. I came to be annoyed that some monsters didn't teleport.
+Therefore, I thought and tried a new route. Although I was half in doubt 
+about it, I got a record which was much faster than I had expected. Also, 
+I seldom missed 100% kills. As a result, I obtained 1:22 with the route 
+and was satisfied enough. Then, I watched Gusta's tyson demo (ht01-229.lmp) 
+by chance. In his demo, a demon opened the door to shotgunners' room. 
+I just noticed I need not bother to go to this room myself. I attempted it 
+and finally got this time. Under 1:20 is really nice :)
+
+I also included 1:22 demo.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+22 - Apr - 2010   52th Comepet-N Entry

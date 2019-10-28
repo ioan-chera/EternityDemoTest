@@ -1,0 +1,42 @@
+This is a Doom LMP Entry
+
+HN13-113.ZIP
+
+	HN13-113.TXT
+	HN13-113.LMP -- Nightmare
+
+Recorded using GLBoom-Plus v2.5.1.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+1152x864, gamma level 4, capped framerate
+HUD used (timer)
+
+Hell Revealed -- Level 13 -- Last Look at Eden
+
+=---+------+---=
+Kills        43%        Old records:
+Items        23%	1:21 by me
+Secrets      33%	2:23 by me
+			
+TIME        1:13        TAS record:
+=---+------+---=	5:55 by Peo Sjoblom
+			
+Demo entry #170.
+
+Description:
+
+The first non-warm-up level in Hell Revealed. And it's the 3rd time I finished
+this crazy adventure on NM. 12 years ago I recorded my initial 2:23 tablefiller.
+In 2012 (when I was already capable of playing much speedier than in 2007-2010)
+I reran the map, pulling off an even faster time than I wanted. Still, 1:21
+looked a bit slow for my current standards. Now I take the yellow card and the
+blue skull much more aggressively, but also make more detours (because of not
+having such huge loads of luck with health/armor conservation as in the 1:21
+demo, except for the start).
+
+This took 2215 attempts.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done August 1, 2019, 00:03:38

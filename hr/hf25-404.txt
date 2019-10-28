@@ -1,0 +1,66 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      hr.wad
+Pwad name: Hell Revealed by Yonatan Donner and Haggay Niv
+Map:       25
+Skill:     4
+Category:  -fast
+Exe:       Doom2.exe
+
+Time:      4:04
+
+Author:    Chris "Ryback" Ratcliff
+Email:     jaranbue@yahoo.com.au
+
+
+Comments:  I was actually wondering when I uploaded the last batch of HR
+           stuff if it'd get Claudio back in action. Hey, well I was
+           right :) Once I saw him throw down the gauntlet with
+           hf25-449, I knew I had to get down below the max time.
+           Just because it was possible.
+
+           So here are some demos of me doing exactly that. Turned out
+           that a time around 4:3x is pretty easy, but it gets rougher
+           from there.
+
+           The demos:
+
+           hf25-423
+           --------
+           First exit, and looks very rough and messy.
+
+           hf25-415
+           --------
+           Kicking self metaphorically in head for this one... everything
+           is going brilliant up until the Cybers, and then that battle
+           cost me some health and I got nervous. Then I forget what
+           route I'm supposed to take, MISS the megasphere, go back and
+           get it, and generally foul up a good run. That the eventual time
+           was just one second outside the max time was one of those
+           'I really wish I could just punch in this monitor screen'
+           moments :)
+
+           Couple of days go by, some 4:3x's, leave it alone for a bit,
+           then this:
+
+           hf25-404
+           --------
+           My new set of sound drivers that don't like DOS emulation for
+           some reason crapped out halfway through this session, so
+           I was playing in blissful silence. Kind of helped, actually.
+           My route at the start is to leave as many monsters alive as
+           possible for infights, so that's what I leave the mancs alive
+           for. The next bit was a bit weird, though... I've never before
+           had a try where I went for the mega with spiders still alive.
+           Anyway, things calm down after that, like hf25-415 the second
+           Baron came down from his perch and died in the revenant fight.
+           This fight helps a lot with timing - if you only have to circle
+           two times the time won't be bad, three times and it's looking
+           worse. And there was no more trouble from that point, both
+           Cybies went down quick and easy and they left little for me to
+           mop up. Didn't have to take the second mega, but only lost
+           maybe three seconds here. And, because I'm a right bastard who
+           enjoys making other people do long frustrating demo recording
+           sessions, I'll say 3:xx is *definitely* possible :)
+

@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hn31s212.txt
+
+hn31s212.zip
+
+hn31s212.lmp - NightMare secret exit
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD HRmus.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 31 - The Descent by Yonatan Donner
+  
+Kills     13%
+Items      0%    
+Secrets   20%  and Time  2:12 
+                
+                          
+Description:
+
+Spend some time trying respawn. Seems not enough plasma. All change on nmare. 
+First exit.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+29.03.2004.

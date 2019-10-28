@@ -1,0 +1,25 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      02
+Skill:     4
+Category:  Speed
+Exe:       Doom2.exe
+
+Time:      1:44
+
+Author:    Opulent
+Email:     opulent@goodnet.com
+HP:	   http://www.goodnet.com/~opulent/doom2.htm
+
+Comments:  
+
+You don't need the blue key at all.
+shortcut is to switch the switch before raising it...
+but it really doesn't save much time.
+
+too many demons to let you really be fast.
+nearly a maxdemo... 
+wind up killing 90+% of the monsters you meet.

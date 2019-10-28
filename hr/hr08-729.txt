@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:		hr.wad
+Pwad name:	Hell Revealed
+Map:		8
+Skill:		4
+Category:	UV Max
+Exe:		Doom2.exe
+
+Time:		7:29
+
+Author:		Ilkka Kunttu
+Email:		ilkkaknt@voimax.cygnnet.jkl.fi
+
+Comments:
+		I had some problems at the end: I ran out of ammo!
+		Fortunately, beating the last enemies with berserk
+		fist wasn't too difficult.

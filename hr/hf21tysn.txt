@@ -1,0 +1,20 @@
+Player: Alexander Sushkov <sushkov@thsun1.jinr.ru>
+Skill:  4 (uv)
+Fast:   Yes!
+Style:  Tyson
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    21
+Time:   40:00
+LMP:    HF21TYSN.LMP
+
+Credits to: id Software, all HR authors and hruvlmp(s/2) players
+
+Description:
+
+What is a strange idea to play HR21 with "tyson" and -fast?
+But, this map in tyson mode without -fast is too easy (or too hard? :)
+for me. Nevertheless, seems to me, it was a great idea.
+And, after all, this demo is a rather joke :)
+
+Enjoy!

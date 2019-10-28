@@ -1,0 +1,14 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      8
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      3:51
+
+-complevel 2
+
+Author:	   j4rio
+
+I played the beginning differently, setting off the suicide booth as soon as possible. Apparently baron and caco decided that it's time to end their misery and helped me with
+getting slightly better final time. Caco rarely cooperated like this. Some dumb things happened but nothing that would make me bother with this map any longer. 

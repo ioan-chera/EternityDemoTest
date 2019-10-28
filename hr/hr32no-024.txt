@@ -1,0 +1,9 @@
+WAD: Hell Revealed
+MAP: MAP32: Mostly Harmful
+Time: 0:24
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Definitely my favorite map from HR. :) Excellent music, too.
+
+--Doomdaniel95

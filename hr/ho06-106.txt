@@ -1,0 +1,30 @@
+       
+ 	********************************
+        * doom2 * HO06-106 * nomo 100s *
+        ********************************
+
+ HO06-106.lmp - nomonsters with 100% secrets
+   
+   HO06-106.txt
+
+     HO06-106.ZIP
+
+   doom2.exe -file hr.wad - playdemo ho06-106
+
+
+   Hell Revealed demo, map 06, nomonsters 100s
+
+      -----------------------------------------
+      - Kills     -   0%  -     ...final time -
+      -----------------------------------------    
+      - Items     -  76%  -          1:06     -
+      -----------------------------------------
+      - Secrets   - 100%  -                   -
+      -----------------------------------------
+
+  Descripiton: 31 seconds down.
+  
+	 
+ 	Author:			 Jakub "DooMerMan" Machata
+        E-mail:			 DMrM@seznam.cz
+

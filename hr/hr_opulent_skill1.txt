@@ -1,0 +1,19 @@
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      1-32
+Skill:     1 (I'm too young to die)
+Category:  Max 
+Exe:       Doom2.exe
+
+As with all of my demos since 1995:
+Completely vanilla setup with doom/doom2.exe, no cheats, source-ports(with the exception of a scant few MBF/Boom demos), or crutches.
+native OS calls, no autorun, no mixed key binds, TSRs, or config cheats
+This is the real game.
+
+
+
+These are mostly first attempts, so don't expect them to be optimized.
+On skill1, there are occasionally different challenges in the maps.
+
+
+Opulent

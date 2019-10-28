@@ -1,0 +1,14 @@
+=--------------------------------------------------=
+
+Hell Revealed - Top Hell (MAP28) - UV-Max in 6:12
+-complevel 2
+
+Very fun map and happy with the overall performance.
+=--------------------------------------------------=
+
+Author: Nevan/Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus
+Pwad: hr.wad hrmus.wad
+
+=--------------------------------------------------=

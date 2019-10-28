@@ -1,0 +1,11 @@
+Runner: ferfrancuito
+Date: 2018-Sep-23 18:18
+IWAD: HR.wad
+Category: UV-speed
+Map: 26
+Source Port: PRBoom v2.5.1.4
+Time: 0:06.40
+Attempts: 129
+
+Description:
+Demo is self explanatory ¯\_(°-°)_/¯

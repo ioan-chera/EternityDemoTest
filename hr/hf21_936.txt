@@ -1,0 +1,20 @@
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      various
+Skill:     4 (Ultraviolence)
+Category:  Max -fast
+Exe:       Doom2.exe
+
+As with all of my demos since 1995:
+Completely vanilla setup with doom/doom2.exe, no cheats, source-ports(with the exception of a scant few MBF/Boom demos), or crutches.
+native OS calls, no autorun, no mixed key binds, TSRs, or config cheats
+This is the real game.
+
+==========================
+
+Map21 - Some serious rocket surfing and luck anywhere down the Cyber bridge are needed.  Plenty of room here for improvement, but I doubt I could reach 8:00, much less Chris' 6:40.  The Spidermastermind gets smashed!( -trace_thingshealth 328 230 )
+
+==========================
+
+
+Opulent

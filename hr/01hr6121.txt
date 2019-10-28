@@ -1,0 +1,37 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      01-10
+Skill:     4
+Category:  Max Movie
+Exe:       Doom2.exe
+
+Time:      
+
+Map01	 2:23
+Map02	 3:35
+Map03	 4:30
+Map04	 2:21
+Map05	 4:40
+Map06	 6:38
+Map07	 6:37
+Map08	 7:24
+Map09	16:14
+Map10	 6:59	Only 99% kills   =(
+
+Total Time: 61:21
+
+Map11	31:37	74% secrets
+Map12	 9:44		   102:42
+
+Author:    Opulent
+Email:     opulent@goodnet.com
+HP:	   http://www.goodnet.com/~opulent/doom2.htm
+
+Comments:  
+
+First shot at this.
+I make several mistakes at the beginning of Map13 and die.
+I think I miss a demon on Map10. doh!

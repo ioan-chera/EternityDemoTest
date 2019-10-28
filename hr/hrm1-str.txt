@@ -1,0 +1,11 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s):Hell Revealed
+Authour of PWAD: Yonatan Donner & Haggay Nev
+Recorded with: PrBoom Plus 2.5.1.3 used latest ZDL to help me
+Category: Stroller
+Time: 0:45
+Complevel: 2
+Map: 01
+
+Notes: Pretty pleased with this. Tried to get sergeants to attack each other in order to free some space too make a getaway, grabbed the armour for protection against chaingunners and then exited. Thanks to Kristian Ronge for sending me the Stroller demo pack which served as a little bit of inspiration.

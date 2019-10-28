@@ -1,0 +1,30 @@
+This is a Doom .LMP "Competition" Entry
+
+hr14-147.txt
+hr14-147.zip
+
+hr14-147.lmp 
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - MAP14 - City in the Clouds
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:47
+=--------------=
+
+C-N entry #101.
+
+This run uses numerous tricks, (some old, one
+possibly new), which brought my opening time of
+3:09 down by over a minute. There's definitely
+room for improvement, but be forewarned: this
+run is deceptively irritating.  Many of the tricks
+shown here can be foiled for several reasons. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

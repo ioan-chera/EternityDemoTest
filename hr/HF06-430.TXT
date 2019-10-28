@@ -1,0 +1,79 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+Please forward it...
+
+HF06-430.ZIP
+
+ HF06-430.LMP
+
+  HF06-430.TXT -Ultra-Violence -FAST
+
+  Recorded using "DooM 2 v1.9 - Hell Revealed" ! (Complevel 2)
+  DooM2 -file hr.wad hrmus.wad -PlayDemo with Version 1.9
+
+  Hell Revealed - Level Six - The Round Crossroads
+
+  Kills: 125 / 125 (100%)
+  Items:  11 / 13  (84%)            ********
+  Secrets: 2 / 2   (100%) and Time  * 4:30 *
+                                    ********
+  C-N entry #40.	Date:03/24/2012
+
+  Description :)
+  I wrote in my HF06-456.TXT file:
+   "However, this run could still be
+    improved by about 20 seconds if someone took the time to do it..."
+  
+  Well 4:30 sure beats 4:56, God I've gotten better at Doom lately.
+  
+  I also wrote in HF06-456.TXT:
+   "Wow, 2 COMPET-N entries in a week. I'm not sure I'll ever stop
+    submitting these things no matter how futile life gets."
+  
+  In between Sunday, March 04, 2012, 12:00 AM and Sunday, March 11, 2012,
+  (not including March 11, in between) I had submitted 8 COMPET-N entries
+  and as of March of 2012, so far I've submitted 14 demos this month and
+  that does not include HR06-348 or this demo (HF06-430).
+  
+  Keep in mind that HF06-456.TXT was written just over two months ago, and
+  now things are so different.
+  
+  In 2009 I submitted 3 demos to COMPET-N, in 2010 I only submitted 2
+  (I hada GF!) and in 2011, I submitted 7.
+  
+  Those 12 demos before 2012 required much more effort than almost any of my
+  2012 demos; I don't know if it's that I've miraculously improved over the
+  years or if I'm just playing more obscure categories (respawn) now.
+  But I do know that before this year, I couldn't haver ever achieved a time
+  of 4:30 of this map on UV -FAST, that's for sure.
+
+  Random:
+  God this post brought back memories:
+  http://www.doomworld.com/vb/showthread.php?s=&postid=1063206#post1063206
+
+  Look at my reply here:
+  http://www.doomworld.com/vb/showthread.php?s=&postid=1063459#post1063459
+  								
+  								
+  By the way, COMPET-N record was 4:56 by me, timestamped:
+  Friday, January 20, 2012, 4:57:17 PM.
+  
+  Complete Historic COMPET-N Leaderboard:
+  HF06-814 - Yonatan Donner - 05/24/1998  
+  HF06-508 - Anders Johnsen - 05/17/2000
+  HF06-505 - Archy          - 12/11/2009
+  HF06-456 - Archy          - 01/20/2012
+  
+  
+  Note: Since this demo was recorded with HR.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/585/hr.zip
+        and pick it up if you havn't already :) 
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

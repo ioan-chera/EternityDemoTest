@@ -1,0 +1,56 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      hr.wad
+Pwad name: Hell Revealed by Yonatan Donner and Haggay Niv
+Maps:      A few
+Skill:     4
+Category:  Max (and some -fast stuff)
+Exe:       Doom2.exe
+
+Time: (the max stuff)     
+
+Map07   5:43
+Map11  20:00
+Map17  17:47
+Map26  32:32
+Map28   8:42
+
+      (the -fast stuff)
+
+Map11  29:45
+Map14  33:07
+Map21  12:57
+Map22  18:31    
+
+
+Author:  Chris "Ryback" Ratcliff
+Email:   ryback@fcmail.com (or jaranbue@yahoo.com.au)
+
+
+Comments:  
+
+Just a few assorted HR demos I did at various times in the last few months.
+All done for fun.
+
+HR07-543: Not too hard.
+HR112000: Why couldn't it be one second faster ...?
+HR171747: My attempt at Chozoron's route - you probably don't need to
+          watch this one :)
+HR263232: Fastest max on this level by 37 seconds, but the ghosts didn't
+          appear so this isn't COMPET-N uploadable (?). I might change my
+          mind on this level, it's not so hard now. (One hour's work).
+          HR24 is harder...
+HR28-842: Recorded when Anders' 8:XX was the record. Obviously it's slower
+          now...
+HF112945: New record by 6 minutes or so.
+HF143307: I like this one for a few reasons:
+          - first try :)
+          - a very funny scene as the first Cybie gets a little too close
+            for comfort...
+          - I forgot about going back to the cacos, but Cybie was kind enough
+            to kill them all for me...
+HF211257: Alexander's route makes this level easy and fun.
+HF221831: Another fun one once you survive that bastard start...
+
+

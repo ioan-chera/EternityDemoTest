@@ -1,0 +1,16 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      6
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      3:27
+
+-complevel 2
+
+Author:	   j4rio
+
+Some oddity happened in one of my attempts - lift didn't raise up to where it 
+was supposed to. Might have something to do with the crusher.
+
+

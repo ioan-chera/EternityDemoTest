@@ -1,0 +1,47 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HR17-612.ZIP
+
+ HR17-612.LMP
+
+  HR17-612.TXT -UV SPEED
+
+  Recorded using "DooM 2 v1.9 - Hell Revealed" ! (Complevel 2)
+  DooM2 -file hr.wad hrmus.wad -PlayDemo with Version 1.9*
+
+  Hell Revealed - Level 17 -The Black Towers
+
+  Kills       54%
+  (Items       0%)           ********
+  Secrets      0%  and Time  * 6:12 *
+                             ********
+  C-N entry #4.		Date:01/14/2010 
+
+  Description :)
+  WOW! Not as easy of a level as I thought(!), when I say the world record I 
+  thought it was terrible but then I tried it my self, I saw why it took so 
+  long. I now respect the old record after trying for over a week to achieve 
+  this C-N demo and man was it hard. But anyways this lmp is certainly 
+  beatable because there are some big mistakes like when I tried to kill that 
+  arch-vile in the yellow key room, you know the last one? That was completely
+  unnecessary so I think some one like Kimo should go and beat this shitty 
+  record :)								  
+								
+								
+  By the way, COMPET-N record was 6:22 by Altima Mantoid.
+
+  Note: Since this demo was recorded with HR.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/585/hr.zip
+        and pick it up if you havn't already :) 
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  *Recorded with just HR.WAD but then played back with both HR.WAD and
+   HRMUS.WAD. [DOSBox(version 0.73) used]		
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

@@ -1,0 +1,56 @@
+This is a Doom .LMP "Competition" Entry
+
+hr261944.txt
+hr261944.zip
+
+hr261944.lmp 
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - MAP26 - Afterlife
+
+=--------------=
+Kills      107%
+Items       48%
+Secrets    100%
+
+Time      19:44
+=--------------=
+
+C-N entry #122.
+
+This run was originally one of the longest
+that I've ever played, but I managed to bring
+it below the 20 minute mark at the request of
+Casey (thanks for the support :).  I hope this
+will please players like Anthony, who like those
+minute barriers broken.
+
+The first part is the toughest for me.  A lot of
+action is happening in the black, starry outdoors
+and a rocket in the face to end a run isn't too
+surprising.  The cyberdemons are your best friends
+here, since they help defeat the mancubi, spider
+bosses, and the revenants at the exit gate.  Thanks
+to Peo and Kai for that strategy.
+
+I chose the blue hallways for the second area, which
+is tougher for me.  I get blasted down to 5 health
+by an archvile and sprint towards the nearest medikit
+to avoid dying by a trooper's pistol. :)  One bright
+side of doing this area first is saving the last sphere,
+an invisibility, for the third area, although I didn't
+need to take the computer map (beh).
+
+The third area is the easiest, and the invisibility
+helps quite a bit for the start.  Sometimes the
+revenants near the end can be trouble, but there are
+plenty of soulspheres to help out.
+
+As for the end, it's me running around waiting to see
+if the ghosts want to come out and play. :)  Yeah, the
+textfile is longer than usual, but I think having more
+things to write about is a nice change of pace.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

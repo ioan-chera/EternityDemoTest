@@ -1,0 +1,39 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+H32F0745.TXT
+
+ H32F0745.ZIP
+
+  H32F0745.LMP - Ultra Violence / With -FAST
+
+  Recorded using "DooM 2 - Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2 - Hell Revealed" 
+
+  Hell Revealed - Map32 - Mostly Harmfull
+
+  Kills    115%
+  (Items   100)         
+  Secrets  100%  and Time  07:45
+                           -----
+
+Description:   Well, it was pretty interesting...
+               Hmm...some awkward cyber-situations, but the worst thing is the
+               archeviles, especially those in the "core-towers" surronding the
+               exit. Thats why I go pretty slow and use rockets to clear away
+               all the barons. I tried to confront them with BFG the first time
+               I got there...not one of my brighter moments :) Well...if the
+               killing qualify I guess this is the first ever -fast of this
+               map. Neat. Its a ugly demo thoug, got a bit too hectic for my
+               taste. On a side note its three secs slower then the regular
+               UV demo for the first hr demo-pack. Maybe I should take time
+               and learn HR24 now...thats another one on my list.
+                
+
+Note: 		Since this demo was recorded with HR.WAD, I suggest you drop
+                by at http://www.geocities.com/Hollywood/4704/ and pick it up
+                if you havn't already :)
+
+
+Author:    Anders Johnsen
+E-mail:    anders-johnsen@c2i.net    
+Vissit:    http://www.geocities.com/Broadway/Booth/3568/

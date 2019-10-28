@@ -1,0 +1,18 @@
+Player: Alexander Sushkov
+E-mail: sushkov@thsun1.jinr.ru
+Skill:  4 (uv)
+Fast:   No
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    27
+Time:   07:45
+LMP:    HR270745.LMP
+
+Credits to: id Software, all HR authors and hruvlmp(s/2) players
+
+Description:
+
+   "The more we are together the merrier we'll be"
+
+I wrote in notes for my previous demo (8:42) that time can be improved by
+20-40 sec. I did it! And thus my small project HR27 is finished...

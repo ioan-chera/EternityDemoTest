@@ -1,0 +1,34 @@
+This is a Doom LMP Entry
+
+HR10S143.ZIP
+
+	HR10S143.TXT
+	HR10S143.LMP - Stroller
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 10 - Chambers of War
+
+=---+------+---=
+Kills         8%
+Items        66%
+Secrets     100%
+ 
+TIME        1:43	TAS record: 1:53 by Memfis
+=---+------+---=
+
+Demo entry #86.
+
+Description:
+
+My first stroller demo. This level is really dangerous to play in this style,
+but great fun nevertheless. Thanks to Memfis for his TAS, it inspired me to
+record a faster non-assisted demo, with a slower but more practical route :-)
+
+Previous exits were 2:08, 2:00, 1:52 and 1:58.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done January 22, 2011, 21:22:11

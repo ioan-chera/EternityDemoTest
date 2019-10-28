@@ -1,0 +1,66 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hp26-004.TXT
+
+ hp26-004.ZIP
+
+  hp26-004.LMP - UV Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Hell Revealed - MAP26 - Afterlife
+
+  Kills       0%
+  Items       5%           +++++++++
+  Secrets     0%  and Time + 00:04 +
+                           +++++++++
+
+
+  Description :)
+
+  Sedlo hits a pinkie at the beginning in his UV Speed
+  I use sr50 right from the start, so the pistol shot
+  doesn't hit it.
+  
+  The run is basically: run, hope av uses his attack
+  early, run behind the exit tele because the front
+  side would be full of monsters when you're coming from
+  that direction, then time the av jump to the back side
+  and hope you don't get blocked by revs.
+  Since the archvile uses his attack in front of me,
+  his attack propels me to the back, you need to get
+  some speed of your own towards the opposite direction
+  but at the same time you must have a decent gap so
+  that you can get over the ledge, the timing in this
+  run was perfect and there were no enemies blocking the
+  exit, so there's 4s.
+  I got this in 11 minutes.
+  Enjoy!
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 4
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Operating System: Windows XP Professional SP3 (x86)
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  XP Sensitivity: 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Speakers: Stereo Speakers with the label 'HELIVM-Hi' on them

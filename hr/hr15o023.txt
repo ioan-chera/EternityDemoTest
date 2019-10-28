@@ -1,0 +1,20 @@
+For the Doom2 megawad "Hell Revealed" by Yonatan Donner and Haggay Niv
+
+Files required: hr.wad hrmus.wad
+Download link: oh come on, you've got HR
+
+Map15: Gates to Hell
+
+Skill: Nomonsters Speed
+
+Kills         0%
+Items         0%
+Secrets       0% and Time 0:23
+
+This is a Doom2.exe-format/compat demo (recorded with a test version of glboom-plus 2.4.8.2).
+PrBoom-plus site: http://sourceforge.net/projects/prboom-plus
+
+Description: Another nomo HR with a glide (together with two standard switch tricks). This could be used to quicken up the UV/NM speed runs, obviously. The glide occurs in a slightly odd way in this demo (between the teleport base and the railing, rather than the gap I am trying to get through, but it still means I can walk unobstructed through that gap), and I lose a good half second before I realize it.
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com

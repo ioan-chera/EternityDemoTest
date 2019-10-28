@@ -1,0 +1,21 @@
+Player: Alexander Sushkov <sushkov@thsun1.jinr.ru>
+Skill:  4 (uv)
+Fast:   No
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    21
+Time:   9:07
+LMP:    HR21-907.LMP
+
+Credits to: id Software, all HR authors and hruvlmp(s/2) players
+
+Description:
+
+HR21 is my favorite map on HR (my favorite wad :). Because, there is no
+regular way after you started to fight against cybers, only a full
+improvisation, and a big space for an improvement.
+
+Also, I include the second demo (8:47) in this archive, although, I
+forgot to kill 3(2,4?) blocked demons. (I was quite absent-minded during
+those day :) I did it, because: 1) this demo illustrated my previous
+sentence; 2) I very like this map :)

@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hn02-019.zip
+ hn02-019.lmp
+ hn02-019.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file hr.wad -playdemo hn02-019
+
+Hell Revealed - Level 2 - Gateway Lab
+
+Category: Nightmare!
+
+Totals:
+
+Kills	  8%
+Items	  0%
+Secret	  0%
+
+Time    0:19
+
+
+Comments: 
+
+Rather than just do a copy of hr02p015.lmp I
+decided to add variety and go the other way around
+at the exit and make it a three-glider. Though the
+best time is obviously going to be slower, on 
+average this way is actually faster as the west-east 
+glide seems a lot more difficult.
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+13/09/2006

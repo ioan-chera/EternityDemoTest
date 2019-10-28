@@ -1,0 +1,36 @@
+Doomed Speed Demos Archive
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+********************************************************************************
+                                                                         ******
+Game:      Doom ][                                                      ******
+Pwad:      HR.wad                                                      ******
+Pwad name: Hell Revealed                                              ****** 
+                                                                     ******
+Skill:     4 with the -fast option                                  ******
+                                                                   ******
+Map:       19 (Everything Dies)                                   ******
+Time:      3:16                                                  ******
+                                                                ******
+Kills:     100%                                                ******
+Secrets:   100%                                               ******
+                                                             ******
+                                                            ******
+err.. did the 3:49 a while ago, messing around with        ******
+keyboard only (my mouse driver died on me last year)        ******
+slightly different start, first time I reached the exit      ******
+with 100% kills 				              ******
+							       ******
+(the other is simply an attempt to break the virtual partime,   ******
+I guess 2:xx would need a less tentative route and a bit of      ******
+patience)	        	                                  ******
+ 								   ******
+btw, this map would be interesting with a little variation:        ******
+an invuln instead of the mega at the start, forcing you to do     ******
+the second half with only 100/0 health/armor :P                  ******
+                                                                ******
+                                                               ******                                                              ******
+Author:  Claudio Barba                                        ******
+Email:   elguapo@access.unizh.ch                             ******
+                                                            ******
+*****************************************************************
+

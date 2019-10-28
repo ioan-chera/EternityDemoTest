@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HC10-037.TXT
+
+HC10-037.ZIP
+
+HC10-037.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 09
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:37 *
+              ********
+
+
+Description:
+player 1: Torn
+player 2: Erik
+
+Erik:
+Cool trick Torn found while we were trying the regular route.
+Good time, we had 3 :40's before this one. Great coop seesion overall.
+   
+Torn:
+heh, annoying coop map. Do you like the av jump?
+
+Authors:      Erik Alm
+	      Kim "Torn" Bach
+
+E-mails:      erik_a80@hotmail.com
+	      tornthedark@hotmail.com
+

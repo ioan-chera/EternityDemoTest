@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HE28-516.TXT
+
+HE28-516.ZIP
+
+HE28-516.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 28 - Top Hell
+      
+Kills      111%
+Items       26%
+Secrets    100%
+
+              ********
+  and Time -  * 5:16 *
+              ********
+
+
+Description:
+
+I've been kinda workin' on this one periodically over the past few months,
+and my interest died down on this right after I switched over to mouse. My
+best time before I picked this map back up was something around 6:30...and
+it was done on keyboard.
+
+Anyway, this map....it's a very odd map for -respawn. I would have runs in
+which I didn't get a lot of infighting, and then I would get runs that had
+a ton of infighting...so when I would exit after wasting the third round of
+BFG in the exit room, I'd either have extreme overkill (120%+) or underkill
+(~96%). As you can see, I had a lot of overkill here, but not as much as
+usual ^^'
+
+This can go faster, as I had a 96% kills exit at 4:58. I might come back to
+this one later, but since I've got a time under stx-Vile's max-kill time, I
+think I'm happy with this for now ^_^
+
+Oh yeah....just notice how many times I nearly die ^.~
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+23.03.2002

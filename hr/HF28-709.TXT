@@ -1,0 +1,47 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HF28-709.TXT
+
+ HF28-709.ZIP
+
+  HF28-709.LMP - Ultra Violence -FAST
+
+  Recorded using "DooM 2 - Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2 - Hell Revealed" 
+
+  Hell Revealed - Map22 - Top Hell
+
+  Kills    100%
+  (Items    46)         
+  Secrets  100%  and Time  07:09
+                           -----
+
+Description:  Heh...didn't expect to get this in less than 20 minutes to
+	      be honest, but counting I did the maxkill before school today,
+	      I guess its only resonable. Didn't quite notice the difference
+	      with or w/o -fast (infact, after getting a 8:10 at first exit
+	      I checked my bat file :P
+ 
+	      Claudio wrote in his soft&yummy 8:36 ->
+	      > I did not bother to improve the time, below 8:00 should be 
+	      > rather easy to reach. In fact I assume that even below 7:30 
+	      > could be possible.. 
+	      
+              Hmmmmmm....it *could* be? :P Nah, common...you could do
+	      a 6:xx -fast yourselfe. Even lower. I assume 5:5X would be
+	      a pretty strong time here, possibly with a few route
+	      modifications etc. -Fast time should be sub UV time
+	      in this map.
+
+	      Thanks again to mr. Barba the Schmoot ass for cutting off some
+	      time. I'm sorry to say that this new demo of mine looks like
+	      shit...I was not prepared to get through this soon really, and 
+              it shows on both movement and cell pickup. But thats me, lazy
+              sob who hates to spend too much time in one map, if forced I 
+              guess I'll play it again tho...we'll see :) 
+
+              Why do I always write long txt's for shitty demos...
+
+Author:    Anders Johnsen
+E-mail:    nfp7065@privat.cybercity.no
+Vissit:    http://www.geocities.com/Broadway/Booth/3568/

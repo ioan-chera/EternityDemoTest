@@ -1,0 +1,12 @@
+Iwad:      Doom2.wad      
+Pwad:      hr.wad (Hell Revealed)
+Maps:      MAP02
+Skill:     4
+Category:  No Monsters
+Exe:       DooM v1.9
+
+Time:      10.86
+
+Desc:      Tried a bit different gliding method. Pretty good.
+
+Author:    Looper

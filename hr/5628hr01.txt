@@ -1,0 +1,88 @@
+This is a Doom .LMP "Competition" Entry
+
+5628HR01.TXT
+5628HR01.ZIP
+
+5628HR01.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file hr.wad -playdemo with version 1.9
+
+Hell Revealed - Episode 1 - Max-Kill
+
+
+                            Time     Kills     Items     Secrets 
+-----------------------------------------------------------------
+01 - Into the Gate          2:54      100%       22%       100%
+02 - Gateway Lab            4:06      100%       86%       100%
+03 - The Dumpster           4:25      100%       90%       100%
+04 - The Garden Terminal    2:32      100%       14%       100%
+05 - Core Infection         5:04      100%      100%       100%
+06 - The Round Crossroads   8:15      100%       92%       100%
+07 - Arachnophobia          6:19      100%      100%       100%
+08 - The Jail               6:50      100%      100%       100%
+09 - Knockout               9:47      100%       52%       100%
+10 - Chambers of War        6:16      100%      100%       100%
+
+Total                 56:28
+
+
+01: Pretty easy level, I had some time loss at the teleporter. It helps to know that
+    there are 10 humans and 15 Imps in it. I stop to wait for that 10th human...he
+    didn't wanna come out. Shotgunned the Demons...there's a lot of shells in Map02.
+02: I like this level. I thought I saw a Stimpack that wasn't there...it cost me a
+    few seconds. This would have been under 4 minutes, but I lost a lot of time. I
+    missed the jump to the SSG, and at the end I thought I heard an enemy...but it
+    wasn't there either. >.<
+03: I had one run end here with 50% secrets, cause I didn't know the Rocket Launcher
+    was a secret. I kept missing that awkward jump in that room as well, it took me
+    a few tries to get it... >.< This would have been a 3:45 run had I made it the
+    first time.
+04: I LOVE this map!! For some odd reason, it didn't go as smooth as usual ^^'
+05: I've never really had problems with this map. Whenever I could, I cleaned out
+    enemies using the windows.
+06: This map went horribly wrong!! The beginning was frantic, and it really fell
+    apart as it progressed. I had a run here when I forgot the Soulsphere secret. I
+    kinda forgot the Red Key ^^' At the end I was gonna go back and grab health but
+    I didn't realize I already had 100%...and I need it all for Map 7...also the end
+    was hectic as well....
+07: Ooooo...Arachnophobia. Early health loss had me worried. Fun level, one of my
+    faves. I had a problem with shells, so I went back down the elevator to grab
+    those, and when I come back up, I'm panicing like crazy because I'm surrounded
+    by Arachnotrons!! I somehow left an Arach alive when I started killing the ones
+    in the legs. I used the SSG through the level for a good reason, because I need
+    all the Rockets and Plasma I can get for Map 9....and the Mastermind fell rather
+    fast this time ^_^
+08: Yay, I can breathe relief. This map is somewhat easy. Mancubus at end nearly
+    killed me...I was just trying to get the Caco and the Manco to infight for me. I
+    lost some time backtracking for ammo for Map 9...
+09: Here it is. The beast of this episode (for me anyway). I'm not really good at
+    punching things out. Luckily the Chainsaw I picked up in Map 8 helped me out with
+    the Spectres and such. It kills things better than the Berserk IMO ^_^' I had a
+    run end here when the Imps outnumbered me near the Red Key. The Yellow Key room is
+    what I save all that ammo for...and the room before it. I invulned/punched the
+    Barons and Hell Knights. First time under 10 minutes too
+10: I had a run unsuccessfully end here when I exited with 96% kills...I missed the 4
+    Imps guarding the 2 Cells. Easy map, especially after Map 9 ^_^ Plasma all the way.
+
+I did this run more casual than for speed, just so it could be done. However, I REFUSE
+to do a Max-Kill movie run for the remaining episodes. Just too many Cybers to take out
+and on Max, the levels have obscenely long times. They're also way out of my league for
+the most part. I've yet to successfully beat Map 11  or 21 from scratch...so as
+far as HR Max-movies, I'm done. I hope this wasn't too long and boring for you guys ^^'
+
+I know the time isn't good, but I did this as a casual run as I mentioned before. Yet,
+I poured sweat, blood, and tears over this run. All the mistakes and errors I had. This
+is actually the second successful run I've done for this episode. The first one...even
+though I put it in the DOS-Prompt to record...it didn't record it.
+
+Anyway, so having said that, I hope you don't get too bored watching it.
+
+
+Author: Casey Alvis
+E-mail: altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name: Altima Mantoid
+
+
+26.03.2002

@@ -1,0 +1,34 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      All maps
+Skill:     N/A
+Category:  -nomonsters 100% secrets
+Exe:       Doom2.exe
+
+Time:      Various
+
+Author:    Casey "Altima Mantoid" Alvis
+Email:     altima_mantoid@hotmail.com
+HP:        Blood Lust        
+http://www.angelfire.com/tn3/bloodlust
+
+Comments:
+
+This is a Hell Revealed -nomonsters with 100% secrets demopack.
+
+There are not optimal, but they are all at least 1 second faster
+than the one done by the HR crew.
+
+These will show you the quickest routes to all the secrets in a map.
+Remember, these times are not optimal, but they are faster than the
+set released by the HR crew.
+
+Also, because map 7 is impossible to complete on -nomonsters, I have
+included a skill 1 demo in it's place.
+
+I hope you enjoy these demos. ^_^
+
+Total improvement time (approx.) - 11 minutes, 4 seconds

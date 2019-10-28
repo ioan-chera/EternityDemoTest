@@ -1,0 +1,31 @@
+       
+ 	********************************
+        * doom2 * HO04-035 * nomo 100s *
+        ********************************
+
+ HO04-035.lmp - nomonsters with 100% secrets
+   
+   HO04-035.txt
+
+     HO04-035.ZIP
+
+   doom2.exe -file hr.wad - playdemo ho04-035
+
+
+   Hell Revealed demo, map 04, nomonsters 100s
+
+      -----------------------------------------
+      - Kills     -   0%  -     ...final time -
+      -----------------------------------------    
+      - Items     -   0%  -           :48     -
+      -----------------------------------------
+      - Secrets   - 100%  -                   -
+      -----------------------------------------
+
+  Descripiton: perfect map, last nomo100s beated by
+               4 seconds only.
+  
+	 
+ 	Author:			 Jakub "DooMerMan" Machata
+        E-mail:			 DMrM@seznam.cz
+

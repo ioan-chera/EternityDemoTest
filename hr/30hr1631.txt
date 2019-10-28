@@ -1,0 +1,214 @@
+             *** Tools-Assisted movie of Hell Revealed ***
+-------------------------------------------------------------------------------
+Recorded using prboom-plus 2.4.8.2 and Doom Replay Editor 1.0
+
+Plays back with original Doom II v1.9 or with any other fully compatible ports.
+It is highly recommended to use prboom-plus with enabled smooth demo playback
+function for the best viewing experience.
+-------------------------------------------------------------------------------
+
+
+Map  |  Time  |  hrdq  |
+-----|--------|--------|
+ 01  |  0:06  |  0:09  |
+ 02  |  0:09  |  0:59  |
+ 03  |  0:36  |  1:02  |
+ 04  |  0:24  |  0:37  |
+ 05  |  0:59  |  1:33  |
+ 06  |  0:40  |  0:51  |
+ 07  |  1:28  |  1:46  |
+ 08  |  0:16  |  0:32  |
+ 09  |  0:23  |  1:26  |
+ 10  |  0:27  |  0:36  |
+ 11  |  1:15  |  1:54  |
+ 12  |  0:42  |  0:51  |
+ 13  |  0:40  |  0:51  |
+ 14  |  0:09  |  1:54  |
+ 15  |  0:17  |  0:53  |
+ 16  |  0:21  |  1:18  |
+ 17  |  0:12  |  0:46  |
+ 18  |  1:04  |  1:35  |
+ 19  |  0:20  |  0:25  |
+ 20  |  0:35  |  0:44  |
+ 21  |  0:21  |  0:25  |
+ 22  |  0:52  |  1:30  |
+ 23  |  1:33  |  1:51  |
+ 24  |  0:10  |  0:32  |
+ 25  |  0:22  |  0:25  |
+ 26  |  0:04  |  0:05  |
+ 27  |  0:52  |  1:01  |
+ 28  |  0:12  |  0:31  |
+ 29  |  0:48  |  1:13  |
+ 30  |  0:14  |  0:28  |
+
+Total time -  16:31
+
+Time - my time in this run
+hrdq - hrdq2843 time
+
+
+map01: This was built recently. No way i could repeat this time without building,
+so i just used the same demo.
+
+map02: Another built run. I tried to make turns smoother here so it wouldnt look
+THAT jerky. Spent quite a while on this map. At first i tried to record it using
+two glides, and got 0:11 after few hours. It was a low 11sec, so it needed a little
+refinement. While deleting unnecessary tics, i accidentaly pressed the tic with UT
+in it. And you know what? DRE showed that i'm standing in the corner of this last
+room and still reach the button from this place. Quick check in WadAuthor showed
+that it is not a bug, but the button is just so "wide" :) I got 10:06 using this
+trick but couldnt cut 3 more tics. The next morning i've rebuilt everything from
+beginning (argh damn this glide) and it was enough to crash the limit and get 9:97 :)
+(it appeared that Gusta already used the trick years ago, pity i didnt know about it earlier)
+
+map03: Everything went ok here. Maybe i should have tried for 35s, but i'm more than
+satisfied with the look of the run as it is now.
+
+map04: Thanks to Grazza for pointing out this cool glide! Really unnoticable shortcut,
+but very helpful :) In fact, it is very easy one to perform, i get it every ~10th try.
+(compare with map02 one, for which i needed few hours). The run is quite consistent,
+with no big troubles. 
+
+map05: Yay, under 1min! :) Xit Vono's suggestion to avoid Hell Knight worked well, thanks
+alot. It gave 4sec gain, and more improvement comes from better monster behaviour here and
+there.
+
+map06: I couldnt trick caco to move in a right place and lost a couple of tics going round
+him, but still 0:39 feels too far away. 
+
+map07: This one looks worse than 1:29 i made earlier. I could bombard the spider gathering
+(near the start) more efficiently. The lone rocket, which i take in the end slowed me down
+a bit too. Still - happy to cheat it 1 more second down =)
+
+map08: I found a good way through lost souls. Wallrun and a rocket boost saved more than
+1sec, and it allowed to get just under 0:17, which was my initial goal. There is also a
+possible wallrun near 3 chaingunners, but i couldnt find any wholesome use of it. The 
+lamp in this wall doesnt make any benefit of execution of the trick (slows you down),
+and it seems that cutting the corner "normal" way is faster anyway.
+
+map09: nic0r! :) In the beginning it looks like there is an easy way to avoid imps. I've
+tried many combinations of movements, but they didnt let me through anyway. So they got
+their dose of lead :P Plasma really helped on the way back, and special thanks go to
+revenant for his little but useful help.
+
+map10: You can get on the hedge (in the BK area) by using a rocket boost. Thing or
+monster glide gives scanty speed, and lost soul's bite isn't enough either. On the 
+other hand, hell knight's plasma ball gives enough boost if you are perfectly (or 
+near perfectly) aligned, and running straight along the western wall. Theoretically
+it is possible to do it, but i couldnt get it without cleaning out the place beforehand,
+so back to normal route.
+
+map11: Nice map to play for fun, but speeding it through is a pain! There are no tricks
+to mention apart from a glide near an exit (saves 1sec), just trying to squeeze my way
+through the hordes without BFG. And btw, AV jump from the start room up to where sargeants/
+troopers are clustering is impossible.
+
+map12: The level is dull and so is my run here. Nothing spectacular.
+
+map13: Keygrab seems to be impossible afterall. I tried getting it with perfect angle, 
+perfectly aligned (placing player1 start on the same y-coordinate as the key, and building
+a 32-unit gap around myself so this coordinate remains the same after i start moving),
+with a rocket boost, with turbo 255, and vice versa - approaching the key as slow as i could.
+No way. So, like map11 it's pretty straight forward map.
+
+map14: Bleh, this trick surely requires luck :) Thanks to Cameron Prosser for his awesome
+idea. Southern arch-vile (number 84) is blocked by hell knights and baron, but in this run
+he got released quite fast. I shoot the other AV while waiting for this one to get into
+position. 0:08 is indubitably manageable, but gosh... i'm fed up of this map already :P
+
+map15: Nothing to say really. Easy stuff with tool-assistance, spent maybe half of an hour
+on this, and it doesnt look bad anyway.
+
+map16: Running the whole map without armor and weapons would have been of no fun, so i
+invented this neat route which allows to cut the boring parts :) I suggest to try doing it
+unassisted, the time under 1:30 would be very good here.
+
+map17: Using two known tricks here, and btw it's third map in a row that requires a glide =)
+
+map18: Lack of BFG power leads to time loss in the beginning (i'm 5 secs behind hrdq after
+barons' corridor) Taking plasmagun in map16 would allow for 1-2sec drop in the corridor, but
+then i wouldnt have enough cells for the end part (revenants&spiders).
+At first i used the basic route and got 1:32 with it. It was an ok time, because i managed
+to go ahead of hrdq afterall using few rocket boosts and strafe50. However, i wasnt fully
+satisfied with the time and went ahead to tweak the route a bit. Finally, i came to this
+one. It cuts 30secs, allows to take BFG and looks nicer. Perfect =) You probably wonder what
+the hell is going on in the end. I'll explain - there are 2 linedefs behind the arachnotrons.
+The first one teleports the archie behind you, and the second one teleports you on the bridge
+(which is lowered by this moment because i skipped half of the map). So the second linedef
+*must* be passed in order to exit the map with this route. Well, i couldnt pass it in spite
+of hours of trying... But there is a trick. At first i erroneously thought that if archie
+teleports and enters the room, the 2nd linedef stops working and you can safely open the exit
+door. The real case is different - the linedef is triggered by a revenant ball instead!
+Huge thanks to RjY for the in-depth explanation of this phenomenon. I wonder if the trick can
+find its use in other maps.
+
+map19: Pretty easy and fast enough. Plenty of health all the time, so maybe i should have
+added some rocket boosts and tried for 0:19. Couldnt find a place where to do it though.
+
+map20: Very violent and tight map with no tricks, just a pure running and cells-wasting. 
+I hate the mancubi&central places both forward and back ways, too many blockers everywhere.
+
+map21: And another trickless map. Was quite boring to run it.
+
+map22: Pure slaughter! Very fun to play :) Though i have to admit i was a bit scared of this
+map earlier, thinking smth like "dame, what if i wont have enough health/cells or will get
+blocked every step i take?" Everything went like a lightning here, happy with the time.
+AV jump could have been done faster though.
+
+map23: Didnt try this one hard. Frustrating map for speed (however, i really liked playing
+coop UV-max here. That's one of my favourite maps for coop-play), so you'll see some bumps
+here and there. Getting 1:32 isnt hard, but i didnt want to do it because current exact 
+time is so leeet - 1:33,37 :D
+
+map24: 0:09 is out of reach for me. So, it is just a copy of my recent TAS demo from scratch.
+The only difference is that i take plasma and RL here. I also tried another style (the one
+i used in hr24-010.lmp), but it leaves you with less health and isnt faster unless you
+somehow manage to glide the imp line around. Had no luck with it.
+
+map25: This map belongs to ones that are much harder to do in UV than in NM. I mean to do
+it quick :) Spiders and cacos always move around and tend to stand in your way. Thats 
+another map which is hard to do without BFG, so i have to run in inconvenient ways
+sometimes. Though it doesnt slow me down, since i do it while waiting for some platform to
+lower down (like roundabout way through the revenants to cybie). Revs that guard the BSK
+bugged me alot, because they are really uncooperative in UV and blocked me badly all the
+time. Thats why i also shoot 2 rockets whilst waiting for the teleport to lower. I think this
+taught them a little lesson :P Luckily i had good monster positioning after taking the key
+and teleporting back to the yard.
+
+map26: Maybe with some rocket boost in the start, and perfect cooperation from AV you can 
+get it as low as 0:03, but i doubt it is doable in a non-built demo. I actually tried to
+make rocketjump off a demon, and even 2 consecutive rocketjumps (off a demon, then off a wall),
+but couldnt make it fast enough to improve my 4secs here. To tell the truth, i didnt try
+it hard, the map is rather annoying. This starry sky makes me feel very sleepy.
+
+map27: I tried some variations in the route here, but they appeared to be not worth it. So
+you'll see just a lonely strafe50 running around. Relaxing map.
+
+map28: I'm damn sure it's optimal. Though i wont be sad at all if someone proves me wrong.
+
+map29: Monsters behaved quite good. Earlier when i was making a run from scratch i had lots
+of problems with fickle beasts (demons&revs,manco,barons, demons again, barons again), making
+countless attempts to finally get nice positioning of them. Here i havent got any problems
+coming from it (except the demons at :26), with what i'm pretty happy.
+
+map30: Tried many route variations here, but AVs are not friendly (or maybe it's opposite?) on UV,
+and i couldnt get a quadruple AV jump (though i succeded in doing it on Nightmare!). Triple AV jump
+isnt possible either. I can get a jump itself, but there are quite a few problems later, which seem
+to me quite unsolvable. Whatever, the time is ok anyway.
+
+
+Little conclusion:
+Making this movie was an incredible fun, mainly because HR is my favourite megawad of all time,
+very tense and full of action, but still packed with plenty of various tricks. Hope the movie
+fits it well ;) I had lots of enthusiasm & energy in the beginning - even after i had spent ~25hours
+on maps06,07,08 and finally was told by Xit Vono about a shortcut in map05 i didn't become very upset
+and immediately rerecorded everything. But of course there were times when i just wanted to give up
+the whole idea of a run - e.g. when i reached map14 (and later the same happened at map23). So thanks
+to all of you who encouraged me to go on and get the job done finally!
+I have some plans on making another TAS movie in future, but not in the nearest time. Maybe after a
+month or so... who knows? :)
+
+Enjoy!
+
+Alexander Nikulin
+anpdad02@rambler.ru

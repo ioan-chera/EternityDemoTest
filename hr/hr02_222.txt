@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      02
+Skill:     4
+Category:  Max 
+Exe:       Doom2.exe
+
+Time:      2:22
+
+Author:    Mark Thompson
+Email:     atomic-punk@mindspring.com
+
+Comments:  
+
+[Opulent -- Mark was the first to post a demo with the no_blue_key trick.]
+

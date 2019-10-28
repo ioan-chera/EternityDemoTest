@@ -1,0 +1,45 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      hr.wad
+Pwad name: Hell Revealed
+Maps:      01-10
+Skill:     4
+Category:  Max -fast
+Exe:       Doom2.exe
+
+Time:      
+
+1  - 2:48	monsters teleport in slower than uv.
+2  - 4:02	lots of missed shots here
+3  - 3:39	careless playing
+4  - 2:17	get your 20 cells!
+5  - 5:18	lots of health here
+6  - 9:29	saving ammo for 7 and 9
+7  - 7:37	I get careless again // waste some cells too
+8  - 8:29	Demon/Imp room is so much faster in -fast // 66%S and 99%K -- I stupidly miss the trooper secret.
+9  - 9:16	easy
+10 - 6:22	loads of extra ammo here, esp. cells.
+
+total time: 59:17
+
+Author:    Opulent
+Email:     opulent@goodnet.com
+HP:	   http://www.goodnet.com/~opulent/doom2.htm
+
+Comments:  
+
+just for fun.
+not an easy movie to push, but certainly not hard to do at my pace.
+Adam be warned, I have a uv movie in the works...
+farthest so far is to map14 in 2 1/2 hours. 
+Don't worry, I won't send one until I make at least map20... but of course, that would be a 5 hour demo.  =P
+
+considered going on, but since I missed 100% on map08 and 11 would be the first hard -fast map in the movie, I didn't.
+
+a -fast movie would surely be more difficult for the other 2 episodes, but I know it could be done by several players.
+
+as for nightmare movies:
+ep1 -- 1 is easy, but 2 is a very hard challenge, 3 would definitely be hard -- much like e1m6, 4 would be relatively easy, 5 would be difficult, 6 would be quite hard since it all revolves around the center area -- and 7 is impossible, so it ends there.
+ep2 -- too little ammo to make 11, I think. 12 would be very hard, and 13 is impossible.
+ep3 -- 21 is a speedrun, but on 22, if by some miracle you managed to live through the first segment at the bridge, you'd never make it to the exit.

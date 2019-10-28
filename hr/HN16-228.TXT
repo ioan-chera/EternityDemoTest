@@ -1,0 +1,49 @@
+This is a Doom LMP Entry
+
+HN16-228.ZIP
+
+	HN16-228.TXT
+	HN16-228.LMP -- Nightmare Speed!
+
+Recorded using GLBoom-Plus v2.5.0.8 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Resolution: 640x480
+Gamma level used during recording this demo: 4
+Capped framerate (which is much more convenient for me)
+HUD not used
+
+Hell Revealed -- Level 16 -- "The Path"
+
+=---+------+---=
+Kills        44%
+Items        50%
+Secrets      50%
+                
+TIME        2:28	Old record: 2:54 by me
+=---+------+---=	TAS record: 5:11 by Peo Sjoblom
+			
+Demo entry #103.
+
+Description:
+
+The biggest HR level in geometrical size. Superb grand design, with a grim, wild
+and oppressive feel. Brilliant for speedrunning, especially on NM.
+
+In January 2010 this run was quite a bitch for me, but now, with higher movement
+skills, it became much less frustrating. Time improvement is caused by faster
+running and a more detailedly balanced route. I leave the megasphere for the
+ending, which allows to blast through the final scenes more drastically and
+with a bigger success rate. On the other hand, I take a longer and safer path
+from the blue key to the blue sphere.
+
+Demo took me a very little effort, especially compared to my 3 latest UV Maxes.
+First exit in only 2 hours, with some natural flaws in the running, but 2:28 is
+just what I was aiming for.
+
+Enjoy the nightmare!
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 21, 2011, 12:52:51

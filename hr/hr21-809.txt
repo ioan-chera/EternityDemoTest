@@ -1,0 +1,33 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HR21-809.TXT
+
+ HR21-809.ZIP
+
+  HR21-809.LMP - Ultra Violence
+
+  Recorded using "DooM 2.Exe"
+  DooM2 -PlayDemo with "DooM 2 -file HR.wad"
+
+  Hell Revealed - Map21 - Siege
+
+  Kills    104%
+  (Items    60)         
+  Secrets  100%  and Time  8:09
+                           ----
+
+Description:  I got a 9:14 pretty easily...
+	      which was just 7 seconds off of Alexander's nice run.
+	      This is not pretty, but my target time was 8:00, so
+	      I'm satisfied with it; but only because of the time.
+
+	      Annoyingly, the monsters don't always all teleport.
+	      Complete route credits to Alexander.
+
+	      My -fast record is 10:33; which isn't far from 9:57...
+	      not to mention that -fast is easier in many ways.
+
+
+Author: Doug "Opulent" Merrill
+HP:     http://www.goodnet.com/~opulent
+E-mail: opulent@goodnet.com 

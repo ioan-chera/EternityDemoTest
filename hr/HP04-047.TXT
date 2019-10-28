@@ -1,0 +1,45 @@
+This is a Doom LMP Entry
+
+HP04-047.ZIP
+
+	HP04-047.TXT
+	HP04-047.LMP - UV Pacifist
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 4 - The Garden Terminal
+
+=---+------+---=
+Kills        80%
+Items        75%
+Secrets       0%
+ 
+TIME     0:47.91	Old record: 0:54 by Adam Williamson
+=---+------+---=
+
+Demo entry #35.
+
+Description:
+
+IMO the first really beautiful level in HR. It's colorful and detailed design
+is much more realistic than on most other Doom levels of that time, plus it's
+done with HR's unique atmosphere in mind!
+
+The 7 second improvement is caused by my new approach to the keyed doors: don't
+lure out the heavy weapon dudes, just push the switches straight through them.
+It's of course dangerous and it depends on luck how quickly you can do it, so it
+was hugely difficult to pull off this trick 2 times in a single attempt plus
+avoid running out of health or getting stuck in the rest of the run.
+
+My target was below 0:50, but when I reached 0:49, the demo turned out so ugly
+(with missing the final key) that I kept trying for a lower time or at least for
+a better looking 0:49 :-) Finally here is an ultra-lucky attempt. My health was
+remaining incredibly high, making the run look thousands of times easier than it
+was for me.
+
+I'll definitely return to HR in the future, it's my most favorite wad.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done March 15, 2010, 09:58:08

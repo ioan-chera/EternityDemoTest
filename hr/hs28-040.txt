@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hs28-040.txt
+
+hs28-040.zip
+
+hs28-040.lmp - Nightmare 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD HRmus.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 28 - Top Hell by Haggay Niv
+
+Kills      7%
+Items     10%    
+Secrets  100%  and Time  0:40 
+              
+                          
+
+Description:
+
+AV jump + BFG secret without megasphere = hard
+megasphere with BFG secret + AV jump = easy
+
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net

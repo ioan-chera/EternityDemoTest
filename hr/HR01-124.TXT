@@ -1,0 +1,23 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HR01-124.TXT
+
+ HR01-124.ZIP
+
+  HR01-124.LMP - Ultra Violence - Respawn
+
+  Recorded using "DooM 2.Exe"
+  DooM2 -PlayDemo with "DooM 2 -file HR.wad"
+
+  Hell Revealed - Map01 - Into the Gate
+
+  Kills    101%
+  (Items    22)         
+  Secrets  100%  and Time  01:24
+                           -----
+
+Description:  Easy level, the hardest part can be just reaching the exit.
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com    

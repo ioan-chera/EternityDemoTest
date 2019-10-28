@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:HR      
+Pwad name:Hell Revealed 
+Maps:      01
+Skill:     4
+Category:  UV-speed (-nomo)
+Exe:       Doom2.exe (V.1.9)
+Time:      0:06
+Author:    gvozdevik
+Email:     gvozdevik@gmail.com
+HP:	   http://doomedsda.us/player289lmps.html
+
+Comments: New mouse turns are fast sorry
+Recorded in doom2.exe with HRMUS.wad
+

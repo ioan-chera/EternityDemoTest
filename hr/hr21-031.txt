@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR21-031.TXT
+
+ HR21-031.ZIP
+
+  HR21-031.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 21 - Siege
+      
+  Kills      6%
+  (Items     0%)          *********
+  Secrets    0%  and Time * 00:31 *
+                          *********
+                          
+
+  Description :-)
+  
+  Pretty funny, but this is harder than NM because
+  the cyberdemon doesn't help at all.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

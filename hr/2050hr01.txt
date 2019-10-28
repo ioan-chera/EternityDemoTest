@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+2050HR01.TXT
+
+ 2050HR01.ZIP
+
+  2050HR01.LMP - Ultra Violence speed Movie!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+ ****************************************************
+ * LEVEL         TIME		Xit´s 2100HR01.lmp  *          
+ ****************************************************
+ *  01 	 	 0:18			0:18	    *
+ *  02 		 2:15			2:10	    *
+ *  03		 2:08			2:16	    *
+ *  04  	 0:56			1:01	    *
+ *  05  	 3:16   		2:58	    *
+ *  06  	 2:22			1:57	    *
+ *  07  	 3:30			3:31	    *
+ *  08  	 1:35			1:44	    *
+ *  09  	 3:18			3:53	    *
+ *  10  	 1:12			1:12	    *
+ ****************************************************
+ * TOTAL TIME   20:50                  21:00        *
+ ****************************************************
+
+  Description :-)
+  
+  My first complete HR Movie.
+  It took me one hour.
+
+  Most often I ended in 7th level, but it was enough to think up a survival strategy :)
+  
+  In future I would like to play levels 05 and 06 better. Compared to Xit´s
+  21:00 Movie, I´m slower by 0:18 in level05 and 0:25 in level06.
+
+  I´m satisfied with runs in level03 and particularly in 8th and 9th level. I made record
+  thanks to these runs. 
+  In turn there is a room for improvements by Xit :)
+
+  Jakub "DooMerMan" Machata
+  kuba-m@seznam.cz

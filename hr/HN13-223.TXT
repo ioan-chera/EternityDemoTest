@@ -1,0 +1,41 @@
+This is a Doom LMP Entry
+
+HN13-223.ZIP
+
+	HN13-223.TXT
+	HN13-223.LMP - Nightmare Speed
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - Level 13 - Last Look At Eden
+
+=---+------+---=
+Kills        76%
+Items        38%
+Secrets      33%
+ 
+TIME        2:23	TAS record: 5:55 by Peo Sjoblom
+=---+------+---=
+
+Demo entry #10.
+
+Description:
+
+In 2003, I downloaded this "classic ultra-hard megawad", and it fascinated me a
+lot. The first really hard map (tougher than any previous levels in Doom history
+that I know of, including PL32) was MAP13, and I felt stronger when I finally
+finished it on UV in spring 2004. After that, the remaining levels were a smooth
+sailing, except 23, 24, 26 and 30.
+
+Of course, I got stronger once again by pulling it out on NM in 2007. One of my
+most fire-filled runs ever, there are so many heavy projectiles that you can die
+even with 100 times more health and an unlimited blue armor. Still, that nice
+archvile boost only sped be up :-)
+
+Not a bad demo, even though it could be 1:5X if I would seriously work on it in
+2010. And with tool assistance, one can do a NM Pacifist run in under 0:50.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done September 16, 2007, 9:55:40

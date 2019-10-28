@@ -1,0 +1,163 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Hell Revealed     
+Pwad name: hr.wad
+Maps: 1-30+31-32
+Skill: 1
+Category:  Max 
+Exe: PrBoom-Plus 2.5.0.5 with -complevel 2
+
+Time: 2:38:13
+
+Author: Revved   
+
+Comments:  This was something I was planning for some time now. I was watching Opulent's run and I noticed there were a lot of spots that needed improvement so I improved by almost 50 minutes! :D This was done on my bro's computer while he was out watching a game.
+
+ ----------------------------------------------------------------------
+   Map      Name                   Time    Kills Secrets Opulent's time
+ ----------------------------------------------------------------------
+  LV 01  -  Into The Gate         | 0:48 |  100%   100%    1:01         
+  LV 02  -  Gateway Lab           | 1:54 |  100%   100%    2:05        
+  LV 03  -  The Dumpster          | 2:22 |  100%   100%    2:43        
+  LV 04  -  The Garden Terminal   | 1:28 |  100%   100%    1:32        
+  LV 05  -  Core Infection        | 2:41 |  100%   100%    2:52       
+  LV 06  -  The Round Crossroads  | 3:04 |  100%   100%    3:30        
+  LV 07  -  Arachnophobia         | 1:35 |  100%   100%    1:57      
+  LV 08  -  The Jail              | 2:18 |  100%   100%    3:16      
+  LV 09  -  Knockout              | 2:51 |  100%   100%    4:20     
+  LV 10  -  Chambers of War       | 2:42 |  100%   100%    2:42
+-----------------------------------------------------------------------
+ Episode 1                         21:43                  25:58
+-----------------------------------------------------------------------      
+  LV 11  -  Underground Base      | 6:38 |  100%   100%    8:18      
+  LV 12  -  Great Halls of Fire   | 3:54 |  100%   100%    4:27      
+  LV 13  -  Last Look at Eden     | 6:27 |  100%   100%    7:02      
+  LV 14  -  City in the Clouds    | 9:22 |  100%   100%   12:44        
+  LV 15  -  Gates to Hell         | 6:10 |  100%   100%   11:42       
+----------- 
+  LV 31  -  The Descent           | 5:50 |  100%   100%    5:12         
+  LV 32  -  Mostly Harmful        | 3:50 |  105%   100%    ----         
+-----------
+  LV 16  -  The Path              | 8:21 |  100%   100%   11:13         
+  LV 17  -  The Black Towers      | 5:17 |  100%   100%    7:01         
+  LV 18  -  Hard Attack           |11:44 |  100%   100%   16:53         
+  LV 19  -  Everything Dies       | 2:25 |  100%   100%    2:40         
+  LV 20  -  Judgement Day         | 3:50 |  100%   100%    5:46
+-----------------------------------------------------------------------
+ Episode 2                       1:13:48                1:32:58
+-----------------------------------------------------------------------           
+  LV 21  -  Siege                 | 3:50 |  100%   100%    6:02         
+  LV 22  -  Resistance is Futile  | 5:00 |  100%   100%    6:15         
+  LV 23  -  Ascending to the Stars| 7:12 |  101%   100%   12:55        
+  LV 24  -  Post Mortem           | 7:51 |  103%   100%   15:05        
+  LV 25  -  Dead Progressive      | 5:03 |  102%   100%    7:45        
+  LV 26  -  Afterlife             |11:31 |  102%   100%   16:12       
+  LV 27  -  Cyberpunk             |11:32 |  100%   100%    6:14        
+  LV 28  -  Top Hell              | 3:39 |  100%   100%    4:18        
+  LV 29  -  Temple of Fear        | 5:45 |  100%   100%   11:33        
+  LV 30  -  Hell Revealed         | 1:19 | 1300%   100%    2:53       
+-----------------------------------------------------------------------
+ Episode 3                       1:02:42                1:29:12
+-----------------------------------------------------------------------
+TOTAL TIME                       2:38:13                3:28:08                        
+-----------------------------------------------------------------------
+
+MAP01
+I went straight for the shotgun in the beginning and used the rocket launcher as normal for the imps and chaingunner. Then I used the shotgun for everything else.
+
+MAP02
+I decided to rush ahead the first horde and proceed directly to the blue key area and then do the switch trick the current TAS uses.
+
+MAP03
+Here I use the SSG in the yellow key room. Due to the crap keyboard I was using, I couldn't strafe northwest so the yellow key grab was a bit harder.
+In the room leading to the SSG room, I go to the left and work my way there to retrieve the shells box at the end. The first zombie platform I took too much time on so I had to use a linedef trick to continue.
+
+MAP04
+I like it how I do a grab for the SSG. For most of the area, I use the SSG instead of chaingun here. If only I could grab the BFG, then the run would be a lot faster…. Sorta missed an imp on the way up but got it once I got up.
+
+MAP05
+Here, I don't shoot through windows and just kill them up close and personal. I also take the rocket launcher path first so that I can get the megasphere at the end as a reward for my efforts :). Followed by using the RL on the hell knight after and then killing the chaingunners while I use the lift. Anybody notice that while shooting a rocket through a window, my player grunts but I don't lose health?
+
+MAP06
+I use rockets on everything above me at the start. The zombie area I optimized by using the RL and SSG. I also use the SSG on the PE because I find it killing it faster than using the chaingun. Here, I'm quick enough to get to the backpack without hesitation.
+
+MAP07
+This level is pretty much the same except for the end where I use the plasma rifle on the spiderdemon instead of rockets.
+
+MAP08
+I use rockets instead of SG on everything above me at the start and use the plasma on the Baron. Here I don't like to wait for infight between the imps and demons so I just kill everything at once. The end is rocket madness (a bit).
+
+MAP09
+When you play on this skill level, you don't even need to use berserk unless you're a rare ITYND Tysoner ;). I get the orange skull here and just head straight for the next area. I like how I activate the wall to kill the spectre. And then there's the imp I get before I get on the lift to the switch area with the two imps. And then I kill most everything with rockets after.
+
+MAP10
+It's scary how the time for this level is exactly the same as the previous run by Opulent. Again, I leave the megasphere to the end as a reward.
+
+MAP11
+I actually forgot about the shotgun guy horde until I actually heard them awaken. The reason it took me longer to maneuver the platform when getting out of the BFG room was because I forgot to configure the < > buttons as strafe and not S and D which I only figured out later. Here I used BFG on the AV and kept the zombies alive until I killed the other AV. Then I used the BFG on the Archnotron instead of rockets.
+
+MAP12
+I use rockets on the first imps and archnotron and then kill all the zombies with the chaingun. I also use rockets on the PE instead of chaingun. I kill all the hell knights in the switch area at the very end. Then I use BFG at the AV.
+
+MAP13
+Here, I go onto the star and run out so that I can kill everything in there after. Then I use the rockets on the revenant horde and get the megasphere at the end.
+
+MAP14
+In the previous demo, Opulent missed a cacodemon which teleported into the rocket launcher room but was too impatient to wait for it. I on the other hand successfully get it and find a way to BFG the horde of Barons and Knights without waiting. He also missed the BFG secret even though he tried 12 times to get it! If you're gonna get a secret, get it! I also use the BFG on a group of demons near the aforementioned secret. The part where I went to god mode was actually the result of an improvisation I did. Although I still don't know how Opulent owned the Cyberdemon in two shots.
+
+MAP15
+In the previous demo, Opulent missed the megasphere secret. Here, I get the megasphere secret. I also let the mancubi and imps do all the infighting while I did all the action during. I love how I activate the AV switch from all the way over there.
+
+MAP31
+In the original, Opulent stumbled around for like 19 seconds not knowing how to open the first door and he didn't get any of the secrets, meaning he didn't get to the secret exit leading to MAP32. How do you screw THAT up?
+Now I get everything, but at a cost of 38 seconds. I still didn't know that D was strafe right and not >.  So, yeah, it took me some time. But we can all agree it's better than Opulent, right?
+
+MAP32
+If you looked at the previous level, Opulent didn't even do this level so I came up with my own route. Sometimes when BFGing the Barons, the Romero head would get hit so I wanted to be careful.
+
+MAP16
+I didn't stumble around for 17 seconds in the opening like Opulent did. He also missed a soulsphere secret which I get. I also attack the first AV up close unlike Opulent. The part with all the revenants can be a total bitch to me. Opulent also missed an entire section containing radiation suits and a megasphere, seven monsters. Too bad I missed the red key switch trick :(
+
+MAP17
+Because of Opulent's fail, he missed the invisibility secret which I get. I also kill the mancubus faster, and generally everything is decent here.
+
+MAP18
+Here, Opulent missed a hell knight in the first secret due to his impatience. I let the cyberdemon infight and then BFG'd. I also ran past to the AV room where I killed everything else after.
+
+MAP19
+I thought I could do the slide trick but couldn't. At least it didn't take away from my time. :) 
+
+MAP20
+This map was basically a runkiller for me. There's a hell knight that teleports in after you stop caring about the orange skull area, a cacodemon usually won't teleport into that room so you shoot it outside, and the horde of enemies you face at the end don't wake up unless you shoot in the final switch area. Opulent missed the hell knight and missed a cyberdemon because he accidentally went into the teleport while fighting. 
+
+MAP21
+Here I saved a decent amount of time using more aggressive strategies against the monsters.
+
+MAP22
+Here I let the monsters infight and then kill if I need to. I noticed that his best kill was on this level but which cyberdemon did he think was his best kill? I will probably never know.
+
+MAP23
+Opulent actually missed all 3 secrets on this level which I got. The arachnotron that Opulent missed that usually doesn't teleport does here. :)
+If that didn't work, I would've gotten an arch-vile to revive a zombie to get 100% kills. Here, I let the huge monster horde infight while I do all the action. I use a more aggressive approach towards the monsters in general here. The cyberdemon at the end killed one of my runs so I had to be a tad cautious here. 
+
+MAP24
+Great deal of time saved here. Now I realize that D is strafe right so I had to do an awkward setup to accomplish sr50. Here Opulent missed all secrets except for an invulnerability secret as well as two Pain Elementals in the blue skull area. Since a Cyber was such a runkiller, I used an invulnerability to make sure I didn't die. Actually, on both times I face a Cyber, I used an invulnerability.
+
+MAP25
+Here I noticed he started becoming way too safe usually stopping at certain areas because he forgot parts. Here, I killed the hell knight horde using splash damage.
+
+MAP26
+Here I use a nifty AV jump to get more rockets. Here I got the cybers to infight with the revenants and kill them from there. On both runs, two arch-viles aren't killed but they never teleport so I can't blame him. Besides, the arch-viles in the other room will revive the arachnotrons so I can get 100% kills.
+
+MAP27
+This is the only one where a level is a lot slower than when Opulent did it. But I had to so I could kill a lone imp which Opulent did not. Wasted me five minutes. :( I could try to get the arch-vile to get out and revive something, but it looks like they're restricted against invisible walls which don't let them get out. At one point I decide to screw it and punish myself by using rocket damage but then instincts tell me to go back and THEN the imp appears! Opulent also missed the only secret containing a BFG.
+
+MAP28
+Not really much to say about this level.
+
+MAP29
+Here Opulent misses both secrets and a Pain Elemental. I get stuck for a bit of time on the first secret, but once I get out, I breath a sigh of relief. Opulent thought there was actually a Cyberdemon at the exit when there wasn't! After everything, I do one last inspection to make sure I don't screw up any progress I made.
+
+MAP30
+Final level, really tense now. Only takes me 4 tries up the lift. I used to get a kill by killing the enemy after I press the switch but since I found it too risky, I used the other way. Once the final rocket blows into the head, I feel my life added another piece to its puzzle.

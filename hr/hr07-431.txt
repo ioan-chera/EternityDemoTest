@@ -1,0 +1,31 @@
+Player: Adam Hegyi
+E-mail: ha211@hszk.bme.hu
+Skill:  4 (uv)
+Fast:   No
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    07
+Time:   04:31
+LMP:    HR07-431.LMP
+
+Hmmm what can I say... this was nice :)
+Originally I wanted a better time but I realized that any time beyond
+4:30 is luck nothing else.
+Because:
+- there are 46 arachnotrons to kill
+- in theory, 46 arachnotrons require 46*6=276 shells to kill
+- in my route I had 286 shells to fight with
+- ...and I had 10 shells remaining, which means I shot 'perfect'
+
+I guess one could shoot a bit better and move a bit better and
+make some seconds advantage on the arachnotrons. But it's the mastermind
+which will decide the finishing time and that's just luck IMO.
+
+Thanks to Kai-Uwe, Alexander and Henning for making such wonderful
+demos before me. I hope someone will have the stamina to bring
+this under 4:30.
+
+BTW: Why doesn't anyone play this level in co-op? Think it would be fun...
+
+Adam Hegyi
+ha211@hszk.bme.hu

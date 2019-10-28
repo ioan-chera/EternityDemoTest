@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Hell Revealved 
+Pwad name: hr.wad
+Maps:      01
+Skill:     4
+Category:  NoMonsters 
+Exe:       PrBoom-Plus 2.5.1.4 -complevel 2
+
+Time:      6.97
+
+Author:    MD922
+
+

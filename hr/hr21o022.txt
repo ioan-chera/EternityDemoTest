@@ -1,0 +1,15 @@
+             Hell Revealed
+             Map 21: Siege
+WAD Authors: Yonatan Donner & Haggay Niv
+----------------------------------------
+             hr21o022.lmp
+
+Nomo in 0:22.80
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Looks a little ugly at the end, but it's a high 22 and I don't want to optimize.

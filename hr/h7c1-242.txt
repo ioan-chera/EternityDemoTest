@@ -1,0 +1,22 @@
+Player: Alexander Sushkov <sushkov@thsun1.jinr.ru>
+Category: coop, NET-1
+Skill:  4 (uv)
+Fast:   No
+Game:   Doom2
+Wad:    Hell Revealed by Yonatan Donner & Haggay Niv (HR.WAD)
+Map:    07
+Time:   2:42
+LMP:    H7C1-242.LMP
+
+Credits to: id Software, all HR authors and hruvlmp(s/2) players
+
+Description:
+
+This is "coop" demo for HR07 in category NET-1.
+Thank Adam for this great idea! For a long time I have wanted to
+know: who lives on "coop" maps :)
+
+To play this demo you should run:
+
+>ipxsetup -nodes 1 -file hr.wad -playdemo h7c1-242
+

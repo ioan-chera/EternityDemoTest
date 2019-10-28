@@ -1,0 +1,11 @@
+Map: Hell revealed map 01
+
+Type: Pacifist Speed
+
+Time 0:25
+
+glboom-plus, complevel 9, skill 4, doom2.wad
+
+Recorded by: DoomHero85
+
+email: sgrahah924@gmail.com 

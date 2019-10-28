@@ -1,0 +1,13 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      10
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      3:39
+
+-complevel 2
+
+Author:	   j4rio
+
+I wanted to improve this but it's way too infight dependant.

@@ -1,0 +1,16 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      4
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.3
+Time:      1:19
+
+-complevel 2
+
+Author:	   j4rio
+
+A 30-minute effort. Mostly just improvising on the way 
+with shots, conscious changes were shooting a few bullets
+at HK near YK so he dies in 2 ssg shots and picking left 
+side at the end to clean first.

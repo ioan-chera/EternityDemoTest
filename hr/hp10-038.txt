@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HP10-038.TXT
+
+ HP10-038.ZIP
+
+  HP10-038.LMP - UV Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 10 - Chambers Of War
+    
+  Kills      2%
+  (Items     0%)           ********
+  Secrets  100%   and Time * 0:38 *
+                           ********
+                          
+
+  Description:
+
+  [Compet-N entry #138]
+
+  Hell, I´m lucky sonofabitch :)
+  First hp10 demo with speedroute, so I beated
+  Selim´s old UV Speed record by one second with
+  pacifist demo :)
+  Big mistake with bluekey :P
+
+  Jakub "DooMerMan" Machata
+  DMrM@seznam.cz

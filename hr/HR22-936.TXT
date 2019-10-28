@@ -1,0 +1,57 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HR22-936.TXT
+
+ HR22-936.ZIP
+
+  HR22-936.LMP - Ultra Violence
+
+  Recorded using "DooM 2 - Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2 - Hell Revealed" 
+
+  Hell Revealed - Map22 - Resistance is Futile
+
+  Kills    101%
+  (Items    88)         
+  Secrets  100%  and Time  09:36
+                           -----
+
+Description:   Umn...strange thing. Back in 98' it took me forever to make 
+               that (*ugly*) 09:43 here. Today I was going to inspect this
+               level since I'm making a map for Alien Vendetta that is 
+               inspired by this one. Well, I ended up watching my old lmp...
+               After few mins I presse F10 "y", not taking the risk of getting
+               motion-sickness from one of the most shaking godawefull demos
+               I've seen in quite a while :) The time was decent enough...I
+               was quite lucky with the infights and stuff...but on the visual
+               part?? Bah...it would give Claudio nightmares :) So...I started
+               playing it again, after all its on my top five map list, infact
+	       I don't think any other level have given me this much maxkill
+               fun. I was quite surprised to reach the exit after 30 mins of
+               play or so, and only getting 10 secs behind my old time. Then 
+               i took a break until later an tried again. Less then an hour 
+               later I had this one...although few tries earlier I died in
+               the final cyber battle with lmpc saying 8:33...damn, that one
+               had some nice cyber-frags. Oh well. This one is not very fast
+               imho. I loose alot of time with the yellowkey archeviles (door
+               closing all the time, archie refusing to die from bfg, slow
+               on picking up cells etc). Other slow parts include bluekey
+               scene in the end (got fried twice...bah), and a fall into the
+               slime pit. Its imo alot better visual though then the old demo.
+               And I just did it for fun...so what the heck. In a more serious
+               time-hunt I know I could bring it below 9 mins. Its a great, 
+               great map...Yonatans best imo. All route-credits goes to Daniel
+	       "Demonlord" Lidgren and Esko Koskimaa. Btw...I might do all my
+               old HR demos over again...next would be map28 (or a -fast on
+               map22). But someone should return to editing now....so, happy 
+               dooming!
+        
+
+Note: 		Since this demo was recorded with HR.WAD, I suggest you drop
+                by at http://www.geocities.com/Hollywood/4704/ and pick it up
+                if you havn't already :)
+
+
+Author:    Anders Johnsen
+E-mail:    anders-johnsen@c2i.net    
+Vissit:    

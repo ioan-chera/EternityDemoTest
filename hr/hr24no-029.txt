@@ -1,0 +1,13 @@
+WAD: Hell Revealed
+MAP: MAP24: Post Mortem
+Time: 0:29
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Well, I looked at my other nomo run in 0:37, and it was very stupid of me to
+grab the invuln because there's tons of megaspheres around... and it's nomon-
+sters, for goodness sakes! Well, I figured I could get this under 0:30. I have
+included a bonus run in 0:30.34 that I got before the 0:29.74 run. Took two
+tries to get the 0:30, three more to get the 0:29. :)
+
+--Doomdaniel95

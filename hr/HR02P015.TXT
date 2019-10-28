@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+hr02p015.zip
+ hr02p015.lmp
+ hr02p015.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file hr.wad -playdemo hr02p015
+
+Hell Revealed - Level 2 - Gateway Lab
+
+Category: UV Speed / Pacifist
+
+Totals:
+
+Kills	  5%
+Items	  0%
+Secret	  0%
+
+Time    0:15
+
+
+Comments: 
+
+Route credit to Kristian Ronge for pointing out the
+possibility of the first glide, but he didn't realise
+there was a second glide to the exit switch...
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+13/09/2006

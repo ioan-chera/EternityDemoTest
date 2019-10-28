@@ -1,0 +1,51 @@
+This is a DooM .LMP "Competition" Entry at Doom.Com.Hr
+
+HR161016.TXT
+
+ HR161016.ZIP
+
+  HR161016.LMP - Ultra Violence 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 16 - The Path
+
+  Kills    100%
+  Items    100%           
+  Secrets  100%  and Time = 10:16    (old record 12:47 by, uh, me)
+                          
+                          
+  Description:   
+  This demo was inspired by SAV88's magnificent HR22-451, and 
+  particularly Ancalagon's remark afterward: "Looks like the hr tases 
+  are the true goals to beat". My old record was getting pretty long
+  in the tooth. And Alexander's 10:43 TAS on this level is a 
+  particularly strange one: far too much SSG usage and an odd route
+  with lots of backtracking and very little infighting.
+
+  So I went to work. I took Alexander's idea for using the invuln, 
+  and the rest is a mixture of his and my routes, just leaving the
+  mancubus horde as long as possible. Unfortunately infighting on
+  this level is heavily luck dependent, and so it took a lot of 
+  grinding to slowly bring my times down to where they're nearing
+  the TAS.
+  
+  Then I took a break, played the level a little -fast style, and got
+  a couple of ideas for rejigging the route slightly. Came back to
+  another recording session and in half an hour had this. Weird 
+  because it looks loose - lots of rockets go flying past their targets, 
+  the last minute is messy as heck. But I had some good luck at key 
+  moments. And certainly never expected to beat the TAS by this much,
+  so I'll take it. A sub 10:00 run is all yours guys :)
+  
+  Bonus run: a comedy outtake from a few days back on my older route.
+  Have even more luck with infights in this run. But it turns into
+  a slapstick comedy of errors as I keep hitting the wrong weapons key
+  and making other blunders. The final punchline comes right at the 
+  end...
+
+  
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

@@ -1,0 +1,27 @@
+WAD: Hell Revealed
+MAP: MAP20: Judgment Day
+Time: 0:37.97
+Added Engine: prboom-plus v2.5.1.3
+Recorded on: October 17, 2013
+
+Well, I was hoping to have a nomo run of all of tnt released by my birth-
+day (October 18), but because I'm being a semi-perfectionist on that first 
+episode (most of those maps I don't really like anyway.. I really like
+episodes 2 and 3 of tnt though) it didn't work out.
+
+After trying for about an hour tonight, but failing somewhere in the first
+episode of tnt, I decided to try a single level run real quick to get my
+motivation back up (which I can actually lose pretty quickly :/). I got
+this on my THIRD try and can't seem to improve it enough to get a 36. It's
+also 100% secrets like the other 2 nomonsters runs up, only 10 seconds
+faster. :)
+
+Humorously enough, after the 37.97 demo I recorded, I got another .97 demo
+using a rocket boost trick (but it's slower than 37). I mean the demo JUST
+after the 37.97 demo, heh. The rocket jump could be quite useful in perhaps
+a TAS run, but for a normal nomonsters run, it seems that the wall is too
+far to the left to get the RJ straight from SR40-ing down the stairs, which
+means you'd have to slow down to do it in a normal run, I think. It was just
+another idea I had that I tested for fun. :)
+
+--Doomdaniel95

@@ -1,0 +1,14 @@
+WAD: Hell Revealed
+MAP: MAP23: Ascending to the Stars
+Time: 1:33.60
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: February 13, 2014
+
+One of my favorite maps from HR, though trying to run such a long map can
+get annoying after a while.
+
+I was really lazy, so not to say that this demo is completely terrible,
+but if the time gets under 1:30, somebody besides me has to do it.
+
+--Doomdaniel95

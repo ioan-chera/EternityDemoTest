@@ -1,0 +1,24 @@
+LMP:  HR26-JH.LMP
+Player: Jason Henry
+Wad:  Hell Revealed (HR.WAD)
+Map:  26 ("Afterlife")
+Time:  41:09
+
+Description:
+
+When you die 10 times in a row and never even make it to the first door,
+you know it's a hard level....
+
+I had the idea to play this level about a year ago, but wasn't a good enough
+DOOM player to beat it. :-)  Still, it took me about three days of doing
+NOTHING else when I finally sat down to do it.  In the process I wound up
+with about a dozen situations of "start over if..." (grabbing the green armor
+too soon, releasing both cyberdemons at once, etc.)  And in this lmp, just
+about everything goes wrong that could possibly go wrong without actually
+dying.
+
+I had to leave one (ghost) cacodemon alive at the end, she got stuck on the
+edge of the map and wouldn't come close enough to a wall for me to frag 'er;
+as a result I missed beating Peo's time by 2 seconds...
+
+J.H.

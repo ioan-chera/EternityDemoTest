@@ -1,0 +1,42 @@
+This is a Doom .LMP "Competition" Entry
+
+hr22-803.txt
+hr22-803.zip
+
+hr22-803.lmp 
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - MAP22 - Resistance is Futile
+
+=--------------=
+Kills      100%
+Items       88%
+Secrets    100%
+
+Time       8:03
+=--------------=
+
+C-N entry #124.
+
+I've been rather busy lately, so I've spent
+far less time recording demos.  I have been
+continuing my journey into the missed episodes
+that I found, thanks to a little site called
+GG Inc. (www.gginc.co.nz).  I played through
+Chris Lutz's episode Inferno for udoom, as well
+as Equinox for doom2.  I also finished Caverns
+of Darkness.. all excellent episodes, IMO.
+
+As for the demo, this map is quite addicting
+and I think it to be better than PL32.  The
+line of revenants near the red key can be rather
+tedious, but otherwise it's an excellent map.
+Thanks to Anders for his demo, which made use of
+a highly polished route.
+
+BTW, you minute barrier freaks, I don't wanna
+hear it. ;)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

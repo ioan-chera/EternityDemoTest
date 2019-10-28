@@ -1,0 +1,17 @@
+﻿This is a Doom .LMP "Competition" Entry 
+
+he05-439.TXT 
+
+ he05-439.ZIP 
+
+  he05-439.LMP 
+
+  Recorded using Doom 2 Version 1.9 
+  Doom2 -file hr.wad -playdemo with version 1.9 
+
+  Hell Revealed – Map 5 – UV Respawn
+
+Comments:
+After checking out Xit Vono's NM run, I knew that this would be possible. And it shows. It's basically just the NM run, but quicker due to it being normal -respawn. There shouldn't be any worrying when it comes to getting 100% kills, as most of the enemies have to be killed anyway but since it takes more time to kill them again, it just adds more time.
+
+Author: Revved

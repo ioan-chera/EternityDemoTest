@@ -1,0 +1,23 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/themes/hr/hr.zip
+           (Or mirrors...)
+Pwad name: Hell Revealed
+Maps:      24 - "Post Mortem"
+Skill:     4
+Category:  Strolling (No running, no strafing, pacifist)
+Exe:       Recorded with PrBoom 2.2.4 with -complevel 0 (doom2.exe comp)
+Time:      0:36
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com
+
+Stats:     Kills    15%
+           Items    11%
+           Secrets  33%
+
+Comments:  
+
+Just a first exit. As usual, when it comes to strolling demos, this looks much easier than it is.
+
+Kristian Ronge
+
+zuckuss@gmail.com

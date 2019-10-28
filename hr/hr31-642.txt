@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry at Doom.Com.Hr
+
+HR31-642.TXT
+
+ HR31-642.ZIP
+
+  HR31-642.LMP - Ultra Violence 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 31 - The Descent
+
+  Kills    105%
+  Items     75%           
+  Secrets  100%  and Time = 6:42    (old record 7:04 by gggmork)
+                          
+                          
+  Description:  I wasn't going to upload this demo, what with the ugly fifteen second 
+                search at the end for a shy Spectre. But the news that Compet-N now 
+                has a new home and an active maintainer was more than enough for me 
+                to overcome those misgivings. Hopefully this leads to more activity 
+                and a few more old players coming out of retirement :)
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

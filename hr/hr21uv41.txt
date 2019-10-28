@@ -1,0 +1,17 @@
+************************************************************************
+Filename                : hr21uv41
+Pwad(s)                 : Doom2 -- hr.wad 
+Map Level(s)            : MAP21
+Length                  : :41
+skill			: 4
+
+Author                  : Doug Merrill
+Email Address           : opulent@goodnet.com
+Misc. Author Info       : http://www.goodnet.com/~opulent/doom2.htm
+
+Description             : they say on their page that it isn't optimized,
+			  so I thought I'd see how quick I could do it.
+ 			  the nm recording is 1 second faster.
+
+Additional Credits to   : the TAS demo team.
+************************************************************************

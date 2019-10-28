@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Hell Revealed 
+Pwad name: hr.wad
+Map:      02
+Skill:     4
+Category:  Stroller
+Exe:       Doom2.exe 1.9
+
+Time:      0:17
+
+Author:    xepop
+Comments:  I was just wondering how fast this could be done--> at least 16
+

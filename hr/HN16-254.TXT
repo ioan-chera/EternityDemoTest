@@ -1,0 +1,44 @@
+This is a Doom LMP Entry
+
+HN16-254.ZIP
+
+	HN16-254.TXT
+	HN16-254.LMP - Nightmare Speed
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 16 - The Path
+
+=---+------+---=
+Kills        44%
+Items        66%
+Secrets      50%
+ 
+TIME        2:54	TAS record: 5:11 by Peo Sjoblom
+=---+------+---=
+
+Demo entry #22.
+
+Description:
+
+The biggest HR level in geometrical size. Superb grand design, with a grim, wild
+and oppressive feel. 
+
+It's a much harder nightmare challenge than 14, but not as tough as HN13. Of
+course you need hellloads of luck to survive all those enormous flows of
+rabid-fire, but thankfully there are no hitscanners, except for one lousy
+Spider Mastermind :-)
+
+The battle near the final lift is the climax of the run, I died about 20 times
+there. I'm glad to finally survive it, even though it could be handled many
+seconds faster with more luck.
+
+Once I had extreme excess of health before the red key, but 169/170 instantly
+turned into 0/0 due to loathsome monster behavior (shown in HN16DAMN.LMP). But
+now I don't care for that damn attempt, because it was slower than my eventual
+run :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done January 25, 2010, 10:53:05

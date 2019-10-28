@@ -1,0 +1,155 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+HN08-031.TXT
+
+ HN08-031.ZIP
+
+  HN08-031.LMP - Nightmare!
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file hr.wad -playdemo with version 1.9
+
+  Hell Revealed - MAP08 - The Jail
+
+This is a pretty typical run for me: one requiring a huge amount of
+monster luck (and a bit of manipulation) that you can just try over
+and over till it works. Having got the pacifist record I happened to
+look at the nightmare time and saw it was way slower than UV and
+pacifist, so I watched it and saw that Hitherto executed his route
+nice and cleanly, but it was a very 'safe' route...so of course I got
+to thinking, hey, can we just run straight through this? Yes we can!
+
+There's a huge amount of stuff going on around and behind me that
+you don't really see here; all sorts of monsters have to do exactly
+the right thing. There are 2 or 3 viable patterns (fast enough and
+high enough health) in the first room; the goal is to get the far
+corner sergeants infighting with their near corner partners, which
+(if you're lucky) leaves a 'no fire zone' where the SSG is. Ideally
+back left hits front left on his second shot, back right hits front
+right almost immediately after, front guys turn around and both hit
+back guys, you grab the SSG and get the hell out of there. There's
+a variant where the back left guy kills the front left guy very
+quickly (in which case you kill the back left guy while waiting for
+the other pair to start fighting, and hope like hell the pinky - who
+usually gets hit by scatter from the back left guy, but will now be
+targeting you again - doesn't eat your face). The front guys can also
+*easily* miss their shot at the back guys, then you have to move in a
+specific way and *hope* the pinky moves in front of you and absorbs
+the next three shots from the back guys (or they just don't hit you
+very hard).
+
+In the big open area you really want three key things to happen: the
+revenant not to fire an AI seeking missile with his first shot which
+just flies around and hits you in the side while you're dealing with
+the chaingunners, something - *anything* - to hit the revenant so
+he's not constantly firing at you, and the two chaingunners on the
+ledge to start infighting. Then all you have to worry about is timing
+your movement in front of the door so the two imps in cages behind
+you don't eat a lot of health while you dodge around. The chaingunners
+can act in a few different ways, but you can *usually* kill them with
+two shots. I aim to kill the left guy with the first shot and hope
+the other two start infighting, then I can run up to them safely and
+kill them on my way by.
+
+For a while I was using a slower method here of opening the door then
+circling round to get the medkit, but you often lose as much health
+to the ledge chaingunners and surviving sergeants as you gain from
+the medkit, and you can get sniped by a stray revenant missile or
+trolled by the pinky if you're unlucky. So I dropped that and figured
+out this method. You can get through the chaingunner corridor with
+one SSG shot if you're *very* lucky, but I decided it was just too
+rare to work with.
+
+This kinda 'wraparound' move on the baron, if you execute it right,
+allows you to blow right by him without him hitting you. But it's easy
+to miss it, in which case I just run like hell and hope he doesn't hit
+me too hard.
+
+The immediate next part is more complicated than it looks. The hanging
+bodies are solid objects so there are actually only a few paths
+through the room. The baron is firing at you from behind, so you need
+to run some kind of zigzag down *into* the room - if you run straight
+he can hit you. There are two spectres in the basement. So you kinda
+have to run a very specific route. Ideally you run into the far wall,
+sorta bounce off back towards the exit, grabbing medkit and blue armor
+on the way. I was slightly too slow here and got trapped by a spectre,
+so had to burn a shot to get by him: this is about a 1 second loss.
+You also don't want to do this as you actually *want* the spectres
+around.
+
+Just going straight to the glide seems like suicide with an HK, two
+spectres and a sergeant behind you and a cacodemon in front of you,
+but it's safe surprisingly often. You want the caco to be close and
+over to the left; then his shots just hit the bars, but he keeps
+firing. If he's far away and/or to the right his shots will kill you
+very fast. All the monsters behind you, ideally, get in each other's
+way: the HK hits the others then they run around and block his shots
+long enough for you to get through the glide and away. This is about
+a 50/50 shot overall; if the caco is in the wrong place or a spectre
+doesn't get hit and decides to eat your face or the HK's shots get
+through and kill you...there's nothing you can really do. Just quit
+and retry. I am not great at the glide (I'm using the 'roll mouse
+forward and waggle' technique) and for a fast run I want to do it
+within max two secs, so I lose 95% of runs that make it this far here.
+
+There's another error at the lost souls. My first strategy here was
+just to run straight in and hope for some infighting while I blow
+through with the SSG, but this strat *should* be safer and faster...
+but I messed it up a bit. The idea is to wake them up, kill one and
+injure the one behind it (on the right) immediately, dodge away to
+pull them to the left, then run back out, kill the one remaining
+damaged one on the right immediately, and run right by, hopefully
+reaching the PE fast enough to stop his first lost soul actually
+making it out of his mouth (this is very important). But I missed
+the second SSG shot and had to wait for a reload here (was quite
+lucky I didn't get killed while waiting), that's a 1.4 second loss.
+The cacodemon is behind you along with one or two pinkies here, but
+they leave you alone surprisingly often; I think maybe the caco hits
+the pinky(ies).
+
+The ending went very well on this run. As you're trying to get through
+the door there's an arachnotron behind you with a bunch of hitscan
+enemies behind *it*, and the PE is still back where you came from.
+Ideally, the hitscanners hit the arachnotron and it turns around to
+fight them, and one of the existing lost souls hits the PE while
+you're squeezing past him so he doesn't fire like six lost souls at
+you while the door is opening. If he does you just have to work round
+them best you can. There's a stimpak to the left of the door which I
+go for unless my health is *very* high, you barely lose any time, it
+just runs a bit of a risk of getting the door blocked by lost souls.
+The sergeants you just fire at and hope for the best, they usually
+both die, if not, you hope like hell the surviving one doesn't hit you
+too hard.
+
+The very end is extremely frustrating as there are two chaingunners
+behind the second to last door. You can only kill one of them without
+losing any time. I tried not killing either and hoping they infight,
+but it's very rare as when they're facing each other, your body is
+between them. It also means running the last door 'properly' is
+risky as the further you back away from it, the closer you are to the
+surviving chaingunner. And there's a mancubus in the exit room, of
+course, who can occasionally fire extremely quickly and fire his
+random shot to your left, killing you as you run to the switch. I've
+died on good runs six times here. I have a 0:34 where I stop to kill
+the second chaingunner too as my health was just too low. Even in
+this run I'm very lucky the surviving chaingunner misses at least two
+shots entirely.
+
+This run has about 2.4 seconds worth of clear errors, and it's a 31.26
+so 0:29 is clearly there. With a perfect glide and cleaner running you
+could probably get 26 or 27 even without trying the one-shot method on
+the chaingunner corridor, or running straight through the first room
+and hoping for crazy luck (it works about 1 in 20 tries). But when I
+got a 0:34 I told myself I'd be happy with anything under 0:32, so I'm
+uploading this one. :) While working on this run I got an 0:45, an
+0:41, an 0:37 and an 0:34 - I'm including them all in case anyone's
+interested.
+
+Run with genuine DOOM2.EXE in dosbox on Linux.
+
+Trivia: this run officially puts my speedrunning career over 20 years,
+at 20 years and 4 days. My first COMPET-N run was 1998-07-03, this was
+recorded on 2018-07-07.
+
+Author: Adam Williamson
+adamw@happyassassin.net

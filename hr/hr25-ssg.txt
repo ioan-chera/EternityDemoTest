@@ -1,0 +1,46 @@
+This is a DooM .LMP "COMPET-N/pwads/hr/misc" Entry - Please forward it...
+
+HR25-SSG.TXT
+
+HR25-SSG.ZIP
+
+HR25-SSG.LMP - Ultra Violence Max-Kill using only the Super Shotgun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell Revealed - Level 25 - Dead Progressive
+
+Kills    105%
+Items     66%            
+Secrets  100%
+
+             *********
+  and Time - * 13:27 *
+             *********
+
+
+Description:
+
+This was a lot of fun to do, and it's my first Misc. demo for the COMPET-N
+
+There's a TON of ammo for this map, it's EVERYWHERE and by the truckloads
+
+Anyway, this map is one of Hell Revealed's most action-packed, in my opinion.
+The hardest parts in this demo are the flood of Revenants and the flood of
+Imps/Demons. The Revenants like to block paths through the level, and you
+have to get them all bunched together so you can circle them easily. The
+second flood of enemies is another bad spot because you've gotta fight your
+way to health, or at least I had to. The first Arch-Vile was luck, I thought
+for sure he was going to fry me ^^
+
+Loads of fun to play this map ^_^
+
+
+Author:      Casey Alvis
+E-Mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+10.10.2002

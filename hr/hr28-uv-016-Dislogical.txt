@@ -1,0 +1,14 @@
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      28
+Skill:     4
+Category:  UV Speed
+Exe:       PrBoom.exe
+
+Time:      0:16
+
+Author:    Dislogical
+Email:     steftres@hotmail.fr
+HP:	   none
+
+Comments:  I did the lich jump pretty well, but I need to go straight to the end after that : I could have 14 I think.

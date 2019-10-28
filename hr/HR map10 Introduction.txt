@@ -1,0 +1,15 @@
+Wad: Hell Revealed
+Map: 10: Chambers Of War 
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 7:00
+Time: 7:04
+Category: UV Max(Including Lost Souls)
+
+A fun map in a huanted house, the beginning is a headache for me to kill those demons with the chainsaw, I got 
+several times bitten, it hurts. 
+
+By the time I kill those 2 barons, I hope to be fast so that I can kill that pain elemental behind, but I got
+a careless drop when killing the last baron.
+
+The maze is just very small, I can find the blue key easily. The rest is ok lol.

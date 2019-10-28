@@ -1,0 +1,24 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : hr02-205.txt, hr02-205.lmp
+Date     : 2013-07-06 2:05
+Game     : Hell Revealed
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP02: Gateway Lab
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Drew DeVore
+Nickname : Vile
+Country  : USA
+Email    : dadevore83@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 66%
+Secrets  : 100%
+Time     : 00:02:05
+===================================
+Description:
+This map is okay, though the current route makes the SSG area annoying.
+Under 2 minutes seems reasonable.

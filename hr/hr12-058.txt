@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR12-058.TXT
+
+ HR12-058.ZIP
+
+  HR12-058.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 12
+
+  Kills      5%
+  (Items    10%)          *********
+  Secrets    0%  and Time * 00:58 *
+                          *********
+                          
+
+  Description: I usually don't play speeds, but today it was pretty boring
+               shift at work, so decided to play something to not fall 
+               asleep. The demo surprisingly doesn't look too bad. Although 
+               the optimal time could be about 50s. I lost 2 secs by killing
+               chaingunner. Occasionally you don't need to pick up the
+               medikit near the start and at the yellow-key area as well.
+               
+               I also included hr12sj.lmp, if you want to see jumping spider,
+               check it out. :)
+             
+  
+               
+  Radek Pecka
+  r.master@email.cz            
+              
+  
+  

@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HP04-151.TXT
+
+HP04-151.ZIP
+
+HP04-151.LMP - Ultra-Violence Pacifist!
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 04 - Garden hell.
+      
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 1:51 *
+              ********
+
+
+Description :-)
+
+Urgh, not a very hard map to do pacifist really. Didn't feel like playing for too long so 
+played carefully to stay alive. This is the second time I get through the teleporter, the
+first attempt was with 3% health, so that was kind of hopeless. Much faster is possible with
+a more aggressive route and better running.
+ 
+Author:      Erik Alm
+E-mail:      erik_a80@hotmail.com
+
+ 

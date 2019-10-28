@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Hell Revealed
+Pwad name: hr.wad
+Maps:      05
+Skill:     4
+Category:  Max
+Exe:       Doom2.exe
+
+Time:      5:40
+
+Author:    Ilkka Kunttu
+Email:     ilkkaknt@voimax.cygnnet.jkl.fi
+
+Comments:

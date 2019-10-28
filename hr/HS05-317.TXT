@@ -1,0 +1,44 @@
+This is a Doom LMP Entry
+
+HS05-317.ZIP
+
+	HS05-317.TXT
+	HS05-317.LMP - Nightmare, 100% secrets
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Hell Revealed - Level 5 - Core Infection
+
+=---+------+---=
+Kills       131%
+Items       100%
+Secrets     100%
+ 
+TIME        3:17	Old record: 5:22 by Jim "Xit Vono" Leonard
+=---+------+---=	TAS record: 4:49 by Peo Sjoblom
+
+Demo entry #91.
+
+Description:
+
+This is one of 12 "warm-up" maps, located at a very early stage of HR's
+progress, but it's already a great level (though not as amazing as the ones in
+episodes 2 and 3). It's different and yet similar to the UDoom episode which
+inspired it, and it nicely fits the atmosphere of Hell Revealed.
+
+Time is kinda slow -- this NM "Speed" run is longer than Yonatan's TAS max
+(2:43), but it's excusable in this kind of a map, which requires a large amount
+of backtracking through corridors filled with respawning enemies (hence such a
+high number of kills). 
+
+My first exit was extremely far from satisfying (3:43). This second-survival
+demo is reasonably good, though still more or less shaky, because of how hectic
+the run is.
+
+Anyone for under 2:43? :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done February 4, 2011, 17:51:29

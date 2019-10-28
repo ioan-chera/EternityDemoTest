@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR32-044.TXT
+
+HR32-044.ZIP
+
+HR32-044.LMP - UV speed.
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 32 - Mostly Harmful
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:44 *
+              ********
+
+
+Description:
+Hmm, I would say that this was only marginally easier than NM, and when
+I finally exited I even got a worse time :\ at least it's faster than the 
+old record by a bit (3 sec).
+
+The thing that makes UV hard here is that the monsters move around a lot 
+and block my way in completely unexpected ways, also the archies are very
+unpredictable and can fry me when I least expect it. NM was more deadly, but
+at least then I had a clear run when I finally made it.
+
+
+Author:      Erik Alm
+	     erik_a80@hotmail.com  
+ 

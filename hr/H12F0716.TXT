@@ -1,0 +1,36 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+H12F0716.TXT
+
+ H12F0716.ZIP
+
+  H12F0716.LMP - Ultra Violence / With -FAST
+
+  Recorded using "DooM 2 - Hell Revealed"
+  DooM2 -PlayDemo with "DooM 2 - Hell Revealed" 
+
+  Hell Revealed - Map12 - Great Halls of Fire
+
+  Kills    102%
+  (Items    80)         
+  Secrets  100%  and Time  07:16
+                           -----
+
+Description:   Some awkward situations in this map with -fast (there is no 
+               way you can just run out in the yewllowkey area like on plain
+               UV, and the barons/knights/trons/mancos becomes pretty nasty
+               if they trap you in narrow passages (like they did to me
+               when I was comming down from the BFG room). Not a great lmp or
+               anything, but its still 5:47 faster then Peos. Hmmzz..I should
+               make some pancakes before I starve to deth. Think I'll try
+               HR32 afterwads, I need some slaughter map or something :)
+
+
+Note: 		Since this demo was recorded with HR.WAD, I suggest you drop
+                by at http://www.geocities.com/Hollywood/4704/ and pick it up
+                if you havn't already :)
+
+
+Author:    Anders Johnsen
+E-mail:    anders-johnsen@c2i.net    
+Vissit:    http://www.geocities.com/Broadway/Booth/3568/

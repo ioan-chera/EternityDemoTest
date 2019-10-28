@@ -1,0 +1,20 @@
+Wad: Hell Revealed
+Map: 7: Arachonophobia 
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 6:00
+Time: 5:58
+Category: UV Max
+
+This map is quite hard if you are not good at killing arachnotrons, you may easily get killed at the very start.
+
+When killing them, not only you need to use the Circle-strafing strategy, you also need to be careful of the 
+arachnotrons coming from the other sides. If you just led them all into a horde, then everything will be easy.
+And just enough ammo to finish off all arachnotrons too, so lucky!
+
+That stupid Spider Mastermind at the end is just a dumbass. I doesn't need to hide at all and then it was killed
+randomly. I think no one should have any problem killing it.
+
+I was happy to get below 6 minutes and beat Megasonic's (Nevan) of 6:18 record.
+
+If you look at the automap, you may found that this map is just a spider!!!

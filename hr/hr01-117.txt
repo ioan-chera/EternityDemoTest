@@ -1,0 +1,14 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      1
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      1:17
+
+-complevel 2
+
+Author:	   j4rio
+
+I used rl at caco which saved some time. I also triggered the slow teleporter as fast
+as possible.

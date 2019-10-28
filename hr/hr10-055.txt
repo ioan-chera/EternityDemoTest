@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR10-055.TXT
+
+ HR10-055.ZIP
+
+  HR10-055.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 10 - Chambers of War
+    
+  Kills      5%
+  (Items    33%)          *********
+  Secrets  100%  and Time * 00:55 *
+                          *********
+                          
+
+  Description :-)
+  
+  my very first attempt, I'm unlikely to break 
+  the TAS time (0.44) so I'll leave it at this
+
+  Cameron Prosser
+  allgoodnamesrgon@hotmail.com

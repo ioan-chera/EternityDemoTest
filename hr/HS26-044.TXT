@@ -1,0 +1,42 @@
+This is a Doom LMP Entry
+
+HS26-044.ZIP
+
+	HS26-044.TXT
+	HS26-044.LMP -- Nightmare + 100% Secrets!
+
+Recorded using GLBoom-Plus v2.5.0.8 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+640x480, gamma level 4, capped framerate
+HUD used (timer)
+
+Hell Revealed -- Level 26 -- "Afterlife"
+
+=---+------+---=
+Kills        41%
+Items        10%
+Secrets     100%
+                
+TIME        0:44
+=---+------+---=
+			
+Demo entry #113.
+
+Description:
+
+I fully agree with Peo Sjoblom that it's the most original and beautiful map
+ever, and the hardest one in Hell Revealed (when playing from scratch, without
+using the shortcut). Pity that the exit jump makes it too easy for NM Speed,
+but in the NM100S category it's an interesting challenge. Rushing through the
+mysterious blue dimension is really fun, though irritating due to colossal speed
+of health's descending. In most attempts I was owned by the cyber, and I also
+failed the final jump many times, but through these hundreds of screwups I
+learned to execute the run more quickly and smoothly. So I got a good time
+(only aimed for something under 50) without too much effort, on the first exit.
+And some colorful fireworks accompanied my rise to the stargate :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done March 29, 2012, 15:51:33

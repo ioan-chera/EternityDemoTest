@@ -1,0 +1,36 @@
+Pwad: hr.wad
+Pwad name: Hell Revealed
+Map:      7
+Skill:     4
+Category:  UV-Max
+Exe:       GLBoom+ v2.5.1.1
+Time:      4:30
+
+-complevel 2
+
+Author:	   j4rio
+
+I thought of a faster route at first, but it was just unsurvivable for me. Instead
+of spinning right round like a record baby right round, you just rush to left (1) "leg" 
+and hope to take out the spiders without getting hurt much. Then you battle while standing still and dodging projectiles as many spiders as possible, then you try and break through
+and take medkits and ammo straight in front of you, while constantly shooting (there is
+one spider stuck on the medkits&ammo platform). Break into the leg (2) on the opposite side, again try not to get hurt too much, then take out some more while you are rushing out, take the shotgun box that is on the edge of spider stomach, rush to the leg on the
+far right (3) as you'll be most likely with exhausted armor and nearly dead by now, take
+3 spiders carefully out, move on to the opposite leg (4) while taking shell boxes and medkits, take 3 spiders out, go the the close leg on the right (5) and constantly shoot
+freely roaming spiders that are scattered all over area by now, then go to next leg on the right (6), then go to the leftover opposite (7) while taking possible leftover shellbox,
+then to the last leg on the right (8). This way you'll basically nullify time wasted by
+running around unproductively in my demo from one leg to another, and most likely be able to beat the TAS time. I just copied Hegyi's route when I got ged up with all this, with 
+the exception of the way I trigger secrets. Note that I've tried this for a long while, but it's just unsurvivable and requires godly arachno dodging as well as minimal blockmap, which is unfortunately very annoying in this map. Good luck trying though, it'd be an amazing demo if it works for someone, maybe with a few changes, although there is very little stuff possible to change. I'm tired of this shitmap for now.  
+
+The most epic legend of all legends:
+
+        4 /     \ 3   
+      5 \ \__O__/ / 8`   
+         `--(_)--' 
+        .---/ \---.
+     6 / /'(>I<)`\ \ 7
+       ` \  `-'  / ' 
+       1  \     / 2
+
+
+Yeah, I'm kinda feeling a little bit insane now.

@@ -1,0 +1,19 @@
+Pwad: HR.wad    
+Pwad name: Hell Revealed
+Maps:      13
+Skill:     4
+Category:  UV Speed 
+Exe:       PRBoom+ v2.5.0.6
+
+Time:      1:23
+
+Author:	   Phml    
+Email:     Phml.ji@gmail.com
+
+Comments:  Watched Altima Mantoid's nomo and recorded this in five minutes ; lots of small mistakes (I don't even know where to go when I enter the main room !).
+
+Tool Assisted (50% speed, segmenting)
+-complevel 2
+HUD used
+
+

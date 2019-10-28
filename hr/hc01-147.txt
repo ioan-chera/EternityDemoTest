@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HC01-147-.TXT
+
+HC01-147.ZIP
+
+HC01m147.LMP 
+HC01g147.LMP - Ultra-Violence Max, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+Hell revealed level 01
+
+Kills       100%
+Items       ?%
+Secrets     100%
+
+              ***********
+  and Time -  * 1:47.?? *
+              ***********
+
+
+Description:
+player 1: Adolf "Gusta" Vojta
+player 2: Jakub "method_man" Razak
+
+Jakub:
+Really easy for me :)
+   
+Adolf:
+I was punching a little lame,but we had to wait for a long time to cybies dead though.
+
+
+Authors:      Jakub "method_man" Razak
+	      Adolf "Gusta" Vojta
+
+E-mails:      dale007@volny.cz
+	      hita@seznam.cz

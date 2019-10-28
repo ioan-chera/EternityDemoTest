@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HP08-029.TXT
+
+ HP08-029.ZIP
+
+  HP08-029.LMP - UV Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 8 - The Jail
+
+  Kills        2%
+  Items        0%            
+  Secrets      0%  and Time: 0:29 
+                             ==== 
+
+  Description :-)
+
+  21st COMPET-N entry.
+
+  A pacifist equivalent of the speedrun. I use the same 
+  trick, but this is obviously just a first exit. Pacifist 
+  is much more difficult than speed (so, sorry that my run 
+  isn't of higher quality) but at least this glide makes 
+  it easier.
+
+  There's no particular reason why this shouldn't be at 
+  most a couple of seconds slower than the speedrun, but I 
+  found it much too frustrating trying to pass all those 
+  Lost Souls cleanly. Good luck to anyone who takes it on!
+
+
+  Kristian Ronge
+  zuckuss@gmail.com

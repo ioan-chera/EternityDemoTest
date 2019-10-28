@@ -1,0 +1,41 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+hp12-051.zip
+ hp12-051.lmp
+ hp12-fail.lmp
+ hp12-051.txt
+
+Recorded using Doom2 Version 1.9
+
+Hell Revealed - MAP 12 - Great Halls of Fire
+Ultra Violence Speed / Pacifist
+================
+Kills       2%
+Items       10%
+Secrets      0%
+----------------
+Time       0:51
+================
+Description:
+[Last Week] I got 55 pretty quickly (these are not yet pacifist, only UV) then many
+runs and nothing. I took a break, came back and got 53 and was already happy
+with it. I just did a couple more runs for fun and got 53:06. I just HAD to do 52
+which took many hours probably because of too much trying. It was until then I
+realized this could be "easily" done as pacifist in 50/51. I was a bit frustrated 
+because of wasting so much time doing UV only, so I sat again for many hours.
+Of course all I got was backache so I had a week break.
+
+[Today] After being awake for 24 hours (because of my witty way to fix my sleep 
+pattern...) I decided to try again. Couple runs and voilà: an ok run in 51. It did
+leave a little craving for 50 or even 49 though, as last week I had some smooth 
+tries but mancubi were not cooperative... 
+
+Included one of my good failures, which was ~couple seconds faster to the
+mancubi, just to show 50 should not be too though and 49 might be human too.
+
+And thanks for Radeck Pecka and his 58 demo for showing me the basics of 
+getting past the spidy first time. I tried to make it a science, but it sometimes
+had it's own thoughts.
+
+Author: xepop
+16 - Dec - 2009   4th Compet-N Entry

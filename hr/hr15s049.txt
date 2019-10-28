@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR15s049.TXT
+
+ HR15s049.ZIP
+
+  HR15s049.LMP - Ultra Violence Speed - Secret Exit
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 15 - Gates to hell
+    
+  Kills     16%
+  (Items     0%)          ********
+  Secrets   66%  and Time * 0:49 * 
+                          ********
+                          
+
+  Description:
+
+  [Compet-N entry #134]
+
+  Well, 5 mins left to connect to the internet. So time
+  for another compet-n lmp, ain´t it? :)
+  I worked on this about 30 mins at the morning, my final
+  time was :51..
+    
+  Jakub "DooMerMan" Machata
+  DMrM@seznam.cz

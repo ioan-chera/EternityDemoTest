@@ -1,0 +1,30 @@
+Pwad:      Hell Revealed by Yonatan Donner and Haggay Niv
+Pwad name: hr.wad
+Maps:      various
+Skill:     3 (Hurt me plenty)
+Category:  Max 
+Exe:       Doom2.exe
+
+As with all of my demos since 1995:
+Completely vanilla setup with doom/doom2.exe, no cheats, source-ports(with the exception of a scant few MBF/Boom demos), or crutches.
+native OS calls, no autorun, no mixed key binds, TSRs, or config cheats
+This is the real game.
+
+==========================
+Most maps in HR on skill 3 are softer versions of skill 4.  However, a few are just slightly harder versions of skill 2.  Map24, for example, is much easier than UV.
+
+
+Map01 - Map19 -- Mostly just first attempts to test out skill 3.
+
+Map21 - Not a bad run, with a good route... much easier to optimize than UV.
+
+Map22 - Map29 -- unoptimized test runs for UV practice.
+
+Map30 - easy as a single map.
+
+Map31 - Map32 -- unoptimized test runs for UV practice.
+
+==========================
+
+
+Opulent
