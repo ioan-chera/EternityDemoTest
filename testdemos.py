@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 import multiprocessing
 import os
-import platform
 import re
 import subprocess
 import sys
 import time
 from joblib import Parallel, delayed
+from scripts import notifications
 
 # set the base args (common to all games)
 ARGS_BASE = ['eternity-port/eternity', '-base', 'eternity-port/base', '-user', 'eternity-port/user',
@@ -117,10 +117,7 @@ def run_program():
                 outfile.write(infile.read())
             os.remove(f)
 
-    if platform.system() == 'Darwin':
-        subprocess.call(['osascript', '-e',
-                         'display notification "Demo testing done!" with title "Eternity demo test"'])
-    # TODO: add equivalents for other systems
+    notifications.show('Demo testing done!')
 
 
 if __name__ == "__main__":
