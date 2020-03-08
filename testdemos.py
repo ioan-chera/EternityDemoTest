@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import argparse
 import multiprocessing
 import os
 import platform
@@ -44,7 +45,7 @@ def call_eternity(a):
         sys.stdout.flush()
 
 
-def run_program():
+def run_program(command_line_args):
     # 0. Get data from .data
     with open('demo-list.data', 'r') as demo_list:
         demo_list_lines = demo_list.readlines()
@@ -88,7 +89,12 @@ def run_program():
                 index += 1
 
     # now we have the commands list. print it
-    cpu_count = multiprocessing.cpu_count()
+    max_cpu_count = multiprocessing.cpu_count()
+    cpu_count = int(command_line_args.cpu_count) if command_line_args.cpu_count else max_cpu_count
+    cpu_count = max(1, min(cpu_count, max_cpu_count))
+    print(f'Using {cpu_count} of {max_cpu_count} ({cpu_count / max_cpu_count * 100}) processor cores.')
+
+    # Decide CPU count now
 
     print('Testing', len(commands_list), 'demos.')
 
@@ -124,4 +130,7 @@ def run_program():
 
 
 if __name__ == "__main__":
-    run_program()
+    parser = argparse.ArgumentParser(description='Execute demos for Eternity in a batch.')
+    parser.add_argument('--cpu', dest='cpu_count', help='Set the number of CPUs to do the job (default: all of them)')
+    args = parser.parse_args()
+    run_program(args)
