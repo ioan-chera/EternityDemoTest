@@ -1,0 +1,1 @@
+Currently testdemos.py needs to be GPL3 because of the third-party (on PyPI) module called pynotifier. If we get rid of pynotifier, we should switch to a more permissive license.
