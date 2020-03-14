@@ -61,3 +61,5 @@
 2 hr -file hr/hr.wad
 2 hr/hr28 -file hr/hr.wad hr/hr28.wad
 2 hr/spechit -file hr/hr.wad -spechit 0x01C09C98
+2 hr/solo-net -file hr/hr.wad -solo-net
+2 hr/deh -file hr/hr.wad -deh hr/d.deh
