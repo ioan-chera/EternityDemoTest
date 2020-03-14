@@ -11,3 +11,4 @@ temp-logs/*.txt
 .idea
 *.pyc
 *.diff
+/plutonia.wad
