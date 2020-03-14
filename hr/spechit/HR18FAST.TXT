@@ -1,0 +1,20 @@
+Lmp:  HR18FAST.LMP
+Player: Jason Henry
+Wad:  Hell Revealed (HR.WAD)
+Map:  18 - "Hard Attack"
+Options:  -fast
+Time: 42:38
+
+Description:
+
+This one really wasn't that hard, well at least not after doing map 26. :-)
+Still, I'm surprised nobody's done it already.  There's loads of ammo and
+health and most of the monsters just line up for you to shoot 'em down.
+As expected, critical parts were shooting those one million revenants through
+a tiny window (gotta watch IDDT for incomings!) and the dark/teleporter room.
+The cybie-telefrag chase was no problem, once I figured out a safe way to
+do it...
+
+Special thanks to all the other HR-fast players for inspiration. :-)
+
+JH
