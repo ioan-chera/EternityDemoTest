@@ -1,0 +1,339 @@
+Patch File for DeHackEd v3.0
+
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 19
+Patch format = 6
+
+
+Text 433 435
+You gloat over the steaming carcass of the
+Guardian.  With its death, you've wrested
+the Accelerator from the stinking claws
+of Hell.  You relax and glance around the
+room.  Damn!  There was supposed to be at
+least one working prototype, but you can't
+see it. The demons must have taken it.
+
+You must find the prototype, or all your
+struggles will have been wasted. Keep
+moving, keep fighting, keep killing.
+Oh yes, keep living, too.Jumping through the teleporter, you leave the
+complex behind, where you shut down one of the
+invaders' main interdimensional gates with its
+massive Hallion Collider device. This will put
+a stop to their plans for the meantime, giving
+you the chance to infiltrate the areas they
+control!
+
+On the other side of the Gate, your eyes adjust
+to the glare from the bleak sky. You see you have
+company. A feeling of deja vu floods your mind...
+
+Text 193 194
+Even the deadly Arch-Vile labyrinth could
+not stop you, and you've gotten to the
+prototype Accelerator which is soon
+efficiently and permanently deactivated.
+
+You're good at that kind of thing.Defeated, you fall to your knees and all fades
+to black...
+
+But, in pain, you waken on the cold metal floor
+of a prison atop your battered gear, where they
+appear to have carelessly dumped you.
+
+
+Text 328 331
+You've bashed and battered your way into
+the heart of the devil-hive.  Time for a
+Search-and-Destroy mission, aimed at the
+Gatekeeper, whose foul offspring is
+cascading to Earth.  Yeah, he's bad. But
+you know who's worse!
+
+Grinning evilly, you check your gear, and
+get ready to give the bastard a little Hell
+of your own making!The red glare of the crimson clouds has faded
+and you now see the slimy bowels of hell exposed
+above you.
+
+You've learned that the elder brother of the twins
+you defeated, Baphomet and the Gatekeeper, awaits
+beyond a chain of heavily fortified stronholds.
+
+Time to find this abominable fiend and kick its
+bones to the ends of time!
+
+Text 460 463
+The Gatekeeper's evil face is splattered
+all over the place.  As its tattered corpse
+collapses, an inverted Gate forms and
+sucks down the shards of the last
+prototype Accelerator, not to mention the
+few remaining demons.  You're done. Hell
+has gone back to pounding bad dead folks 
+instead of good live ones.  Remember to
+tell your grandkids to put a rocket
+launcher in your coffin. If you go to Hell
+when you die, you'll need it for some
+final cleaning-up ...You relish the echo of the explosions as your
+opponent's fragments fall back into the black
+pit of Hell.
+
+You make your way back to Earth amid fleeing
+monsters, their mutant flesh peeling from their
+tormented forms as they dissolve with the warped
+reality that brought them forth.
+
+Maybe now that Hell is dead your fellows will
+look up in wonder to free themselves from the
+blood frenzied madness and destruction that
+nearly spelled a final doom for our universe.
+
+Text 159 158
+You've found the second-hardest level we
+got. Hope you have a saved game a level or
+two previous.  If not, be prepared to die
+aplenty. For master marines only."They lay in the stone houses of their court,
+preserved by spells for a glorious resurrection
+when the stars and the earth might once more
+be ready for them."
+
+Text 106 107
+Betcha wondered just what WAS the hardest
+level we had ready for ya?  Now you know.
+No one gets out alive.As you land on the teleportation device, the
+stink of a horde of unwashed monstrosities
+pervades the air...
+
+Text 7 6
+SLIME16GRASS2
+
+Text 7 7
+RROCK14FMETAL1
+
+Text 7 5
+RROCK07FLAT1
+
+Text 7 6
+RROCK17BLOOD1
+
+Text 7 7
+RROCK13RROCK03
+
+Text 7 7
+RROCK19FLAT5_8
+
+Text 415 415
+===========================================================================
+ATTENTION:  This version of DOOM has been modified.  If you would like to
+get a copy of the original game, call 1-800-IDGAMES or see the readme file.
+        You will not receive technical support for modified games.
+                      press enter to continue
+===========================================================================
+===========================================================================
+   You are playing PLUTONIA 2, a classic megawad that replaces all 32 of
+ Plutonia's maps. Visit the PL2 webpage: http://www.rabitik.nl/pluto2.html
+  WARNING: Ultra-violence is ROUGH. Use a lower skill if it's too much.
+                              Press Enter.
+===========================================================================
+
+
+Text 14 12
+level 1: congo1: Comeback 
+
+Text 22 20
+level 2: well of souls2: Jungle Spirits   
+
+Text 14 15
+level 3: aztec3: Skull Island
+
+Text 14 12
+level 4: caged4: Filth    
+
+Text 19 17
+level 5: ghost town5: Flooded Chapel
+
+Text 21 20
+level 6: baron's lair6: Collider Complex 
+
+Text 19 16
+level 7: caughtyard7: Enemy Caught 
+
+Text 14 12
+level 8: realm8: Harmany  
+
+Text 18 16
+level 9: abattoire9: Wormhole Zone
+
+Text 19 16
+level 10: onslaught10: Cosmodrome  
+
+Text 16 17
+level 11: hunted11: Arch-Violence
+
+Text 15 14
+level 12: speed12: Imprisoned
+
+Text 19 17
+level 13: the crypt13: Hard Facility
+
+Text 17 18
+level 14: genesis14: Charon Eclipse
+
+Text 22 23
+level 15: the twilight15: Where Hate Runs Red
+
+Text 18 16
+level 16: the omen16: Predatorium 
+
+Text 18 18
+level 17: compound17: Nuclear Horror
+
+Text 21 20
+level 18: neurosphere18: Buckets of Blood
+
+Text 13 14
+level 19: nme19: Hecknology
+
+Text 26 24
+level 20: the death domain20: Lurking Fear        
+
+Text 16 16
+level 21: slayer21: Assassin    
+
+Text 28 28
+level 22: impossible mission22: Locus Perditus          
+
+Text 19 16
+level 23: tombstone23: Aztecorum   
+
+Text 28 28
+level 24: the final frontier24: Outpost of the Evil Dead
+
+Text 32 32
+level 25: the temple of darkness25: Black Ice                   
+
+Text 16 16
+level 26: bunker26: Plutopia    
+
+Text 21 20
+level 27: anti-christ27: Red Hot         
+
+Text 20 20
+level 28: the sewers28: The Bloodwall   
+
+Text 27 24
+level 29: odyssey of noises29: Ticket to Eternity  
+
+Text 29 28
+level 30: the gateway of hell30: The Gatewatcher         
+
+Text 18 16
+level 31: cyberden31: Cybernation 
+
+Text 17 16
+level 32: go 2 it32: Go 4 It     
+
+Text 23 20
+level 1: system control33: Chocolate       
+
+Text 6 6
+runninjp_pyr
+
+Text 6 6
+stalksjr_blo
+
+Text 6 6
+countdsr_gat
+
+Text 6 6
+betweerunnin
+
+Text 4 6
+doomjp_dea
+
+Text 5 6
+shawnjr_roc
+
+Text 6 6
+ddtblujr_gam
+
+Text 6 6
+in_citjp_bat
+
+Text 4 6
+deadjp_ast
+
+Text 6 6
+stlks2jp_bec
+
+Text 6 6
+theda2eb_und
+
+Text 6 6
+ddtbl2jr_sam
+
+Text 6 6
+runni2sr_sta
+
+Text 5 6
+dead2eb_com
+
+Text 6 6
+stlks3sr_nig
+
+Text 6 6
+romerojp_sil
+
+Text 6 6
+shawn2jp_dwe
+
+Text 6 6
+messagjr_end
+
+Text 6 6
+count2pc_mar
+
+Text 6 6
+ddtbl3in_cit
+
+Text 5 6
+ampieromer2
+
+Text 6 6
+theda3eb_aga
+
+Text 6 6
+adrianjp_san
+
+Text 6 6
+messg2jp_plu
+
+Text 6 6
+romer2pc_out
+
+Text 5 6
+tenserp_gut
+
+Text 6 6
+shawn3jr_hun
+
+Text 6 6
+openinjp_cat
+
+Text 4 6
+evilrp_sin
+
+Text 6 6
+ultimajp_nob
+
+Text 6 6
+read_mjp_was
+
+Text 6 6
+dm2ttlcountd
+
+Text 6 6
+dm2intja_cer
