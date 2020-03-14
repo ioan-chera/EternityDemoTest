@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P210s257.TXT
+
+ P210s257.ZIP
+
+  P210s257.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 10, "Cosmodrome"
+
+  Kills     74%
+  Items     100%            +++++++++
+  Secrets   110%  and Time  +  2:57 +
+                            +++++++++
+
+  ########################################################################################
+  # Description:# Hi :)
+  ############### Damn me for spending 20 seconds on that jump! Aside that, an ok run.
+  # The route used is a safe one, the first part is relatively easy, the d2m10 part is also easy,
+  # since you have health and armor. The last part however can be a pain in the ass, I died 
+  # most of my attempts of the final arc vile and in the final area, since I had bad respawn
+  # on my way to blue door so low health. This time went good. Improvable by a lot.
+  # Enjoy it!
+  ########################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

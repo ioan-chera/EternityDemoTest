@@ -1,0 +1,35 @@
+This is a Doom .LMP - Please forward it...
+
+p204-019.txt
+ p204-019.zip
+  p204-019.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 04 - Filth (by Fredrik)
+
+
+  ================
+  Kills        7%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:19
+  ================
+
+
+  Description:
+
+  ...and after 3 months of optimizing, I got under 20. FINALLY. 3 months of blowing up,
+  getting scratched and punched to death or falling short. And getting blocked. BLOCKED!
+  B O L L O C K S E D!
+  The zip file included contains a comprehensive step-by-step guide on How To Fail p204.
+  There are promises of 18 in those runs, but after 3 faithful months with one SP map...
+  I get a little frustrated just by seeing those three barrels waiting to blow my ass up.
+  
+  Route tweak: going pacifist keeps the chaingunners asleep, except the one who spotted
+  me picking up the berserk. He removes himself into a corner, which is even better.
+
+author: dew
+e-mail: dewww@seznam.cz

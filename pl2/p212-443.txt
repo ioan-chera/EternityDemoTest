@@ -1,0 +1,22 @@
+Pwad:      Plutonia 2 by Various
+Map:       12
+Category:  UV Max
+
+Iwad:      Plutonia.wad
+Exe/Comp:  GlBoom+ 2.5.0.7/Comp Level 4 
+
+-------------------
+Time:     4:43
+-------------------
+
+Author:	   Qaatar
+Email:     Qaatar78@hotmail.com
+
+Comments:
+
+Finally downloaded MarkC's mouse acceleration fix, and all mouse acceleration is finally gone.
+Result is smoother, but also had to lower mouse sensitivity.
+Overall, the demo is still sloppy and ugly, but I suppose it's not too bad.  
+4:3x is definitely possible with better playing, and after trying for a few more hours after this demo, I'm convinced that I can't do it.
+
+Recorded on:  October 07, 2010

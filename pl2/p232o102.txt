@@ -1,0 +1,26 @@
+WAD: PL2
+MAP: MAP32: Go 4 It
+Time: 1:02.74
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: March 19, 2013
+
+Woohoo, I got this in like 10 tries. :D I'm surprised that I got a
+decent demo right away. You even see me pause for a brief couple tics at
+the glide because I really expected not to get it that quickly. I used
+to be so bad at gliding... :)
+
+This just shows that even if you think you're not going to be good at
+something, just keep doing it if you like it, and you will get better over
+time. :)
+
+Also, interesting SR50 jump at the beginning. It seems only to work if
+(or iff as we mathemiticians like to say :D) when you run on that one 
+platform before the RSK, you must run so that you pass on one sticking-out
+part, go across air, then run on the farther sticking-out part, then onto 
+the thing which "keeps you from" the red key.
+
+It would be awesome to see 59, but I don't know if I can get it. Maybe
+someone better skilled and who has more patience than I will get 59. :)
+
+--Doomdaniel95

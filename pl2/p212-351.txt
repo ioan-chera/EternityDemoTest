@@ -1,0 +1,25 @@
+Pwad:      Plutonia 2 by Various
+Map:       12
+Category:  UV Max
+
+Iwad:      Plutonia.wad
+Exe/Comp:  GlBoom+ 2.5.0.8/Comp Level 4 
+
+HUD used, without the kills/items/secrets counter
+
+-------------------
+Time:     3:51
+-------------------
+
+Author:	   Qaatar
+Email:     Qaatar78@hotmail.com
+
+Comments:
+
+Took a break from my failures on CC MAP29, and decided to have a change of pace and record something else.  This demo was my first exit of the day, in under 20 minutes...lol.  Hope you'll enjoy this, Tenda.  :)
+
+I think that having the slightly wider view and timer is a bit more useful than the ammunition counter, so this "regular information" HUD will be what I'm going to use from now on.
+
+This is my final demo for this map, though I might try for a 3:4x in the far future.  
+
+Recorded on:  December 12, 2010

@@ -1,0 +1,43 @@
+Game: Doom 2
+Pwad: pl2.wad
+Filename: p2131245.lmp
+Skill and Style: 4 (UV Max)
+Map Level: MAP13
+Exe/Port used: PrBoom-Plus 2.5.0.5 (-complevel 4)
+Recorded by: vdgg
+
+  Kills    100%
+  Items     65%           *********
+  Secrets  100%  and Time * 12:45 *
+                          *********
+
+
+==============================================
+
+While Fredrik's contibution to PL2 may be overshadowed by Gusta's work,
+it cannot be ignored. The so-often-criticized "Filth" (MAP04) is a decent
+map. Sure, I disliked it first, but during my Tyson recordings I began to
+appreciate it - IMO that map captures the Plutonia Experiment style
+perfectly! But let's forget about MAP04 for a while, here's MAP13, which
+belongs to my private Top 6 of PL2!! But, you know, I am a Vrack3 fan,
+and this is very Vrackish, trust me. The layout (reminiscent of Knee-Deep
+also), the computer panels in the ceilings, barrel placement... you may not
+believe me, but if I hadn't read the PL2 textfile nor intermission screens
+and had to guess which map was created by Fredrik, I would undoubtly pick
+this one.
+
+The demo - I believe it is a bit better than my MAP17 Max. I am very proud
+of skipping plasma rifle until the end, which is sort of counterintuitive
+- normally in Max demos one gets all the weapons ASAP and the plasma rifle
+detour is minimal. However, all those cells and that soulsphere as a bonus
+are just perfect for the final battle. Yeah, I finished the map with too
+much cell ammo, a slight mistake, but normally I shoot that arch-vile
+with rockets, cells, and miss horribly, but not in this demo.
+
+At the RK door I am cautious to "push" the cacodemons forward. If killed by
+the door, you're guaranteed to have ghost monsters (a new Murphy Law).
+The funny thing happened a bit later (funny for us, but not for the doomguy:
+he was supposed to be invisible, yet EVERYONE hit him and his health dropped
+from about 170% to about 30%).
+
+Any takers for MAP18 Max?

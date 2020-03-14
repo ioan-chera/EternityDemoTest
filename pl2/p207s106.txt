@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P207s106.TXT
+
+ P207s106.ZIP
+
+  P207s106.LMP - Nightmare 100 secrets!
+
+  Recorded using "Prboom-plus version 2.5.0.6"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 07, "Enemy caught"
+
+  Kills     19%
+  Items     100%            ++++++++
+  Secrets   100%  and Time  + 1:06 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  # Hey there :) Back again on this level, but not finished yet, this 
+  ################# level on NM depends too much on luck, the 8 mancubus can be killed
+  even faster thatn UV if there is a good infighting, but it is really rare and more frustating.
+  In this run I didn't know if I hit the button, infact I was surprised by seeing the door open,
+  I also waste some time to do the glide, so I'm not yet satisfied with this.
+  I'd like to do this in under than 45, but it's damnately hard...
+  SEE YA 
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

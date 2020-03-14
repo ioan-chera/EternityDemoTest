@@ -1,0 +1,18 @@
+This is a .LMP Entry for Plutonia 2 (pl2.wad)
+
+P216-455.TXT
+
+ P216-455.ZIP
+
+  P216-455.LMP - UV Max
+
+  Recorded using PrBoom+ 2.4.8.1 -complevel 4
+  
+  Kills    100%
+  Items     91%          
+  Secrets  100%  and Time   4:55
+                        
+  Under 5 minutes is exactly what I wanted.
+  
+  Przemys³aw "Belial" Woda
+  nowylepszyszatan@wp.pl

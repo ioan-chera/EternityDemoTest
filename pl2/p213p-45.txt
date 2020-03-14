@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P213p-45.TXT
+
+ P213p-45.ZIP
+
+  P213p-45.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 13, "Hard Facility"
+
+  Kills      5%
+  Items     25%             ++++++++
+  Secrets   25%  and Time   + 0:45 + 
+                            ++++++++
+
+  ########################################################################
+  # Description:  #  Hi :) 
+  #################  A bit frustating, exiting the first area with lots of health
+  # is pure luck, then you need the chaingunners to infight or else you're dead,
+  # which requires time or luck.
+  # Last part can also be frustating, I died twice right before the exit.
+  # See ya!
+  #########################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

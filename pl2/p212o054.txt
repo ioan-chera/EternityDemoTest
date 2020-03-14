@@ -1,0 +1,21 @@
+WAD: PL2
+MAP: MAP12: Imprisoned
+Time: 0:54.89
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: March 25, 2011
+
+First I got 0:58.
+Then I got 0:57.
+Then I got a bunch of 0:56's.
+Then I got a bunch of 0:55's.
+Then I got 0:54.
+
+That being said, this is definitely not a perfect demo. Stupid wallbump
+at the beginning makes this frustrating, but I don't think I can bring
+this down another full second without screwing up elsewhere.
+
+Oh well, the opportunity is open for anybody who wants to try for 0:53
+or lower.
+
+--Doomdaniel95

@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P211-300.TXT
+
+ P231-300.ZIP
+
+  P231-300.LMP - ULTRA VIOLENCE!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 11, "Arch-Violence"
+
+  Kills     10%
+  Items     4%            ++++++++
+  Secrets   0%  and Time  + 3:00 +
+                          ++++++++
+
+  ###################################################################################
+  # Description:#  HI folks :)  first thing to say... this demo is a crap, after 30 #
+  ###############  seconds I also decided to quit because it was really a crap,     #
+  # I missed the first arc-vile thousand of time, damn my shitty aim, because when  #
+  # I did this demo  I was studying  so imagine how distrated could I be. But       #
+  # I don't wanna say more excuse, I also changed the route ( which it never        #
+  # worked out ) because it was going a crap, but then the first glide went fine    #
+  # and so did the second one, and I can't believe that I hit the walls so many     #
+  # times. Well, 3 minute, a good time but really far from my ( optimal ) which     #
+  # I'd like to reach.								    #
+  # BYYY 									    #
+  ###################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

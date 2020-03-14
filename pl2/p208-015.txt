@@ -1,0 +1,30 @@
+This is a Doom .LMP - Please forward it...
+
+p208-015.txt
+
+ p208-015.zip
+
+  p208-015.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 08 - Harmany
+
+
+  ================
+  Kills        4%
+  Items        4%
+  Secrets      0%
+  ----------------
+  Time       0:15
+  ================
+
+
+  Description:
+
+  This exact route could be about 13-14 secs, some improvement
+  here might be interesting :)
+
+author: paprika (Devisin)

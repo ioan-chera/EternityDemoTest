@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P211n326.TXT
+
+ P211n326.ZIP
+
+  P211n326.LMP - NIGHTMARE!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 11, "Arch-Violence"
+
+  Kills     21%
+  Items     21%            ++++++++
+  Secrets   0%  and Time   + 3:26 +
+                           ++++++++
+
+  ###########################################################################
+  # Description:  #  HI :) I just improved my old demo, and this happened at#
+  #################  the second time. I also forgot to wake up the 2 archs  #
+  # near the bfg so I lost some seconds. Just a normal run and not yet      #
+  # satisfied. BYY							    #    
+  ###########################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

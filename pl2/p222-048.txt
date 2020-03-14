@@ -1,0 +1,32 @@
+This is a Doom .LMP - Please forward it...
+
+p222-048.txt
+ p222-048.zip
+  p222-048.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 22 - Locus Perditus (by Erik Alm & Gusta)
+
+
+  ================
+  Kills        20%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:48
+  ================
+
+
+  Description:
+
+  Thanks for the hint, Gusta. Awesome hard jump. :)
+  It took me a while to realize I don't need the RK to raise the first half of the bridge,
+  after that I started surviving the bridge massacre. Archie was a bit dumb and my movement
+  in the spider chamber is embarrassing, but whatever. You don't get picky on 1st exit,
+  especially when you eat so much damage as I did.
+  I was completely hypnotized by that HK's spit... :)
+
+author: dew
+e-mail: dewww@seznam.cz

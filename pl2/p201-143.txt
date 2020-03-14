@@ -1,0 +1,12 @@
+Pwad name: Plutonia 2
+Map:       01 "Comeback" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.1 -complevel 4
+Time:      1:43
+
+Stats:     Kills   100%
+           Items    11%
+           Secrets 100%
+
+Monakhov Vladimir
+skepticist@mail.ru

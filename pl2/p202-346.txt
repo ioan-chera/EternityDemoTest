@@ -1,0 +1,30 @@
+This is a Plutonia2 demo entry for map02 
+
+p202-346..lmp
+p202-346..txt
+
+p202-346.zip 
+
+Recorded using Chocolate Doom Version 1.2.1
+Choco.exe -iwad plutonia.wad -file pl2.wad -playdemo p202-346.lmp
+
+
+Plutonia2  - Level 02
+
+Kills    100%
+Items     87%
+Secrets  100%
+-----------------
+Time:   03:46
+       -------
+
+Description:
+
+I really dunno what the best monster infight tactics here are.
+You can get alot more lucky with monster infights than I was in this one for sure. 
+Also hard to get 100% kills here, lucky me the last caco showed up before exiting. 
+ 
+
+
+Author: Henning Skogsto
+Email: Hskogsto@gmail.com

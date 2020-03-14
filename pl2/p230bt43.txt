@@ -1,0 +1,57 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia2 (PL2.WAD)
+Map:       30 ("The Gatewatcher" by Thomas van der Velden)
+Skill:     4
+Category:  UV-Speed !TAS! (Tool Assisted Speedrun / Build Demo)
+Exe:       Doom2.exe v1.9 (Final DooM Version)
+
+Time:      0:43  (!TAS!)
+
+Author:    pa1ny
+Email:     pa1ny@gmx.de
+
+Files:
+p230bt43.txt
+p230bt43.lmp
+
+p230bt43.zip
+
+Recorded using Final DooM v1.9 with DosBox + novert.com
+Modified with the LMPC Utility made by Uwe Girlich
+Play: DOOM2.EXE -file plutonia.wad pl2.wad -playdemo p230bt43
+or prboom -iwad plutonia.wad -file pl2.wad -playdemo p230bt43
+
+Plutonia 2 - MAP 30 - The Gatewatcher
+
+================
+Kills       55%
+Items       25%
+Secrets      0%
+----------------
+Time       0:43 
+================
+
+
+Comments:
+
+This ist just a modified demo (you may also call it "cheated" or whatever)
+of my own regular(!) p230-056 because I had some time playing around with
+the "Little Movie Processing Centre" (LMPC) utility.
+Ok, so what changes were made and what makes the difference of p230bt43:
+First of all there's the improvement of killing that Baphomet 13 seconds
+faster from 56 to 43 because it doesn't really need more than one try to
+shoot enough rockets into the skull's eye.
+Furthermore the hero survived the battle this time and did a little
+dance session in the end (both is optional at this "end-level" map).
+I still lost some seconds at the beginning and did not use any Strafe50
+movement, so this is probably not the best possible time at all.
+
+
+- May 20, 2009 -
+
+
+hf
+pa1ny

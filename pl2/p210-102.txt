@@ -1,0 +1,22 @@
+Pwad:      pl2.wad (Plutonia 2)
+Map:       map10 (Cosmodrome by T.V.)
+Category:  UV Speed
+
+Iwad:      Plutonia.wad
+Exe:       prBoom+ 2.5.0.8 w/ -complevel 4 (Final Doom)
+
+-----------------
+Time:      1:02
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+RedXIII has shown me this AV jump a few months back in hopes I'd be luckier
+in getting it to work. I took my sweet time, heh.
+It's not the jump, but the d2m11-ish room that kills most of the attempts.
+Also having to wait for the stupid ship every time could be used as torture
+by CIA. Could go under a minute or even pacifist, but I'm quite sick of it.
+
+Recorded:  May 7th, 2011

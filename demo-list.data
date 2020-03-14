@@ -63,3 +63,4 @@
 2 hr/spechit -file hr/hr.wad -spechit 0x01C09C98
 2 hr/solo-net -file hr/hr.wad -solo-net
 2 hr/deh -file hr/hr.wad -deh hr/d.deh
+p pl2 -file pl2/PL2.WAD -deh pl2/PL2.DEH

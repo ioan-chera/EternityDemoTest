@@ -1,0 +1,35 @@
+This is a Doom .LMP - Please forward it...
+
+p204-024.txt
+
+ p204-024.zip
+
+  p204-024.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 04 - Filth
+
+
+  ================
+  Kills        7%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:24
+  ================
+
+
+  Description:
+
+  Route remains the same, I've just made some
+  speed improvements. One of the revenants was
+  a bit unreasonable and the glide might get
+  a second faster, so it's far from optimum,
+  but I'm content for the moment.
+
+
+author: dew
+e-mail: dewww@seznam.cz

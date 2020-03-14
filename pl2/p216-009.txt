@@ -1,0 +1,35 @@
+This is a Doom .LMP - Please forward it...
+
+p216-009.txt
+
+p216-009.zip
+
+p216-009.lmp - Ultra-Violence Speed
+
+Recorded using The Final Doom Version 1.9
+Doom2 -PlayDemo with The Final Doom Version 1.9 -pl2.wad
+
+
+Plutonia 2 - MAP 16 - Predatorium
+
+
+================
+Kills        1%
+Items        0%
+Secrets      0%
+----------------
+Time       0:09
+================
+
+
+Description:
+
+I found this trick at once. Because you would die when two Arch-Viles or more
+attack you at the same time, luck is a little necessary. 
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

@@ -1,0 +1,57 @@
+This is a Doom .LMP - Please forward it...
+
+p223-214.txt
+
+ pp223-214.zip
+
+  pp223-214.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 23 - Aztecorum
+
+
+  ================
+  Kills        15%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       2:14
+  ================
+
+
+  Description:
+
+  :))))) This is by far the craziest thing I managed to do.
+  
+  It's cca 150th attempt and it's the 3rd time I survived
+  both the AV jumps. Once I got killed by that baron behind
+  the bars, second time that demon bit me, what a shame.
+  That said, please pardon the SUCK that is my 'running'
+  after lowering the bars, I was playing with a load in my
+  pants. :)
+
+  I guess the normal route might be even faster than this,
+  but I just had to do it. I'll leave optimizing for TASers.
+  The AV is simply too idiotic. He keeps reviving the revs
+  and they thank him by rockets in the back. So he kills them.
+  And revives them again. Darwin awards, here he comes.
+  
+  Btw, I love the design around the start, it's awesome
+  to max, looks great and there's plenty of totally crazy
+  tricks to try - thanks to save&load I managed to jump
+  across the bars by luring a second archie from the sphere
+  secret and having two synced blasts throw me over. Even
+  crazier was to use the archie + a rocket boost to jump
+  from the plasma room window to the final doors room. :)
+  On the other hand, I hate pretty much everything else
+  in the map...
+
+  Oh and if jumping over the bars is possible, I'm gonna cry.
+
+
+
+author: dew
+e-mail: dewww@seznam.cz

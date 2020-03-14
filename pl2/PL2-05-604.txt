@@ -1,0 +1,38 @@
+This is a Doom.lmp - Please forward it.........
+
+****************************************************
+* PL2-05-604.zip                                   *
+* PL2-05-604.txt                                   *                           
+* PL2-05-604.lmp - UV Max                          *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.8(-Complevel 4) *
+****************************************************
+
+Plutonia 2 Map05 - Flooded Chapel(UV Max)
+
+****************
+* Kills:  102% *
+* Items:  100% *
+* Secret: 100% * and time 6:04
+****************          ====
+
+******************************************************************************************************************
+
+Comments:
+
+Long enough for my last map, I think it's Epic 2 Map32, the UV Max run. I seen blob1024's UV-Fast run of this map, and find out that Monakhov Vladimir's max run invalid because of 2 missed monsters. Since there's no valid UV Max run of this map, I decided to have a try. As the name suggested, this map takes place in a chapel which is flooded by unknown reason. Perhaps monsters break a dam nearby, like the scene of Battle of Isengard in Lord of the Rings, but who fucking cares the story? And how about the chapel? Again no chairs, whatever!
+
+Not a tough map, but very fun and exciting, lots of actions, I love the music too. The most tricky part probably the beginning, with lots of hitscans. Actually I hope to get below 6 minutes, but infighting rarely occurs. :(
+
+This run is rather shitty and lame, needs improvement leh! :P
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: daiyu027@yahoo.com.tw
+Hotmail: t.c_1014@hotmail.com
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - ROC Minguo year 102, 18th April in New Taipei City, Taiwan "Republic of China".
+民國103年於中華民國台灣地區新北市製(Recorded in Taiwan)，玩家Daiyu Xiaoxiang。

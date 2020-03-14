@@ -1,0 +1,23 @@
+Game: Doom 2
+Pwad: pl2.wad
+Filename: p2021237.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP02
+Exe/Port used: PrBoom-Plus 2.5.0.2 (-complevel 4)
+Recorded by: vdgg
+
+  Kills    100%
+  Items    100%           *********
+  Secrets  100%  and Time * 12:37 *
+                          *********
+
+
+==============================================
+
+This time is just about 2 times slower than one from Luke Annett's TAS demo.
+I skip the chainsaw and save the blur sphere for the yellow key ambush.
+The most notable part is between 3:30 and 3:55. I watched my own demo
+and could not believe my eyes. How come i did survive THAT?
+
+So I gladly present this demo. My second best time was 12:53 - also good,
+but with no such moments...

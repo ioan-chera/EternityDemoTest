@@ -1,0 +1,21 @@
+Wad: Plutonia 2
+Map: 7: Enemy Caught
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 6:00
+Time: 5:44
+Category: UV max
+
+This is one of the most famous map in PL2, as well as the map which doomers like to chanllenge at, it's also one
+of my favourite map in PL2. Just like many map 7 in other wads, it always give you a dead simple feeling.
+
+A hard start, not because of the mancubus and cacodemon hordes, the point is the revenants. They will shoot you in
+all directions, and you nearly got nowhere to hide too. After all mancubus get killed, I think most doomers know
+what happens, the spiders right? Oh yeah! Those spiders are not easy to deal with, unless you kill them one by one
+under the cliff with a SSG. I try to kill the monsters in the upper citadel as fast as possible to save more time.
+
+The later parts are easy, but I got a lot of silly mistakes. First by being hit several times by teleporting hell
+knights, then is the final part. I don't know what the purpose of me standing not moving, I get hit by green flames
+and nearly get killed. :(
+
+This is my best run, under 6 minutes is OK.

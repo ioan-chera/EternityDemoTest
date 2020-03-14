@@ -1,0 +1,215 @@
+30p2x1455.txt
+  30p2x1455.lmp
+
+========================================================
+			Plutonia 2
+	TOOL ASSISTED Ultra-Violence Speed Movie
+========================================================
+
+  Recorded using prboom-plus 2.5.0.6 with Final Doom compatibility (-complevel 4)
+  All levels use segmented re-recording. No other tools used, hence the suck. :)
+
+
+					UV record	this run
+=================================================================
+map01	Comeback			0:17		0:16
+map02	Jungle Spirits			0:11		0:11
+map03	Skull Island			0:16		0:15
+map04	Filth				0:19		0:17
+map05	Flooded Chapel			0:08		0:08
+map06	Collider Complex		0:14		0:22 :P
+map07	Enemy Caught			0:55		0:26
+map08	Harmany				0:10		0:10
+map09	Wormhole Zone			0:11		0:11
+map10	Cosmodrome			1:08		0:56
+-------------------------------------------------------------
+Episode Time:						3:12
+-------------------------------------------------------------
+map11	Arch-Violence			3:00		0:51
+map12	Imprisoned					1:03
+map13	Hard Facility			0:25		0:10
+map14	Charon Eclipse			0:59		0:43
+map15	Where Hate Runs Red		0:07		0:07
+map16	Predatorium			0:05		0:04
+map17	Nuclear Horror			0:13		0:12
+map18	Buckets of Blood		0:12		0:11
+map19	Hecknology			0:11		0:08
+map20	Lurking Fear			1:50		0:59
+-------------------------------------------------------------
+Episode Time:						4:28
+-------------------------------------------------------------
+map21	Assassin			0:45		0:32
+map22	Locus Perditus			0:36		0:32
+map23	Aztecorum			2:14		0:20
+map24	Outpost of the Evil Dead	0:19		0:17
+map25	Black Ice			0:27		0:24
+map26	Plutopia					2:09
+map27	Red Hot						0:50
+map28	The Bloodwall			1:06		1:00
+map29	Ticket to Eternity		0:36		0:31
+map30	The Gatewatcher			0:51		0:40
+-------------------------------------------------------------
+Episode Time:						7:15
+-------------------------------------------------------------
+Total Time:						14:55
+=================================================================
+
+
+  Continuation of my p2e1x312 and 20p2x740, completes the whole movie by adding E3.
+  It's a rather lazy TAS, using just segmented recording. I did (slaved on) it for fun,
+  not to break barriers and I felt all the 'pro' cheats would bind me to grind away
+  every possible tic by optimizing routes and waiting for monsters to gtfo of them.
+  So, yes, it's crazy and humanly impossible, but it certainly doesn't look like
+  the Terminator playing.
+  
+
+map01	Comeback		0:16 (current UV-speed record 0:17 by Guiddqd)
+  What a start, grabbing the yellow from the stairs is next to impossible. I curse
+  Guiddqd just for discovering it's possibility. :) IMO the hardest trick of the run.
+
+map02	Jungle Spirits		0:11 (current UV-speed record 0:11 by Guiddqd)
+  Guiddqd is crazy. Even just equalling his time took me 6 segments or so. Dunno how
+  he moved the chainies, I had to run around. 10 probably requires constant sr50.
+
+map03	Skull Island		0:15 (current UV-speed record 0:16 by some noob)
+  This level took me the most time, cause of all the epic luck needed for the imps
+  to gtfo of my way. Seeing 14 is too painful to even imagine, I wasted a few tics
+  grabbing the armor. Even though it's completely useless. Meh. :)
+
+map04	Filth			0:17 (current UV-speed record 0:19 by yours truly)
+  I promised myself never to play this map again... :) Ohwell. It gets kinda cheap
+  with segmented recording and a SSG, the insanity lied in doing it all in one go.
+
+map05	Flooded Chapel		0:08 (current UV-speed record 0:08 by a talentless hack)
+  Most probably optimal (without constant sr50), very easy, hardly interesting.
+  Well, the imp disturbing the archie was sorta fun, I wanted to keep that in.
+
+map06	Collider Complex	0:22 (current UV-speed record 0:14 by Jongo)
+  Erm. The time sucks, but this map is the perfect place for a quick scavenger hunt.
+  I had to heal myself for the jump AND I wanted a big pile of cells + the BFG, cause...
+
+map07	Enemy Caught		0:26 (current UV-speed record 0:55... ahahaha)
+  This is by no means optimized, but it's been a tremendous FUN. Having the BFG here
+  is just priceless... :) I sacrificed a sec or so grabbing more cells. Go cells.
+
+map08	Harmany			0:10 (current UV-speed record 0:10 by moi)
+  This proved to be so easy I went and recorded it in normal UV-speed, too. :)
+
+map09	Wormhole Zone		0:11 (current UV-speed record 0:11 by Kimo Xvirus)
+  It was kinda trivial with the BFG to clear my path and segments to retry the elevator.
+  Respect to Kimo's insane speed record.
+
+map10	Cosmodrome		0:56 (current UV-speed record 1:08 by meh)
+  I always thought this map is sorta boring, but it was a blast with re-recording
+  and not having to wait for that stupid ship every time. :)
+
+map11	Arch-Violence		0:51 (current UV-speed record 3:00 by Red-XIII)
+  The double jump was pretty nasty to sync&pull off. Credit to Red for hinting it in his
+  speedrun. :) I was really, really glad for those extra cells from 07 near the end...
+
+map12	Imprisoned		1:03 (no UV-speed record yet)
+  Ah, the filler level. A horrible chore from a pistol start. I had no set plan and there's
+  no major shortcuts to my knowledge, so I improvised room by room. The demo looks kinda cool,
+  cause it's a long monster slalom with me having stronger weapons than I should have... :)
+
+map13	Hard Facility		0:10 (current UV-speed record 0:25 by Kimo Xvirus)
+  Well, this is insanely hard from a pistol start, but the BFG and BA make it trivial.
+
+map14	Charon Eclipse		0:43 (current UV-speed record 0:59 by Graim)
+  This map is one long monster slalom, so I've put those cells to use. I suck at planning
+  when to shoot weapons, so the pauses for BFG warming look really amateurish.
+
+map15	Where Hate Runs Red	0:07 (current UV-speed record 0:07 by Kimo Xvirus)
+  6s might be possible, but I needed to collect the health pack anyways, so just an easy
+  5min task. I'm avoiding map31 as hard as I can, so no secret levels, sorry. :P
+
+map16	Predatorium		0:04 (current UV-speed record 0:05 by Kimo Xvirus)
+  Hell yeah! I didn't expect to get that. Definitely possible in a normal speed, too!
+
+map17	Nuclear Horror		0:12 (current UV-speed record 0:13 by this one)
+  My fave map. It was easy with re-recording, except waiting for the glide to happen fast.
+
+map18	Buckets of Blood	0:11 (current UV-speed record 0:12 by Jongo)
+  I lucked out with the glide very fast, but I know it can be a bitch with all that rude
+  audience around. 11 should be possible in a normal speed/pacifist, too.
+
+map19	Hecknology		0:08 (current UV-speed record 0:11 by myself)
+  I so wanted to do this in UV-speed, but it seems impossible without a RL.
+
+map20	Lurking Fear		0:59 (current UV-speed record 1:50 by me again)
+  Yay, I'm pleased with getting under a minute. The BK grab is now 50% cooler and the route
+  makes more sense than in my UV-speed. I decided not to try the glide to the YK teleporter,
+  it's damn hard even in -nomo and it doesn't save that much time. I like the final jump,
+  I was racing the minute barrier and it looks thematic. :)
+
+map21	Assassin		0:32 (current UV-speed record 0:45 by *insert self-insult*)
+  Not as smooth as i imagined it. BFG allows to rush through the populated parts, but cacos
+  don't have time enough to group somewhere far away and they litter the return route.
+
+map22	Locus Perditus		0:32 (current UV-speed record 0:36 by Method)
+  Method's run is good, but it's hard to compete with a cheated archie luring. :)
+
+map23	Aztecorum		0:20 (current UV-'speed' record 2:14 ahahaha)
+  Words fail me :))))))))
+
+map24	Outpost of the Evil Dead 0:17 (current UV-speed record 0:19 by The Green Herring)
+  I think this is a slackwork and reaching 16 wouldn't be that much of a chore. Boo me.
+
+map25	Black Ice		0:24 (current UV-speed record 0:27 by Kimo Xvirus)
+  Ugh, sloppy. I had to work with the crap I brought over from map24, but it sucks anyways.
+  I even failed maths and didn't notice I'd missed a box of cells! Well, it might at least
+  motivate Kimo to improve his record. Huge reserves... :)
+
+map26	Plutopia		2:09 (no UV-speed record yet)
+  FUCK FUCK FUCK by FAR the hardest map in pl2 to run through! I can't even describe
+  how much bullshit this level puts you through. My UV-speed attempts that nearly reached
+  the end clocked around 5-6min! The BFG makes it almost bearable, but it's still a bitch.
+
+map27	Red Hot			0:50 (no UV-speed record yet)
+  Aaaand another painful session that probably made my hair a few shades grayer. It's all
+  about the double glide, of course. It's pretty tough just to go in, but the YK is too far
+  and the doomguy won't stay in the 'gliding corridor', even though the position is correct.
+  I even had to shake around a bit to get it, I was sliding off otherwise.
+
+map28	The Bloodwall		1:00 (current UV-speed record 1:06 by Method)
+  Stupid elevator, it's as annoying as that stupid ship in map10. :P I tested rocketing myself
+  away, but that was probably naive. The outside area is so-so, but I don't know better.
+
+map29	Ticket to Eternity	0:31 (current UV-speed record 0:36 by d.)
+  EZ when you can focus on baiting the arch and not screwing the jump. Under 30 possible,
+  but I was really impatient already and wanted to get it over with. :)
+
+map30	The Gatewatcher		0:40 (current UV-speed record 0:51 by Red-XIII)
+  Let me show you a little trick... :) Not sure if it's possible to catch the platform
+  with just an rboost, so it takes a good draw of monsters (no shit, Sherlock). Anyways,
+  I HATE cubespitter levels. I played it only cause it'd be stupid to end at map29. :)
+  And I especially hate that tiny hole I'm supposed to hit. What am I, Luke Skywalker? :P
+
+
+Done! Under 15! I was rushing the last maps, because I was getting annoyed and wanted out... :)
+E1 is my favourite as a dedicated UV-speedrunner, but looking at it in the light of this TAS,
+it was just a short practice. E2 I enjoyed recording the most, it combined both short and long
+runs and I progressed fast with no super-hard grinding. E3 was by far the toughest even
+with tools. Long maps, hard tricks, lots of shooting. The final three or four maps were getting
+on my nerves, I must say.
+In conclusion, this run cannot compete with the polished gems by Jongo or Akse or any other
+crazy Russian TASer. :) It aims to entertain the watcher with the crazy antics of pl2, possibly
+the trick-heaviest wad this side of scythe2. And if it inspires someone to record a beater...
+
+Fun facts:
+The hardest 3 tricks: the double glide at 27, the quick grab at 01, the double av-jump at 11.
+The most annoying 3 chores: shooting the Gatewatcher, the start of 03, the final spire at 12.
+My favourite 3 moments: the massacre at 23, the rj at 19, the finale of 20. And exiting 26. :)
+My weakest 3 maps: 14 cause of bad BFG timing, 24 cause of slacking, 06 cause of slowness.
+My strongest 3 maps: 04 just cause :p, 23 for apparent reasons, map17 for the final part.
+Thanks to: the pl2 team, all the runners who inspired me... and Gusta. I'm buying you a beer.
+
+I need a shower. Enjoy.
+
+
+author: dew
+e-mail: dewww@seznam.cz
+
+e1: 6.-9. 1. 2010
+e2: 15.-16. 1. 2010
+e3: 16.-18. 1. 2010

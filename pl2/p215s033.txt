@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P215s033.TXT
+
+ P215s033.ZIP
+
+  P215s033.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 15, "Where hate runs red"
+
+  Kills     9%
+  Items     100%            ++++++++
+  Secrets   100%  and Time  + 0:33 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  # Good lord this was hard to do, tons of lost souls in NM are truly
+  ################# horrifying. The other route is to wait a bit and kill cacos and
+  # pain, but still many things can go wrong, so I might as well take the fastest route.
+  # Enjoy it! 
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

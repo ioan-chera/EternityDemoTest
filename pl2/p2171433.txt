@@ -1,0 +1,60 @@
+Game: Doom 2
+Pwad: pl2.wad
+Filename: p2021433.lmp
+Skill and Style: 4 (UV Max)
+Map Level: MAP17
+Exe/Port used: PrBoom-Plus 2.5.0.5 (-complevel 4)
+Recorded by: vdgg
+
+  Kills    100%
+  Items     29%           *********
+  Secrets  100%  and Time * 14:33 *
+                          *********
+
+
+==============================================
+
+Excellent map!! My favourite from the orinal plutonia was MAP23, but this one
+(inspired by MAP23) is way better, and it became obvious for me after playing
+Plutonia's MAP23 once again.
+
+Now, onto the Max demo strategies. We should consider:
+
+1) Weapons. Chaingun and berserk are hardly ever used. The weapons which count
+are: SSG, RL and BFG. One would want to try to get the BFG as soon as possible:
+wrong! Even if we ignore the fact that the "three skull switches route" is
+awkward, there are simply not enough cells to use the BFG everywhere. Both SSG
+and RL are near the start, so there is no problem with these.
+
+2) Armors. There are 2 blue armors very near the starting point. I believe they
+are quite a necessity, so one must either go northeast or west through the door.
+
+3) Backpacks - quite useful. If one goes northeast, there is a backpack in the
+secret marked by a lightning. Otherwise, there is another one near the mancubus
+guarding the switch.
+
+4) Blur spheres - there are 2 of them, I believe. I think one MUST be used near
+the corridor full of seargants. The second one, near the YK, proves useful
+against of hordes of monsters which teleport in.
+
+5) "x" monsters. We cannot predict the behaviour of a few floating monsters. One
+pain elemental is the most important "unknown quantity".
+
+Putting all of these into the equation resulted in the beginning of my route. I
+take the backpack near the mancubus, awaken some monsters and then head west. I
+pick up the blur sphere and the armor. When killing the arch-vile, some monsters
+down below should begin to fight to each other. Soon afterwards I have the YK and
+the RL, in other words: pretty much everything I need. The rest is complicated,
+I try beating this map "counter-clockwise", not run out of rockets etc.
+
+Of course, while my route seems perfectly logical, I am pretty sure there are
+many more equally good or better routes which can be justified the same way.
+
+I had 16:51 and then numerous sub-16 with missing monsters (some were my fault,
+some were the designers's fault: monsters not teleporting in). This is my first
+sub-15 and, unbelievably for me, all the monsters were killed.
+
+I am not at satisfied with this ugly demo :( Almost all the arch-viles did nasty
+things to me. My favourite moment was at 4:09 - I press '4' (wanted to kill 2
+chaingunners with the chaingun to save rockets). Suddenly, the PE mentioned in 5)
+appears. Pure luck to have the chaingun ready!

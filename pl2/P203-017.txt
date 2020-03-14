@@ -1,0 +1,33 @@
+This is a Doom .LMP - Please forward it...
+
+p203-017.txt
+
+ p203-017.zip
+
+  p203-017.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 03 - Skull Island
+
+
+  ================
+  Kills        3%
+  Items        1%
+  Secrets      0%
+  ----------------
+  Time       0:17
+  ================
+
+
+  Description:
+
+  My revenge on dew's MAP08 speed, hehe :D
+  Although I got stuck a bit after grabing the blue key in the corners with the imp.
+  I think that made the mancubus go away leaving me space to rush to the blue door :)
+  Getting :16 will be very hard.
+
+author: Kimo Xvirus
+e-mail: kimo_xvirus@hotmail.com

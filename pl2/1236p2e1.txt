@@ -1,0 +1,60 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1236p2e1.TXT
+ 1236p2e1.ZIP
+
+   1236p2e1.LMP 
+
+Recorded using "Prboom-plus version 2.5.0.6"
+plutonia -file pl2.wad
+
+ Plutonia 2 - Episode 1 - UV speed
+
+
+                       Time     Kills     Secrets    1520p2e1    Best  
+------------------------------------------------------------------------
+01 - Comeback          00:46     31%        0%        00:53      00:44
+02 - Jungle Spirits    00:56     18%        0%	      00:50      00:44
+03 - Skull Island      01:18     12%        0%        02:42	 :))))	   
+04 - Filth             02:01     45%      100%        01:52      :((((
+05 - Flooded Chapel    00:29     12%        0%        00:42      00:23                  06 - Collider Complex  01:48     16%       40%        02:13      01:48                 
+07 - Enemy Caught      00:45     13%      100%        00:39      00:39             
+08 - Harmany           00:46     19%        0%        02:04      :))))                
+09 - Wormhole Zone     01:12     22%       50%        01:08      00:49                  10 - Cosmodrome        02:35     33%       20%        02:17      02:02 
+
+Total  12:36               
+
+
+  ##################################################################################
+  #Description# Hi there :)  Well, as I said I improved this but still is far from a
+  ############# very good episode run, but compared to my 1520 is definitely better!
+  P.S In my 1520p2e1 txt there is an error on the total time sorry.
+
+Level 01: Not bad, considering that I didn't use the yellow key grab, I prefer this           way, the faster one is annoying and frustating.
+          
+
+Level 02: Not so good, I made some mistakes so I wasted some seconds
+
+Level 03: Ah, its a tradition now that the blue key grab is frustating, but I don't           care this time :) I did the final bloody jump!!
+
+Level 04: This time this didn't went good, I almost died and I failed the final jump 2            times, definitely better last time.
+
+Level 05: This time went better :)
+
+
+Level 06: I decided to be more aggressive here this time, but the arc didn't cooperate           well and I also missed the exit and took a teleport, well this should be                improved!
+
+Level 07: The first part went brilliantly, but I wasted time on the glide :(
+
+Level 08: Ah, finally a good run in this level, the jump on the ledge went perfectly           and the aggressive playing too. Last part was funny.
+
+Level 09: I hate this level...
+ 
+Level 10: Argh, This went really bad, I almost died in the blkue key part and the exit           part... well, I thought I'd die.
+  
+  I'm pretty satisfied with this improvement, expecially on level 08; but I need to work on it again, I like this episode even because I test my skilld on this. If I would go under 10 minutes, I could say to myself that I'm a "good" speedrunner. For now, I'm just a doom addict :)
+
+ ##################################################################################
+
+Author: Red-XIII
+E-mail: SilverDragon93x@msn.com

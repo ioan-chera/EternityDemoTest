@@ -1,0 +1,68 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1520p2e1.TXT
+ 1520p2e1.ZIP
+
+   1520p2e1.LMP 
+
+Recorded using "Prboom-plus version 2.5.0.6"
+plutonia -file pl2.wad
+
+ Plutonia 2 - Episode 1 - UV speed
+
+
+                       Time     Kills     Secrets     Best   
+-----------------------------------------------------------
+01 - Comeback          00:53     28%        0%        00:48
+02 - Jungle Spirits    00:50     18%        0%	      00:43
+03 - Skull Island      02:42     24%        0%        01:00		   
+04 - Filth             01:52     35%      100%        01:37   
+05 - Flooded Chapel    00:42     13%        0%        00:23                             06 - Collider Complex  02:13     16%       40%        02:01                       
+07 - Enemy Caught      00:39     12%      100%        :))))                   
+08 - Harmany           02:04     42%       50%        01:15                      
+09 - Wormhole Zone     01:08     23%       50%        00:49                          
+10 - Cosmodrome        02:17     26%       20%        02:02       
+
+Total  14:22               
+
+
+  ##################################################################################
+  #Description# Hey there :) Finally!!! This is the second time I end this episode in Uv speed; I did this some months ago but there was a recording error so I lost the demo
+( argh you can't imagine how angry I was )  Anyway, I finally did it again and 18 seconds faster than my last time :) 
+The first Idea of doing this came when I saw for the 100 times the plutonia2 all tas made by dew, then  I started studying the levels and all the goods routes, and I'm very glad of how it turned out, even if some levels could definitely be done better.
+
+Level 01: A normal start, my time was always like this so it's ok.
+          I prefered a safe route instead of spped route.
+
+Level 02: Not bad, far from a good run but it's ok. The boring part is take the blue armor but you need it;
+          many times the remnants block you.
+
+Level 03: There it is!! The worst run of the demo, I can't believe it!! More than a minute to grab that damn blue key!
+          I also thought to quit because it was a totally crap, even the last part!
+          The final jump only happened just 3 times but that can save more than 30 seconds!
+
+Level 04: I like this level, but it can be a little frustating sometimes but not this time, it went good (exspecially               the immortal knight :P ). 
+
+Level 05: An easy level if the arc cooperate good, not like this time but I'm ok with this.
+
+
+Level 06: Probably my favourite level of episode 1 with level 07. I really like this level and I always enjoy doing this,
+          also I never died in this level. But it could be done better, I didn't jumped good with arc so I needed                   another medikit (maby not) but still is ok.
+
+Level 07: Best run of the demo. I love bfg. All said :)))
+
+Level 08: I suck!!! I always hated the jump trought the ledge. And I also confused red door with yellow door, oh man I'm           a crap, it won't be a placeful sight :(
+
+Level 09: Not good as I hoped, I've been disturbed by monsters.
+ 
+Level 10: Last level of the run, didn't went good. Damn that ledge jump.
+          I wasted timed killing the arc in the blue key part. Maby I didn't have to kill him but I died there one time 
+          so I wanted to be safe this time.
+  
+  Well, In the end I'm pretty satisfied with this  ( not 03 and 08 ) but this can be definitely be improved, my best times are a lot better than this one so under 10 minute is my goal for now :)
+  SEE YA!!!
+
+ ##################################################################################
+
+Author: Red-XIII
+E-mail: SilverDragon93x@msn.com

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P221n212.TXT
+
+ P221n212.ZIP
+
+  P221n212.LMP - Nightmare Speed!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 21, "Assassin"
+
+  Kills     16%
+  Items     7%              +++++++++
+  Secrets   0%  and Time    + 02:12 +
+                            +++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :) I didn't expect to do this after 10 tries or so, I'm really glad
+  #################  about it. This is not the fastest route of course but in a level like this
+  # it's insane to use the other route IMO. I really liked how the demo turned out even if 
+  # the last part I missed the plasma. 
+  # See ya :)
+  #####################################################################################
+
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

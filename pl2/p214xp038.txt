@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Runner:    JonaG
+Email:     jonatan.pribek@gmail.com
+Time:      0:38 - (38.74)
+
+IWAD:      Final Doom - The Plutonia Experiment (plutonia.wad)
+PWAD:	   Plutonia 2 (pl2.wad)
+Level:     MAP14 - Charon Eclipse
+Skill:     4 (Ultra-Violence)
+Category:  UV-Pacifist
+Played on: PRBoom-Plus 2.5.1.4
+
+Description: This is a Tool-Assisted Speedrun (TAS).
+	     Tools used: XDRE 2.20
+
+	     I haven't seen this being done in Pacifist in the leaderboard, so I gave it a try.
+	     I'll check out the other maps (MAP20, MAP23, MAP27, MAP28) as well and see what can I do there.

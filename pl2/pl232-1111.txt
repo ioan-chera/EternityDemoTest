@@ -1,0 +1,36 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+
+Pwad:      pl2.wad
+Pwad name: Plutonia 2
+Iwad:      plutonia.wad		
+Map:       32
+Skill:     Ultra Violence
+Category:  Uv-Max* (367/386 kills possible) 
+Port used: PrBoom+ 2.5.1.4
+Time:      11:11
+Complevel: 4
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+Date:	   22/10/2012
+
+------------------
+
+
+Comments:
+
+After a guy on youtube asked me to, the idea to record something on this famous map actually won the hesitation to face such a carnage. Go 4 it. No idea what it exactly refers, but this level is among the ones which probably 90% of active players knows or challenged. Even tho we can find lots of different uv-speed demos, not even a single uv-max was uploaded. Long ago Rizera explained this for the unhappy troubles of the level. Not only a very tough map, without invulnerabilities, way 2 many archviles and invulnerable ghost nazist package near the end; but also "lots of monsters failing to teleport in".
+
+According to uv-max category description, an uv max demo is accepted once 100% kills is reached or the highest %  possible is, so I had a look 2 days ago on how nasty the map would be for me, and how bugged the map was. I discovered that, unlikely from what I understood from the people's posting on doomworld, the amount of enemies not able to appear is always the same. Therefore only 367 kills is reachable out of 386. But the ghost nazists (its done on purpouse, a lethal trap splatters a large number of nazist with an archvile blocked in the platform next to them, so that he can resurrect all of them) issue stood still.
+
+I found it not the major peril in here, so I started demorecording. Despite everything, I must confess at least half of my demos failes in the first 2mins, either because of the PEs bitching around, or the motherfucker cyberdemon behind the yk door... it always reacted like would be nightmare mode, blasting me off very frequently. it's also very easy to be caged, to run out of rockets due to the massive archvile horde resurrecting milions of enemies, so the map is all in all very bad-ass. I kept trying nonethless, and I finally scored a first exit in something around 14mins. Since I wanted something which would at least resist more than 30mins to any serious attempt in maxing the level, I gave myself one more day, before getting down to this time. The final fight isnt so hard, but you need to reach it with enough cells, because the longer you are there, the worse it gets and the least probable is to be able to reach the exit for the insane amount of spawning monsters. So maxing this level must be a mixture of ammo saving- health caring and aggressive playing at same time. Infighting helps only (in my route) a little, and to let archviles be distracted or killed while you run picking cells or plan their death. Sometimes very better looking demos were about to success, but they were in the end ruined or they were simply slower than this one. But I think a very solid time would be under 10minutes. But even a single cyberdemon walking weird, or the three in front of the teleport for the romero's room not willing to move out (and that happened very often), a damn lost soul in the way while firing rockets or ghost nazists going panic can get you down to the floor.
+
+I anyway wasnt' scared by the so bad announcement about this map... ehi we are Marines saving worlds since'94 after all.

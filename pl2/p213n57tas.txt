@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P213n57tas.TXT
+
+ P213n57tas.ZIP
+
+  P213n57tas.LMP - Nightmare!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 13, "Hard Facility"
+
+  SEGMENTED DEMO!
+
+  Kills     ??%
+  Items     ??%             ++++++++
+  Secrets   ??%  and Time   + 0:57 + 
+                            ++++++++
+
+  ########################################################################
+  # Description:  #  Hi :) 
+  #################  This was way easier than I expected, and only 3 segmentes.
+  # I guess everything depends on infighting and no respwan, but still I'm
+  # quite happy with how this turned out.
+  # Enjoy it!
+  #########################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

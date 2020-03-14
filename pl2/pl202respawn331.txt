@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	pl2.wad
+Pwad name: Plutonia 2
+Maps:	02
+Skill:	4
+Category:	UV Respawn
+Exe:      	PRboom+ 2.5.1.4 cl4
+	with advanced HUD
+-------------------------------------------
+Time:     3:31
+-------------------------------------------
+Comments:  
+Had a run that was 3:14 but the backpack secret didn't trigger, so it wasn't valid :(. Respawn luck wasn't so kind to me in the end area in this run.
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

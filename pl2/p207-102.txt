@@ -1,0 +1,31 @@
+This is a Doom .LMP - Please forward it...
+
+p207-102.txt
+ p207-102.zip
+  p207-102.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 07 - Enemy Caught (by Kira and PerOxyd)
+
+  ================
+  Kills        30%
+  Items        ?%
+  Secrets      100%
+  ----------------
+  Time       1:02
+  ================
+
+
+  Description:
+
+  >> Closer to 1:00 (or below) waits for you, man.
+
+  Here you go, Gusta. I leave breaking the minute barrier to you, though :p
+  This map needs to die in a fire, WTF is the deal with the cacos? It's just so...
+  spiteful. They block your dodging, but not the mancs going mental in your face.
+  This can go way faster, but the unfairness makes all my fluids boil. 
+
+author: dew
+e-mail: dewww@seznam.cz

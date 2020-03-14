@@ -1,0 +1,24 @@
+p207-032.txt
+  p207-032.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.6 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map07 - Enemy Caught (by Kira and PerOxyd)
+
+  ================
+  Kills         8%
+  Items        66%
+  Secrets     100%
+  ----------------
+  Time        0:32
+  ================
+
+  Description:
+  Exploiting Red-XIII's great new trick allows way more aggressive fighting,
+  because there's no need to save health now.
+  There's 4 or 5 missed rockets, one blocked SSG shot and an awkward glide,
+  so breaking 30 shouldn't be too hard. Optimum estimate at... 25?
+  
+author: dew
+e-mail: dewww@seznam.cz
+recorded 30. 3. 2010

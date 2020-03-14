@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P211-206.TXT
+
+ P231-206.ZIP
+
+  P231-206.LMP - ULTRA VIOLENCE!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 11, "Arch-Violence"
+
+  Kills     7%
+  Items     19%            +++++++++
+  Secrets   0%  and Time  +  2:06  +
+                            +++++++++
+
+  ############################################################################
+  # Description:#  Hi people :)  I can't broke the 2 minute wall but it's ok.#
+  ###############  I just runned as I could, even If I waste some seconds in #
+  # the yelllow key part; but the glides went good this time :) I think that #
+  # with this route you can just go under 2 minute, but to go under 1:30 I   #
+  # had to try a "new" old route, the one with the double arc jump, but It's #
+  # not that simple, but for now it's ok. BYYY				     #     
+  ############################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

@@ -1,0 +1,23 @@
+Game: Doom 2
+Pwad: Plutonia 2
+Filename: p207-506.lmp
+Skill and Style: 4 (UV-Max)
+Map Level: 7 (Enemy Caught)
+Exe/Port used: GLBoom 2.4.8.1 (PRBoom Plus) -complevel 4
+
+Totals:
+Kills 100%
+Items 100%
+Secrets 100% and (Time - 5:06)
+
+Comments: 
+Had an idea about how to handle those enemies I deal with after grabbing the PGs in a more time-efficent manner.  It worked out very well here.
+
+Even better, this is fastest I've ever killed the mancos before.  Quick and slick I say.
+
+Still, for every good thing that happens, something else in the level must go wrong.  I could have had some better aiming at the BSK trap, I could have handled the final mobs in a slightly better fashion, and I could have not tried to nearly bite it at one point (It wouldn't be an AZ demo without it right?).
+
+At the least, I hit my target improvement time of at least 10 or more seconds.  Sub-5 might be a possibility here.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

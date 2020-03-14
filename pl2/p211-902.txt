@@ -1,0 +1,44 @@
+Pwad:      Plutonia 2 by Various
+Map:       11
+Category:  UV-Max
+
+Iwad:      Plutonia.wad
+Exe/Comp:  GlBoom+ 2.5.0.8/Comp Level 4 
+
+HUD (wider pov, kills/items/secrets, timer, no unequipped ammunition information)
+1280x800
+Gamma factor 4
+Uncapped Framerate
+Custom key configuration:
+
+WASD - Forward/Strafe left/Backwards/Strafe right
+M1 - Fire
+Shift - SSG
+Q - Turn Right
+E - Turn Left
+R - Rocket launcher
+F - Plasma
+C - BFG
+1 - Fist/Chainsaw
+2 - Pistol
+3 - Chaingun
+Alt - Strafe-on
+Space - Use
+Mouse sensitivity - 18
+
+-------------------
+Time:     9:02
+-------------------
+
+Author:	   Qaatar
+Email:     Qaatar78@hotmail.com
+
+Comments:
+
+Why yes Red, under 10 minutes is certainly possible.  The release of PRCP today reminded me of this map for some reason, and I had always planned making a demo for this map.  :)
+
+Route credit to Red as well, who has some nice demos for this map.  The key to saving time at the four cornered archie teleportation area is to use the BFG.  The two teleporting archies will almost always attack when they're nearest the player - easy pickings.  
+
+First exit, and I messed up in a few areas, so a sub 9 minute time should be possible.  I'm too lazy to try more, so this is it from me for now.
+
+Recorded on:  February 27, 2011

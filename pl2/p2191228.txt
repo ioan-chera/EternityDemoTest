@@ -1,0 +1,54 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia2  (PL2.WAD)
+Map:       19 ("Hecknology" by Metabolist)
+Skill:     4
+Category:  UV-Max
+Exe:       Doom2.exe v1.9 (Final DooM Version)
+
+Time:      12:28
+
+Author:    pa1ny
+Email:     pa1ny@gmx.de
+
+Files:
+p2191228.txt
+p2191228.lmp
+
+p2191228.zip
+
+Recorded using prboom-plus 2.5.0.2
+Final Doom compatibility (-complevel 4)
+Play: DOOM2.EXE -file plutonia.wad pl2.wad -playdemo p2191228
+or prboom -iwad plutonia.wad -file pl2.wad -playdemo p2191228
+
+Plutonia 2 - MAP 19 - Hecknology
+
+================
+Kills      104%
+Items      100%
+Secrets    100%
+----------------
+Time      12:28
+================
+
+
+Comments:
+
+Holy shit, this took me a lot of time and tries. You can see myself
+getting nervous in the end 'cause this is my first and only exit at all!
+Main problem here wasn't that 2 Cybers rather than the 7 Arch-Viles
+around the map. I used that Invul-Sphere for 3 of them, even there are
+some dangerous situations later on where it also could be very useful.
+This map needs a BFG so much more than others, but it has none.
+At least I'm satisfied with this, but it surely can be beaten though.
+My goal was to do this under 10min but that's up to you 'really' skilled
+players out there.
+
+- May 15, 2009 -
+
+
+hf
+pa1ny

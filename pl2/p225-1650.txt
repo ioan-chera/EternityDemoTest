@@ -1,0 +1,15 @@
+Filename:	p225-1650.lmp
+Date Beat:	Sep 23rd, 2018
+Iwad:		doom2.wad
+Pwad: 		PL2.WAD
+Pwad Name:	Plutonia 2
+Category:	UV-Max
+Map:		25
+Time:	 	16:50
+Exe:		PrBoom+ v2.5.1.3 -complevel 9
+
+cmd:		prboom-plus.exe -iwad plutonia.wad -file .\PL2.WAD -deh .\PL2.DEH -complevel 4 -skill 4 -warp 25 -nomusic -record .\noisy_pltwo25.lmp
+
+Player:		NoisyVelvet
+
+Comments:	Table Fill: first completion uv-max.

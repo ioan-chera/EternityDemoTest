@@ -1,0 +1,32 @@
+p226-451.txt
+  p226-451.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.6 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 26 - Plutopia (by T.V.)
+
+  ================
+  Kills       52%
+  Items       17%
+  Secrets     50%
+  ----------------
+  Time       4:51
+  ================
+
+  Description:
+  My second exit (both today and ever). After almost a year of rushing this map too much,
+  I started taking it seriously and planned my route to never run out of cells and rockets.
+  Everything I wanted to do went okay, so I'm really content with this for a tablefiller. :)
+
+  The killing might be a bit excessive at points, but I preferred safety over clock racing.
+  Most of the map went surprisingly smooth, I usually choke somewhere for a long time, cause
+  every step of this bitch of a map is dangerous. The end got pretty nervewrecking, the archies
+  were stubborn and didn't want to let me exit alive.
+
+  Sooo... the most epic UV-speed obstacle falls, finally. There's plenty to improve, but it's
+  damn hard work if you're interested. I used a few time saving tricks here and there, nothing
+  major though. And breaking 5 minutes is certainly a nice bonus.
+
+author: dew
+e-mail: dewww@seznam.cz
+8. 2. 2010

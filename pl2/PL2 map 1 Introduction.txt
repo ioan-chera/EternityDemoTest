@@ -1,0 +1,12 @@
+Wad: Plutonia 2
+Map: 1: Comeback
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 3:00
+Time: 2:32
+Category: UV max
+
+This map is easy, but not easy to get under 2 minutes, so I set the target time as 3 minutes. I just kill the
+revenant and chaingunners with the chaingun for safety reasons, other things not much problem.
+
+The secrets are easy to find too, but most of them are useless.

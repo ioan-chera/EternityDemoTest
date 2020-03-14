@@ -1,0 +1,14 @@
+Wad: Plutonia 2
+Map: 31: Cybernation
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 9:00
+Time: 8:53
+Category: UV max
+
+This is the remake of the original Cyberden from Plutonia Experiment, much harder, more space and more cyberdemon.
+
+I don't have confidence to BFG all 6 cyberdmons as what tatsurd does, so I decided to kill them one by one. This
+will lead the run much more slower. I to do some BFGs to save time.
+
+I always afraid I may do silly mistakes again and killed. Anyway. below 9 minutes is OK. 

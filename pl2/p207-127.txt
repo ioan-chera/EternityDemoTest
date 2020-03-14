@@ -1,0 +1,41 @@
+This is a Doom .LMP - Please forward it...
+
+p207-127.txt
+
+ p207-127.zip
+
+  p207-127.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 07 - Enemy Caught
+
+  ================
+  Kills        37%
+  Items        ?%
+  Secrets      100%
+  ----------------
+  Time       1:27
+  ================
+
+
+  Description:
+
+  Seriously, c'mon guys. That glide was SO obvious!
+  I knew about it, but I was leaving it to others,
+  because I'm worthless on every map07 ever created.
+  I wouldn't circle-strafe a stoned hippie cyberdemon
+  on a football stadium. I had to take it slow and
+  careful with SSG, surely there's someone who can
+  speed it up with constant RL.
+  Although I really lucked out on killing monsters
+  in this one. It almost looks like a well-thought
+  max run after I switched to RL. It was not. :)
+
+  Btw, for some reason, the glide seems much easier
+  without the -record parameter.
+
+author: dew
+e-mail: dewww@seznam.cz

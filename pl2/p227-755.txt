@@ -1,0 +1,23 @@
+Iwad:	Plutonia
+Pwad:	pl2.wad
+Demo:	p227-755.lmp
+Category: UV-Max
+Executable:Chocolate-Doom1.2.1
+Time: 7:55
+D.O.R[Date of recording]:
+
+Totals:
+	***************
+		100%
+		???%
+		100%
+	***************
+*TendaMonsta*
+D'Airon James
+
+Comment:
+Well I "maxed" this map a long time ago with the 92% kill total and I didn't
+know why I couldn't get 100%.  Thanks to Red-XIII for telling about that
+problem.
+
+

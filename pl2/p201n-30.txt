@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P201n-30.TXT
+
+ P201n-30.ZIP
+
+  P201n-30.LMP - Nightmare!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 01, "Comeback"
+
+  Kills      31%
+  Items      7%             +++++++++
+  Secrets    0%  and Time   + 0:30 +
+                            +++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :)
+  #################  As it often happens, the best way to do a NM run is to run as hell. 
+  # At first I tried this by killing all monsters but it became a bit frustating after a while
+  # so I decided to use another approach. Overall is not hard but the final cacos can be
+  # a real pain in the ass.
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

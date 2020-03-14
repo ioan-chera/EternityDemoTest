@@ -1,0 +1,29 @@
+This is a Doom .LMP "Competition" Entry
+
+P201-017.TXT
+P201-017.ZIP
+
+P201-017.LMP
+
+Recorded using Final Doom Version 1.9
+Doom -File PL2.WAD -Playdemo with Version 1.9
+
+Plutonia2 - Level 01
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets      ?%
+
+ Time        :17
+)---------------(
+
+Goddammit. Had to be a :16. Well, it
+shows that it's clearly possible but
+the keygrab is damn hard this way.
+
+I'll maybe try it again but a big fat
+GL to anyone who wanna beat this.
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

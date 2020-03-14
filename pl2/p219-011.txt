@@ -1,0 +1,31 @@
+This is a Doom .LMP - Please forward it...
+
+p219-011.txt
+
+ p219-011.zip
+
+  p219-011.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 19 - Hecknology
+
+
+  ================
+  Kills        2%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:11
+  ================
+
+
+  Description:
+
+  Grr, finally. I've been at this the whole day.
+  
+
+author: dew
+e-mail: dewww@seznam.cz

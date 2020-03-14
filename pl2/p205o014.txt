@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+IWAD:      Plutonia
+PWAD:      Plutonia 2 (pl2.wad)  
+Maps:      1 (MAP04)
+Skill:     4
+Category:  Nomonsters
+Exe:       PrBoom-Plus 2.5.1.3 (complevel 2)
+Author:    ClumsyDoomer
+
+Time:      0:14
+
+Comments:  Just like in Battlefield - over9000 points for comeback! :) And the demo: yes, I was  really lucky here.

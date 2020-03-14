@@ -1,0 +1,9 @@
+Wad: Plutonia 2
+Map: 31: Cybernation
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 9:00
+Time: 9:08
+Category: UV max
+
+Just the 1st run of this playthough, the BFG kill to the cyberdemons is quite poor. :(

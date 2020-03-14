@@ -1,0 +1,24 @@
+Game: Doom 2
+Pwad: pl2.wad
+Filename: p2041145.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP04
+Exe/Port used: PrBoom-Plus 2.5.0.2 (-complevel 4)
+Recorded by: vdgg
+
+  Kills    100%
+  Items    100%           *********
+  Secrets  100%  and Time * 11:45 *
+                          *********
+
+
+==============================================
+
+There is a cool trick here at the end which allows a quick annihilation of the mancubi.
+Now I guess further time improvements are possible, maybe even getting below 10:00!
+One must:
+- have the arachnotron vs chaingunners infighting with the arachnotron dead,
+- have more luck with the pain elementals,
+- have more health, so that riding up the lift to collect medikit+armor bonuses
+  is not needed,
+- play more aggresively against baron/hell knights/revenants.

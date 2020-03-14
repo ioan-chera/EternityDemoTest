@@ -1,0 +1,22 @@
+p218p010.txt
+  p218p010.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.6 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map18 - Buckets of Blood (by Gusta)
+
+  ================
+  Kills         2%
+  Items         2%
+  Secrets     100%
+  ----------------
+  Time        0:10
+  ================
+
+  Description:
+  For Grazza. :P Tried grinding 9 for some time, but that's plain annoying.
+  Optimal run could add an AVjump up one floor after the first glide. HA HA.
+
+author: dew
+e-mail: dewww@seznam.cz
+recorded on 26. 5. 2010

@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Get my demos:
+http://doomedsda.us/player563lmps.html
+
+Pwad:      pl2.wad
+Pwad name: Plutonia 2
+Map:       08
+Skill:     4
+Category:  Max 
+Exe:       glboom-plus 2.5.1.4 -complevel 4 (Final Doom)
+
+Time:      03:22
+
+Author:    Yousuf Anik
+Email:     yousuf.anik45@gmail.com
+HP:	   http://https://www.youtube.com/channel/UCjM6qFJqA-OdMkQdL3kS_OA
+

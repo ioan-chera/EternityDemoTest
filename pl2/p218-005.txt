@@ -1,0 +1,11 @@
+Iwad: Plutonia.wad
+Pwad: Pl2.wad
+Maps:      18
+Skill:     4
+Category:  Nomo
+Exe:       PRBoom+ v2.5.0.9
+Time:      0:05
+
+Author:	   Hock 
+
+Built TAS 

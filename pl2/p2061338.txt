@@ -1,0 +1,48 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia2 (PL2.WAD)
+Map:       10 ("Collider Complex" by PerOxyd & Metabolist)
+Skill:     4
+Category:  UV-Max
+Exe:       Doom2.exe v1.9 (Final DooM Version)
+
+Time:      13:38
+
+Author:    pa1ny
+Email:     pa1ny@gmx.de
+
+Files:
+p2061338.txt
+p2061338.lmp
+
+p2061338.zip
+
+Recorded using prboom-plus 2.5.0.2
+Final Doom compatibility (-complevel 4)
+Play: DOOM2.EXE -file plutonia.wad pl2.wad -playdemo p2061338
+or prboom -iwad plutonia.wad -file pl2.wad -playdemo p2061338
+
+Plutonia 2 - MAP 06 - Collider Complex
+
+================
+Kills      100%
+Items       85%
+Secrets    100%
+----------------
+Time      13:38
+================
+
+
+Comments:
+
+This is mainly to fill the gap in the dsda speedrun table. Though I'm quite
+satisfied with this one, because I'm just an average player. It's a second
+exit after something about 15+ that just wasn't worth to release.
+It was kind of stressful and I lost my bearings from time to time as you
+will see in some of the middle parts, containing resignation, too.
+Most annoying thing should be the Mancubus tele-spamming in the final area.
+Thx to dew for motivating me to continue PL2 max-runs :)
+
+- June 10, 2009 -

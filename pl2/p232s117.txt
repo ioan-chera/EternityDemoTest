@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P232s117.TXT
+
+ P232s117.ZIP
+
+  P232s117.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 32, "Go 4 it"
+
+  Kills     37%
+  Items     40%             ++++++++
+  Secrets   100%  and Time  + 1:17 +
+                            ++++++++
+ 
+  ############################################################################################################
+  # Description:  # Hi :)   This is just an improvement of my previous demo, the big difference is that I
+  ################# use a way more aggressive fighting style but still, there's plenty of wasted seconds here.
+  # Enjoy it :)       
+  ############################################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

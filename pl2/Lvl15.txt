@@ -1,0 +1,43 @@
+
+Lvl15.txt
+Lvl15.ZIP
+
+pl15UV10.LMP
+pl15NM09.LMP
+
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+  IWAD   - PWAD
+
+Plutonia - pl2 - Level 15 - "Where Hate Runs Red"
+
+ Ultra-Violence
+ --------------
+
+Kills   0 %
+Items  33 %
+Secrets 0 %
+
+	Time 00:10
+
+  Nightmare
+  ---------
+
+Kills   3 %
+Items  33 %
+Secrets 0 %
+
+	Time 00:09
+
+Description:
+
+I don't know what I should descripe...
+This trick is very easy and obviously ...
+
+
+error
+
+
+termrork@web.de

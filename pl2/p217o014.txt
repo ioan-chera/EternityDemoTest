@@ -1,0 +1,16 @@
+WAD: PL2
+MAP: MAP17: Nuclear Horror
+Time: 0:14.69
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: March 15, 2013
+
+After about 45 minutes, I got 15.20, but I wanted 14. I kept trying over
+and over again, and finally got this after 35 more minutes. (Total time
+spent to get this is 1 hour 20 minutes.) 
+
+I realize this isn't the best looking demo, and 13 is definitely possible,
+but it's pretty hard to get that glide that quickly and I'm all burned
+out now. Still, I enjoyed this!
+
+--Doomdaniel95

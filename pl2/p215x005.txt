@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+IWAD:      Plutonia 
+PWAD:      pl2.wad 
+Maps:      1 
+Skill:     4
+Category:  Built UV Pacifist TAS (Also Reality)
+Exe:       PrBoom-Plus 2.5.1.3 (complevel 4)
+Author:    Vladislav "ClumsyDoomer" Baymurzin
+
+Time:      0:05'86
+
+
+Comments: Thanks to Doomdaniel for the route. This is actually faster than AV jump route, but this trick is hard to be made faster.

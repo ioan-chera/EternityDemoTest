@@ -1,0 +1,52 @@
+This is a Doom .LMP - Please forward it...
+
+p218-254.txt
+
+ p218-254.zip
+
+  p218-254.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 18 - Buckets of Blood
+
+
+  ================
+  Kills        21%
+  Items        ?%
+  Secrets      100%
+  ----------------
+  Time       2:54
+  ================
+
+
+  Description:
+
+  This started at horrible, not very speedy times and still
+  looks sadly unoptimized. I really suck at these sweep type
+  runs, especially when trying to act all aggressive. :)
+  Still, I'm happy I grinded <3 mins, so I'll stop for now.
+
+  The route is pretty tight on ammo, especially the first
+  part. That return to spawn platform is self-explanatory.
+  Cacos and chainies simply owned me too much when I rushed
+  to the final area. Skipping YSK is a no-brainer. The glide
+  is wall-aligned ergo fast and I prefer wasting some time
+  on positioning than facing all those revenants that teleport
+  in. East side has a friendlier set of enemies so I actually
+  carry that blue armor to the final area. West side usually
+  ended with losing all the green armor+soulsphere gain.
+
+  The final area consists of killing all the fast shooting
+  monsters and any remaining cacos. And then the main dish.
+  That exit glide is fun, fun, fun! Nothing motivates your
+  speed like an army of revenants closing in fast. :)
+
+  Oh and I tried wallrunning on monsters to jump over the bars,
+  RJ to the bars button, shooting the archie down so he would
+  follow me and throw me to the button... no chance, Lance.
+
+author: dew
+e-mail: dewww@seznam.cz

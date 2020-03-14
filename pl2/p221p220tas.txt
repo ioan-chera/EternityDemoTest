@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P221p220tas.TXT
+
+ P221p220tas.ZIP
+
+  P221p220tas.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 21, "Assassin"
+
+  SEGMENTED DEMO!
+
+  Kills     ??%
+  Items     ??%              +++++++++
+  Secrets   ??%  and Time    + 2:20  +
+                             +++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :) 
+  #################  I don't think that the other route is possible, so I had to do it this
+  # way, and in no-tas, up to the two buttons is relativel easy, even though you need luck.
+  # But then avoiding all those monsters is hell, you also have to be careful not to frag anyone.
+  # Enjoy it!
+  #####################################################################################
+
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

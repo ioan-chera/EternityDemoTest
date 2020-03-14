@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P231-530.TXT
+
+ P231-530.ZIP
+
+  P231-530.LMP - ULTRA VIOLENCE MAX!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 31, "CyberNation"
+
+  Kills     100%
+  Items     100%            ++++++++
+  Secrets   100%  and Time  + 5:30 +
+                            ++++++++
+
+  #########################################################################################
+  # Description:  #   Finally!!!!!!!!!!!!!!!!!!  I did it, I improved termrork's demo :)  #
+  #################   I think that his route is not the same as mine old one, it is better#
+  # because He decided to kill the cyberdemons when they are in six, so that you can kill #
+  # them with 600 ammo of bfg. So, before starting talk about my demo, I'd like to thank  #
+  # him, it's a really good route improvement :)  and thanks also because you showed us   #
+  # how to broke 6 minute wall, and maybe 5 too :)					  # 
+  # The beginning went fine, but unfortunately for me, the volume of my pc was low, so I  #
+  # didn't hear the arch-vile dieing, and I wasted 10 seconds there ( also in the end )   #
+  # The chaingunners' room was not good, after I was hit two times by that revenant, I was#
+  # demoralized, and I thought that it was going bad. Then I continued to run, the arch   #
+  # -vile near the bfg didn't teleport but that's ok, I killed him quickly and then...    #
+  #  I wanted to kill myself, I waste 170 health for nothing, I was between an hell knight#
+  # and a pig, I also stopped myself, deciding if I should have killed them with bfg to   #
+  # avenge myself, ( have fun, it's the first thing ) but I decided to continue.          #
+  # Then I killed the 6 cyberdemons, all of them without any ammo, so that was good, but  #
+  # then I exploded my self to the pig, and put the pistol exept of SSG.  Oh, I also      #
+  # missed the fake exit :) It's the last part, one cyber remain and the spidermastermind,#
+  # I killed them pretty slowly, but I don't care. Maybe I should have killed the last    #
+  # invisible pigs with bfg, but it's ok. You know, I'm pretty satisfied with this, also  #
+  # because I had a good health in the end :) I think it's all.  Oh, error, please try to #
+  # beat it, so that I can beat you again :))   BYYYYYY                    		  #
+  #########################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

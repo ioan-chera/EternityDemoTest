@@ -1,0 +1,8 @@
+Pwad name: Plutonia 2
+Map:       02 "Jungle Spirits" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.1 -complevel 4
+Time:      3:59
+
+Monakhov Vladimir
+skepticist@mail.ru

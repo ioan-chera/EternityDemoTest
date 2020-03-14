@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Pl2.wad
+Pwad name: Plutonia 2
+Maps:      17
+Skill:     4
+Category:  Speed 
+Exe:       glboom-plus.exe -complevel 4
+
+Time:      0:11
+
+Author:    Light_Speed aka odysseyofnoises
+Email:     cubecat589@gmail.com
+HP:	   http://youtube.com/iphonehacker87/
+
+Comments:  improved version of my p217-012 demo :)

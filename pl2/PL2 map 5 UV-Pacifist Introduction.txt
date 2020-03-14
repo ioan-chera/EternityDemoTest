@@ -1,0 +1,9 @@
+Wad: Plutonia 2
+Map: 5: Flooded Chapel
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 0:15
+Time: 0:12
+Category: UV-Pacifist
+
+An archvile jump may do it! Everything 0!

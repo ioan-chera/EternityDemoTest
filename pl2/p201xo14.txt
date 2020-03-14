@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+** This is a tool-assisted demo! **
+Tools used: 35% speed, permanent SR50, SR50 on turns.
+
+PWAD: PL2.WAD
+PWAD name: Plutonia 2
+Map: 01
+Skill: Ultra-Violence with -nomonsters
+Category: Speed
+Exe: glboom-plus.exe 2.5.1.4 (-complevel 4)
+
+Time: 0:14.77 and 0:14.97 (p201xo1497.lmp)
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+HP: http://www.youtube.com/channel/UCDTi_RRMEduPf5hp7aXS8Nw
+
+Comments: none.

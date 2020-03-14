@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P204s204.TXT
+
+ P204s204.ZIP
+
+  P204s204.LMP - NM100!
+
+  Recorded using "Prboom-plus 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 04, "Filth"
+
+  Kills     45%
+  Items     22%             ++++++++
+  Secrets   100%  and Time  + 2:04 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi! This was driving me crazy, I died so many times at the final jump
+  #################  or on my way back to the secret. Many things went wrong in this run,
+  # but I am just glad to take an exit for now. A more aggressive playing is indeed possible,
+  # avoiding monsters and so on, but not very consistent.
+  # See ya.
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

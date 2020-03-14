@@ -1,0 +1,37 @@
+Game: Doom 2
+Pwad: Plutonia 2
+Filename: p207-524.lmp
+Skill and Style: 4 (UV-Max)
+Map Level: 7 (Enemy Caught)
+Exe/Port used: GLBoom 2.4.8.1 (PRBoom Plus) -complevel 4
+
+Totals:
+Kills 100%
+Items 100%
+Secrets 100% and (Time - 5:24)
+
+Comments: 
+I must say even though I'm not done exploring all of Plutonia 2, what I have seen has been very impressive.  It keeps the same gameplay style of the original Plutonia intact.  Enemy count isn't anything like what you'd see in, say, Hell Revealed 1&2 or Kama Sutra, but the battles and enemy assortment make it quite challenging regardless.  Even then, P2 has some maps with close to or over 300 enemies on UV, meaning a slaughterfest in my book.
+
+This level isn't one of them, but still it's quite challenging for the first half or so.  I just do the best I can with rocketing out the mancos ASAP (Which went fairly well here IMO).
+
+With them offed, you can gain access to the moat, what's beyond it, and elevators that lead to all the enemies attacking you from above.  The arachs are rather annoying here, but they're better left for last or you're going to be smoked by all the other enemies attacking you.
+
+The secret in this level is accessed by shooting a switch while you're up on the higher levels dealing with the demons there.  It opens up a passage in the wall down in the moat leading to a Megasphere.
+
+There's plenty of cells in the moat to burn up with the PG, but try to save around 200+ cells and 25+ rockets by the time you get to the BSK as you'll have some fairly sizable armies to deal with en route to the BSK door.
+
+Opening up the BSK door reveals several HKs and Barons.  It's best to lure them out enough so you can get past them.  Don't go screaming into that hallway though.  Not only would you possibly make your relatives go WTF is he/she screaming about, it also releases some revs right into that hallway.  Being even a second slow means you could easily get boxed in and killed quickly.
+
+As you make your way back out to the starting area, fire a quick shot off to wake the final hordes up (Some also teleport in).  Burn whatever rockets you have left (Including the two rocket boxes inside that hallway), then resort to cells to drop the remaining enemies.  Use the SSG though when you have about 60 or so cells left to deal with the final enemy, an archvile that teleports between two ledges.  Exit once it falls.
+
+All in all, I'd say this was a decent demo.  I think I made some rather dumb mistakes when I started on the mobs at the moat and beyond though.  Also, the enemies I encounter after exiting the BSK area were all spread out.  I'd have preferred if they were more clumped up so they'd all die faster via rockets.
+
+I'd say the most facepalm worthy moment of this demo goes to the medpack I run for while trying to lure the enemies from beyond the BSK door out.  I'm sure smart aren't I?
+
+On the plus side, I got my money's worth on rockets and cell usage.  No rockets and 11 cells left when I exited.
+
+Time-wise, this should be a fair deal faster.  10 seconds at least, perhaps even more.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

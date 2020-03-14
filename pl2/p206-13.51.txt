@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      pl2.wad
+Maps:      06
+Skill:     4
+Category:  Speed (tool assisted speedrun)
+Tools used: slowmotion 85%, permenant sr50, sr50 on turns, and segmenting, building frame by frame 
+Exe:       prboom-plus.exe -complevel 4
+
+Time:      0:13.51
+
+Author:    Light_Speed aka odysseyofnoises
+Email:     cubecat589@gmail.com
+HP:	   http://youtube.com/iphonehacker87/
+
+Comments:  credits to Hock for doing the glide and exit

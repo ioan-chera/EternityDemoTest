@@ -1,0 +1,19 @@
+Iwad:	Plutonia
+Pwad:	pl2.wad
+Demo:	p227-721.lmp
+Category: UV-Max
+Executable: Prboom-plus2.5.0.5
+Time: 7:21
+D.O.R[Date of recording]: 3/11/10
+
+Totals:
+	***************
+		100%
+		???%
+		100%
+	***************
+*TendaMonsta*
+D'Airon James
+
+Comment:
+I thought 7:30 was possible so here was my attempt.

@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P206n128.TXT
+
+ P206n128.ZIP
+
+  P206n128.LMP - Nightmare!!!
+
+  Recorded using "Prboom-plus version 2.5.0.6"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 06, "Collider Complex"
+
+  Kills     16%
+  Items     5%            +++++++++
+  Secrets   40%  and Time +  1:28 +
+                          +++++++++
+
+  #####################################################################################
+  # Description:  # Hey folks :) My first demo on this level, and I chose NM because 
+  ################# I thought it was the easiest compare to fast or max. But... uncredibly,
+  #you may not believe it, but while playing I thought that I would take lots of hors to get this,
+  #and it happened at the very first time!!! Well, of course most of it depends on luck but
+  #I still can't believe it, and I know that now that I'll try to improve this, I'll get only frustation!
+  #Well, until I try I can't say that, so let's see!!! 
+  # By the way. I'm very proud of this, even if can be really improved, I prefer using arc jump
+  # rather than barrels, I'm not so good on barrels :)
+  # SEE YA 
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

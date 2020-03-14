@@ -1,0 +1,15 @@
+Game:           Doom2 Plutonia (1.9f)
+File:           PL2.wad
+Category:       nomonsters
+Mission:        map24
+Skill:          4
+
+Time:           10.34
+
+
+Comments:       Didn't even check rest of the map. Only saw exit door from the spawn, and
+                started wandering towards it because I thought there would be a shortcut, and there
+                was :( I'm quite happy with the time (got almost 10 times 11seconds), not going for
+                9 because it requires nothing but luck. Better spend some time on other maps too :)
+
+Author:         Looper

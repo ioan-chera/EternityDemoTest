@@ -1,0 +1,22 @@
+WAD: PL2
+MAP: MAP27: Red Hot
+Time: 0:52.09
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: October 30, 2018
+-complevel 9
+
+I'm sorry I have to beat the former record with a demo that has kind of a cruddy ending, but I got super lucky with the south glide in this demo, and the
+north one happened around usual, so I was done with both glides a few seconds before my past attempts. I tried for a while to get 51s, but I just didn't get
+lucky enough to get the south glide so quickly again (and whenever I tried to force the north glide to be faster, inevitably, is when I'd mess it up and go
+too far). Maybe I'll come back to this in the future if I feel so inclined.
+
+Other than the luck factor, this isn't too hard. South guidless glides aren't hard to do, and neither are north ones imo; you just have to be very careful
+and move the mouse forward slowly. Here, you can just tap the wall after the south glide to go a little left, so when you turn 180º, you can be set up for
+the north glide and only worry about getting the glide.
+
+I included a demo where I got a bizarre thing to happen while I was trying to glide south. Obviously, that demo wouldn't have been a keeper, even if I hadn't
+overshot the north glide (you can tell by nudging the strafe right key, and the corner will get you stuck if you're too far left). It's kinda funny to see
+my reaction to the unusual south glide.
+
+--Doomdaniel95

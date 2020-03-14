@@ -1,0 +1,15 @@
+Iwad name: Plutonia
+Pwad name: Plutonia 2
+Maps:      06
+Skill:     4
+Category:  UV-Speed
+Exe:       PRBoom+ v2.5.0.8
+Time:      0:14
+
+Author:	   Hock   
+
+-complevel 4
+
+Tool - Assisted
+
+50% speed, strafe 50 always on

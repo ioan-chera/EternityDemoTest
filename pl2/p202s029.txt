@@ -1,0 +1,22 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+plutonia 2
+wad:pl2.wad  
+
+map:02
+
+skill:  5   
+Category:  nightmare with 100% secret
+Exe:       glboom.exe (prboom PLUS V 2.5.0.7 win 32) complevel 4
+
+
+
+
+Time:     00:29 
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr
+recorded: april 22th 2011     
+
+Comments:none .

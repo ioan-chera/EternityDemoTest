@@ -1,0 +1,20 @@
+This is a .LMP Entry for Plutonia 2 (pl2.wad)
+
+P202-447.TXT
+
+ P202-447.ZIP
+
+  P202-447.LMP - UV Max
+
+  Recorded using PrBoom+ 2.4.8.1 -complevel 4
+  
+  Kills    100%
+  Items     87%          
+  Secrets  100%  and Time   4:47
+                        
+  A quickie first exit to finish off the day, it's 4 am and I can
+  tell by the number of silly things I did in this demo that I should
+  hit the sack.
+ 
+  Przemys³aw "Belial" Woda
+  nowylepszyszatan@wp.pl

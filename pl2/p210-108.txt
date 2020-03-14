@@ -1,0 +1,23 @@
+p210-108.txt
+  p210-108.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.3 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 10 - Cosmodrome (by T.V.)
+
+  ================
+  Kills        15%
+  Items        11%
+  Secrets       0%
+  ----------------
+  Time        1:08
+  ================
+
+  Description:
+  Yet another smoother version of the same run, -8 is a sweet improvement. Finally,
+  I skipped the lift linedef without humping the Elemental (and finished the map).
+  The morons behind the shortcut jump refused to die yet again. :)
+  
+author: dew
+e-mail: dewww@seznam.cz
+4. 10. 2009

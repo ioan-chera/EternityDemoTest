@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Runner:    JonaG
+Email:     jonatan.pribek@gmail.com
+Time:      0:36 - (36.97)
+
+IWAD:      Final Doom - The Plutonia Experiment (plutonia.wad)
+PWAD:	   Plutonia 2 (pl2.wad)
+Level:     MAP27 - Red Hot
+Skill:     4 (Ultra-Violence)
+Category:  UV-Pacifist
+Played on: PRBoom-Plus 2.5.1.4
+
+Description: This is a Tool-Assisted Speedrun (TAS).
+	     Tools used: XDRE 2.20
+
+	     Nothing too difficult. I tried not to make instant turns so it's actually watchable, hope I did a great job!

@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Get my demos:
+http://doomedsda.us/player563lmps.html
+
+Pwad:      pl2.wad
+Pwad name: Plutonia 2
+Map:       26
+Skill:     4
+Category:  Max 
+Exe:       glboom-plus 2.5.1.4 -complevel 4 (Final Doom)
+
+Time:      08:12
+
+Author:    Yousuf Anik
+Email:     yousuf.anik45@gmail.com
+HP:	   http://https://www.youtube.com/channel/UCjM6qFJqA-OdMkQdL3kS_OA
+
+Comments:  I followed blob1024's demo, I love the way he did this map. I like this map, it has a really well-done design and challenging difficulty. Beginning was f**king hard because of some tough enemies and there was not much health. I was afraid with 7 health but things got a bit easy after killing Arch-Vile and 2 spiders. I took the other way instead of killing remaining demons and spider. Then the Spiderdemon section was awesome, things got easy from here as I got plasma gun. Killing Cyberdemon was a lot of fun. After that, I took the spider route instead of taking teleporter to kill those remaining monsters. Then the exit was easy and I made it in 8:12 :)

@@ -1,0 +1,26 @@
+Pwad:      pl2.wad : Plutonia 2
+Map:       map03 : Skull Island by Ada "Gusta" Vojta & Pavel "pipicz" Tvrznik
+Category:  Nightmare! Speed
+
+Iwad:      Plutonia.wad
+Exe:       prBoom+ 2.5.1.4 w/ -complevel 4 (Final Doom)
+
+------------------
+Time:      0:22.23
+------------------
+
+Author:	   Boris "dew" Klimes
+Email:     dewww@seznam.cz
+
+Comments:
+My #3 entry for the International Beat a Cyberdemon531 Demo Week.
+
+Welcome to superhell. Both passes through the start area are ridiculously deadly
+and even if you do all the right dance moves, it's still up to luck if monsters
+decide block and shred you. The tricks are far from consistent too, but the most
+annoying part is the forced weapon juggling in the first 5 seconds.
+
+Imagine my horror when the first exit after many hours was THAT other thing.
+
+
+Recorded:  March 28th, 2015

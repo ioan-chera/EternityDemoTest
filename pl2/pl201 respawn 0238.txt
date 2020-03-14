@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Plutonia 2
+Pwad:pl2.wad       
+
+Maps:      01 "come back"
+Skill:     4
+Category:  ultra-violence respawn 
+Exe:       glbomm.exe prboom PLUS V 2.5.0.7 win 32
+
+Time:      02:38
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr     
+
+Comments: don't like this map at all.  

@@ -1,0 +1,51 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia2 (PL2.WAD)
+Map:       30 ("The Gatewatcher" by Thomas van der Velden)
+Skill:     4
+Category:  UV-Speed
+Exe:       Doom2.exe v1.9 (Final DooM Version)
+
+Time:      0:56
+
+Author:    pa1ny
+Email:     pa1ny@gmx.de
+
+Files:
+P230-056.txt
+P230-056.lmp
+
+P230-056.zip
+
+Recorded using Final DooM v1.9 with DosBox + novert.com
+Play: DOOM2.EXE -file plutonia.wad pl2.wad -playdemo p230-056
+or prboom -iwad plutonia.wad -file pl2.wad -playdemo p230-056
+
+Plutonia 2 - MAP 30 - The Gatewatcher
+
+================
+Kills       77%
+Items       50%
+Secrets      0%
+----------------
+Time       0:56
+================
+
+
+Comments:
+
+This boss battle is so awesome! A very nice dark and creepy style.
+I had to pause a moment here and there, so that the Cybers didn't hit me.
+I decided not to kill a single Cyberdemon and hoped for some monster infighting,
+but they forced me to fall off sometimes.
+Although I needed three trys to shoot enough rockets from the raised column,
+it's my personal best time and aiming. Anyway I think it can be beaten easily
+from you freaks out there plus staying alive for sure.
+
+- April 28, 2009 -
+
+
+hf
+pa1ny

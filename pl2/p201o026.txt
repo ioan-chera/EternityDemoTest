@@ -1,0 +1,11 @@
+Name: David "Springy" Spring
+IWAD: Plutonia
+PWAD(s): PL2
+Authour of PWAD: Various
+Recorded with: PrBoom Plus 2.5.1.3 used latest ZDL to help me
+Category: NoMonsters
+Map: 09
+Complevel: 4
+Time: 0:26
+
+Notes: Part of nomo pack for Plutonia 2. Tried a glide couldn't get it too work.

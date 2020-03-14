@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P202s049.TXT
+
+ P202s049.ZIP
+
+  P202s049.LMP - Nightmare 100 secrets!
+
+  Recorded using "Prboom-plus version 2.5.0.6"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 02, "Jungle Spirits"
+
+  Kills     23%
+  Items     50%            +++++++++
+  Secrets   100%  and Time + 0:49  +
+                           +++++++++
+
+  #####################################################################################
+  # Description:  # Hey there :) First of all, it was DidierTranber's demo of this who  
+  ################# let me think to improve this, its pretty easy and this time the caco started a fight with a chaingunner so he died quickly.
+I prefered a more aggressive playing, the level is short so you don't really need to use a safe route. With a very aggressive playing under 35 maby?
+SEE yA :)  
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

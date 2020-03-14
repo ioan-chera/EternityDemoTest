@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+IWAD:      Plutonia
+PWAD:      Plutonia 2 (pl2.wad)  
+Maps:      1
+Skill:     4
+Category:  Nomonsters
+Exe:       PrBoom-Plus 2.5.1.4test (complevel 4)
+Author:    ClumsyDoomer
+
+Time:      0:54
+
+Comments:  Ohh. After making this, my hands shaked and I didn't feel my teeth... wooh, is costed me so much.

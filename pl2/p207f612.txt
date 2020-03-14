@@ -1,0 +1,19 @@
+Pwad:      Plutonia II
+Pwad name: pl2.wad
+Map:       07 - Enemy Caught
+Skill:     4
+Category:  UV -fast
+Exe:       PRBoom+ v2.5.0.3 -complevel 4
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      6:12
+
+Comments: I merely wanted to test how difficult it would be to attain this. With more efficiency I suspect this could be pushed under 6:00.
+
+Author:    Krypto
+Email:     blooditekrypto@gmail.com
+
+13.11.2009

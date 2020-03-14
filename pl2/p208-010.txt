@@ -1,0 +1,21 @@
+p208-010.txt
+  p208-010.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.6 with Final Doom compatibility (-complevel 4)
+
+  Scythe - map 08 - Harmany (by Tango)
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      ?%
+  ----------------
+  Time       0:10
+  ================
+
+  Description:
+  Surprisingly easy. It's a comfortable 10.49, no idea where to save another half a second though.
+
+author: dew
+e-mail: dewww@seznam.cz
+9. 1. 2010

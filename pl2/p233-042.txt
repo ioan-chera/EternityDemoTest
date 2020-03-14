@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P233-042.TXT
+
+ P233-042.ZIP
+
+  P233-042.LMP - ULTRA VIOLENCE!
+
+  Recorded using "Prboom-plus version 2.5.0.6"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 33, "Chocolate"
+
+  Kills     10%
+  Items     0%            +++++++++
+  Secrets   40%  and Time + 0:42  +
+                          +++++++++
+
+  ########################################################################################
+  # Description:# Hey folks :) First of all, than you dew! I wouldn't done this without you.
+  ############### I wanted to improve this from a while and finally this worked out,
+  # monsters were pretty nice with me so I survived :)
+  # Anyway, very far from optimal, it can be improved a lot, it just needs a more aggressive playing
+  # See ya. 
+  ########################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

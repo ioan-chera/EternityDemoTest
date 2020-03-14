@@ -1,0 +1,23 @@
+Game: Doom 2
+Pwad: pl2.wad
+Filename: p2021738.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP02
+Exe/Port used: PrBoom-Plus 2.5.0.2 (-complevel 4)
+Recorded by: vdgg
+
+  Kills    100%
+  Items     87%           *********
+  Secrets  100%  and Time * 17:38 *
+                          *********
+
+
+==============================================
+
+Hey, Gusta, you put 24 chaingunners in the open (including teleporting ones)
+and you say it's a Tyson-doable map?!
+...but seriously, I love this map, it's fun and it's getting easier with
+every next try.
+
+Second exit only, kinda slow, but somehow I like this demo.
+I completely forgot about the partial invisibility. Looks like it is not that necessary.

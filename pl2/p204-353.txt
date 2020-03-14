@@ -1,0 +1,12 @@
+Pwad name: Plutonia 2
+Map:       04 "Filth" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.1 -complevel 4
+Time:      3:53
+
+Stats:     Kills   101%
+           Items    33%
+           Secrets 100%
+
+Monakhov "Skepticist" Vladimir
+skepticist@mail.ru

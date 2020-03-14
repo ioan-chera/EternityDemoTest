@@ -1,0 +1,43 @@
+This is a Doom .LMP - Please forward it...
+
+p221-109.txt
+
+ p221-109.zip
+
+  p221-109.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 21 - Assassin
+
+
+  ================
+  Kills        12%
+  Items        ?%
+  Secrets      50%
+  ----------------
+  Time       1:09
+  ================
+
+
+  Description:
+
+  Heh, I'm pretty sure the map isn't supposed to work this way.
+  The bridge buttons trick is okay I guess, but I doubt I should
+  be allowed to lower the blue exit bar without BK?!
+  
+  I noticed it during my first stroll through the map, because
+  I had NO IDEA what to do, got lost, mashed some buttons and
+  exited with just yellow key and wtf expression on my face :)
+  Of course I didn't bother with exploring the rest of the map
+  and I have no clue where BK actually is :)
+
+  The run itself is decent but nothing special. I got a bit lucky
+  that the baron and all the cacos were very gentlemanly and made
+  me way up to the spider.
+  
+
+author: dew
+e-mail: dewww@seznam.cz

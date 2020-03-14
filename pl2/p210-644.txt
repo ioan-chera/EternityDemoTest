@@ -1,0 +1,50 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia2 (PL2.WAD)
+Map:       10 ("Cosmodrome" by Thomas van der Velden)
+Skill:     4
+Category:  UV-Max
+Exe:       Doom2.exe v1.9 (Final DooM Version)
+
+Time:      6:44
+
+Author:    pa1ny
+Email:     pa1ny@gmx.de
+
+Files:
+P210-644.txt
+P210-644.lmp
+
+P210-644.zip
+
+Recorded using prboom-plus 2.5.0.1
+Final Doom compatibility (-complevel 4)
+Play: DOOM2.EXE -file plutonia.wad pl2.wad -playdemo p210-644
+or prboom -iwad plutonia.wad -file pl2.wad -playdemo p210-644
+
+Plutonia 2 - MAP 10 - Cosmodrome
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       6:44
+================
+
+
+Comments:
+
+At least I'm satisfied with this, but it surely can be beaten though.
+The most annoying thing is that damn "lottery" lift in the refueling station.
+I probaly could have had more luck with monsters fighting each others,
+but they just didn't give me that favour so I had to kill them myself,
+wasting time indeed
+
+- April 29, 2009 -
+
+
+hf
+pa1ny

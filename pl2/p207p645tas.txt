@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P207p645tas.TXT
+
+ P207p645tas.ZIP
+
+  P207p645tas.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 07, "Enemy caught"
+
+  SEGMENTED DEMO!
+
+  Kills      ??%
+  Items      ??%            +++++++++
+  Secrets   100%  and Time  +  6:45 +
+                            +++++++++
+
+  #####################################################################################
+  # Description:  # Hi :)
+  ################# This was both fun and frustating to do. The first part is relatively
+  # easy and fun, though when 1,2 mancubus are left you have more fireballs to avoid,
+  # but all in all it's ok. Shooting the button is another matter, you can't hit 
+  # spiders and you are surrounded by remnants and knights, which makes this hard as hell in
+  # no-tas and a bit frustating even in tas. 
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

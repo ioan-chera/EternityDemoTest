@@ -1,0 +1,22 @@
+WAD: PL2
+MAP: MAP25: Black Ice
+Time: 0:39.51
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: March 29, 2013
+
+Hmm, nice map to chill out. No, really! :) In nomonsters, I found this to
+be a very relaxing map to run. It also helped that I didn't go for a few
+hours on it like on MAP13 (with still no successful 53 in sight). I got
+this time in about 20-25 minutes. That being said, it isn't optimized, but
+my goal was to get this under 40 initially (I kept getting 41's at first,
+a couple 42's, then a 40, etc). Then, I got 39. :)
+
+Also, when you see me fumbling down those ice stairs, I think it's
+unavoidable due to the low ceiling heights (it may be 56 for each stair--
+the bare minimum for Doomguy, so he can't go down two stairs at once).
+That's my guess anyway.
+
+Nice map, Gusta. :)
+
+--Doomdaniel95

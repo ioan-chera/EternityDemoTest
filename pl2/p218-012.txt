@@ -1,0 +1,20 @@
+Pwad:	Plutonia2
+Map:	18 - "Buckets of Blood"
+Skill:	4
+Category:  Speed
+Exe:	Recorded with PrBoom-Plus 2.5.0.1 -complevel 4
+Time:	0:12
+
+Stats:  Kills	2%
+           Items	2%
+           Secrets	100%
+
+Description:
+And another route improvement. Quite obvious,
+actually. The run is quite ok, i've spent around
+half of an hour trying to improve my sucky 0:14,
+which was recorded in a few tries. This one is
+way better :)
+
+Alexander Nikulin
+anpdad@idiaths.ru

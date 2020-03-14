@@ -1,0 +1,11 @@
+WAD: Pl2
+MAP: MAP29: Ticket to Eternity
+Time: 2:30.89
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Grr, without that mistake at the end, this would be 2:27. However, I don't
+want to try it again. It was hard enough getting 2:30, which is pretty good
+IMO. It can be improved, but I'm not trying it for a bit.
+
+--Doomdaniel95

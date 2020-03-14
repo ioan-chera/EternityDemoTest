@@ -1,0 +1,13 @@
+Game:           Doom2 Plutonia (1.9f)
+File:           PL2.wad
+Category:       nomonsters
+Mission:        map30
+Skill:          4
+
+Time:           38.69
+
+
+Comments:       37 might be a challenge. That boss is quite scary :o Reminds me
+                about nightmares.
+
+Author:         Looper

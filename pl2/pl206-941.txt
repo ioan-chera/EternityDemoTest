@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+	
+Iwad:      Plutonia.wad
+Pwad:      Pl2.wad
+Pwad name: Plutonia 2
+Map:       06
+Skill:     Ultra Violence
+Category:  Uv-Max
+Port used: PrBoom+ 2.5.1.4
+Time:      09:41
+Complevel: 4
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+Date:	   10/01/2012
+
+------------------
+
+
+Comments:
+
+A pretty interesting and exciting level, with plenty of fights and tricky situations. The main idea of mine was to analyze the longer maps of the wad, and in particular all the levels which had less competition in terms of entries, and/or the larger maps. This map allowed me to think about big changes in the fighting handling and the weapon usage from the former record standing. I actually tried to play very aggressive, and to make best profit from the rockets and the massive carnage which can start from the crowds of monsters appearing and therefore the infightings. This was not only time-saving, but an easier method to hold up cells& ammo for the last part. For the amount of different battles, a run can be slowed or end in several situations as soon as some monster traps you, or anything goes wrong. Getting this below 10minutes required a lot of work & time, actually a couple of hours for some evenings in a row after the first exit. Once my route was decided, I got a fast 10:50 and then I struggled on 10:1x and 10:0x for days. Then, after a few minor changes, this run went like I planned. I'm happy of reaching exit below 09:50; my best attempt failed due to partial invisibility sphere picken up by mistake, which cost 2 rockets in the face against the cyberdemon afterwards. DSDA record was 13:38 by pa1ny. Btw, using the teleport after the secret with the cells and healt&armour bonuses to return to the starting area, prevent the cyberdemon to teleport in. That's why I return to the blueskull door to let it spawn.

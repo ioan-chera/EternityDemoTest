@@ -1,0 +1,22 @@
+p210o137.txt
+  p210o137.lmp - Ultra-Violence Speed with -nomonsters
+
+  Recorded using prboom-plus 2.5.0.1 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 26 - Plutopia (by Thomas van der Velden)
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      ?%
+  ----------------
+  Time       1:37
+  ================
+
+  Description:
+  If someone manages the RJ in a regular UV-Speed, I'm buying him a beer. :)
+  There was supposed to be a glide, but the bars didn't come up... which is good, I suppose. :)
+  The time is, of course, absolutely unrealistic for monsters run. I expect over 5 minutes.
+    
+author: dew
+e-mail: dewww@seznam.cz

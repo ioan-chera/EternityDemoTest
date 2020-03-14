@@ -1,0 +1,30 @@
+This is a Doom .LMP - Please forward it...
+
+p215n007.TXT
+
+ p215n007.zip
+
+  p215n007.LMP - Nightmare Speed & Pacifist
+
+  Recorded using DOOM2.EXE (Final Doom Version)
+
+
+  Plutonia 2 - map 15 - Where Hate Runs Red
+
+
+  ================
+  Kills        3%
+  Items       33%
+  Secrets      0%
+  ----------------
+  Time       0:07
+  ================
+
+
+  Description:
+
+  It's harder to get 7 in NM because of lost souls, and the
+  arch-viles at the end don't move out of the way most of the time
+
+author: Kimo Xvirus
+e-mail: kimo_xvirus@hotmail.com

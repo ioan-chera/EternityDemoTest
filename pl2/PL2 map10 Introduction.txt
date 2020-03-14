@@ -1,0 +1,19 @@
+Wad: Plutonia 2
+Map: 10: Cosmodrome
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 10:00
+Time: 8:11
+Category: UV max
+
+The music of this map "Astral Dreadnought" is one of my favourite music in PL2, it fits this map very well.
+
+Does this map looks familiar? Indeed it is just a remake of doom2 map10, a refueling base feeling may gives you
+another thought.
+
+This map is not very hard, but the pain elementals and revenants are very annoying. The last archvile kill isn't
+good, it wastes some SSG ammo and time to kill him. Unfortunately the door suddenly close and the archvile hurts me
+, lucky I am not in low health yet. :)
+
+I think under 8 minutes should be better, anyway I am still satisfied to get below 10 minutes. This is quite a
+reasonable UV Max playthough.

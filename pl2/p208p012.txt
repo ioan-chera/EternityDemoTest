@@ -1,0 +1,31 @@
+This is a Doom .LMP - Please forward it...
+
+p208p012.txt
+
+ p208p012.zip
+
+  p208p012 - Ultra-Violence Pacifist
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 08 - Harmany (by Tango)
+
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:12
+  ================
+
+
+  Description:
+
+  I got super-lucky I didn't have to sumo-wrestle the chainie.
+  On the other hand.. 12.11 :(
+
+author: dew
+e-mail: dewww@seznam.cz

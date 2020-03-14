@@ -1,0 +1,28 @@
+            _________________________________________________
+           /                                                 \
+           | PWAD: pl2.wad                                   |
+           | Filename: p2181214.lmp                          |
+           | Category: UV Max                                |
+           | Map Level: MAP18 - Buckets of Blood             |
+           | Exe/Port used:PrBoom-Plus 2.5.0.7 -complevel 4  |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+            _________________________________________________
+           /                                                 \
+           |                                                 |
+           |      Kills    100%                              |
+           |      Items     75%           *********          |
+           |      Secrets  100%  and Time * 12:14 *          |
+           |                              *********          |
+           \_________________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Now, there's a surprise. A good-looking map, not too easy, not too     |
+| difficult, and there's no Max yet... There's something wrong with my   |
+| demo, but somehow I couldn't get any faster time. A table-filler...    |
+|                                                                        |
++========================================================================+

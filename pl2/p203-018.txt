@@ -1,0 +1,33 @@
+This is a Doom .LMP - Please forward it...
+
+p203-018.txt
+
+ p203-018.zip
+
+  p205-018.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 03 - Skull Island
+
+
+  ================
+  Kills        5%
+  Items        1%
+  Secrets      0%
+  ----------------
+  Time       0:18
+  ================
+
+
+  Description:
+
+  Finally! :))
+  I've been trying this for 3 or 4 hours. I got early 22 and wanted <20,
+  but the monsters insisted on being retarded and fat. And my success
+  ratio on those SR50 tricks wasn't exactly stellar. Luck takes time.
+
+author: dew
+e-mail: dewww@seznam.cz

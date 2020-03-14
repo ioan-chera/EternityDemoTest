@@ -1,0 +1,44 @@
+This is a Doom LMP Entry
+
+P226S347.ZIP
+
+	P226S347.TXT
+	P226S347.LMP -- Nightmare Secrets
+
+Recorded using GLBoom-Plus v2.5.1.5 -complevel 4
+               (Final Doom compatibility)
+
+1152x864, gamma level 4, capped framerate
+HUD used (timer)
+
+Plutonia 2 -- Level 26 -- Plutopia
+
+=---+------+---=
+Kills        64%
+Items        69%
+Secrets     100%
+
+TIME        3:47	TAS record: 5:55 by Red-XIII
+=---+------+---=
+			
+Demo entry #169.
+
+Description:
+
+The revenant is a heavily underhated monster. Bloody good RNG is necessary to
+avoid getting blasted by their missiles, unless you are playing this Nightmare
+run at a more casual pace :)
+
+Took 1462 tries to get 2 exits (first was 3:59 on my 508th attempt). I didn't
+bother with any shortcut glitches in the second half -- instead, I decided to
+rush past the cyborg and a few other heaps of flesh. My performance is still
+shaky in early parts, but the later scenes made up for it.
+
+Credits to Red-XIII for his segmented demo, dew and 4shockblast for the UV
+speedruns and Thomas van der Velden for this extremely memorable map, superb
+from beginning to end.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done June 23, 2019, 00:08:57

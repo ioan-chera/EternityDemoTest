@@ -1,0 +1,23 @@
+IWAD (Plutonia)
+PWAD (pl2.wad)
+TIME (6:25)
+EXECUTABLE (Glboom-plus 2.5.1.1)
+* * * * * * * * * * * * * * * * * * * *
+
+-Plutonia 2 MAP27 "Red Hot"-
+
+* * * * * * * * * * * * * * * * * * * *
+D'Airon "TendaMonsta" James
+tendamonsta@gmail.com
+
+* * * * * * * * * * * * * * * * * * * * 
+Demo Comments
+First demo after a long while.  It's good to be back!
+I think at least 30 seconds could be shaved off with
+more aggressive play and a route tweak.  I was always
+thinking of this method after I watched my previous p227-721
+demo over and over again.  Now it's executed and I think
+the demo is overall good.  A few mistakes and hiccups
+though!  
+Complevel 4
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

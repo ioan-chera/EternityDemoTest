@@ -1,0 +1,23 @@
+p215-011.txt
+  p215-011.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.3 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 15 (Secret Exit) - Were Hate Runs Red (by Kira)
+
+  ===================
+  Kills         0%
+  Items        33%
+  Secrets       0%
+  ----------------
+  Time        0:11.17
+  ===================
+
+  Description:
+  Beating one of the oldest pl2 times. :) The goal time should be 10, of course,
+  but working with a crowd of archies and lost souls is, like, annoying.
+  So, I leave 10 to Kimo, 'cause I got satisfied by this rare epic exit. :)
+  
+author: dew
+e-mail: dewww@seznam.cz
+11. 10. 2009

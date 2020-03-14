@@ -1,0 +1,40 @@
+This is a Doom .LMP - Please forward it...
+
+p232-429.txt
+
+p232-429.zip
+
+p232-429.lmp - Ultra-Violence Speed
+
+Recorded using The Final Doom Version 1.9
+Doom2 -PlayDemo with The Final Doom Version 1.9 -pl2.wad
+
+
+Plutonia 2 - MAP 32 - Go 4 It
+
+
+================
+Kills       87%
+Items       60%
+Secrets    100%
+----------------
+Time       4:29
+================
+
+
+Description:
+
+Nice arranged Go 2 It! Moreover, the sense of adding Doom E1M1
+and Dwango 5 map 1 is wonderful. This demo is slow run, but 
+the forcing breakthrough on this map is really difficult.
+I was annoying with a lot of teleporting Arch-Viles after
+getting the blue key. I understand that it is not optimal
+for speedrunning to finish the map by pushing the switch. 
+However, I prefer it.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

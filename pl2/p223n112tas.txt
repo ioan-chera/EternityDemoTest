@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P223n112tas.TXT
+
+ P223n112tas.ZIP
+
+  P223n112tas.LMP - Nightmare!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 18, "Atzecorum"
+
+  SEGMENTED DEMO!
+
+  Kills     ??%
+  Items     ??%             ++++++++
+  Secrets   ??%  and Time   + 1:12 + 
+                            ++++++++
+
+  ########################################################################
+  # Description:  #  Hi :) 
+  #################  Holy crap I did not expect this! I wanted to use the same
+  # route I used for uv-speed but then this jump came out at my first try!
+  # I always knew it was possible (you can do it with a rj too) but I never thought
+  # of using it in a run, guess I was wrong :D
+  # Enjoy it!
+  #########################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

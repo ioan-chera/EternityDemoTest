@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P217s103.TXT
+
+ P217s103.ZIP
+
+  P217s103.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 17, "Nuclear Horror"
+
+  Kills      12%
+  Items      10%             ++++++++
+  Secrets   100%  and Time   + 1:03 +
+                             ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :)
+  #################  If these secrets were not close to each other, I seriously doubt
+  # I'd be able to do this. Once again, the best strategy is to run as hell, there's really
+  # no time for safety. Overall, this wasn't that hard, but the final part is frustating,
+  # sometimes I get the glide immediately, then fall because they push me; 
+  # sometimes cacos, manucubus and  lost soul kill me at once, geez give me a break. 
+  # There's also a serious problem of getting lost, since it's one of the most non-linear map ever! 
+  # See ya! 
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

@@ -1,0 +1,60 @@
+This is a Doom .LMP - Please forward it...
+
+p217-022.txt
+
+ p217-022.zip
+
+  p217-022.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 17 - Nuclear Horror
+
+
+  ================
+  Kills        2%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:22
+  ================
+
+
+  Description:
+
+  This level is epic. So much chaos and non-linearity, great
+  monster placement and combinations... It's almost a shame
+  to exit it so fast. :) I hope someone does a good max, it's
+  sure to look much more entertaining.
+  
+  The design is so chaotic I couldn't even find a fast route
+  to the exit area. I tried an AVjump from the spawn area to
+  that tiny ledge, but that's ungodly hard. Then I found out
+  the right route sweetened by invisibility and blue armor
+  and it was just two glides on the same spot, dancing around
+  a cybie and a lovely teleport into a pack of chainies.
+  Piece of cake! I actually did a cool 50s demo on that route,
+  with awesome chainies infighting and cybie porting in late,
+  and I was on my way to post it, but then my brain called
+  and I went to check the map again... I'd swear that final
+  trick wasn't there before :)
+
+  So being down to just one glide and no worries with the cybie,
+  I was trying over and over to have the monsters align
+  in the right way and squeezing thru the bars fast enough.
+  The cacos were maddening, they completely ignored I was
+  supposed to be invisible and frenzy fired on me nightmare
+  style all the time. The other problem was managing the piggies
+  army so they don't block me or even worse the doors from
+  closing (afaik they can't be closed manually?). Quick rush
+  to berserk pack does the trick. And the glide is VERY easy...
+  ...with nomonsters :)
+
+  I'm happy with this time, It'd take too much trouble to cut
+  down another sec or two. I included the previous route demo
+  as well, because it's actually harder and better show :)  
+
+author: dew
+e-mail: dewww@seznam.cz

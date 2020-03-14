@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P208n020.TXT
+
+ P208n020.ZIP
+
+  P208n020.LMP - Nightmare!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 08, "Harmany"
+
+  Kills     8%
+  Items     4%            +++++++++
+  Secrets   0%  and Time  +  0:20 +
+                            +++++++++
+
+  ############################################################################################
+  # Description:  #  Hi guys :)  I finally did it :=)  this level took me 2 days :D          #
+  #################  I tried many times UV way to do it, just running, but I always died,    #
+  # So I started killing the imps, It took me 10 seconds and I also needed that the hell     #
+  # knight to be in a certain location, then I ran to end, I died many times killed by the   #
+  # arch-vile and missing the exit, but this went fine, and also can be improved so I'll     #
+  # try again to reach a good time :) SEE YA :))))					     #
+  #											     #  
+  ############################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

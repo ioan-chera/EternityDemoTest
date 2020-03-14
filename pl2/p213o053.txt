@@ -1,0 +1,13 @@
+WAD: PL2
+MAP: MAP13: Hard Facility
+Time: 0:53.80
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: December 30, 2018
+-complevel 9
+
+I remember that for the PL2 demopack, I recorded a demo for MAP13 with a pretty cool route that's not used in other cateogries (because an arch-vile is present for an AV jump over the blue bars). I also remember that I got a low 54 on that demo and wasn't satisfied with it. Well, fast forward some time, and now I finally have a demo in 53s for this map. I just didn't realize so much time has elapsed; I recorded that demo for the PL2 demo pack 5 AND A HALF YEARS ago. It really doesn't feel like it's been that long to me.
+
+Anyway, apologies for the bad bump at the end; I was pretty excited after I got back to the lift after the BSK by the 24-second mark. I knew I had 53 coming, and I was right. Looking at the time, it wouldn't have been 52 anyway without the bump, and I don't think I want to try for 52s now, so I'll keep this high 53 and be satisfied. It's fairly difficult not to bump into too much crap and make a lot of errors in this map with straight keyboard movement, but ofc, improvements are possible. It was just nice to take a little break from doing demos with glides.
+
+--Doomdaniel95

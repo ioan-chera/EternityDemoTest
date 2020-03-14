@@ -1,0 +1,45 @@
+Pwad: pl2.wad
+Pwad name: Plutonia 2
+Maps:      25 (Black Ice)
+Skill:     4
+Category:  UV Max
+Exe:       PRBoom+ v2.5.0.5 -complevel 4
+
+Time:      7:46
+
+Author:	   eschdoom
+Email:     eschdoom@whatisblueandfurry.com
+
+Comments:
+An awesome map with some awesome music and the same goes for the rest of this megawad.
+One of the few maps remaining without a demo.
+On first playing this map you may find the start quite frustrating.
+Being shredded by chaingunners or crowded by demons and cacos.
+I tried various ideas but found simply running straight for the SSG without shooting
+then jumping back out of the window and trying to promote some infighting with the 
+arachnotrons and cacos seems to work best (infighting needed to conserve shells).
+In the second area it pays to get the arch-viles to weaken the barons and hks.
+For me the most frustrating part of the whole map is the 1st cyber. For a fast time you
+have to get it to infight with the monsters that teleport in to the start area.
+Also before you can leave the area you have to wait for it to go through the door.
+Many times I died or just had to quit at that point.
+After that if you are lucky (like I was) the last two cybies will infight.
+I had a number of runs 8:00 -> 8:10 but I wanted < 8:00 and eventually I got it.
+I know for a fact that this could be at least 30 seconds faster.
+
+This demo illustrates two problems I found with the map:
+
+1) At map co-ordinates (-16, -1132) the player should be standing on sector 268 but the
+engine resolves to sector 328.
+If you stand at that position you fall down into an illusio pit and this is what usually
+happens to the revenant in that area (as can be seen).
+This is a case where using software rendering helps (the revenant can be seen in the floor).
+
+2) Sectors 428 and 429 house 6 revenants that should teleport in to the start area when the
+blue key is collected. However (as can be seen with iddt) for some reason they don't.
+This doesn't always happen though, sometimes they do teleport.
+So unfortunately I was deprived of a true max with this demo only 250/256 monsters killed.
+
+It is also possible to get the all ghosts problem happening sometimes at the start of the map.
+
+No advanced HUD (normal status bar used).

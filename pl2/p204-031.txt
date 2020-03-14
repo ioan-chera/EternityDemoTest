@@ -1,0 +1,37 @@
+This is a Doom .LMP - Please forward it...
+
+p204-031.txt
+
+ p204-031.zip
+
+  p204-031.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 04 - Filth
+
+
+  ================
+  Kills        12%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:31
+  ================
+
+
+  Description:
+
+  Slight route improvement and more aggressive approach.
+  imps - lazy, at least all of them died
+  glide - FAST :)
+  SGguys - lame :(
+  1st jump - easier from this side
+  revenants - loveably friendly :)
+  chainies - better than usual
+  2nd jump - pigs made way just when I moved my aim :(
+
+author: dew
+e-mail: dewww@seznam.cz

@@ -1,0 +1,21 @@
+p207-055.txt
+  p207-055.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.3 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map07 - Enemy Caught (by Kira and PerOxyd)
+
+  ================
+  Kills        22%
+  Items        66%
+  Secrets     100%
+  ----------------
+  Time        0:55
+  ================
+
+  Description:
+  Yay! Starts ordinary, then 1) the mancos grouped, 2) I lucked out on the rampart.
+  
+author: dew
+e-mail: dewww@seznam.cz
+27. 09. 2009

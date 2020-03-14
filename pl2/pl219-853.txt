@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+	
+Iwad:      Plutonia.wad
+Pwad:      Pl2.wad
+Pwad name: Plutonia 2
+Map:       19
+Skill:     Ultra Violence
+Category:  Uv-Max
+Port used: PrBoom+ 2.5.1.4
+Time:      8:53
+Complevel: 4
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+Date:	   28/01/2012
+
+------------------
+
+
+Comments:
+
+Actually the most exciting map I've played in a while... the mapper did a great job and I'm surprised there was just an uv-max entry for such a cool designed map. It looked at beginning very very hard to reach exit with most of the fights handled properly, and the impression was right. It required some time to find out decent tactics for a few rooms, and those paidback definitely. The second half of the level is quite messy, because I didnt want to wake up the final cyberdemon so early. I usually cleared some monsters in the room before doing that, but I was almost caged by 3 knights so I pressed the switch and it actually turned good. My first exit of 09:52 wasn't satisfying enough, as I wanted a better demo for such a nice level. The previous DSDA record was by pa1ny in 12:28 and credits to him for such a good use of the invulnerability sphere.

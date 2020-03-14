@@ -1,0 +1,58 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+2856p2e2.TXT
+ 2856p2e2.ZIP
+
+   2856p2e2.LMP 
+
+Recorded using "Prboom-plus version 2.5.0.6"
+plutonia -file pl2.wad
+
+ Plutonia 2 - Episode 2 - UV speed
+
+
+                            Time     Kills     Secrets     Best   
+-----------------------------------------------------------------
+11 - Arch-Violence          03:18     20%        0%        02:55
+12 - Imprisoned             02:28     56%       33%        :))))
+13 - Hard Facility          02:44     21%       25%        02:25  
+14 - Charon Eclipse         05:20    113%       71%        05:--             15 - Where Hate Runs Red    00:35      4%       33%        -----                        16 - Predatorium            00:22     11%        0%        -----  
+17 - Nuclear Horror         01:07     12%        0%        -----         
+18 - Buckets Of Blood       05:31     33%      100%        -----               
+19 - Hecknology             01:17      9%        0%        -----             
+20 - Lurking Fear           06:14     56%      100%        -----
+
+Total  28:56              
+
+
+  ##################################################################################
+  #Description# YES!!! Finally I made also episode 2 of plutonia2. I started this some   ############# months ago and I usually play it together with episode1 but I always died at level14 and last week at 15. But today (yesterday I recorded it) I did it, I never arrived over level 15 so I didn't know what to do :) 
+Well, if we compare the time with the tas episode 2, this "run" may look like a crap but I'm very happy of finishing this. Of course there were some levels that went really bad, like 14 and 18, exspecially 18. Anyway lets start with level description. 
+
+Level 11: A strange beginning for this episode. Since I needed bfg, I had to kill all             the arcs but fortunately it went good. The last room is a bit frustating                because you can exit with over 15% of health but usually you exit at 1% so              you need to be very careful on the beginning of the next level
+          
+Level 12: I like this level altought the beginning can be frustating but everything           went fine. In a normal UV speed this level is hard because you don't have bfg           to kill all the monsters in the rl part. Ah, I love bfg! :)
+
+Level 13: Another frustating level; you don't have many chances to try that jump and           the monsters can be really annoying, like this time.
+
+Level 14: Ahh,there it is, the second worse run of the episode. I always died here in           all my attempts so this time I didn't care about the time and I killed almost           all the monsters. I also finished the ssg ammo so I was a bit confused at the           end.
+
+Level 15: I totally got mad in this level I don't know how I did it, I could do it very           faster.
+
+Level 16: Ah, the easiest run of the episode; I never got worried for this level           because with a green sphere and a soul sphere everything will go fine
+
+Level 17: I like this level but I needed to kill the monsters because they can be           really annoying during the glide.
+
+Level 18: Here it is, the worse run ever! I could never think that this coulb be that           hard I almost died 4-5 times. This time is definitely bad, even if you have           to kill some monsters, under 3 minutes should be a good run
+
+Level 19: A normal run, I'm quite good with this considering how I hate/love this jump.
+ 
+Level 20: The hardest level of the run and one of the hardest keve of pl2. I was           totally destroyed after taking the blue key, all against me. I was saved by           the soul sphere. The yellow key part, well, you need to be patient because I           continued only when all the monsters were killed, I couldn't risk. I also was           really scared by the final jump but incredibily it went good. You can't           imagine how happy I was while exiting :))) 
+
+Well, overall I enjoed doing the episode2, more than episode1 so I'll definitely try this again, 28 minutes is too much for an episode, I'd like to go under 20 minutes.
+Now only episode3 miss, mhhh, I think I'll begin studying the levels and routes :)
+SEE YA
+ ##################################################################################
+
+Author: Red-XIII
+E-mail: SilverDragon93x@msn.com

@@ -1,0 +1,14 @@
+Iwad: Plutonia
+Pwad: pl2.wad
+File: p213-1015.lmp
+MAP:13 Hard Facility
+Category: Uv-Max
+Executable:Prboom-plus2.5.0.6 (complevel 4)
+Time:
+
+Author: D'Airon "TendaMonsta" James
+Email: tendamonsta@gmail.com
+
+Comment:
+Looks sloppy, but hey it'll do.  Ten minutes is now my target
+time if I revisit this map.

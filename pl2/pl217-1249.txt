@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+	
+Iwad:      Plutonia.wad
+Pwad:      Pl2.wad
+Pwad name: Plutonia 2
+Map:       17
+Skill:     Ultra Violence
+Category:  Uv-Max
+Port used: PrBoom+ 2.5.1.4
+Time:      12:49
+Complevel: 4
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+Date:	   18/01/2012
+
+------------------
+
+
+Comments:
+
+An extremely long and non-linear map, actually maybe the map which I could give the most credit under that aspect. After some hours I could figure out my route, but it wasn't simple. Going straight for the 300 cells pack is very dangerous and not much infighting happens there anyway. Returning in the yellow key area with BFG at end is very good tho, even if you probably have no armour left then and must face mancubus, lots of revenants and knights. The BFG can't be reached too early due to a a couple of switches needed first, and because there aren't many cells anyway. I woke up all the enemies in the yellow key area, then went for the red key to have more freedom. This ends in armour shortage for last part, but It's more or less also the strategy used by vdgg exception made for a few changes. There's an invulnerability sphere "secret" even tho it's not marked as one, but a sr50 jump is required and that often wasn't coming at first attempt. I really wanted to get something closer to at least 11minutes, but this map fed me up, so once this time was achieved, I stopped playing for a week. Tonight I gave again myself a chance to improve, and smoother playing and more careful  usage of cell and rockets during all the level gave me... some 13:xx. So that's it, I don't want to see the map again anytime soon. But don't get me wrong, the level itself is damn exciting, and a worthy challenge. I wouldn't be surprised if better routes exists or better moments to use cells. I actually planned some wiser BFG use, but cant beat this time for now, and I feel like changing map. I really do. Old DSDA record was 14:33 from vdgg.

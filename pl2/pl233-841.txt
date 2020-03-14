@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+	
+Iwad:      Plutonia.wad
+Pwad:      Pl2.wad
+Pwad name: Plutonia 2
+Map:       33
+Skill:     Ultra Violence
+Category:  Uv-Max
+Port used: PrBoom+ 2.5.1.4
+Time:      08:41
+Complevel: 4
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+Date:	   05/01/2012
+
+------------------
+
+
+Comments:
+
+the map hates me, everytime I exited faster the first part I died, even in the easiest rooms. This is a small improvement of the previous run.

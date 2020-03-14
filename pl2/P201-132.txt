@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P201-132.TXT
+
+ P201-132.ZIP
+
+  P201-132.LMP - UV Max
+
+  Recorded using PrBoom+ 2.5.0.7 test -complevel 4 (Final Doom compatibility)
+
+  Plutonia 2 - MAP01 - Comeback
+
+  Kills    100%
+  Items     11%            ++++++++
+  Secrets  100%  and Time  + 1:32 +
+                           ++++++++
+
+
+  Description :)
+
+  hmmm, thanks to skep's route, it's a great one
+  I don't take the backpack at start which forces me to pick 
+  some shells in the way, makes the run a little harder
+  And one more thing, I don't play using the hud, so I didn't know I was close to beating skep's time
+  at the end, I just risked it with chaigun that way, cause I guessed caco would probably be low on hp
+  :D :D :D
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com

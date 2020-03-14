@@ -1,0 +1,36 @@
+This is a Doom.lmp - Please forward it.........
+
+****************************************************
+* PL2-06-1325.zip                                  *
+* PL2-06-1325.txt                                  *                           
+* PL2-06-1325.lmp - UV Max                         *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.8(-Complevel 4) *
+****************************************************
+
+Plutonia 2 Map06 - Collider Complex(UV Max)
+
+****************
+* Kills:  100% *
+* Items:  55%  *
+* Secret: 100% * and time 13:25
+****************          =====
+
+******************************************************************************************************************
+
+Comments:
+
+Fun and exciting map, nice music from E1M8 "Sign of Evil" too. The beginning in the cargo base is a bit tricky because of hitscans, and I take that green armor at the last since there's some tricky traps inside the RK room. I do the last part slow, actually I can do it faster by getting the BFG directly first. But there's lots of hitscans that gives me difficulty to do it. So I just kill everything first other from the mancubus which keeps teleporting. After some tries, I figure out the way not to let that cyberdemon teleport as soon as I teleport back to the central, since this kills me a few times. However the cyberdemon doesn't cooperate well, he just keep walking and do the attack behind walls. But anyway, the 2 BFG blast is fine. :)
+
+Shitty time, but whatever!
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: daiyu027@yahoo.com.tw
+Hotmail: t.c_1014@hotmail.com
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - ROC Minguo year 102, 25th April in New Taipei City, Taiwan "Republic of China".
+民國103年於中華民國台灣地區新北市製(Recorded in Taiwan)，玩家Daiyu Xiaoxiang。

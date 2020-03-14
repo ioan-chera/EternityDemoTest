@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P226s555tas.TXT
+
+ P226s555tas.ZIP
+
+  P226s555tas.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 26, "Plutopia"
+
+  SEGMENTED DEMO!
+
+  Kills      ??%
+  Items      ??%            ++++++++
+  Secrets   100%  and Time  + 5:55 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :)  
+  #################  As usual, one of the most funny level of all pl2, I simply love this.
+  # This is also quite possible in no-tas, though the first and last part are the hardest ones.
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

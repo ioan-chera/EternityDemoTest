@@ -1,0 +1,27 @@
+p224-017.txt
+  p224-017.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.6 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 24 - Outpost of the Evil Dead (by Erik Alm)
+
+  ================
+  Kills        5%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:17
+  ================
+
+  Description:
+  I did 17 in my 30p2 TAS, so this is a proof of how much some of the e3 runs suck in it. :)
+  It's the old TGH's route, but I rely on the longshot the imps will let me on the platform
+  AND press the button with just the pistol. It can go even smoother, but ehh... it takes
+  dronish grinding just to get past that spot. Then it's play time with the revenant, which
+  isn't usually as easy as I got it here. And finally, the cybie just has to be in a good mood.
+  The manco is dumb, but it's completely random if the cybie blasts my guts over the walls
+  or not. Sooo... 16 optimum? Not by me though, that's a given.
+
+author: dew
+e-mail: dewww@seznam.cz
+15. 2. 2010

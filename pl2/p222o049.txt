@@ -1,0 +1,26 @@
+WAD: PL2
+MAP: MAP22: Locus Perditis
+Time: 0:49.94
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: April 5, 2013
+
+Nice map.. I really like the feel and atmosphere of this one. Cool bridge
+jump shortcut also.. discovered it on my own the first time I played this
+map (the trick was already up on DSDA, but I didn't know about it...
+still, I sadly can't take credit for it ;P).
+
+First, I got 52 (while still warming up). I figured I'd push it down to
+below 50 somewhere al final. After a while, I got 50.89 but knew it 
+could be run faster, so I got a few more 50's, and then I got 49 fairly
+quickly after that.
+
+I know it looks ugly when I go short on one jump, but I don't lose any 
+time since I have to wait for the YSK platform to lower anyway (this was
+after a switch). A bit of a bump at the end due to excitement, but I think
+this demo is somewhat smooth. Should be easy enough to get 48 or maybe
+lower anyway. :)
+
+Enjoy!
+
+--Doomdaniel95

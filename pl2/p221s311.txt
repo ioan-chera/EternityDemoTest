@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P221s311.TXT
+
+ P221s311.ZIP
+
+  P221s311.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 21, "Assassin"
+
+  Kills     27%
+  Items     14%               +++++++++
+  Secrets   100%  and Time    + 03:11 +
+                              +++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :)
+  #################  Good lord this wasn't as funny as I thought it would be, the first part
+  # is just frustating since sometimes you have terrible respawn (like this one), and you can't be too
+  # reckless (I also missed 100% armor, idiot me).
+  # The second part, after the blue bars switch, is relatively easy, you have
+  # plenty of ammo and there's also a megasphere, so it's ok. 
+  # Enjoy it!
+  #####################################################################################
+
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

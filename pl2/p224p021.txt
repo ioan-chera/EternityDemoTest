@@ -1,0 +1,20 @@
+p224p021.txt
+  p224p021.lmp - Ultra-Violence Pacifist
+
+  Recorded using prboom-plus 2.5.0.1 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 24 - Outpost of the Evil Dead (by Erik Alm)
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      ?%
+  ----------------
+  Time       0:21
+  ================
+
+  Description:
+  2nd exit. Would probably be 19 in UV-speed mode, so not superior to TGH's run. :)
+
+author: dew
+e-mail: dewww@seznam.cz

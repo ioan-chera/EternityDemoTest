@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P231p305.TXT
+
+ P231p305.ZIP
+
+  P231p305.LMP - UV Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 31, "CyberNation"
+
+  Kills     39%
+  Items     66%             ++++++++
+  Secrets   33%  and Time   + 3:05 +
+                            ++++++++
+ 
+  ############################################################################################################
+  # Description:  # Hi :)  I've been trying since since a very long time but I always died in the chaingunner area
+  ################# and even this time too I was pretty close to die. Most of the strategy is quite similar to
+  # UV speed so the middle part wasn't very hard. The last part is, on the other hand, more difficult, but
+  # this time my beloved arc-vile protected me from cybers.         
+  # Though it took me a long time it was very enjoable, too bad it's slower than UV speed but whatever.
+  # Enjoy it :)
+  ############################################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Plutonia 2
+Pwad: pl2.wad   
+map: 26 "plutopia"
+
+Skill:     5
+Category: tool-assisted nightmare speed 
+Exe:       glboom.exe (prboom PLUS V 2.5.0.7 win 32) -complevel 4
+tool: prboom PLUS V 2.5.0.7 (no strafe 50 always on) 
+
+Time:      11:22
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr     
+
+Comments: I think it's  possible to finish this map without TAS,
+but it's a big challenge.
+ part between 06:45 and 10:15 is very hard:monsters respawn quickly
+(instantly sometimes).  

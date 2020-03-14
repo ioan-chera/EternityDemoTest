@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P233n56tas.TXT
+
+ P233n56tas.ZIP
+
+  P233n56tas.LMP - Nightmare!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 33, "Chocolate"
+
+  SEGMENTED DEMO!
+
+  Kills     ??%
+  Items     ??%            +++++++++
+  Secrets   ??%  and Time  +  0:56 +
+                           +++++++++
+
+  ########################################################################################
+  # Description:# Hi :)
+  ############### The first and last part are quite easy, but surviving immediately after 
+  # the arc jump and activating the switch is nasty. 
+  # Enjoy it :)
+  ########################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

@@ -1,0 +1,20 @@
+Pwad:      pl2.wad (Plutonia 2)
+Map:       Plutopia (by Thomas van der Velden)
+Category:  NoMo
+
+Iwad:      Plutonia.wad
+Exe:       prBoom+ 2.5.1.4 w/ -complevel 4 (Final Doom)
+
+----------------
+Time:      1:30
+----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+It took me a lot of effort to relearn that rjump, it's quite a bitch. Actually dying in the nukage after the keygrab is a real risk, thanks to LUT lottery damaging me _the picosecond_ I touch the green.
+
+First exit where I got both the tricks (well, at least in the current decade). I would've loved to break 1:30, but that drunken moment in the pink corridor happened, heh. Finger memory was running ahead of what was happening onscreen.
+
+Recorded:  May 25th, 2013

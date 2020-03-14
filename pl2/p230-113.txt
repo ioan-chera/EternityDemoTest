@@ -1,0 +1,31 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia 2
+Map:       30 ("The Gatewatcher" by Thomas van der Velden)
+Skill:     4
+Category:  Max
+Exe:       PrBoom+ 2.5.0.1 -complevel 4
+
+Time:      1:13
+
+Author:    Kimo Xvirus
+Email:     kimo_xvirus@hotmail.com
+
+Comments:
+I liked this boss battle so much, the environment felt pretty epic for me the
+first time playing through. I also liked the design of the baphomet but its
+shoulders look a bit flat and bland...   
+
+After I grabbed the weapons & megasphere and teleported to fight the monster
+I shot the 4 demons, which I sometimes only shoot 2 and let the others die from
+infighting or maybe they could all die from infighting but I haven't tried that.
+Also, I always had problem with cyberdemons cause when fighting one, another
+cyberdemon could be shooting at me, so I had some good luck :)
+When getting up the stairs ready to shoot the baphomet, it's easy to get hit by
+monsters and fall off but this time the monsters put me in a good position hehe.
+It could be done easier with longtics, as this would've made it a lot easier to
+aim at the baphomet which in this map requires precise aiming to damage it.
+
+- January 5, 2009 -

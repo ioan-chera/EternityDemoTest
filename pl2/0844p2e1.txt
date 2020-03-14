@@ -1,0 +1,86 @@
+0844p2e1.txt
+  0844p2e1.lmp
+
+======================================================
+		Plutonia 2 - Episode 1
+	      Ultra-Violence Speed Movie
+======================================================
+
+  Recorded using prboom-plus 2.5.0.7 with Final Doom compatibility (-complevel 4)
+
+
+			      1236 (Red)	0844
+======================================================
+map01	Comeback		0:46		0:41	:(
+map02	Jungle Spirits		0:56		0:48	:(((
+map03	Skull Island		1:18		0:21	:)))
+map04	Filth			2:01		1:09	:|
+map05	Flooded Chapel		0:29		0:16	:|
+map06	Collider Complex	1:48		1:04	:)
+map07	Enemy Caught		0:45		0:36	:)
+map08	Harmany			0:46		0:31	:|
+map09	Wormhole Zone		1:12		1:32	OMFG
+map10	Cosmodrome		2:35		1:46	:(
+----------------------------------------------------
+
+Total Time:					8:44
+======================================================
+
+  
+map01	Comeback
+  Red was right, the grab is too hard to be useful. I made just one small change
+  to the regular route: silent pacifist. It brings some entirely new pitfalls,
+  but no teleporting reinforcements are so sweet. My avg is, sadly, around 37s.
+
+map02	Jungle Spirits
+  Ouch. I'm used to 3x sec exits here, but also to a lot of dying, being stuck
+  on stupid skull sticks and other bullshit decorations. An unpredictable level.
+
+map03	Skull Island
+  Wow... such a smooth run shocked me. Best stuff in the demo. The grab can cause
+  an annoying time loss, but the exit jump is a true life-or-death matter.
+  (The bonus map10 death demo shows an useful trick when the jump goes wrong.)
+
+map04	Filth
+  I copied some of Red's safety measures to ease the route, but going for the BA
+  was just stupid, I had everything I needed. Not very elegant, could've been
+  under a minute, but keeping 75%+ health is far more important here.
+
+map05	Flooded Chapel
+  I pushed my luck, didn't I. :) I'm not comfortable with the sphere battle,
+  so I rely on doing the AV jump the hard way.
+
+map06	Collider Complex
+  Arrrghhh... my worst enemy in the episode. The final AV jump was so unreliable
+  for me, I had to take the bars down. A while before completing this run, I died
+  there 3 times in 20 minutes, that's at least 9 failed AV jumps in a row. :(
+
+map07	Enemy Caught
+  Red is a genius, the aim-up button shot is the trick of the year for me easily.
+  A trivial level with the BFG, although the manco fight is very sloppy.
+
+map08	Harmany
+  This is usually the easiest map for me, but I, erm, was too fat on the ledge. :p
+
+map09	Wormhole Zone
+  I'm going to pretend this didn't happen at all. All prboom+ users should kindly
+  press the pgdown key at this point...
+
+map10	Cosmodrome
+  I already died on map10 once and I almost did it again. This time I kept my cell
+  reserve, but I still botched the platform room very, very badly. Special mention
+  for an unnecessary ssg shot in the ship area that got punished deservingly.
+
+
+  Finally, I was getting a little crazy from this. :) My 1st 10exit, of course.
+  I started toying with pl2e1 at the end of August, but nothing really serious.
+  Then Red-XIII stunned me with his pioneer ep runs and suddenly I had to get down
+  to business. As Red mentioned, the strategy is basically: rewatch my TAS movie,
+  train the tricks, forget the dangerous ones and start grinding. And breathe deep
+  and count to ten every time you die in map06.
+
+  Red: Thanks for some ideas, feel free to copy some of mine and improve. :)
+
+author: dew
+e-mail: dewww@seznam.cz
+recorded on: 8. 10. 2010

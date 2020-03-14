@@ -31,6 +31,13 @@ ARGS_BASE = ['eternity-port/eternity', '-base', 'eternity-port/base', '-user', '
              '-nodraw', '-nosound']
 ARGS_DOOM = ['-iwad', 'DOOM.WAD']
 ARGS_DOOM2 = ['-iwad', 'DOOM2.WAD']
+ARGS_PLUTONIA = ['-iwad', 'PLUTONIA.WAD']
+
+ARGS_MAPPING = {
+    '1': ARGS_DOOM,
+    '2': ARGS_DOOM2,
+    'p': ARGS_PLUTONIA
+}
 
 ###################################################################
 ###################################################################
@@ -83,22 +90,25 @@ def run_program(command_line_args):
     # iterate the table entries
     index = 0
     commands_list = []
+
     for scenario in scenarios:
-        args = list(ARGS_BASE)
-        if scenario[0] == '1':
-            args.extend(ARGS_DOOM)
-        elif scenario[0] == '2':
-            args.extend(ARGS_DOOM2)
-        else:
+        arguments = list(ARGS_BASE)
+        extra_args = ARGS_MAPPING.get(scenario[0])
+        if not extra_args:
+            print('Unknown game type', scenario[0])
             continue
+        if command_line_args.folders and scenario[1] not in command_line_args.folders:
+            continue
+
+        arguments.extend(extra_args)
         if len(scenario) > 2:
-            args.extend(scenario[2:])
+            arguments.extend(scenario[2:])
         # now look in the folder with demos
         files = sorted(os.listdir(scenario[1]))
         for f in files:
             if f.lower().endswith('.lmp'):
                 demo_path = os.path.join(scenario[1], f)
-                args_complete = list(args)
+                args_complete = list(arguments)
                 args_complete.extend(['-fastdemo', demo_path])
                 temp_log_path = os.path.join('temp-logs', str(index) + '.txt')
                 args_complete.extend(['-demolog', temp_log_path])
@@ -123,8 +133,9 @@ def run_program(command_line_args):
     time_elapsed = time_end - time_start
 
     print()
-
-    print('Elapsed time:', time_elapsed, '; average per demo: ', time_elapsed / len(commands_list))
+    print('Elapsed time:', time_elapsed)
+    if commands_list:
+        print('Average per demo:', time_elapsed / len(commands_list))
 
     temp_file_list = [os.path.join('temp-logs', f) for f in sorted(os.listdir("temp-logs"), key=natural_keys) if
                       f.endswith(".txt")]
@@ -150,5 +161,6 @@ if __name__ == "__main__":
           "under certain conditions. For details read COPYING-testdemos.txt.")
     parser = argparse.ArgumentParser(description='Execute demos for Eternity in a batch.')
     parser.add_argument('--cpu', dest='cpu_count', help='Set the number of CPUs to do the job (default: all of them)')
+    parser.add_argument('folders', metavar='folder', nargs='*', help='optional list of folder names to filter in')
     args = parser.parse_args()
     run_program(args)

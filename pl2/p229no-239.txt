@@ -1,0 +1,13 @@
+WAD: pl2
+MAP: MAP29: Ticket to Eternity
+Time: 2:39
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+I like this map, but I didn't want to deal with monsters here, so I decided to
+make a nomonsters run of the level. The run could be tweaked for the better in
+a couple of places, but I'm happy overall.
+I also included a funny fail demo where a linedef doesn't trigger quite right.
+Watch it and find out what happens. ;)
+
+--Doomdaniel95

@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Iwad: Plutonia.wad      
+Pwad name: pl2.wad
+Maps:      14
+Skill:     4
+Category:  UV-Max
+Exe:       PrBoom-plus v2.5.0.8
+
+Time:      4:52
+
+Author: AconyX
+Email: AconyX@luukku.com
+
+Description:
+
+ - Thanks gggmork for route. Took me 6 hours and over 1000 tries, painful map I would say, 
+   but it's great in other words. :)

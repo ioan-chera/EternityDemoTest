@@ -1,0 +1,34 @@
+This is a Doom .LMP - Please forward it...
+
+p208-011.txt
+
+ p208-011.zip
+
+  p208-011.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 08 - Harmany
+
+
+  ================
+  Kills        3%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:11
+  ================
+
+
+  Description:
+
+  Hmm... Kimo lost 11 when he missed with that AVjump,
+  but this went quite easy. It's 11.77, so I wonder...
+  The start is smooth enough, but that imp's bump and
+  archie's lazy attack speed... it should be possible
+  to get a 10.
+  
+author: dew
+e-mail: dewww@seznam.cz

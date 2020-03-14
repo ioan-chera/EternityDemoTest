@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P232-115.TXT
+
+ P232-115.ZIP
+
+  P232-115.LMP - ULTRA vIOLENCE!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 32, "Go 4 it"
+
+  Kills     35%
+  Items     33%            +++++++++
+  Secrets    0%  and Time  +  1:15 +
+                           +++++++++
+
+  ############################################################################################################
+  # Description:  # Hey folks :) After some months I decided to give this a try again
+  ################# just to improve it of a little, and fortunately it happened pretty fast
+  # I didn't spent too much time om this, but I'm glad of finishing this, even because everything went good, 
+  # so to improve this I just have to be more crazy :)                                                    
+  # Enjoy it, see ya!!!
+  #    
+  ############################################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

@@ -1,0 +1,48 @@
+This is a Doom .LMP - Please forward it...
+
+p210-119.txt
+
+ p210-119.zip
+
+  p210-119.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 10 - Cosmodrome (by T.V.)
+
+
+  ================
+  Kills        19%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       1:19
+  ================
+
+
+  Description:
+
+  I hate myself for that ending. WHY?!?! 2 secs lost.
+  I gradually pushed the time from cca 1:28, but this
+  is the first one where I managed to do all the tricks
+  I had in mind. And exited. :)
+
+  The SR50 jump is pretty obvious. The linedef jump
+  at where the PE is.. not so much, I found it by pure
+  accident, but it's relatively easy. Thanks to Gusta
+  for some advice on how making it reliable. It's not
+  necessary and works even without monster boost, but
+  it helps to set the bridge lottery to 'always win'.
+  Also, there's a linedef dodge at the last bridge
+  platform thanks to which the revs aren't released.
+
+  I guess the 3rd archie was getting distracted and
+  died so easy as a reward for that 2nd bastard. And
+  yeah, that exit is just plain stupid :-/
+
+  Oh btw.. MOST ANNOYING FIRST 20SECONDS EVER?!
+  
+author: dew
+e-mail: dewww@seznam.cz

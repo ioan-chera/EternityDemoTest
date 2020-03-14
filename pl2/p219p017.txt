@@ -1,0 +1,31 @@
+This is a Doom .LMP - Please forward it...
+
+p219-017.txt
+
+ p219-017.zip
+
+  p219-017.lmp - Ultra-Violence Pacifist
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 19 - Hecknology (by Metabolist, Method and PerOxyd)
+
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:17
+  ================
+
+
+  Description:
+
+  That imp is a dick. I wanted 17, so here it is. It's lame and ugly,
+  seconds can be improved. Not sure if I want to, though. :)
+  
+author: dew
+e-mail: dewww@seznam.cz

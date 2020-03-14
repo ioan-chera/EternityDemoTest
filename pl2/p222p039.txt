@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P222p039.TXT
+
+ P222p039.ZIP
+
+  P222p039.LMP - ULTRA VIOLENCE PACIFIST!
+
+  Recorded using "Prboom-plus version 2.5.0.6"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 22, "Locus Perditus"
+
+  Kills     18%
+  Items     25%            +++++++++
+  Secrets   0%  and Time   + 0:39  +
+                           +++++++++
+
+  #####################################################################################
+  # Description: # Hey :) This shitty level needed to be improved on pacifist so I continued
+  ################ to try; after I realized that with old route I couldn't have a good time        
+  # I decided to try the arc-jump. Since you don't need a weapon uv-speed and pacifist can have
+  # the same time. But this time, the arc was slow but... the jump happened as a miracle :)
+  # SEE YA
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

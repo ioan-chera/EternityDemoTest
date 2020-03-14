@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P231s450tas.TXT
+
+ P231s450tas.ZIP
+
+  P231s450tas.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 31, "CyberNation"
+
+  SEGMENTED DEMO!
+
+  Kills      ??%
+  Items      ??%            ++++++++
+  Secrets   100%  and Time  + 4:50 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi!  
+  #################  I'm not gonna lie, I'm quite sad that I did this before doing it in no-tas,
+  # but after dying so many times after exiting the chaingunners area and at the final part,
+  # I decided to do this. Definitely possible in no-tas too.
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

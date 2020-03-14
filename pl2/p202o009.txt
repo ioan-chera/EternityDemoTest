@@ -1,0 +1,14 @@
+Game:           Doom2 Plutonia (1.9f)
+File:           PL2.wad
+Category:       nomonsters
+Mission:        map02
+Skill:          4
+
+Time:           9.83
+
+
+Comments:       I did enjoy that jump. Sorry Gusta for the bad joke in P201o015.txt.
+                Nice demos kunkun the newcomer :)
+
+
+Author:         Looper

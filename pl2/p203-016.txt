@@ -1,0 +1,32 @@
+This is a Doom .LMP - Please forward it...
+
+p203-016.txt
+
+ p203-016.zip
+
+  p203-016.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 03 - Skull Island (by Gusta and Pipicz)
+
+
+  ================
+  Kills        6%
+  Items        1%
+  Secrets      0%
+  ----------------
+  Time       0:16
+  ================
+
+
+  Description:
+
+  Hey Kimo, exactly 1.00 faster. GL with 15! :)
+  I lost two earlier 16 runs by falling on the SR50 jump.
+  And the imps/sargeants bodyblocks raged me to insanity.
+
+author: dew
+e-mail: dewww@seznam.cz

@@ -1,0 +1,25 @@
+Pwad:      pl2.wad (Plutonia 2)
+Map:       map30 (The Gatewatcher by T.V.)
+Category:  NoMo
+
+Iwad:      Plutonia.wad
+Exe:       prBoom+ 2.5.1.4 w/ -complevel 4 (Final Doom)
+
+------------------
+Time:      0:33.54
+------------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+Looper in P230o038.txt>> "37 might be a challenge."
+
+It did take me several weeks to figure out how to manipulate IOS into spawning a vile every time, heh. In the end I printed out Doom's lookup table, fired up xdre and watched what shooting does to the LUT index pointer. Arch-voila!
+
+For anyone seeking 32s: 8 continuously fired chaingun bullets and 1 pistol shot (a little dance is optional). I got bored of the grind.
+
+Shoutout to Looper and dr.sean for giving me some helpful advice! 
+
+
+Recorded:  April 21st, 2013

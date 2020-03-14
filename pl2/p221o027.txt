@@ -1,0 +1,14 @@
+Pwad: Pl2.wad    
+Pwad name: Plutonia 2
+Maps:      21
+Skill:     4
+Category:  NoMonsters
+Exe:       PRBoom+ v2.5.0.8
+Time:      0:27
+
+Author:	   Hock   
+
+-complevel 4
+
+Tool-Assisted Speedrun
+

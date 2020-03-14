@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P229s103.TXT
+
+ P229s103.ZIP
+
+  P229s103.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 29, "Ticket to Eternity"
+
+  Kills     ??%
+  Items     ??%              ++++++++
+  Secrets   100%  and Time   + 1:03 +
+                             ++++++++
+ 
+  ############################################################################################################
+  # Description:  # Hi :) Just an improvement to my old 1:48
+  ################# Enjoy it.
+  ############################################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

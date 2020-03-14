@@ -1,0 +1,34 @@
+This is a Plutonia2 demo entry for map01 
+
+p2010150.lmp
+p2010150.txt
+
+p2010150.zip 
+
+Recorded using Chocolate Doom Version 1.2.1
+Choco.exe -iwad plutonia.wad -file pl2.wad -playdemo p2010150.lmp
+
+
+Plutonia2  - Level 01 - Comeback! 
+
+Kills    100%
+Items     15%
+Secrets  100%
+-----------------
+Time:   01:50
+       -------
+
+Description:
+
+Great first map, fantastic playability and design. Obviously enginered with 
+the true plutonia spirit in mind :) 
+
+As for the demo, not too impressive, having a hard time getting my rusty
+fingers working. I'll try some more maps first now and maybe give it another
+go later...
+
+
+
+
+Author: Henning Skogsto
+Email: Hskogsto@gmail.com

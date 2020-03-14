@@ -1,0 +1,14 @@
+PWAD		PL2.wad
+IWAD		plutonia.wad
+MAP		29
+TIME		1:52.83
+PORT		prboom-plus-2.5.1.3
+DATE		2013-07-03 23:57 at UTC+3hours
+COFFEE		yes please
+PLAYER		kunkun
+
+So here's the sub-2min run. I didn't deserve to get that lucky with the glide since
+the setup took forever and overall it would be nice if it didn't look like this was
+done by a drunk guy playing with his elbows. 
+
+		

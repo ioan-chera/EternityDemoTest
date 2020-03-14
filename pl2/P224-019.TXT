@@ -1,0 +1,50 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia 2
+Maps:      24 ("Outpost of the Evil Dead" by Erik Alm)
+Skill:     4
+Category:  Speed
+Exe:       Doom2.exe v1.9 (Final Doom version)
+
+Time:      0:19
+
+Author:    Eric "The Green Herring" Baker
+Email:     eabaker@san.rr.com
+HP:        http://disasterlabs.com/thegreenherring/
+YouTube:   http://youtube.com/user/TheGreenHerring
+
+Comments:  
+Earlier, I did a demo on Sam Woodman's silly one-level demo wad from the first
+iteration of Plutonia 2, the second iteration of which I contributed music to,
+and helped finish by the end of 2008.  Then, as demos started pouring in for
+Plutonia 2 proper, I decided to make my first-ever Plutonia 2 demo release,
+which is thus a far better candidate for my first demo of 2009.
+
+Of course, it's for the level that uses my favorite song out of the ones I
+composed for the project.  Hearing only the first nineteen seconds of it,
+however, is admittedly quite unfair. ;)
+
+I found this jump near the end of Plutonia 2's development, and when I asked
+about it, it turned out Vincent Catalaá added it in.  It's an interesting trick,
+but it does have its downsides: If any enemy hits you in mid-dash, you can count
+on your jump failing outright.  Oh, and if one of the imps walks near the edge
+of the farthest platform, don't expect your second jump to succeed.  In other
+words, this is a luck-based run.  Which promptly becomes worse when you have to
+slip through both a mancubus and a cyberdemon.  Yeah.  My first exit was a :21
+demo, followed by a :20 demo, and finally this :19 run.  I spent at least an hour
+trying to improve it, but ultimately, I gave up and decided that breaking :20 was
+good enough.
+
+Incidentally, this is one of the only levels that made it to the second iteration
+from the first.  Most of the rest were scrapped because of how shitty they were.
+Having tried to play the old version myself, I have to say this was a wise
+decision.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- January 5, 2009 -
+
+P.S. Fun fact: As of this writing, I have never completed this level the way it
+was intended.  Go figure.

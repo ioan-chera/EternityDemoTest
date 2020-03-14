@@ -1,0 +1,18 @@
+Pwad name: Plutonia 2
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Map:       25 ("Black Ice" by Gusta)
+Skill:     4
+Category:  UV Speed/Pacifist
+Exe:       PrBoom+ 2.5.0.1 -complevel 4
+
+Time:      0:27
+
+Author:    Kimo Xvirus
+Email:     kimo_xvirus@hotmail.com
+
+Comments:
+This run is pretty good I've first got a 0:34 then 0:29 then a bad 0:27
+where I made a very stupid mistake but somehow got 0:27, I tried to improve
+it and got this 0:27 which is a bit faster.
+
+- January 25, 2009 -

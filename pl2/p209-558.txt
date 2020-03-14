@@ -1,0 +1,8 @@
+Pwad name: Plutonia 2
+Map:       09 "Wormhole Zone" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.2 -complevel 4
+Time:      5:58
+
+Monakhov Vladimir
+skepticist@mail.ru

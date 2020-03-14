@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	PL2.WAD
+Pwad name: Plutonia 2
+Maps:	10
+Skill:	5
+Category:	NM-Speed
+Exe:      	PRboom+ 2.5.1.4 cl4
+	with advanced HUD
+-------------------------------------------
+Time:     	1:43
+-------------------------------------------
+Comments:  
+There's two routes I tried for this map. The one from Dew's UV Speed route looked too hard and inconsistent for me, so I attempted this one instead. My goal time under 2 minutes, and this destroys that! Mainly because I got unbelievably lucky at the end and just charged through to the exit, my plan was to wait in the back and kill them slowly, but I had tons of health for whatever reason, and just went in. Nice run :)
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

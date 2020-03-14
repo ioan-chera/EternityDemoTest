@@ -1,0 +1,15 @@
+           Plutonia 2
+   Map 15: Where Hate Runs Red
+        Map Author: Kira
+----------------------------------
+          p215p006.lmp
+
+Pacifist in 0:06.89
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 4
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Trick is a random occurence, and last time I tried Pacifist months ago when I recorded my -nomonsters run, the arch-viles would get in my way every time. Decided I'd give it another shot, and this demo came after maybe 8 minutes of play. First time I got the trick , the arch-viles just gladly opened the path up. As a matter of fact, this demo is two tics faster than my -nomonsters demo, which is very lucky for me.

@@ -1,0 +1,32 @@
+These are Doom .LMPs - Please forward it...
+
+
+Recorded using Prboom 2.4.7 -complevel 4
+final Doom2.exe -file pl2.wad -playdemo p201t514
+or prboom -iwad plutonia.wad -file pl2.wad -playdemo p201t514
+
+  Ultra-Violence Tyson
+
+  Plutonia 2 - MAP 01 - Comeback
+
+
+================
+Kills      100%
+Items       ??%
+Secrets     50%
+----------------
+Time       5:14
+================
+
+
+Description:
+
+I just wanted to punch few bastards onto their ugly faces. The demo is very slow because I got both
+mancubi into very uncomfortable position so it took me a while to handle with them. The time could
+go at least one minute faster, maybe even below 4 mins with more stunning play.
+Includes also a bonus demo if you want to watch one mancubus attacks another one without any 
+success :-)
+
+
+Adolf "Gusta" Vojta
+hita@seznam.cz

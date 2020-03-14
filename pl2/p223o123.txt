@@ -1,0 +1,19 @@
+WAD: PL2
+MAP: MAP23: Aztecorum
+Time: 1:23.31
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: March 19, 2013
+
+Hmm, I think in nomonsters you just have to go the traditional route.
+There's no super cool arch-vile jump to the switch which lowers the yellow
+skull posts. :)
+
+I didn't spend too much time on this (was too lazy to try to work down
+the .31), so it should be improvable.
+
+I hope this serves as a demo to get somebody started on making a nice run
+for this map... at least with this route. There may be better in nomonsters,
+but I am not currently aware of any.
+
+--Doomdaniel95

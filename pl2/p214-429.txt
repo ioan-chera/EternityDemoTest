@@ -1,0 +1,31 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      PL2.wad                     
+Pwad name: Plutonia 2
+Maps:      MAP14
+Skill:     4
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.1.4test -complevel 4
+
+Time:      4:29
+
+Author:    Plut
+Done September, 7, 2013
+
+Very nice map with cool atmosphere. Still very far from ideal, improve it!
+
+
+
+
+
+
+
+
+
+
+                                               
+
+
+
+

@@ -1,0 +1,25 @@
+p228-114.txt
+  p228-114.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.3 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 29 - The Bloodwall (by Eternal)
+
+  ================
+  Kills        11%
+  Items        18%
+  Secrets      16%
+  ----------------
+  Time        1:14
+  ================
+
+  Description:
+  Second exit. Small time wastes everywhere, perhaps most notable is the ~3s holdback
+  with those pesky HKs. They're rather random, at least half my runs ended on them.
+  Also, the elevator sequence, while impressive at first, lost it's appeal when I had
+  to sit through it for 30th time. :)
+
+  Included a zombie demo. Chainies owned me almost instantly after, but it's there.
+
+author: dew
+e-mail: dewww@seznam.cz

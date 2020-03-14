@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P210p125.TXT
+
+ P210p125.ZIP
+
+  P210p125.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 10, "Cosmodrome"
+
+  Kills     15%
+  Items     11%            +++++++++
+  Secrets   20%  and Time  +  1:25 +
+                           +++++++++
+
+  ########################################################################################
+  # Description:# Hi :)
+  ############### Pretty straightforward, though you need health to do the final part.
+  # Not a good time, UV speed run differs from this for the final part and I didn't use the
+  # same route since it's way too frustating IMO.
+  # See ya.
+  ########################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

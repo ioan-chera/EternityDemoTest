@@ -1,0 +1,39 @@
+This is a Doom .LMP - Please forward it...
+
+p206p024.txt
+
+ p206p024.zip
+
+  p206p024.lmp - Ultra-Violence Pacifist
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 06 - Collider Complex (by Metabolist and PerOxyd)
+
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      20%
+  ----------------
+  Time       0:24
+  ================
+
+
+  Description:
+
+  I did a run with the same route as speed, just letting
+  the chainies to massacre themselves. I was like "oh that
+  was easy". Then I realized that "you're hurting those poor
+  piggies with barrels, you noob". So it's this, because
+  I don't see myself surviving the barrel jump triggered
+  by monster fire.
+  And I'm pretty sure that if someone asked the second arch
+  if he's a retard, he'd answer "No, I'm a magical fairy
+  merry-go-round, wheeee" while running in a circle until
+  his head started to spin and he'd puke all over the BFG.
+
+author: dew
+e-mail: dewww@seznam.cz

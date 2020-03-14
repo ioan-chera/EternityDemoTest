@@ -1,0 +1,34 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+	
+Iwad:      plutonia.wad
+Pwad:      pl2.wad
+Pwad name: Plutonia 2
+Map:       1-33
+Skill:     Ultra Violence
+Category:  Uv-Fast (uv-Max with -fast parameter)
+Port used: PrBoom+ 2.5.1.4
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+
+------------------
+
+
+Comments:
+my collection of uv-fast demos for the 33 maps of plutonia 2. The archive contains by the way only 32 uv-fast records (most maps weren't challenged before) instead of 33. Reason? the shortest map gave me really headaches: map30. I always hated the rocket-in-the-hole-games and I decided to stop wasting my time with that level, and post a failure demo of it instead :P
+
+very important note: I began my very first experiences under this category with those videos, so it might be natural to see a slight improvement with the levels raising. In other words, some of the early demos are slow, and my playing may look quite unconfident. It often was. I probably can beat most of those demos here easily now. This project started almost 2 years ago, and took so long due to my often lack of time and quits (mostly due to work, and other games I spent time with).
+I for sure will continue recording under uv-max and uv-fast in the next times. Hope you enjoy the videos, some levels were (imho) absolutely not tought for this category and were really hard.
+
+All the demos are/will be uploaded on my youtube channel, with a proper description each time.
+
+ciao
+Manuel

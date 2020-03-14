@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+P209-012.TXT
+P209-012.ZIP
+
+P209-012.LMP
+
+Recorded using Final Doom Version 1.9
+Doom -File PL2.WAD -Playdemo with Version 1.9
+
+Plutonia2 - Level 09
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets      ?%
+
+ Time        :12
+)---------------(
+
+Very fun map for pacifist. I didn't
+try a lot of spots for the 'hello'
+shot to move all those former humans.
+
+Maybe is it possible to jump straight
+to the outside but here I didn't loose
+too much time I think.
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

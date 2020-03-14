@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P206n-27.TXT
+
+ P206n-27.ZIP
+
+  P206n-27.LMP - Nightmare!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 06, "Collider Complex"
+
+  Kills     ??%
+  Items     ??%            ++++++++
+  Secrets   40%  and Time  + 0:27 +
+                           ++++++++
+ 
+  #####################################################################################
+  # Description:  # Hi :) My old time definitely needed an improvment and here it is. 
+  ################# I think I made a mistake going for invisibility, many seconds can
+  # be improved.
+  # See ya :)
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

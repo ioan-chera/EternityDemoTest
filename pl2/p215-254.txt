@@ -1,0 +1,8 @@
+Pwad name: Plutonia 2
+Map:       15 "Where Hate Runs Red" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.2 -complevel 4
+Time:      2:54
+
+Monakhov Vladimir
+skepticist@mail.ru

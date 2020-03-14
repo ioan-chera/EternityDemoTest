@@ -1,0 +1,21 @@
+p229p055.txt
+  p229p055.lmp - Ultra-Violence Pacifist
+
+  Recorded using prboom-plus 2.5.0.2 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 29 - Ticket to Eternity (by Gusta and Pipicz)
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      ?%
+  ----------------
+  Time       0:55
+  ================
+
+  Description:
+  A quick effort to fill the table. It's possible to skip the invul, I managed to do it
+  once, then failed the AV jump. Maybe later, I just want to send the demos already. :)
+
+author: dew
+e-mail: dewww@seznam.cz

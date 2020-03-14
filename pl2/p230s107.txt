@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P230s107.TXT
+
+ P230s107.ZIP
+
+  P230s107.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 30, "The gate-watcher"
+
+  Kills     200%
+  Items     50%              ++++++++
+  Secrets   100%  and Time   + 1:07 +
+                             ++++++++
+
+  ####################################################################################
+  # Description:# Hi.
+  ############### It's true that this is 3 seconds faster then the current record, but I
+  # am not done with this yet, there are some mistakes here so I'm not really satisfied.
+  # See ya. 
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

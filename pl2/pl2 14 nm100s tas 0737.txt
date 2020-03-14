@@ -1,0 +1,23 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Plutonia 2
+Pwad:pl2.wad       
+
+Maps:      14 "Charon Eclipse"
+Skill:     5
+Category:  Tool-assisted nightmare with 100%secret 
+Exe:       glbomm.exe (prboom PLUS V 2.5.0.7 win 32) complevel 4
+Tool: prboom-plus 2.5.0.7 with -recordfromto command
+
+Time:      07:37
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr     
+
+Comments: first of all it's my first TAS demo, 
+so be indulgent if you don't find it as impressive 
+as Akse's ones(or yours mr Olivera).
+tough map on nightmare(especially with 100%secret).
+teleporting and respawning monsters made thing quickly chaotic.
+Don't think it's possible without tool-assist.

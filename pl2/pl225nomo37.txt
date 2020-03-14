@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	PL2.WAD 
+Pwad name: Plutonia 2
+Maps:	25
+Skill:	4
+Category:	No Monsters
+Exe:      	PRboom+ 2.5.1.4 cl4
+	with advanced HUD
+-------------------------------------------
+Time:     	0:37
+-------------------------------------------
+Comments:  
+Fun map for nomo, but those freakin' stairs man!
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

@@ -1,0 +1,53 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia2 (PL2.WAD)
+Map:       26 ("Plutopia" by Thomas van der Velden)
+Skill:     4
+Category:  UV-Max
+Exe:       Doom2.exe v1.9 (Final DooM Version)
+
+Time:      11:22
+
+Author:    pa1ny
+Email:     pa1ny@gmx.de
+
+Files:
+p2261122.txt
+p2261122.lmp
+
+p2261122.zip
+
+Recorded using prboom-plus 2.5.0.2
+Final Doom compatibility (-complevel 4)
+Play: DOOM2.EXE -file plutonia.wad pl2.wad -playdemo p2261122
+or prboom -iwad plutonia.wad -file pl2.wad -playdemo p2261122
+
+Plutonia 2 - MAP 26 - Plutopia
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time      11:22
+================
+
+
+Comments:
+
+OMG I'm still jittering .. it's a first exit of course :)
+Whew, can't really concentrate to write well right now .. anyway here we go:
+
+Ok now, so first of all this is my favorite map of PL2 or even the best map
+for DooM I've ever seen in my life. It's almost a shame to speed- oder maxrun
+this fantastic masterpiece. First time I played it, I couldn't stop wondering
+about the amazing leveldesign. That snake-demonized dungeon ist just epic.
+
+How many times did I die trying this? Don't ask! Fortunately this map don't
+bother me cuz I'm addicted to it (see above). Anyway this demo is far from
+perfection. Maybe I'll improve it myself if there's no other challenger with
+more considerable skills. Doing this below 10 should definitely be possible.
+
+- June 17, 2009 -

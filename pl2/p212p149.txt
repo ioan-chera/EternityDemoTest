@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P212p149.TXT
+
+ P212p149.ZIP
+
+  P212p149.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 12, "Imprisoned"
+
+  Kills     23%
+  Items     25%             ++++++++
+  Secrets    0%  and Time   + 1:49 + 
+                            ++++++++
+
+  ########################################################################
+  # Description:  #  Hi :) 
+  #################  Not hard since you don't have to shoot, therefore no
+  # monsters will teleport. But it's also not easy since some luck is needed to dodge
+  # some mosters, but this time went fine. I don't know why I didn't take the
+  # blue sphere, I guess I'm an idiot xD
+  # Improvable time with good monster cooperation.
+  # See ya.
+  #########################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

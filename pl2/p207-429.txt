@@ -1,0 +1,8 @@
+Pwad name: Plutonia 2
+Map:       07 "Enemy Caught" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.1 -complevel 4
+Time:      4:29
+
+Monakhov Vladimir
+skepticist@mail.ru

@@ -1,0 +1,31 @@
+This is a Doom .LMP - Please forward it...
+
+p206-023.txt
+
+ p206-023.zip
+
+  p206-023.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 06 - Collider Complex
+
+
+  ================
+  Kills        2%
+  Items        ?%
+  Secrets      20%
+  ----------------
+  Time       0:23
+  ================
+
+
+  Description:
+
+  Wow... this is better than I expected! Not much to improve :)
+  Not having to grab RL saved me over 1:30 from my best RJ run.
+
+author: dew
+e-mail: dewww@seznam.cz

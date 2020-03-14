@@ -1,0 +1,16 @@
+=--------------------------------------------------=
+
+Plutonia - MAP18 in 9:25 
+-complevel 4
+
+Took it easy in this run. Had too many tries of
+unlucky deaths, but got this time in the end.
+
+=--------------------------------------------------=
+
+Author: Nevan/Nevanos
+Youtube: http://www.youtube.com/user/Nevanos
+Port: PRBoom-Plus
+Pwad: pl2.wad
+
+=--------------------------------------------------=

@@ -1,0 +1,42 @@
+This is a Doom .LMP - Please forward it...
+
+p231-422.txt
+
+p231-422.zip
+
+p231-422.lmp - Ultra-Violence Max
+
+Recorded using The Final Doom Version 1.9
+Doom2 -PlayDemo with The Final Doom Version 1.9 -pl2.wad
+
+
+Plutonia 2 - MAP 31 - Cybernation
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       4:22
+================
+
+
+Description:
+
+A few hours work, so this run is not very good. 
+At least, 10 - 15 seconds should be saved. Under 4 min is
+probably possible, but very hard work is necessary to get it.
+
+Pl2 has a lot of bugs, and correct UV-Max is impossible in
+some maps, but they haven't been fixed for a long time.
+I don't intend to do such hard work for pl2 until they are fixed
+and the final version is released, though I don't know whether 
+pl2 team really do it, or not.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

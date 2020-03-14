@@ -1,0 +1,19 @@
+           Plutonia 2
+        Map 26: Plutopia
+Map Author: Thomas van der Velden
+----------------------------------
+          p226-338.lmp
+
+UV-Speed in 3:38
+
+    Kills   - 47%
+    Items   - 34%
+    Secrets - 25%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 4
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: First exit. Just wanted to do a new trick (line skip that allows me to skip killing the cyber) and some more aggressive strats here and there. Otherwise, this run kinda sucks to do, and I wouldn't want to optimize too much.

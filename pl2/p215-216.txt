@@ -1,0 +1,47 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+	
+Iwad:      Plutonia.wad
+Pwad:      Pl2.wad
+Pwad name: Plutonia 2
+Map:       15
+Skill:     Ultra Violence
+Category:  Uv-Max
+Port used: PrBoom+ 2.5.1.4
+Time:      02:16
+Complevel: 4
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+Date:	   18/01/2013
+
+------------------
+
+
+Comments:
+
+jesus I almost had lost hopes in getting this. A lovely and exciting map created by Kira, one of my favourite mappers.
+The whole design is very "plutonia styled" with wood themes and challenging fights and traps.
+
+This started to be one of my "dream demos" after I saw skepticist and kimo's uv-max of those (02:36 and 03:27). Map is pretty hard if you don't know what will happen and aren't perfectly ready for next danger. First of all playing "silent" in the first part of the level is quite useful, to delay the spawning of the chaingunner in the first cyber area, and then for all the cacos, archvile and PEs floating... better wait and try some luck once the BFG and RL are grabbed :)
+In order to reach alive the exit here, being cautios or doing no mistakes isn't really enough everytime: some little unluck can get you killed no matter what. Some crap lost soul blocking your way, some archvile acting like an asshole or the cyberdemon being particularly smart, can mean surely death anytime. And the fact many little key factors have to be planned and to be executed properly, makes getting a good time in this map particularly annoying (okay, at least was for me). I rather quickly had a decent 02:23 (to give you an idea, on 31/12/12), but I had the awful feeling it wasn't good enough for this map, and I kept demorecording. for more than 10 days I didn't really get close to the time again. Finally after almost 2 weeks (played 30min-2h per day or the likes when I could) I scored again the very same time. I still made some mistakes or had wasted precious seconds in some stupid ways, so i definitely wanted anything below 02:20.
+Things that MUST go right to be allowed to dream this exit time are the following:
+1) the cyber should be telefragged without rocketing you from platform, or you'll be blasted from hitscanners shortly afterwards
+2) lost souls should not block the access or the jumping to the megasphere secret (yea this happened quite often)
+3,4 &5) the revenants shouldnt start shooting 450 missiles at you right away, and the cyber should either move the fuck out of that small room, or get hit and start infighting to allow you hit switch and pass. the cyber should also not start fighting IN the very room, or 15-20s will be wasted
+6) again lost souls should not be in the narrow corridor to the main area, since you don't want to shoot yet, or all the cacos and PEs will spawn before you grab the BFG
+7) the archviles should stay closest possible, and not blasting you down the platform
+8) returning to the cyber fighting the revenants, the cyber is best to be winning, or you 'll find all the revenants resurrected by the AV, and the cyber should not rocket you down right after you teleport in the area. (mind the 1/3 of second you are "stuck" after the teleport? yea. imagine cyber firing you exactly then)
+9) the cacos must teleport in before you are back. I had a failed attempt of 02:17, for those bitches not teleporting
+10) the final archvile should attack you straight to the secret exit or you have wasted the whole run
+
+I might have missed something, or maybe I didn't quite get some good ideas to get better times here, so it was just very time&patience-comsuming in order to get chances of good runs. Most failed upon the 2 cybers behaving btw.
+
+This was my dream demo number 3, after ks21, and ks16 records. Some of those demos in my list aren't particularly optimized times, but maps are amazing or were a particular challenge for me... or a bit of both :) Most of them are levels I gave up trying or never tried to improve for a reason or another. This was really time consuming, and too bad I failed once that silly jump to the megasphere, gladly rest went very good!

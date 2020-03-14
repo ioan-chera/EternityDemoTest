@@ -1,0 +1,28 @@
+Pwad:      Plutonia 2 by Various
+Map:       12
+Category:  UV Max
+
+Iwad:      Plutonia.wad
+Exe/Comp:  PrBoom+ 2.5.0.7/Comp Level 4 
+
+-------------------
+Time:     4:57
+-------------------
+
+Author:	   Qaatar
+Email:     Qaatar78@hotmail.com
+
+Comments:
+
+Route credit goes to Nevan, who has the much better and cleaner demo.  Time sometimes isn't everything.
+
+Thought the current record's time would be easy to beat due to the player I had not heard of (Nevan), but boy, was I wrong.  
+This required quite a few hours of work, but I finally got it to under 5.
+
+After I handled the yellow key area reasonably well, I got extremely nervous due to the fact that most of my attempts did not make it past the rocket launcher room. 
+My hands started to shake, but thank goodness it did not affect my play too much, although my movement went from bad to atrocious.
+
+As with any other demo I make, the time isn't optimal because of skill limitations.  
+4:4x/4:3x are reasonable targets with better movement and shot selection/more infighting.
+
+Recorded:  September 26, 2010

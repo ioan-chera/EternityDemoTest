@@ -1,0 +1,15 @@
+         Plutonia 2
+         map25 - Black Ice
+----------------------------------
+          p225-025
+
+UV-Speed / Pacifist in 0:25.
+
+Recorded with: glboom+ v2.5.1.3
+
+
+
+Skill level: Ultraviolence
+Author: darkreaver
+
+Comments: crappy movement and bumping into monsters n shit, but still got 00:25

@@ -1,0 +1,28 @@
+This is a Doom .LMP - Please forward it...
+
+p228-108.txt
+ p228-108.zip
+  p228-108.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.5
+  Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 28 - The Bloodwall (by Eternal)
+
+
+  ================
+  Kills        10%
+  Items        18%
+  Secrets      16%
+  ----------------
+  Time       1:08
+  ================
+
+
+  Description:
+
+  This is one of my first tries on this map and 2nd exit... after that i gave it a many and many tries but i wasn't
+  able to improve time... one needs to be very lucky to everything work out as he wants from start to exit.
+
+author: Method
+e-mail: methodcz@gmail.com

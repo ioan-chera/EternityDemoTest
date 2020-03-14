@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P217n-16.TXT
+
+ P217n-16.ZIP
+
+  P217n-16.LMP - Nightmare!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 17, "Nuclear Horror"
+
+  Kills      2%
+  Items      0%             ++++++++
+  Secrets    0%  and Time   + 0:16 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :)
+  #################  Not sure what to think, I always tried this by killing all monsters
+  # in the blue door zone, but I always failed. So I decided to try uv way, and I got this.
+  # It's improvable, but I won't play this again for a very long time!
+  # See ya.
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

@@ -1,0 +1,27 @@
+TAS Demo
+
+Pwad:      Plutonia 2 by Various
+Map:       6
+Category:  UV Speed TAS
+
+Iwad:      Plutonia.wad
+Exe/Comp:  PrBoom+ 2.5.0.7/Comp Level 4 
+
+-------------------
+Time:     0:13
+-------------------
+
+Author:	   Qaatar
+Email:     Qaatar78@hotmail.com
+
+Comments:
+
+TAS features used: Permanent SR-50/SR-50 turns and slow motion (50%).
+
+Just a fun little TAS demo for kicks, made in a couple of hours.  I turned down the mouse sensitivity (I normally use a very high setting), but it still came out like crap.
+
+I don't know how some people can make smooth TAS demos, but unless one is a masochist who enjoys dizzy spells, please watch with "Smooth Demo Playback."  
+
+12 seconds MIGHT be possible, but would require some seriously precise movements.
+
+Recorded:  September 26, 2010

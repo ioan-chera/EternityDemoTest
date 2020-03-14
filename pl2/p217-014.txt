@@ -1,0 +1,30 @@
+This is a Doom .LMP - Please forward it...
+
+p217-014.txt
+
+ p217-014.zip
+
+  p217-014.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 17 - Nuclear Horror
+
+
+  ================
+  Kills        1%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:14
+  ================
+
+
+  Description:
+
+  Epic exit :))
+
+author: dew
+e-mail: dewww@seznam.cz

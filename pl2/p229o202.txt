@@ -1,0 +1,11 @@
+IWAD: Plutonia
+PWAD(s): PL2
+Authour of PWAD: Various
+Recorded with: PrBoom Plus 2.5.1.3
+Category: NoMonsters
+Map: 29
+Complevel: 4
+Time: 2:02.69
+
+I wanted to get sub 2 mins, but not THAT bad since with a better route you could beat it on first exit anyway. One obvious improvement would be going straight for the red key and gliding past the pillars. As an aside, I thought you needed red key to lower those pillars. Wouldn't surprise me if there was some crazy magic trick for skipping the entire level with a godlike rocket jump. How I ended up landing where I did after the drop to "hell" I have no idea.
+-kunkun

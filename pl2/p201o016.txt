@@ -1,0 +1,15 @@
+           Plutonia 2
+        Map 01: Comeback
+----------------------------------
+          p201o016.lmp
+
+Nomo Speed in 0:16.60
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 4
+
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Wasn't sure if 16 was possible unassisted, but I wanted to see if I can clean up my 17. Eventually, it was clear to me that I could get 16, and I had a 16.97 before this one, but that looked pretty ugly as well. Getting this run took a lot of tries...

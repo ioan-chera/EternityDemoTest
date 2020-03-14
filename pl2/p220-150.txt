@@ -1,0 +1,66 @@
+This is a Doom .LMP - Please forward it...
+
+p220-150.txt
+
+ p220-150.zip
+
+  p220-150.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 20 - Lurking Fear
+
+
+  ================
+  Kills        13%
+  Items        ?%
+  Secrets      50%
+  ----------------
+  Time       1:50
+  ================
+
+
+  Description:
+
+  I avoided a speedrun on this map at first, simply
+  because it seemed too violent. There's so much
+  switch-flipping, necessary linedef triggering and
+  backtracking with more and more monsters porting
+  in... it looked like one of those 5min 'speeds'.
+  This feeling was reinforced when Gusta told me
+  Angus didn't want any intentional major shortcuts 
+  that would skip large parts of the map.
+  
+  Well guys, I'm glad to disappoint your designer
+  intentions, I caught a big one. :) Finding this
+  took some detective work in godmode and the demo
+  might not be very clear on what's going on, so
+  let me explain:
+
+  The final door is opened by a red-labeled switch
+  that doesn't actually require the RK. This area
+  can be accessed by an archie jump from the other
+  side (where the BFG is). There's a wall blocking
+  that area, but it is lowered after stepping off
+  the teleporter leading to the YK, when cacos port
+  in. That way, just the BK is necessary, but it's
+  trap makes the AVjump practically impossible due
+  to health and crowd problems. Therefore, linedef
+  skipping grab... makes the rest of the route kinda
+  easy. Phew, wall of text. :)
+
+  There's a bonus glide, saves cca ~10s of hunting
+  the bars switch. It's easyish as far as glides go.
+  And a second bonus of falling from the elevator,
+  silly me. On the other hand, I've never been able
+  to do the grab if I didn't screw something else
+  already. Cost me 5secs or so. The rest of the run
+  is relatively smooth and fast. Oh, I missed exit
+  so it's not 1:49, ugh.
+  I hate/love the map now.
+  
+
+author: dew
+e-mail: dewww@seznam.cz

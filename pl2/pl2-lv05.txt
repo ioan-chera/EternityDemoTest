@@ -1,0 +1,49 @@
+
+pl2-lv05.txt
+pl2-lv05.ZIP
+
+uv05-009.LMP
+nm05-010.LMP
+
+uv05-009.avi
+nm05-010.avi
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+  IWAD   - PWAD
+
+Plutonia - pl2 - Level 05 - "Flooded Chapel"
+
+ Ultra-Violence
+ --------------
+
+Kills   0 %
+Items   0 %
+Secrets 0 %
+
+	Time 00:09
+
+  Nightmare
+  ---------
+
+Kills   4 %
+Items   0 %
+Secrets 0 %
+
+	Time 00:10
+
+Description:
+
+When I played this map for the 1st time and came across the gap with the arch-vile, 
+I thought this platform was a bit low.
+when i was attacked by archvile it threw me onto the platform and then I was next to the exit.
+It looks very easy, and turned out to be exactly that when i played it :)
+nothing special...
+The time is not unbeatable, I only want to show you how it works.
+
+
+error
+
+
+termrork@web.de

@@ -1,0 +1,8 @@
+Pwad name: Plutonia 2
+Map:       02 "Jungle Spirits" 
+Category:  Tyson (TAS)
+Exe:       PrBoom+ 2.5.0.2 -complevel 4
+Time:      6:44
+
+Luke Annett
+luke.annett@gmail.com

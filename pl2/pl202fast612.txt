@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	pl2.wad
+Pwad name: Plutonia 2
+Maps:	02
+Skill:	4
+Category:	UV -Fast
+Exe:      	PRboom+ 2.5.1.4 cl4
+	with advanced HUD
+-------------------------------------------
+Time:     6:12
+-------------------------------------------
+Comments:  
+I think this run is pretty decent. It is a bit more aggressive than blob's run, and I feel that my routing is a tad more concise. And of course, my luck wasn't terrible ;)
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

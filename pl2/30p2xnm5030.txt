@@ -1,0 +1,206 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30p2xnm5030.TXT
+ 30p2xnm5030.ZIP
+
+   30p2xnm5030.LMP 
+
+====================================================================================
+					Plutonia 2
+			TOOL ASSISTED Nightmare Speed Movie
+====================================================================================
+
+  Recorded using prboom-plus 2.5.1.1 with Final Doom compatibility (-complevel 4)
+  The only tool used is re-recording.
+
+  ##################################################################################
+  # Description:  #  Hi! :) I decided to do this when I learned how to do segmented 
+  #################  demos. It took me 3 days, though there is a 2 week of blank
+  # because of uni, so I did from 1-23 in 2 days and 24-30 in another day.
+  # I'm going to comment my run using the number of segments I needed for each map,
+  # this is because I believe that segmented demos are quite different than any other
+  # TAS demos. You'll also notice that some maps required some segments even
+  # if there's already a record for the single run (some of them done by me too).
+  # The reason is quite simple, I didn't want to get too frustated, so in some maps,
+  # (like 17,19,11) I just wanted to get it done quickly, so the number of segments 
+  # does not always represents the map's difficulty.
+  # Here's the time and number of segments for each map:
+ 
+
+				 Number of segments	Time
+=================================================================
+map01	Comeback			 2 		0:34
+map02	Jungle Spirits			 3 		0:49
+map03	Skull Island			 5 		0:48
+map04	Filth				 3 		1:28
+map05	Flooded Chapel			 1 		0:12
+map06	Collider Complex		 3 		0:51
+map07	Enemy Caught			 1 		0:32
+map08	Harmany				 2 		0:23
+map09	Wormhole Zone			 2 		0:48
+map10	Cosmodrome			 2 		2:08
+-----------------------------------------------------------------
+Episode Time:						8:33
+-----------------------------------------------------------------
+map11	Arch-Violence			 3 		3:09
+map12	Imprisoned			 5 		2:36
+map13	Hard Facility			 5		1:59
+map14	Charon Eclipse			 9		4:55
+map15	Where Hate Runs Red		 1		0:19
+map16	Predatorium			 1		0:18
+map17	Nuclear Horror			 3		0:21
+map18	Buckets of Blood		 2		0:59
+map19	Hecknology			 3		0:27
+map20	Lurking Fear			 9		2:58
+-----------------------------------------------------------------
+Episode Time:						18:01
+-----------------------------------------------------------------
+map21	Assassin			 2		1:51
+map22	Locus Perditus			 3		1:07
+map23	Aztecorum			 5		2:24
+map24	Outpost of the Evil Dead	 3		1:26
+map25	Black Ice			 4		1:21
+map26	Plutopia			 4		6:59
+map27	Red Hot			    IDK,maybe 13	2:54
+map28	The Bloodwall			 5		2:54
+map29	Ticket to Eternity		 3		1:01
+map30	The Gatewatcher			 3		1:06
+-------------------------------------------------------------
+Episode Time:						23:56
+-------------------------------------------------------------
+Total Time:						50:30
+=================================================================
+
+map01	Comeback		0:34 (current NM-Speed record 0:30 by Red-XIII)
+  Slower than my own time, but I'm ok with that, not a bad time.
+
+map02	Jungle Spirits		0:49 (current NM-Speed record 0:15 by Kimo Xvirus)
+  I preferred an easy approach here, it would have taken too much time to get near
+  20s. 3 segments, I wanted to do in 2 but whatever.
+
+map03	Skull Island		0:48 (current NM-Speed record 0:22 by Dew)
+  First hard level, I have no idea how dew got 22secs, so I decided to use more segments
+  and get it done with it.
+
+map04	Filth			1:28 (current NM-Speed record 0:39 by AD_79)
+  I like this map, which is why I'm unhappy with 3 segments, but as I said, I didn't want
+  to get perfect time on each level.
+
+map05	Flooded Chapel		0:12 (current NM-Speed record 0:08 by Kimo Xvirus)
+  Pretty easy, I just needed to be careful because of low health.
+
+map06	Collider Complex	0:51 (current NM-Speed record 0:27 by Red-XIII)
+  Nasty beginning since I had low health, but then it was ok. I'm quite pleased how the
+  arc jump turned out.
+
+map07	Enemy Caught		0:32 (current NM-Speed record (NM100) 1:06 by Red-XIII)
+  Good lord, thank you for the bfg. The mancubus were bitches, but this was done on my
+  first attempt, and with a good time.
+
+map08	Harmany			0:23 (current NM-Speed record 0:20 by Red-XIII)
+  Once again, I decided an easier route by killing the monsters than trying to do it
+  in a single run with good time.
+
+map09	Wormhole Zone		0:48 (current NM-Speed record 0:16 by Red-XIII )
+  I can't use uv route here, it's almost suicide. Too bad the final jump wasn't perfect.
+
+map10	Cosmodrome		2:08 (current NM-Speed record 1:43 by Cyberdemon531)
+  I did not expect 2 segments here, I'm quite happy with this! 
+
+map11	Arch-Violence		3:09 (current NM-Speed record 3:26 by Red-XIII)
+  I could have done it in a single run since I really like the level, but some reason
+  the arcs were mean to me, so I decided to get it done quickly, ok time.
+
+map12	Imprisoned		2:36 (current NM-Speed record 1:31 by DidierTranber)
+  Harder than I thought. The first part is easy actually, didn't have problems, but
+  after yel key I had some problems, which is why I used 5 segments. Not too happy about it, but
+  this was the first time I played this map on NM (as I recall) so I'm ok with this.
+
+map13	Hard Facility		1:59 (no NM-Speed record yet)
+  Second hard level, if it wasn't for the blue sphere this would have been horrible. Also, it took
+  me 3 segments from arc jump to the end, those damn chaindudes are bitches.
+
+map14	Charon Eclipse		4:55 (no current NM-speed yet, only NM100tas by DidierTramber in 7:37)
+  Third hard level and third hardest map of the run, 9 segments are a lot, but I'm ok with that.
+  Lots of different routes here, I'm sure I didn't use the safest one and could have been better. The last part was cool.
+
+map15	Where Hate Runs Red	0:19 (current NM-Speed record 0:07 by Kimo Xvirus)
+  Very easy, there's even a megasphere here. Please forget that mistake.
+
+map16	Predatorium		0:18 (current NM-Speed record 0:07 by Red-XIII)
+  Did it on my first attempt, easiest map of the run. The time is not good, but I didn't want to improve it,
+  though I don't know why since the level is trivial.
+
+map17	Nuclear Horror		0:21 (current NM-Speed record 0:16 by Red-XIII)
+  Quite lame using 3 segments here but after spending hours doing it in a single run I decided to get it done
+  as soon as possible. Thanks again bfg.
+
+map18	Buckets of Blood	0:59 (no NM-Speed record yet)
+  I did not expect this to be this hard, I spent 30 minutes to do the glide and failed. Then I got mad about it,
+  did all the way back to try it, and got it at first try D:  
+
+map19	Hecknology		0:27 (current NM-Speed record 0:15 by Red-XIII)
+  Lame since I used 3 segments, but I'm sick with the final jump since I'm trying to do this level in nm100 too,
+  and I always die there, so I just wanted to get it done.
+
+map20	Lurking Fear		2:58 (no NM-Speed record yet)
+  Fourth hard level, and second hardest map of the run. It took me 20 minutes only to do the BK grab, but this
+  is essential, otherwise the map become impossible (IMO). 9 segmenst are a lot, but health was a problem here,
+  even though there are lots of blue spheres, but I'm not confortable with this map, so I'm also ok with the time.
+
+map21	Assassin		1:51 (current NM-Speed record 2:12 by Red-XIII)
+  Quite easy since you have all weapons avaible, good time and only 2 segments.
+
+map22	Locus Perditus		1:07 (no NM-Speed record yet)
+  This map is really uneven, very easy until the end, where cybers can be a pain in the ass. This is also
+  the main reason why I can't do it in single run. AV jump is too hard IMO since there are lots of monsters that
+  bothers you and him. Silent pacifist for the first part is the key here.
+
+map23	Aztecorum		2:24 (no NM-Speed record yet)
+  Easier than I thought, used 4 segments for the first part then did the rest. I like this level.
+
+map24	Outpost of the Evil Dead 1:21 (current NM-Speed record (NM100) 1:05 by Red-XIII)
+  Playing after 2 weeks of no doom resulted in this shitty run.
+
+map25	Black Ice		1:21 (no NM-Speed record yet)
+  Easy start with bfg, but the last part required 3 segments and the necessity of cybers infighting.
+  I like the level but the final part was a suicide.
+
+map26	Plutopia		6:59 (no current NM-speed yet, only NMtas by DidierTramber in 11:22)
+  It can't be helped, this is one of my favourite map in all pl2 and one of my favourite map of all time.
+  I had lot of fun doing this, even though the map is hard, I didn't find it hard at all, some parts were tricker
+  than others (after red key) but overall it was pleasant to play. Too bad the big spider didn't moved from the YK.
+
+map27	Red Hot			2:54 (no NM-Speed record yet)
+  Well, I officially hate this level with all my guts now. The double glide is taboo for me, so I had to do it
+  normally, and it was the most frustating thing I've ever done! Remnants respawned immediately, chaidudes and chacos
+  were bastards, I also had ammos problems...
+  I used tons of segments here, I even lost the count since I restared the map so many times from
+  almost the beginning to have as much health as possible. The last run to the blue sphere was also horrible. 
+  One thing though, since the time here was about 47 minutes, everytime it took 20 seconds to load the demo, and
+  most of the tries lasted 2-3 seconds, which resulted in frustation. This may be me sucking, but I found this map the 
+  hardest one of the run.
+
+map28	The Bloodwall		2:54 (no NM-Speed record yet)
+  This was almost a blessing after map27, the only hard part was jumping with arc and maintaining health. Final rush
+  to the exit was easier than I thought.
+
+map29	Ticket to Eternity	1:01 (current NM-Speed record 1:03 by Red-XIII)
+  Lame I used 3 segments, but the time is ok, arc cooperated well.
+
+map30	The Gatewatcher		1:06 (current NM-Speed (NM100) record 1:07 by Red-XIII)
+  Last map, I like this level but I didn't want to do it in a single run, also because waiting for the elevator
+  is horrible at this point. This was the first time I managed to hit Romero like that, so I didn't even know 
+  I killed him until I saw the explosion. I like how it turned out.
+
+This was really really fun to do (aside map27) and I'm glad that another hole is filled in the pl2 tab, even though
+this is tas. I don't know if this is possible in no-tas, episode1 surely is, but requires lot of luck. Episode 2 problems
+are map13,14 and 20, those are stumpers. Episode 3, heh, close to impossible. 
+My next project will be trying to fill those NM-speed records that still miss (though I won't touch map27) as I find
+pl2 maps in nightmare one the best challenge out there. 
+I'm also hoping to see an improved time of this, since there are tons of places for improving!
+I'm not sure if I forgot something, is so, sorry about it ^^
+Enjoy this, see ya! :)
+
+Author: Red-XIII
+E-mail: SilverDragon93x@msn.com

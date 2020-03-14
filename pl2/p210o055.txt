@@ -1,0 +1,20 @@
+Pwad:      pl2.wad (Plutonia 2)
+Map:       map10 (Cosmodrome by Thomas van der Velden)
+Category:  NoMo
+
+Iwad:      Plutonia.wad
+Exe:       prBoom+ 2.5.1.4 w/ -complevel 4 (Final Doom)
+
+------------------
+Time:      0:55.89
+------------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+I want to blow that stupid ship to little pieces, then feed those to T.V. with NO SAUCE! Every time, every goddamn time...
+Anyways, the linedef skip is so unreliable that I trained getting across smoothly even without it.
+Never made it, but I got really close on a few occassions.  
+
+Recorded:  March 23rd, 2013

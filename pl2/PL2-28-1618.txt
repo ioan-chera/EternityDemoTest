@@ -1,0 +1,59 @@
+This is a Doom.lmp - Please forward it.........
+
+****************************************************
+* PL2-28-1618.zip                                  *
+* PL2-28-1618.txt                                  *
+* PL2-28-1618.lmp - UV Max                         *
+* PL2-28-FAILURE.lmp - FAILURE!!!                  *
+* PL2-28-GHOST.lmp - GHOST MONSTERS!!!             *
+*                                                  *
+* Recorded using prboom-plus-2.5.0.8(-Complevel 4) *
+****************************************************
+
+Plutonia II map28 - The Bloodwall(UV Max)
+
+****************
+* Kills:  102% *
+* Items:  80%  *
+* Secret: 100% * and time 16:18
+****************          =====
+
+******************************************************************************************************************
+
+Comments:
+
+This is my favourite map in Plutonia 2, I do really like the design of this map, it was so beautiful, especially
+the bloodwall outside! The remixed "Gut Wrencher" music from Duke Nukem 3D suits this map well, there's lots of
+interesting and surprising fights also.
+
+This map is not too hard if you are used to it, but it contains lots of traps, and these traps are mostly based
+on revenants or chaingunners. The 1st plasma gun trap is dangerous, you may get killed easily if you don't run
+fast. Another dangerous trap is outside the bloodwall, which you press a switch and release some chaingunners and
+teleporting revenants. I may thought that using the plasma gun more at the 1st halve may done it faster and safer,
+indeed it works!
+
+The dangerous traps are not the hardest part of this map, indeed the most tricky part is the large cyberdemon
+battle at the southern large hall. You release 2 cyberdemons, then you press a switch and release 2 archviles as
+well as some barons. It's not a large problem by leding infighting between them, but there's a chance archviles
+may change targets to you. When you press a switch at the southern part of the large hall, many revenants may 
+released out, followed by mancubus, demons and cacodemons after press another switch at both end. Another 2 nasty
+traps are waiting for you, you press the switch above the hall, many nasty monsters released around you, you need
+to be very careful! This large battle need to be deal carefully, beware of revenants and cyberdemons missiles, but
+it's a great fun to me. :D
+
+The final part is not too hard, but need to keep enough health since 3 revenants will wait for you at the end of
+the invisible bridge. After all these, going to the exit may not be a problem.
+
+I included 2 lmp files here, which shows one failed demo and a Invalid UV Max demo with a ghost demon seen. The 
+time done between 13:00 to 17:00 is reasonable, below 15 minutes is possible.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 31/05/2011 in People's Republic of China

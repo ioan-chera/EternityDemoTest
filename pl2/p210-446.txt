@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My DooM Demos:
+http://doomedsda.us/player611lmps.html
+
+Demo No. #286
+-------------------------------------------
+
+// 
+
+IWAD: Plutonia.wad
+PWAD: pl2.wad
+PWAD Name: Plutonia 2
+WAD Author(s): Various
+Map / Time / Category / Complevel:
+
+- Map 10 / 4:46 / UV-Max / -complevel 4
+
+Skill: 4 
+Exe: PrBoom+ 2.5.1.4
+Date Demo Recorded: March 12th, 2018
+
+//
+
+Player: TheV1perK1ller
+E-mail: dylan.gill49@hotmail.com
+YouTube: TheV1perK1ller
+
+Additional Notes: N/A

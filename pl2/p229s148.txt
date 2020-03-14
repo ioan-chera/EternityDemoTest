@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P229s148.TXT
+
+ P229s148.ZIP
+
+  P229s148.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 29, "Ticket to Eternity"
+
+  Kills     5%
+  Items     9%              ++++++++
+  Secrets   100%  and Time  + 1:48 +
+                            ++++++++
+ 
+  ############################################################################################################
+  # Description:  # Hi :) I'm trying this from a very long time and I finally succeded and even if the time
+  ################# is not really good due to some stupid monsters I'm still glad of how this turned out. 
+  # I was pretty slow in the last part but those mancubus and remnats can be really annoying. I also think that
+  # killing the cyber is not necessary but you'll need a bit of lucky as I did in this demo.        
+  # I really like this level so I think I'll try to improve it in the future.
+  # See ya :)
+  ############################################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

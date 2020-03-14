@@ -1,0 +1,8 @@
+Pwad name: Plutonia 2
+Map:       08 "Harmany" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.2 -complevel 4
+Time:      4:03
+
+Monakhov Vladimir
+skepticist@mail.ru

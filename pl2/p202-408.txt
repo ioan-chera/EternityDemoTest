@@ -1,0 +1,29 @@
+This is a Plutonia2 demo entry for map02 
+
+p202-408..lmp
+p202-408..txt
+
+p202-408.zip 
+
+Recorded using Chocolate Doom Version 1.2.1
+Choco.exe -iwad plutonia.wad -file pl2.wad -playdemo p202-408.lmp
+
+
+Plutonia2  - Level 02
+
+Kills    100%
+Items     ??%
+Secrets  100%
+-----------------
+Time:   04:08
+       -------
+
+Description:
+
+Mhmm...it puzzels me why there isn't any RL to be found. Woulda been that 
+much more fun, still shoulda be done in sub 4min.   
+
+
+
+Author: Henning Skogsto
+Email: Hskogsto@gmail.com

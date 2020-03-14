@@ -1,0 +1,33 @@
+            _________________________________________________
+           /                                                 \
+           | PWAD: pl2.wad                                   |
+           | Filename: p2181103.lmp                          |
+           | Category: UV Max                                |
+           | Map Level: MAP18 - Buckets of Blood             |
+           | Exe/Port used:PrBoom-Plus 2.5.0.7 -complevel 4  |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+            _________________________________________________
+           /                                                 \
+           |                                                 |
+           |      Kills    100%                              |
+           |      Items     78%           *********          |
+           |      Secrets  100%  and Time * 11:03 *          |
+           |                              *********          |
+           \_________________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| It's the first time I submit *third* demo in a map in the same         |
+| category. The reasons? 1.I like this map :) 2.My previous Max was      |
+| shitty. Now it's more or less what I wanted to achieve, this route has |
+| been kind of established and I don't make significant changes to it.   |
+|                                                                        |
+| A new record will require another player, perhaps :)                   |
+|                                                                        |
+| PS p218bgin is a failed attempt with a fantastic beginning (35 seconds)|
+|                                                                        |
++========================================================================+

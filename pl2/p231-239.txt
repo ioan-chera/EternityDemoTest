@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P231-239.TXT
+
+ P231-239.ZIP
+
+  P231-239.LMP - UV Speed!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 31, "CyberNation"
+
+  Kills     56%
+  Items     66%             ++++++++
+  Secrets   66%  and Time   + 2:39 +
+                            ++++++++
+ 
+  ############################################################################################################
+  # Description:  # Hi :) I finally managed to improve this. Aside the first part, I like how this turned out,
+  ################# I was also lucky that not one, but two cybers were hit by mancubus so it made things easier.
+  # The last part is definitely the critic one, I died many times there, but in order to improve a lot a safe route
+  # can't be used. I'm sure that the same time is also possible in pacifist but more luck is needed.
+  # Enjoy it!
+  ############################################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

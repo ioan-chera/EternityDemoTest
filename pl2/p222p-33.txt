@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P222p-33.TXT
+
+ P222p-33.ZIP
+
+  P222p-33.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 22, "Locus Perditus"
+
+  Kills     ??%
+  Items     ??%            +++++++++
+  Secrets   0%  and Time   + 0:33  +
+                           +++++++++
+
+  #####################################################################################
+  # Description: # Hi :) 
+  ################ I finally managed to improve my pacifist record and beat uv speed too.        
+  # It wasn't too hard but this is still improvable to 32. The arc jump is quite fun
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

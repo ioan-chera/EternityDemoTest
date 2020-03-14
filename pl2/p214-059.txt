@@ -1,0 +1,23 @@
+p214-059.lmp
+
+ Recorded using prboom 2.4.7 (-complevel 4)
+
+
+ Plutonia 2 - Map14 - UV-Speed
+
+ ----------
+ Time: 0:59
+ ----------
+
+ Description:
+
+ Nice map with not too many hard tricks, just running with monsters.
+ Though it's not a perfect run, especially the ending could be done better
+ as my hands are always shaking when i get past the rocket jump ;)
+
+
+Author:
+	Graim
+	graim@seznam.cz
+
+9.6.2009

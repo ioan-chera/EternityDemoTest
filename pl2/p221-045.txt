@@ -1,0 +1,46 @@
+This is a Doom .LMP - Please forward it...
+
+p221-045.txt
+
+ p221-045.zip
+
+  p221-045.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 21 - Assassin
+
+
+  ================
+  Kills        3%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:45
+  ================
+
+
+  Description:
+
+  Oh wow. I can't believe how much utter bullshit this level lets me to pull off.
+  I don't even know why I continued this run after getting butchered at the baron
+  switch, this health usually means death by cacos or lava. I continued on mindless
+  autopilot, cause the 'checkpoint times' were decent. That chainie at the first
+  bridge switch usually isn't so hyperactive and it's the revenants who shoot like
+  mad, but absolutely nothing went normal on this run. I mean... that rev's rocket
+  after teleporting? I went for quit keys already. :)
+
+  Of course the highlight of the run is what happens after the sphere. Usually
+  the monsters block the way, everyone's a biter so it's hard to squeeze through
+  even with 200 health and SSG blazing. Oh well, it's a breeze after the BK switch
+  exploit.
+  
+  I guess this run was a karmic payoff for one previous run where I was reaching for
+  a similar time, but I took a wrong turn and tried to exit on the start platform :)
+  And I included a short demo showing off my spectacular skills with RL. ;)
+
+
+author: dew
+e-mail: dewww@seznam.cz

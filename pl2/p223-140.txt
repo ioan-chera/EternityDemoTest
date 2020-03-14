@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+p223-140.TXT
+
+ p223-140.ZIP
+
+  p223-140.LMP - UV Speed!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 23, "Atzecorum"
+
+  Kills     23%
+  Items     23%            +++++++++
+  Secrets   20%  and Time  + 01:40 +
+                           +++++++++
+
+  #####################################################################################
+  # Description:  #  Hi!
+  #################  I was really getting sick of this! I like this level a lot but I've 
+  # been trying this since 2013, can't believe it took so long. I decided not to go for 
+  # arc jumps because you need some luck and no monsters around you (unless you brute force it
+  # but it's too hard for me). So I used a different route and finally this time it went all fine.
+  # Hope you enjoy it!
+  #####################################################################################
+
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

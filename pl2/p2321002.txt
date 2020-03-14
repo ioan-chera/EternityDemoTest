@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P2321002.TXT
+
+ P2321002.ZIP
+
+  P2321002.LMP - ULTRA VIOLENCE MAX!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 32, "Go 4 It"
+
+  Kills     134%
+  Items      60%            +++++++++
+  Secrets   100%  and Time  + 10:02 +
+                            +++++++++
+
+  ##########################################################################################
+  # Description:  #  Hi :) After so many years I finally managed to do this again with a decent
+  #################  but still not satisfying time. Ironically, this is the worst looking 
+  # demo I ever made. Worst beginning ever and bad movements in other points; I also
+  # forgot that once you press the second button in the blue door area the zombie keens would appear.
+  # I'm not 100% sure of how this level works on max but I'm pretty sure I killed every 
+  # "original" monsters aside from the ones stucked in the teleport, I guess. 
+  # I will definitely try to improve this one in the future.
+  # See ya :)
+  #####################################################################################
+
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

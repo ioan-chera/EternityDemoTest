@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P219s139.TXT
+
+ P219s139.ZIP
+
+  P219s139.LMP - NM100!
+
+  Recorded using "Prboom-plus 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 19, "Hecknology"
+
+  Kills     31%
+  Items     75%             ++++++++
+  Secrets   100%  and Time  + 1:39 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi! Good lord I finally did this! The first part of the level is quite
+  #################  fun, but after a good beginning you don't wanna crew at the final jump.
+  # That's basically what happened most of my attempts here, but this time, I gotta say,
+  # was great, no big mistakes, everything went fine and smooth (aside grabing rl what whatever)
+  # A more aggressive playing could improve the time but I don't think I'm going to do that.
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

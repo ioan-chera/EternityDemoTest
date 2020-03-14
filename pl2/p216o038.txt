@@ -1,0 +1,16 @@
+Game:         	prboom-plus-2.5.0.9.test
+File:           pL2.wad
+Iwad:		plutonia.wad
+Category:       nomonsters
+Level:	        map16 - "Predatorium"
+Skill:          4
+
+Time:           38.37
+
+
+Comments:     	Not a clean demo but my best so far, should be beaten by somebody else.
+		My favourite map :-D
+
+
+Author:      	Adolf "Gusta" Vojta
+email:		hita@seznam.cz

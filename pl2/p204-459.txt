@@ -1,0 +1,21 @@
+Pwad name: Plutonia 2
+Map:       4 - Filth
+Skill:     4
+Category:  Max
+Exe:       PrBoom plus, version 2.4.8.2 with -complevel 4 (Final Doom comp)
+Time:      4:59
+
+Stats:     Kills   100%
+           Items    33%
+           Secrets 100%
+
+Comments:  
+
+Pretty much as I wanted and under 5 minutes too so I'm done here. For now.
+
+
+Tomas "DeDo" Kollar
+tomasdk@gmail.com
+
+
+25-jan-2009 

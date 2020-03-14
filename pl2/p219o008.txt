@@ -1,0 +1,13 @@
+Game:           Doom2 Plutonia (1.9f)
+File:           PL2.wad
+Category:       nomonsters
+Mission:        map19
+Skill:          4
+
+Time:           8.63
+
+
+Comments:       Why stop halfway down? :-)
+
+
+Author:         Looper

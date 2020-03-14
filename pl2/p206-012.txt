@@ -1,0 +1,11 @@
+Iwad: Plutonia.wad
+Pwad: Pl2.wad
+Maps:      06
+Skill:     4
+Category:  UV-speed
+Exe:       PRBoom+ v2.5.0.9
+Time:      0:12
+
+Author:	   Hock 
+
+Built TAS 

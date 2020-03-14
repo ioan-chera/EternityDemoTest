@@ -1,0 +1,21 @@
+This is a .LMP Entry for pl2.wad
+
+P2292251.TXT
+
+ P2292251.ZIP
+
+  P2292251.LMP - UV Max
+
+  Recorded using PrBoom+ 2.5.0.8
+  
+  Kills    100%
+  Items     42%          
+  Secrets  100%  and Time  22:51
+                        
+  I played as agressive as I could. This map is slow paced and it looks like the
+  authors tried to keep the original Plutonia MAP29 feel hence there are some 
+  really hard to reach monsters like that Mancubus and especially that Arch-Vile
+  near the 2 Cybies/BSK area. I'd really love to push this under 20 mins but I
+  don't see how I could do it. HUD used.
+
+  Rizera

@@ -1,0 +1,33 @@
+This is a Doom .LMP - Please forward it...
+
+p205-008.txt
+
+ p205-008.zip
+
+  p205-008.lmp - Ultra-Violence Speed (also Pacifist)
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 05 - Flooded Chapel
+
+
+  ================
+  Kills        0%
+  Items        0%
+  Secrets      0%
+  ----------------
+  Time       0:08
+  ================
+
+
+  Description:
+
+  Awesome non-linear map, but this seems almost optimal :)
+  I had a whole bunch of 9 and 10s recordings, usually because
+  the archie was a bit shy to teleport in or attack me.
+  Thanks to Devi for the route idea.
+
+author: dew
+e-mail: dewww@seznam.cz

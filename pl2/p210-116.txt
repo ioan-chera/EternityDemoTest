@@ -1,0 +1,29 @@
+This is a Doom .LMP - Please forward it...
+
+p210-116.txt
+ p210-116.zip
+  p210-116.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 10 - Cosmodrome (by T.V.)
+
+
+  ================
+  Kills        15%
+  Items        0%
+  Secrets      0%
+  ----------------
+  Time       1:16
+  ================
+
+
+  Description:
+
+  Just a smoother version of my previous run. There's still some room for improvement,
+  my brain must have short-circuited at the BK, but then the end sequence went well.
+  I used the PE for the linedef skip again.
+  
+author: dew
+e-mail: dewww@seznam.cz

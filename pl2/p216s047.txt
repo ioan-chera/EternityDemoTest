@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P216s047.TXT
+
+ P216s047.ZIP
+
+  P216s047.LMP - NM100!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 16, "Predatorium"
+
+  Kills     31%
+  Items     17%             ++++++++
+  Secrets   100%  and Time  + 0:47 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi! Good lord, this was way harder than I originally anticipated.
+  #################  Many different routes here, but in the end I chose the fastest one,
+  # though it requires perfect archies cooperation. This time they were really nice to me and
+  # I made it just in time for the final jump, I am quite satisfied with this run!
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

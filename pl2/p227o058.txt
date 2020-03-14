@@ -1,0 +1,12 @@
+IWAD: Plutonia
+PWAD(s): PL2
+Author of PWAD: Various
+Recorded with: PrBoom Plus 2.5.1.3
+Category: NoMonsters
+Map: 27
+Complevel: 4
+Time: 0:58.91
+
+I thought it would be possible to somehow grab the yellow key with a single glide but I couldn't do it without going through the bars and then having to glide back. So I just did things the traditional way instead since while north to south glides aren't too bad (this one felt particularly easy for some reason) south to north is a whole another thing. No super fancy movement or tricks but hey, one more demo for the pack no one seemed to want to do.
+kunkun
+

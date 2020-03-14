@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P209n016.TXT
+
+ P209n016.ZIP
+
+  P209n016.LMP - Nightmare!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 09, "Wormhole zone"
+
+  Kills     11%
+  Items     5%            ++++++++
+  Secrets   0%  and Time  + 0:16 +
+                          ++++++++
+  #######################################################################################
+  # Description:  #  Hi people  :)  Screw me up, I'm an idiot!				#
+  #################  3 hours ago I was playing level 7 ( recording ) on nightmare       #
+  # ( which I'm trying ) and I died, so I tried some other levels just for joke on NM,  #
+  # to see which which one I was able to do, and I entered IDCLEV 09 cheat code, and I  #
+  # played it as UV. It happened at the first time, and I had a 17. But it wasn't legal,#
+  # so I waste 2 hours doing this 16. Argh, can't believe it, but I'm not yet satisfied #
+  # with this, I want to improve it.							#
+  # About the route, same as UV, just take the berserk for the health and run.          #
+  # that's it, by!!!  									#  
+  #######################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

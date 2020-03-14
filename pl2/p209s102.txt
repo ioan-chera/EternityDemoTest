@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P209s102.TXT
+
+ P209s102.ZIP
+
+  P209s102.LMP - NM100!
+
+  Recorded using "Prboom-plus 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 09, "Wormhole zone"
+
+  Kills     27%
+  Items     26%             ++++++++
+  Secrets   100%  and Time  + 1:02 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi! This wasn't really hard, but the chaingunners can be a pain in
+  #################  the ass sometimes. The final part was nice, death exit!
+  # Enjoy it.
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

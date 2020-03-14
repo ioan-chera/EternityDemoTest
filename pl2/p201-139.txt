@@ -1,0 +1,28 @@
+This is a Plutonia2 demo entry for map02 
+
+p201-139..lmp
+p201-139..txt
+
+p201-139.zip 
+
+Recorded using Chocolate Doom Version 1.2.1
+Choco.exe -iwad plutonia.wad -file pl2.wad -playdemo p201-139.lmp
+
+
+Plutonia2  - Level 01
+
+Kills    100%
+Items     ??%
+Secrets  100%
+-----------------
+Time:   01:39
+       -------
+
+Description:
+
+A few more seconds knocked off, it'll take some really good playing 
+to get this one under 1:30. 
+
+
+Author: Henning Skogsto
+Email: Hskogsto@gmail.com

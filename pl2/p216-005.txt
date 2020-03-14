@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry
+
+P216-005.TXT
+P216-005.ZIP
+
+P216-005.LMP UV Speed/Pacifist
+
+Recorded using PrBoom+ 2.5.0.1 -complevel 4
+
+Plutonia2 - Level 16
+
+)---------------(
+ Kills        1%
+ Items        0%
+ Secrets      0%
+
+ Time        :05
+)---------------(
+
+It's too hard to survive the monsters
+and archvile jump without armor.
+But I kept trying for it and eventually
+got it :-)
+I beleive this is optimal.
+
+Author: Kimo Xvirus
+E-mail: kimo_xvirus@hotmail.com

@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P218n22tas.TXT
+
+ P218n22tas.ZIP
+
+  P218n22tas.LMP - Nightmare!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 18, "Buckets of Blood"
+
+  SEGMENTED DEMO!
+
+  Kills     ??%
+  Items     ??%             ++++++++
+  Secrets   ??%  and Time   + 0:22 + 
+                            ++++++++
+
+  ########################################################################
+  # Description:  #  Hi :) 
+  #################  I tried first to kill the monsters in the first area,
+  # then realised that it's not useful at all and that running as hell is
+  # way more easier. The glide is impossible in nm IMO. As usual, the last glide
+  # can be quite hard since you it needs to be done immediately.
+  # Enjoy it!
+  #########################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

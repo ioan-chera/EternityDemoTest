@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:  pl2.wad   
+Pwad name: plutonia 2
+Maps:      15 " where hate runs red "
+Skill:     5
+Category:  Nightmare speed
+Exe:       glboom.exe ( prboom-2.5.0-win32)
+
+Time:   0:08   
+
+Author:DidierTranber 
+Email: dia.didier@gmx.fr   
+
+Comments: none

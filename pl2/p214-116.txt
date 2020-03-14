@@ -1,0 +1,44 @@
+This is a Doom .LMP - Please forward it...
+
+p214-116.txt
+
+ p214-116.zip
+
+  p214-116.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 14 - Charon Eclipse
+
+
+  ================
+  Kills        26%
+  Items        ?%
+  Secrets      28%
+  ----------------
+  Time       1:16
+  ================
+
+
+  Description:
+
+  Sweet map, really. Lovely death traps, almost no space
+  for dodging, sexy detailing to get stuck on... heh.
+  I drilled the route for some time before I got a butt-ugly
+  1:24 that had to be erased from history, so 1:20 followed
+  pretty fast. Then I tried provoking the red door chainies
+  to avoid some later weapon switching. Works wonders, but
+  kinda adds difficulty.
+
+  The RJ is really easy and cheap on health if the chainies
+  leave you alone... and lets you skip the YK room, yay!
+  I had much bigger problems with pushing the cybie aside.
+  He always ended sliding up the stairs, blocking my way.
+  1:16 is just a third exit, I guess it can go much faster
+  with better monster slaloming.
+  
+
+author: dew
+e-mail: dewww@seznam.cz

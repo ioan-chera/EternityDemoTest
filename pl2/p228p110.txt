@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Runner:    JonaG
+Email:     jonatan.pribek@gmail.com
+Time:      1:10
+
+IWAD:      Final Doom - The Plutonia Experiment (plutonia.wad)
+PWAD:	   Plutonia 2 (pl2.wad)
+Level:     MAP28 - The Bloodwall
+Skill:     4 (Ultra-Violence)
+Category:  UV-Pacifist
+Played on: PRBoom-Plus 2.5.1.4
+
+Description: This run is insane!!
+	     As with MAP14, I wanted to make a TAS out of this, but I looked into some UV Speed runs and thought that it might be possible to do this in real time.
+
+	     Beginning is easy up to point where the two Hell Knights are guarding the door, getting past them is quite difficult.
+	     Next is the archvile jump, they are usually fast with their attacks, but other monsters may interrupt the 'jump'.
+	     After pressing the switch, what comes after the teleporter is just absolute chaos, this was actually the second run that got past the mancubus, with many attempts dying there.
+	     The part after that is just straight-up running and praying for the least damage possible. By some miracle I survived the vile's attack and the spectre wasn't asshole either.

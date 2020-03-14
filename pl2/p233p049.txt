@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P233p049.TXT
+
+ P233p049.ZIP
+
+  P233p049.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 33, "Chocolate"
+
+  Kills     ??%
+  Items     ??%            +++++++++
+  Secrets   ??%  and Time  +  0:49 +
+                           +++++++++
+
+  ########################################################################################
+  # Description:# Hi :)
+  ############### I always wanted to do this but I always died because of imps in the arc's zone.
+  # Finally this time I was a bit lucky and managed to survive.
+  # The first part can also be done by running and not caring about chaindudes but I was getting sick
+  # of doing it so I chose the easier way.
+  # Enjoy it :)
+  ########################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

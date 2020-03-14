@@ -1,0 +1,9 @@
+Wad: Plutonia 2
+Map: 12: Imprisoned
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 8:00
+Time: 7:57
+Category: UV max
+
+Another run of this map, since it's a good run too, I decided to upload on DSDA.

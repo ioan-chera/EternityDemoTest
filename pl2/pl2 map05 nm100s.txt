@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:  PL2.wad   
+Pwad name: Plutonia 2
+Maps:      map 05 " Flooded Chapel"
+Skill:     5
+Category:  Nightmare with 100% secrets 
+Exe:       glboom.exe ( prboom-2.5.0-win32)
+
+Time:   00:32   
+
+Author:DidierTranber 
+Email: dia.didier@gmx.fr   
+
+Comments: perhaps under 30sec is possible, but it's a hard task and need 
+some luck.  

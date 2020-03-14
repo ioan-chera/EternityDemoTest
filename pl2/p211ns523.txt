@@ -1,0 +1,58 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P211n523.TXT
+
+ P211n523.ZIP
+
+  P211n523.LMP - NIGHTMARE!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 11, "Arch-Violence"
+
+  Kills     30%
+  Items     40%             ++++++++
+  Secrets   100%  and Time  + 5:23 +
+                            ++++++++
+
+  ################################################################################
+  # Description:  #  Hey guys :)   I finally did it :)  now there are all the NM #
+  #################  category in this level. The idea of doing this in 100Secrets#
+  # arrived few days after my NM speed here. Your first thought it may be that   #
+  # this is insane, that is impossible to do this, and infact this was the first #
+  # thought I had. I believed that it was impossible to go to that area getting  #
+  # the secrets, I had to kill lots of arc-vile so I started this with the       #
+  # intention that was insane; but still I had to try, at least to conferm my    #
+  # thoughts. The first route I tried was really insane, I wanted to take first  #
+  # the mega armor then jump with the arc-vile over the bars, but it didn't      #
+  # worked. Then, some days later I proceded as a normal speed, and after taking #
+  # the soulsphere, I went into the underground, trying a new route, and... after#
+  # several tries, I discovered that it was possible run and run in that way     #
+  # you'll see. So I understood, you can't wait too much killing monsters,       #
+  # because you think it's safe, but it's your death :) About the rocket launcer,#
+  # the first time I didn't know if was faster taking it and killing some        #
+  # arc-vile with it, but I think it's faster, if you use it correcly. The way I #
+  # grab the RL was "new" for me, infact the at the beninning I used to kill the #
+  # 3 arc-vile, then I discovered that I was able to run and run, again :))) So, #
+  # after returning of the mega armor ( some times appear 1 arc, sometimes no    #
+  # one ) I returned into the underground and proceded the level as a normal     #
+  # speed, exept that I killed the 2 arc-vile near the button of the bfg, in NM  #
+  # speed I runned, but It's more safe. About the 2 glides, the first went bad,  #
+  # and I usually do that in 5 seconds,  the returning glide was good, because I #
+  # finally improved my glide tecnique but I'm not lucky, so when I finish the   #
+  # level, it took me 25 seconds to do the first glide, so it's possible to go   #
+  # under 5 minute just improving the glide ) The last part went quite good, I   #
+  # finally have discovered a method to survive to the arc massacre. I just had  #
+  # to kill the arc-viles that appear after pushing the button and hoping that   #
+  # the other 15 would be gentle with me :)					 #  
+  # MHHHH, is this a long TXT? Sorry but when I finish a great level in a great  #
+  # category, I can't stop myself of writing all the history of the run.         #
+  # OH, I'll improve this one, because is not really hard and I wasted lots of   #
+  # seconds and under 5 minute is definitively possible, so you'll see other     #
+  # demos of this category :)))   BYYYYYYYYYYYYYYY				 #
+  ################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

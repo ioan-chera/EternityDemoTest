@@ -1,0 +1,34 @@
+This is a Doom .LMP "Competition" Entry
+
+P202-013.TXT
+P202-013.ZIP
+
+P202-013.LMP
+
+Recorded using Final Doom Version 1.9
+Doom -File PL2.WAD -Playdemo with Version 1.9
+
+Plutonia2 - Level 02
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets      ?%
+
+ Time        :13
+)---------------(
+
+Wow this wasn't easy. It's my first exit
+and it's improvable.
+
+The hardest part of the recording isn't 
+the jump it's the ending. Everything is
+different each time you run back from
+the switch and I died at least 15 times
+there.
+
+Is :10 possible ?
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

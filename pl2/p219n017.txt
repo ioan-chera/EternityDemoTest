@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P219n017.TXT
+
+ P219n017.ZIP
+
+  P219n017.LMP - Nightmare!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 19, "Hecknology"
+
+  Kills     3%
+  Items     25%            ++++++++
+  Secrets   0%  and Time   + 0:17 +
+                           ++++++++
+
+  ##########################################################################################
+  # Description:  #  Hi guys. Last time I saw on dsda that there were only five demo on    #
+  #################  nightmare difficulty on Pl2, so I decided to do some levels in nm.    #
+  # This was the "easiest" because it's the same as Uv speed, I died just 6-7 times because#
+  # of fast monsters. My problem was the jump trick, I never was good on that jump.        # 
+  # The first part went quite fine but then... I just screwed up the first jump a little,  #
+  # but then everything went fine. Of course this is not optimal, maybe the optimal time is#
+  # like uv or 12. I'll improve this one :) oh I also had a 22 some minutes ago, but 17 is #
+  # better :P BYY									   #
+  ##########################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

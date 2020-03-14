@@ -1,0 +1,44 @@
+This is a Doom .LMP - Please forward it...
+
+p213-054.txt
+
+ p213-054.zip
+
+  p213-054.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 13 - Hard Facility
+
+
+  ================
+  Kills        9%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:54
+  ================
+
+
+  Description:
+
+  Whew, this took a while. I managed 1:40ish with both armor
+  and sphere and loads of health left so I skipped one of them.
+  Armor seemed more important and convenient, there's just too
+  many monsters around the sphere, not mentioning unfavorable
+  piggies migration behind the blue bars that followed.
+  And a quartet of unkilled imps spamming from the balcony.
+  
+  Health conservation was a bitch, SSG is meant for the baron,
+  I couldn't complete the AV jump with him on my back. The jump
+  itself is also a bit harder than usual. I guess I lucked out,
+  because archie bestowed me with his precious attention and
+  chainies ignored me. Usually it's the other way around :)
+
+  First exit on this route, btw.
+  
+
+author: dew
+e-mail: dewww@seznam.cz

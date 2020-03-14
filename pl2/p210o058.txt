@@ -1,0 +1,23 @@
+p210o058.txt
+  p210o058.lmp - Ultra-Violence Speed with -nomonsters
+
+  Recorded using prboom-plus 2.5.0.1 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 10 - Cosmodrome (by T.V.)
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      ?%
+  ----------------
+  Time       0:58
+  ================
+
+  Description:
+  An older -nomo run I made to test the linedef jump in the doorway where berserk is. Didn't
+  bother with avoiding the revenants trigger for obvious reasons. Also missing a ridiculously
+  hard RJ across the moat, from the window of the fort on the way back from blue key. Saves
+  whopping ~2sec. :)
+    
+author: dew
+e-mail: dewww@seznam.cz

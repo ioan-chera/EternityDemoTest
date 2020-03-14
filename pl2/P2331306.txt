@@ -1,0 +1,39 @@
+This is a Plutonia 2 Demo Pack Entry, Please forward it...
+Iwad:		plutonia.wad+
+Iwad name:	The plutonia Experiment
+Pwad:		pl2.wad
+Pwad name:	Plutonia 2
+Date:		12/21/2009
+Filename:	P2331306.lmp
+Category:	UV MAX*
+Map Level:	Map 33 - Chocolate by Eric Baker
+Exe/Port used:	DooM2.exe=
+Exe/Port name:	DooM2 v1.9f (complevel 4)
+
+Totals:
+Kills		100%*
+Items		100%
+Secrets		100%
+
+Time 		13:06
+
+Author:  Archy
+Email: ArchyQDOS@live.com
+
+Note/Comment:
+This may not be a "legal" MAX demo as of I do not know how to check
+if any one Respawned and then got killed.
+But any way, this is the first MAX* demo of p233 I know of, so this
+is a "table filler" for the Doomworld Plutonia 2 demo Thread and is
+vary beatable.
+
++ Since Final DOOMs Executable is is my DOOM2 directory DooM2.wad is
+the iwad so the command goes like this "-file plutonia.was pl2.wad"
+
+*A monster may have Respawned and then bean killed... I Don't know
+how to check for some think like that so this may not be a "legal"
+MAX run, if it is not pleas let me know at "ArchyQDOS@live.com" 
+Thank you and happy holidays!
+
+=I renamed it to "fDooM.exe" but this is still the same Executable,
+Size is 722629 bytes.

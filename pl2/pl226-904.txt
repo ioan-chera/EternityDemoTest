@@ -1,0 +1,32 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+My demos in DSDA 
+http://doomedsda.us/player269lmps.html
+
+My YouTube page:
+http://www.youtube.com/user/blob1024
+
+------------------
+	
+Iwad:      Plutonia.wad
+Pwad:      Pl2.wad
+Pwad name: Plutonia 2
+Map:       26
+Skill:     Ultra Violence
+Category:  Uv-Max
+Port used: PrBoom+ 2.5.1.4
+Time:      09:04
+Complevel: 4
+Author:    blob1024 aka Adramelk
+Email:     adramelk1024@yahoo.it
+Date:	   31/01/2012
+
+------------------
+
+
+Comments:
+
+A very nice and challenging map. I dislike a bit the beginning, which forces badly to rely on enemies killing each other to have enough shells for the later part, but that's just for the first 2minutes. very often MM doesn't start battles with cacos and baron, but that's not so important, cells are sufficient. In a wasted run btw, the MM fought with 3-4 cacos and the baron, and when I returned back there, he just had finished killing the baron... that was the luckiest I had, but the run in a whole was slow sadly. I also got a couple of times rocket in the face from the cyberdemon, because the splatted cacodemons were troubling the view while strafing, and that's why I circle strafed there (with bad results actually.)
+In the yellowkey area it's rather mandatory to clear every enemies not busy against the spider, or they'll be hiding when returning with the redkey. And the revenant on the tower-looking cliff SUCKS. at leaast the one on the right not reachable  directly, it sometimes let me waste much more time.
+I wouldn't imagine this map could be finished in an exit time that close to 9min. But all the infighting situations and the fair amount of ammo gives a very large space for optimization. Previous exits were 10:01 09:5x 09:4x 09.26, 09:20 where the archvile made me waste some seconds on the final elevator (he simply didnt die by the time the platforum rose up, so I had to return downside to finish him), and then this 09:04.

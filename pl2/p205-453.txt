@@ -1,0 +1,8 @@
+Pwad name: Plutonia 2
+Map:       05 "Flooded Chapel" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.1 -complevel 4
+Time:      4:53
+
+Monakhov Vladimir
+skepticist@mail.ru

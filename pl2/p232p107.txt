@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P232p107.TXT
+
+ P232p107.ZIP
+
+  P232p07.LMP - UV Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 32, "Go 4 it"
+
+  Kills     19%
+  Items     26%             ++++++++
+  Secrets   100%  and Time  + 1:07 +
+                            ++++++++
+ 
+  ############################################################################################################
+  # Description:  # Hi :) I' ve been trying this since last year but I always died at the blue door or at the 
+  ################# glide part. This time the glide went good but I got stucked in a wall at the blue door.
+  # I also lost 3 seconds because of those damn spiders so I'm pretty sure that under one minute is possible here 
+  # but only in pacifist. I'm not sure if I'm willing to try this because the blue door zone requires too much luck         # Anyway, since this is probably my 400th attemp I guess I can be satisfied since this counts as UV Speed too.
+  # In this level pacifist is faster than UV speed but it's also more frustating.
+  # Enjoy it :)   
+  ############################################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

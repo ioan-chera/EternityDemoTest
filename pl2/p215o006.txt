@@ -1,0 +1,15 @@
+           Plutonia 2
+   Map 15: Where Hate Runs Red
+        Map Author: Kira
+----------------------------------
+          p215o006.lmp
+
+Nomo Speed in 0:06.94
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 4
+
+Skill level: Ultraviolence with -nomonsters
+Author: 4shockblast
+
+Comments: Started as an experiment to see whether it's possible to go around the red bars without slowing down or stopping, and I saw that it's possible. It's an absolutely random occurence, though; the turn and change in straferun direction has to be fairly accurate, but, given that this is the only trick in this run, it's not too hard (though it took awhile).

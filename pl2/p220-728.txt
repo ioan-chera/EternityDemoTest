@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: 		Plutonia 2
+Pwad name: 	pl2.wad
+Maps: 		20
+Skill: 		4
+Category: 	UV-Max 
+Exe: 		PrBoom+ 2.5.0.6 -complevel 4
+
+Time: 		7:28
+
+Author: 	Okuplok
+Email: 		Okuplok90@live.co.uk

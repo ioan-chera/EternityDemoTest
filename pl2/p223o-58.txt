@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+p223o-58.TXT
+
+ p223o-58.ZIP
+
+  p223o-58.LMP - No Monsters
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 23, "Atzecorum"
+
+  Kills     0%
+  Items     ??%             +++++++++
+  Secrets   0%  and Time    + 00:58 +
+                            +++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :) Clearly this route is way better than the one kunkun used 
+  #################  so I did this. Sadly I had 58 about 20 times and I'm kidna sick 
+  # of trying to reach 57 which is definitely possible but it's not for me :)
+  # See ya :) 
+  #####################################################################################
+
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

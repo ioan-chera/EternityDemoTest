@@ -1,0 +1,25 @@
+Game: Doom 2
+Pwad: Plutonia 2
+Filename: p2281457.lmp
+Skill and Style: 4 (UV-Max)
+Map Level: 28 (Bloodwall)
+Exe/Port used: GLBoom 2.4.8.1 (PRBoom Plus) -complevel 4
+
+Totals:
+Kills 104%
+Items   90%
+Secrets 100% and (Time -14:57)
+
+Comments: 
+Was bored waiting for a couple videos to load all the way and decided to give this level a whirl for demo recording.  I hadn't even practiced beforehand.  Thankfully there's no real major route making needed here.  It's pretty linear with a couple minor detours here and there.
+
+Overall, the level does present a good challenge, plenty of supplies, and lots of enemies to mow down.  Fun map to play through I must say.
+
+Not really any super challenging fights except the PG trap (Very very easy to die here if you're unlucky.  Thankfully it's right at the beginning of the map) and the horde out to kill as you get an elevator raised to get to the RSK.
+
+Pretty good performance here with some of the usual muck ups + a couple brain farts around the 2nd Megasphere.
+
+Time could still go faster.  About 5-10 seconds perhaps?  It's under 15 minutes though which is nice for not really practicing the map much.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

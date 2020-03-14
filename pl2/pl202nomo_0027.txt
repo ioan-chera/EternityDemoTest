@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Plutonia 2
+wad:pl2.wad
+map:02 "jungle spirits"
+
+    
+Category: no monsters ( with 100%secrets)
+Exe:       glboom.exe (prboom PLUS V 2.5.0.7 win 32) complevel 4
+
+Time: 00:27      
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr     
+
+Comments:just  practise before a nightmare run.

@@ -1,0 +1,20 @@
+This is a .LMP Entry for Plutonia 2 (pl2.wad)
+
+P203-555.TXT
+
+ P203-555.ZIP
+
+  P203-555.LMP - UV Max
+
+  Recorded using PrBoom+ 2.4.8.1 -complevel 4
+  
+  Kills    101%
+  Items     83%          
+  Secrets  100%  and Time   5:55
+                        
+  A sloppy cleanup before going through the blue key door and the exit
+  room monsters didn't want to infight for a couple of seconds. Managed
+  to push it under 6 minutes, so that'll be it for the moment.
+  
+  Przemys³aw "Belial" Woda
+  nowylepszyszatan@wp.pl

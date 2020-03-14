@@ -1,0 +1,33 @@
+WAD: PL2
+MAP: MAP13: Hard Facility
+Time: 0:54.14 (DANG!)
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: March 28, 2013
+
+DANG DANG DANG!
+I tried for 53, honestly I did... for two freaking hours after I got this
+54. The result: a BUNCH of other 54's, some 55's, and a few 56's. I think
+if I had more patience, I could get 53 eventually, but it's like pulling
+teeth. (BTW, this may look easy to beat, but try and you'll see it's so
+hard with so many walls on which you can get caught.)
+
+On a positive note, I like the route. :) The only demos I saw were with
+monsters, so ofc the runner uses the AV jump in a demo with monsters. No
+AV's here, so I had to make my own route. It's possible to exit the map
+with just the BSK. Who knew? :)
+
+If somebody finds a better route, I'm gonna facepalm so hard..... then
+I'll be happy for that person later. :P
+
+BTW, I attached a demo with a bug to show you what can sometimes go wrong..
+and it's VERY annyoing when this happens. It happened in about 10% of my
+otherwise successful demos (1 in 10.. think about that if 10% doesn't
+sound so bad). This bug demo DOES use a different route, since at first
+I didn't know about the finalized route. The finalized route came to me in
+one demo when I had the red key and accidently jumped through the little
+window.. then I discovered I didn't need a red key at all.
+
+Enjoy! :)
+
+--Doomdaniel95

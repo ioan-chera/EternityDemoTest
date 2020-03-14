@@ -1,0 +1,30 @@
+This is a Doom .LMP - Please forward it...
+
+p222-036.txt
+ p222-036.zip
+  p222-036.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.5
+  Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 22 - Locus Perditus (by Erik Alm & Gusta)
+
+
+  ================
+  Kills        9%
+  Items        37%
+  Secrets      0%
+  ----------------
+  Time       0:36
+  ================
+
+
+  Description:
+
+  Bleh... after years i re-extracted doom and recorded this. That's pretty much all i wanted to say :)
+
+  This is first exit and i personally think there is space for improvement for like 4-5 secs. This was
+  also first time i though that Archie didn't want to get me :) What a dumb-ass...
+
+author: Method
+e-mail: methodcz2@gmail.com

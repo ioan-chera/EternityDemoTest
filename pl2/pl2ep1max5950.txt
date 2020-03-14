@@ -1,0 +1,33 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	PL2.WAD
+Pwad name: Plutonia 2
+Maps:	01-10
+Skill:	4
+Category:	UV Max Episode 1
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	59:50
+-------------------------------------------
+Comments:  
+No max movies for PL2 is pretty disappointing. I'm currently planning on doing a full movie, so I'm gonna stop by and do some episode runs beforehand for practice. Getting under an hour is nice, too. I was pretty unfamiliar with MAP09 and it shows, since I got kinda lost near the end, but I didn't lose that much time.
+
+MAP01 -  2:19 / 2:19
+MAP02 -  4:46 / 7:05
+MAP03 -  6:13 / 13:18
+MAP04 -  3:56 / 17:14
+MAP05 -  5:50 / 23:04
+MAP06 - 11:59 / 35:03
+MAP07 -  5:14 / 40:17
+MAP08 -  5:07 / 45:24
+MAP09 -  8:48 / 54:12
+MAP10 -  5:38 / 59:50
+
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

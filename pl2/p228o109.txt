@@ -1,0 +1,11 @@
+WAD:      PL2.wad
+Map:       MAP28
+Category:  No Monsters
+IWAD:      Plutonia.wad
+Engine:       prboom+2.5.1.3
+Author:	  Cacatou
+-----------------
+Time: 1:09
+-----------------
+Comments:
+In my opinion the greatest map ever for Doom. So I had to make at least the nomo run.

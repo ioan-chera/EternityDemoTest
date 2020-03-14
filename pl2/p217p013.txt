@@ -1,0 +1,32 @@
+This is a Doom .LMP - Please forward it...
+
+p217p013.txt
+
+ p217p013.zip
+
+  p217p013.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 17 - Nuclear Horror (by Gusta)
+
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:13
+  ================
+
+
+  Description:
+
+  I had more graceful runs here, but it's the glide
+  that counts. Pacifist just for liking the idea.
+  Luckily the final corner wasn't too sticky. :)
+
+author: dew
+e-mail: dewww@seznam.cz

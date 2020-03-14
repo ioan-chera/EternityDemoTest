@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P226p448tas.TXT
+
+ P226p448tas.ZIP
+
+  P226p448tas.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 26, "Plutopia"
+
+  SEGMENTED DEMO!
+
+  Kills      29%
+  Items      17%            ++++++++
+  Secrets    25%  and Time  + 4:48 +
+                            ++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :)  
+  #################  While this is theoretically possible in no-tas, the amount of luck
+  # required in avoiding all those monsters in small corridors is extreme (mainly all  
+  # those pigs before red key).
+  # The route is almost the same as uv, though not shooting makes things a bit easier
+  # since tons of monsters don't appear.
+  # This is a segmentd run of 5-6 pieces, don't remember well, but each of them required
+  # lot of time, anyway, hope you'll enjoy it.
+  # See ya!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

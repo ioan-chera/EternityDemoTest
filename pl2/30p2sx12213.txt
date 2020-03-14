@@ -1,0 +1,202 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30p2sx12213.TXT
+ 30p2sx12213.ZIP
+
+   30p2sx12213.LMP 
+
+====================================================================================
+					Plutonia 2
+		TOOL ASSISTED Nightmare Speed with 100% secrets Movie
+====================================================================================
+
+  Recorded using prboom-plus 2.5.1.1 with Final Doom compatibility (-complevel 4)
+  The only tool used is re-recording.
+
+  ##################################################################################
+  # Description:  #  Hi! :) The idea of doing this came after I did a couple of nm100  
+  #################  maps of pl2. I found them fun and very challenging, so why not
+  # trying an "improvment" of my nm speed run? Here it is, it took me 1 week, lots of 
+  # segments, infact I didn't keep track of them, and many challenges in some levels.
+  # Some maps are not fast, yes, but I didn't focused too much on that, since it's  
+  # the challenge and the fun to play that's very interesting here. Aside some maps, 
+  # this was really funny, too bad I had to wait 30 seconds by the time I reached 
+  # -skipsec 4500. I also loaded a failed attempt up to map20 since I believe I made
+  # a void glide definitely unintended xD (use -skipsec 
+
+				 	Time
+=================================================================
+map01	Comeback			2:21
+map02	Jungle Spirits			1:12
+map03	Skull Island			2:40
+map04	Filth				2:04
+map05	Flooded Chapel			0:20
+map06	Collider Complex		3:47
+map07	Enemy Caught			0:31
+map08	Harmany				0:42
+map09	Wormhole Zone			1:13
+map10	Cosmodrome			2:32
+-----------------------------------------------------------------
+Episode Time:				17:22
+-----------------------------------------------------------------
+map11	Arch-Violence		 	2:38
+map12	Imprisoned			2:50
+map13	Hard Facility			7:34
+map14	Charon Eclipse			5:45
+map15	Where Hate Runs Red		0:31
+map31   CyberNation			4:53
+map32   Go4it				1:28
+map16	Predatorium			0:32
+map17	Nuclear Horror			1:19
+map18	Buckets of Blood		0:59
+map19	Hecknology			1:53
+map20	Lurking Fear			3:17
+-----------------------------------------------------------------
+Episode Time:				33:39
+-----------------------------------------------------------------
+map21	Assassin			2:36
+map22	Locus Perditus			1:16
+map23	Aztecorum			3:46
+map24	Outpost of the Evil Dead	1:22
+map25	Black Ice			2:14
+map26	Plutopia			7:42
+map27	Red Hot			    	5:53
+map28	The Bloodwall			3:35
+map29	Ticket to Eternity		1:08
+map30	The Gatewatcher			1:32
+-------------------------------------------------------------
+Episode Time:				31:04
+-------------------------------------------------------------
+Total Time:			      1:22:13
+=================================================================
+
+map01	Comeback		2:21 (current NM100 record 3:50 by DidierTranber)
+  Not an easy start, I think that a non-shooting route is difficult since tons of monsters
+  will appear at once before getting the last secret. An ok time.
+
+map02	Jungle Spirits		1:12 (current NM100 record 0:29 by DidierTranber)
+  Kudos to Didier for his super run. I'm not very confortable with this level and I needed
+  some health for the next nevel, so not a great run.
+
+map03	Skull Island		2:40 (no NM100 record yet)
+  Second hardest level of ep1, though it was quite easy up to red key, but then it's really
+  a nightmare, a bit of luck is also needed. Overall I'm satisfied with how this tunerd out.
+
+map04	Filth			2:04 (no NM100 record yet)
+  Not super fast, but I can't be too reckless here since I need health for map05, so I used a safe route.
+
+map05	Flooded Chapel		0:20 (current NM100 record 0:32 by DidierTranber)
+  Easy if you have health and armor, it went pretty good.
+
+map06	Collider Complex	3:47 (no NM100 record yet)
+  Hardest level of ep1, the respawn can be really mean here. I also think that bfg is needed, red door
+  part and exiting it without it seems impossible. The blue door part is easier, but the exit part was
+  not immediate, since I had to be careful and have more than 83% health for the final jump. 
+
+map07	Enemy Caught		0:31 (current NM100 record 1:06 by Red-XIII)
+  Not sure there is much to say here aside that bfg rules!
+
+map08	Harmany			0:42 (no NM100 record yet)
+  Almost trivial with bfg and rl.
+
+map09	Wormhole Zone		1:13 (no NM100 record yet )
+  The beginning is a massacre, luckyly I had some ammo left.
+
+map10	Cosmodrome		2:32 (current NM100 record 2:57 by Red-XIII)
+  I was pretty confortable here with all weapons, but those damn elevators...
+
+map11	Arch-Violence		2:38 (current NM100 record 5:01 by Red-XIII)
+  Terrific run, I decided to be super aggressive and it turned out super fun!
+
+map12	Imprisoned		2:50 (no NM100 record yet)
+  Easy at first, hard later on, even with bfg. 
+
+map13	Hard Facility		7:34 (no NM100 record yet)
+  Hardest level (so far) of the run, and hardest level I've ever made in nm100, it took me tons of segments and
+  a LOT of patience, even because I had to wait 10 seconds before the game started again. Now, I don't usually use
+  imperatives, but this time I will. This level is not possible in no-tas, the amount of luck and the difficulty is
+  beyond my limits, it's not even possible to compare this with other hard levels.
+  The start is ok, then the first secret is hard, but doable, even though I didn't understand quickly who was shooting
+  me (I'm an idiot); grabbing invisibility and 200 armor was the first hard part. Going to plasma was doable too, 
+  thanks to shortcuts (which made this level possible). The blue key part was absurd, I don't even how I survived
+  3 remnants in that tiny space, guess luck was on my side there, though I still needed lots of tries to get that.
+  Blue door part, probably hardest part of the level, I was really on the point on giving up, I also had to use mouse
+  for the first time ever in my speedruns (needed quick turn, you'll notice it). Going to last part was also tough, but
+  manageable. Last part, I don't even believe what happened, when I tried safer route, more tactic route etc I always
+  died, then I made this shit, and it worked out. Time doesn't matter here, I'm just glad I'll never see this level     again.
+
+map14	Charon Eclipse		5:45 (no current NM100 yet)
+  Not an easy level but doable. Kinda sloppy in some parts, but it's ok.
+
+map15	Where Hate Runs Red	0:31 (no NM100 record yet)
+  If I didn't have bfg from the start, I'd gone mad. Those pain elemental plus lost souls are a pain in the ass.
+ 
+map31	CyberNation		4:53 (no NM100 record yet) 
+  I did some useless things here, but I tried to use as less segments possible, since the time needed to reload
+  is starting to get high. Last part though was really awesome, dancing with those rockets was great!
+
+map32	Go4it			1:28 (current NM100 record 1:17 by Red-XIII) 
+  I did this so many times that it's getting quite easy, fortunally.
+
+map16	Predatorium		0:32 (no NM100 record yet)
+  Once you get quickly the first secret fast enough the rest is quite trivial since you have enough time to do all the     map with invulnerability.
+
+map17	Nuclear Horror		1:19 (current NM100 record 1:03 by Red-XIII)
+  Not super fast, but it's ok.
+
+map18	Buckets of Blood	0:59 (no NM100 record yet)
+  How could I miss that invisibility for so long? It's really a blessing. 
+
+map19	Hecknology		1:53 (current NM100 record 1:39 by Red-XIII)
+  I like this level, so I had no trouble here.
+
+map20	Lurking Fear		3:17 (no NM100 record yet)
+  Didn't troubled with soft blue grab, I used an aggressive route plus invulnerability. Not super hard.
+
+map21	Assassin		2:36 (current NM100 record 3:11 by Red-XIII)
+  Not everything went as planned, but still an efficient run.
+
+map22	Locus Perditus		1:16 (no NM100 record yet)
+  The last part with cybers can be a little annoying but aside that it's ok.
+
+map23	Aztecorum		3:46 (no NM100 record yet)
+  Urgh, horrible respwan here, though once you get to invulnerability it gets easier. The first part, however,
+  is quite hard for me, since you have no safe spot, I had to run as hell not caring of everything.
+
+map24	Outpost of the Evil Dead 1:22 (current NM100 record 1:05 by Red-XIII)
+  Not fast as I hoped, but I'm trying to use as few segments as possible now.
+
+map25	Black Ice		2:14 (no NM100 record yet)
+  Second hardest level so far, getting that secret was a nightmare; not only zombies respawned immediately,
+  but I also had to be careful since you can fall into the floor (map25 famous bug). I also decided not to do the
+  edge teleport trick since I had no ammo and few health, so I took the normal route, and it wasn't so bad as I expected.
+
+map26	Plutopia		7:42 (no NM100 record yet)
+  I said it many times, I love this level, took me 30 minutes. 
+
+map27	Red Hot			5:51 (no NM100 record yet)
+  I don't want to play this map ever again. I tried first to do it with double glide, but after spending a whole day 
+  on the second glide (after reading and learning tons of new things of these glides) I just realized that I suck with     mouse and with these glides. So I had to do it normally. Thankfully I had 600 ammo for bfg so that helped a bit, but
+  still the frustation due to waiting everytime 30 seconds to load, horrible respawn, this time pigs in the end too...
+  Probably this is slighly easier than map13, but 100 times more frustating. Also, had to redo the last part again to
+  end with more than 10%, which resulted in more frustation, see below why.
+
+map28	The Bloodwall		3:35 (no NM100 record yet)
+  I like this level, it's also not hard at all, but it has a serious problem because of the vodoo doll which was not   necessary IMO. I had no idea at all that a doll have the same health as you when you start the level, and since I 
+  first ended map27 with 1%, when I pressed that switch, I went in a zombie state, and had no idea why. Thankfully me 
+  and termork managed to solve the mistery, so that you must start the level with at least 10-11 health, because that's   the damage that the barrel does to the doll. 
+  Aside that, pretty good run, not hard since you have bfg and ammo, so it was ok.
+ 
+map29	Ticket to Eternity	1:08 (current NM100 record 1:03 by Red-XIII)
+  Quick and easy, also, 1 segment used here.
+
+map30	The Gatewatcher		1:32 (current NM100 (NM100) record 1:07 by Red-XIII)
+  Not super fast, but 2 segments only, and I was getting sick of cyber respawn and waiting a long to load every time.
+
+Ok, I wrote the level comments as a diary (wrote them as soon as I completed the map) and now I can say that map13
+and map27 were the most frustating of all. Also, I had that problem with 28, but I don't care about it anymore, I'm
+just glad to post this demo.
+Enjoy it!
+
+Author: Red-XIII
+E-mail: SilverDragon93x@msn.com

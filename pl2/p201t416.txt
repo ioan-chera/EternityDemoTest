@@ -1,0 +1,17 @@
+Game: Doom 2
+Pwad: pl2.wad
+Filename: p201t416.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP01
+Exe/Port used: PrBoom-Plus 2.5.0.2 (-complevel 4)
+Recorded by: vdgg
+
+  Kills    100%
+  Items     15%           ********
+  Secrets    0%  and Time * 4:16 *
+                          ********
+
+
+==============================================
+
+It took many tries to get this time, which is by no means perfect.

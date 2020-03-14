@@ -1,0 +1,20 @@
+Pwad name: Plutonia 2
+Map:       02 "Jungle Spirits" 
+Category:  UV-Max
+Exe:       PrBoom+ 2.5.0.1 -complevel 4
+Time:      4:25
+
+Stats:     Kills   100%
+           Items    62%
+           Secrets 100%
+
+Comments:  
+
+This demo didn't came easy. Goal was to push the time under 4:30 mark,
+so I`m satisfied with my achievement. On other hand, the demo is pretty
+ugly. Especially the moment when 2 revenant missles hit me one after
+another and I didn`t even tried to dodge. What was I thinking? I dunno.
+Time is still improvable. It`s clear that the map can be done in 4:1x. 
+
+Monakhov "Skepticist" Vladimir
+skepticist@mail.ru

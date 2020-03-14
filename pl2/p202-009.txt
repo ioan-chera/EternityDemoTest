@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Pl2.wad
+Pwad name: Plutonia 2
+Maps:      02
+Skill:     0
+Category:  nomonsters (tool assisted speedrun)
+Exe:       glboom-plus.exe -complevel 4
+
+Time:      0:09
+
+Author:    Light_Speed aka odysseyofnoises
+Email:     cubecat589@gmail.com
+HP:	   http://youtube.com/iphonehacker87/

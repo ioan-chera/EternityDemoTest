@@ -1,0 +1,31 @@
+This is a Doom .LMP - Please forward it...
+
+p203p023.txt
+
+ p203p023.zip
+
+  p203p023 - Ultra-Violence Pacifist
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 03 - Skull Island (by Gusta and Pipicz)
+
+
+  ================
+  Kills        ?%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:23
+  ================
+
+
+  Description:
+
+  Why, thank you, misters imps and sargeants, that was
+  rrrreally considerate of you. :)
+
+author: dew
+e-mail: dewww@seznam.cz

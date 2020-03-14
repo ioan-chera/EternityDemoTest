@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:  pl2.wad   
+Pwad name: Plutonia 2
+Maps:      map01 "Come Back"
+Skill:     5
+Category:  Nightmare! with 100%secrets
+Exe:       glboom.exe ( prboom-2.5.0-win32)
+
+Time:   03:50!!!!!!!!! 
+
+Author:DidierTranber 
+Email: dia.didier@gmx.fr   
+
+Comments:playing this map on nightmare is horrible!!!!!

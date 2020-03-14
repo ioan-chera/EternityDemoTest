@@ -1,0 +1,20 @@
+Pwad:      pl2.wad (Plutonia 2)
+Map:       map04 (Filth by Fredrik)
+Category:  NoMo
+
+Iwad:      Plutonia.wad
+Exe:       prBoom+ 2.5.1.4 w/ -complevel 4 (Final Doom)
+
+-----------------
+Time:      0:16.49
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+I couldn't chain the tricks and I was getting upset, so I took a break to brush my teeth.
+Then I got this beauty within 5 minutes.
+Brush your teeth for smoother glides, don't let filth drag you down. 
+
+Recorded:  March 18th, 2013

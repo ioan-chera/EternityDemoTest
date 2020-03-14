@@ -1,0 +1,12 @@
+IWAD: Plutonia
+PWAD(s): PL2
+Authour of PWAD: Various
+Recorded with: PrBoom Plus 2.5.1.3
+Category: NoMonsters
+Map: 28
+Complevel: 4
+Time: 1:11.97
+
+Not very good, grabbing the yellow key while it's lowering would alone save about one second so I think at least 1:09 should be doable. I really can't be arsed with it since the elevator part makes me cry. I really wished it was possible to make doomguy do a sadface every time I pointlessly try to grab red key and fail. Outside of missing the yellow key grab this is pretty smooth though. 
+The design for that switch you press through a wall is pretty interesting by the way. It doesn't open the red door, it activates a crusher that blows up a barrel which moves a voodoo doll through a linedef that permanently opens the red door (causing you to take 9 damage in the process). It's function in a max run is activating two crushers that kill archviles you otherwise couldn't, why it also opens the red door in such a Rube Goldberg fashion I have no idea.
+-kunkun

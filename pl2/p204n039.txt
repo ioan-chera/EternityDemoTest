@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/wad1086.html
+
+Pwad: pl2.wad
+Pwad name: Plutonia 2
+Map:      MAP04
+Skill:     5
+Category:  NM-Speed
+Exe:       PRBoom+v2.5.1.3cl4
+
+Time:      0:39
+
+Author:    AD_79
+Email:     ad79sda@gmail.com
+
+Comments: Very improvable, but I just wanted to get an exit.
+

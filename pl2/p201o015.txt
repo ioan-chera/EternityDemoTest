@@ -1,0 +1,17 @@
+Game:           Doom2 Plutonia (1.9f)
+File:           PL2.wad
+Category:       nomonsters
+Mission:        map01
+Skill:          4
+
+Time:           15.51
+
+
+Comments:       Phew! Finally got my first quick crab and this is the end result. Really happy
+                I didn't make any big mistakes, so the result was "easy" 15, but still far
+                from 14.
+                This map is a headache with that quick crab, so I wish tons of luck for the
+                guy going for 14 seconds.
+                PS. Eat poop, Gusta.
+
+Author:         Looper

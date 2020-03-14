@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      pl2
+Pwad name: plutonia 2
+Maps:      10
+Skill:     4
+Category: uv Max 
+Exe:       Doom2.exe
+
+Time:      5:10
+Complevel: 4
+Port Used: Prboom plus 2.5.0.6
+Author:    Various
+Email:     mzahidirshad85@gmail.com
+
+Comments:  Real Scientific layout (esp first switch's effect realy impressed me when first time i see)......
+100% kills gaining is an problem thanx to some stupid cacos then blue key rooms pain elements can be real annoying as thier daughters are free to move in that whole premises.............
+ any ways map is fun 

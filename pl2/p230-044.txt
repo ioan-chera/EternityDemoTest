@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P230-044.TXT
+
+ P230-044.ZIP
+
+  P230-044.LMP - UV Speed!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 30, "The gate-watcher"
+
+  Kills     66%
+  Items     50%             ++++++++
+  Secrets    0%  and Time   + 0:44 +
+                            ++++++++
+
+  ####################################################################################
+  # Description:# Hi :)
+  ############### A good improvement of my old time. There's still some way to gain secs here,
+  # like not killing the first cyber, but then things can get quite troublesome.
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

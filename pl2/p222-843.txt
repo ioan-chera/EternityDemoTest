@@ -1,0 +1,45 @@
+This is a Doom .LMP - Please forward it...
+
+p222-843.txt
+
+p222-843.zip
+
+p222-843.lmp - Ultra-Violence Max
+
+Recorded using The Final Doom Version 1.9
+Doom2 -PlayDemo with The Final Doom Version 1.9 -pl2.wad
+
+
+Plutonia 2 - MAP 22 - Locus Perditus
+
+
+================
+Kills      100%
+Items       75%
+Secrets    100%
+----------------
+Time       8:43
+================
+
+
+Description:
+
+This map is very tough because there are some unfair traps.
+If the arch-vile doesn't attack you soon after you get 
+the red key, you can't give rockets to the vile well and 
+are interfered by cacodemons. The yellow key's trap is 
+also tricky. Some enemies prevent you avoiding Cyber's
+missiles. This run is still slow. Especially, the latter 
+part is very slow. I haven't yet spent much time and come 
+up with any good strategy.
+
+I included demos in which a bug happened. A mancubus fell 
+into under the floor sometimes for some reasons. It made 
+me get irritated a little. 
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

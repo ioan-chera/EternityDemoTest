@@ -1,0 +1,30 @@
+p233-044.txt
+  p233-044.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.1 with Final Doom compatibility (-complevel 4)
+
+  Plutonia 2 - map 33 - Chocolate (by The Green Herring)
+
+  ================
+  Kills        11%
+  Items        ?%
+  Secrets      40%
+  ----------------
+  Time       0:44
+  ================
+
+  Description:
+  Anima's Claustrophobia map33 demo reminded me pl2 has a 33 too. :)
+  This run is just so-so. I'm not content with it, but I couldn't get a faster exit,
+  so whatever. There's some seconds lost on general slowliness, but the main problem
+  is the glide.
+
+  You know how Doomguy slides left-wise when you push straight against a wall?
+  Well, sometimes (mostly), the AV blast 'reverses the polarity' and he slides right.
+  This of course makes gliding the right hole much easier than the left (normal) one.
+  Figuring this out made my head hurt while getting killed a lot. Of course it's
+  annoying to check out which 'polarity' you have, but at least the probability
+  of succeeding on the glide is higher. Optimum lies below 40.
+
+author: dew
+e-mail: dewww@seznam.cz

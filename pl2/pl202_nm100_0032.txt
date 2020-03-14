@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Plutonia 2
+wad:pl2.wad
+map:02 "jungle spirits"
+
+Skill: 5    
+Category: nightmare with 100%secrets
+Exe:       glboom.exe (prboom PLUS V 2.5.0.7 win 32) complevel 4
+
+Time: 00:32      
+
+Author:DidierTranber    
+Email:dia.didier@gmx.fr     
+
+Comments:I didn't shot any shot until i realize the jump,hence some monsters
+didn't teleport.

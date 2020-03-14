@@ -1,0 +1,47 @@
+http://doomedsda.us/
+
+________________________________________________ _____________________
+| PWAD:          | pl2.wad                     | |  Kills     101 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | p204t900.lmp                | |  Items     100 %  |
+|________________|_____________________________| |___________________|
+| Category:      | Tyson                       | |  Secrets   100 %  |
+|________________|_____________________________| |___________________|
+| Map:           | MAP04 - Filth               | |            ____   |
+|                |                             | |           /    \  |
+|________________|_____________________________| | and Time: |9:00|  |
+| Exe/Port used: | Prboom+ 2.5.1.4-k           | |           \____/  |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 8.07.2019                   | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| There are mistakes, but who cares when so many things went perfect:|
+| the dead arachnotron, an imp fireball distracting the baron, quite |
+| smooth killing of the pain elemental duo, and more. Happy with the |
+| time!                                                              |
+|                                                                    |
+| That said, this is my 4th exit after 11:42, 11:11 and 10:10, the   |
+| last one I thought was already lucky. So I'm also really proud of  |
+| my past self!                                                      |
+|                                                                    |
+| Beat Your Own Demos Month #5.                                      |
+|____________________________________________________________________|
+|             |       |                                              |
+| Old records | 13:48 | vdgg                                         |
+|             |       |                                              |
+|             | 11:45 | vdgg                                         |
+|_____________|_______|______________________________________________|
+|                                                                    |
+| My recording command line:                                         |
+| prboom-plus -iwad plutonia -file pl2 -complevel 4 -skill 4 -warp 4 |
+| -record xxxxx                                                      |
+|                                                                    |
+| Playback:                                                          |
+| prboom-plus -iwad plutonia -file pl2 -playdemo p204t900            |
+|____________________________________________________________________|

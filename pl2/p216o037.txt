@@ -1,0 +1,11 @@
+IWAD: Plutonia
+PWAD(s): PL2
+Authour of PWAD: Various
+Recorded with: PrBoom Plus 2.5.1.3
+Category: NoMonsters
+Map: 16
+Complevel: 4
+Time: 37.80
+
+This demo has no guided glides, guideless glides, void glides, rocket jumps, 192 unit jumps, archvile jumps, difficult jumps at all really, monsters opening locked doors, damage boosting, linedef skips, key grabs, switches from lava, switches through walls, intercept overflows (now that would be an interesting speedrunning trick), thing running or even wall running so clearly there's something wrong with it.
+-kunkun

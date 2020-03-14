@@ -1,0 +1,25 @@
+WAD: PL2
+MAP: MAP11: Arch-Violence
+Time: 1:57.97
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: March 22, 2013
+
+Hmm, this map is one of many that seems to lack a good shortcut when
+playing with the -nomonsters parameter. Nevertheless, I really like this
+map, and how the level progresses and seems different all the time
+despite only a few textures/flats being used.
+
+I thought I should try to record another demo for the demopack, and maybe
+nobody else would want to do such a long map, so I figured I'd do it
+since I like it so much. :)
+
+However, I was lazy enough only to get the time below 2 minutes. With
+better, less choppy running, and fewer wallbumps, this time can be better.
+Maybe another, better route is possible?
+
+In my defense though, it's hard to run smoothly with so many quick twists
+and turns, and so many sticking-out walls make a run with no wallbumps
+nearly impossible without TAS.
+
+--Doomdaniel95

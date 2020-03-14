@@ -1,0 +1,50 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      http://ftp.mancubus.net/pub/idgames/levels/doom2/megawads/pl2.zip
+Pwad name: Plutonia2 (PL2.WAD)
+Map:       10 ("Cosmodrome" by Thomas van der Velden)
+Skill:     4
+Category:  UV-Max
+Exe:       Doom2.exe v1.9 (Final DooM Version)
+
+Time:      5:25
+
+Author:    pa1ny
+Email:     pa1ny@gmx.de
+
+Files:
+P210-525.txt
+P210-525.lmp
+
+P210-525.zip
+
+Recorded using prboom-plus 2.5.0.2
+Final Doom compatibility (-complevel 4)
+Play: DOOM2.EXE -file plutonia.wad pl2.wad -playdemo p210-525
+or prboom -iwad plutonia.wad -file pl2.wad -playdemo p210-525
+
+Plutonia 2 - MAP 10 - Cosmodrome
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       5:25
+================
+
+
+Comments:
+
+It was time to improve one of my own old demos since skepticist showed
+me that 6:44 isn't really a good time for this map and he did a 6:18 demo
+with ease :)
+Main problem in this map is to get true 100% kills, because sometimes
+there were one or two damn cacos left behind in some sneaky corners.
+I hated the last caco at the "lottery" lift and should've better used the
+chaingun there, but I just didn't think, that it had so much health left.
+Everything else went smooth or at least "ok" for me :)
+
+
+- June 26, 2009 -

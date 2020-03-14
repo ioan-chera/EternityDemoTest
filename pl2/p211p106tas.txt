@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P211p106tas.TXT
+
+ P211p106tas.ZIP
+
+  P211p106tas.LMP - Pacifist!
+
+  Recorded using "Prboom-plus version 2.5.1.1"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: Plutonia 2 - Level 11, "Arch-Violence"
+
+  SEGMENTED DEMO!
+
+  Kills       0%
+  Items      ??%            +++++++++
+  Secrets    ??%  and Time  +  1:06 +
+                            +++++++++
+
+  #####################################################################################
+  # Description:  # Hi :)
+  ################# I've been trying this in no-tas since 2013, but I always died at the
+  # final part, since you need some luck there. So I decided to do this, but this time
+  # I wanted to get a very good time, and even though under 1 minute is possible, I'm 
+  # still satisfied with this. You can gain some seconds by doing immediately the double jump
+  # and then jumping from the platform where you usually glide the bars to the edge near the
+  # lamp, avoiding going through the 2 arcs again, but it's quite hard so I prefered the
+  # easier way. As usual, a very funny level to play!
+  # Enjoy it!
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93x@msn.com

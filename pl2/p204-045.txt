@@ -1,0 +1,36 @@
+This is a Doom .LMP - Please forward it...
+
+p204-045.txt
+
+ p204-045.zip
+
+  p204-045.lmp - Ultra-Violence Speed (also Pacifist)
+
+  Recorded using prboom-plus 2.5.0.1
+  Final Doom compatibility (-complevel 4)
+
+
+  Plutonia 2 - map 04 - Filth
+
+
+  ================
+  Kills        20%
+  Items        ?%
+  Secrets      0%
+  ----------------
+  Time       0:45
+  ================
+
+
+  Description:
+
+  Finally everything worked as planned and lenghtily optimized.
+  I've been training this for 3 days, starting at 1:23.
+  This was my first glided map so I suppose it's an easy one :)
+  The first SR50 jump, on the other hand, is a bitch. I killed
+  both the shotgunners in the windows, because those bastards
+  kept blowing the barrels when I was preparing the right angle.
+  This was hell.
+
+author: dew
+e-mail: dewww@seznam.cz
