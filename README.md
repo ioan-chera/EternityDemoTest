@@ -15,7 +15,7 @@ You need Python. You need to have the `joblib` package installed. You can instal
 
 Run **testdemos.py**. It will launch Eternity without UI on as many parallel instances as there are processor cores.
 
-Optional argument: `--cpu <number_of_cores>`. If used, it can limit the work to a few of the processors.
+Optional argument: `--cpu <number_of_cores>`. If used, it can limit the work to a few of the processors. See `--help` for more command-line options.
 
 ## Caution
 1. When git-cloning: size may be signifiant, and it is going to grow.
