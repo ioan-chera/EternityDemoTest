@@ -64,3 +64,4 @@
 2 hr/solo-net -file hr/hr.wad -solo-net
 2 hr/deh -file hr/hr.wad -deh hr/d.deh
 p pl2 -file pl2/PL2.WAD -deh pl2/PL2.DEH
+2 pl2/doom2 -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH
