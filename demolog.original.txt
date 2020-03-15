@@ -16464,3 +16464,2807 @@
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file hr/hr.wad -deh hr/d.deh -fastdemo hr/deh/hr25_130.lmp -demolog temp-logs/3350.txt 
 0	Setup MAP25
 3164	Exit normal		(k: 100%, i: 26%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/0844p2e1.lmp -demolog temp-logs/0.txt
+0	Setup MAP01
+1453	Exit normal		(k: 13%, i: 7%, s: 0%)
+1453	Exit normal		(k: 13%, i: 7%, s: 0%)
+1529	Setup MAP02
+3225	Exit normal		(k: 18%, i: 25%, s: 0%)
+3306	Setup MAP03
+4072	Exit normal		(k: 8%, i: 1%, s: 0%)
+4072	Exit normal		(k: 8%, i: 1%, s: 0%)
+4214	Setup MAP04
+6628	Exit normal		(k: 26%, i: 11%, s: 0%)
+6704	Setup MAP05
+7267	Exit normal		(k: 0%, i: 0%, s: 0%)
+7267	Exit normal		(k: 0%, i: 0%, s: 0%)
+7336	Setup MAP06
+9579	Exit normal		(k: 11%, i: 7%, s: 40%)
+9748	Setup MAP07
+11021	Exit normal		(k: 13%, i: 66%, s: 100%)
+11021	Exit normal		(k: 13%, i: 66%, s: 100%)
+11142	Setup MAP08
+12250	Exit normal		(k: 15%, i: 4%, s: 0%)
+12333	Setup MAP09
+15562	Exit normal		(k: 17%, i: 2%, s: 50%)
+15562	Exit normal		(k: 17%, i: 2%, s: 50%)
+15652	Setup MAP10
+19387	Exit normal		(k: 25%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/1236p2e1.lmp -demolog temp-logs/1.txt
+0	Setup MAP01
+1632	Exit normal		(k: 31%, i: 3%, s: 0%)
+1693	Setup MAP02
+3682	Exit normal		(k: 18%, i: 25%, s: 0%)
+3682	Exit normal		(k: 18%, i: 25%, s: 0%)
+3780	Setup MAP03
+6513	Exit normal		(k: 12%, i: 1%, s: 0%)
+6513	Exit normal		(k: 12%, i: 1%, s: 0%)
+6630	Setup MAP04
+10873	Exit normal		(k: 45%, i: 22%, s: 100%)
+10873	Exit normal		(k: 45%, i: 22%, s: 100%)
+10955	Setup MAP05
+11994	Exit normal		(k: 12%, i: 50%, s: 0%)
+12099	Setup MAP06
+15902	Exit normal		(k: 16%, i: 9%, s: 40%)
+15902	Exit normal		(k: 16%, i: 9%, s: 40%)
+16082	Setup MAP07
+17658	Exit normal		(k: 13%, i: 66%, s: 100%)
+17658	Exit normal		(k: 13%, i: 66%, s: 100%)
+17798	Setup MAP08
+19407	Exit normal		(k: 19%, i: 13%, s: 0%)
+19547	Setup MAP09
+22069	Exit normal		(k: 22%, i: 6%, s: 50%)
+22209	Setup MAP10
+27657	Exit normal		(k: 33%, i: 0%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/1520p2e1.lmp -demolog temp-logs/2.txt
+0	Setup MAP01
+1881	Exit normal		(k: 28%, i: 7%, s: 0%)
+1881	Exit normal		(k: 28%, i: 7%, s: 0%)
+1952	Setup MAP02
+3719	Exit normal		(k: 18%, i: 25%, s: 0%)
+3793	Setup MAP03
+9487	Exit normal		(k: 24%, i: 1%, s: 0%)
+9487	Exit normal		(k: 24%, i: 1%, s: 0%)
+9539	Setup MAP04
+13490	Exit normal		(k: 35%, i: 22%, s: 100%)
+13558	Setup MAP05
+15059	Exit normal		(k: 13%, i: 50%, s: 0%)
+15059	Exit normal		(k: 13%, i: 50%, s: 0%)
+15128	Setup MAP06
+19806	Exit normal		(k: 16%, i: 8%, s: 40%)
+19923	Setup MAP07
+21288	Exit normal		(k: 12%, i: 66%, s: 100%)
+21378	Setup MAP08
+25720	Exit normal		(k: 42%, i: 22%, s: 50%)
+25816	Setup MAP09
+28226	Exit normal		(k: 23%, i: 6%, s: 50%)
+28226	Exit normal		(k: 23%, i: 6%, s: 50%)
+28311	Setup MAP10
+33119	Exit normal		(k: 26%, i: 0%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/2856p2e2.lmp -demolog temp-logs/3.txt
+0	Setup MAP11
+6953	Exit normal		(k: 20%, i: 18%, s: 0%)
+7100	Setup MAP12
+12289	Exit normal		(k: 56%, i: 50%, s: 33%)
+12400	Setup MAP13
+18139	Exit normal		(k: 21%, i: 29%, s: 25%)
+18228	Setup MAP14
+29459	Exit normal		(k: 113%, i: 66%, s: 71%)
+29459	Exit normal		(k: 113%, i: 66%, s: 71%)
+29668	Setup MAP15
+30911	Exit normal		(k: 4%, i: 33%, s: 33%)
+31004	Setup MAP16
+31774	Exit normal		(k: 11%, i: 8%, s: 0%)
+31977	Setup MAP17
+34321	Exit normal		(k: 12%, i: 2%, s: 0%)
+34417	Setup MAP18
+46025	Exit normal		(k: 33%, i: 2%, s: 100%)
+46025	Exit normal		(k: 33%, i: 2%, s: 100%)
+46217	Setup MAP19
+48921	Exit normal		(k: 9%, i: 50%, s: 0%)
+48921	Exit normal		(k: 9%, i: 50%, s: 0%)
+49083	Setup MAP20
+62190	Exit normal		(k: 56%, i: 40%, s: 100%)
+62190	Exit normal		(k: 56%, i: 40%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/30p2sx12213.lmp -demolog temp-logs/4.txt
+0	Setup MAP01
+4956	Exit normal		(k: 111%, i: 19%, s: 100%)
+5086	Setup MAP02
+7631	Exit normal		(k: 32%, i: 62%, s: 100%)
+7796	Setup MAP03
+13419	Exit normal		(k: 65%, i: 83%, s: 100%)
+13774	Setup MAP04
+18133	Exit normal		(k: 59%, i: 11%, s: 100%)
+18360	Setup MAP05
+19059	Exit normal		(k: 8%, i: 50%, s: 100%)
+19280	Setup MAP06
+27248	Exit normal		(k: 63%, i: 36%, s: 100%)
+27804	Setup MAP07
+28901	Exit normal		(k: 18%, i: 66%, s: 100%)
+28901	Exit normal		(k: 18%, i: 66%, s: 100%)
+29194	Setup MAP08
+30672	Exit normal		(k: 36%, i: 13%, s: 100%)
+30924	Setup MAP09
+33490	Exit normal		(k: 39%, i: 26%, s: 100%)
+34179	Setup MAP10
+39532	Exit normal		(k: 68%, i: 100%, s: 100%)
+39647	Setup MAP11
+45183	Exit normal		(k: 20%, i: 31%, s: 100%)
+45615	Setup MAP12
+51569	Exit normal		(k: 76%, i: 75%, s: 100%)
+51569	Exit normal		(k: 76%, i: 75%, s: 100%)
+51998	Setup MAP13
+67900	Exit normal		(k: 95%, i: 38%, s: 100%)
+68344	Setup MAP14
+80425	Exit normal		(k: 121%, i: 100%, s: 100%)
+80425	Exit normal		(k: 121%, i: 100%, s: 100%)
+80563	Setup MAP15
+81659	Exit secret		(k: 21%, i: 100%, s: 100%)
+82062	Setup MAP31
+92346	Exit secret		(k: 112%, i: 100%, s: 100%)
+92864	Setup MAP32
+95963	Exit normal		(k: 45%, i: 46%, s: 100%)
+96086	Setup MAP16
+97228	Exit normal		(k: 26%, i: 21%, s: 100%)
+97228	Exit normal		(k: 26%, i: 21%, s: 100%)
+97392	Setup MAP17
+100158	Exit normal		(k: 20%, i: 8%, s: 100%)
+100282	Setup MAP18
+102649	Exit normal		(k: 24%, i: 5%, s: 100%)
+102649	Exit normal		(k: 24%, i: 5%, s: 100%)
+102968	Setup MAP19
+106944	Exit normal		(k: 37%, i: 100%, s: 100%)
+107130	Setup MAP20
+114046	Exit normal		(k: 67%, i: 60%, s: 100%)
+114046	Exit normal		(k: 67%, i: 60%, s: 100%)
+114327	Setup MAP21
+119791	Exit normal		(k: 26%, i: 14%, s: 100%)
+120021	Setup MAP22
+122685	Exit normal		(k: 29%, i: 75%, s: 100%)
+122775	Setup MAP23
+130693	Exit normal		(k: 76%, i: 76%, s: 100%)
+130851	Setup MAP24
+133739	Exit normal		(k: 35%, i: 75%, s: 100%)
+134001	Setup MAP25
+138723	Exit normal		(k: 55%, i: 9%, s: 100%)
+139290	Setup MAP26
+155480	Exit normal		(k: 99%, i: 69%, s: 100%)
+155732	Setup MAP27
+168113	Exit normal		(k: 113%, i: 100%, s: 100%)
+168425	Setup MAP28
+175952	Exit normal		(k: 37%, i: 36%, s: 100%)
+176053	Setup MAP29
+178463	Exit normal		(k: 6%, i: 9%, s: 100%)
+178463	Exit normal		(k: 6%, i: 9%, s: 100%)
+178725	Setup MAP30
+181766	death player 1 (k: 277%, i: 50%, s: 100%)
+181944	Exit normal		(k: 311%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/30p2x1455.lmp -demolog temp-logs/5.txt
+0	Setup MAP01
+591	Exit normal		(k: 3%, i: 0%, s: 0%)
+661	Setup MAP02
+1079	Exit normal		(k: 3%, i: 0%, s: 0%)
+1164	Setup MAP03
+1714	Exit normal		(k: 3%, i: 1%, s: 0%)
+1782	Setup MAP04
+2406	Exit normal		(k: 7%, i: 0%, s: 0%)
+2514	Setup MAP05
+2821	Exit normal		(k: 0%, i: 0%, s: 0%)
+2900	Setup MAP06
+3698	Exit normal		(k: 1%, i: 4%, s: 40%)
+3698	Exit normal		(k: 1%, i: 4%, s: 40%)
+3910	Setup MAP07
+4842	Exit normal		(k: 15%, i: 66%, s: 100%)
+4842	Exit normal		(k: 15%, i: 66%, s: 100%)
+4895	Setup MAP08
+5259	Exit normal		(k: 3%, i: 4%, s: 0%)
+5308	Setup MAP09
+5724	Exit normal		(k: 6%, i: 2%, s: 0%)
+5818	Setup MAP10
+7811	Exit normal		(k: 13%, i: 0%, s: 0%)
+7954	Setup MAP11
+9759	Exit normal		(k: 7%, i: 4%, s: 0%)
+9908	Setup MAP12
+12145	Exit normal		(k: 33%, i: 50%, s: 33%)
+12210	Setup MAP13
+12586	Exit normal		(k: 3%, i: 6%, s: 0%)
+12638	Setup MAP14
+14176	Exit normal		(k: 24%, i: 0%, s: 0%)
+14262	Setup MAP15
+14538	Exit normal		(k: 0%, i: 33%, s: 0%)
+14600	Setup MAP16
+14773	Exit normal		(k: 4%, i: 0%, s: 0%)
+14833	Setup MAP17
+15277	Exit normal		(k: 1%, i: 2%, s: 0%)
+15336	Setup MAP18
+15751	Exit normal		(k: 2%, i: 2%, s: 100%)
+15817	Setup MAP19
+16126	Exit normal		(k: 1%, i: 25%, s: 0%)
+16207	Setup MAP20
+18299	Exit normal		(k: 7%, i: 10%, s: 0%)
+18425	Setup MAP21
+19574	Exit normal		(k: 4%, i: 3%, s: 0%)
+19625	Setup MAP22
+20765	Exit normal		(k: 10%, i: 25%, s: 0%)
+20815	Setup MAP23
+21548	Exit normal		(k: 9%, i: 1%, s: 0%)
+21648	Setup MAP24
+22257	Exit normal		(k: 6%, i: 25%, s: 0%)
+22333	Setup MAP25
+23194	Exit normal		(k: 2%, i: 3%, s: 0%)
+23293	Setup MAP26
+27836	Exit normal		(k: 37%, i: 4%, s: 0%)
+27922	Setup MAP27
+29702	Exit normal		(k: 18%, i: 50%, s: 0%)
+29787	Setup MAP28
+31919	Exit normal		(k: 9%, i: 9%, s: 0%)
+31989	Setup MAP29
+33103	Exit normal		(k: 0%, i: 7%, s: 0%)
+33103	Exit normal		(k: 0%, i: 7%, s: 0%)
+33166	Setup MAP30
+34587	Exit normal		(k: 77%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/30p2xnm5030.lmp -demolog temp-logs/6.txt
+0	Setup MAP01
+1198	Exit normal		(k: 28%, i: 3%, s: 0%)
+1312	Setup MAP02
+3038	Exit normal		(k: 21%, i: 25%, s: 0%)
+3329	Setup MAP03
+5012	Exit normal		(k: 18%, i: 1%, s: 0%)
+5298	Setup MAP04
+8394	Exit normal		(k: 37%, i: 11%, s: 0%)
+8475	Setup MAP05
+8909	Exit normal		(k: 3%, i: 0%, s: 0%)
+9006	Setup MAP06
+10819	Exit normal		(k: 11%, i: 3%, s: 40%)
+10950	Setup MAP07
+12088	Exit normal		(k: 16%, i: 100%, s: 100%)
+12266	Setup MAP08
+13082	Exit normal		(k: 15%, i: 4%, s: 0%)
+13082	Exit normal		(k: 15%, i: 4%, s: 0%)
+13178	Setup MAP09
+14865	Exit normal		(k: 25%, i: 4%, s: 50%)
+14865	Exit normal		(k: 25%, i: 4%, s: 50%)
+15190	Setup MAP10
+19678	Exit normal		(k: 44%, i: 0%, s: 20%)
+19811	Setup MAP11
+26435	Exit normal		(k: 22%, i: 21%, s: 0%)
+26764	Setup MAP12
+32231	Exit normal		(k: 67%, i: 50%, s: 33%)
+32552	Setup MAP13
+36729	Exit normal		(k: 18%, i: 34%, s: 25%)
+37106	Setup MAP14
+47433	Exit normal		(k: 122%, i: 66%, s: 57%)
+47683	Setup MAP15
+48365	Exit normal		(k: 3%, i: 66%, s: 33%)
+48365	Exit normal		(k: 3%, i: 66%, s: 33%)
+48671	Setup MAP16
+49315	Exit normal		(k: 10%, i: 8%, s: 0%)
+49445	Setup MAP17
+50211	Exit normal		(k: 6%, i: 0%, s: 0%)
+50318	Setup MAP18
+52410	Exit normal		(k: 22%, i: 2%, s: 100%)
+52567	Setup MAP19
+53534	Exit normal		(k: 4%, i: 50%, s: 0%)
+53718	Setup MAP20
+59959	Exit normal		(k: 32%, i: 30%, s: 50%)
+60144	Setup MAP21
+64056	Exit normal		(k: 15%, i: 7%, s: 0%)
+64056	Exit normal		(k: 15%, i: 7%, s: 0%)
+64409	Setup MAP22
+66787	Exit normal		(k: 24%, i: 50%, s: 0%)
+67027	Setup MAP23
+72084	Exit normal		(k: 53%, i: 30%, s: 40%)
+72233	Setup MAP24
+75255	Exit normal		(k: 37%, i: 50%, s: 50%)
+75529	Setup MAP25
+78388	Exit normal		(k: 23%, i: 3%, s: 0%)
+78388	Exit normal		(k: 23%, i: 3%, s: 0%)
+78918	Setup MAP26
+93602	Exit normal		(k: 91%, i: 17%, s: 50%)
+93806	Setup MAP27
+101777	Exit normal		(k: 75%, i: 100%, s: 50%)
+102386	Setup MAP28
+108497	Exit normal		(k: 22%, i: 18%, s: 33%)
+108601	Setup MAP29
+110751	Exit normal		(k: 4%, i: 10%, s: 100%)
+110751	Exit normal		(k: 4%, i: 10%, s: 100%)
+111002	Setup MAP30
+113319	Exit normal		(k: 177%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/NevanPL2Map12.lmp -demolog temp-logs/7.txt
+0	Setup MAP12
+11242	Exit normal		(k: 100%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P201-018.LMP -demolog temp-logs/8.txt
+0	Setup MAP01
+663	Exit normal		(k: 1%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P201-020a.LMP -demolog temp-logs/9.txt
+0	Setup MAP01
+729	Exit normal		(k: 8%, i: 0%, s: 0%)
+729	Exit normal		(k: 8%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P201-020b.LMP -demolog temp-logs/10.txt
+0	Setup MAP01
+700	Exit normal		(k: 6%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P201-020c.LMP -demolog temp-logs/11.txt
+0	Setup MAP01
+702	Exit normal		(k: 6%, i: 0%, s: 0%)
+702	Exit normal		(k: 6%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P201-020d.LMP -demolog temp-logs/12.txt
+0	Setup MAP01
+729	Exit normal		(k: 10%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P201-132.lmp -demolog temp-logs/13.txt
+0	Setup MAP01
+3246	Exit normal		(k: 100%, i: 11%, s: 100%)
+3246	Exit normal		(k: 100%, i: 11%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P202-012.LMP -demolog temp-logs/14.txt
+0	Setup MAP02
+447	Exit normal		(k: 2%, i: 0%, s: 0%)
+447	Exit normal		(k: 2%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P202n015.LMP -demolog temp-logs/15.txt
+0	Setup MAP02
+542	Exit normal		(k: 10%, i: 12%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P203-017.lmp -demolog temp-logs/16.txt
+0	Setup MAP03
+608	Exit normal		(k: 3%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P205n008.LMP -demolog temp-logs/17.txt
+0	Setup MAP05
+312	Exit normal		(k: 2%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P206-016.lmp -demolog temp-logs/18.txt
+0	Setup MAP06
+582	Exit normal		(k: 1%, i: 3%, s: 20%)
+582	Exit normal		(k: 1%, i: 3%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P206-017.lmp -demolog temp-logs/19.txt
+0	Setup MAP06
+610	Exit normal		(k: 1%, i: 8%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P207-453.lmp -demolog temp-logs/20.txt
+0	Setup MAP07
+10255	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P208-012.LMP -demolog temp-logs/21.txt
+0	Setup MAP08
+430	Exit normal		(k: 1%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P208-035.LMP -demolog temp-logs/22.txt
+0	Setup MAP08
+1229	Exit normal		(k: 19%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P210-144.LMP -demolog temp-logs/23.txt
+0	Setup MAP10
+3644	Exit normal		(k: 29%, i: 11%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P213-025.LMP -demolog temp-logs/24.txt
+0	Setup MAP13
+895	death player 1 (k: 5%, i: 9%, s: 0%)
+900	Exit normal		(k: 5%, i: 9%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P215-007.lmp -demolog temp-logs/25.txt
+0	Setup MAP15
+266	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P215-236.lmp -demolog temp-logs/26.txt
+0	Setup MAP15
+5475	Exit secret		(k: 100%, i: 100%, s: 100%)
+5475	Exit secret		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P215-327.LMP -demolog temp-logs/27.txt
+0	Setup MAP15
+7257	Exit secret		(k: 103%, i: 100%, s: 100%)
+7257	Exit secret		(k: 103%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P215n007.LMP -demolog temp-logs/28.txt
+0	Setup MAP15
+277	Exit normal		(k: 3%, i: 33%, s: 0%)
+277	Exit normal		(k: 3%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P215s012.LMP -demolog temp-logs/29.txt
+0	Setup MAP15
+433	Exit secret		(k: 0%, i: 66%, s: 33%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P216-006.LMP -demolog temp-logs/30.txt
+0	Setup MAP16
+237	Exit normal		(k: 1%, i: 0%, s: 0%)
+237	Exit normal		(k: 1%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P216-009.LMP -demolog temp-logs/31.txt
+0	Setup MAP16
+333	Exit normal		(k: 1%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P222bug1.LMP -demolog temp-logs/32.txt
+0	Setup MAP22
+2378	death player 1 (k: 12%, i: 25%, s: 0%)
+2516	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P222bug2.LMP -demolog temp-logs/33.txt
+0	Setup MAP22
+908	death player 1 (k: 0%, i: 12%, s: 0%)
+1204	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P224-019.LMP -demolog temp-logs/34.txt
+0	Setup MAP24
+674	Exit normal		(k: 3%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P232-224.lmp -demolog temp-logs/35.txt
+0	Setup MAP32
+5050	Exit normal		(k: 76%, i: 60%, s: 100%)
+5050	Exit normal		(k: 76%, i: 60%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/P2331306.LMP -demolog temp-logs/36.txt
+0	Setup MAP33
+27512	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2 map 1.lmp -demolog temp-logs/37.txt
+0	Setup MAP01
+5325	Exit normal		(k: 100%, i: 7%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2 map 5 UV-Pacifist.lmp -demolog temp-logs/38.txt
+0	Setup MAP05
+435	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2 map 7.lmp -demolog temp-logs/39.txt
+0	Setup MAP07
+12051	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2 map10.lmp -demolog temp-logs/40.txt
+0	Setup MAP10
+17203	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2 map12.lmp -demolog temp-logs/41.txt
+0	Setup MAP12
+16711	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2 map31.lmp -demolog temp-logs/42.txt
+0	Setup MAP31
+18683	Exit secret		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2 map31_1.lmp -demolog temp-logs/43.txt
+0	Setup MAP31
+19213	Exit secret		(k: 101%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-05-604.lmp -demolog temp-logs/44.txt
+0	Setup MAP05
+12748	Exit normal		(k: 102%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-06-1325.lmp -demolog temp-logs/45.txt
+0	Setup MAP06
+28202	Exit normal		(k: 100%, i: 55%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-08-549.lmp -demolog temp-logs/46.txt
+0	Setup MAP08
+12242	Exit normal		(k: 101%, i: 77%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-09-742.lmp -demolog temp-logs/47.txt
+0	Setup MAP09
+16184	Exit normal		(k: 102%, i: 91%, s: 100%)
+16184	Exit normal		(k: 102%, i: 91%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-10-548.lmp -demolog temp-logs/48.txt
+0	Setup MAP10
+12187	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-26-1046.lmp -demolog temp-logs/49.txt
+0	Setup MAP26
+22625	Exit normal		(k: 100%, i: 47%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-26-207.lmp -demolog temp-logs/50.txt
+0	Setup MAP26
+4469	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-27-734.lmp -demolog temp-logs/51.txt
+0	Setup MAP27
+15910	Exit normal		(k: 92%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-28-1618.lmp -demolog temp-logs/52.txt
+0	Setup MAP28
+34250	Exit normal		(k: 102%, i: 90%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/PL2-33-1022.lmp -demolog temp-logs/53.txt
+0	Setup MAP33
+21785	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/[pl2 14 tas nm100s 0737].lmp -demolog temp-logs/54.txt
+0	Setup MAP14
+16023	Exit normal		(k: 142%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/[pl2 map 02 nm100s].lmp -demolog temp-logs/55.txt
+0	Setup MAP02
+2942	Exit normal		(k: 33%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/[pl2 map 15 ns].lmp -demolog temp-logs/56.txt
+0	Setup MAP15
+313	Exit normal		(k: 3%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/[pl2 map01 nm100s].lmp -demolog temp-logs/57.txt
+0	Setup MAP01
+8073	Exit normal		(k: 138%, i: 15%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/[pl2 map05 nm100s 032].lmp -demolog temp-logs/58.txt
+0	Setup MAP05
+1148	Exit normal		(k: 15%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/[pl201- respawn 238].lmp -demolog temp-logs/59.txt
+0	Setup MAP01
+5533	Exit normal		(k: 126%, i: 19%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/map20old.lmp -demolog temp-logs/60.txt
+0	Setup MAP01
+486	Exit normal		(k: 5%, i: 3%, s: 0%)
+607	Setup MAP02
+949	Exit normal		(k: 1%, i: 0%, s: 0%)
+1053	Setup MAP03
+1482	Exit normal		(k: 3%, i: 1%, s: 0%)
+1616	Setup MAP04
+2080	Exit normal		(k: 7%, i: 0%, s: 0%)
+2080	Exit normal		(k: 7%, i: 0%, s: 0%)
+2195	Setup MAP05
+2473	Exit normal		(k: 0%, i: 0%, s: 0%)
+2623	Setup MAP06
+3199	Exit normal		(k: 1%, i: 3%, s: 40%)
+3390	Setup MAP07
+4015	Exit normal		(k: 10%, i: 66%, s: 100%)
+4015	Exit normal		(k: 10%, i: 66%, s: 100%)
+4191	Setup MAP08
+4491	Exit normal		(k: 2%, i: 4%, s: 0%)
+4640	Setup MAP09
+5022	Exit normal		(k: 5%, i: 4%, s: 50%)
+5022	Exit normal		(k: 5%, i: 4%, s: 50%)
+5168	Setup MAP10
+6912	Exit normal		(k: 13%, i: 0%, s: 0%)
+7044	Setup MAP11
+8325	Exit normal		(k: 0%, i: 1%, s: 0%)
+8520	Setup MAP12
+10284	Exit normal		(k: 29%, i: 25%, s: 0%)
+10494	Setup MAP13
+10821	Exit normal		(k: 2%, i: 2%, s: 0%)
+10962	Setup MAP14
+11994	Exit normal		(k: 21%, i: 0%, s: 0%)
+12139	Setup MAP15
+12382	Exit normal		(k: 0%, i: 33%, s: 0%)
+12548	Setup MAP16
+12714	Exit normal		(k: 2%, i: 0%, s: 0%)
+12913	Setup MAP17
+13272	Exit normal		(k: 0%, i: 2%, s: 0%)
+13408	Setup MAP18
+13629	Exit normal		(k: 1%, i: 2%, s: 100%)
+13785	Setup MAP19
+13993	Exit normal		(k: 0%, i: 25%, s: 0%)
+14156	Setup MAP20
+16035	Exit normal		(k: 23%, i: 20%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/nm05-010.LMP -demolog temp-logs/61.txt
+0	Setup MAP05
+364	Exit normal		(k: 3%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2-007.lmp -demolog temp-logs/62.txt
+0	Setup MAP15
+264	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201-017.LMP -demolog temp-logs/63.txt
+0	Setup MAP01
+600	Exit normal		(k: 3%, i: 0%, s: 0%)
+600	Exit normal		(k: 3%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201-134.lmp -demolog temp-logs/64.txt
+0	Setup MAP01
+3323	Exit normal		(k: 100%, i: 7%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201-139.lmp -demolog temp-logs/65.txt
+0	Setup MAP01
+3469	Exit normal		(k: 100%, i: 11%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201-143.lmp -demolog temp-logs/66.txt
+0	Setup MAP01
+3632	Exit normal		(k: 100%, i: 11%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201-211.lmp -demolog temp-logs/67.txt
+0	Setup MAP01
+4589	Exit normal		(k: 100%, i: 15%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2010150.lmp -demolog temp-logs/68.txt
+0	Setup MAP01
+3854	Exit normal		(k: 100%, i: 15%, s: 100%)
+3854	Exit normal		(k: 100%, i: 15%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201f-210.lmp -demolog temp-logs/69.txt
+0	Setup MAP01
+4551	Exit normal		(k: 100%, i: 15%, s: 100%)
+4551	Exit normal		(k: 100%, i: 15%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201f213.LMP -demolog temp-logs/70.txt
+0	Setup MAP01
+4685	Exit normal		(k: 100%, i: 15%, s: 100%)
+4685	Exit normal		(k: 100%, i: 15%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201n-30.lmp -demolog temp-logs/71.txt
+0	Setup MAP01
+1050	Exit normal		(k: 31%, i: 7%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201o015.lmp -demolog temp-logs/72.txt
+0	Setup MAP01
+542	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201o016.lmp -demolog temp-logs/73.txt
+0	Setup MAP01
+580	Exit normal		(k: 0%, i: 0%, s: 0%)
+580	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201o026.lmp -demolog temp-logs/74.txt
+0	Setup MAP01
+925	Exit normal		(k: 0%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201t416.lmp -demolog temp-logs/75.txt
+0	Setup MAP01
+8968	Exit normal		(k: 100%, i: 15%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201t514.lmp -demolog temp-logs/76.txt
+0	Setup MAP01
+11010	Exit normal		(k: 100%, i: 11%, s: 50%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201txxx.lmp -demolog temp-logs/77.txt
+0	Setup MAP01
+7376	death player 1 (k: 93%, i: 7%, s: 0%)
+7603	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201xo14.lmp -demolog temp-logs/78.txt
+0	Setup MAP01
+516	Exit normal		(k: 0%, i: 0%, s: 0%)
+516	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p201xo1497.lmp -demolog temp-logs/79.txt
+0	Setup MAP01
+523	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-011.LMP -demolog temp-logs/80.txt
+0	Setup MAP02
+417	Exit normal		(k: 3%, i: 0%, s: 0%)
+417	Exit normal		(k: 3%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-013.LMP -demolog temp-logs/81.txt
+0	Setup MAP02
+484	Exit normal		(k: 5%, i: 0%, s: 0%)
+484	Exit normal		(k: 5%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-339.lmp -demolog temp-logs/82.txt
+0	Setup MAP02
+7686	Exit normal		(k: 100%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-346.lmp -demolog temp-logs/83.txt
+0	Setup MAP02
+7942	Exit normal		(k: 100%, i: 87%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-359.lmp -demolog temp-logs/84.txt
+0	Setup MAP02
+8379	Exit normal		(k: 100%, i: 62%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-407.lmp -demolog temp-logs/85.txt
+0	Setup MAP02
+8663	Exit normal		(k: 100%, i: 62%, s: 100%)
+8663	Exit normal		(k: 100%, i: 62%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-408.lmp -demolog temp-logs/86.txt
+0	Setup MAP02
+8711	Exit normal		(k: 100%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-425.lmp -demolog temp-logs/87.txt
+0	Setup MAP02
+9305	Exit normal		(k: 100%, i: 62%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-447.lmp -demolog temp-logs/88.txt
+0	Setup MAP02
+10073	Exit normal		(k: 100%, i: 87%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202-520.lmp -demolog temp-logs/89.txt
+0	Setup MAP02
+11232	Exit normal		(k: 100%, i: 87%, s: 100%)
+11232	Exit normal		(k: 100%, i: 87%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2021237.lmp -demolog temp-logs/90.txt
+0	Setup MAP02
+26518	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2021738.lmp -demolog temp-logs/91.txt
+0	Setup MAP02
+37051	Exit normal		(k: 100%, i: 87%, s: 100%)
+37051	Exit normal		(k: 100%, i: 87%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202552t.lmp -demolog temp-logs/92.txt
+0	Setup MAP02
+12333	Exit normal		(k: 100%, i: 87%, s: 100%)
+12333	Exit normal		(k: 100%, i: 87%, s: 100%)
+12400	Setup MAP03
+12414	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202608t.lmp -demolog temp-logs/93.txt
+0	Setup MAP02
+12893	Exit normal		(k: 99%, i: 87%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202644t.lmp -demolog temp-logs/94.txt
+0	Setup MAP02
+14160	Exit normal		(k: 100%, i: 87%, s: 100%)
+14160	Exit normal		(k: 100%, i: 87%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202f-647.lmp -demolog temp-logs/95.txt
+0	Setup MAP02
+14260	Exit normal		(k: 100%, i: 87%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202o009.lmp -demolog temp-logs/96.txt
+0	Setup MAP02
+343	Exit normal		(k: 0%, i: 0%, s: 0%)
+343	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202o010.lmp -demolog temp-logs/97.txt
+0	Setup MAP02
+359	Exit normal		(k: 0%, i: 0%, s: 0%)
+359	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202s029.lmp -demolog temp-logs/98.txt
+0	Setup MAP02
+1032	Exit normal		(k: 19%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p202s049.lmp -demolog temp-logs/99.txt
+0	Setup MAP02
+1720	Exit normal		(k: 23%, i: 50%, s: 100%)
+1720	Exit normal		(k: 23%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203-016.lmp -demolog temp-logs/100.txt
+0	Setup MAP03
+573	Exit normal		(k: 6%, i: 1%, s: 0%)
+573	Exit normal		(k: 6%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203-018.lmp -demolog temp-logs/101.txt
+0	Setup MAP03
+651	Exit normal		(k: 5%, i: 1%, s: 0%)
+651	Exit normal		(k: 5%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203-555.lmp -demolog temp-logs/102.txt
+0	Setup MAP03
+12451	Exit normal		(k: 101%, i: 83%, s: 100%)
+12451	Exit normal		(k: 101%, i: 83%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203-750.lmp -demolog temp-logs/103.txt
+0	Setup MAP03
+16472	Exit normal		(k: 105%, i: 95%, s: 100%)
+16472	Exit normal		(k: 105%, i: 95%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203f-823.lmp -demolog temp-logs/104.txt
+0	Setup MAP03
+17632	Exit normal		(k: 103%, i: 95%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203n022.lmp -demolog temp-logs/105.txt
+0	Setup MAP03
+777	Exit normal		(k: 8%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203n030lol.lmp -demolog temp-logs/106.txt
+0	Setup MAP03
+1062	Exit normal		(k: 12%, i: 1%, s: 0%)
+1062	Exit normal		(k: 12%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203o014.lmp -demolog temp-logs/107.txt
+0	Setup MAP03
+493	Exit normal		(k: 0%, i: 1%, s: 0%)
+493	Exit normal		(k: 0%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203o037.lmp -demolog temp-logs/108.txt
+0	Setup MAP03
+1319	Exit normal		(k: 0%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203p023.lmp -demolog temp-logs/109.txt
+0	Setup MAP03
+815	Exit normal		(k: 3%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p203x015.lmp -demolog temp-logs/110.txt
+0	Setup MAP03
+536	Exit normal		(k: 3%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-019.lmp -demolog temp-logs/111.txt
+0	Setup MAP04
+691	Exit normal		(k: 7%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-020.lmp -demolog temp-logs/112.txt
+0	Setup MAP04
+730	Exit normal		(k: 2%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-020b.lmp -demolog temp-logs/113.txt
+0	Setup MAP04
+723	Exit normal		(k: 3%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-020c.lmp -demolog temp-logs/114.txt
+0	Setup MAP04
+711	Exit normal		(k: 6%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-020d.lmp -demolog temp-logs/115.txt
+0	Setup MAP04
+728	Exit normal		(k: 6%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-024.lmp -demolog temp-logs/116.txt
+0	Setup MAP04
+850	Exit normal		(k: 7%, i: 11%, s: 0%)
+850	Exit normal		(k: 7%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-031.lmp -demolog temp-logs/117.txt
+0	Setup MAP04
+1087	Exit normal		(k: 12%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-045.lmp -demolog temp-logs/118.txt
+0	Setup MAP04
+1606	Exit normal		(k: 20%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-1glide.lmp -demolog temp-logs/119.txt
+0	Setup MAP04
+109	death player 1 (k: 1%, i: 0%, s: 0%)
+146	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-2imps.lmp -demolog temp-logs/120.txt
+0	Setup MAP04
+250	death player 1 (k: 0%, i: 0%, s: 0%)
+284	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-353.lmp -demolog temp-logs/121.txt
+0	Setup MAP04
+8159	Exit normal		(k: 101%, i: 33%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-3sgguys.lmp -demolog temp-logs/122.txt
+0	Setup MAP04
+409	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-441.lmp -demolog temp-logs/123.txt
+0	Setup MAP04
+9863	Exit normal		(k: 100%, i: 22%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-459.lmp -demolog temp-logs/124.txt
+0	Setup MAP04
+10475	Exit normal		(k: 100%, i: 33%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-4revs.lmp -demolog temp-logs/125.txt
+0	Setup MAP04
+444	death player 1 (k: 2%, i: 11%, s: 0%)
+447	Setup MAP04
+458	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-5pigs.lmp -demolog temp-logs/126.txt
+0	Setup MAP04
+852	Exit normal		(k: 3%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-6jump.lmp -demolog temp-logs/127.txt
+0	Setup MAP04
+653	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204-7block.lmp -demolog temp-logs/128.txt
+0	Setup MAP04
+738	Exit normal		(k: 9%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2041145.lmp -demolog temp-logs/129.txt
+0	Setup MAP04
+24698	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204f-518.lmp -demolog temp-logs/130.txt
+0	Setup MAP04
+11150	Exit normal		(k: 102%, i: 33%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204n039.lmp -demolog temp-logs/131.txt
+0	Setup MAP04
+1378	Exit normal		(k: 25%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204o016.lmp -demolog temp-logs/132.txt
+0	Setup MAP04
+576	Exit normal		(k: 0%, i: 0%, s: 0%)
+576	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204o020cd.lmp -demolog temp-logs/133.txt
+0	Setup MAP04
+724	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204p025.lmp -demolog temp-logs/134.txt
+0	Setup MAP04
+880	Exit normal		(k: 3%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204s204.lmp -demolog temp-logs/135.txt
+0	Setup MAP04
+4356	Exit normal		(k: 45%, i: 22%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p204t900.lmp -demolog temp-logs/136.txt
+0	Setup MAP04
+18921	Exit normal		(k: 101%, i: 100%, s: 100%)
+18921	Exit normal		(k: 101%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205-008.lmp -demolog temp-logs/137.txt
+0	Setup MAP05
+301	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205-453.lmp -demolog temp-logs/138.txt
+0	Setup MAP05
+10266	Exit normal		(k: 102%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205-658.lmp -demolog temp-logs/139.txt
+0	Setup MAP05
+14641	Exit normal		(k: 104%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2051955.lmp -demolog temp-logs/140.txt
+0	Setup MAP05
+41833	Exit normal		(k: 108%, i: 100%, s: 0%)
+41833	Exit normal		(k: 108%, i: 100%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205f-557.lmp -demolog temp-logs/141.txt
+0	Setup MAP05
+12524	Exit normal		(k: 104%, i: 100%, s: 100%)
+12524	Exit normal		(k: 104%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205o014.lmp -demolog temp-logs/142.txt
+0	Setup MAP05
+520	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205o015cd.lmp -demolog temp-logs/143.txt
+0	Setup MAP05
+533	Exit normal		(k: 0%, i: 0%, s: 0%)
+533	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205o022krans.lmp -demolog temp-logs/144.txt
+0	Setup MAP05
+791	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205o027cd.lmp -demolog temp-logs/145.txt
+0	Setup MAP05
+977	Exit normal		(k: 0%, i: 0%, s: 0%)
+977	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205o028plut.lmp -demolog temp-logs/146.txt
+0	Setup MAP05
+1007	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p205o038.lmp -demolog temp-logs/147.txt
+0	Setup MAP05
+1352	Exit normal		(k: 0%, i: 0%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206-012.lmp -demolog temp-logs/148.txt
+0	Setup MAP06
+440	Exit normal		(k: 2%, i: 4%, s: 20%)
+440	Exit normal		(k: 2%, i: 4%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206-014.lmp -demolog temp-logs/149.txt
+0	Setup MAP06
+523	Exit normal		(k: 1%, i: 5%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206-015.lmp -demolog temp-logs/150.txt
+0	Setup MAP06
+552	Exit normal		(k: 2%, i: 5%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206-023.lmp -demolog temp-logs/151.txt
+0	Setup MAP06
+825	Exit normal		(k: 2%, i: 5%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206-13.51.lmp -demolog temp-logs/152.txt
+0	Setup MAP06
+472	Exit normal		(k: 1%, i: 5%, s: 20%)
+472	Exit normal		(k: 1%, i: 5%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206-1321.lmp -demolog temp-logs/153.txt
+0	Setup MAP06
+28067	Exit normal		(k: 100%, i: 59%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2061338.lmp -demolog temp-logs/154.txt
+0	Setup MAP06
+28655	Exit normal		(k: 100%, i: 85%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206f-1158.lmp -demolog temp-logs/155.txt
+0	Setup MAP06
+25136	Exit normal		(k: 100%, i: 63%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206n-27.lmp -demolog temp-logs/156.txt
+0	Setup MAP06
+955	Exit normal		(k: 6%, i: 5%, s: 40%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206n112.lmp -demolog temp-logs/157.txt
+0	Setup MAP06
+2543	Exit normal		(k: 14%, i: 5%, s: 40%)
+2543	Exit normal		(k: 14%, i: 5%, s: 40%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206n128.lmp -demolog temp-logs/158.txt
+0	Setup MAP06
+3113	Exit normal		(k: 16%, i: 5%, s: 40%)
+3113	Exit normal		(k: 16%, i: 5%, s: 40%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206o019.lmp -demolog temp-logs/159.txt
+0	Setup MAP06
+689	Exit normal		(k: 0%, i: 7%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206p024.lmp -demolog temp-logs/160.txt
+0	Setup MAP06
+869	Exit normal		(k: 2%, i: 3%, s: 20%)
+869	Exit normal		(k: 2%, i: 3%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p206x013.lmp -demolog temp-logs/161.txt
+0	Setup MAP06
+485	Exit normal		(k: 1%, i: 5%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207-032.lmp -demolog temp-logs/162.txt
+0	Setup MAP07
+1136	Exit normal		(k: 8%, i: 66%, s: 100%)
+1136	Exit normal		(k: 8%, i: 66%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207-055.lmp -demolog temp-logs/163.txt
+0	Setup MAP07
+1938	Exit normal		(k: 22%, i: 66%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207-102.lmp -demolog temp-logs/164.txt
+0	Setup MAP07
+2200	Exit normal		(k: 30%, i: 66%, s: 100%)
+2200	Exit normal		(k: 30%, i: 66%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207-114.lmp -demolog temp-logs/165.txt
+0	Setup MAP07
+2594	Exit normal		(k: 28%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207-127.lmp -demolog temp-logs/166.txt
+0	Setup MAP07
+3063	Exit normal		(k: 37%, i: 66%, s: 100%)
+3063	Exit normal		(k: 37%, i: 66%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207-429.lmp -demolog temp-logs/167.txt
+0	Setup MAP07
+9448	Exit normal		(k: 100%, i: 66%, s: 100%)
+9448	Exit normal		(k: 100%, i: 66%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207-506.lmp -demolog temp-logs/168.txt
+0	Setup MAP07
+10736	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207-524.lmp -demolog temp-logs/169.txt
+0	Setup MAP07
+11339	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207f-420.lmp -demolog temp-logs/170.txt
+0	Setup MAP07
+9102	Exit normal		(k: 100%, i: 66%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207f612.lmp -demolog temp-logs/171.txt
+0	Setup MAP07
+13050	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207p645tas.lmp -demolog temp-logs/172.txt
+0	Setup MAP07
+14185	Exit normal		(k: 22%, i: 100%, s: 100%)
+14185	Exit normal		(k: 22%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p207s106.lmp -demolog temp-logs/173.txt
+0	Setup MAP07
+2309	Exit normal		(k: 19%, i: 100%, s: 100%)
+2309	Exit normal		(k: 19%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208-010.lmp -demolog temp-logs/174.txt
+0	Setup MAP08
+349	death player 1 (k: 0%, i: 4%, s: 0%)
+366	Exit normal		(k: 0%, i: 4%, s: 0%)
+366	Exit normal		(k: 0%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208-011.lmp -demolog temp-logs/175.txt
+0	Setup MAP08
+411	Exit normal		(k: 3%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208-015.lmp -demolog temp-logs/176.txt
+0	Setup MAP08
+534	Exit normal		(k: 4%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208-322.lmp -demolog temp-logs/177.txt
+0	Setup MAP08
+7091	Exit normal		(k: 100%, i: 54%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208-403.lmp -demolog temp-logs/178.txt
+0	Setup MAP08
+8516	Exit normal		(k: 100%, i: 40%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208-456.lmp -demolog temp-logs/179.txt
+0	Setup MAP08
+10364	Exit normal		(k: 100%, i: 31%, s: 100%)
+10364	Exit normal		(k: 100%, i: 31%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208f-545.lmp -demolog temp-logs/180.txt
+0	Setup MAP08
+12081	Exit normal		(k: 100%, i: 59%, s: 100%)
+12081	Exit normal		(k: 100%, i: 59%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208n020.lmp -demolog temp-logs/181.txt
+0	Setup MAP08
+687	death player 1 (k: 8%, i: 4%, s: 0%)
+700	Exit normal		(k: 8%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208o012.lmp -demolog temp-logs/182.txt
+0	Setup MAP08
+451	Exit normal		(k: 0%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208o013.lmp -demolog temp-logs/183.txt
+0	Setup MAP08
+485	Exit normal		(k: 0%, i: 4%, s: 0%)
+485	Exit normal		(k: 0%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208p012.lmp -demolog temp-logs/184.txt
+0	Setup MAP08
+411	death player 1 (k: 4%, i: 4%, s: 0%)
+423	Exit normal		(k: 4%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p208x009.lmp -demolog temp-logs/185.txt
+0	Setup MAP08
+329	death player 1 (k: 1%, i: 4%, s: 0%)
+341	Exit normal		(k: 1%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209-011.LMP -demolog temp-logs/186.txt
+0	Setup MAP09
+412	Exit normal		(k: 1%, i: 2%, s: 0%)
+412	Exit normal		(k: 1%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209-012.LMP -demolog temp-logs/187.txt
+0	Setup MAP09
+451	Exit normal		(k: 3%, i: 2%, s: 0%)
+451	Exit normal		(k: 3%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209-014.lmp -demolog temp-logs/188.txt
+0	Setup MAP09
+508	Exit normal		(k: 5%, i: 2%, s: 0%)
+508	Exit normal		(k: 5%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209-558.lmp -demolog temp-logs/189.txt
+0	Setup MAP09
+12546	Exit normal		(k: 102%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209-727.lmp -demolog temp-logs/190.txt
+0	Setup MAP09
+15646	Exit normal		(k: 104%, i: 91%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209f-730.lmp -demolog temp-logs/191.txt
+0	Setup MAP09
+15773	Exit normal		(k: 103%, i: 66%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209n016.lmp -demolog temp-logs/192.txt
+0	Setup MAP09
+561	Exit normal		(k: 11%, i: 4%, s: 0%)
+561	Exit normal		(k: 11%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209o011.lmp -demolog temp-logs/193.txt
+0	Setup MAP09
+417	Exit normal		(k: 0%, i: 2%, s: 0%)
+417	Exit normal		(k: 0%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p209s102.lmp -demolog temp-logs/194.txt
+0	Setup MAP09
+2201	death player 1 (k: 27%, i: 26%, s: 100%)
+2202	Exit normal		(k: 27%, i: 26%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210-102.lmp -demolog temp-logs/195.txt
+0	Setup MAP10
+2175	Exit normal		(k: 5%, i: 0%, s: 20%)
+2175	Exit normal		(k: 5%, i: 0%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210-108.lmp -demolog temp-logs/196.txt
+0	Setup MAP10
+2390	Exit normal		(k: 15%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210-116.lmp -demolog temp-logs/197.txt
+0	Setup MAP10
+2670	Exit normal		(k: 15%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210-119.lmp -demolog temp-logs/198.txt
+0	Setup MAP10
+2773	Exit normal		(k: 19%, i: 11%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210-446.lmp -demolog temp-logs/199.txt
+0	Setup MAP10
+10034	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210-525.lmp -demolog temp-logs/200.txt
+0	Setup MAP10
+11385	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210-543.lmp -demolog temp-logs/201.txt
+0	Setup MAP10
+12005	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210-644.lmp -demolog temp-logs/202.txt
+0	Setup MAP10
+14139	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2101712.lmp -demolog temp-logs/203.txt
+0	Setup MAP10
+36140	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210f-552.lmp -demolog temp-logs/204.txt
+0	Setup MAP10
+12340	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210fail.lmp -demolog temp-logs/205.txt
+0	Setup MAP01
+1289	Exit normal		(k: 11%, i: 3%, s: 0%)
+1369	Setup MAP02
+3223	Exit normal		(k: 19%, i: 25%, s: 0%)
+3223	Exit normal		(k: 19%, i: 25%, s: 0%)
+3321	Setup MAP03
+5674	Exit normal		(k: 12%, i: 1%, s: 0%)
+5749	Setup MAP04
+8858	Exit normal		(k: 24%, i: 11%, s: 0%)
+8932	Setup MAP05
+9512	Exit normal		(k: 3%, i: 0%, s: 0%)
+9617	Setup MAP06
+11677	Exit normal		(k: 7%, i: 3%, s: 40%)
+11829	Setup MAP07
+12976	Exit normal		(k: 15%, i: 66%, s: 100%)
+12976	Exit normal		(k: 15%, i: 66%, s: 100%)
+13079	Setup MAP08
+14212	Exit normal		(k: 13%, i: 4%, s: 0%)
+14212	Exit normal		(k: 13%, i: 4%, s: 0%)
+14354	Setup MAP09
+16259	Exit normal		(k: 18%, i: 4%, s: 50%)
+16259	Exit normal		(k: 18%, i: 4%, s: 50%)
+16371	Setup MAP10
+18506	death player 1 (k: 8%, i: 0%, s: 0%)
+18582	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210o055.lmp -demolog temp-logs/206.txt
+0	Setup MAP10
+1955	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210o058.lmp -demolog temp-logs/207.txt
+0	Setup MAP10
+2044	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210p125.lmp -demolog temp-logs/208.txt
+0	Setup MAP10
+2979	Exit normal		(k: 15%, i: 11%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p210s257.lmp -demolog temp-logs/209.txt
+0	Setup MAP10
+6218	Exit normal		(k: 74%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211-1253.lmp -demolog temp-logs/210.txt
+0	Setup MAP11
+27083	Exit normal		(k: 94%, i: 68%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211-206.lmp -demolog temp-logs/211.txt
+0	Setup MAP11
+4416	Exit normal		(k: 7%, i: 19%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211-230.lmp -demolog temp-logs/212.txt
+0	Setup MAP11
+5272	Exit normal		(k: 7%, i: 19%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211-300.lmp -demolog temp-logs/213.txt
+0	Setup MAP11
+6304	Exit normal		(k: 10%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211-309.lmp -demolog temp-logs/214.txt
+0	Setup MAP11
+6631	Exit normal		(k: 9%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211-357.lmp -demolog temp-logs/215.txt
+0	Setup MAP11
+8321	Exit normal		(k: 10%, i: 19%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211-902.lmp -demolog temp-logs/216.txt
+0	Setup MAP11
+18981	Exit normal		(k: 91%, i: 36%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211f-1500.lmp -demolog temp-logs/217.txt
+0	Setup MAP11
+31518	Exit normal		(k: 92%, i: 85%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211n326.lmp -demolog temp-logs/218.txt
+0	Setup MAP11
+7232	Exit normal		(k: 21%, i: 21%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211n347.lmp -demolog temp-logs/219.txt
+0	Setup MAP11
+7968	Exit normal		(k: 16%, i: 24%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211n501.lmp -demolog temp-logs/220.txt
+0	Setup MAP11
+10560	Exit normal		(k: 33%, i: 40%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211ns523.lmp -demolog temp-logs/221.txt
+0	Setup MAP11
+11328	Exit normal		(k: 30%, i: 40%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211o133.lmp -demolog temp-logs/222.txt
+0	Setup MAP11
+3264	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211o157.lmp -demolog temp-logs/223.txt
+0	Setup MAP11
+4181	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p211p106tas.lmp -demolog temp-logs/224.txt
+0	Setup MAP11
+2272	Exit normal		(k: 3%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212-351.lmp -demolog temp-logs/225.txt
+0	Setup MAP12
+8113	Exit normal		(k: 100%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212-443.lmp -demolog temp-logs/226.txt
+0	Setup MAP12
+9929	Exit normal		(k: 100%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212-457.lmp -demolog temp-logs/227.txt
+0	Setup MAP12
+10422	Exit normal		(k: 100%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212-537.lmp -demolog temp-logs/228.txt
+0	Setup MAP12
+11795	Exit normal		(k: 100%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212-651.lmp -demolog temp-logs/229.txt
+0	Setup MAP12
+14396	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212f-618.lmp -demolog temp-logs/230.txt
+0	Setup MAP12
+13261	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212o053.lmp -demolog temp-logs/231.txt
+0	Setup MAP12
+1877	Exit normal		(k: 0%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212o054.lmp -demolog temp-logs/232.txt
+0	Setup MAP12
+1969	Exit normal		(k: 0%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p212p149.lmp -demolog temp-logs/233.txt
+0	Setup MAP12
+3847	Exit normal		(k: 23%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213-054.lmp -demolog temp-logs/234.txt
+0	Setup MAP13
+1917	Exit normal		(k: 9%, i: 13%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213-1015.lmp -demolog temp-logs/235.txt
+0	Setup MAP13
+21527	Exit normal		(k: 101%, i: 38%, s: 100%)
+21527	Exit normal		(k: 101%, i: 38%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213-958.lmp -demolog temp-logs/236.txt
+0	Setup MAP13
+20958	Exit normal		(k: 101%, i: 25%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2131245.lmp -demolog temp-logs/237.txt
+0	Setup MAP13
+26775	Exit normal		(k: 100%, i: 65%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213f-1453.lmp -demolog temp-logs/238.txt
+0	Setup MAP13
+31283	Exit normal		(k: 103%, i: 84%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213n57tas.lmp -demolog temp-logs/239.txt
+0	Setup MAP13
+1994	Exit normal		(k: 10%, i: 15%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213o053.lmp -demolog temp-logs/240.txt
+0	Setup MAP13
+1882	Exit normal		(k: 0%, i: 6%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213o054.lmp -demolog temp-logs/241.txt
+0	Setup MAP13
+1941	Exit normal		(k: 0%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213p-45.lmp -demolog temp-logs/242.txt
+0	Setup MAP13
+1582	Exit normal		(k: 5%, i: 25%, s: 25%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p213x021.lmp -demolog temp-logs/243.txt
+0	Setup MAP13
+755	Exit normal		(k: 4%, i: 13%, s: 0%)
+755	death player 1 (k: 4%, i: 13%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214-059.lmp -demolog temp-logs/244.txt
+0	Setup MAP14
+2094	Exit normal		(k: 28%, i: 0%, s: 28%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214-116.lmp -demolog temp-logs/245.txt
+0	Setup MAP14
+2666	Exit normal		(k: 26%, i: 0%, s: 28%)
+2666	Exit normal		(k: 26%, i: 0%, s: 28%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214-429.lmp -demolog temp-logs/246.txt
+0	Setup MAP14
+9444	Exit normal		(k: 106%, i: 100%, s: 100%)
+9444	Exit normal		(k: 106%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214-452.lmp -demolog temp-logs/247.txt
+0	Setup MAP14
+10244	Exit normal		(k: 106%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214-455.lmp -demolog temp-logs/248.txt
+0	Setup MAP14
+10333	Exit normal		(k: 108%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214-551.lmp -demolog temp-logs/249.txt
+0	Setup MAP14
+12314	Exit normal		(k: 106%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214f-628.lmp -demolog temp-logs/250.txt
+0	Setup MAP14
+13600	Exit normal		(k: 101%, i: 100%, s: 100%)
+13600	Exit normal		(k: 101%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214o031.lmp -demolog temp-logs/251.txt
+0	Setup MAP14
+1100	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214o033cd.lmp -demolog temp-logs/252.txt
+0	Setup MAP14
+1182	Exit normal		(k: 0%, i: 0%, s: 14%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214o035.lmp -demolog temp-logs/253.txt
+0	Setup MAP14
+1240	Exit normal		(k: 0%, i: 0%, s: 14%)
+1240	Exit normal		(k: 0%, i: 0%, s: 14%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214x042.lmp -demolog temp-logs/254.txt
+0	Setup MAP14
+1498	Exit normal		(k: 23%, i: 0%, s: 14%)
+1498	Exit normal		(k: 23%, i: 0%, s: 14%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p214xp038.lmp -demolog temp-logs/255.txt
+0	Setup MAP14
+1355	Exit normal		(k: 12%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215-008.lmp -demolog temp-logs/256.txt
+0	Setup MAP15
+312	Exit normal		(k: 0%, i: 33%, s: 0%)
+312	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215-011.lmp -demolog temp-logs/257.txt
+0	Setup MAP15
+339	death player 1 (k: 0%, i: 33%, s: 0%)
+390	Exit secret		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215-216.lmp -demolog temp-logs/258.txt
+0	Setup MAP15
+4773	Exit normal		(k: 100%, i: 66%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215-254.lmp -demolog temp-logs/259.txt
+0	Setup MAP15
+6094	Exit secret		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215f-407.lmp -demolog temp-logs/260.txt
+0	Setup MAP15
+8672	Exit normal		(k: 103%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215o006.lmp -demolog temp-logs/261.txt
+0	Setup MAP15
+242	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215o007.lmp -demolog temp-logs/262.txt
+0	Setup MAP15
+268	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215o008cd.lmp -demolog temp-logs/263.txt
+0	Setup MAP15
+293	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215p006.lmp -demolog temp-logs/264.txt
+0	Setup MAP15
+240	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215s010.LMP -demolog temp-logs/265.txt
+0	Setup MAP15
+368	Exit secret		(k: 0%, i: 66%, s: 33%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215s033.lmp -demolog temp-logs/266.txt
+0	Setup MAP15
+1165	Exit secret		(k: 9%, i: 100%, s: 100%)
+1165	Exit secret		(k: 9%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215sn16.LMP -demolog temp-logs/267.txt
+0	Setup MAP15
+592	Exit secret		(k: 3%, i: 100%, s: 66%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p215x005.lmp -demolog temp-logs/268.txt
+0	Setup MAP15
+204	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p216-005.lmp -demolog temp-logs/269.txt
+0	Setup MAP16
+206	Exit normal		(k: 1%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p216-455.lmp -demolog temp-logs/270.txt
+0	Setup MAP16
+10351	Exit normal		(k: 100%, i: 91%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p216f-851.lmp -demolog temp-logs/271.txt
+0	Setup MAP16
+18589	Exit normal		(k: 101%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p216n009.LMP -demolog temp-logs/272.txt
+0	Setup MAP16
+342	Exit normal		(k: 3%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p216o037.lmp -demolog temp-logs/273.txt
+0	Setup MAP16
+1322	Exit normal		(k: 0%, i: 30%, s: 0%)
+1322	Exit normal		(k: 0%, i: 30%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p216o038.lmp -demolog temp-logs/274.txt
+0	Setup MAP16
+1343	Exit normal		(k: 0%, i: 34%, s: 0%)
+1343	Exit normal		(k: 0%, i: 34%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p216s047.lmp -demolog temp-logs/275.txt
+0	Setup MAP16
+1658	Exit normal		(k: 31%, i: 17%, s: 100%)
+1658	Exit normal		(k: 31%, i: 17%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p216x004.lmp -demolog temp-logs/276.txt
+0	Setup MAP16
+168	Exit normal		(k: 1%, i: 0%, s: 0%)
+168	Exit normal		(k: 1%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217-012.lmp -demolog temp-logs/277.txt
+0	Setup MAP17
+432	Exit normal		(k: 0%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217-014.lmp -demolog temp-logs/278.txt
+0	Setup MAP17
+513	death player 1 (k: 1%, i: 2%, s: 0%)
+521	Exit normal		(k: 1%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217-022.lmp -demolog temp-logs/279.txt
+0	Setup MAP17
+788	Exit normal		(k: 2%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217-050.lmp -demolog temp-logs/280.txt
+0	Setup MAP17
+1756	Exit normal		(k: 7%, i: 5%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2171433.lmp -demolog temp-logs/281.txt
+0	Setup MAP17
+30562	Exit normal		(k: 100%, i: 29%, s: 100%)
+30562	Exit normal		(k: 100%, i: 29%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217f-1720.lmp -demolog temp-logs/282.txt
+0	Setup MAP17
+36421	Exit normal		(k: 100%, i: 78%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217n-16.lmp -demolog temp-logs/283.txt
+0	Setup MAP17
+570	Exit normal		(k: 2%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217o011.lmp -demolog temp-logs/284.txt
+0	Setup MAP17
+406	Exit normal		(k: 0%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217o013.lmp -demolog temp-logs/285.txt
+0	Setup MAP17
+460	Exit normal		(k: 0%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217o014.lmp -demolog temp-logs/286.txt
+0	Setup MAP17
+567	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217p013.lmp -demolog temp-logs/287.txt
+0	Setup MAP17
+487	Exit normal		(k: 0%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217s103.lmp -demolog temp-logs/288.txt
+0	Setup MAP17
+2223	Exit normal		(k: 12%, i: 10%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p217x011.lmp -demolog temp-logs/289.txt
+0	Setup MAP17
+417	Exit normal		(k: 0%, i: 2%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218-005.lmp -demolog temp-logs/290.txt
+0	Setup MAP18
+200	Exit normal		(k: 0%, i: 0%, s: 100%)
+256	Setup MAP19
+257	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218-012.lmp -demolog temp-logs/291.txt
+0	Setup MAP18
+441	Exit normal		(k: 2%, i: 2%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218-254.lmp -demolog temp-logs/292.txt
+0	Setup MAP18
+6113	Exit normal		(k: 21%, i: 24%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2181103.lmp -demolog temp-logs/293.txt
+0	Setup MAP18
+23204	Exit normal		(k: 100%, i: 78%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2181146.lmp -demolog temp-logs/294.txt
+0	Setup MAP18
+24740	Exit normal		(k: 100%, i: 67%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2181214.lmp -demolog temp-logs/295.txt
+0	Setup MAP18
+25716	Exit normal		(k: 100%, i: 75%, s: 100%)
+25716	Exit normal		(k: 100%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218bgin.lmp -demolog temp-logs/296.txt
+0	Setup MAP18
+6808	death player 1 (k: 28%, i: 24%, s: 0%)
+6859	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218f-1412.lmp -demolog temp-logs/297.txt
+0	Setup MAP18
+29843	Exit normal		(k: 100%, i: 97%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218n22tas.lmp -demolog temp-logs/298.txt
+0	Setup MAP18
+794	Exit normal		(k: 10%, i: 2%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218o009.lmp -demolog temp-logs/299.txt
+0	Setup MAP18
+321	Exit normal		(k: 0%, i: 0%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218o010.lmp -demolog temp-logs/300.txt
+0	Setup MAP18
+358	Exit normal		(k: 0%, i: 2%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218p010.lmp -demolog temp-logs/301.txt
+0	Setup MAP18
+371	Exit normal		(k: 2%, i: 2%, s: 100%)
+371	Exit normal		(k: 2%, i: 2%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p218p012.lmp -demolog temp-logs/302.txt
+0	Setup MAP18
+445	Exit normal		(k: 3%, i: 2%, s: 100%)
+445	Exit normal		(k: 3%, i: 2%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219-011.lmp -demolog temp-logs/303.txt
+0	Setup MAP19
+416	Exit normal		(k: 2%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219-012.lmp -demolog temp-logs/304.txt
+0	Setup MAP19
+424	Exit normal		(k: 2%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219-013.lmp -demolog temp-logs/305.txt
+0	Setup MAP19
+487	Exit normal		(k: 1%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2191228.lmp -demolog temp-logs/306.txt
+0	Setup MAP19
+26183	Exit normal		(k: 104%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219f-939.lmp -demolog temp-logs/307.txt
+0	Setup MAP19
+20286	Exit normal		(k: 104%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219n017.lmp -demolog temp-logs/308.txt
+0	Setup MAP19
+611	Exit normal		(k: 3%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219o008.lmp -demolog temp-logs/309.txt
+0	Setup MAP19
+301	Exit normal		(k: 0%, i: 25%, s: 0%)
+301	Exit normal		(k: 0%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219o009.lmp -demolog temp-logs/310.txt
+0	Setup MAP19
+335	Exit normal		(k: 0%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219o011.lmp -demolog temp-logs/311.txt
+0	Setup MAP19
+415	Exit normal		(k: 0%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219p017.lmp -demolog temp-logs/312.txt
+0	Setup MAP19
+621	Exit normal		(k: 1%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p219s139.lmp -demolog temp-logs/313.txt
+0	Setup MAP19
+3471	Exit normal		(k: 31%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p220-150.lmp -demolog temp-logs/314.txt
+0	Setup MAP20
+3860	Exit normal		(k: 13%, i: 40%, s: 50%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p220-728.lmp -demolog temp-logs/315.txt
+0	Setup MAP20
+15696	Exit normal		(k: 101%, i: 70%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p220f-1143.lmp -demolog temp-logs/316.txt
+0	Setup MAP20
+24615	Exit normal		(k: 101%, i: 70%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p220o059.lmp -demolog temp-logs/317.txt
+0	Setup MAP20
+2093	Exit normal		(k: 0%, i: 0%, s: 0%)
+2093	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p220o100.lmp -demolog temp-logs/318.txt
+0	Setup MAP20
+2121	Exit normal		(k: 0%, i: 9%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221-045.lmp -demolog temp-logs/319.txt
+0	Setup MAP21
+1602	Exit normal		(k: 3%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221-109.lmp -demolog temp-logs/320.txt
+0	Setup MAP21
+2414	Exit normal		(k: 12%, i: 10%, s: 50%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221-RL4life.lmp -demolog temp-logs/321.txt
+0	Setup MAP21
+267	death player 1 (k: 0%, i: 0%, s: 0%)
+317	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2211019.LMP -demolog temp-logs/322.txt
+0	Setup MAP21
+21669	Exit normal		(k: 101%, i: 100%, s: 100%)
+21669	Exit normal		(k: 101%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2211048.LMP -demolog temp-logs/323.txt
+0	Setup MAP21
+22708	Exit normal		(k: 101%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221f-1647.lmp -demolog temp-logs/324.txt
+0	Setup MAP21
+35261	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221n212.lmp -demolog temp-logs/325.txt
+0	Setup MAP21
+4652	Exit normal		(k: 16%, i: 7%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221o027.lmp -demolog temp-logs/326.txt
+0	Setup MAP21
+954	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221o032.lmp -demolog temp-logs/327.txt
+0	Setup MAP21
+1203	Exit normal		(k: 0%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221p220tas.lmp -demolog temp-logs/328.txt
+0	Setup MAP21
+4907	Exit normal		(k: 6%, i: 7%, s: 0%)
+4907	Exit normal		(k: 6%, i: 7%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p221s311.lmp -demolog temp-logs/329.txt
+0	Setup MAP21
+6709	Exit normal		(k: 27%, i: 14%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222-036.lmp -demolog temp-logs/330.txt
+0	Setup MAP22
+1268	Exit normal		(k: 9%, i: 37%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222-048.lmp -demolog temp-logs/331.txt
+0	Setup MAP22
+1686	Exit normal		(k: 20%, i: 37%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222-118.LMP -demolog temp-logs/332.txt
+0	Setup MAP22
+2754	Exit normal		(k: 18%, i: 62%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222-843.LMP -demolog temp-logs/333.txt
+0	Setup MAP22
+18334	Exit normal		(k: 100%, i: 75%, s: 100%)
+18334	Exit normal		(k: 100%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222f-1143.lmp -demolog temp-logs/334.txt
+0	Setup MAP22
+24631	Exit normal		(k: 100%, i: 62%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222o049.lmp -demolog temp-logs/335.txt
+0	Setup MAP22
+1797	Exit normal		(k: 0%, i: 62%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222p-33.lmp -demolog temp-logs/336.txt
+0	Setup MAP22
+1171	Exit normal		(k: 2%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222p039.lmp -demolog temp-logs/337.txt
+0	Setup MAP22
+1392	Exit normal		(k: 8%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p222p105.lmp -demolog temp-logs/338.txt
+0	Setup MAP22
+2283	Exit normal		(k: 17%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p223-140.lmp -demolog temp-logs/339.txt
+0	Setup MAP23
+3513	Exit normal		(k: 23%, i: 23%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p223-214.lmp -demolog temp-logs/340.txt
+0	Setup MAP23
+4692	Exit normal		(k: 15%, i: 23%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p223-956.lmp -demolog temp-logs/341.txt
+0	Setup MAP23
+20865	Exit normal		(k: 101%, i: 83%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2231007.LMP -demolog temp-logs/342.txt
+0	Setup MAP23
+21246	Exit normal		(k: 102%, i: 72%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p223f-1108.lmp -demolog temp-logs/343.txt
+0	Setup MAP23
+23395	Exit normal		(k: 102%, i: 94%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p223n112tas.lmp -demolog temp-logs/344.txt
+0	Setup MAP23
+2532	Exit normal		(k: 46%, i: 16%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p223o-58.lmp -demolog temp-logs/345.txt
+0	Setup MAP23
+2053	Exit normal		(k: 0%, i: 23%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p223o119.lmp -demolog temp-logs/346.txt
+0	Setup MAP23
+2787	Exit normal		(k: 0%, i: 9%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p223o123.lmp -demolog temp-logs/347.txt
+0	Setup MAP23
+2931	Exit normal		(k: 0%, i: 16%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p224-016.lmp -demolog temp-logs/348.txt
+0	Setup MAP24
+592	Exit normal		(k: 5%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p224-017.lmp -demolog temp-logs/349.txt
+0	Setup MAP24
+624	Exit normal		(k: 5%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p224-626.LMP -demolog temp-logs/350.txt
+0	Setup MAP24
+13539	Exit normal		(k: 106%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p224f-747.lmp -demolog temp-logs/351.txt
+0	Setup MAP24
+16362	Exit normal		(k: 100%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p224o010.lmp -demolog temp-logs/352.txt
+0	Setup MAP24
+360	Exit normal		(k: 0%, i: 0%, s: 0%)
+360	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p224o015.lmp -demolog temp-logs/353.txt
+0	Setup MAP24
+545	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p224p021.lmp -demolog temp-logs/354.txt
+0	Setup MAP24
+763	Exit normal		(k: 6%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p224s105.lmp -demolog temp-logs/355.txt
+0	Setup MAP24
+2292	Exit normal		(k: 33%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225-025.lmp -demolog temp-logs/356.txt
+0	Setup MAP25
+904	Exit normal		(k: 3%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225-026.lmp -demolog temp-logs/357.txt
+0	Setup MAP25
+937	Exit normal		(k: 3%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225-027.lmp -demolog temp-logs/358.txt
+0	Setup MAP25
+954	Exit normal		(k: 4%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225-1650.lmp -demolog temp-logs/359.txt
+0	Setup MAP25
+35354	Exit normal		(k: 102%, i: 9%, s: 100%)
+35354	Exit normal		(k: 102%, i: 9%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225746.lmp -demolog temp-logs/360.txt
+0	Setup MAP25
+16319	Exit normal		(k: 100%, i: 6%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225f-1335.lmp -demolog temp-logs/361.txt
+0	Setup MAP25
+28537	Exit normal		(k: 106%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225o033.lmp -demolog temp-logs/362.txt
+0	Setup MAP25
+1188	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225o039.lmp -demolog temp-logs/363.txt
+0	Setup MAP25
+1431	Exit normal		(k: 0%, i: 0%, s: 0%)
+1431	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p225x024.lmp -demolog temp-logs/364.txt
+0	Setup MAP25
+863	Exit normal		(k: 1%, i: 3%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226-338.lmp -demolog temp-logs/365.txt
+0	Setup MAP26
+7655	Exit normal		(k: 47%, i: 34%, s: 25%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226-451.lmp -demolog temp-logs/366.txt
+0	Setup MAP26
+10195	Exit normal		(k: 52%, i: 17%, s: 50%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226-812.lmp -demolog temp-logs/367.txt
+0	Setup MAP26
+17219	Exit normal		(k: 100%, i: 56%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2261122.lmp -demolog temp-logs/368.txt
+0	Setup MAP26
+23880	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226f-1008.lmp -demolog temp-logs/369.txt
+0	Setup MAP26
+21299	Exit normal		(k: 100%, i: 69%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226o130.lmp -demolog temp-logs/370.txt
+0	Setup MAP26
+3173	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226o134.lmp -demolog temp-logs/371.txt
+0	Setup MAP26
+3301	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226o137.lmp -demolog temp-logs/372.txt
+0	Setup MAP26
+3416	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226o138kun.lmp -demolog temp-logs/373.txt
+0	Setup MAP26
+3444	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226p448tas.lmp -demolog temp-logs/374.txt
+0	Setup MAP26
+10086	Exit normal		(k: 29%, i: 17%, s: 25%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226s347.lmp -demolog temp-logs/375.txt
+0	Setup MAP26
+7974	Exit normal		(k: 64%, i: 69%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p226s555tas.lmp -demolog temp-logs/376.txt
+0	Setup MAP26
+12453	Exit normal		(k: 84%, i: 69%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p227-625.lmp -demolog temp-logs/377.txt
+0	Setup MAP27
+13480	Exit normal		(k: 92%, i: 100%, s: 100%)
+13480	Exit normal		(k: 92%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p227-721.lmp -demolog temp-logs/378.txt
+0	Setup MAP27
+15459	Exit normal		(k: 92%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p227-755.lmp -demolog temp-logs/379.txt
+0	Setup MAP27
+16644	Exit normal		(k: 92%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p227f-732.lmp -demolog temp-logs/380.txt
+0	Setup MAP27
+15827	Exit normal		(k: 92%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p227o052.lmp -demolog temp-logs/381.txt
+0	Setup MAP27
+1822	Exit normal		(k: 0%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p227o058.lmp -demolog temp-logs/382.txt
+0	Setup MAP27
+2061	Exit normal		(k: 0%, i: 75%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p227wow.lmp -demolog temp-logs/383.txt
+0	Setup MAP27
+844	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p227xp036.lmp -demolog temp-logs/384.txt
+0	Setup MAP27
+1293	Exit normal		(k: 14%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p228-108.lmp -demolog temp-logs/385.txt
+0	Setup MAP28
+2401	Exit normal		(k: 10%, i: 18%, s: 16%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p228-109.lmp -demolog temp-logs/386.txt
+0	Setup MAP28
+2445	Exit normal		(k: 8%, i: 18%, s: 16%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p228-114.lmp -demolog temp-logs/387.txt
+0	Setup MAP28
+2613	Exit normal		(k: 11%, i: 18%, s: 16%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2281457.lmp -demolog temp-logs/388.txt
+0	Setup MAP28
+31424	Exit normal		(k: 104%, i: 90%, s: 100%)
+31424	Exit normal		(k: 104%, i: 90%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p228f-2108.lmp -demolog temp-logs/389.txt
+0	Setup MAP28
+44401	Exit normal		(k: 107%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p228o109.lmp -demolog temp-logs/390.txt
+0	Setup MAP28
+2448	Exit normal		(k: 0%, i: 9%, s: 16%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p228o111.lmp -demolog temp-logs/391.txt
+0	Setup MAP28
+2518	Exit normal		(k: 0%, i: 9%, s: 16%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p228p110.lmp -demolog temp-logs/392.txt
+0	Setup MAP28
+2481	Exit normal		(k: 5%, i: 18%, s: 16%)
+2481	Exit normal		(k: 5%, i: 18%, s: 16%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p228what.lmp -demolog temp-logs/393.txt
+0	Setup MAP28
+2385	death player 1 (k: 8%, i: 18%, s: 16%)
+2732	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229-036.lmp -demolog temp-logs/394.txt
+0	Setup MAP29
+1269	death player 1 (k: 1%, i: 7%, s: 0%)
+1280	Exit normal		(k: 1%, i: 7%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229-039.lmp -demolog temp-logs/395.txt
+0	Setup MAP29
+1379	Exit normal		(k: 1%, i: 8%, s: 0%)
+1379	Exit normal		(k: 1%, i: 8%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2291909.lmp -demolog temp-logs/396.txt
+0	Setup MAP29
+40219	Exit normal		(k: 100%, i: 45%, s: 100%)
+40219	Exit normal		(k: 100%, i: 45%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2292012.lmp -demolog temp-logs/397.txt
+0	Setup MAP29
+42419	Exit normal		(k: 100%, i: 45%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2292251.lmp -demolog temp-logs/398.txt
+0	Setup MAP29
+48003	Exit normal		(k: 100%, i: 42%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229f-2848.lmp -demolog temp-logs/399.txt
+0	Setup MAP29
+60512	Exit normal		(k: 100%, i: 48%, s: 100%)
+60512	Exit normal		(k: 100%, i: 48%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229fail.lmp -demolog temp-logs/400.txt
+0	Setup MAP29
+4697	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229no-230.lmp -demolog temp-logs/401.txt
+0	Setup MAP29
+5280	Exit normal		(k: 0%, i: 21%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229no-239.lmp -demolog temp-logs/402.txt
+0	Setup MAP29
+5593	Exit normal		(k: 0%, i: 22%, s: 0%)
+5593	Exit normal		(k: 0%, i: 22%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229o152.lmp -demolog temp-logs/403.txt
+0	Setup MAP29
+3948	Exit normal		(k: 0%, i: 9%, s: 0%)
+3948	Exit normal		(k: 0%, i: 9%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229o202.lmp -demolog temp-logs/404.txt
+0	Setup MAP29
+4293	Exit normal		(k: 0%, i: 21%, s: 0%)
+4293	Exit normal		(k: 0%, i: 21%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229p055.lmp -demolog temp-logs/405.txt
+0	Setup MAP29
+1929	Exit normal		(k: 0%, i: 8%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229s103.lmp -demolog temp-logs/406.txt
+0	Setup MAP29
+2225	Exit normal		(k: 4%, i: 10%, s: 100%)
+2225	Exit normal		(k: 4%, i: 10%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p229s148.lmp -demolog temp-logs/407.txt
+0	Setup MAP29
+3811	Exit normal		(k: 5%, i: 9%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230-044.lmp -demolog temp-logs/408.txt
+0	Setup MAP30
+1566	Exit normal		(k: 66%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230-048.lmp -demolog temp-logs/409.txt
+0	Setup MAP30
+1690	Exit normal		(k: 77%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230-051.lmp -demolog temp-logs/410.txt
+0	Setup MAP30
+1792	Exit normal		(k: 88%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230-056.lmp -demolog temp-logs/411.txt
+0	Setup MAP30
+1881	death player 1 (k: 77%, i: 50%, s: 0%)
+1986	Exit normal		(k: 77%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230-102.lmp -demolog temp-logs/412.txt
+0	Setup MAP30
+2148	death player 1 (k: 144%, i: 25%, s: 100%)
+2194	Exit normal		(k: 144%, i: 25%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230-113.lmp -demolog temp-logs/413.txt
+0	Setup MAP30
+2569	Exit normal		(k: 144%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230bt43.lmp -demolog temp-logs/414.txt
+0	Setup MAP30
+1510	Exit normal		(k: 55%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230f-3blast.lmp -demolog temp-logs/415.txt
+0	Setup MAP30
+3390	death player 1 (k: 288%, i: 50%, s: 100%)
+3531	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230o033.lmp -demolog temp-logs/416.txt
+0	Setup MAP30
+1173	Exit normal		(k: 0%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230o038.lmp -demolog temp-logs/417.txt
+0	Setup MAP30
+1353	Exit normal		(k: 0%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p230s107.lmp -demolog temp-logs/418.txt
+0	Setup MAP30
+2255	death player 1 (k: 177%, i: 50%, s: 100%)
+2344	Exit normal		(k: 200%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p231-239.lmp -demolog temp-logs/419.txt
+0	Setup MAP31
+5585	Exit secret		(k: 56%, i: 66%, s: 66%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p231-422.LMP -demolog temp-logs/420.txt
+0	Setup MAP31
+9179	Exit secret		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p231-530.lmp -demolog temp-logs/421.txt
+0	Setup MAP31
+11567	Exit secret		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p231-748.lmp -demolog temp-logs/422.txt
+0	Setup MAP31
+16407	Exit secret		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p231f-652.lmp -demolog temp-logs/423.txt
+0	Setup MAP31
+14442	Exit secret		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p231o107.lmp -demolog temp-logs/424.txt
+0	Setup MAP31
+2372	Exit secret		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p231p305.lmp -demolog temp-logs/425.txt
+0	Setup MAP31
+6498	Exit secret		(k: 39%, i: 66%, s: 33%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p231s450tas.lmp -demolog temp-logs/426.txt
+0	Setup MAP31
+10160	Exit secret		(k: 75%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232-115.lmp -demolog temp-logs/427.txt
+0	Setup MAP32
+2626	Exit normal		(k: 35%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232-116.lmp -demolog temp-logs/428.txt
+0	Setup MAP32
+2675	Exit normal		(k: 28%, i: 40%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232-117.lmp -demolog temp-logs/429.txt
+0	Setup MAP32
+2698	Exit normal		(k: 35%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232-211.lmp -demolog temp-logs/430.txt
+0	Setup MAP32
+4604	Exit normal		(k: 46%, i: 53%, s: 0%)
+4604	Exit normal		(k: 46%, i: 53%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232-324.LMP -demolog temp-logs/431.txt
+0	Setup MAP32
+7157	Exit normal		(k: 81%, i: 60%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232-429.LMP -demolog temp-logs/432.txt
+0	Setup MAP32
+9447	Exit normal		(k: 87%, i: 60%, s: 100%)
+9447	Exit normal		(k: 87%, i: 60%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2321002.lmp -demolog temp-logs/433.txt
+0	Setup MAP32
+21091	Exit normal		(k: 134%, i: 60%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232f-1319.lmp -demolog temp-logs/434.txt
+0	Setup MAP32
+27974	Exit normal		(k: 131%, i: 73%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232o044.lmp -demolog temp-logs/435.txt
+0	Setup MAP32
+1570	Exit normal		(k: 0%, i: 33%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232o055cd.lmp -demolog temp-logs/436.txt
+0	Setup MAP32
+1930	Exit normal		(k: 0%, i: 26%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232o059cd.lmp -demolog temp-logs/437.txt
+0	Setup MAP32
+2093	Exit normal		(k: 0%, i: 33%, s: 100%)
+2093	Exit normal		(k: 0%, i: 33%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232o102.lmp -demolog temp-logs/438.txt
+0	Setup MAP32
+2244	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232p107.lmp -demolog temp-logs/439.txt
+0	Setup MAP32
+2370	Exit normal		(k: 19%, i: 26%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232s117.lmp -demolog temp-logs/440.txt
+0	Setup MAP32
+2713	Exit normal		(k: 37%, i: 40%, s: 100%)
+2713	Exit normal		(k: 37%, i: 40%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p232s152.lmp -demolog temp-logs/441.txt
+0	Setup MAP32
+3945	Exit normal		(k: 41%, i: 46%, s: 100%)
+3945	Exit normal		(k: 41%, i: 46%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p233-042.lmp -demolog temp-logs/442.txt
+0	Setup MAP33
+1469	Exit normal		(k: 10%, i: 0%, s: 40%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p233-044.lmp -demolog temp-logs/443.txt
+0	Setup MAP33
+1557	Exit normal		(k: 11%, i: 50%, s: 40%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2331030.lmp -demolog temp-logs/444.txt
+0	Setup MAP33
+22049	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2331125.lmp -demolog temp-logs/445.txt
+0	Setup MAP33
+24000	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2331202.lmp -demolog temp-logs/446.txt
+0	Setup MAP33
+25277	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p233f-1051.lmp -demolog temp-logs/447.txt
+0	Setup MAP33
+22803	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p233n56tas.lmp -demolog temp-logs/448.txt
+0	Setup MAP33
+1985	Exit normal		(k: 14%, i: 50%, s: 40%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p233o043.lmp -demolog temp-logs/449.txt
+0	Setup MAP33
+1529	Exit normal		(k: 0%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p233o045plut.lmp -demolog temp-logs/450.txt
+0	Setup MAP33
+1593	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p233p049.lmp -demolog temp-logs/451.txt
+0	Setup MAP33
+1715	Exit normal		(k: 6%, i: 0%, s: 40%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2dq1153.lmp -demolog temp-logs/452.txt
+0	Setup MAP01
+486	Exit normal		(k: 5%, i: 3%, s: 0%)
+607	Setup MAP02
+949	Exit normal		(k: 1%, i: 0%, s: 0%)
+1053	Setup MAP03
+1482	Exit normal		(k: 3%, i: 1%, s: 0%)
+1616	Setup MAP04
+2080	Exit normal		(k: 7%, i: 0%, s: 0%)
+2080	Exit normal		(k: 7%, i: 0%, s: 0%)
+2195	Setup MAP05
+2473	Exit normal		(k: 0%, i: 0%, s: 0%)
+2623	Setup MAP06
+3199	Exit normal		(k: 1%, i: 3%, s: 40%)
+3390	Setup MAP07
+4015	Exit normal		(k: 10%, i: 66%, s: 100%)
+4015	Exit normal		(k: 10%, i: 66%, s: 100%)
+4191	Setup MAP08
+4491	Exit normal		(k: 2%, i: 4%, s: 0%)
+4640	Setup MAP09
+5022	Exit normal		(k: 5%, i: 4%, s: 50%)
+5022	Exit normal		(k: 5%, i: 4%, s: 50%)
+5168	Setup MAP10
+6912	Exit normal		(k: 13%, i: 0%, s: 0%)
+7044	Setup MAP11
+8325	Exit normal		(k: 0%, i: 1%, s: 0%)
+8520	Setup MAP12
+10284	Exit normal		(k: 29%, i: 25%, s: 0%)
+10494	Setup MAP13
+10821	Exit normal		(k: 2%, i: 2%, s: 0%)
+10962	Setup MAP14
+11994	Exit normal		(k: 21%, i: 0%, s: 0%)
+12139	Setup MAP15
+12382	Exit normal		(k: 0%, i: 33%, s: 0%)
+12548	Setup MAP16
+12714	Exit normal		(k: 2%, i: 0%, s: 0%)
+12913	Setup MAP17
+13272	Exit normal		(k: 0%, i: 2%, s: 0%)
+13408	Setup MAP18
+13629	Exit normal		(k: 1%, i: 2%, s: 100%)
+13785	Setup MAP19
+13993	Exit normal		(k: 0%, i: 25%, s: 0%)
+14156	Setup MAP20
+15939	Exit normal		(k: 7%, i: 20%, s: 0%)
+16177	Setup MAP21
+17154	Exit normal		(k: 4%, i: 3%, s: 0%)
+17338	Setup MAP22
+18373	Exit normal		(k: 8%, i: 25%, s: 0%)
+18570	Setup MAP23
+19121	Exit normal		(k: 6%, i: 0%, s: 0%)
+19344	Setup MAP24
+19864	Exit normal		(k: 4%, i: 25%, s: 0%)
+20031	Setup MAP25
+20821	Exit normal		(k: 3%, i: 3%, s: 0%)
+21009	Setup MAP26
+24257	Exit normal		(k: 24%, i: 0%, s: 0%)
+24482	Setup MAP27
+25792	Exit normal		(k: 17%, i: 50%, s: 0%)
+25929	Setup MAP28
+27852	Exit normal		(k: 7%, i: 9%, s: 0%)
+28029	Setup MAP29
+29042	Exit normal		(k: 0%, i: 7%, s: 0%)
+29042	Exit normal		(k: 0%, i: 7%, s: 0%)
+29214	Setup MAP30
+30440	death player 1 (k: 22%, i: 25%, s: 0%)
+30489	Exit normal		(k: 22%, i: 25%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2nm10020bug.lmp -demolog temp-logs/453.txt
+0	Setup MAP01
+4956	Exit normal		(k: 111%, i: 19%, s: 100%)
+5086	Setup MAP02
+7631	Exit normal		(k: 32%, i: 62%, s: 100%)
+7796	Setup MAP03
+13419	Exit normal		(k: 65%, i: 83%, s: 100%)
+13774	Setup MAP04
+18133	Exit normal		(k: 59%, i: 11%, s: 100%)
+18360	Setup MAP05
+19059	Exit normal		(k: 8%, i: 50%, s: 100%)
+19280	Setup MAP06
+27248	Exit normal		(k: 63%, i: 36%, s: 100%)
+27804	Setup MAP07
+28901	Exit normal		(k: 18%, i: 66%, s: 100%)
+28901	Exit normal		(k: 18%, i: 66%, s: 100%)
+29194	Setup MAP08
+30672	Exit normal		(k: 36%, i: 13%, s: 100%)
+30924	Setup MAP09
+33490	Exit normal		(k: 39%, i: 26%, s: 100%)
+34179	Setup MAP10
+39532	Exit normal		(k: 68%, i: 100%, s: 100%)
+39647	Setup MAP11
+45183	Exit normal		(k: 20%, i: 31%, s: 100%)
+45615	Setup MAP12
+51569	Exit normal		(k: 76%, i: 75%, s: 100%)
+51569	Exit normal		(k: 76%, i: 75%, s: 100%)
+51998	Setup MAP13
+67900	Exit normal		(k: 95%, i: 38%, s: 100%)
+68344	Setup MAP14
+80425	Exit normal		(k: 121%, i: 100%, s: 100%)
+80425	Exit normal		(k: 121%, i: 100%, s: 100%)
+80563	Setup MAP15
+81659	Exit secret		(k: 21%, i: 100%, s: 100%)
+82062	Setup MAP31
+92346	Exit secret		(k: 112%, i: 100%, s: 100%)
+92864	Setup MAP32
+95963	Exit normal		(k: 45%, i: 46%, s: 100%)
+96086	Setup MAP16
+97228	Exit normal		(k: 26%, i: 21%, s: 100%)
+97228	Exit normal		(k: 26%, i: 21%, s: 100%)
+97392	Setup MAP17
+100158	Exit normal		(k: 20%, i: 8%, s: 100%)
+100282	Setup MAP18
+102649	Exit normal		(k: 24%, i: 5%, s: 100%)
+102649	Exit normal		(k: 24%, i: 5%, s: 100%)
+102968	Setup MAP19
+106944	Exit normal		(k: 37%, i: 100%, s: 100%)
+107130	Setup MAP20
+112903	death player 1 (k: 53%, i: 50%, s: 100%)
+113396	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/p2o03ta014.lmp -demolog temp-logs/454.txt
+0	Setup MAP03
+511	Exit normal		(k: 0%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl15UV10.LMP -demolog temp-logs/455.txt
+0	Setup MAP15
+382	Exit normal		(k: 0%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl18-925.lmp -demolog temp-logs/456.txt
+0	Setup MAP18
+19780	Exit normal		(k: 100%, i: 91%, s: 100%)
+19780	Exit normal		(k: 100%, i: 91%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2 map 10.lmp -demolog temp-logs/457.txt
+0	Setup MAP10
+10862	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2-02-437ggg.lmp -demolog temp-logs/458.txt
+0	Setup MAP02
+9720	Exit normal		(k: 100%, i: 87%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2-07max414.lmp -demolog temp-logs/459.txt
+0	Setup MAP07
+8915	Exit normal		(k: 100%, i: 100%, s: 100%)
+8915	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2-08max402.lmp -demolog temp-logs/460.txt
+0	Setup MAP08
+8477	Exit normal		(k: 100%, i: 31%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2-30max106.lmp -demolog temp-logs/461.txt
+0	Setup MAP30
+2280	death player 1 (k: 155%, i: 50%, s: 100%)
+2326	Exit normal		(k: 155%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl202fast612.lmp -demolog temp-logs/462.txt
+0	Setup MAP02
+13044	Exit normal		(k: 100%, i: 100%, s: 100%)
+13044	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl202nomo_0027.lmp -demolog temp-logs/463.txt
+0	Setup MAP02
+970	Exit normal		(k: 0%, i: 75%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl202respawn331.lmp -demolog temp-logs/464.txt
+0	Setup MAP02
+7417	Exit normal		(k: 101%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl203-almost.lmp -demolog temp-logs/465.txt
+0	Setup MAP03
+2022	death player 1 (k: 19%, i: 1%, s: 0%)
+2058	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl203-almostRANOFF.lmp -demolog temp-logs/466.txt
+0	Setup MAP03
+2559	death player 1 (k: 21%, i: 1%, s: 0%)
+2676	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl203nm103.lmp -demolog temp-logs/467.txt
+0	Setup MAP03
+2206	Exit normal		(k: 23%, i: 1%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl206-941.lmp -demolog temp-logs/468.txt
+0	Setup MAP06
+20368	Exit normal		(k: 100%, i: 53%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl210nm143.lmp -demolog temp-logs/469.txt
+0	Setup MAP10
+3623	Exit normal		(k: 37%, i: 11%, s: 20%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl212n131.lmp -demolog temp-logs/470.txt
+0	Setup MAP12
+3214	Exit normal		(k: 54%, i: 50%, s: 66%)
+3214	Exit normal		(k: 54%, i: 50%, s: 66%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl217-1249.lmp -demolog temp-logs/471.txt
+0	Setup MAP17
+26915	Exit normal		(k: 100%, i: 89%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl218-1031.lmp -demolog temp-logs/472.txt
+0	Setup MAP18
+22089	Exit normal		(k: 100%, i: 70%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl218-1034.lmp -demolog temp-logs/473.txt
+0	Setup MAP18
+22203	Exit normal		(k: 100%, i: 67%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl219-853.lmp -demolog temp-logs/474.txt
+0	Setup MAP19
+18685	Exit normal		(k: 100%, i: 100%, s: 100%)
+18685	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl225nomo37.lmp -demolog temp-logs/475.txt
+0	Setup MAP25
+1323	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl226-904.lmp -demolog temp-logs/476.txt
+0	Setup MAP26
+19069	Exit normal		(k: 100%, i: 43%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl228-1148.lmp -demolog temp-logs/477.txt
+0	Setup MAP28
+24800	Exit normal		(k: 105%, i: 90%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl232-1111.lmp -demolog temp-logs/478.txt
+0	Setup MAP32
+23503	Exit normal		(k: 136%, i: 60%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl233-819.lmp -demolog temp-logs/479.txt
+0	Setup MAP33
+17489	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl233-841.lmp -demolog temp-logs/480.txt
+0	Setup MAP33
+18257	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl233-851.lmp -demolog temp-logs/481.txt
+0	Setup MAP33
+18615	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2_02nm100_0032.lmp -demolog temp-logs/482.txt
+0	Setup MAP02
+1140	Exit normal		(k: 20%, i: 62%, s: 100%)
+1140	Exit normal		(k: 20%, i: 62%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2_26_nm_1122.lmp -demolog temp-logs/483.txt
+0	Setup MAP26
+23870	Exit normal		(k: 117%, i: 17%, s: 50%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2all1.lmp -demolog temp-logs/484.txt
+0	Setup MAP01
+1286	Exit normal		(k: 6%, i: 7%, s: 0%)
+1397	Setup MAP02
+2981	Exit normal		(k: 15%, i: 25%, s: 0%)
+3023	Setup MAP03
+4003	Exit normal		(k: 6%, i: 1%, s: 0%)
+4090	Setup MAP04
+6284	Exit normal		(k: 15%, i: 0%, s: 0%)
+6324	Setup MAP05
+12550	Exit normal		(k: 58%, i: 66%, s: 0%)
+12550	Exit normal		(k: 58%, i: 66%, s: 0%)
+12613	Setup MAP06
+15890	Exit normal		(k: 16%, i: 6%, s: 40%)
+16038	Setup MAP07
+17271	Exit normal		(k: 9%, i: 66%, s: 100%)
+17332	Setup MAP08
+19183	Exit normal		(k: 24%, i: 4%, s: 0%)
+19225	Setup MAP09
+21289	Exit normal		(k: 13%, i: 4%, s: 50%)
+21350	Setup MAP10
+24326	Exit normal		(k: 21%, i: 0%, s: 20%)
+24414	Setup MAP11
+28394	Exit normal		(k: 20%, i: 3%, s: 0%)
+28587	Setup MAP12
+34420	Exit normal		(k: 40%, i: 50%, s: 33%)
+34518	Setup MAP13
+39467	Exit normal		(k: 21%, i: 11%, s: 0%)
+39518	Setup MAP14
+43495	Exit normal		(k: 57%, i: 50%, s: 42%)
+43495	Exit normal		(k: 57%, i: 50%, s: 42%)
+43591	Setup MAP15
+48898	Exit secret		(k: 82%, i: 66%, s: 66%)
+48898	Exit secret		(k: 82%, i: 66%, s: 66%)
+49514	Setup MAP31
+58047	Exit secret		(k: 69%, i: 100%, s: 100%)
+58586	Setup MAP32
+63921	Exit normal		(k: 52%, i: 26%, s: 0%)
+64096	Setup MAP16
+75239	Exit normal		(k: 87%, i: 91%, s: 50%)
+75347	Setup MAP17
+78042	Exit normal		(k: 9%, i: 5%, s: 0%)
+78097	Setup MAP18
+82938	Exit normal		(k: 34%, i: 2%, s: 100%)
+82987	Setup MAP19
+85481	Exit normal		(k: 10%, i: 66%, s: 0%)
+85481	Exit normal		(k: 10%, i: 66%, s: 0%)
+85546	Setup MAP20
+92808	Exit normal		(k: 51%, i: 41%, s: 50%)
+93159	Setup MAP21
+96355	Exit normal		(k: 14%, i: 7%, s: 0%)
+96436	Setup MAP22
+99025	Exit normal		(k: 19%, i: 50%, s: 0%)
+99096	Setup MAP23
+103097	Exit normal		(k: 35%, i: 16%, s: 0%)
+103252	Setup MAP24
+105357	Exit normal		(k: 16%, i: 0%, s: 0%)
+105357	Exit normal		(k: 16%, i: 0%, s: 0%)
+105407	Setup MAP25
+117832	Exit normal		(k: 59%, i: 8%, s: 100%)
+117904	Setup MAP26
+128335	Exit normal		(k: 71%, i: 65%, s: 100%)
+128410	Setup MAP27
+134530	Exit normal		(k: 63%, i: 75%, s: 50%)
+134606	Setup MAP28
+138764	Exit normal		(k: 20%, i: 16%, s: 16%)
+138870	Setup MAP29
+140780	Exit normal		(k: 2%, i: 10%, s: 0%)
+140780	Exit normal		(k: 2%, i: 10%, s: 0%)
+140903	Setup MAP30
+143076	Exit normal		(k: 175%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2ep1max5950.lmp -demolog temp-logs/485.txt
+0	Setup MAP01
+4867	Exit normal		(k: 100%, i: 46%, s: 100%)
+4988	Setup MAP02
+15005	Exit normal		(k: 100%, i: 75%, s: 100%)
+15005	Exit normal		(k: 100%, i: 75%, s: 100%)
+15118	Setup MAP03
+28178	Exit normal		(k: 103%, i: 86%, s: 100%)
+28351	Setup MAP04
+36611	Exit normal		(k: 100%, i: 11%, s: 100%)
+36710	Setup MAP05
+48965	Exit normal		(k: 103%, i: 50%, s: 100%)
+48965	Exit normal		(k: 103%, i: 50%, s: 100%)
+49072	Setup MAP06
+74257	Exit normal		(k: 100%, i: 52%, s: 100%)
+74428	Setup MAP07
+85431	Exit normal		(k: 100%, i: 100%, s: 100%)
+85532	Setup MAP08
+96310	Exit normal		(k: 100%, i: 72%, s: 100%)
+96310	Exit normal		(k: 100%, i: 72%, s: 100%)
+96458	Setup MAP09
+114942	Exit normal		(k: 104%, i: 73%, s: 100%)
+115041	Setup MAP10
+126872	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem06.lmp -demolog temp-logs/486.txt
+0	Setup MAP06
+58160	Exit normal		(k: 98%, i: 87%, s: 40%)
+58160	Exit normal		(k: 98%, i: 87%, s: 40%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem07.lmp -demolog temp-logs/487.txt
+0	Setup MAP07
+13458	death player 1 (k: 89%, i: 66%, s: 0%)
+13543	Setup MAP07
+28699	Exit normal		(k: 100%, i: 33%, s: 0%)
+28699	Exit normal		(k: 100%, i: 33%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem08.lmp -demolog temp-logs/488.txt
+0	Setup MAP08
+3313	death player 1 (k: 15%, i: 27%, s: 0%)
+3336	Setup MAP08
+4146	death player 1 (k: 7%, i: 0%, s: 0%)
+4162	Setup MAP08
+18797	Exit normal		(k: 71%, i: 81%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem09.lmp -demolog temp-logs/489.txt
+0	Setup MAP09
+968	death player 1 (k: 6%, i: 4%, s: 0%)
+990	Setup MAP09
+45307	Exit normal		(k: 116%, i: 97%, s: 100%)
+45307	Exit normal		(k: 116%, i: 97%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem10.lmp -demolog temp-logs/490.txt
+0	Setup MAP10
+33971	Exit normal		(k: 100%, i: 100%, s: 60%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem12.lmp -demolog temp-logs/491.txt
+0	Setup MAP12
+30151	Exit normal		(k: 100%, i: 50%, s: 33%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem13.lmp -demolog temp-logs/492.txt
+0	Setup MAP13
+28299	death player 1 (k: 47%, i: 79%, s: 25%)
+28353	Setup MAP13
+84351	Exit normal		(k: 101%, i: 97%, s: 75%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem14.lmp -demolog temp-logs/493.txt
+0	Setup MAP14
+7768	death player 1 (k: 38%, i: 0%, s: 0%)
+7802	Setup MAP14
+33251	Exit normal		(k: 103%, i: 0%, s: 28%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem15.lmp -demolog temp-logs/494.txt
+0	Setup MAP15
+443	death player 1 (k: 0%, i: 33%, s: 0%)
+453	Setup MAP15
+5838	death player 1 (k: 28%, i: 33%, s: 0%)
+5858	Setup MAP15
+22378	death player 1 (k: 79%, i: 33%, s: 33%)
+22407	Setup MAP15
+23435	death player 1 (k: 1%, i: 33%, s: 0%)
+23466	Setup MAP15
+24590	death player 1 (k: 1%, i: 66%, s: 33%)
+24613	Setup MAP15
+24967	death player 1 (k: 0%, i: 33%, s: 0%)
+24984	Setup MAP15
+26402	death player 1 (k: 0%, i: 66%, s: 33%)
+26427	Setup MAP15
+27743	death player 1 (k: 1%, i: 66%, s: 33%)
+27762	Setup MAP15
+29111	death player 1 (k: 0%, i: 66%, s: 33%)
+29128	Setup MAP15
+30299	death player 1 (k: 1%, i: 66%, s: 33%)
+30316	Setup MAP15
+31508	death player 1 (k: 0%, i: 66%, s: 33%)
+31521	Setup MAP15
+33056	death player 1 (k: 1%, i: 66%, s: 33%)
+33074	Setup MAP15
+34238	death player 1 (k: 0%, i: 66%, s: 33%)
+34257	Setup MAP15
+34952	Exit normal		(k: 0%, i: 66%, s: 33%)
+34952	Exit normal		(k: 0%, i: 66%, s: 33%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem16.lmp -demolog temp-logs/495.txt
+0	Setup MAP16
+315	death player 1 (k: 3%, i: 0%, s: 0%)
+400	Setup MAP16
+12270	death player 1 (k: 40%, i: 39%, s: 0%)
+12360	Setup MAP16
+13574	death player 1 (k: 10%, i: 4%, s: 0%)
+13601	Setup MAP16
+33477	death player 1 (k: 64%, i: 47%, s: 0%)
+33500	Setup MAP16
+33873	death player 1 (k: 0%, i: 0%, s: 0%)
+33890	Setup MAP16
+35250	death player 1 (k: 12%, i: 4%, s: 0%)
+35280	Setup MAP16
+36751	death player 1 (k: 12%, i: 4%, s: 0%)
+36771	Setup MAP16
+36989	death player 1 (k: 0%, i: 0%, s: 0%)
+37005	Setup MAP16
+38878	death player 1 (k: 12%, i: 4%, s: 0%)
+38894	Setup MAP16
+40139	death player 1 (k: 7%, i: 4%, s: 0%)
+40161	Setup MAP16
+41301	Exit normal		(k: 6%, i: 4%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem17.lmp -demolog temp-logs/496.txt
+0	Setup MAP17
+2140	death player 1 (k: 6%, i: 0%, s: 0%)
+2164	Setup MAP17
+2444	death player 1 (k: 0%, i: 0%, s: 0%)
+2469	Setup MAP17
+4983	death player 1 (k: 6%, i: 2%, s: 0%)
+5014	Setup MAP17
+103926	Exit normal		(k: 101%, i: 89%, s: 66%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem18.lmp -demolog temp-logs/497.txt
+0	Setup MAP18
+1999	death player 1 (k: 7%, i: 0%, s: 0%)
+2014	Setup MAP18
+2727	death player 1 (k: 4%, i: 0%, s: 0%)
+2744	Setup MAP18
+3534	death player 1 (k: 8%, i: 0%, s: 0%)
+3553	Setup MAP18
+4290	death player 1 (k: 5%, i: 0%, s: 0%)
+4307	Setup MAP18
+16147	death player 1 (k: 25%, i: 5%, s: 0%)
+16166	Setup MAP18
+71519	Exit normal		(k: 100%, i: 91%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem19.lmp -demolog temp-logs/498.txt
+0	Setup MAP19
+41455	death player 1 (k: 86%, i: 25%, s: 0%)
+41946	Setup MAP19
+64566	death player 1 (k: 31%, i: 25%, s: 0%)
+64616	Setup MAP19
+82982	Exit normal		(k: 25%, i: 50%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem21.lmp -demolog temp-logs/499.txt
+0	Setup MAP21
+440	death player 1 (k: 0%, i: 0%, s: 0%)
+517	Setup MAP21
+46097	Exit normal		(k: 59%, i: 92%, s: 50%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad PLUTONIA.WAD -file pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/pl2mem23.lmp -demolog temp-logs/500.txt
+0	Setup MAP23
+1436	death player 1 (k: 5%, i: 23%, s: 20%)
+1461	Setup MAP23
+56318	Exit normal		(k: 105%, i: 58%, s: 60%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/doom2/P231-353.lmp -demolog temp-logs/501.txt
+0	Setup MAP31
+8176	Exit secret		(k: 75%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/doom2/p231-255.lmp -demolog temp-logs/502.txt
+0	Setup MAP31
+6141	Exit secret		(k: 60%, i: 100%, s: 66%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/doom2/p231-308.lmp -demolog temp-logs/503.txt
+0	Setup MAP31
+6611	Exit secret		(k: 61%, i: 66%, s: 66%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/doom2/p231-314.lmp -demolog temp-logs/504.txt
+0	Setup MAP31
+6819	Exit secret		(k: 55%, i: 100%, s: 66%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/doom2/p231-415.lmp -demolog temp-logs/505.txt
+0	Setup MAP31
+8926	Exit secret		(k: 75%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/doom2/p231-647.lmp -demolog temp-logs/506.txt
+0	Setup MAP31
+14272	Exit secret		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/doom2/p232o054.lmp -demolog temp-logs/507.txt
+0	Setup MAP32
+1922	Exit normal		(k: 0%, i: 26%, s: 100%)
