@@ -19268,3 +19268,10 @@
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH -fastdemo pl2/doom2/p232o054.lmp -demolog temp-logs/3858.txt 
 0	Setup MAP32
 1922	Exit normal		(k: 0%, i: 26%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file ee-demos/mothership/mothership.wad -fastdemo ee-demos/mothership/mothership-ioan.lmp -demolog temp-logs/3859.txt 
+0	Setup MAP01
+1025	death player 1 (k: 2%, i: 6%, s: 0%)
+1045	Setup MAP01
+76816	death player 1 (k: 99%, i: 98%, s: 0%)
+77039	Quit without exiting level
