@@ -66,3 +66,4 @@
 p pl2 -file pl2/PL2.WAD -deh pl2/PL2.DEH
 2 pl2/doom2 -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH
 2 ee-demos/mothership -file ee-demos/mothership/mothership.wad
+1 dai_os37 -file dai_os37/hc_g_dai37.wad

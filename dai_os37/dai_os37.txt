@@ -1,0 +1,77 @@
+===========================================================================
+Advanced engine needed  : Boom Compatible Ports
+Primary purpose         : Single Play
+===========================================================================
+Title                   : At hell's gate
+Filename                : hc_g_dai37.wad
+Release date            : 
+Author                  : Walter "Daimon" Confalonieri
+Email Address           : daimon.italia983@gmail.com
+Other Files By Author   : A lot, some good, some bad
+			  
+
+Misc. Author Info       : I love spamming stupid videos on zdoom forums.
+			  I build doom maps just for fun...
+
+Description             : Junked map from third installation of "oskyrt".
+			  Hell/Void stuff this time...
+
+Additional Credits to   : ID, for the fancy game!
+                          My family
+			  Hardcore_gamer for some reason (making oskirt3,
+			  and i for participate in...)
+			  3drealms for duke nukem 3d (music)
+			  other people i forgot to mention
+			  
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : DOOM
+Map #                   : E3M7
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Other game styles       : No
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from Scratch
+Build Time              : few months of spare work...
+			  
+Editor(s) used          : Doombuilder, Wintex 4.3, ZenNode
+Known Bugs              : misaligniments here and there, boo-hoo.
+			  a secret path crashes on boom
+May Not Run With...     : not boom-compatible ports
+Tested Whit		: prboom 2.2.0, risen3d, zdoom 2.3.1
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+NO modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
