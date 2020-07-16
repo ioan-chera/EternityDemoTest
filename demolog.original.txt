@@ -19269,9 +19269,95 @@
 0	Setup MAP32
 1922	Exit normal		(k: 0%, i: 26%, s: 100%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file ee-demos/mothership/mothership.wad -fastdemo ee-demos/mothership/mothership-ioan.lmp -demolog temp-logs/3859.txt 
-0	Setup MAP01
-1025	death player 1 (k: 2%, i: 6%, s: 0%)
-1045	Setup MAP01
-76816	death player 1 (k: 99%, i: 98%, s: 0%)
-77039	Quit without exiting level
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM.WAD -file dai_os37/hc_g_dai37.wad -fastdemo dai_os37/hc_g_dai37.lmp -demolog temp-logs/3859.txt 
+0	Setup E3M7
+30085	Exit normal		(k: 100%, i: 95%, s: 50%)
+30875	Setup E3M8
+31737	Exit normal		(k: 25%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex08.lmp -demolog temp-logs/3860.txt 
+0	Setup MAP08
+5896	death player 1 (k: 16%, i: 17%, s: 0%)
+5930	Setup MAP08
+8137	death player 1 (k: 5%, i: 7%, s: 0%)
+8177	Setup MAP08
+11138	death player 1 (k: 9%, i: 7%, s: 0%)
+11176	Setup MAP08
+12932	death player 1 (k: 5%, i: 7%, s: 0%)
+13029	Setup MAP08
+25225	death player 1 (k: 39%, i: 50%, s: 0%)
+25667	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex08a.lmp -demolog temp-logs/3861.txt 
+0	Setup MAP08
+15336	death player 1 (k: 53%, i: 52%, s: 0%)
+15420	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex08b.lmp -demolog temp-logs/3862.txt 
+0	Setup MAP08
+43317	death player 1 (k: 124%, i: 90%, s: 0%)
+43692	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex08c.lmp -demolog temp-logs/3863.txt 
+0	Setup MAP08
+9618	death player 1 (k: 35%, i: 31%, s: 0%)
+9689	Setup MAP08
+24208	death player 1 (k: 52%, i: 64%, s: 0%)
+24285	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex08dw.lmp -demolog temp-logs/3864.txt 
+0	Setup MAP08
+29005	Exit normal		(k: 109%, i: 90%, s: 0%)
+29608	Setup MAP09
+29636	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex17.lmp -demolog temp-logs/3865.txt 
+0	Setup MAP17
+892	death player 1 (k: 9%, i: 0%, s: 0%)
+916	Setup MAP17
+1652	death player 1 (k: 3%, i: 0%, s: 0%)
+1692	Setup MAP17
+21164	death player 1 (k: 45%, i: 0%, s: 0%)
+21583	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex17b.lmp -demolog temp-logs/3866.txt 
+0	Setup MAP17
+905	death player 1 (k: 5%, i: 0%, s: 0%)
+942	Setup MAP17
+25868	death player 1 (k: 80%, i: 95%, s: 33%)
+25973	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex17c.lmp -demolog temp-logs/3867.txt 
+0	Setup MAP17
+4729	death player 1 (k: 23%, i: 0%, s: 0%)
+4836	Setup MAP17
+6243	death player 1 (k: 10%, i: 0%, s: 0%)
+6306	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex17dw.lmp -demolog temp-logs/3868.txt 
+0	Setup MAP17
+37756	Exit normal		(k: 108%, i: 100%, s: 66%)
+38479	Setup MAP18
+38494	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex31.lmp -demolog temp-logs/3869.txt 
+0	Setup MAP31
+734	death player 1 (k: 1%, i: 2%, s: 0%)
+754	Setup MAP31
+7264	death player 1 (k: 16%, i: 9%, s: 0%)
+7348	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex31a.lmp -demolog temp-logs/3870.txt 
+0	Setup MAP31
+399	death player 1 (k: 2%, i: 0%, s: 0%)
+430	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file triplex/triplex.wad -fastdemo triplex/triplex31bw.lmp -demolog temp-logs/3871.txt 
+0	Setup MAP31
+776	death player 1 (k: 4%, i: 0%, s: 0%)
+808	Setup MAP31
+1514	death player 1 (k: 4%, i: 2%, s: 0%)
+1538	Setup MAP31
+61247	Exit normal		(k: 94%, i: 86%, s: 0%)
+62145	Setup MAP16
+62146	Quit without exiting level
