@@ -19361,3 +19361,11 @@
 61247	Exit normal		(k: 94%, i: 86%, s: 0%)
 62145	Setup MAP16
 62146	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/HE1M1.LMP -demolog temp-logs/3872.txt 
+0	Setup E1M1
+8089	Exit normal		(k: 97%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/HE1M2.LMP -demolog temp-logs/3873.txt 
+0	Setup E1M2
+21416	Exit normal		(k: 100%, i: 100%, s: 100%)

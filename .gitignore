@@ -12,3 +12,4 @@ temp-logs/*.txt
 *.pyc
 *.diff
 /plutonia.wad
+HERETIC.WAD
