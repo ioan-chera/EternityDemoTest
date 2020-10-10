@@ -32,11 +32,13 @@ ARGS_BASE = ['eternity-port/eternity', '-base', 'eternity-port/base', '-user', '
 ARGS_DOOM = ['-iwad', 'DOOM.WAD']
 ARGS_DOOM2 = ['-iwad', 'DOOM2.WAD']
 ARGS_PLUTONIA = ['-iwad', 'PLUTONIA.WAD']
+ARGS_HERETIC = ['-iwad', 'HERETIC.WAD']
 
 ARGS_MAPPING = {
     '1': ARGS_DOOM,
     '2': ARGS_DOOM2,
-    'p': ARGS_PLUTONIA
+    'p': ARGS_PLUTONIA,
+    'h': ARGS_HERETIC
 }
 
 ###################################################################
