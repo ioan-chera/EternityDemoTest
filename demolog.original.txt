@@ -19369,3 +19369,7 @@
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/HE1M2.LMP -demolog temp-logs/3873.txt 
 0	Setup E1M2
 21416	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -file heretic/test-dsparil/dsparil.wad -fastdemo heretic/test-dsparil/DSPARIL.LMP -demolog temp-logs/3874.txt 
+0	Setup E3M8
+2794	Exit normal		(k: 700%, i: 100%, s: 0%)
