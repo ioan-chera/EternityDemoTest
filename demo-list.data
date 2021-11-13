@@ -70,3 +70,4 @@ p pl2 -file pl2/PL2.WAD -deh pl2/PL2.DEH
 2 triplex -file triplex/triplex.wad
 h heretic
 h heretic/test-dsparil -file heretic/test-dsparil/dsparil.wad
+2 ee-demos/dreadmoon/RC/1 -file ee-demos/dreadmoon/RC/1/dreadmoon1.wad
