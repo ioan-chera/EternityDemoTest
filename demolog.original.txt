@@ -19375,9 +19375,9 @@
 2794	Exit normal		(k: 700%, i: 100%, s: 0%)
 
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file ee-demos/dreadmoon/RC/1/dreadmoon1.wad -fastdemo ee-demos/dreadmoon/RC/1/dreadmoon1-fda-uv-printz.lmp -demolog temp-logs/3875.txt 
-0       Setup MAP01
-3916    death player 1 (k: 10%, i: 10%, s: 0%)
-3974    Setup MAP01
-48002   Exit normal             (k: 89%, i: 68%, s: 66%)
-48794   Setup MAP02
-48795   Quit without exiting level
+0	Setup MAP01
+3916	death player 1 (k: 10%, i: 10%, s: 0%)
+3974	Setup MAP01
+48002	Exit normal		(k: 89%, i: 68%, s: 66%)
+48794	Setup MAP02
+48795	Quit without exiting level
