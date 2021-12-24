@@ -1,0 +1,19 @@
+This is a   Heretic  entry
+
+author:     Kimo Xvirus
+            kimo_xvirus@hotmail.com
+
+game:       Heretic v1.3 + vv's hack
+category:   No Monsters
+          
+level:      E1M1 - The Docks
+           
+stats:      Kills   -    0/44
+            Items   -    0/2
+            Secrets -    0/4
+            -------------------         
+            Time    -   0:26.37
+
+comments:   2nd 26s I got because I wasn't satisfied with first one's looks,
+            improvement came from sr50 and switch on the fly
+            Don't ask me about 25s with monsters for now

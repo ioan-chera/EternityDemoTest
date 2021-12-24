@@ -1,0 +1,21 @@
+This is a   Heretic  entry
+
+author:     Kimo Xvirus
+            kimo_xvirus@hotmail.com
+
+game:       Heretic v1.3 + vv's hack
+category:   Smite Meister - Max
+          
+level:      E1M1 - The Docks
+           
+stats:      Kills   - 44/44
+            Items   -   1/2
+            Secrets -   4/4
+            -----------------    
+            Time    -  1:33
+
+comments:   I did this one a while ago,
+            I I tried Hitherto's BP route but it didn't work in smite meister
+            I don't remember exactly why, it was either monsteres not infighting
+            or low ammo but I actually only tried it a few times, maybe
+            I should come back and play this again more seriously with his route
