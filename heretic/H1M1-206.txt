@@ -1,0 +1,14 @@
+this is a heretic demo
+
+author:     JC
+
+category:   Smite-Meister - 100% kills and secrets
+
+level:      E1M1
+
+stats:      Kills   - 44/44
+            Secrets -   4/4
+            ----------------         
+            Time    -  2:06
+
+comments: it wad easy ti beat

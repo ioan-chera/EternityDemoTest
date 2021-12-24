@@ -1,0 +1,14 @@
+This is a   Demo Archive of the Non Gods   entry (members.xoom.com/publicdang)
+
+author:     Arno Slagboom   <slagboom@cybercomm.nl>
+
+game:       Heretic v1.3
+        
+category:   Smite-Meister             
+          
+level:      E1M1   The Docks
+           
+time:       0:33.25
+
+comments:   The only real easy level in Heretic.
+            Of course this is still way too slow...
