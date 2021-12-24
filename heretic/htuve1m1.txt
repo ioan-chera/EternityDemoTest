@@ -1,0 +1,31 @@
+************************************************************************
+LMP Title (if any)	: The Docks
+Filename                : htuve1m1.lmp
+LMP Version             : 1.3
+Game                    : Heretic
+Pwad(s)                 : none
+Map Level(s)            : E1 M1  
+Skill                   : 4
+Character (Hexen)       : 
+Options                 : -fast, -respawn, etc.
+Multiplayer Mode        : no
+Number of Players       : 1
+Perspective             : Red
+Length                  : ?
+-timer                  : No
+
+Author                  : Dave Turner
+Email Address           : dturner@ior.com
+Misc. Author Info       : A Doom guy mostly.  Heretic is fun though, so,
+			  I thought I would do lmps for it.
+
+Description             : Warp in, Ultra-Violence (Thou Art A Smite Master)
+			  100% Kills, 100% Sercrets, just like the DHT.
+
+* Where to get this LMP *
+
+FTP sites:	ftp.cdrom.com and its mirrors.
+
+BBS numbers:	none
+
+Other:		www.ior.com/~dturner/index_games.html

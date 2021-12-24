@@ -1,0 +1,20 @@
+This is a   Heretic-N  entry
+
+author:     Hitherto <rcdemo@mail.ru>
+
+game:       Heretic v1.3 + vv's hack
+category:   Smite Meister Tyson           
+          
+level:      E1M1 - "The Docks"
+           
+stats:      Kills   -   44/44
+            Items   -    1/2
+	    Secrets -    4/4
+            ------------------         
+            Time    -    1:59
+
+
+comments:   still no wand
+
+
+14-05-2008

@@ -1,0 +1,15 @@
+This is a   Heretic   entry
+
+author:     JC
+
+game:       Heretic v1.3 + vv's hack
+category:   Tyson (100% kills)
+
+level:      E1M1
+
+stats:      Kills   - 44/44
+            Secrets -   4/4
+            ----------------         
+            Time    -  1:52
+
+comments: none

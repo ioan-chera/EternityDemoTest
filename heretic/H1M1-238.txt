@@ -1,0 +1,23 @@
+This is a   Heretic  entry
+
+author:     William "[WH]-Wilou84" Huber   <wh_iori_yoshizuki@hotmail.fr>
+
+game:       Heretic v1.3 + vv's hack
+category:   Smite-Meister - 100% kills and secrets             
+          
+level:      E1M1
+           
+stats:      Kills   -  44/44
+            Secrets -   4/4
+            ----------------         
+            Time    -  2:38
+
+comments:   The easiest Heretic map, but it's also easy to
+	    leave a gargoyle behind. Spent a lot of time wandering around
+	    to see if there was one left.
+
+date:       28th of December, 2006
+
+Misc. info: Long-time Heretic lover, Co-Administrator of the French 
+            Doom Community ( http://lacommunaute.forum2jeux.com/index.forum ),
+            and ZDaemon player since fall 2005.
