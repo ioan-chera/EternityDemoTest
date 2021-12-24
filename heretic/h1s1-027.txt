@@ -1,0 +1,20 @@
+This is a   Heretic entry
+
+author:     Vincent Catalaa  <vincentds@netcourrier.com>
+
+game:       Heretic v1.3
+        
+category:   Skill 4 - Smite-Meister - Speed
+          
+level:      E1M1 - The Docks
+           
+time:       0:27.77
+
+comments:   Got this after an hour and a good dozen of 28s 
+            I got a 28.02 5 mins before this one :-)
+            
+            I did this because I did 28s a bit before Radek,
+            but it was a 28.19 .... so I imporved it :)
+            
+            I guess 26 is possible... AH ?
+

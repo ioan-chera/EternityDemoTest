@@ -1,0 +1,19 @@
+This is a   Heretic entry
+
+author:     Radek Pecka  <r.master@email.cz>
+
+game:       Heretic v1.3
+        
+category:   Skill 4 - Smite-Meister - Speed
+          
+level:      E1M1 - The Docks
+           
+time:       0:28.91
+
+comments:   I knew 28s was possible since I did 29.05 after 30
+            mins of playing. Still not perfect demo, I got stuck
+            a couple of times. 
+            This is a Pacifist record too.
+            
+
+
