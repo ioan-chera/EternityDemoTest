@@ -1,0 +1,13 @@
+This is a Heretic entry 
+
+author:   Arno Slagboom (slagboom@cybercomm.nl)
+
+game:     heretic v1.3
+category: smite-meister max
+mission:  e1m1
+
+time:     4:00
+
+
+          
+
