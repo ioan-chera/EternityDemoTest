@@ -19362,22 +19362,71 @@
 62145	Setup MAP16
 62146	Quit without exiting level
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/HE1M1.LMP -demolog temp-logs/3872.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/H1M1-206.LMP -demolog temp-logs/3872.txt 
+0	Setup E1M1
+4434	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/H1S1-025.LMP -demolog temp-logs/3873.txt 
+0	Setup E1M1
+896	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/H1T1-159.LMP -demolog temp-logs/3874.txt 
+0	Setup E1M1
+4310	death player 1 (k: 93%, i: 50%, s: 100%)
+4325	Quit without exiting level
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/H1s1-029.lmp -demolog temp-logs/3875.txt 
+0	Setup E1M1
+1047	Exit normal		(k: 2%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/HE1M1.LMP -demolog temp-logs/3876.txt 
 0	Setup E1M1
 8089	Exit normal		(k: 97%, i: 100%, s: 100%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/HE1M2.LMP -demolog temp-logs/3873.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/HE1M2.LMP -demolog temp-logs/3877.txt 
 0	Setup E1M2
 21416	Exit normal		(k: 100%, i: 100%, s: 100%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -file heretic/test-dsparil/dsparil.wad -fastdemo heretic/test-dsparil/DSPARIL.LMP -demolog temp-logs/3874.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/HTUVE1M1.LMP -demolog temp-logs/3878.txt 
+0	Setup E1M1
+10818	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1m1-133.LMP -demolog temp-logs/3879.txt 
+0	Setup E1M1
+3279	Exit normal		(k: 100%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1m1-238.LMP -demolog temp-logs/3880.txt 
+0	Setup E1M1
+5556	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1m1-400.lmp -demolog temp-logs/3881.txt 
+0	Setup E1M1
+8401	Exit normal		(k: 100%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1s1-026.LMP -demolog temp-logs/3882.txt 
+0	Setup E1M1
+922	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1s1-027.lmp -demolog temp-logs/3883.txt 
+0	Setup E1M1
+971	Exit normal		(k: 2%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1s1-028.lmp -demolog temp-logs/3884.txt 
+0	Setup E1M1
+1011	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1s1a033.lmp -demolog temp-logs/3885.txt 
+0	Setup E1M1
+1163	Exit normal		(k: 2%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1t1-152.LMP -demolog temp-logs/3886.txt 
+0	Setup E1M1
+3945	Exit normal		(k: 100%, i: 50%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/h1t1-203.LMP -demolog temp-logs/3887.txt 
+0	Setup E1M1
+4311	Exit normal		(k: 100%, i: 100%, s: 100%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -file heretic/test-dsparil/dsparil.wad -fastdemo heretic/test-dsparil/DSPARIL.LMP -demolog temp-logs/3888.txt 
 0	Setup E3M8
 2794	Exit normal		(k: 700%, i: 100%, s: 0%)
-
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad DOOM2.WAD -file ee-demos/dreadmoon/RC/1/dreadmoon1.wad -fastdemo ee-demos/dreadmoon/RC/1/dreadmoon1-fda-uv-printz.lmp -demolog temp-logs/3875.txt 
-0	Setup MAP01
-3916	death player 1 (k: 10%, i: 10%, s: 0%)
-3974	Setup MAP01
-48002	Exit normal		(k: 89%, i: 68%, s: 66%)
-48794	Setup MAP02
-48795	Quit without exiting level
