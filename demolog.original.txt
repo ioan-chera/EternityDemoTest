@@ -19372,8 +19372,7 @@
 
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/H1T1-159.LMP -demolog temp-logs/3874.txt 
 0	Setup E1M1
-4310	death player 1 (k: 93%, i: 50%, s: 100%)
-4325	Quit without exiting level
+4179	Exit normal		(k: 100%, i: 50%, s: 100%)
 
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad HERETIC.WAD -fastdemo heretic/H1s1-029.lmp -demolog temp-logs/3875.txt 
 0	Setup E1M1
