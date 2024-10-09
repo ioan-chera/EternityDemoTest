@@ -13,3 +13,4 @@ temp-logs/*.txt
 *.diff
 /plutonia.wad
 HERETIC.WAD
+.venv
