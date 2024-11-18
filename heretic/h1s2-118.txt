@@ -1,0 +1,16 @@
+This is a   Heretic   entry
+
+author:     JC 
+
+game:       Heretic v1.3 + vv's hack
+category:   Skill 4 - Smite-Meister - Speed
+          
+level:      E1M2
+          
+stats:      Kills   -   ?/?
+            Secrets -   ?/?
+            -----------------         
+            Time    -   1:18
+
+comments:  it's a good time for me :)
+	   it's hard to beat 1:20 

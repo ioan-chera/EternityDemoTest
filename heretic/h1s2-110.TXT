@@ -1,0 +1,17 @@
+This is a   Heretic  entry
+
+author:     Kimo Xvirus
+            kimo_xvirus@hotmail.com
+
+game:       Heretic v1.3 + vv's hack
+category:   No Monsters
+          
+level:      E1M2 - The Dungeons
+           
+stats:      Kills   -    ?/?
+            Items   -    ?/?
+            Secrets -    ?/?
+            -------------------         
+            Time    -   1:10.11
+
+comments:   
