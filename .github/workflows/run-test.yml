@@ -68,6 +68,7 @@ jobs:
       if: steps.check-need-test.outputs.need_test == 'true'
       uses: actions/checkout@v3
       with:
+        submodules: 'true'
         repository: team-eternity/eternity
         path: eternity-source
 
