@@ -44,7 +44,7 @@
 2 cydreams -file cydreams/Cyber110.wad -deh cydreams/Cyber110.deh
 2 cydreams/nodeh -file cydreams/Cyber110.wad
 2 nuts -file nuts/nuts.wad
-2 nuts/suprwep -file nuts/nuts.wad -deh nuts/suprwep/2.deh
+2 nuts/suprwep -file nuts/nuts.wad -deh nuts/suprwep/2.DEH
 2 scythe2 -file scythe2/scythe2.wad
 2 scythe2/spechits -file scythe2/scythe2.wad -spechit 0x01C09C98
 2 sodfinal -file sodfinal/SODfinal.wad
@@ -58,14 +58,14 @@
 2 000207 -file 000207/000207.wad
 2 000emg -file 000emg/000emg.wad
 1 wow -file wow/wow.wad
-2 hr -file hr/hr.wad
-2 hr/hr28 -file hr/hr.wad hr/hr28.wad
-2 hr/spechit -file hr/hr.wad -spechit 0x01C09C98
-2 hr/solo-net -file hr/hr.wad -solo-net
-2 hr/deh -file hr/hr.wad -deh hr/d.deh
+2 hr -file hr/HR.WAD
+2 hr/hr28 -file hr/HR.WAD hr/hr28.wad
+2 hr/spechit -file hr/HR.WAD -spechit 0x01C09C98
+2 hr/solo-net -file hr/HR.WAD -solo-net
+2 hr/deh -file hr/HR.WAD -deh hr/d.deh
 p pl2 -file pl2/PL2.WAD -deh pl2/PL2.DEH
 2 pl2/doom2 -file PLUTONIA.WAD pl2/PL2.WAD -deh pl2/PL2.DEH
-2 ee-demos/mothership -file ee-demos/mothership/mothership.wad
+2 ee-demos/mothership -file ee-demos/mothership/Mothership.wad
 1 dai_os37 -file dai_os37/hc_g_dai37.wad
 h heretic
 h heretic/test-dsparil -file heretic/test-dsparil/dsparil.wad
