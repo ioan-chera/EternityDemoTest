@@ -29,10 +29,10 @@ from scripts import notifications
 # set the base args (common to all games)
 ARGS_BASE = ['eternity-port/eternity', '-base', 'eternity-port/base', '-user', 'eternity-port/user',
              '-nodraw', '-nosound']
-ARGS_DOOM = ['-iwad', 'DOOM.WAD']
-ARGS_DOOM2 = ['-iwad', 'DOOM2.WAD']
-ARGS_PLUTONIA = ['-iwad', 'PLUTONIA.WAD']
-ARGS_HERETIC = ['-iwad', 'HERETIC.WAD']
+ARGS_DOOM = ['-iwad', 'doom.wad']
+ARGS_DOOM2 = ['-iwad', 'doom2.wad']
+ARGS_PLUTONIA = ['-iwad', 'plutonia.wad']
+ARGS_HERETIC = ['-iwad', 'heretic.wad']
 
 ARGS_MAPPING = {
     '1': ARGS_DOOM,
