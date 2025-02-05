@@ -1,0 +1,155 @@
+name: Demo Testing
+
+on:
+  workflow_dispatch:  # Allows manual triggers
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Needed for updating last_tested_sha
+      actions: read       # Needed for checking workflow status
+    
+    steps:
+    # Checkout current repository first
+    - name: Checkout EternityDemoTest
+      uses: actions/checkout@v3
+
+    # Now we can access repository files
+    - name: Get last tested commit
+      id: get-last-sha
+      run: |
+        mkdir -p .github
+        touch .github/last_tested_sha
+        echo "last_sha=$(cat .github/last_tested_sha)" >> $GITHUB_OUTPUT
+
+    # Check latest commit from Eternity
+    - name: Get latest Eternity commit
+      id: get-latest-sha
+      run: |
+        echo "latest_sha=$(curl -s https://api.github.com/repos/team-eternity/eternity/commits/master | jq -r .sha)" >> $GITHUB_OUTPUT
+
+    # Only proceed if there's a new commit
+    - name: Check if test needed
+      id: check-need-test
+      run: |
+        # First determine if we need to run tests
+        if [ "${{ steps.get-last-sha.outputs.last_sha }}" = "${{ steps.get-latest-sha.outputs.latest_sha }}" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+          echo "No new commits since last test and not manually triggered"
+          echo "need_test=false" >> $GITHUB_OUTPUT
+        else
+          echo "Will test due to either new commits or manual trigger"
+          echo "need_test=true" >> $GITHUB_OUTPUT
+          
+          # Read current content of the file
+          current_sha=$(cat .github/last_tested_sha)
+          latest_sha="${{ steps.get-latest-sha.outputs.latest_sha }}"
+          
+          # Update file and git only if content would actually change
+          if [ "$current_sha" != "$latest_sha" ] && [ -n "$latest_sha" ]; then
+            echo "New SHA detected ($latest_sha), updating from previous ($current_sha)"
+            echo "$latest_sha" > .github/last_tested_sha
+            if git status --porcelain .github/last_tested_sha | grep -q '^.M'; then
+              git config --global user.name "GitHub Action"
+              git config --global user.email "action@github.com"
+              git add .github/last_tested_sha
+              git commit -m "Update last tested SHA"
+              git push
+            fi
+          else
+            echo "SHA file already contains current value, no update needed"
+          fi
+        fi
+
+    # Checkout Eternity only if we need to test
+    - name: Checkout Eternity
+      if: steps.check-need-test.outputs.need_test == 'true'
+      uses: actions/checkout@v3
+      with:
+        repository: team-eternity/eternity
+        path: eternity-source
+
+    - name: Set up Python
+      if: steps.check-need-test.outputs.need_test == 'true'
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Install Python dependencies
+      if: steps.check-need-test.outputs.need_test == 'true'
+      run: |
+        python -m pip install --upgrade pip
+        pip install joblib py-notifier
+
+    - name: Install CMake
+      if: steps.check-need-test.outputs.need_test == 'true'
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y cmake
+
+    - name: Download and extract encrypted IWADs
+      if: steps.check-need-test.outputs.need_test == 'true'
+      run: |
+        # Download the specific archive from latest release
+        gh release download latest --pattern "games-encrypted.tar.gz"
+        # Extract the encrypted WADs
+        tar xzf games-encrypted.tar.gz
+
+    - name: Decrypt IWADs
+      if: steps.check-need-test.outputs.need_test == 'true'
+      env:
+        PRIVATE_KEY: ${{ secrets.IWAD_PRIVATE_KEY }}
+      run: |
+        echo "$PRIVATE_KEY" > private_key.pem
+        openssl pkeyutl -decrypt -inkey private_key.pem -in aes.key.enc -out aes.key
+        openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in doom.wad.enc -out doom.wad -kfile aes.key
+        openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in doom2.wad.enc -out doom2.wad -kfile aes.key
+        openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in heretic.wad.enc -out heretic.wad -kfile aes.key
+        openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in plutonia.wad.enc -out plutonia.wad -kfile aes.key
+        rm aes.key *.wad.enc
+        rm private_key.pem
+
+    - name: Build Eternity
+      if: steps.check-need-test.outputs.need_test == 'true'
+      run: |
+        mkdir eternity-source
+        cd eternity-source
+        cmake -B build -DCMAKE_BUILD_TYPE=Release
+        cmake --build build --config Release
+        cd ..
+        mkdir eternity-port
+        cp -r eternity-source/base eternity-port
+        cp -r eternity-source/user eternity-port
+        cp eternity-source/build/eternity/eternity eternity-port
+
+    - name: Run Tests
+      if: steps.check-need-test.outputs.need_test == 'true'
+      run: python testdemos.py
+
+    - name: Compare Demo Logs
+      if: steps.check-need-test.outputs.need_test == 'true' && always()
+      run: |
+        if [ -f demolog.txt ] && [ -f demolog.original.txt ]; then
+          if diff -u demolog.original.txt demolog.txt > demo_differences.txt; then
+            echo "Demo logs match exactly"
+            exit 0
+          else
+            echo "Demo logs have differences:"
+            cat demo_differences.txt
+            echo "::error::Demo logs do not match the expected output. See demo_differences.txt for details."
+            exit 1
+          fi
+        else
+          echo "::error::One or both demo log files are missing"
+          exit 1
+        fi
+
+    - name: Upload Diff on Failure
+      if: failure() && steps.check-need-test.outputs.need_test == 'true'
+      uses: actions/upload-artifact@v3
+      with:
+        name: demo-differences
+        path: demo_differences.txt
+        if-no-files-found: ignore
