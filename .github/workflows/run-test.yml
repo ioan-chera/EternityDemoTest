@@ -148,7 +148,7 @@ jobs:
 
     - name: Upload Diff on Failure
       if: failure() && steps.check-need-test.outputs.need_test == 'true'
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: demo-differences
         path: demo_differences.txt
