@@ -93,7 +93,7 @@ jobs:
       if: steps.check-need-test.outputs.need_test == 'true'
       run: |
         # Download the specific archive from latest release
-        curl --output games-encrypted.tar.gz https://github.com/ioan-chera/EternityDemoTest/releases/download/enc/games-encrypted.tar.gz
+        curl -L --output games-encrypted.tar.gz https://github.com/ioan-chera/EternityDemoTest/releases/download/enc/games-encrypted.tar.gz
         # Extract the encrypted WADs
         tar xzf games-encrypted.tar.gz
 
