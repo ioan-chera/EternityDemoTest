@@ -153,7 +153,11 @@ def run_program(command_line_args):
                 outfile.write(infile.read())
             os.remove(f)
 
-    notifications.show('Demo testing done!')
+    try:
+        notifications.show('Demo testing done!')
+    except Exception as e:
+        print('Demo testing done!')
+        print('Failed sending notification:', e)
 
 
 if __name__ == "__main__":
