@@ -69,3 +69,4 @@ p pl2 -file pl2/PL2.WAD -deh pl2/PL2.DEH
 1 dai_os37 -file dai_os37/hc_g_dai37.wad
 h heretic
 h heretic/test-dsparil -file heretic/test-dsparil/dsparil.wad
+h heretic/test-heretic-no-crunch -file heretic/test-heretic-no-crunch/hcrunch.wad
