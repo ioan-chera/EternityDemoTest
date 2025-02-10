@@ -1,0 +1,14 @@
+Wad: Wow          
+Map: e2m8
+Skill: 4
+Category: UV -Fast
+Sourceport: DSDA-Doom v0.27.5
+Complevel: 3
+Time: 0:06.57
+
+Author: rd       
+Date:  September 11 2024
+
+Comments: lol
+
+Decay's max time is very cooked, but I wanted to see if I could do -fast in under 7 seconds.

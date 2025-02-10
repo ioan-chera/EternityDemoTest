@@ -1,0 +1,33 @@
+Player: Juan Muro Diego "El Juancho"
+Date: 5-4-2022 06:49:31 (yes, my sleep schedule is fucked 90% of the year ;_;)
+IWAD: DOOM.WAD
+WAD: wow.wad + wow_x.wad
+Complevel: 3 (Ultimate Doom)
+Category: UV-Max
+Map: E2M8
+Source Port: DSDA-Doom v0.24.3
+Time: 00:06.40
+Attempts: 428
+
+Description:
+
+Got the WR first try but perfecting the time took me a short while
+
+No way this could be lowered
+
+WOW!
+----------------------------------------------6.40 TEXT UPDATE----------------------------------------------------------
+Wow... I was playing this map on complevel 3 + -shorttics cuz i thought that maybe i could lower the time by 1 tic :^)
+I accidentally killed the cyberdemon instantly with the second ball and not with the tracers of the second ball, I didn't know 
+that the fastest way to kill a cyber was ball + perfectly aligned tracers + ball, i got a 6.46 and i was extremely surprised and
+pissed off that i did not make a demo so i start doing recording attempts, with my first try i got a  6.49, really really lucky.
+It took me a long time to get close and I finally got 6.40.
+
+I mean it when I say seriously that this demo is frame perfect from start to finish, it's the first time I used double restart 
+to make a frame perfect start on tic 1, I also made the right angle to pick up the BFG, the pistol was at its lowest point so 
+the swap from the gun to the BFG was literally perfect, then I shot 2 frame perfect balls at the cyberdemon. I dare to say
+that it is IMPOSSIBLE to lower this demo, I would be very surprised if someday someone would do a 6.3X demo.
+
+
+
+

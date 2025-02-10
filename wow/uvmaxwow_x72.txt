@@ -1,0 +1,9 @@
+IWAD: DOOM.wad
+Map: E2M8
+Skill: 4
+Category: UV Max
+Exe: DSDA-Doom v0.24.2 cl3
+Recorded on: 03-18-22
+Time: 7.2
+Author: UndeadRyker
+Description: My God, do I have a funny story for this one. You see, my original time that I was content with was 7.31 but unfortunately, I lost the demo file. Just to make sure I wasn't dreaming and to check if I was looking in the right "demo-names" I ran through it one more time, and I shit you not, my FIRST test run that was in NO WAY TRYING TO BEAT MY RECORD OF 7.31, I ended up getting this very 7.20 time on. My sides have been launched to orbit. I know it's not as impressive as Looper's 6.91, but the funny story and the hilarity of this .WAD is good enough for me!

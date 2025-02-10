@@ -1,0 +1,19 @@
+Player: Juan Muro Diego "El Juancho"
+Date: 25-3-2022 22:06:15
+IWAD: DOOM.WAD
+WAD: wow.wad + wow_x.wad
+Complevel: 3 (Ultimate Doom)
+Category: UV-Max
+Map: E2M8
+Source Port: DSDA-Doom v0.24.2
+Time: 00:06.77
+Attempts: 253
+
+Description:
+
+Got the WR first try but perfecting the time took me a short while
+
+No way this could be lowered
+
+WOW!
+

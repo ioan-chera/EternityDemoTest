@@ -1,0 +1,30 @@
+Player: Decay
+Time: 0:06.34
+
+IWAD: Doom.wad
+PWAD: wow_x.wad
+Sourceport: DSDA Doom 0.19.7
+Complevel: 3
+Skill: 4
+Category: UV Max
+Map(s): e2m8
+Date:  April 6 2022
+
+Comments: 
+I read "No way this could be lowered" when I first saw 6.40
+Today I finally learned how to 2 shot a Cyberdemon. It sucks.
+
+I mean it when I seriously suggest that this demo is out of control
+from start to finish, it's not the first time RNG has completely
+fucked my runs, such incredible bullshit from the first shot,
+to the cyber position, to the bfg damage, to the second shot,
+the cyber's second move, and then the biggest kick in the balls 
+of all, the end game RNG. I should've had this run earlier but
+the end RNG fucked me ANYWAY I made the right angle to pick up
+the BFG, the pistol was already gone when I picked it up, ugh
+so smooth and perfect I moaned a little, then when I came up on
+that cyber ass and 2 shot it with those 2 glorious green balls
+it was DEVASTATING AUGHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+I dare say that it MIGHT BE POSSIBLE to lower this demo, I would
+not be surprised if someone makes a 6.2x demo!
