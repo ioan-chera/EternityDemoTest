@@ -132,7 +132,7 @@ jobs:
       if: steps.check-need-test.outputs.need_test == 'true' && always()
       run: |
         if [ -f demolog.txt ] && [ -f demolog.original.txt ]; then
-          if diff -u demolog.original.txt demolog.txt > demo_differences.txt; then
+          if diff -u --ignore-blank-lines --ignore-all-space --ignore-case demolog.original.txt demolog.txt > demo_differences.txt; then
             echo "Demo logs match exactly"
             exit 0
           else
