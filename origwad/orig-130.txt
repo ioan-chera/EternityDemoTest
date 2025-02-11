@@ -1,0 +1,34 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom/m-o/origwad.zip
+           (Or mirrors...)
+Pwad name: Origwad
+Maps:      E1M1
+Skill:     4
+Category:  Max
+Exe:       Recorded with PrBoom 2.2.4 with -complevel 0 (doom comp)
+Time:      1:30
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills   100%
+           Items     0%
+           Secrets 100%
+
+NOTE: Rename origwad.pwd to origwad.wad for playback
+
+Comments:  
+
+I made a few stabs at this one after it was mentioned recently on 
+Doomworld. This is my third exit, I had a few better attempts wasted. 
+You need some luck with the infighting for a fast time. Non-berserk 
+punching has never been a favourite of mine (keep in mind I've never 
+submitted any Tyson demo, heheh), but I can usually hold my own 
+against a Baron. Here, I missed five punches and lost time 
+hesitating at least twice. Oh, well.
+
+Thanks to Doomworld Forums member "remembert" for motivation.
+
+Kristian Ronge
+
+zuckuss@gmail.com

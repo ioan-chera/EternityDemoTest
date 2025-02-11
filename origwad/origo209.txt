@@ -1,0 +1,16 @@
+dsdarchive.com
+
+Runner:    JonaG
+Email:     jonatan.pribek@gmail.com
+Time:      0:02 (2.09)
+
+IWAD:      The Ultimate Doom (doom.wad)
+PWAD:	   Origwad by Jeff Bird (origwad.wad)
+Level:     E1M1
+Skill:     4 (Ultra-Violence)
+Category:  No Monsters
+Played on: PRBoom-Plus 2.5.1.4 -complevel 3
+
+Description: Two frames could definitely be saved, but I think 1.97 is just out of reach...
+
+Progression: 2.2x --> 2.14 --> 2.11 --> 2.09!

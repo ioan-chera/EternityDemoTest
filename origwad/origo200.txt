@@ -1,0 +1,17 @@
+dsdarchive.com
+
+Runner:    JonaG
+Email:     jonatan.pribek@gmail.com
+Time:      0:02 (2.00)
+
+IWAD:      The Ultimate Doom (doom.wad)
+PWAD:	   Origwad by Jeff Bird (origwad.wad)
+Level:     E1M1
+Skill:     4 (Ultra-Violence)
+Category:  No Monsters
+Played on: PRBoom-Plus 2.5.1.4 -complevel 3
+
+Description: So yesterday I realized that I can perform a quickstart in prboom as well.
+	     Knowing this, I was doing attempts hopefully for a better time, and it finally happened!!
+	     I said this many times but now I really think that 1.97 is just impossible and I won't even try anymore.
+	     

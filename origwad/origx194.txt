@@ -1,0 +1,13 @@
+             Origwad
+        Author: Jeff Bird
+----------------------------------
+          origx194.lmp
+
+Pacifist TAS in 0:01.94
+
+Built using XDRE2
+
+Skill level: Ultraviolence
+Author: 4shockblast
+
+Comments: Strange how no one thought of this yet; all it takes is a little easy thingrunning and the map is doable faster than with -nomonsters. Thank you, Jeff Bird, for making the level go west-east! :)

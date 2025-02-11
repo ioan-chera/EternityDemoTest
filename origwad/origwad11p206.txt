@@ -1,0 +1,16 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM.WAD
+Pwad:      origwad.WAD
+Map:       E1M1
+Skill:     4
+Category:  Pacifist
+Exe:       dsda-doom 0.27.5 -complevel 3
+
+Time:      0:02.06
+
+Author:    Napsalm
+
+Comments:
+Yay!

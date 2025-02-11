@@ -1,0 +1,21 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM.wad
+Pwad:      origwad.wad
+Map:       E1M1
+Skill:     4
+Category:  UV Respawn
+Exe:       dsda-doom 0.24.2 -complevel 3
+
+Time:      0:19.80
+
+Author:    Billa
+
+Comments:  Would have been 18 if I'd aimed at that imp properly 🤔
+
+           Goal was sub-20. 2nd enemy dies at 2.31 and it's all tied to weapon swaps and firing time so the 
+           optimal time here is 14.33 I think? I didn't think very hard about RNG manipulation in this run, 
+           just woke up the Barons and spammed attempts until it worked. Respawn gaming
+
+Video:     https://www.youtube.com/watch?v=gdy-yaDop1U

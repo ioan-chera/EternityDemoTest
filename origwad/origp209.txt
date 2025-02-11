@@ -1,0 +1,18 @@
+             Origwad
+       WAD Author: Jeff Bird
+------------------------------------
+           origp209.lmp
+
+Pacifist in 0:02.09
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 3
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Looked like a fun competition to get into.

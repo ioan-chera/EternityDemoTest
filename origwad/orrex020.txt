@@ -1,0 +1,15 @@
+          Origwad
+      WAD Author: Jeff Bird
+----------------------------------
+          orrex020.lmp
+
+UV -respawn in 0:20
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 3
+
+
+Skill level: Ultraviolence with the -respawn parameter
+Author: 4shockblast
+
+Comments: Might be possible to improve another second (and possibly more) if the monsters respawn early enough.

@@ -19372,3 +19372,219 @@
 -base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad heretic.wad -file heretic/test-heretic-no-crunch/hcrunch.wad -fastdemo heretic/test-heretic-no-crunch/hcrunch-test.lmp -demolog temp-logs/3883.txt 
 0	Setup E1M1
 715	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/238843_1.lmp -demolog temp-logs/3884.txt 
+0	Setup E1M1
+70	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/203_2.lmp -demolog temp-logs/3885.txt 
+0	Setup E1M1
+70	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/388603_3.lmp -demolog temp-logs/3886.txt 
+0	Setup E1M1
+70	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/203887_4.lmp -demolog temp-logs/3887.txt 
+0	Setup E1M1
+70	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/203_5.lmp -demolog temp-logs/3888.txt 
+0	Setup E1M1
+70	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/211.lmp -demolog temp-logs/3889.txt 
+0	Setup E1M1
+73	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/214.lmp -demolog temp-logs/3890.txt 
+0	Setup E1M1
+74	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orfax121.lmp -demolog temp-logs/3891.txt 
+0	Setup E1M1
+2854	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-002.lmp -demolog temp-logs/3892.txt 
+0	Setup E1M1
+99	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-058.lmp -demolog temp-logs/3893.txt 
+0	Setup E1M1
+2033	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-118.lmp -demolog temp-logs/3894.txt 
+0	Setup E1M1
+2746	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-130.lmp -demolog temp-logs/3895.txt 
+0	Setup E1M1
+3161	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-214.lmp -demolog temp-logs/3896.txt 
+0	Setup E1M1
+74	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-220.lmp -demolog temp-logs/3897.txt 
+0	Setup E1M1
+76	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-223.lmp -demolog temp-logs/3898.txt 
+0	Setup E1M1
+77	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-226.lmp -demolog temp-logs/3899.txt 
+0	Setup E1M1
+78	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig-231.lmp -demolog temp-logs/3900.txt 
+0	Setup E1M1
+80	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orig338t.lmp -demolog temp-logs/3901.txt 
+0	Setup E1M1
+7635	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origbuil.lmp -demolog temp-logs/3902.txt 
+0	Setup E1M1
+69	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origf045.lmp -demolog temp-logs/3903.txt 
+0	Setup E1M1
+1599	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origm045.lmp -demolog temp-logs/3904.txt 
+0	Setup E1M1
+1582	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origm1str349.lmp -demolog temp-logs/3905.txt 
+0	Setup E1M1
+121	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orign200.lmp -demolog temp-logs/3906.txt 
+0	Setup E1M1
+69	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orign217.lmp -demolog temp-logs/3907.txt 
+0	Setup E1M1
+75	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orignmstr349.lmp -demolog temp-logs/3908.txt 
+0	Setup E1M1
+121	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orignomo-002.lmp -demolog temp-logs/3909.txt 
+0	Setup E1M1
+77	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origo197.lmp -demolog temp-logs/3910.txt 
+0	Setup E1M1
+68	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origo200.lmp -demolog temp-logs/3911.txt 
+0	Setup E1M1
+69	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origo206.lmp -demolog temp-logs/3912.txt 
+0	Setup E1M1
+71	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origo209.lmp -demolog temp-logs/3913.txt 
+0	Setup E1M1
+72	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origp200.lmp -demolog temp-logs/3914.txt 
+0	Setup E1M1
+69	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origp209.lmp -demolog temp-logs/3915.txt 
+0	Setup E1M1
+72	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origp211.lmp -demolog temp-logs/3916.txt 
+0	Setup E1M1
+73	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origp226.lmp -demolog temp-logs/3917.txt 
+0	Setup E1M1
+78	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origr019.lmp -demolog temp-logs/3918.txt 
+0	Setup E1M1
+692	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origsk1m3183.lmp -demolog temp-logs/3919.txt 
+0	Setup E1M1
+1113	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origstr354.lmp -demolog temp-logs/3920.txt 
+0	Setup E1M1
+123	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origstr357.lmp -demolog temp-logs/3921.txt 
+0	Setup E1M1
+124	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origt-240.lmp -demolog temp-logs/3922.txt 
+0	Setup E1M1
+5599	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origt227.lmp -demolog temp-logs/3923.txt 
+0	Setup E1M1
+5159	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origt731.lmp -demolog temp-logs/3924.txt 
+0	Setup E1M1
+15813	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origwad11p206.lmp -demolog temp-logs/3925.txt 
+0	Setup E1M1
+71	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origwadt203.lmp -demolog temp-logs/3926.txt 
+0	Setup E1M1
+4331	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origx028.lmp -demolog temp-logs/3927.txt 
+0	Setup E1M1
+1013	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origx194.lmp -demolog temp-logs/3928.txt 
+0	Setup E1M1
+67	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origx197.lmp -demolog temp-logs/3929.txt 
+0	Setup E1M1
+68	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origx220.lmp -demolog temp-logs/3930.txt 
+0	Setup E1M1
+76	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origxo189.lmp -demolog temp-logs/3931.txt 
+0	Setup E1M1
+65	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origxp189.lmp -demolog temp-logs/3932.txt 
+0	Setup E1M1
+65	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origxpr183.lmp -demolog temp-logs/3933.txt 
+0	Setup E1M1
+63	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/origxpr186.lmp -demolog temp-logs/3934.txt 
+0	Setup E1M1
+64	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/ornmx002.lmp -demolog temp-logs/3935.txt 
+0	Setup E1M1
+81	Exit normal		(k: 0%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orrex020.lmp -demolog temp-logs/3936.txt 
+0	Setup E1M1
+716	Exit normal		(k: 100%, i: 0%, s: 0%)
+
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/orw1102.lmp -demolog temp-logs/3937.txt 
+0	Setup E1M1
+82	Exit normal		(k: 16%, i: 0%, s: 0%)

@@ -1,0 +1,19 @@
+             Origwad
+       WAD Author: Jeff Bird
+------------------------------------
+           orign200.lmp
+
+NM-Speed in 0:02.00
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: DSDA-Doom 0.27.5 -complevel 3
+Skill level: Nightmare!
+Author: 4shockblast
+WAD: origwad.wad
+Category: NM-Speed
+Time: 0:02.00
+
+Comments: 1.94 is possible but the shotgunner makes this cursed.

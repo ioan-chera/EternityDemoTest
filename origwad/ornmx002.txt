@@ -1,0 +1,13 @@
+          Origwad
+      WAD Author: Jeff Bird
+----------------------------------
+          ornmx002.lmp
+
+NM-Speed in 0:02
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 3
+
+
+Skill level: Nightmare
+Author: 4shockblast

@@ -1,0 +1,28 @@
+NOTE: This is a built demo.
+
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom/m-o/origwad.zip
+           (Or mirrors...)
+Pwad name: Origwad
+Maps:      E1M1
+Skill:     4
+Category:  -nomonsters speed
+Exe:       Built with LMPC 3.3.0
+Time:      0:02.00
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     0%
+           Items     0%
+           Secrets 100%
+
+NOTE #2:   Rename origwad.pwd to origwad.wad for playback
+
+Comments:  
+
+I'd love to see someone do 0:01.97. :-)
+
+Kristian Ronge
+
+zuckuss@gmail.com

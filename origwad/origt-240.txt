@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: ORIGWAD.wad
+Pwad Name: Origwad
+Maps: E1M1
+Skill: 4
+Category: Tyson
+Exe: GLBoom-Plus 2.5.1.5 -complevel 3
+
+Time: 2:40
+Date: 10-2-2017
+
+Author: GuyNamedErick
+Email: guynamederick@gmail.com
+
+Comments: One of my first demos that I have done, thought it would be fun to do a Tyson run on this,
+especially on some angry Barons here. And my, they sure are angry. Surprised the only demo entry of Tyson is a
+TAS run, so I thought to do one with just PrBoom+ alone.

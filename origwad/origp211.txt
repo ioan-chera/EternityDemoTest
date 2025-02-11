@@ -1,0 +1,14 @@
+dsdarchive.com
+
+Runner:    JonaG
+Email:     jonatan.pribek@gmail.com
+Time:      0:02 (2.11)
+
+IWAD:      The Ultimate Doom (doom.wad)
+PWAD:	   Origwad by Jeff Bird (origwad.wad)
+Level:     E1M1
+Skill:     4 (Ultra-Violence)
+Category:  UV-Pacifist
+Played on: PRBoom-Plus 2.5.1.4 -complevel 3
+
+Description: I was having so much trouble with that imp, and just when I was ready to give up, this happened!

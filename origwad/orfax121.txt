@@ -1,0 +1,15 @@
+          Origwad
+      WAD Author: Jeff Bird
+----------------------------------
+          orfax121.lmp
+
+UV -fast in 1:21
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 3
+
+
+Skill level: Ultraviolence with the -fast parameter
+Author: 4shockblast
+
+Comments: First exit; it's definitely improvable with better monster infighting, but this run took enough work as it is.

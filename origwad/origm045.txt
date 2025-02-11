@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom.wad
+Pwad:      origwad.wad
+Map:       E1M1
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.25.6 -complevel 3
+
+Time:      0:45.23
+
+Author:    DreamTimes
+
+Comments: This is a really bad map, but I guess it gets a pass because it's the first pwad

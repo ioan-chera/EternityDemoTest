@@ -1,0 +1,31 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom/m-o/origwad.zip
+           (Or mirrors...)
+Pwad name: Origwad
+Maps:      E1M1
+Skill:     4
+Category:  Speed + Pacifist
+Exe:       Recorded with PrBoom 2.2.4 with -complevel 0 (doom comp)
+Time:      0:02
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     0%
+           Items     0%
+           Secrets 100%
+
+NOTE: Rename origwad.pwd to origwad.wad for playback
+
+Comments:  
+
+This is in all likelihood the optimal time (not counting TAS 
+or built -- I did a built nomo run in 0:02.00 but Grazza and 
+Gusta have pointed out the possibility of an imp glide or 
+shotgun guy boost to improve the time with monsters).
+
+Very very easy. Pacifist as well, of course.
+
+Kristian Ronge
+
+zuckuss@gmail.com

@@ -1,0 +1,10 @@
+Authors: alps
+Date: 29 nov 2020
+Type: Tool assisted speedrun
+Built with: XDRE 2.20 (-complevel 3)
+Building time: 11 minutes
+Category: UV-Pacifist + Reality
+
+Comments:
+
+1.77 seems heavily out of range, at least not something I can do.

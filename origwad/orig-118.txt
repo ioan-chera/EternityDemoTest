@@ -1,0 +1,28 @@
+
+---
+
+DSDA
+Opulent homepage
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      origwad.wad, by Jeff Bird
+Map:       E1M1
+Skill:     UV
+Category:  Max
+Exe:       prboom.exe version 2.2.6. with -complevel 0
+
+Time:      1:18
+
+Comment:   Wow, the oldest pwad ever! I think in 1994 this map would take me at least 
+           10 hours to build :-) Thx to remembert who reminded this map as I would
+           probably never know about about it.
+           In my 1st tries I tried to implement sargeant into infights too but he cared
+           more about me and was stealing me some important health so I started to kill him
+           immediately and use only imps vs barons infights.
+           My 1st exit was 1:31 so I hoped for something around 1:20-1:25 so I am happy 
+           with this time it surely could be still faster with better use of infights
+           but well ... I am rather killing them myself :-) 
+ 
+
+Author:    Adolf "Gusta" Vojta
+Address:   hita@seznam.cz

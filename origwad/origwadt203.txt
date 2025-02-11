@@ -1,0 +1,21 @@
+ Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:		ORIGWAD.WAD
+Pwad name: 	ORIGWAD.WAD
+Maps:		E1M1
+Skill:		4
+Category:	UV Tyson
+Exe:      	DSDA-Doom 0.25.6cl3
+		with advanced HUD
+-------------------------------------------
+Time:     	2:03
+-------------------------------------------
+Comments: Actually a phenomenal tyson map.
+recorded in 320x200 for the retro experience. 
+-------------------------------------------
+YouTube Video: https://youtu.be/YKju7bgbKGg
+-------------------------------------------
+Author:    	Andrea Rovenski
+Demo YouTube Page: https://www.youtube.com/@doomspeedruns
+andrea@speed.dog 
+

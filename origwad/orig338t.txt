@@ -1,0 +1,48 @@
+THIS IS A TOOLS-ASSISTED DEMO
+
+Pwad:      http://www.doomworld.com/idgames/?id=11
+           (Or mirrors...)
+Pwad name: Origwad
+Maps:      E1M1
+Skill:     3 (because I forgot to specify skill 4 in command line 
+				oh well they're the same in this wad)
+Category:  Tool Assisted Speedrun - Tyson (with no pistol)
+Exe:       Recorded with PrBoom 2.5.1.3 with -complevel 2 
+									(doom2_19_compatibility)
+Time:      3:38
+
+Author:    DuckReconMajor
+Email:     duckreconmajor@gmail.com
+Date:      June 26, 2012
+
+Stats:     Kills   100%
+           Items     0%
+           Secrets 100%
+
+NOTE: Rename origwad.pwd to origwad.wad for playback
+TAS NOTE: I made this demo by slowing down the speed in prboom-plus
+			to 10%. Whenever I died I used -recordfromto and -skipsec
+			to continue.
+
+Comments:  
+
+I first recorded a DosBox playthrough of this in 2009 so I could put 
+a video on YouTube about it. 
+
+http://youtu.be/yZaO_1bc3Dk
+
+I died trying to punch the barons at the end because I'm an embarrassment 
+of a Doom player. Anyway since posting this demo will be my 4000th post 
+on Doomworld, I wanted to make it something a bit special so I tried to 
+make a crazy TAS (my first TAS btw) of me getting "revenge" on these 
+barons by circling them and beating them to death. Well it turns out you 
+don't run quite fast enough to do that but I hope this will be at least 
+somewhat entertaining. 
+
+The YouTube video for this demo is here:
+
+http://youtu.be/1iSeq6jOvLM
+
+Thanks to Kristian Ronge, whose text file I copied to make this.
+
+:M  BIRD LOL

@@ -1,0 +1,13 @@
+Player: Decay
+Time: 0:3.49
+
+IWAD: Doom.wad
+PWAD: origwad.wad
+Sourceport: DSDA Doom 0.19.7
+Complevel: 3
+Skill: 4
+Category: UV Stroller
+Map(s): e1m1
+Date:  July 5 2022
+
+Comments: 

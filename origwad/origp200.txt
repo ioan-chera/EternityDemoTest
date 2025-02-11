@@ -1,0 +1,19 @@
+             Origwad
+       WAD Author: Jeff Bird
+------------------------------------
+           origp200.lmp
+
+Pacifist in 0:02.00
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: DSDA-Doom 0.27.5 -complevel 3
+Skill level: Ultra-Violence
+Author: 4shockblast
+WAD: origwad.wad
+Category: Pacifist
+Time: 0:02.00
+
+Comments: 1 is possible but you'd need some insane movement and thingrun, and often the best thingruns also get blocked by the imp a bit, so avoiding that sucks.

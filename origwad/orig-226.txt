@@ -1,0 +1,12 @@
+==================================================
+Date     : 10-02-2020
+IWAD     : DOOM.WAD
+PWAD     : ORIGWAD.WAD
+Category : Pacifist
+Engine   : prboom-plus-2.5.1.4
+Map      : E1M1 - Origwad
+Time     : 0:02.31
+==================================================
+Email    : borealis10@outlook.com
+Author   : Thomas Baden
+Nickname : Scorpius

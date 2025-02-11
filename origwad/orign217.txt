@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom.wad
+Pwad:      ORIGWAD.WAD
+Map:       E1M1
+Skill:     5
+Category:  NM Speed
+Exe:       dsda-doom 0.25.6 -complevel 3
+
+Time:      0:02.17
+
+Author:    Napsalm
+
+Comments:

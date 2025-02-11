@@ -1,0 +1,10 @@
+Authors: alps
+Date: 29 nov 2020
+Type: Tool assisted speedrun
+Built with: XDRE 2.20 (-complevel 3)
+Building time: 33 minutes
+Category: No Monsters
+
+Comments:
+
+Should be frame perfect time for NoMo.

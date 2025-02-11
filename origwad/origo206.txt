@@ -1,0 +1,14 @@
+dsdarchive.com
+
+Runner:    JonaG
+Email:     jonatan.pribek@gmail.com
+Time:      0:02 (2.06)
+
+IWAD:      The Ultimate Doom (doom.wad)
+PWAD:	   Origwad by Jeff Bird (origwad.wad)
+Level:     E1M1
+Skill:     4 (Ultra-Violence)
+Category:  No Monsters
+Played on: PRBoom-Plus 2.5.1.4 -complevel 3
+
+Description: 1 frame improvement, which is a lot in this case. Is 2.03 possible???

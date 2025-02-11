@@ -1,0 +1,34 @@
+Pwad:      http://www.doomworld.com/idgames/?id=11
+           (Or mirrors...)
+Pwad name: Origwad
+Maps:      E1M1
+Skill:     4
+Category:  Tyson (fist only, no pistol)
+Exe:       Recorded with PrBoom 2.5.1.4 with -complevel 3
+Time:      7:31
+
+Author:    DuckReconMajor
+Email:     duckreconmajor@gmail.com
+Date:      July 24, 2012
+
+Stats:     Kills   100%
+           Items     0%
+           Secrets 100%
+
+NOTE: Rename origwad.pwd to origwad.wad for playback
+
+Comments:  
+
+This one should be less nausea-inducing at least.
+
+This took me forever, but now I can say 
+I "beat" my other demo, just by rite of non-TAS.
+
+Took most of a month and over 100 attempts I'd estimate.
+Switched from using a trackball to a Logitech G703 which
+definitely helped.
+
+Props to GuyNamedErick's great demo, whose speed I 
+won't accomplish anytime soon.
+
+Thanks again to Jeff Bird of course.

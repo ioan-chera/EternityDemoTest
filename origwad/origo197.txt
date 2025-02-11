@@ -1,0 +1,14 @@
+             Origwad
+       WAD Author: Jeff Bird
+------------------------------------
+           origo197.lmp
+
+Nomo in 0:01.97
+
+Recorded with: DSDA-Doom 0.24.3 -complevel 3
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: origwad.wad
+Category: Nomo
+
+Comments: I was trying this a bit Thursday and seemed hard. Didn't take long today. Not sure what changed. :^)

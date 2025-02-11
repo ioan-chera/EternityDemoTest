@@ -1,0 +1,19 @@
+          Origwad
+      WAD Author: Jeff Bird
+----------------------------------
+          origx028.lmp
+
+UV max in 0:28.97
+
+Recorded with: GLBoom-plus 2.5.1.4
+-complevel 3
+
+Tools used: permanent sr50, sr50 on turns,
+segmenting, slow motion recording
+
+THIS IS A TOOLS-ASSISTED DEMO
+
+Skill level: Ultraviolence with the -fast parameter
+Author: 4shockblast
+
+Comments: Could probably be decreased further with optimizing the damage caused by the pistol shots, but I, personally, don't think I would find that task at all interesting. I was more interested in figuring out how much the time could be improved with really good infighting.

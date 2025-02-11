@@ -1,0 +1,14 @@
+PWAD: ORIGWAD.wad
+PWAD Name: origwad
+PWAD Author: Jeff Bird
+Map: E1M1
+Skill: 4
+Category: UV-Tyson
+Exe: dsda-doom-0.23.0 -complevel 03
+Time: 2:27
+Date: July 19th 2022
+Author: Dubzzz ( aka Bdubzzz ) 
+
+Demo for beat .00/:00 month. 1st exits only that beat the times and aren't 00 :^)
+
+couldn't even open the text file for this wad. About the run... well ideally imps could help you the entire time and kill the barons but eh this was good enough

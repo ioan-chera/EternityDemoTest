@@ -1,0 +1,10 @@
+Author: alps
+Date: 20 oct 2020
+Type: Tool assisted speedrun
+Built with: XDRE 2.20 (-complevel 3)
+Building time: 22 minutes
+Category: Ultra-Violence Pacifist (UV-Pacifist) + Reality
+
+Comments:
+
+(none)

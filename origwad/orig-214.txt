@@ -1,0 +1,14 @@
+For https://dsdarchive.com/
+
+Player: Juan Muro Diego "JuanchoES"
+Date: 2021-April-6 01:22:48 (GMT+2)
+IWAD: DOOM.wad
+WAD: origwad.wad
+Category: UV Speed
+Map: 01
+Source Port: DSDA-Doom V0.18.0
+Time: 0:2.14
+
+Description: 
+
+idk why did i speedrun this.

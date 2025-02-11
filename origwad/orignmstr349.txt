@@ -1,0 +1,7 @@
+This is a nightmare-stroller of ORIGWAD (E1M1) in 3.49. Recorded in Crispy Doom 5.12.0.
+
+I had about 22070 attempts, I got a handful of 3.51s and 3.49s, but I just couldn't get it one tic shorter.
+
+This was my record attempt 9348 or so, recorded on 20 April 2024.
+
+--slowfade

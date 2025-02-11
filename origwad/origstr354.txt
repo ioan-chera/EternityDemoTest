@@ -1,0 +1,16 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom.wad
+Pwad:      ORIGWAD.wad
+Maps:      E1M1
+Skill:     4
+Category:  UV Stroller
+Exe:       DSDA-Doom v0.18.0 cl3
+
+Time:      0:03.54
+
+Author:    liveincity
+
+
+

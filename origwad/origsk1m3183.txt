@@ -1,0 +1,19 @@
+Doom Speed Demos Archive
+https://www.dsdarchive.com/
+
+IWAD:      doom.wad (The Ultimate Doom)
+PWAD:      origwad.wad
+Map:       E1M1 (Hangar)
+Skill:     1 (I'm Too Young to Die)
+Category:  Max
+Exe:       dsda-doom.exe v0.28.1 -complevel 3
+Date:      14th September 2024
+
+Time:     0:31.83
+
+Author:   MikeTheMerc
+
+Comments: Holy h#ck, this level is frustrating! Even considering that I was playing on ITYTD, I'm floored that I managed to get the luck I did so soon,
+          I mean, not needing to wait to switch to the pistol after running out of shells and having TWO Imps attacking one of the Barons REALLY helps.
+		  While I don't doubt at all that sub-30 is possible (like in 4shockblast's UV Max TAS), I certainly doubt that I'll be the one to get it.
+		  I also tried playing *UV* Max on this map, but having to punch the Barons with a non-Berserked fist with <60% health seems to be a death sentence for me most of the time. :-(
