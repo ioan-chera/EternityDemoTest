@@ -1,0 +1,222 @@
+SKYMAYBE.WAD + BLESSED.DEH e2m1 skill 4 MAX run in 10:45
+
+(Note that the menu for this wad refers to skill 1 as "Ultra Violence",
+while skill 4 is labeled as "No Chance", so I'm referring to this as a
+"skill 4" speedrun to avoid ambiguity.)
+
+Recorded with Prboom-plus -complevel 2 -longtics
+Prboom+ version: 2.5.0.3
+
+Kills: 99%
+Items: 80%
+Secrets: 66%
+(An explanation of these numbers is below.)
+
+Played by Creaphis on August 21, 2009
+hiebert.paul@gmail.com
+
+==============================================
+Notes on final percentages:
+
+All killable monsters that affect kill percentage are disposed of in this demo.
+A true 100% kills run of this level is impossible, because, as far as I was
+able to figure out, the Great God Imp affects kill percentage, while being
+entirely indestructable. Telefragging, splash damage, hitscan attacks and
+the Blessing Cannon (which deals damage in the billions) leave him unfazed.
+100% kills is still possible, but only if a flaming barrel is allowed to
+resurrect another monster (yes, this is possible). That does not occur in this
+demo.
+
+For the record:
+-Lost souls, as always, don't affect kill%.
+-Regular barrels, though they are now autonomous, don't affect kill%.
+-The second form of former humans (which I think is a modified clip) doesn't
+affect kill%, so I ignore it when possible.
+-Trees, though they are now destructable, don't affect kill%.
+-Flaming barrels, however, DO affect kill% directly, and also indirectly
+(via their resurrection ability) so these are all destroyed.
+
+100% secrets is impossible because two of six secret sectors cannot be reached
+by normal means: sectors 151 and 588. Sector 588 could possibly be reached if
+the player could manage to cross a teleport line without triggering it, but
+nothing of this sort was attempted, because secret sectors that require this
+sort of effort to reach have traditionally been exempt from MAX runs.
+
+100% items is possible but is a waste of time.
+
+==============================================
+Play Instructions:
+
+*Obtaining the necessary files*
+
+First, download smb_v102.zip from <http://www.doomworld.com/idgames/index.php?id=8079>.
+Run SKYMAYBE.EXE, which is a self-extracting RAR archive. Set a destination
+directory and then run the extraction. The files of note that will be extracted
+are _SMB147.WAD, BLESSED.DEH, and INSTALL.EXE. You can use _SMB147.WAD and
+BLESSED.DEH to run this demo, but because of some missing markers in the wad,
+most replacement sprites will not appear. To get the proper SKY MAY BE experience,
+you need to go one step further. Run INSTALL.EXE. Give it the directory of a
+vanilla Doom 1 install. This will create a patched exe in your Doom folder,
+and more importantly, the directory from which you ran INSTALL.EXE will now
+contain SKYMAYBE.WAD.
+
+*Playing the demo*
+
+You have fewer options this time around. The Great God Imp's huge alert sound 
+seems to mess things up in memory for Chocolate Doom. On most attempted runs, Chocolate-
+doom.exe will crash outright when he is met, which is why I chose to record in Prboom+
+instead. This demo doesn't cause Chocolate-Doom to crash, but his alert sound still
+may cause some glitches which are then exascerbated by use of the Blessing Cannon later
+on which apparently causes a desynch at the end of the demo... anyways, it's complicated.
+Use Prboom+ to play this demo.
+
+Your options (-complevel 2 can probably be omitted):
+1. Prboom-plus -iwad doom -file skymaybe -deh blessed -playdemo smb-1045 -complevel 2
+Or, if you don't mind incorrect sprites:
+2. Prboom-plus -iwad doom -file _smb417 -deh blessed -playdemo smb-1045 -complevel 2
+
+If you're REALLY determined to play this demo with Chocolate-doom, I have been able
+to play this demo on it without desynch after hand-editing a copy of SKYMAYBE.WAD
+to replace the Great God Imp's alert sound with a smaller sound clip.
+
+============================================
+Playing notes:
+
+Though I recorded this on Prboom+, I tried to avoid using that port's advantages;
+I never used freelook or advanced HUD information. I will admit, however, that the
+higher screen resolution was helpful in this large map.
+
+Yes, this run is legit :) If it ever looks too polished, that's what happens when
+you're forced to run the same sequences of actions over and over and over and over...
+
+To facilitate use of SR50 I used my G5's driver software to bind ALT+Left to one
+of my extra mouse buttons and ALT+Right to another. I think that's fair.
+
+I recorded this with a modified copy of blessed.deh. The only changes made were
+to the cheat code strings, which were causing input glitches in their original form.
+Gameplay was entirely unaffected by this change, obviously, as the demo plays back
+correctly with blessed.deh.
+
+============================================
+Play-by-play:
+
+I'm writing some notes in here to help you better understand this project's
+quirks and challenges, and also because I like to write. There are additional
+notes in the textfile of my earlier non-max speedrun. But, if you really want to know
+what's going on, then I have to recommend loading this project up and trying it out
+yourself. It's kind of like the Matrix. No one can be told what The Sky May Be is.
+
+0:50 - I've gotten a bit better at getting past these extremely deadly imps and
+their invisible walls, thanks to all this practice I've been forced to get. Also,
+as this is a MAX run and not a pure speedrun I've been more willing to wait some
+seconds for more opportune imp clustering. These two factors together have brought my
+rate of survival for this portion of the level all the way up to about 20%. That would
+be 0% if not for the blessedly limited distance that BFG tracers can travel.
+
+1:30 - I'd rather take care of these zombiemen later, when I have the ammo to quickly
+kill their kill-percentage affecting primary forms and their highly-threatening
+secondaries, all at once. However, because former humans have their speed set in the
+negatives, they run away from you - and this makes their future locations extremely
+hard to predict. Sometimes when I come back later they'll be waiting right here, and
+sometimes they'll be running along the north and west edges of the level, which
+obviously won't do.
+
+1:40 - I'm not positive that I can justify grabbing this "instant discharge cannon"
+in terms of an amount of time it saves me. However, I can definitely say that it
+increases the odds of my survival, later on, at a moment when I need every advantage
+I can get. That is justification enough.
+
+Also, I wanted this demo to showcase all of The Sky May Be's quirkier weapons :)
+
+2:45 - This is definitely the fastest I have ever cleared the monsters out of this
+room - faster than any other recorded attempts or practice runs. I was pretty pumped
+about that.
+
+3:00 - I drop a couple mines just in case I've missed a cacodemon or two, so they
+can wander into these mines and die while I'm already busying myself elsewhere.
+I use variations of this tactic several more times throughout the demo. I strongly
+recommend watching this demo a second time with the automap on, and IDDT*2, to see
+how well it can work. This time, however, all of the cacodemons have already been
+eliminated, so the mines are an unused safety precaution.
+
+
+3:35 - I suffer a minor delay here, when I fire my radiation rockets too close to
+the monsters for them to be effective and decide to punch my way through my
+opposition instead. I'm not that great at thinking on my feet, so I only realized
+during demo playback that I missed an opportunity here. As the former humans'
+second form is a modified clip (I think), it is instantly destroyed by crushing
+ceilings, or even by the innocuous closing of any door. I could have used this
+doorway to instantly crush both "clips" to death, saving a second or two while
+demonstrating another of this wad's oddities.
+
+4:40 - Punching this soul sphere actually serves a purpose. I'm alerting a
+cacodemon that you're about to meet.
+
+5:30 - Like with the chaingun, I can't be sure that grabbing this berserk pack saves
+time. But, I can say that there's a good possibility it'll save my ass.
+
+5:35 - For some reason, the cyberdemon's immunity to splash damage was removed during
+DeHackEd editing. No complaints here. Bombs away!
+
+6:05 - The trick to survival in this place is to just keep moving. Don't stop, don't
+backtrack, just keep pushing forward, press switches, and stir up some infighting.
+You may notice that I did do some slight backtracking to punch a baron. I'm lucky
+to have survived, judging by all the bfg shots that glanced off the ledges above me.
+
+6:25 - I love this fort. Even if it wasn't one of the level's official secrets,
+I would still come in here. It's just such a clever little contraption!
+
+6:55 - There may seem to be some redundancy in this route, but I think my technique
+here is reasonably efficient - take one trip around this room to press buttons and
+promote infighting, and another trip while exiting to lay some safety mines.
+However, as I find and punch to death all three monsters I meant for the mines to
+trap, this is another case where some minelaying could have been skipped.
+
+7:40 - This little aside, where I climb a set of stairs merely to kill 2 imps
+before climbing back down, is intentional and planned. In these tunnels, sound
+cues are extremely important, and I need to be able to hear the rumbling of any
+additional imps and the giggling of any former humans that may still be lurking
+in the vicinity. (The slobbering of the former humans' second form can be
+safely ignored). However, I am luckily gifted with pure silence.
+
+8:20 - Strategically, these mines offer myriads of possibilities. The quirk I
+exploit here is the fact that monsters will choose the mines themselves as their
+targets when injured by them. This isn't often noticed during typical gameplay,
+however, because everything that wanders into a fresh minefied dies before
+it can target anything. Essentially the only time this effect can be noticed is
+when a rocket-firing demon gets killed by a mine, at which point, the demon's
+rocket will USUALLY aim at the mine itself. For all other cases, you have to be
+careful.
+
+Another strategic possibility presented by mines, not even used in this demo, is
+that they absorb hitscan attacks. I briefly considered attempting to build
+makeshift fortifications of this sort to help deal with the spiderdemons but
+decided against it.
+
+8:50 - Every time I watch a recording of this section of the level I discover that
+I was about two inches away from death at one point and never knew it. I barely
+teleport out before a rocket hits me - and those rockets do a lot more damage than
+usual.
+
+9:15 - Two glitches make a right. The problem is that this level, and especially
+this room, is littered with lines that autoaim refuses to cross. Even when the
+mastermind is much closer, there's a good chance that my attacks will just fly
+underneath its legs while it mocks me. So how do I deal with that? Take advantage
+of another glitch - the newly flying spider mastermind doesn't quite have his air
+legs yet and doesn't feel comfortable flying all the way down to the ground - 
+which means that he remains higher up, and as long as I'm pressed up against his
+bounding box, his fire goes clear over my head. In this position I can then
+hit him right where it hurts with my hard-earned Blessing Cannon.
+
+10:25 - I made it! Or have I? At this point, I am literally shaking with
+excitement; I can't believe that every section of the level has gone so well, so
+naturally, I almost screw up and die. I'm very fortunate that I only got clipped
+by the Great God Imp's BFG blast, as I stumbled past him rather incautiously. I'm
+also sort of glad that I ran into the GGI again, though. His final appearance
+really completes the demo, I think. He is what makes the end of this level epic.
+Almost getting murdered by former humans at the extreme end of the demo is not
+nearly so epic... just a sloppy brush with disaster.
+
+
+
+

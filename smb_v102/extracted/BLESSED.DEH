@@ -1,0 +1,1548 @@
+Patch File for DeHackEd v3.0
+
+#
+# The Blessed Engine 1.6b - The Sky May Be version
+#
+# Please do not use this outside of Sky May Be.
+# Blessed 1.9 should be out soon.
+#
+
+Doom version = 16
+Patch format = 6
+
+
+Thing 1 (Player)
+Mass = 40
+
+Thing 2 (Trooper)
+Speed = -20
+
+Thing 4 (Archvile)
+ID # = 22
+Alert sound = 0
+Pain chance = 0
+Pain sound = 0
+Far attack frame = 0
+Death frame = 808
+Death sound = 2
+Speed = -3
+Action sound = 0
+Bits = 4718598
+
+Thing 5 (Archvile Attack)
+ID # = 2007
+Initial frame = 870
+Bits = 1
+
+Thing 6 (Revenant)
+ID # = -1
+
+Thing 7 (Revenant Fireball)
+Death frame = 104
+Missile damage = 60
+
+Thing 9 (Mancubus)
+ID # = 3006
+Initial frame = 585
+Hit points = 100
+First moving frame = 587
+Alert sound = 0
+Attack sound = 51
+Injury frame = 593
+Pain chance = 256
+Pain sound = 26
+Far attack frame = 589
+Death frame = 595
+Death sound = 17
+Width = 1048576
+Height = 3670016
+Mass = 50
+Missile damage = 200
+Action sound = 77
+Bits = 6
+Respawn frame = 0
+
+Thing 10 (Mancubus Fireball)
+Initial frame = 962
+Alert sound = 0
+Death frame = 117
+Death sound = 74
+Missile damage = 0
+
+Thing 13 (Demon)
+Far attack frame = 647
+Death frame = 117
+
+Thing 14 (Spectre)
+Death frame = 341
+Bits = 4194310
+
+Thing 15 (Cacodemon)
+Close attack frame = 376
+Death frame = 511
+Death sound = 35
+Bits = 138428934
+
+Thing 16 (Baron of Hell)
+Bits = 205520902
+
+Thing 17 (Baron Fireball)
+Hit points = 150
+Missile damage = 80000000
+Bits = 201393680
+
+Thing 19 (Lost Soul)
+ID # = -1
+Initial frame = 961
+Hit points = 250000
+First moving frame = 0
+Attack sound = 90
+Injury frame = 0
+Pain chance = 0
+Pain sound = 0
+Far attack frame = 0
+Death frame = 114
+Death sound = 82
+Speed = 0
+Width = 786432
+Height = 1572864
+Mass = 100000000
+Missile damage = 0
+Action sound = 0
+Bits = 201326598
+
+Thing 20 (Spiderdemon)
+Bits = 4211206
+
+Thing 22 (Cyberdemon)
+ID # = 27
+Initial frame = 442
+Hit points = 60
+First moving frame = 444
+Alert sound = 70
+Injury frame = 455
+Pain chance = 200
+Pain sound = 71
+Close attack frame = 452
+Far attack frame = 452
+Death frame = 470
+Exploding frame = 470
+Death sound = 0
+Speed = 5
+Width = 1310720
+Height = 3670016
+Mass = 100
+Action sound = 78
+Bits = 4098
+Respawn frame = 470
+
+Thing 23 (Pain Elemental)
+First moving frame = 701
+Alert sound = 0
+Injury frame = 0
+Pain sound = 0
+Close attack frame = 194
+Far attack frame = 0
+Death frame = 189
+Exploding frame = 189
+Death sound = 0
+Speed = 0
+Action sound = 0
+Respawn frame = 0
+
+Thing 31 (Barrel)
+Initial frame = 726
+Hit points = 100
+First moving frame = 728
+Injury frame = 742
+Pain chance = 180
+Pain sound = 34
+Close attack frame = 808
+Death sound = 58
+Speed = 1
+Bits = 67109894
+
+Thing 32 (Imp Fireball)
+Death frame = 117
+Death sound = 15
+
+Thing 34 (Rocket (in air))
+Initial frame = 961
+Death frame = 114
+Speed = 655360
+Bits = 67175952
+
+Thing 35 (Plasma Bullet)
+Hit points = 200
+Alert sound = 48
+Death frame = 108
+Death sound = 0
+Bits = 66580
+
+Thing 36 (BFG Shot)
+Alert sound = 9
+Death frame = 109
+Death sound = 17
+Missile damage = 2000000000
+
+Thing 37 (Arach. Fireball)
+Initial frame = 410
+First moving frame = 416
+Far attack frame = 416
+Death frame = 109
+Speed = 524288
+Missile damage = 0
+
+Thing 40 (Teleport Flash)
+Bits = 134218256
+
+Thing 44 (Green Armor)
+Bits = 67108865
+
+Thing 45 (Blue Armor)
+Bits = 201326593
+
+Thing 47 (Armor Helmet)
+Bits = 209715201
+
+Thing 48 (Blue Keycard)
+Death sound = 58
+Bits = 37748737
+
+Thing 61 (Computer Map)
+Bits = 142606337
+
+Thing 64 (Ammo Clip)
+ID # = 66
+Initial frame = 207
+Hit points = 500
+First moving frame = 209
+Alert sound = 41
+Attack sound = 52
+Injury frame = 488
+Pain chance = 220
+Pain sound = 26
+Close attack frame = 485
+Far attack frame = 217
+Death frame = 490
+Exploding frame = 227
+Death sound = 64
+Speed = 10
+Height = 3670016
+Mass = 400
+Action sound = 77
+Bits = 6
+Respawn frame = 236
+
+Thing 68 (Energy Cell)
+Bits = 134217729
+
+Thing 89 (Eye in Symbol)
+Bits = 67108866
+
+Thing 91 (Grey Tree)
+Hit points = 800
+Death frame = 915
+Death sound = 65
+Height = 3670016
+Bits = 524294
+
+Thing 93 (Tall Green Torch)
+Bits = 134217730
+
+Thing 96 (Small Gr. Torch)
+Bits = 67108866
+
+Thing 102 (Swaying Body)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 774
+
+Thing 103 (Hanging Arms Out)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 774
+
+Thing 104 (One-legged Body)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 774
+
+Thing 105 (Hanging Torso)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 774
+
+Thing 106 (Hanging Leg)
+Hit points = 100
+Mass = 0
+
+Thing 107 (Hanging Arms Out2)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 772
+
+Thing 108 (Hanging Torso 2)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 772
+
+Thing 109 (One-legged Body 2)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 772
+
+Thing 110 (Hanging Leg 2)
+Initial frame = 998
+Hit points = 100
+Mass = 99999999
+
+Thing 111 (Swaying Body 2)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 772
+
+Thing 112 (Dead Cacodemon)
+ID # = 64
+Width = 655360
+Bits = 262144
+
+Thing 113 (Dead Marine)
+Bits = 134217728
+
+Thing 116 (Dead Lost Soul)
+Bits = 201326594
+
+Thing 121 (Skewered Heads)
+Initial frame = 760
+Hit points = 400
+First moving frame = 718
+Injury frame = 702
+Pain chance = 128
+Close attack frame = 718
+Far attack frame = 718
+Death frame = 189
+Exploding frame = 189
+Width = 2031616
+Height = 3670016
+Mass = 400
+Bits = 4194310
+
+Thing 123 (Pole with Skull)
+ID # = 16
+Initial frame = 674
+Hit points = 6000
+First moving frame = 676
+Alert sound = 44
+Reaction time = 0
+Injury frame = 690
+Pain chance = 20
+Pain sound = 26
+Far attack frame = 684
+Death frame = 691
+Death sound = 68
+Speed = 16
+Width = 2097152
+Height = 2097152
+Action sound = 77
+Bits = 4194310
+
+Thing 124 (Pile of Skulls)
+Initial frame = 961
+Hit points = 250000
+Attack sound = 90
+Death frame = 114
+Death sound = 82
+Width = 786432
+Height = 1572864
+Mass = 100000000
+Bits = 201326598
+
+Thing 125 (Impaled Body)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 6
+
+Thing 126 (Twitching Body)
+Hit points = 100
+Death frame = 189
+Exploding frame = 194
+Mass = 99999999
+Bits = 6
+
+Frame 5
+Duration = 0
+
+Frame 6
+Duration = 0
+
+Frame 7
+Duration = 1
+
+Frame 8
+Duration = 0
+
+Frame 9
+Duration = 0
+
+Frame 13
+Duration = 2
+
+Frame 14
+Duration = 4
+Next frame = 10
+
+Frame 15
+Duration = 3
+
+Frame 16
+Duration = 3
+
+Frame 17
+Duration = 0
+
+Frame 21
+Duration = 1
+
+Frame 22
+Duration = 8
+
+Frame 23
+Duration = 0
+
+Frame 24
+Duration = 0
+
+Frame 25
+Duration = 0
+
+Frame 26
+Duration = 0
+
+Frame 27
+Duration = 0
+
+Frame 28
+Duration = 0
+
+Frame 29
+Duration = 0
+
+Frame 30
+Duration = 1
+
+Frame 31
+Duration = 1
+
+Frame 36
+Sprite number = 11
+Next frame = 67
+
+Frame 52
+Duration = 0
+
+Frame 53
+Duration = 0
+
+Frame 54
+Next frame = 52
+
+Frame 60
+Duration = 12
+
+Frame 61
+Duration = 16
+
+Frame 62
+Duration = 4
+
+Frame 67
+Sprite number = 12
+Sprite subnumber = 0
+Duration = 1
+
+Frame 68
+Sprite number = 12
+Sprite subnumber = 0
+Duration = 1
+
+Frame 69
+Sprite number = 12
+Sprite subnumber = 0
+
+Frame 70
+Sprite number = 13
+Sprite subnumber = 0
+
+Frame 71
+Sprite number = 13
+Duration = 1
+
+Frame 72
+Sprite number = 13
+Duration = 1
+
+Frame 73
+Sprite number = 13
+Sprite subnumber = 0
+
+Frame 74
+Sprite number = 9
+
+Frame 75
+Sprite number = 9
+
+Frame 76
+Sprite number = 9
+
+Frame 77
+Sprite number = 9
+Sprite subnumber = 1
+Duration = 12
+
+Frame 78
+Sprite number = 9
+Duration = 8
+
+Frame 79
+Sprite number = 10
+
+Frame 80
+Sprite number = 10
+
+Frame 107
+Sprite number = 48
+Duration = 40
+
+Frame 108
+Sprite number = 48
+Sprite subnumber = 32768
+Duration = 40
+Next frame = 718
+
+Frame 109
+Sprite number = 27
+
+Frame 110
+Sprite number = 27
+
+Frame 111
+Sprite number = 27
+
+Frame 112
+Sprite number = 27
+
+Frame 113
+Sprite number = 27
+
+Frame 114
+Sprite subnumber = 32769
+Duration = 8
+Next frame = 128
+
+Frame 127
+Sprite number = 48
+Sprite subnumber = 32768
+Duration = 1
+Next frame = 127
+
+Frame 149
+Sprite subnumber = 32768
+
+Frame 150
+Sprite subnumber = 32768
+
+Frame 151
+Sprite subnumber = 32769
+
+Frame 152
+Sprite subnumber = 32770
+
+Frame 153
+Sprite subnumber = 32771
+
+Frame 154
+Sprite subnumber = 32772
+
+Frame 156
+Sprite subnumber = 32774
+
+Frame 157
+Sprite subnumber = 32774
+
+Frame 158
+Sprite subnumber = 32775
+
+Frame 159
+Sprite subnumber = 32776
+
+Frame 160
+Sprite subnumber = 32777
+
+Frame 161
+Sprite subnumber = 32778
+
+Frame 162
+Sprite subnumber = 32779
+
+Frame 163
+Sprite subnumber = 32780
+
+Frame 164
+Sprite subnumber = 32781
+
+Frame 165
+Sprite subnumber = 32782
+
+Frame 166
+Sprite subnumber = 32783
+
+Frame 167
+Sprite subnumber = 32784
+
+Frame 168
+Sprite subnumber = 32785
+
+Frame 169
+Sprite subnumber = 32786
+
+Frame 170
+Sprite subnumber = 32787
+
+Frame 171
+Sprite subnumber = 32788
+
+Frame 172
+Sprite subnumber = 32789
+
+Frame 173
+Sprite subnumber = 32790
+
+Frame 217
+Next frame = 617
+
+Frame 218
+Duration = 0
+Next frame = 336
+
+Frame 241
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 242
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 243
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 244
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 245
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 246
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 247
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 248
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 249
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 250
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 251
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 252
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 253
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 254
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 255
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 256
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 257
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 258
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 259
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 260
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 261
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 262
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 263
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 264
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 265
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 266
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 267
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 268
+Sprite number = 59
+Sprite subnumber = 32768
+
+Frame 269
+Sprite number = 59
+Sprite subnumber = 32769
+
+Frame 270
+Sprite number = 59
+Sprite subnumber = 32770
+
+Frame 316
+Sprite number = 22
+Next frame = 316
+
+Frame 317
+Sprite number = 11
+Sprite subnumber = 255
+Duration = 777777
+Next frame = 317
+
+Frame 323
+Sprite number = 26
+Sprite subnumber = 4
+Duration = 6
+
+Frame 324
+Sprite number = 26
+Sprite subnumber = 5
+Duration = 6
+
+Frame 325
+Sprite number = 26
+Sprite subnumber = 6
+Duration = 6
+
+Frame 326
+Sprite number = 26
+Sprite subnumber = 7
+Duration = 6
+Next frame = 514
+
+Frame 336
+Sprite number = 30
+Sprite subnumber = 5
+Duration = 10
+Next frame = 219
+
+Frame 338
+Sprite number = 39
+Sprite subnumber = 4
+Duration = 0
+Next frame = 487
+
+Frame 341
+Sprite number = 39
+Sprite subnumber = 5
+Duration = 15
+Next frame = 490
+
+Frame 376
+Sprite number = 40
+Sprite subnumber = 2
+Duration = 5
+
+Frame 377
+Sprite number = 40
+Sprite subnumber = 32771
+Duration = 5
+
+Frame 378
+Sprite number = 40
+Sprite subnumber = 2
+Next frame = 503
+
+Frame 406
+Sprite number = 20
+Duration = 3
+
+Frame 407
+Sprite number = 20
+Duration = 3
+
+Frame 408
+Sprite number = 20
+
+Frame 409
+Sprite number = 20
+Sprite subnumber = 1
+Next frame = 408
+
+Frame 410
+Sprite number = 20
+Sprite subnumber = 0
+Duration = 30
+Next frame = 406
+
+Frame 416
+Sprite number = 20
+Sprite subnumber = 0
+
+Frame 417
+Sprite number = 20
+Sprite subnumber = 32769
+
+Frame 418
+Sprite number = 20
+Sprite subnumber = 32768
+
+Frame 419
+Sprite number = 20
+Sprite subnumber = 1
+
+Frame 486
+Next frame = 338
+
+Frame 510
+Sprite number = 26
+Sprite subnumber = 0
+Duration = 6
+
+Frame 511
+Sprite number = 26
+Sprite subnumber = 1
+Duration = 0
+Next frame = 514
+
+Frame 512
+Sprite number = 26
+Sprite subnumber = 2
+Duration = 6
+
+Frame 513
+Sprite number = 26
+Sprite subnumber = 3
+Duration = 6
+Next frame = 323
+
+Frame 514
+Sprite number = 26
+Sprite subnumber = 8
+Duration = 0
+Next frame = 130
+
+Frame 515
+Sprite number = 26
+Sprite subnumber = 9
+Duration = 6
+
+Frame 602
+Sprite subnumber = 0
+
+Frame 605
+Sprite subnumber = 0
+
+Frame 606
+Sprite subnumber = 0
+
+Frame 607
+Sprite subnumber = 0
+
+Frame 608
+Sprite subnumber = 0
+
+Frame 609
+Sprite subnumber = 0
+
+Frame 610
+Sprite subnumber = 0
+
+Frame 611
+Sprite subnumber = 0
+
+Frame 612
+Sprite subnumber = 0
+
+Frame 613
+Sprite subnumber = 0
+
+Frame 614
+Sprite subnumber = 0
+
+Frame 616
+Duration = 2
+Next frame = 618
+
+Frame 617
+Sprite number = 30
+Sprite subnumber = 32773
+Duration = 0
+Next frame = 218
+
+Frame 618
+Duration = 0
+
+Frame 634
+Duration = 0
+Next frame = 477
+
+Frame 647
+Sprite number = 39
+Sprite subnumber = 32772
+
+Frame 648
+Sprite number = 39
+Sprite subnumber = 32773
+Duration = 6
+
+Frame 649
+Sprite number = 39
+Sprite subnumber = 32773
+Duration = 6
+
+Frame 650
+Sprite number = 39
+Sprite subnumber = 32772
+
+Frame 674
+Duration = 5
+
+Frame 675
+Duration = 5
+
+Frame 684
+Duration = 3
+
+Frame 685
+Duration = 6
+
+Frame 686
+Duration = 6
+
+Frame 687
+Duration = 6
+
+Frame 688
+Duration = 6
+
+Frame 689
+Duration = 6
+
+Frame 690
+Duration = 5
+
+Frame 701
+Sprite number = 57
+
+Frame 702
+Sprite number = 57
+
+Frame 703
+Sprite number = 57
+
+Frame 704
+Sprite number = 57
+
+Frame 705
+Sprite number = 57
+
+Frame 706
+Sprite number = 57
+Sprite subnumber = 0
+
+Frame 707
+Sprite number = 57
+Sprite subnumber = 0
+
+Frame 717
+Next frame = 719
+
+Frame 718
+Sprite number = 21
+Sprite subnumber = 32768
+Next frame = 0
+
+Frame 726
+Sprite number = 57
+
+Frame 727
+Sprite number = 57
+
+Frame 728
+Sprite number = 57
+
+Frame 729
+Sprite number = 57
+Sprite subnumber = 1
+Duration = 4
+
+Frame 730
+Sprite number = 57
+Sprite subnumber = 0
+Duration = 4
+
+Frame 731
+Sprite number = 57
+
+Frame 732
+Sprite number = 57
+Sprite subnumber = 0
+
+Frame 733
+Sprite number = 57
+Sprite subnumber = 1
+
+Frame 734
+Sprite number = 57
+Sprite subnumber = 0
+
+Frame 735
+Sprite number = 57
+Sprite subnumber = 1
+
+Frame 736
+Sprite number = 57
+Sprite subnumber = 0
+
+Frame 737
+Sprite number = 57
+Sprite subnumber = 1
+
+Frame 738
+Sprite number = 57
+Sprite subnumber = 0
+
+Frame 739
+Sprite number = 57
+Sprite subnumber = 1
+
+Frame 740
+Sprite number = 57
+Sprite subnumber = 0
+
+Frame 741
+Sprite number = 57
+Sprite subnumber = 1
+
+Frame 742
+Sprite number = 57
+Sprite subnumber = 32768
+
+Frame 743
+Sprite number = 57
+Sprite subnumber = 32769
+
+Frame 758
+Sprite number = 21
+Sprite subnumber = 0
+Duration = 2
+Next frame = 718
+
+Frame 759
+Sprite number = 21
+Sprite subnumber = 0
+Duration = 2
+Next frame = 718
+
+Frame 760
+Sprite number = 21
+Sprite subnumber = 0
+Duration = 2
+Next frame = 718
+
+Frame 806
+Sprite number = 48
+
+Frame 807
+Sprite number = 48
+Sprite subnumber = 0
+
+Frame 914
+Duration = 6
+Next frame = 965
+
+Frame 960
+Next frame = 959
+
+Frame 961
+Sprite number = 48
+Sprite subnumber = 0
+Duration = 12
+Next frame = 127
+
+Frame 962
+Sprite number = 17
+Sprite subnumber = 32768
+Next frame = 962
+
+Frame 964
+Next frame = 963
+
+Frame 965
+Sprite number = 115
+Sprite subnumber = 32768
+Duration = 6
+Next frame = 914
+
+Weapon 1 (Pistol)
+Shooting frame = 14
+
+Weapon 5 (Plasma Gun)
+Firing frame = 63
+
+Cheat 0
+No Clipping 1 = !@#$%^&*()
+No Clipping 2 = !@#$%^
+
+Text 20 21
+Loading GUS Patches
+Gravis and ButtHead!
+
+
+Text 71 71
+Insufficient memory!  You need to have at least 3.7 megabytes of total
+Inefficient memory!   You need to have at least 3.7 kilobytes of total
+
+
+Text 69 68
+or AUTOEXEC.BAT to load fewer device drivers or TSR's.  We recommend
+or WOM.BAT to load fewer device drivers or TSRs. We don't recommend
+
+
+Text 33 33
+Dude.  The GUS ain't responding.
+Cool!  The GUS ain't responding.
+
+
+Text 440 440
+Once you beat the big badasses and
+clean out the moon base you're supposed
+to win, aren't you? Aren't you? Where's
+your fat reward and ticket home? What
+the hell is this? It's not supposed to
+end this way!
+
+It stinks like rotten meat, but looks
+like the lost Deimos base.  Looks like
+you're stuck on The Shores of Hell.
+The only way out is through.
+
+To continue the DOOM experience, play
+The Shores of Hell and its amazing
+sequel, Inferno!
+Once you whip the big bad asses and
+clean out the toilets, you're supposed
+to sweep the floor, aren't you? Aren't
+you? Well, no, strictly speaking. It's
+supposed to end this way.
+
+It stinks like a mixture of pig shit 
+and honey, but looks like a pair of
+rather sad 'comedians'. Looks like the
+Nauseating Stench of Reeves & Mortimer!
+
+To continue the Blessed Experience, play
+another PWAD. Or carry on into the next
+episode, we don't care.  
+
+Text 466 466
+You've done it! The hideous cyber-
+demon lord that ruled the lost Deimos
+moon base has been slain and you
+are triumphant! But ... where are
+you? You clamber to the edge of the
+moon and look down to see the awful
+truth.
+
+Deimos floats above Hell itself!
+You've never heard of anyone escaping
+from Hell, but you'll make the bastards
+sorry they ever heard of you! Quickly,
+you rappel down to  the surface of
+Hell.
+
+Now, it's on to the final chapter of
+DOOM! -- Inferno.You've done it! The hideous american
+shithead that ruled the lost Deimos
+base has been slain and you are dead!
+But... where are you? Moons don't have
+edges, so you look up to see the awful
+truth.
+
+Mortimer floats above Hell itself!
+You've never heard of anyone being 
+amused by Reeves & Mortimer, but you'll
+make the bastards peel the potatoes at
+the BBC canteen.
+Quickly, you rappel up to the surface of
+Hell; never mind how.
+
+Now, it's on to the final chapter, ok?
+
+Text 492 495
+The loathsome spiderdemon that
+masterminded the invasion of the moon
+bases and caused so much death has had
+its ass kicked for all time.
+
+A hidden doorway opens and you enter.
+You've proven too tough for Hell to
+contain, and now Hell at last plays
+fair -- for you emerge from the door
+to see the green fields of Earth!
+Home at last.
+
+You wonder what's been happening on
+Earth while you were battling evil
+unleashed. It's good that no Hell-
+spawn could have come through that
+door with you ...The loathsome spiderdemon that
+masterminded the invasion of the moon
+bases and caused so much fun has had  
+its ass kissed for all time.
+
+A hidden doorway opens and you die.
+Vic Reeves has proven too unfunny for
+Hell to contain, and at last he makes
+you laugh - for you emerge from the
+grave to see the green fields of
+Have I Got News For You.
+
+You wonder what's been happening on
+the BBC while you were battling
+the Nauseating Stench of Reeves and
+Mortimer. Actually, nothing at all.
+So there. 
+
+Text 8 8
+FLOOR4_8FLOOR4_6
+
+Text 7 7
+SFLR6_1FLAT5_1
+
+Text 7 7
+MFLR8_4MFLR8_3
+
+Text 14 15
+THE CYBERDEMONOUR HERO       
+
+Text 8 11
+OUR HEROWHO'S THIS?
+
+Text 80 80
+                          DOOM System Startup v%i.%i66                          Load the support PWAD, Blessed.wad; don't eat meat; get to bed earlier. 5:-)    
+
+Text 81 80
+                         DOOM 2: Hell on Earth v%i.%i66                          NO! NO! NO! NO! NO! NO! NO! NO! You MUST run this with DOOM ONE.                
+
+Text 21 21
+Development mode ON.
+Envelopment mode ON.
+
+
+Text 415 412
+===========================================================================
+ATTENTION:  This version of DOOM has been modified.  If you would like to
+get a copy of the original game, call 1-800-IDGAMES or see the readme file.
+        You will not receive technical support for modified games.
+                      press enter to continue
+===========================================================================
+===========================================================================
+HELLO:  This version of DOOM has been screwed up.  If you would like to get
+a copy of the original game, tough.  If you don't enjoy this game, we don't
+like you.
+        We cannot conceive technical support for screwed up games.
+    Type anything you like now, but press enter when you've finished.
+    Have you registered DOOM?        
+
+Text 21 20
+	registered version.
+Yes you have! Good.
+
+
+Text 281 282
+===========================================================================
+             This version is NOT SHAREWARE, do not distribute!
+         Please report software piracy to the SPA: 1-800-388-PIR8
+===========================================================================
+===========================================================================
+                               Distribute!!!!
+         Please report software to the RSPCA: 1-666-000-FU                 
+===========================================================================
+Purify!
+
+
+Text 20 23
+	shareware version.
+Naughty! Register now!
+
+
+Text 21 23
+	commercial version.
+	Wrong version.       
+
+
+Text 265 266
+===========================================================================
+                            Do not distribute!
+         Please report software piracy to the SPA: 1-800-388-PIR8
+===========================================================================
+===========================================================================
+                            Distribute!!!!!!!!
+         Please report software to the RSPCA: 1-666-000-FU        
+===========================================================================
+
+
+#Text 25 25
+#c:\doomdata\doomsav%c.dsgc:\doomdata\blessed%c.bsg
+
+#Text 13 13
+#doomsav%c.dsgblessed%c.bsg
+
+Text 12 13
+Bad savegameEvil savegame
+
+#Text 25 25
+#c:\doomdata\doomsav%d.dsgc:\doomdata\blessed%d.bsg
+
+#Text 13 13
+#doomsav%d.dsgblessed%d.bsg
+
+#Text 25 25
+#c:\doomdata\doomsav%d.dsgc:\doomdata\blessed%d.bsg
+
+#Text 13 13
+#doomsav%d.dsgblessed%d.bsg
+
+Text 10 10
+empty slotempty slut
+
+Text 71 70
+are you sure? this skill level
+isn't even remotely fair.
+
+press y or n.Yeah! Go ahead! Cool! Huh huh.
+------------------------
+
+press y or n.
+
+Text 23 23
+I'm ready to kick butt!I'm ready to lick butt!
+
+Text 25 26
+I'm not looking too good!I'm looking good!         
+
+Text 21 21
+Next time, scumbag...Next time, bumscag...
+
+Text 7 6
+Grid ONSod ON
+
+Text 8 8
+Grid OFFSod OFF 
+
+Text 17 18
+All Marks ClearedTony Marks Cleared
+
+Text 20 22
+Picked up the armor.Chucked up the armour.
+
+Text 24 25
+Picked up the MegaArmor!Threw up the YottaArmour!
+
+Text 25 25
+Picked up a health bonus.Spewed up a health bouns.
+
+Text 25 27
+Picked up an armor bonus.Vomited up an armour bonus.
+
+Text 12 12
+Supercharge!Hypercharge!
+
+Text 21 23
+Picked up a stimpack.Picked up an imp stack.
+
+Text 41 43
+Picked up a medikit that you REALLY need!I've never got this message. How's it done?
+
+Text 20 21
+Picked up a medikit.Picked up a time kid.
+
+Text 8 8
+Berserk!Psycho!!
+
+Text 20 20
+Partial InvisibilityPartial Visibility  
+
+Text 25 24
+Light Amplification VisorBright goggly thingies. 
+
+Text 17 19
+Picked up a clip.Picked up a wosname
+
+Text 27 24
+Picked up a box of bullets.I hate Reeves + Mortimer
+
+Text 19 19
+Picked up a rocket.Reeves+Mortimer,die
+
+Text 27 27
+Picked up a box of rockets.Reeves+Mortimer ain't funny
+
+Text 25 24
+Picked up an energy cell.Reeves + Mortimer suck!!
+
+Text 30 28
+Picked up an energy cell pack.I like chips and brown gravy
+
+Text 27 27
+Picked up 4 shotgun shells.Picked up 4 shellgun shots.
+
+Text 34 34
+Picked up a box of shotgun shells.Picked up a box of shellgun shots.
+
+Text 34 32
+Picked up a backpack full of ammo!YOU DIED!! (Just kidding)       
+
+Text 30 30
+You got the BFG9000!  Oh, yes.You got the Blessing Cannon!!!
+
+Text 21 22
+You got the chaingun!Instant Discharge gun!
+
+Text 28 30
+A chainsaw!  Find some meat!Chainsaw! Find Bob Mortimer !!
+
+Text 28 31
+You got the rocket launcher!I don't know what you just got.
+
+Text 23 22
+You got the plasma gun!Got the Mine Launcher!
+
+Text 20 21
+You got the shotgun!You got the shellgun!
+
+Text 26 24
+You got the super shotgun!BASTARD BASTARD BASTARD 
+
+Text 38 39
+P_SpecialThing: Unknown gettable thingP_Thing: Someone's been cocking around.
+
+Text 28 30
+W_LumpLength: %i >= numlumpsW_lumps failure               
+
+Text 30 28
+W_CacheLumpNum: %i >= numlumpsDon't open that door!       
+
+Text 21 23
+Bad V_DrawPatchDirectMagic words can kill...
+
+Text 38 39
+Z_Free: freed a pointer without ZONEIDZ_Real_Programmers_don't_free_NULL_ptrs
+
+Text 21 21
+Very Happy Ammo AddedHappy Acid Ammo Added
+
+Text 12 13
+Music ChangeDialing MTV..
+
+Text 19 19
+No Clipping Mode ONFuck You! ^^^^^^^^^
+
+Text 21 22
+... doesn't suck - GM... really sucks - SGA
+
+Text 2 3
+NoYes
+
+Text 23 23
+I'm ready to kick butt!I'm ready to lick butt!
+
+Text 3 2
+YesNo
+
+Text 7 6
+Green: Vomit:
+
+Text 8 8
+Indigo: Grey   :
+
+Text 5 6
+sawupcutter
+
+Text 6 6
+sawidlcutter
+
+Text 6 6
+sawfulcutter
+
+Text 6 6
+sawhitcutter
+
+Text 4 4
+ARM2ARM1

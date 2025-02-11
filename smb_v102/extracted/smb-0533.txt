@@ -1,0 +1,126 @@
+SKYMAYBE.WAD + BLESSED.DEH e2m1 skill 4 speedrun in 5:33
+
+(Note that the menu for this wad refers to skill 1 as "Ultra Violence",
+while skill 4 is labeled as "No Chance", so I'm referring to this as a
+"skill 4" speedrun to avoid ambiguity.)
+
+Recorded on Chocolate-doom.exe version 1.1.1 with -longtics
+
+Played by Creaphis on August 1, 2009
+hiebert.paul@gmail.com
+
+==============================================
+Play Instructions:
+
+*Obtaining the necessary files*
+
+First, download smb_v102.zip from
+http://www.doomworld.com/idgames/index.php?id=8079.
+Run SKYMAYBE.EXE, which is a self-extracting RAR archive. Set a destination
+directory and then run the extraction. The files of note that will be
+extracted are _SMB147.WAD, BLESSED.DEH, and INSTALL.EXE.
+You can use _SMB147.WAD and BLESSED.DEH to run this demo, but because
+of some missing markers in the wad, most replacement sprites will not
+appear, even if you use Chocolate-Doom's -merge command. To get the proper
+SKY MAY BE experience, you need to go one step further. Run INSTALL.EXE.
+Give it the directory of a vanilla Doom 1 install. This will create a
+patched exe in your Doom folder, and more importantly, the directory
+from which you ran INSTALL.EXE will now contain SKYMAYBE.WAD.
+
+*Playing the demo*
+
+I have tested four options and found that they all work without desynch
+
+1. Chocolate-doom -iwad doom.wad -file skymaybe.wad -deh blessed.deh -playdemo smb-0533.lmp
+2. Prboom-plus -iwad doom -file skymaybe -deh blessed -playdemo smb-0533
+
+And if you're willing to have some incorrect sprites:
+
+3. Chocolate-doom -iwad doom.wad -merge _smb417.wad -deh blessed.deh -playdemo smb-0533.lmp
+4. prboom-plus -iwad doom -file _smb417 -deh blessed -playdemo smb-0533
+
+============================================
+Play-by-play:
+
+0:10 - Yeah, the demo starts slow. Sorry about that. You can tell I've waited
+for that lift a few too many times, killed those three imps a few too many times...
+
+0:45 - This wad is riddled with major challenges that aren't obvious or
+necessarily even visible in a recorded run of it. This right here is the
+prime example. It looks like I'm just running around a cluster of docile imps
+and killing one interloper before continuing on my way. What you miss is that
+I'm navigating a 32-unit wide strip between the right edge of the platform and 
+three invisible walls. You also don't realize that the imps usually aren't so
+fortuitously clustered towards the left. It's quite random where they'll be
+each time you reach the top of that platform, and I'm this lucky about 1 in 20
+attempts. But now you say, bah, imps. Just shoot them out of your path. Sadly,
+the same invisible walls that limit my movement also block my fire. And
+need I remind you that the imps are armed with BFGs? When you get past them,
+you'll probably still be fried from behind by stray tracers. Anyways, it's
+good to get the hardest part of the run over with. [/rant]
+
+1:15 - This is another interesting little area. The walls of this hallway are
+actually double-sided mid-textured lines, which are impassable for you, but not
+for the BFG bolts of the six imps that guard it. Because I need to go through
+here three times over the course of the run, once without the aid of wallrunning,
+it's important to dilute the threat a tad. However, to follow one of my constantly-
+splash-damaging rockets down the hall would be too slow, so instead I offer one
+to the imps as a parting gift.
+
+Also, speaking of wallrunning, I found it to be strangely useless almost everywhere
+else in this level. This is one of only two places where I could reliably make it
+occur.
+
+1:25 - Ah, the biggest mistake in the run. It's actually possible to get underneath
+that door before it closes again, if you maneuver through here perfectly. I didn't.
+
+1:45 - More little delays. That demon has a 50% chance of blocking your path, and
+the coin came up the wrong way. I also lose several seconds due to a short fall
+from the tower - even with invulnerability, those SSG-guys are a lot of trouble.
+I wish there weren't these avoidable errors in this run, but it took a lot of
+attempts to even do this well, as almost all of them fail at around 0:45...
+
+2:10 - Even though this is a Doom 1 project, it uses some Doom 2 line actions
+and codepointers. If you pay attention, you'll notice a demon being resurrected
+by a flaming barrel.
+
+3:00 - I have to use my automap to get through here, in case you're curious.
+
+3:15 - Something I only noticed when playing this demo back is that the 
+sargeant who teleports in releases the imps with his gunfire. I'm very lucky to have
+left alive.
+
+3:50 - Yeah, the demo ends slow. Sorry about that. I did my best to do something
+interesting with the time it takes for the lift to lower - namely, I demonstrated
+that it is in fact possible to run halfway across the map, grab an unnecessary
+soul sphere, and return before the lift is even all the way down. I also could
+have grabbed the chainsaw from the secret door in the pillar at the level start.
+Or I could have forgone both of those ideas and just spent some time reading
+the scrolling rules. They're amusing.
+
+4:45 - It crossed my mind that, with this project's peculiar splash damage-based
+weaponry, it might be possible to rocket-jump across these gaps, and thus reach
+the yellow key without raising the platform. I couldn't get it to work, though,
+and it's a moot point anyway. One of the lines that border the platform is a
+trigger that has to be crossed before you can finish the level.
+
+5:05 - This door is brutal. It ruined most of the runs that got this far
+(including a couple that were better than this one). You open the door by
+crossing an arbitrary, indistinguishable line about two thirds of the way
+up the second staircase, and then you have to bounce back down to it and
+slide into it before it closes - an act that is easy to screw up under pressure.
+
+============================================
+Other thoughts:
+
+Since there's room for improvement here, I may work at recording a better demo
+if this stirs up any interest. I'm also tempted to work on a MAX demo, as the
+peculiarties of the Blessed engine would make it very interesting to watch.
+Such a demo would feature many areas that can be skipped in a speedrun. Also,
+I suspect that the fastest way to clear some areas of their monsters would
+be to grab the mine layer weapon (plasma gun replacement) and just plant some
+mines while the player busies himself somewhere else. Now, these mines are also
+a major threat to the player, and last a considerable amount of time,
+so the tactical decisions involved (where do I plant mines and when?) would be 
+of a sort wholly new to Doom speedruns, as far as I know. Let's see if I get
+back to this.

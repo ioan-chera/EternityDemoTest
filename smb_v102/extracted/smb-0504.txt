@@ -1,0 +1,116 @@
+SKYMAYBE.WAD + BLESSED.DEH e2m1 skill 4 speedrun in 5:04
+
+(Note that the menu for this wad refers to skill 1 as "Ultra Violence",
+while skill 4 is labeled as "No Chance", so I'm referring to this as a
+"skill 4" speedrun to avoid ambiguity.)
+
+Recorded with Chocolate-Doom -gameversion 1.9 -longtics
+Chocolate-Doom version: 1.1.1
+
+Kills: 28%
+Items: 40%
+Secrets: 0%
+
+Played by Creaphis on August 29, 2009
+hiebert.paul@gmail.com
+
+==============================================
+Play Instructions:
+
+*Obtaining the necessary files*
+
+First, download smb_v102.zip from <http://www.doomworld.com/idgames/index.php?id=8079>.
+Run SKYMAYBE.EXE, which is a self-extracting RAR archive. Set a destination
+directory and then run the extraction. The files of note that will be extracted
+are _SMB147.WAD, BLESSED.DEH, and INSTALL.EXE. You can use _SMB147.WAD and
+BLESSED.DEH to run this demo, but because of some missing markers in the wad,
+most replacement sprites will not appear. To get the proper SKY MAY BE experience,
+you need to go one step further. Run INSTALL.EXE. Give it the directory of a
+vanilla Doom 1 install. This will create a patched exe in your Doom folder,
+and more importantly, the directory from which you ran INSTALL.EXE will now
+contain SKYMAYBE.WAD.
+
+*Playing the demo*
+
+Recommended options:
+
+1. Chocolate-doom -iwad doom.wad -file skymaybe.wad -deh blessed.deh -playdemo smb-0504.lmp
+2. Prboom-plus -iwad doom -file skymaybe -deh blessed -playdemo smb-0504
+
+And if you're willing to have some incorrect sprites:
+
+3. Chocolate-doom -iwad doom.wad -merge _smb417.wad -deh blessed.deh -playdemo smb-0504.lmp
+4. prboom-plus -iwad doom -file _smb417 -deh blessed -playdemo smb-0504
+
+"-gameversion 1.9" is not necessary to include in the playback command line for Chocolate
+Doom. It makes lost souls and radioactive mines appear to move slightly differently but
+I've never observed a demo desynch because of this.
+
+============================================
+By my estimates, a non-TAS run could still be 10-15 seconds faster, and a perfect
+built run that exploited every possible helpful monster action could be considerably
+faster than that, yet. But it's time for me to wrap up my efforts and move on. Despite still
+being a bit sub-par, this demo is worth watching for a couple clever new shortcuts it
+exhibits. Watch carefully, or you might miss 'em.
+
+Play-by-play:
+
+0:00 - Is it possible to start moving before the screen wipe finishes? I never manage.
+
+0:25 - I should have alerted the shotgun guys later, and from further south, which
+would have promoted better clustering. I'm not sure why I didn't in this run.
+
+0:45 - This period, from reaching the top of the platform with the imps and invisible
+walls to when I reach the crushers at around 0:55, is optimal, despite the 2 second pause.
+If you reach the crushers sooner then you just have to wait longer for them to open up.
+
+1:20 - I don't quite squeeze under the door before it closes, which is a shame. This is
+no great time loss but it looks pretty impressive when I pull it off.
+
+1:30 - This section goes pretty well. I think that leaving the invulnerability sphere
+behind actually makes me more effective against the shotgun guys. Vulnerability keeps
+me on my toes.
+
+1:50 - Exploiting auto-aim to hit a shootable switch early? I bet you've never seen
+that in a demo before. Hitting that switch and quickly grabbing the blue key
+afterwards takes a LOT of luck. The monsters almost always fail to cooperate.
+
+2:20 - It's hard to see exactly how fast I'm moving after that rocket boost, as there's
+little visual context. But trust me - it's fast. This move saves about five seconds.
+In fact, if I perform this boost trick from the southeast corner of the high platform,
+I can land on the thin ledge that surrounds the building I land in front of. Now THAT
+is a rocket jump.
+
+2:25 - The good luck I had in the room with the sergeants is here paid back - and then
+some. Of course, firing that rocket was a bad move and only I am to blame for it. Even
+though I'm invincible, it's pushing out damage too fast for me to be able to approach
+it.
+
+2:35 - Invincibility has the reciprocal benefit of fudging with the COLORMAP, which
+makes it easier to judge where the hidden door is supposed to be.
+
+2:45 - I miss my bus here. Ideally I would move through this section fast enough to
+be able to pass through a different opening in the crushers before it closes, which
+would save... well, just a second. But again, it's more impressive when I pull it
+off.
+
+3:00 - I get delayed by all three of these former humans! All three! The negative
+movement speed of these guys makes them completely unpredictable. Sometimes they
+help, but opening a door at a surprisingly convenient time, but this time they all
+manage to be hindrances. This is hideously bad luck.
+
+3:30 - Glancing at the rules here gives me a bit of feedback on how I'm doing for
+time. It looks like we're not too far into Rule 4 here, which is good (but it could
+be better).
+
+4:20 - I alert the zombies early to cause them to cluster. I think it's easier to
+deal with them if they're grouped.
+
+4:35 - This rocket-fueled turnaround seems like the best use of some extra health.
+Saves a couple seconds.
+
+5:00 - Wonderful - here I get snagged on a zombie one final time. I wish there was
+a tactic that could be used to consistently avoid this one but there's nothing you
+can do to guarantee a quick passage.
+
+5:25 - As per tradition I screw around in e2m2 for a bit. Enjoy.

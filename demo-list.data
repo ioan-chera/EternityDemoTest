@@ -71,3 +71,4 @@ h heretic
 h heretic/test-dsparil -file heretic/test-dsparil/dsparil.wad
 h heretic/test-heretic-no-crunch -file heretic/test-heretic-no-crunch/hcrunch.wad
 1 origwad -file origwad/ORIGWAD.WAD
+1 smb_v102/extracted -file smb_v102/extracted/_SMB417.WAD -deh smb_v102/extracted/BLESSED.DEH

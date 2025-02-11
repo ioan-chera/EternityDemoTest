@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom.wad
+Pwad:      _smb417.wad
+Map:       E1M1
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.24.3 -complevel 3
+
+Time:      0:09.86
+
+Author:    Laure
+
+Comments: uses blessed.deh

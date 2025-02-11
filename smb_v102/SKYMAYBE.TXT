@@ -1,0 +1,253 @@
+I advise you to read this, and blessed.txt in particular.
+Blessed.txt will explain the differences between SkyMayBe and Doom.
+Hints (if you get stuck) are near the end of the file.
+
+
+Title                   : The Sky May Be
+Filename                : Skymaybe.exe ,skymaybe.r00, skymaybe.r01...
+Author                  : DOUG the EAGLE and KANSAM  (see kansam's trial 4!!)
+Email Address           : b52g@usa.net, boff@globalnet.co.uk
+
+Misc. Author Info       : There's a portrait of DOUG in a secret room. Find it!
+
+Description             : Requires Doom 1.6 or above.
+
+                          This is the STRANGEST wad ever made.
+                          Most of the action takes place in a cube
+                          8192x8192x8192 in size..
+                          A two-year production with more new graphics
+                          than any other PWAD in the known galaxy.
+                          Built using monomolecular technology in DEU!
+                          (Grid size 4:1 is still too small [sigh])
+
+Plot                    : Wyth this gunpowder shall we slaye the King...
+
+Story                   : The Great God Imp has shown mercy on your soul and
+			  cast you into the hellish pits of his virtual toybox.
+
+			  Running around the garish lego buildings, you become
+			  aware that the virtual toychest is actually running
+			  under windows 3.11.  However the mouse is broken
+			  and the ALT and F4 keys have been removed.
+
+			  You must find a way to shut down the system and end
+			  this nightmare!
+
+                          Oh, and watch out for the Great God Imp.
+                          He may not be so kind next time He sees you.
+			
+Additional Credits
+==================
+
+iD Software:		  DOOM is really rather good!
+
+The DEU Team:		  Deu is very good.
+
+Sensor Based Systems:	  I'll take DEEP off your hands for a fiver.
+                          DeepBSP is quite good though.
+
+Autodesk:		  Animator is the best program I have ever found.
+
+Jens Hykkelbjerg:  	  RMB suppliments DEEPBSP's inadequacies
+
+Greg Tree:		  Dehacked is Good
+			  Venerate its Name and Obey it in All Things
+
+The Great God Imp:	  Came into my life during a game of DOOM2, for no
+                          known reason.  I have the savegame, for Doom 2.666
+                          if anyone is interested.
+
+Microsoft:                We all need someone to complain about.
+
+The Lovin' Spoonful:      Inspired many 1996 components including the
+                          Firmament Room with the Slopsouls.
+
+Jefferson Airplane:       Heavy inspiration for the 1997 components.
+
+Martyn Smart:             Thanks for Grounds.Wad, E1M2 in the Blessed Trainer.
+                          Pity about that big Deathmatch level you deleted..
+
+                          If you want to play Grounds as it was intended,
+                          not in its slightly modified version under blessed,
+                          it is available from ftp.cdrom.com.
+
+================================================================
+
+* Play Information (Multi-Lingual) *
+
+Episode and Level #     : E1M1 + E1M2 are trainers for the Engine, E2M1 is IT!
+Single Player           : Yes
+Cooperative 2-4 Player  : Perhaps
+Deathmatch 2-4 Player   : Mmm
+Difficulty Settings     : Oui
+New Sounds              : Ja
+New Graphics            :-D
+New Music               : Da
+Demos Replaced          : III
+Wierdness               : Muchly much
+Windows			: Yes - there are two types of windows in this level
+Scrolly			: Si
+Jar			: Woof
+Murder In the Dark	: Squeak
+Great God Imp           : "I am the sum of all these people,
+                           and all their knowledge.  I am all-seeing.
+                           I am everywhere and nowhere.
+                           That has often served as a definition of God.
+                           
+                           There is no escape."
+
+* Construction *
+
+Base                    : New level from scrotch
+Build time              : Two years.  It began in 1995..
+
+Level Editors used      : DEU 5.21, 5.3b, Windeu/32, DCK, DoomCad, DoomEd
+                          Edmap and DEEP (once or twice).
+
+BSP editors used        : BSP 1.0, 1.1, 1.2, 1.2xf, WinBSP, BSP/OS2, EagleBSP,
+			  VNB 1.0, Deepbsp 1.4, 1.6. RMB.
+
+Graphic editors used    : Autodesk Animator, AAconvert, GifClip, NWT.
+                          Paintbrush for saving the Windows screen grabs.
+                          Deutex 1.5 and 3.6 for the texture mods.
+
+Sound editors used      : Creative Wave studio 2.0, Goldwave, Vocedit.
+                          Jazz-16 Pocket Sound Recorder.
+                          DMaud and NWT for the final conversions.  MIDI2MUS.
+                          Midi orchestrator for tweaking the instruments.
+
+Operating systems used  : DRDOS 6.01, Caldera OpenDOS 7.0.1 beta, Windows 3.1
+                          and Windows 3.11.  I have a win95-proof PC.
+
+Known Bugs              : This WAD reaches the limits of DOOM.  I had to hand
+                          optimise it to get it to run without crashing.
+
+                          There is no known HOM and you can save the game.
+
+                          There are now THREE bugs.
+                          1.  The Cyberdemon seems to die easily, it gets burnt
+                              by its own rockets.
+                          2.  The level is now officially Too Big, and DOS may
+                              crash when you quit the program.
+                          2.  I forgot to put rule 6 in. :-)
+
+Miscellany              : BSP/OS2 was accidentally created when I recompiled
+                          BSP 1.2 with the wrong dos extender.  EagleBSP was
+                          a DPMI/16 nodebuilder.  Didn't work any better tho'.
+
+                          The three new musics are:
+                          e1m1: stolen from DGOLDBT.
+                          e1m2: Prokofiev's Dance of the Knights.
+                          e2m1: Bach's Brandenburg concerto number three.
+                                Slightly modified to make it sound under
+                                wavetable, more like it does under adlib.
+                                I have an all-electric version on my hard disk!
+
+                          I like classical music with Doom.  Try to imagine
+                          what Bach would think if he knew about this!!
+
+                          Much of this level was inspired by my favourites..
+                          Cleimos v2, The Apocalypse, Mountain, MUD, and all
+                          those other complete episodes out there..
+
+                          I have discovered the secret of how to construct a
+                          future-proof PC.  Windows 95 is obviously the future.
+                          A certain combination of expansion cards and you have
+                          a system conflict that is harmless to DOS, but
+                          destroys the Windows 95 PnP manager totally.
+
+                          When the blockmap was >64k, Doom went all funny
+                          and started overwriting bits of memory at random.
+                          Graphics, sounds and finally code were eaten as the
+                          game progressed.  Segmentation lives!!
+
+                          Another way to total windows 95 is to play Bach's
+                          Brandenburg Concerto number three with media player.
+                          It doesn't crash all the time, but you'd better have
+                          the disks ready when it does!
+                          It's the only way I know of to get a GPF in MSGSVR32.
+
+                          Caldera OpenDOS is a free DOS operating system
+                          brought to you by Digital Research, Novell and
+                          Caldera.  It is free for non-commercial use.
+
+                          The name The Sky May Be was chosen because I was
+                          experimenting with Olivier Montanuy's DEUTEX and
+                          playing with the sky. I was trying to create a sky
+                          720ø round, with the words "REPENT, SINNER!" written
+                          in blood so it only appeared if you did two complete
+                          turns.  I wasn't sure if it would work (it didn't) 
+                          so it was called skymaybe 'sky (maybe)' and the name
+                          stuck.
+
+                          Visit http://www.caldera.com -or- www.caldera.co.uk
+
+                          Armadillo!  (Darg darg DARNGG!!) ...
+                          [excerpt from The Ballad of You and Me and Pooniel]
+
+                          Visit me at http://members.tripod.com/~JPMorris
+
+                          Rule 6: READ THE DOCS. OH. YOU HAVE.  Repeating...
+
+* Copyright / Permissions *
+
+Authors CAN NOT use this level as a base to build additional levels, because
+it WILL crash if it is made any bigger!  If you have a real good idea, tell
+me about it.  Maybe if you port it to Quake or something...
+
+BTW, if you REALLY like this, buy me a copy of Quake 'cos I don't have it :-)
+
+You WILL distribute this, and you WILL include this file, with no
+modifications.  You WILL distribute this file in ALL electronic formats
+(BBS, Diskette, CD, QIC-80, ZIP etc) and you WILL include this file intact.
+
+You will also add the BBS/FTP name to the README file included with the
+archive.
+
+* Where to get this thing *
+
+WWW:            http://members.tripod.com/~JPMorris
+
+FTP sites:	ftp.cdrom.com.. Probably ftp.demon.co.uk as well too.
+
+BBS numbers:	None.
+		
+Other:		Ask b52g@usa.net to send it by Email-bomb
+
+
+Revision History
+================
+
+V1.00 - Initial release.
+V1.01 - Fixes a bug in DeuSF that removed my NULL sound entries and crashed
+        the game when a cacodemon Purifies you.
+V1.02 - Replaced the two Beavis+Butthead samples from DSW, the sound component.
+        Same words, but by me (highly processed).
+        Never knew I had such an evil-sounding voice.
+	Added more Things to the level.. Murder in the Dark is wicked now!
+
+HINTS
+=====
+
+1.  Remember to press the OK buttons when you find them!
+
+2.  Run backwards when firing the mine or rocket launchers to avoid 75% burns.
+
+3.  Trees CAN be destroyed.
+
+4.  The Blessing Cannon (BFG) is accessable via the red teleport column in
+    Murder In The Dark.  You need to do some work before you get it though!
+
+5.  There is a secret panel in the Steel Cube (beyond the trees).
+    It looks different to the rest of the wall and allows you to get the
+    Mine Launcher.
+
+6.  There is a teleport to an ammo dump in Castle Crate.
+
+7.  To get to the yellow key, find the red post and press the button on it.
+    Run!!
+
+8.  For a laugh in the final room, save the game, press CANCEL and *RUN!*
+
+
+

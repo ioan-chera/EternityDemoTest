@@ -1,0 +1,173 @@
+
+NOTE
+====
+
+This documentation relates to the modified version of Blessed 1.6B used
+in the DOOM mega epic The Sky May Be.
+Watch out for the full release of Blessed 1.9.. out now!
+
+
+What is Blessed??
+=================
+
+Personally, I find doom boring.  To cure this, I created The BLESSED Engine.
+
+	BLESSED - Ever wondered what E=MCý FEELS like?!?
+	Now you too can experience the agony of mass-energy conversion!
+
+
+BLESSED ENGINE DOCUMENTATION
+----------------------------
+
+Title                   : The Blessed Engine 1.6b
+Author                  : DOUG the Eagle and KANSAM
+Author Email            : b52g@usa.net
+Misc. Author Info       : KANSAM for the main DeHackIng
+			  DOUG for ideas, moral support, music, other hacking
+			  DOUG is an F15i Eagle.  He works for the USAF, and
+			  also spends most of his spare computing cycles as a
+			  quake server. He can thrash anybody at most games.
+
+Description             : Doom, but much, MUCH harder. Most of the weapons and 
+			  monsters have been radically overhauled, and are
+			  described hereunder.
+
+Monsters:
+=========
+
+	TROOPER         : Runs away from you. Metamorphoses into an evil bugger 
+			  when he dies!
+
+	SERGEANT        : Armed with Super-shotgun
+
+	IMPS            : The imps are armed with the BFG.
+
+	DEMONS          : Armed with a VERY NASTY missile weapon which fires
+                          harmless plasma bolts; however, the plasma attacks
+                          you with chaingun fire...
+			  Explodes into incandescent energy on death.
+
+	SPECTRES        : Slaps you when it's alive, slays you when it dies.
+                          Note that the spectres are now VISIBLE.
+
+	LOST SOULS      : Don't let them touch you..
+
+	CACODEMONS      : Edward Diego. Purifies you if you get close, and has a
+			  nasty habit when he dies
+
+	BARON OF HELL   : Normal, but the pink shit he throws at you will slay
+			  you dead, even in God mode.
+
+	CYBERDEMON      : More or less normal.
+
+	SPIDERDEMON     : Flies.
+
+	Oh, and watch out for the barrels.
+
+
+Weapons:
+========
+
+        THE FIST        : Meet Mr. Fist.  He's not a very nice person. 
+
+	PLASMA CUTTER   : Cuts through most substances.
+
+	PISTOL          : Flameless. Fires around 500 bullets per minute with
+			  pixel accuracy.
+
+	SHOTGUN         : You know the RF Skorpion from System Shock? What you
+		          have here is a recoilless high-speed murder weapon.
+			  Fires about 1600 bullets/min
+
+	CHAINGUN        : Instant Discharge Cannon. Fires up to 400 bullets 
+			  simultaneously.
+
+	ROCKET LAUNCHER : Very dangerous, to you and everyone else. You MUST be
+			  moving (preferably running) backwards when you fire.
+
+	PLASMA GUN      : The Mine Launcher. 
+			  The shot emerges as a green-and-yellow ball. It will
+			  hit the ground, and sit there looking dopey. HOWEVER:
+			  in a few seconds it will split into three yellow-and-
+			  red spheres. These are BLOODY DANGEROUS. If you go 
+			  near these, you will have to be carried home in a 
+			  bucket. The trio of spheres will remain for about 20
+			  seconds, unless interfered with. It is possible to 
+			  blow them up, which gets rid of them quicker. If at 
+			  any point there is only one left, it will remain
+			  for about a minute, or until someone shoots it. 
+			  You have been warned.
+
+	BLESSING CANNON : The eponymous weapon. If a shot from this holy device
+			  hits an enemy, it will either expel them as gamma rays
+			  or leave them immortal. Apply with EXTREME caution.
+
+	 ---------------------------------------------------
+	 -DANGER: Blessing another player may end the game.-
+	 ---------------------------------------------------
+
+ADDITIONAL
+==========
+
+		The messages in the game have been altered by some diabolical
+		influence (Kansam, actually), providing handy new directions
+		to aid your quest.
+
+		The Great God Imp has been added, replacing the Pole-With-Skull
+		decoration.  The Cyberdemon has been twickled a bit and is
+		slightly buggy.  Poor chap often gets fried by his own rockets.
+
+		Please do NOT use this engine outside of SKYMAYBE.
+		The full version of Blessed 1.9 ought to be available from the
+		same place you got this.
+
+DISCLAIMER
+==========
+
+	Any disagreeble sensations caused by this program are absolutely
+	nothing to do with us.
+
+	Blame should instead be laid on any of the following:
+
+		Adolf Hitler
+		The World Wide Web
+		O.C.
+		Windows
+		Democratic Elections
+		The United States of America
+		
+	It is unlikely that your problem was caused by:
+
+		Id Software
+		LookingGlass technologies
+		Internet Facilities other than the World Wide Web
+		ELVIS
+		Theodore Roosevelt
+		Free Bulletin Boards
+		U2
+		DR-DOS
+		PC-DOS
+		MS-DOS
+		Poland
+
+* Conditions of Use *     >:->
+
+You WILL distribute this file, and you will include this file, with
+only the modifications stated below.  You will distribute this file in every
+electronic format (BBS, Diskette, CD, etc) and you will include this file 
+intact.
+
+You WILL also add the internet address or BBS number to this file:
+
+FTP/WWW sites:
+
+http://members.tripod.com/~JPMorris
+
+ftp.cdrom.com (pending)
+
+BBS numbers: 
+
+Other:
+
+Ask b52g@usa.net to send it by Email-bomb.
+
