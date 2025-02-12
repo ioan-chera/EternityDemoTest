@@ -22,3 +22,37 @@ Optional argument: `--cpu <number_of_cores>`. If used, it can limit the work to 
 ## Caution
 1. When git-cloning: size may be significant, and it is going to grow.
 2. It may take awhile to run and during this time it may slow down your workflow. You can always cancel it with Ctrl+C however. You can try using the `--cpu` parameter to reduce the intensity.
+
+## IWAD encryption info
+
+This uses commercial and registered game IWADs for some of the demos. To obtain them legally, they exist in an encrypted form in a URL downloaded from the scripts here. I no longer have the necessary encryption keys, and the decryption key is stored in a secret variable on CI.
+
+In case of loss of encrypted IWADs, assuming you have all the necessary IWADs, such as Doom, Doom II, The Plutonia Experiment and Heretic, the procedure involves having the `openssl` utility, and doing the following:
+
+1. Generating private key
+```
+openssl genpkey -algorithm RSA -out private_key.pem -pkeyopt rsa_keygen_bits:2048
+```
+
+2. Extracting public key
+```
+openssl rsa -pubout -in private_key.pem -out public_key.pem
+```
+
+3. Generating a random 256-bit key for AES encryption
+```
+openssl rand -out aes.key 32
+```
+
+4. Encrypting each IWAD with AES using PBKDF2 and a high iteration count
+```
+openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -salt -in doom.wad -out doom.wad.enc -kfile aes.key
+# same with the other IWADs
+```
+
+5. Encrypting the AES key with RSA public key
+```
+openssl pkeyutl -encrypt -pubin -inkey public_key.pem -in aes.key -out aes.key.enc
+```
+
+6. Uploading it all: make sure to upload ONLY the files ending in `*.enc` (delete the rest to be safe!) and then put the private key in a *secret* container on your CI environment, such as GitHub Actions, where only you have access.
