@@ -19373,7 +19373,7 @@
 0	Setup E1M1
 715	Exit normal		(k: 100%, i: 0%, s: 0%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/238843_1.lmp -demolog temp-logs/3884.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/203_1.lmp -demolog temp-logs/3884.txt 
 0	Setup E1M1
 70	Exit normal		(k: 0%, i: 0%, s: 0%)
 
@@ -19381,11 +19381,11 @@
 0	Setup E1M1
 70	Exit normal		(k: 0%, i: 0%, s: 0%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/388603_3.lmp -demolog temp-logs/3886.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/203_3.lmp -demolog temp-logs/3886.txt 
 0	Setup E1M1
 70	Exit normal		(k: 0%, i: 0%, s: 0%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/203887_4.lmp -demolog temp-logs/3887.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file origwad/ORIGWAD.WAD -fastdemo origwad/203_4.lmp -demolog temp-logs/3887.txt 
 0	Setup E1M1
 70	Exit normal		(k: 0%, i: 0%, s: 0%)
 
@@ -19589,18 +19589,18 @@
 0	Setup E1M1
 82	Exit normal		(k: 16%, i: 0%, s: 0%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file smb_v139382/extracted/_SMB417.WAD -deh smb_v139382/extracted/BLESSED.DEH -fastdemo smb_v139382/extracted/smb-3938539384.lmp -demolog temp-logs/3938.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file smb_v102/extracted/_SMB417.WAD -deh smb_v102/extracted/BLESSED.DEH -fastdemo smb_v102/extracted/smb-0504.lmp -demolog temp-logs/3938.txt 
 0	Setup E2M1
 10672	Exit normal		(k: 28%, i: 40%, s: 0%)
 11198	Setup E2M2
 17489	death player 1 (k: 44%, i: 31%, s: 16%)
 17674	Quit without exiting level
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file smb_v393902/extracted/_SMB439397.WAD -deh smb_v393902/extracted/BLESSED.DEH -fastdemo smb_v393902/extracted/smb-0533.lmp -demolog temp-logs/3939.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file smb_v102/extracted/_SMB417.WAD -deh smb_v102/extracted/BLESSED.DEH -fastdemo smb_v102/extracted/smb-0533.lmp -demolog temp-logs/3939.txt 
 0	Setup E2M1
 11665	Exit normal		(k: 34%, i: 50%, s: 0%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file smb_v103940/extracted/_SMB417.WAD -deh smb_v103940/extracted/BLESSED.DEH -fastdemo smb_v103940/extracted/smb-1045.lmp -demolog temp-logs/3940.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file smb_v102/extracted/_SMB417.WAD -deh smb_v102/extracted/BLESSED.DEH -fastdemo smb_v102/extracted/smb-1045.lmp -demolog temp-logs/3940.txt 
 0	Setup E2M1
 22608	Exit normal		(k: 99%, i: 80%, s: 66%)
 23478	Setup E2M2
@@ -19611,6 +19611,6 @@
 0	Setup E1M1
 9	Exit normal		(k: 0%, i: 0%, s: 0%)
 
--base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file smb_v102/extracted/_SMB394217.WAD -deh smb_v102/extracted/BLESSED.DEH -fastdemo smb_v102/extracted/smb11m009.lmp -demolog temp-logs/3942.txt 
+-base eternity-port/base -user eternity-port/user -nodraw -nosound -iwad doom.wad -file smb_v102/extracted/_SMB417.WAD -deh smb_v102/extracted/BLESSED.DEH -fastdemo smb_v102/extracted/smb11m009.lmp -demolog temp-logs/3942.txt 
 0	Setup E1M1
 344	Exit normal		(k: 100%, i: 0%, s: 0%)
