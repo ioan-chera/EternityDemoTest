@@ -64,9 +64,14 @@ def natural_keys(text):
 ###################################################################
 
 
-def call_eternity(a):
+def call_eternity(job_data):
+    args, folder, print_folder = job_data
+    
+    if print_folder:
+        print(folder, end='')
+    
     with open(os.devnull, 'w') as black_hole:
-        subprocess.call(a, stdout=black_hole)
+        subprocess.call(args, stdout=black_hole)
         sys.stdout.write('.')
         sys.stdout.flush()
 
@@ -92,6 +97,7 @@ def run_program(command_line_args):
     # iterate the table entries
     index = 0
     commands_list = []
+    last_folder = None
 
     for scenario in scenarios:
         arguments = list(ARGS_BASE)
@@ -114,7 +120,12 @@ def run_program(command_line_args):
                 args_complete.extend(['-fastdemo', demo_path])
                 temp_log_path = os.path.join('temp-logs', str(index) + '.txt')
                 args_complete.extend(['-demolog', temp_log_path])
-                commands_list.append(args_complete)
+                
+                # Check if folder changed
+                print_folder = last_folder != scenario[1]
+                last_folder = scenario[1]
+                
+                commands_list.append((args_complete, scenario[1], print_folder))
                 index += 1
 
     # now we have the commands list. print it
@@ -129,7 +140,7 @@ def run_program(command_line_args):
 
     time_start = time.time()
 
-    Parallel(n_jobs=cpu_count)(delayed(call_eternity)(a) for a in commands_list)
+    Parallel(n_jobs=cpu_count)(delayed(call_eternity)(job_data) for job_data in commands_list)
 
     time_end = time.time()
     time_elapsed = time_end - time_start
