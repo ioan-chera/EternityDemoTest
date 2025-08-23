@@ -1,0 +1,10 @@
+player: aconfusedhuman
+date: 10-02-2022
+IWAD: doom2.wad
+pwad: SCYTHE.wad
+map: 23
+skill: 4
+category: nomo
+sourceport: dsda-doom 0.19.7
+time: 8.46
+comments: useless run, just havent uploaded a nomo in ages and might as well post a better looking demo for when all scythe nomos are optimized :p

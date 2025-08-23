@@ -1,0 +1,19 @@
+              Scythe
+          Map 27: Terror
+       Map Author: Erik Alm
+------------------------------------
+           sc27s044.lmp
+
+NM100s in 0:44
+
+    Kills   - 20%
+    Items   - 70%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: NCould be much faster, under 40s. Low effort (97 attempts) just to show off the new route.

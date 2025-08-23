@@ -1,0 +1,35 @@
+| This is a Doom .LMP | Doomed Speed Demos Archive http://doomedsda.us/ |
+-------------------------------------------------------------------------
+Filename : sc19-323.lmp, sc19-323.txt
+Date     : 2017-10-17
+Iwad     : doom2.wad
+Pwad     : scythe.wad
+Game     : Scythe
+Exe      : Doom2.exe ver1.9 
+Category : UV-Max
+Map(s)   : MAP 19: AD
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  75%
+Secrets  : 100%
+Time     : 00:03:23
+===================================
+Description:
+
+This demo has a new tactics. The master mind which could be stuck easily 
+was dealt with by an infighting. Although a little luck was needed, it was 
+not hard. The more annoying thing was that an arch-vile for vile-jump and 
+arachnotrons were not cooperative compared to UV-fast. A target was killing 
+an arch-vile in the red key area until an invulnerability expired. This was 
+extremely difficult and rarely succeeded. In this run, it was failing but 
+I was able to deal with a vile smoothly by accident. 
+Certainly it is a drawback in the route, but you can play it quite exhilaratingly 
+after breaking through it. This map is really great.

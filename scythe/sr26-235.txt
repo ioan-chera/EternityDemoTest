@@ -1,0 +1,23 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe by Erik Alm
+Pwad name: scythe.wad
+Map:       26
+Map name:  Fear
+Skill:     4
+Category:  UV -respawn
+Exe:       doom2.exe
+
+Kills:     100% exactly :)
+Items:      80%
+Secrets:     0%
+
+Time:      2:35
+
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+
+Comments:  666 monsters died in 2:35 min - cool :)))

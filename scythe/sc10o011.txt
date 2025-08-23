@@ -1,0 +1,15 @@
+              Scythe
+         Map 10: The Lords
+       Map Author: Erik Alm
+------------------------------------
+           sc10o011.lmp
+
+Nomo in 0:11.86
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Last time I tried this it seemed much harder. This time, it came much more quickly; I assume I was just getting tired of recording back then or something because it wasn't that long ago. 11 still isn't an easy time to get, Happy to have the demo faster than Pacifist as well, even if only by one tic ;).

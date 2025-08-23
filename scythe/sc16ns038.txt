@@ -1,0 +1,18 @@
+SC16NS038.TXT
+SC16NS038.LMP
+SC16NS038.ZIP
+
+Player : megasphere308
+Date : 2021-05-19
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP16 Burial grounds
+Source port : dsda-doom v0.18.0
+Time : 0.38.14
+
+Description :
+
+A bit harder than I thought, since the first archvile doesn't infight most of the time.
+The revenant downstairs didn't shoot at all, which made the ending much easier.
+
+megasphere308@gmail.com

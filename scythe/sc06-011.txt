@@ -1,0 +1,19 @@
+              Scythe
+      Map 06: Pressure Point
+       Map Author: Erik Alm
+------------------------------------
+           sc06-011.lmp
+
+UV-Speed in 0:11
+
+    Kills   - 2%
+    Items   - 50%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Lazy 10 minute run. 10s is almost certainly possible with this wallrun strat, though you'd probably need good movement and a single-rocket kill on the spectre. Included an attempt where I fixed the section starting from the spectre rocket kill at the end with a rerecord that's a 11.00. Wanna try that, MCD? :D

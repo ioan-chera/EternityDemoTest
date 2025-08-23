@@ -1,0 +1,19 @@
+              Scythe
+      Map 27: Subverted Base
+       Map Author: Erik Alm
+------------------------------------
+           sc27str028.lmp
+
+Stroller in 0:28
+
+    Kills   - 0%
+    Items   - 30%
+    Secrets - 50%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Looks like I gave this some time (46 attempts) last time I tried Scythe strollers, which I forgot about. But I gave up because you don't have enough speed to push jump forward with an AVJ while walking. I might not have tried it anyway this time at first since I only saw a strategy where I'd get boosted onto the platform by a rev rocket initially, but then I realized you can use the .000 boost on the platform to get on it as well. In the end, I got this lucky run where I just get boosted anyway haha. Had a couple attempts that did get on with the boost strat, one died to a second AV attack afterwards, the second I only got on as I was dying. :P 121 attempts not counting the initial 46.

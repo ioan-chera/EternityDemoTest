@@ -1,0 +1,12 @@
+==================================================
+Date     : 10-10-2018
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max
+Engine   : prboom-plus-2.5.1.4
+Map      : MAP01 - Get Going
+Time     : 0:37
+==================================================
+Email    : borealis10@outlook.com
+Author   : Thomas Baden
+Nickname : Scorpius

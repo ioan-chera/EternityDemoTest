@@ -1,0 +1,11 @@
+Filename   : scythe.wad, by Erik Alm
+Title      : Scythe
+Map        : MAP11 - Sneak Peak
+Category   : UV Max
+Exe        : PrBoom-plus 2.5.1.1 -complevel 2
+Time       : 1:34
+
+Author     : Drew "stx-Vile" Devore
+Email      : dadevore83@gmail.com
+
+Comments   : The ending was a bit sloppy but it could have been worse.  This was a fun map to run.

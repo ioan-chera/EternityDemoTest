@@ -1,0 +1,110 @@
+======================================================================
+**********************************************************************
+                          Scythe Episode I
+                             Done Quick
+                 The Ultra-Violence TAS Tyson Movie
+                            Also Reality!
+                        100% Secrets Edition
+**********************************************************************
+======================================================================
+______________________________________________________________________
+Map    Level    Episode        Time   Kills   Items   Secrets 
+======================================================================
+                Episode I          
+----------------------------------------------------------------------
+Map01 - Get Going!           _  0:20   100%      0%    100%     
+Map02 - Punchline            _  0:32   100%    100%    100%     
+Map03 - Up and Around        _  0:33   100%    100%    100%     
+Map04 - Lost Warehouse       _  0:38   100%      0%    100%     
+Map05 - Slimy Tunnels        _  0:35   100%    100%    100%     
+Map06 - Pressure Point       _  0:46   100%     50%    100%     
+Map07 - Deadly               _  0:51   100%    100%    100%     
+Map08 - Garden Base          _  1:06   100%     50%    100%     
+Map09 - Computer Storage     _  1:30   100%    100%    100%     
+Map10 - The Lords            _  0:37   100%    100%    100%     
+______________________________________________________________________
+                      Total  _  7:28                         
+======================================================================
+Recorded using: GLBoom-Plus 2.5.0.4 & GLBoom-Plus 2.5.0.6 Beta
+                Doom Replay Editor 2.0 custom
+----------------------------------------------------------------------
+Strafe50 is always ON
+======================================================================
+Playback with original Doom2 v1.9:
+  doom2.exe -file scythe.wad -playdemo 10st-728.lmp 
+or  with   any  other  fully  compatible  doom  ports,  such  as
+PRBoom 2.2.3 (or later) or Eternity engine: (-complevel 2)
+  prboom.exe -iwad doom2.wad -file scythe.wad -playdemo 10st-728.lmp
+  Eternity.exe -iwad doom2.wad -file scythe.wad -playdemo 10st-728.lmp
+======================================================================
+Wondering what it would be like if almighty Akse did a tyson movie?
+ The answer is - pure awesomeness. It was fun (mostly), but sometime
+ it was really annoying. Maps 01,04,09 are pure pleasure, when 07,10
+ was pure evil! The major pain in the ass is the "damage managment".
+ It's OK with the chainsaw, but when it comes to the berserk, it makes
+ me cry in pain. Only once I've managed to deal max dmg (200HP per
+ punch) 3 times in a row. Believe me, it's fucking hard as hell! It's
+ unlikely that I'll do something like this in nearest future. And yeah,
+ it's "100% secrets" edition. In other words I've fucked up. For some
+ reason I've thought that tyson means 100 secrets. Crap. Thankfully
+ the penalty isn't so huge and on some maps there is no penalty at
+ all. After all, it was an interesting experience. Enjoy.
+
+ Map 01 - Get Going! :
+  It's probably optimal. Want to check it out? Be my guest.
+
+ Map 02 - Punchline :
+  Nothing really interesting. It would be much better if there were
+  no berserk kit.
+
+ Map 03 - Up and Around :
+  Another fucking berserk kit. I don't like it. Didn't you got it yet?
+
+ Map 04 - Lost Warehouse :
+  Yay, chainsaw action! I love it!
+
+ Map 05 - Slimy Tunnels :
+  At the second part (after killing two zombies with the handgun) of
+  the map, I got really tired of this tyson-you-must-always-deal-max-dmg
+  shit and I've decided to give my self a brake. It took almost 2 years.
+  Yes, "damage managment" is THAT annoying.
+
+ Map 06 - Pressure Point :
+  A good one. The ending was pretty tough, but it's the best part.
+
+ Map 07 - Deadly :
+  The shit begin to spread. It is a "cock block" map and it is a
+  second time when I almost gave up on this movie. I suppose it
+  would be faster to kill mancubies with the fist of fury, but I'm
+  not crazy and my nerves are fucked up enough already. Then you have
+  to deal with the walking tables. One of the worst enemies when it
+  comes to tysoning. The hit detection is a complete bullshit! It's so
+  horrible that I didn't even believed that it's possible! And then
+  - the "dmg managment". Oh god... it's too painful to remember.
+
+ Map 08 - Garden Base :
+  It would much better if there were no "umbaos". It's so hard to hit
+  them. Not as hard as spiders though. Still annoying as hell!
+
+ Map 09 - Computer Storage :
+  Now that what I want to see in tyson demo! It's definitely my
+  favourite level. And btw killing mancubie with the chainsaw is MUCH
+  funnier and easier.
+
+ Map 10 - The Lords :
+  Annoyed the shit out of me. Thank god this is the last one.
+
+I really want to thank entryway. Without him this movie would be
+ almost impossible. About 3 years ago I've asked him if it possible to
+ show dmg inflicted by the player in PrB+ hud and he gave me
+ -trace_givendamage! Entryway, you are awesome!  
+
+P.S. In memory of Joe Abene...
+======================================================================
+Author    :Maxim "Akse" Abreev, Russia, Moscow
+E-mail    :ffx2lynx@mail.ru
+          :MaxiAkse@rocketmail.com
+Youtube   :http://www.youtube.com/MaxiAkse
+======================================================================
+
+9 jul 2012

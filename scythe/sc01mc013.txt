@@ -1,0 +1,30 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP01: Get Going
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.3.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:13.91
+-------------------------------------------
+4shockblast:
+
+My side was pretty clean, but of course, in principle, you could single-rocket the imps outside and then use rocket on zombies inside. But my goal was just getting good SG shots on the first couple sets of zombies and in the RK switch room, and I at least got that. 12s is possible, maybe even 11 if everything is really really perfect.
+
+GarrettChan:
+
+Man, this map shows how annoying the SG is. I basically only needs 7 good shots, but it's very inconsistent. We got 14 easily, but crossing the 14 line definitely requires some luck.
+
+I need to one shot the Imp * 2 in the first building, use 2 shots to kill some Zombiemen (yeah, it's possible to 2 -shot all 4 of them, but that's one out of more than 100...), and blow up the barrel and kill the last Imp. This gives 6 shots, but usually one Imp won't die with the barrel, so I need to put one more, therefore total 7 shots.
+
+Oct 20 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

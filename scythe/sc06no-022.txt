@@ -1,0 +1,19 @@
+WAD: Scythe
+MAP: MAP06: Pressure Point
+Time: 0:22.94
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Ah, one of my favorite maps in Scythe. It's open, nicely designed, and a fun
+breeze to run through. This is one of those maps where it'd be hard for me to
+get impatient playing it because it's short and the wide open start is almost
+impossible to screw up. The ending is what stopped 95% of my attempts, but I
+didn't mind because the ending looks cool, too!
+
+I'm looking for maps to improve some of Cacatou's nomo demos.. some I just
+can't beat no matter how hard I try, but this was easy. I got 23.54 on my 4th
+attempt, so I knew I should try for 22. 22 was a fun challenge and took more
+time to get, but it's not optimal. With better running and better movements at
+the end, 21 should be easily possible. 20 is not out of the question, either.
+
+--Doomdaniel95

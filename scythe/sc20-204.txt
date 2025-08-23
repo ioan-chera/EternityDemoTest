@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map20: The Starport
+Skill: 4
+Category: UV Max
+Exe: GlBoom+ v2.5.1.4 -complevel 2 with advanced HUD
+-------------------------------------------
+Time: 2:04
+-------------------------------------------
+Decent run. As a new speedrunner, the difference between me and the top is close enough.
+
+24 May 2017
+-------------------------------------------
+Author: GarrettChan
+garrettchan016@gmail.com
+https://www.youtube.com/channel/UCdxYwVisWikp8rs5MLRni7Q

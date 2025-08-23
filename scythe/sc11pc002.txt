@@ -1,0 +1,38 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+
+PWAD Name: Scythe
+
+MAP11: Sneak Peak
+
+Category: UV Pacifist Co-op
+
+Player 1: 4shockblast (Green)
+
+Player 2: GarrettChan (Indigo)
+
+Exe: Crispy Doom v5.10.3 with advanced HUD
+-------------------------------------------
+Time: 0:02.91
+-------------------------------------------
+4shockblast:
+
+Theoretically, the second player should make this way easier in 2s than SP on NM or UV, but the demon makes things quite annoying. On one hand, Garrett can fairly easily get past him quickly, but if he does that, the demon moves directly into my way, so I am way slower. On the other hand, can't slow down too much or 2s becomes hard/impossible. In the end, we ended up on a strat where Garrett slightly nudges the demon a bit more slowly so the demon gets into the biting animation, and I can get around him more easily. Eventually, this led to 2s, but it certainly wasn't an easy run. Happy with this outcome. :)
+
+GarrettChan:
+
+My goal is "simple", quick start at the right angle and trying to trigger the demon attack animation. However, it's very tricky to do the second part because sometimes the Pinky is at a weird spot so you don't hit it at all, or you are just completely stuck with it...
+
+We got 3.06 pretty early, but crossing the second gap took like 500 more tries. One of the more difficult runs we've tried, and the outcome is pretty nice.
+
+YouTube Video: https://www.youtube.com/watch?v=5GBfR0oyNlY
+
+Nov 4 2021
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

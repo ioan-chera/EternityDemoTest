@@ -1,0 +1,32 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map10: The Lords
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:17.23
+-------------------------------------------
+4shockblast:
+
+Start is one of the most annoying in the wad. My side is mostly defined by how fast I can get to the switch at the start, but then pressing the switch quick and grabbing rocket box are really easy to fail. The barons sometimes take too many rockets on my side too, so that's fun.
+
+GarrettChan:
+
+Lure the Barons next to the exit to blow them up. That's it :)
+
+Though, the Baron behind wants to go into the Baron in front's hole, yeah hole, not funny.
+
+Youtube Video: https://youtu.be/7Id9LKG1j-o
+
+Apr 7 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

@@ -1,0 +1,15 @@
+              Scythe
+       Map 15: Blood Bath
+       Map Author: Erik Alm
+------------------------------------
+           sc15so697.lmp
+
+Nomo in 0:06.97 (secret exit)
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: I didn't see the possibility for this until confused memed about it, and then I saw the wallrun potential. It sucks, but it brings it well within the range for 6s. Still took too long; I did double restart here after learning for sc07 and 10, and often the faster wallruns would just result in me way overshooting the jumps (which are easy to fail as is). This time, all that went well, but I bled tics at the end, still just barely got under 7, though. :)

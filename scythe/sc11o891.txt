@@ -1,0 +1,15 @@
+              Scythe
+       Map 11: Sneak Peak
+       Map Author: Erik Alm
+------------------------------------
+           sc11o891.lmp
+
+Nomo in 0:08.91
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Not nearly as difficult as GrumpyCat seemed to imply in his textfile; I got 8.94 in less than 30 minutes, I think. Spent some more time to get this. Really just a matter of good movement and quick positioning for death slide.

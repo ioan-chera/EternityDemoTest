@@ -1,0 +1,19 @@
+              Scythe
+        Map 21: Solitude
+       Map Author: Erik Alm
+------------------------------------
+           sc21r034.lmp
+
+UV -respawn in 0:34
+
+    Kills   - 100%
+    Items   - 66%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -respawn
+Author: 4shockblast
+
+Comments: Was looking through my attempts folder and saw my old attempts for this run way back in 2014. I think I was attempting it around the same time I was watching Cyber do his attempts on stream because I didn't really like his routing choices that much. Still, I only managed to get a crappy 1s improvement at the time and left the demo sitting since I wasn't satisfied. Decided to return to it and see if I could push my luck further and figured out that I could kill some of the imps the AV resurrects for extra kills so I don't have to rely on luck so much after the soul sphere. Still took some time to get a decent run with good punching at the start; this was my first exit with 100% kills. I didn't think I'd get 100 (I don't usually use the advanced HUD for runs that have a kill% requirement). Shot one extra rocket at the end, so at least 33s is probably possible.

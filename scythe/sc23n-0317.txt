@@ -1,0 +1,13 @@
+Runner: ferfrancuito
+Date: 2021-Jan-17 15:26
+IWAD: SCYTHE.wad
+Category: Nightmare!
+Map: 23
+Source Port: PRBoom v2.5.1.4
+Time: 0:03.17
+Attempts: 780
+
+Description:
+Birthday demo!
+Running this level again 3 years later. 3.17 with correct complevel :P
+

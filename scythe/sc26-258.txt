@@ -1,0 +1,11 @@
+Runner: D0M0
+Date: 2023-07-15
+IWAD: Doom2.wad
+PWAD: SCYTHE.wad
+Category: UV-Max
+Map: 26 (Fear)
+Source Port: DSDA-Doom v0.24.3 (MacOS Build)
+Time: 2:58.46
+Complevel 2 (Limit Removing)
+
+Youtube Link: https://www.youtube.com/watch?v=rQcF6sG-5UA

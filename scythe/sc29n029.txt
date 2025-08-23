@@ -1,0 +1,17 @@
+SC29N029.TXT
+SC29N029.LMP
+SC29N029.ZIP
+
+Player : megasphere308
+Date : 2021-06-26
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP29 Hell on earth
+Source port : dsda-doom v0.18.0
+Time : 0.29.94
+
+Description :
+
+Grinding this map on NMS is so hard, that I needed to take a break and do it on NM Speed :)
+
+megasphere80@gmail.com

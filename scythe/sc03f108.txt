@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD:		scythe.wad
+PWAD Name:	Scythe
+Map:		03
+Skill:		4
+Category:	UV-Fast
+EXE:      	PrBoom-plus 2.6 um -complevel 2	
+Runner:		Smite of Disrespect	
+Time:		1:08
+-------------------------------------------
+Comments:
+
+I thought I blew it at the end, but somehow this run was still the one.

@@ -1,0 +1,16 @@
+---------------------------
+This demo is tool assisted.
+Tools used: XDRE 2.20
+---------------------------
+
+Date: 9/19/2020 started: 2:43 PM ended: 3:54 PM
+Building time: 1h11m
+Map: MAP01
+Map time: 7.97s
+Author: alps
+Type: tool-assisted nomo (-skill 4, -complevel 2)
+WAD: SCYTHE.WAD
+
+Comments:
+
+(none)

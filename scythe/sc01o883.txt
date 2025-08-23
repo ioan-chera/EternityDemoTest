@@ -1,0 +1,9 @@
+player: aconfusedhuman
+date: 23-07-22
+iwad: DOOM2.wad
+pwad: SCYTHE.wad
+map: 01
+category: nomo
+comments: 8.94 felt a bit dumb after uploading an .97 on uv, so decided to improve it
+
+recorded with dsda-doom 0.24.1

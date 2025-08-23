@@ -1,0 +1,30 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP23: Anger
+Category: UV Pacifist Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 8.1.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:03.34
+-------------------------------------------
+4shockblast:
+
+Could probably go down to 2s with pacifist too, idk.
+
+GarrettChan:
+
+I guess you just hope the AV attacks you faster, but still sometimes the Chaingunner can block you. We tried to do random thing to advance RNG, but sadly I shot the AV accidentally and got that 2.66 run which is not Pacifist...
+
+Youtube Video:
+
+Mar 20 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

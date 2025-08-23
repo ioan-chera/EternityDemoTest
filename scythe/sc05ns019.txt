@@ -1,0 +1,18 @@
+SC05NS019.TXT
+SC05NS019.LMP
+SC05NS019.ZIP
+
+Player : megasphere308
+Date : 2021-04-15
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP05 Slimy tunnels
+Source port : Crispy Doom v.5.8.0
+Time : 0.19.97
+
+Description :
+
+Grinded for about an hour to get an exit. This map is brutal!
+Anyway, happy to get sub 20 on my first exit.
+
+megasphere308@gmail.com

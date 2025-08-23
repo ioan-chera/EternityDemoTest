@@ -1,0 +1,13 @@
+Port: Crispy Doom v5.9.1
+IWad: Doom2.wad
+Category: NoMonsters
+Skill: 4
+Map: Map21
+Date: 02/10/2020
+
+Time: 0:08.89
+
+Author: Dastan
+
+Comments: To be honest I didn't think I'd be able to lower 4shockblast's 8.97 run but I managed to do a clean and fast corner cut into the red skull.
+The red skull door also wasn't very optimal but it was clean enough to lower the previous record by 3 tics.

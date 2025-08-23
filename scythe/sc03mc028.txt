@@ -1,0 +1,32 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP03: Up and Around
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:28.40
+-------------------------------------------
+4shockblast:
+
+I had pretty good BFGing/rockets, but I did miss a pinky and had to punch, still not that bad. Between grabbing the BFG and BK lowering, it's hard to see what actions I can even take to help the run, though. The monsters often spawn a bit too slow for me to immediately clean stuff up, so waiting a bit on rocketing/BFGing makes sense, and SG doesn't make a huge difference, plus I auto-switch at berserk. Anyway, it's nice to beat 3P co-op max, by more than one second too. :D
+
+GarrettChan:
+
+I actually struggled to find where I could use those 2 rockets, even to this time. As you can see, in this run, those 2 rockets are basically useless because I didn't hit anything, but it didn't waste us time either...
+
+I started at a better angle than 4shock, but still it's pretty annoying to do the jump for the SG. The other thing is the occasionally slow monster closet, which just makes it out of your control.
+
+Youtube Video: https://youtu.be/uAqnSO6i1GM
+
+Feb 20 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

@@ -1,0 +1,16 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      SCYTHE.WAD
+Map:       MAP14
+Skill:     4
+Category:  UV Max
+Exe:       Chocolate-Doom v.3.0.0
+
+Time:      1:36.77
+
+Author:    :[Lol 6]:
+
+Comments: This map is rather easy, even with my route, which is not very good
+I got a decent time, the baron of hell is the only annoying monster.

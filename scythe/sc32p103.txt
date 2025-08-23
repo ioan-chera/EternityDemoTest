@@ -1,0 +1,18 @@
+SC32P103.TXT
+SC32P103.LMP
+SC32P103.ZIP
+
+Player : megasphere308
+Date : 2021-05-15
+IWAD : scythe.wad
+Category : Pacifist
+Map : MAP32 Enoz soahc
+Source port : dsda-doom v0.18.0
+Time : 1.03.57
+
+Description :
+
+Too bad I got zapped and messed up with the yellow bar, it could have been closer to 1:00 :)
+A lot of attempts to have everybody get out of the alcoves and infight fast enough.
+
+megasphere308@gmail.com

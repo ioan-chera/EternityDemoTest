@@ -1,0 +1,17 @@
+              Scythe
+       Map 16: Burial Grounds
+       WAD Author: Erik Alm
+------------------------------------
+           sc16o021.lmp
+           sc16o022.lmp
+
+Nomo in 0:21.91
+Nomo in 0:22.49 (strafe40 only)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Most of the difficult is concentrated in those tight curved staircases at the end. Really hard to get a clean pass there, and even a perfect demo could be ruined by bumping too much at that point. Had a really good pass through the first hallway here, but bumped on the skulls, and didn't have a great pass through the second hallway, but got 21 so I'm happy. 20 might be possible with really perfect movement, but the last hallways seem random to me, and, while this run was pretty fun, it's not too satisfying to grind a random ending. Also included is 22.49 strafe40 only that was recorded first exit to show that 22 is possible with strafe40, and perhaps even 21.

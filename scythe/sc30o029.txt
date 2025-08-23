@@ -1,0 +1,15 @@
+              Scythe
+       Map 30: Fire and Ice
+       Map Author: Erik Alm
+------------------------------------
+           sc30o029.lmp
+
+Nomo in 0:29.80
+
+Recorded with: DSDA-Doom v0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Not that bad to get. :^) Under 300 attempts. The pistol shots at the start make a 1-rocket Romero happen commonly.

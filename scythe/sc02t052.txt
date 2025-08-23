@@ -1,0 +1,14 @@
+Runner: Daniel, the NCR Veteran
+IWAD: Doom2.wad
+PWAD: Scythe.wad
+Category: Tyson
+Map: 02
+Source Port: DSDA-Doom 0.22.4, -complevel 2
+
+Kills    :   100%
+Items    :   50%
+Secrets  :   0%
+Time     :   0:52
+
+Description:
+Happy New Year 2022!!!

@@ -1,0 +1,23 @@
+              Scythe
+        Map 15: Blood Bath
+       WAD Author: Erik Alm
+------------------------------------
+           sc15o897.lmp
+           sc15o920.lmp
+           sc15o929.lmp
+
+Nomo in 0:08.97 (with strafejump)
+Nomo in 0:09.20 (without strafejump)
+Nomo in 0:09.29 (strafe40 only, no strafejump)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Thanks to doomdaniel95 for the strafejump idea, as I found the route a little easier, and, perhaps, faster (I also think it's probably useful for the secret exit route). Not certain, as my non-strafejump runs with strafe50 were never as clean as possible, as I never had a good run with a clean teleporter jump (the teleporter is one of the most annoyingly placed teleporters I've seen, it's really easy to bump into either wall). Thus, the best I did without the strafejump was 9.20 (I got three of those), but I think 9.11 or better should be possible and maybe below 9 non-TAS.
+
+Even with the strafejump, this run isn't easy to do under 9, as it requires really precise turning, positioning, and precise door/elevator runs at the end. The jump is only doable from the left side of the fence, and getting onto that side without falling off and without making any unnecessary turns or movement changes is difficult. Then, turning around from the key is itself a challenge, as I want to get the right angle to get back on the fences. Running around the building without bumping into the walls or getting on the stairs and losing movement tics is also difficult while trying to get as much strafe50 as possible, and, to top it all off, it's not too difficult to skip the elevator linedef. Prior to this I had 9.11, 9.09, 9.06, and 9.03, and finally this. I wasn't certain that I'd be fast enough this time either, as I think I start running across the elevator door a little too late, but, thankfully, this went well.
+
+Also included is a strafe40 only run with the teleporter route only in 9.29.

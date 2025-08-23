@@ -1,0 +1,36 @@
+This is a Doom .LMP - Please forward it...
+
+sc12-059.txt
+
+sc12-059.zip
+
+sc12-059.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 12 - Walk in the Park
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       0:59
+================
+
+
+Description:
+
+This map was tricky for me. I died easily, and it was difficult
+to kill most of the monsters with the rocket launcher.
+This is improvable enough, but under 1 min is still not so bad.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

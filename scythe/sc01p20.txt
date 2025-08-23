@@ -1,0 +1,14 @@
+PLAYER: :[LOL 6]:
+IWAD: FREEDOOM PHASE 2
+PWAD: SCYTHE 
+MAP: 01
+SOURCEPORT: CRISPY DOOM Ver.5.9.2
+CATEGORY: UV PACIFIST
+TIME: 20.21s
+
+The map 1 of scythe is very easy, but even if it is easy, you have to be careful as usual, the three first building may be the most
+"difficult part" of the map, especially if you aren't expecting the three imp trap. It's just a great introduction to the wad.
+
+So, this is the first demo archive that I upload, I hope I named it correctly and that you have fun watching it.
+
+I know that the time I made is not nearly the best, but I had fun playing, that's what doom is all about, fun, like any other game.

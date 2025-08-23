@@ -1,0 +1,19 @@
+              Scythe
+        Map 18: MS Futura
+       Map Author: Erik Alm
+------------------------------------
+           sc18str030.lmp
+
+Stroller in 0:30
+
+    Kills   - 24%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Pretty surprised this stroller was never completed, as it's very easy to do (took 3 tries with both soul spheres). Since that was too easy, I went for a route that skips both soul spheres, which is harder to survive (still less than 50 attempts). Important for the manc not to be on the bridge, as it's too hard to get around him with walk speed, and the run afterwards can kill me easily (really lucky I didn't die here with all the hits I was taking).

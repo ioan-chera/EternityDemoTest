@@ -1,0 +1,19 @@
+SC27NS053.TXT
+SC27NS053.LMP
+SC27NS053.ZIP
+
+Player : megasphere308
+Date : 2021-06-03
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP27 Terror
+Source port : dsda-doom v0.18.0
+Time : 0.53.97
+
+Description :
+
+Very slight improvement over 4shockblast's record.
+I played slower but I skipped the rocket launcher and the mancubus, so I got a slightly better time.
+A lot of attempts though, the way back towards the exit always makes me feel nervous :)
+
+megasphere308@gmail.com

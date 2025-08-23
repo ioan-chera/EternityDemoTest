@@ -1,0 +1,21 @@
+SC03NS034.TXT
+SC03NS034.LMP
+SC03NS034.ZIP
+
+Player : megasphere308
+Date : 2021-04-14
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP03 Up and around
+Source port : Crispy Doom v.5.8.0
+Time : 0.34.51
+
+Description :
+
+What a map... 4shockblast plays it pacifist, to avoid spawning enemies.
+I only tried a few times, but didn't get lucky with the shotgunners.
+I chose the normal way, but the map gets really crowded after the berserk.
+It's the only exit I got in this whole practice session.
+I ran too far at the end but managed to press the exit switch while being bitten by a pinkie :)
+
+megasphere308@gmail.com

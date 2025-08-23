@@ -1,0 +1,24 @@
+sc12p013.txt
+  sc12p013.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.3 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 12 - Walk in the Park (by Erik Alm)
+
+  ================
+  Kills        11%
+  Items        50%
+  Secrets       0%
+  ----------------
+  Time        0:13
+  ================
+
+  Description:
+  Oh yessss! Thanks to AdamH for both the route and leaving 13 to future generations. :)
+  I'm not ruling 12 out as impossible, but the imp is one of the most uncooperative
+  creatures across all known wads. I've cut the sec away by rushing the barons, of course.
+  A pair of cute screwed up 'almost 13s' included, as usual. :)
+
+author: dew
+e-mail: dewww@seznam.cz
+28. 08. 2009

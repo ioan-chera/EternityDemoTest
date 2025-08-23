@@ -1,0 +1,19 @@
+              Scythe
+      Map 13: Subverted Base
+       Map Author: Erik Alm
+------------------------------------
+           sc13p021.lmp
+
+Pacifist in 0:21
+
+    Kills   - 4%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: 3s below the Ronge's time, I can definitely see why no one bothered too much with this run. The grab itself is dumb, as expected, hard to get in general, and the zombiemen blocking my path from below don't help either. The rest of the run isn't a given either, though, there's lots of places to get blocked; it's particularly bad to get past the demon in the yellow key room and the monsters at the end. That single demon can behave in a lot of different ways, and I can never expect him to quickly get out of my way both on the way in and on the way out (doesn't help that the chaingunner could often distract him). The exit area monsters are even worse, as they could easily position themselves in such a way that I couldn't get past them in any way. So, 21s took awhile to get and took pretty good RNG, so I'm pretty happy with this time, although 20s is definitely possible (not sure about 19s, if that's possible, it'd require insane RNG).

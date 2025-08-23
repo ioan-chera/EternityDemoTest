@@ -1,0 +1,18 @@
+SC31NS207.TXT
+SC31NS207.LMP
+SC31NS207.ZIP
+
+Player : megasphere308
+Date : 2021-05-12
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP31 I dunno Torn
+Source port : dsda-doom v0.18.0
+Time : 2.07.54
+
+Description :
+
+A slow and "safe" strategy here... I didn't practice the BFG grab, so the last part of the map is really precarious.
+Almost died at the end, but I made it. So many attempts... never again! :)
+
+megasphere308@gmail.com

@@ -1,0 +1,15 @@
+              Scythe
+       Map 08: Garden Base
+       Map Author: Erik Alm
+------------------------------------
+           sc08o857.lmp
+
+Nomo in 0:08.57
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Awhile back I did .91 with a safer jump and didn't want to try for a Kimo style jump for some reason. I didn't release the demo because I found it stupid that it would be slower than Pacifist. It's not that hard, really, as restarting the demo is pretty quick, so I tried to take it down to a reasonable centisecond time, and .57 is good enough.

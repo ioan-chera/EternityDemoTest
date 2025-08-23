@@ -1,0 +1,19 @@
+              Scythe
+     Map 12: Walk in the Park
+       Map Author: Erik Alm
+------------------------------------
+           sc12str045.lmp
+
+Stroller in 0:45
+
+    Kills   - 34%
+    Items   - 50%
+    Secrets - 50%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: When I tried this one earlier, I couldn't make the start jump, and I was trying ideas with the glide or a boost until I realized there is one relatively small angle where the jump is possible walking. After that it was just a matter of getting the jump, everything else is pretty straightforward.

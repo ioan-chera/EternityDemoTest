@@ -1,0 +1,15 @@
+Pwad:      Scythe (scythe.wad)
+Maps:      07
+Skill:     4
+Category:  UV-Stroller
+Exe:       XDRE 2.20
+Date:      25/03/2020
+
+Time:      0:01.97
+
+Author:    almostmatt1
+Email:     almostmatt1@gmail.com
+
+Comments:  THIS IS A TOOL-ASSISTED SPEEDRUN. This demo was built frame-by-frame using XDRE 2.20. 
+
+I couldn't get 0 on Pacifist, Vita did a 0.91 with two players but I'm pretty certain it's impossible single-player. Since it was gonna be 1 second anyway, why not make it a stroller :) 

@@ -1,0 +1,22 @@
+sc01p009.txt
+  sc01p009.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.3 with Doom 2 compatibility (-complevel 2)
+
+  Scythe - map 01 - Get Going (by Erik Alm)
+
+  ==================
+  Kills        0%
+  Items        0%
+  Secrets      0%
+  ----------------
+  Time       0:09.94
+  ==================
+
+  Description:
+  Too much brain damage to find a witty comment.
+  Take a look into how2do10.zip and you'll get the idea.
+
+author: dew
+e-mail: dewww@seznam.cz
+21. 08. 2009

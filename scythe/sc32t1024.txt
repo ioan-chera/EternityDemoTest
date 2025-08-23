@@ -1,0 +1,19 @@
+              Scythe
+        Map 32: enoZ soahC
+       Map Author: Erik Alm
+------------------------------------
+           sc32t1024.lmp
+
+Tyson in 10:24
+
+    Kills   - 124%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Something I decided I'd try routing after I realized that this level has chainsaw, berserk, and tons of bullets. Wasn't too difficult to find a route, but executing it was kinda hard; trying to chainsaw the nobles at the first two fights is hard as I need to rely on good infights and not getting hit too much. The archvile fight is just a test of patience, and then I have to survive the end chaos. First exit obviously.

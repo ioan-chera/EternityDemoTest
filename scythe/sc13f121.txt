@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:		SCYTHE.WAD
+Pwad name: 	Scythe
+Maps:		13
+Skill:		4
+Category:	UV -Fast
+Exe:      	PRboom+ 2.5.1.4 cl2
+		with advanced HUD
+------------------------------------------- 
+Time:     	1:21
+-------------------------------------------
+Comments: Super fun map, one of my favorites from Scythe. Fast makes for quite a wild ride, and luck can save a lot of time with good infights.
+-------------------------------------------
+YouTube Video: https://youtu.be/8POj1Nf0-Lg
+-------------------------------------------
+Author:    	Andrea Rovenski
+Demo YouTube Page: https://www.youtube.com/@doomspeedruns
+andrea@speed.dog 
+

@@ -1,0 +1,22 @@
+Recorded using prboom-plus 2.5.1.5 with Doom II compatibility (-complevel 2)
+
+Pwad name: Scythe
+Map: 04
+Skill: 4
+Category: UV-Max
+Time: 43s
+
+Author: Starduster
+Date: 12/07/2020 (m/d/y)
+
+Comments: Revisiting the first map that I ever speedran! This is a much better demo as I've improved, but still looks ugly ^_^. 
+If I ever submit a sc04m demo again, it'll be a sub 40s run. I used Kyle McAwesome's route. From the start, I drop down
+and kill the shotgunner, get rid of imps and grab the armor. I try to pair my movement with the shotgun usage to save time. Not 
+the best movement here. Now, just pick up the shotgun and shells by the imps, and get rid of 'em one by one. Ignore the lost souls
+that spawn in after grabbing the key, they don't count as kills for max runs. yeah, this mostly consists of taking enemies out with
+the shotgun as you encounter them. Once again, sub 40s is within my reach because of how ugly my movement was in the outdoor area. 
+I'm proud of this run because it made me realize that I have improved at maxing, that can make watchable max demos, as well as 
+tackle other maps with more confidence now. Thanks for watching if you did <3 it was fun to revisit the map.
+
+My youtube: https://www.youtube.com/channel/UCoUFtKufACAlARK1laDB-Fg?sub_confirmation=1
+Speed demos archive: https://dsdarchive.com/

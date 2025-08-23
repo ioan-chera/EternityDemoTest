@@ -1,0 +1,38 @@
+This is a Doom .LMP - Please forward it...
+
+sc08-119.txt
+
+sc08-119.zip
+
+sc08-119.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 8 - Garden Base
+
+
+================
+Kills      100%
+Items       75%
+Secrets    100%
+----------------
+Time       1:19
+================
+
+
+Description:
+
+This run is average in a lot of points (My control, monsters'
+behavior, and Rockets' behavior). Only occasionally, all imps 
+in the soul sphere's secret were killed by mancubi. It happened 
+a few times, but I couldn't get good time maybe because rockets' 
+behavior wasn't good.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

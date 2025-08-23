@@ -1,0 +1,19 @@
+              Scythe
+        Map 18: MS Futura
+       Map Author: Erik Alm
+------------------------------------
+           sc18n697.lmp
+
+NM-Speed 0:06.97
+
+    Kills   - 4%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: 499 attempts. Faster than UV-Speed. Slowish glide, so I strafe50ed after teleing to the end and just barely made it. Instant glide happened every once in a while with my new technique, so I think 5 seconds is possible nomo, might try that another time. Jump is still annoying, though, especially with manc in the way.

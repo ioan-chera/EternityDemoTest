@@ -1,0 +1,25 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       18 - M/S Futura
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      3:57
+
+Comments:  My 5:00 was too slow at the end, so I gave it
+           another try. Got this rather quickly. Lost a few
+           seconds here too, because the spider died a bit
+           too late. Those one-bullet-kills are funny :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+20.12.2004

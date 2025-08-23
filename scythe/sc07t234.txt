@@ -1,0 +1,15 @@
+Pwad: scythe.wad   
+Map:      7
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      2:34
+
+-complevel 2
+
+Author:	   j4rio
+
+
+Yeah, I'm not pimping this one out. Sorry shock :^)
+Could maybe go below 2 if you feel like it's your
+happy hour.

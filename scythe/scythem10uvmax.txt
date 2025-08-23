@@ -1,0 +1,6 @@
+Scythe
+Map 10: The Lords
+UV-Max in 1:01
+-complevel 2
+prboom-plus v2.5.1.4
+Ling

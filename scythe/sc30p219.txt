@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom2.wad
+Pwad:      scythe
+Map:       MAP30
+Skill:     4
+Category:  Pacifist
+Exe:       dsda-doom 0.25.6 -complevel 2
+
+Time:      2:19.49
+
+Author:    Bredd
+
+Comments:

@@ -1,0 +1,24 @@
+ sc28-027.LMP
+  sc28-027.TXT - UV Speed/Pacifist
+
+  Recorded using Doom2 Version 1.9
+
+  Scythe - Map28 - Run from It
+
+  Kills       40%
+  Items        0%
+  Secrets      0%  and Time   0:27
+                             ------
+  Description :)
+  
+  I wanted to do this for a long time and
+  Artem's nm100s run reminded me to do it
+  Unlike my 28s NM run, I used sr50 here
+  and it saved a little more than 1 second
+
+  The run is not too close to 0:26 but I will
+  not be trying it anyway
+
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

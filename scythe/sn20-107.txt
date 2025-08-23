@@ -1,0 +1,27 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       20 - The Starport
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      63%
+Items:      75%
+Secrets:   100%
+
+Time:      1:07
+
+Comments:  The start and finish could be better. The rest is
+           not bad. Especially behind the red door things went
+           very well. The jump to the blue key isn't a big
+           problem, when the arachnotron is dead. And the cybie
+           isn't a problem at all.
+           I want it under a minute.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+28.06.2005

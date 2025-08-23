@@ -1,0 +1,36 @@
+This is a Doom .LMP - Please forward it...
+
+sc18-110.txt
+
+sc18-110.zip
+
+sc18-110.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 18 - M/S Futura
+
+
+================
+Kills      100%
+Items        0%
+Secrets    100%
+----------------
+Time       1:10
+================
+
+
+Description:
+
+I didn't need any spheres. However, a lot of luck was necessary for
+causing monster-infighting between the spider and a baron, killing 
+the spider with telefrag, and so on.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

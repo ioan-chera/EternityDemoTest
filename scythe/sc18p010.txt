@@ -1,0 +1,25 @@
+For the Doom 2 megawad "Scythe" by Erik Alm (with guest mapper Kim "Torn" Bach)
+
+File required: Scythe.wad
+
+idgames database link: http://www.doomworld.com/idgames/index.php?id=11944
+Location in archive: /idgames/levels/doom2/megawads/scythe.zip
+
+Map18: MS Futura
+
+Skill: UV Speed/Pacifist
+
+Kills         0%
+Items         0%
+Secrets       0% and Time 0:10
+
+This is a Doom2.exe-format/compat demo (recorded with a test version of glboom-plus 2.4.7.1 and -complevel 2).
+PrBoom-plus site: http://sourceforge.net/projects/prboom-plus
+Latest test version: http://prboom-plus.sourceforge.net/history.html
+
+Description: Two tricks, neither easy to execute smoothly and quickly, but the second is definitely the more awkward. The glide is quite easy, while the step jump doesn't allow much scope for error. I pick up the megarmor not because I think I need it, but because running over to that part of the map makes the monsters less likely to get in the way while I am attempting the jump.
+
+My next best time was 0:15 (been trying on and off over the last few days), so I was quite pleased to get this 0:10, especially as I don't need to feel guilty about beating Adam Hegyi's 0:15 from the demopack (done by the intended route) by just one lousy second or whatever.
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com

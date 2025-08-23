@@ -1,0 +1,21 @@
+              Scythe
+         Map 24: Hatred
+       Map Author: Erik Alm
+------------------------------------
+           sc24n021.lmp
+	   sc24n024.lmp
+	   sc24n027.lmp
+
+NM-Speed in 0:21 (Also Pacifist)
+
+    Kills   - 2%
+    Items   - 16%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: First I took the soul sphere before the lift because I thought it was easier (I also took the soul sphere after yellow key). After trying the pacifist route, I found it was doable, so I ended up going for it, and on my first exit with it, I got scared and picked up yellow key soul sphere even though I didn't need to. :D Of course, I had to improve it again, happy I matched Pacifist time, as most runs that I did practice on ended up at 22 seconds. Previous exits included.

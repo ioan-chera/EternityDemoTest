@@ -1,0 +1,8 @@
+File:           scythe.wad
+Map:            04
+Category:       UV-Max
+Time:           1:09.91
+Port:           dsda-doom 0.25.2 (cl2)
+
+Player:         MFG38
+Comments:       ---

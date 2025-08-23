@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com
+
+Iwad: DOOM2.WAD
+Pwad: SCYTHE.WAD
+Map: 26
+Skill: 5 (Nightmare!)
+Category: NM-Speed
+Exe: Woof v.11.3.0 -complevel 2
+
+Time: 0:55.06 sec.
+Player: xX_Lol6_Xx
+
+Notes: No audio whatsoever, was listening to some music and got inspired to do this.
+Don't try it, not worth it.

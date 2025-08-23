@@ -1,0 +1,12 @@
+==================================================
+Date     : 06-11-22
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality + Items
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP17 - Book Lords
+Time     : 3:10
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA

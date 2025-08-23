@@ -1,0 +1,30 @@
+              Scythe
+          Map 22: Despair
+       Map Author: Erik Alm
+------------------------------------
+           sc22o018.lmp
+
+Nomo in 0:18.91
+
+Recorded with: DSDA-Doom v0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Let me get into why this map is fucking horseshit for nomo real quick:
+
+- The start staircase; varies tics to first door by about 0.09 or so alone. Also, fun torch placement, it's not the only one, and later it gets even more fun, as at least in this case, you can take a wide turn around it, but still, can block you.
+- Door right in front of staircase; completely impossible to walk back from, timing under it is weird.
+- Sharp angle to next switch that is terrible to get.
+- Sharp angle from blue key to drop down to blue door.
+- Two giant pillars that really narrow a clean path to blue door.
+- The bump to the right of the blue door, I swear to god, how was it ever a good idea to shove that there, that is fucking atrocious, it really narrows your angle to get to the blue door in time, and it makes it horrible to try to enter into the door since you have to go diagonally, and you can't run back from it too diagonally because that bump will block you on the way back in.
+- Another "fun" staircase; normal route means rounding it completely (horrendous), rocket launcher requires threading through it (also horrendous), in both cases, it's basically being on rails. I completely stopped strafe50ing here because it was only slowing me down. The torch here is extra fun; if you thread too far left, you get stuck on it completely. Right wall is also easy to hit. Good shit.
+- Rocket boost that is needed to lose some health for ending; I never die to it, but not seeing shit sure is fun. :) :) :)
+- Running through the lowering wall at red key too early means bumping the ceiling.
+- Need to slow down a bit to go over next wall, or it will be too high to cross as well.
+- Having to inch around that soul sphere right in the fucking middle in front of last door because picking it up means having too much health for the death slide.
+- The giant fucking pillar in the end room blocks the death slide in any natural angle. The fastest angle is extremely narrow and hard to get; going even a little bit too far right means losing too much time to get 18, too far left means bumping that fucking pillar. A run that is fast enough there for 18 could get 18.8x or could be 19.2x and all that is different is that angle.
+
+Hope that gives you at least a taste of how it feels to run this map. Oh, also, I got 19.00 here once, so fuck this fucking run. Way too many attempts spent here.

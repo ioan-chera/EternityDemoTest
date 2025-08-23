@@ -1,0 +1,10 @@
+
+Player:		  Eric Claus
+Sourceport:       Prboom+ 2.5.1.5 (-complevel 2)
+IWAD:             DOOM2
+PWAD:             Scythe
+Map:              Map 1: "Get Going"
+Category:         UV Speed (Includes -fast flag enabled as well)
+Time:		  0:15.49
+
+Description:  Originally a shot at a category this didn't meet requirements for (originally was a UV Fast attempt but I missed the part about it needing to be a UV Max run as well, whoops!).  At the advice of others I have modified this file to categorize this as UV Speed with -fast enabled.  Very Short but strangely fun it can be a pain when the RNG goes bad for you and the hitscanners chunk your health off rapid fire style.  Strangely though I find the idea of doing a UV Speed run with -fast flag an interesting thing so I might do this type of thing again in the future for fun.

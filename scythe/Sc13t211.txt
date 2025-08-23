@@ -1,0 +1,27 @@
+This is a .LMP Entry for Eternal Doom - Please forward it...
+
+SC13t211.TXT
+
+ SC13t211.ZIP
+
+  SC13t211.LMP - Ultra Violence Tyson
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File SCYTHE.WAD -PlayDemo with Version 1.9
+
+  SCYTHE - Level 13 
+    
+  Kills    100%
+  (Items   100%)          
+  Secrets   50%  and Time  2:11 
+                        
+ 
+  Description: 
+    
+  I wanted to make this map in more risky way. The demo is ugly but
+  I managed to cut off a good portion of time from my previous 
+  attempt. :)  
+  
+  
+  Adolf "Gusta" Vojta
+  hita@seznam.cz

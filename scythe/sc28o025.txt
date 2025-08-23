@@ -1,0 +1,15 @@
+              Scythe
+        Map 28: Run from It
+       WAD Author: Erik Alm
+------------------------------------
+           sc28o025.lmp
+
+Nomo in 0:25.89
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Another run I knew for a while was possible but didn't want to bother with 100 health RJ. It's not a hard RJ, but 100 health makes it tougher. It's not too precise anyway, but 25 requires a somewhat clean run, which is tough with that red screen after RJ messing movement. Still a small bump, dunno about 24, I got it in practice in an episode run with RJ, but there I start with a rocket launcher, and it took a lot of effort to get it even with rerecords. So, I'm probably happy with 25s.

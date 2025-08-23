@@ -1,0 +1,22 @@
+sc15s008.txt
+  sc01s008.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.5 with Doom 2 compatibility (-complevel 2)
+
+  Scythe - map 15 (secret exit) - Blood Bath (by Erik Alm)
+
+  ==================
+  Kills         3%
+  Items         0%
+  Secrets       0%
+  ----------------
+  Time       0:08.86
+  ==================
+
+  Description:
+  It took a bit of grinding, but it wasn't that hard or tight in the end.
+  Certainly easier than the normal exit.
+
+author: dew
+e-mail: dewww@seznam.cz
+11. 12. 2009

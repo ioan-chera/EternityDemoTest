@@ -1,0 +1,36 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      27 - "Terror"
+Skill:     5 - NightMare!
+Category:  Speed
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:10
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     1%
+           Items    20%
+           Secrets   0%
+
+Comments:
+
+Adam Hegyi wrote (about his 0:12 NM run):
+"There is a faster route here but I never really got the hang
+ of that window jump."
+
+The jump is a bit more difficult in NM than in UV, actually. 
+The two demons (who can be very frustrating to run around, BTW) 
+can easily block your jump, so you just have to hope they get 
+hit by the imps or just run in another direction or something. :-)
+
+The rest is about as easy as the UV run. Sometimes you get hit 
+after having teleported (happened here), which may cause you 
+to lose your direction slightly (happened here), but it's not 
+a big problem.
+
+Kristian Ronge
+
+zuckuss@gmail.com

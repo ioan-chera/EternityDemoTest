@@ -1,0 +1,18 @@
+SC30NS151.TXT
+SC30NS151.LMP
+SC30NS151.ZIP
+
+Player : megasphere308
+Date : 2021-06-17
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP30 Fire and ice
+Source port : dsda-doom v0.18.0
+Time : 1.51.86
+
+Description :
+
+A pretty long grind, since I always got pushed by the cyber or blocked by the barons, or didn't reach the berserk.
+SAV's route has been really helpful.
+
+megasphere308@gmail.com

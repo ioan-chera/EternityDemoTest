@@ -1,0 +1,45 @@
+This is a Doom LMP Entry
+
+SS29-255.ZIP
+
+	SS29-255.TXT
+	SS29-255.LMP -- Nightmare Secrets
+
+Recorded using GLBoom-Plus v2.5.1.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+1152x864, gamma level 4, capped framerate
+HUD used (timer)
+
+Scythe - Level 29 - Hell on Earth
+
+=---+------+---=
+Kills        55%
+Items        50%
+Secrets     100%
+
+TIME        2:55.66	Old record: 5:04 by 4shockblast
+=---+------+---=
+			
+Demo entry #156.
+
+Description:
+
+This city is loaded with nastiest kinds of baddies (gunners, revenants, archies
+and cyberdemons). Also, that dogawful combination of 5 sergeants + 2 mancubi +
+a blockmap bug + a noclip bug royally sucks. Even with ideal dodging and aiming
+it's easy to lose about 100/100 there.
+
+Still, this action-filled HR2-style masterpiece is great fun to race through on
+skill 5. Unlike Shock, I enter the northwestern building through an alternate
+blue door. Also, I skip the second megaarmor because I don't want to release one
+extra vile.
+
+I only spent 4 hours getting my first exit, 3:00.14. But reaching a better time
+was a lot tougher, and I really like the way my final attempt turned out. Enjoy
+the extreme shitloads of close calls near the end :)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 23, 2017, 18:41:23

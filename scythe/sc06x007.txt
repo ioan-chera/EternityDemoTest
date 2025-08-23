@@ -1,0 +1,16 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe.wad	
+Pwad name: Scythe
+Map:       MAP07
+Skill:     4
+Category:  Nomonsters TAS
+Exe:       XDRE2, playback with PRBoom-plus v2.5.1.4cl2.
+
+Time:      7.94
+
+Author:    MD922
+
+Comments:  This needs to be in every Scythe TAS. Please.
+

@@ -1,0 +1,23 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       14 - Power Outage
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      2:46
+
+Comments:  First exit under 3 minutes. And first time the
+           barrels exploded so nicely.
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+23.12.2004

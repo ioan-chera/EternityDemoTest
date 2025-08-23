@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD:		scythe.wad
+PWAD Name:	Scythe
+Map:		02
+Skill:		4
+Category:	UV-Fast
+EXE:      	dsda-doom-0.19.7 -complevel 2	
+Runner:		Hackfraud	
+Time:		0:57
+-------------------------------------------
+Comments:
+
+This run is pretty sloppy because I don't know what I'm doing.

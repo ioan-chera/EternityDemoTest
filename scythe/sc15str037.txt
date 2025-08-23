@@ -1,0 +1,19 @@
+              Scythe
+        Map 15: Blood Bath
+       Map Author: Erik Alm
+------------------------------------
+           sc15str037.lmp
+
+Stroller in 0:37
+
+    Kills   - 30%
+    Items   - 0%
+    Secrets - 33%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Annoying run because of the ending and archvile, so I took that part pretty slowly. Second exit because on the first I got I was testing some routing that didn't really work too well, and I didn't want to keep that run. Still only a second faster than that, the ending could go much quicker with more suicidal strats. :D

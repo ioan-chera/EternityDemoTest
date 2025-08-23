@@ -1,0 +1,15 @@
+              Scythe
+     Map 12: Walk in the Park
+       Map Author: Erik Alm
+------------------------------------
+           sc12o011.lmp
+
+Nomo in 0:11.89
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: 11 was surprisingly more difficult than I thought it would be, though nothing crazy. I had a 12.00 rather early on, but 11 just didn't happen for a while.

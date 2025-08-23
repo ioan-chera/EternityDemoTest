@@ -1,0 +1,24 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       08 - Garden Base
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.6
+
+Kills:     100%
+Items:      ??%
+Secrets:   100%
+
+Time:      2:24
+
+Comments:  2nd exit of today ... 1st one was little slower.
+           Btw. This beats Method's never released and perhaps forever lost demo
+           by full "2" seconds :) 
+
+
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+
+07.09.2006

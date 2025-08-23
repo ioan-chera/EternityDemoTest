@@ -1,0 +1,22 @@
+WAD: Scythe
+MAP: MAP02: Punchline
+Time: 0:09.83
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 23, 2013
+
+The jump to the exit platform from the front is really not hard if you
+use SR50 and angle yourself properly. However, many times I would bump
+into the exit switch and fall into the Nukage after making it onto the
+corner of the platform (bouncing off the switch). I needed to make the
+jump more to the left of the switch so I wouldn't fall.
+
+This is a quick 15 minute demo; really it could be 8, but I don't have
+a great control setup for quickly turning 180º. I got 10.43 twice and
+decided to keep playing; I knew it could be under 10. After that, I got
+10.11 and then this.
+
+Good luck to anybody who wants to try for 8, shouldn't be very hard and
+probably 7 is doable too with excellent running. Enjoy!
+
+--Doomdaniel95

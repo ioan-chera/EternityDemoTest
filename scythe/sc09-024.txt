@@ -1,0 +1,23 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       09 - Computer Storage
+Skill:     4
+Category:  UV Speed/Pacifist
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     13%
+Items:      0%
+Secrets:    0%
+
+Time:      0:24
+
+Comments:  Now I'm happy ... after hours and hours full of
+           pain, frustration and bad luck :)
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+23.09.2004

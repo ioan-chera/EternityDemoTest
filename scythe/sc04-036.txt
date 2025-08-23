@@ -1,0 +1,17 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      SCYTHE.WAD
+Map:       MAP04
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.26 beta -complevel 2
+Attempts:  574
+
+Time:      0:36.71
+
+Author:    kmc
+
+Comments:
+Same imp survived 2 shots as in my 0:37 :(

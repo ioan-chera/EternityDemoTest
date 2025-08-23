@@ -1,0 +1,19 @@
+              Scythe
+        Map 15: Blood Bath
+       Map Author: Erik Alm
+------------------------------------
+           sc15p980.lmp
+
+Pacifist in 0:09.80
+
+    Kills   - 4%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: The last feasibly beatable UV-Speed IL from sc_lmps finally beaten! I stated attempts for this one two months ago, so I guess I kind of see why this hasn't been done before, as there is a lot of luck involved in getting 9s. Of course, I didn't attempt it every day in that time to avoid going insane, instead attempting it every once in a while to test my luck. A few minor changes from AdamH's route: first, instead of quickstarting my turn (which I can't do in PrBoom+), I run forward at the start, which caused the demon to move exactly the same every time (the only consistent part of the run). Then, I take a wider turn for the teleporter in order to avoid bumping the wall. Finally, I shoot at the end to manipulate the monsters to the right, which I think was more consistent and faster than not shooting. Other than that, this is just dumb luck; gotta hope to get past the shotgun guys at the yellow key, then the shotgun guys on the floor of the area past the lion barrier, then the exit monsters. The archviles at the end were particularly obnoxious; a number of runs ended up low 10s because they blocked me too much. Happy to get this luckfest out of the way. :)

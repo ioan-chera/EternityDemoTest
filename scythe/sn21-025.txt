@@ -1,0 +1,27 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       21 - Solitude
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      50%
+Items:      33%
+Secrets:   100%
+
+Time:      0:25
+
+Comments:  Damn hard!
+           At first I used the rocket launcher to kill
+           the monsters at the yellow key/door.
+           But Erik had shown bravely that it is possible
+           to rush to the key even in Nightmare.
+           This saved 7 seconds :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+16.10.2004

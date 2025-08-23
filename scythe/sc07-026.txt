@@ -1,0 +1,19 @@
+              Scythe
+          Map 07: Deadly
+       Map Author: Erik Alm
+------------------------------------
+           sc07-026.lmp
+
+UV-Max in 0:26
+
+    Kills   - 100%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Not too easy, biggest issues as Vile noted are the telefrags (particularly the last one as the mancubus I want to telefrag is usually uncooperative) and the arachs showing up at the end. This time, I had pretty good mancs as I didn't need to use any rockets beyond the ones I fired while running around the outside area, and the arachs were all on one side for some reason, which I've never seen before. As a result they almost got in the way of the RJ, but I managed to get good luck overall and get the 26.

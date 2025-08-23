@@ -1,0 +1,19 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28f030.lmp
+
+UV -fast in 0:30
+
+    Kills   - 81%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Fuck this run. Easily my least favorite map 28 run I did. Not sure if I was just having bad luck for a long period of time, but this felt much much worse than max. Nearly everything is as luck-based as in max or worse. The lost souls become a massive pain in the ass in this one compared to max; I get blocked by them at some point at the start on the majority of runs. Also, a lost soul getting in the way of the rockets I fire at the chaingunners is no longer just a funny occasional occurrence; it's common enough to become a serious nuisance. The imp is still often out of my way, and the demons become much worse on -fast. For one, I am no longer able to rocket them as they move too fast, but SSGing them is also annoying, as hitting a fast demon while straferunning is not easy. In this run, I took that part a bit slow, which nearly caused me to fail 30s at the end. The only part that is less luck-based than in -fast is the revenant; he stands still on -fast, making the backwards BFG much more likely to hit (but it still has a chance of not killing him). 29s should still be possible with everything done perfectly, as there's no reason this should be slower than max, but this was frustrating enough to get.

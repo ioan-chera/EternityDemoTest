@@ -1,0 +1,15 @@
+For http://dsdarchive.com/
+
+Player: TomatoTom
+IWAD: doom2.wad
+PWAD: scythe.wad
+Map: 13
+Skill: 4
+Category: UV-Max
+Sourceport: prboom v2.5.1.7
+
+Time: 1:04.77
+Comments: Very solid run in my opinion. sub 1 is possible but you need perfect RNG for that to happen. The map is fun apart from a few demons not teleporting quick enough.
+	  It can get very annoying as it happens very often. Which is why I waited for a second as I thought one more demon was gonna appear. At the exit, I yolo the switch
+	  as my pb was 1:05 and I noticed the timer hit 1:04 so I just ended it. I had no idea that I killed the baron or not. It died 4 or 5 frames eariler, so very close. 
+	  ggs!  

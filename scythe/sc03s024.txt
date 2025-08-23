@@ -1,0 +1,19 @@
+              Scythe
+       Map 03: Up and Around
+       Map Author: Erik Alm
+------------------------------------
+           sc03s024.lmp
+
+NM100s in 0:24 (Also Pacifist)
+
+    Kills   - 25%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Another first exit NM100, beating the last remaining non-trivial sc_lmps record (the leftover runs are maps 7 and 23, both trivially optimal since they're so short). Not an easy one to survive on the pacifist strat; usually, the run dies before leaving the yellow key room and sometimes before even reaching the switch to open the yellow key. Not a cakewalk afterwards either; after the berserk, it certainly becomes much easier, but it's possible to get super unlucky with the demons or shotgun guys and die anyway (or lose more time). Not a great time, could be as low as the UV record as I got blocked pretty badly leading up to the yellow key. The rest of the run is very lucky, though; monsters didn't bother me at all, and, given the low survival rate, I can't be bothered optimizing this. :P

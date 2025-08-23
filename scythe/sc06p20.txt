@@ -1,0 +1,23 @@
+Doomed Speed Demos Archive
+http://dsdarchive.com/
+____________________________________________
+
+Pwad:	      scythe.wad
+Maps:	      06
+Skill:        4
+Complevel:    2  
+Category:     Pacifist
+Exe:          dsda-doom 0.24.1
+Time:         20.54
+_____________________________________________
+
+demo date:    12/20/2022
+_____________________________________________
+
+comments:     I suck at the jump, the spectres are not bros, and I died to the last noble before the exit at about 14-18 about 5 times in attempts. 
+              Can be lower with a lucky yeet through the spectres.
+              1614 Attempts
+
+runner:       kvothesixstring
+twitch:       www.twitch.tv/kvothesixstring
+face:         -_____-

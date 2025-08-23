@@ -1,0 +1,18 @@
+SC27NS046.TXT
+SC27NS046.LMP
+SC27NS046.ZIP
+
+Player : megasphere308
+Date : 2021-06-05
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP27 Terror
+Source port : dsda-doom v0.18.0
+Time : 0.46.83
+
+Description :
+
+Using 4shock's new route :)
+Definitely a pain to get the jump.
+
+megasphere308@gmail.com

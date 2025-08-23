@@ -1,0 +1,18 @@
+
+Recorded using glboom-plus 2.5.1.4 with Doom II compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 15
+Skill: UV
+Category: Tyson
+Time: 5:41
+
+Author:   Kyle McAwesome
+Date: 12/13/2017
+
+Comments:
+My previous demo in 8:53 was an embarrassing and poorly routed filler from 6 years ago, so I wanted to improve it a little bit.  For some reason I played extremely passively at the start (saving bullets I guess), despite ample health, and I waste tons of time running in circles trying to make the AV and arachnotrons infight.  The comments in that demo make it seem it was hard, but its actually a very easy and fun tyson.  I might try to push it down more in the future (there's still a lot of room for improvement), as this is just a second exit.  
+
+I end up shooting the arachnotrons near the end, but the strat I was trying for was to distract them using the imps behind the hell knight.  Unfortunately they had wandered off somewhere...

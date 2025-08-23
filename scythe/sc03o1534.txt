@@ -1,0 +1,11 @@
+Port: Crispy Doom v5.9.1
+WAD: Scythe.WAD
+Category: NoMonsters
+Skill: 4
+Map: Map03
+Date: 06/10/2020
+
+Time: O:15.34
+
+Comments: I don't know why but I kept struggling at getting a clean run towards the first switch during the start, so this took me a good 15 minutes to beat. 
+Otherwise run wasn't that hard, just needed a bit of clean movement, it's pretty beatable by a few tics due to my somewhat late press at the yellow pillars.

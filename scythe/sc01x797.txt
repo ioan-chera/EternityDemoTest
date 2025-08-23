@@ -1,0 +1,16 @@
+Author: alps
+Date: 18 oct 2020
+Type: Tool assisted speedrun
+Built with: XDRE 2.20 (-complevel 2)
+Building time: 2 hours, 11 minutes
+Category: Ultra-Violence Speedrun (UV-Speed)
+
+Comments:
+
+i did exit room better than vita with little boost off zombiemen too. otherwise this wouldn't really be a 7 since i got
+bars at 5.09
+
+vita got bars at 4.91 so if you go off counting on that, you could only lose max 4 tics for 7.97 which means getting bars
+at least 5.03 however i saved 2 tics in the exit room which allowed for 7.97 with bars as slow as 5.09, still i think i
+could take it lower but i dont really need to, if you combine this exit room with 4.89 bars you could get as low as 7.77,
+anyways second person to get 7 sec on sc01uv?

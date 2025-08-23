@@ -1,0 +1,13 @@
+==================================================
+Date     : 21-03-23
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality + Items
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP18 - MS Futura
+Time     : 1:33
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA
+           If I grinded for longer and/or was luckier, would have sub 1:30 but this took nearly 5000 attempts, so I'm done with the map. I still didn't get the Mancubus and Arachnotron in the building to infight, but at least I made that very difficult SR50 jump quite efficiently. Shout out to Kyle McAwesome's 45 second UV Max demo for the inspiration for that manoeuvre, which was also suggested on stream by Megasphere. 

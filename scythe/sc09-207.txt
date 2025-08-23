@@ -1,0 +1,12 @@
+==================================================
+Date     : 23-02-2021
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality + Items
+Engine   : prboom-plus-2.5.1.4 Complevel 2 + Advanced HUD
+Map      : MAP09 - Computer Storage
+Time     : 2:07
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA

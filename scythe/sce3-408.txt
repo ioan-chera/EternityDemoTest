@@ -1,0 +1,33 @@
+Runner: Zero-Master
+Date: 2016-08-18 
+WAD: SCYTHE.wad
+Category: UV-Speed
+Map: Episode 3 (21-30)
+Source Port: Competition Doom v2.0.3.2
+Time: 4:08 (04:13.14)
+	
+Map	Time
+21	00:12
+22	00:32
+23	00:04
+24	00:37
+25	00:13
+26	00:45
+27	00:14
+28	00:29
+29	00:26
+30	00:36
+
+Description:
+2 second improvement.
+
+Only attempt to make it past map 22! (I died 2 times on 22 I think)
+I will admit I got quite lucky here, map 23 and 29 arch-viles were really good.
+I am lazy with resetting on map 21 and 22 with bad times so they are decent at most.
+map 24 went ok, map 25 I didn't expect the shotgun pickup which cost me a second, not
+sure if it cost me 2 seconds. I was supposed to pick it up on the start of map 24, but I forgot about it.
+map 26 was bad, terrible start and not a good ending either.
+map 27 the arch-vile cost me a second, still ok time, 28 was ok for me, 29 was very good and 30 a bit slow I guess.
+
+Hopefully this will motivate 4shockblast to get under 4 minutes :)
+

@@ -1,0 +1,20 @@
+WAD: Scythe
+Map: Episode 3
+Skill: 4
+Category: Pacifist
+Exe: Dsda-Doom 0.28.1
+Time: 12:19
+
+Author: 	Kinetic
+Demo Date:	Novemember 17th, 2024
+Attempts:       101
+Practice:	30 mins
+Grind:		3 hr 22 min
+Goal:           12:19
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+We were discussing the possibility of a Scythe Pacifist D2All after seeing Avey post their e2 pacifist run, so the first step to getting to that point is to do e3 pacifist, and here it is done. Credits to bredd and 4shock for figuring out a relatively consistent way to do Map30. I don't do the M27 strafe jump at the start cuz I'm bad at it. I think that this is an easy enough run to incorporate into a D2All, so who knows when the d2all will be done.

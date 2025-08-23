@@ -1,0 +1,21 @@
+              Scythe
+       Map 29: Hell on Earth
+       Map Author: Erik Alm
+------------------------------------
+           sc29s224.lmp
+
+NM100 in 2:24
+
+    Kills   - 38%
+    Items   - 75%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Sorry for shitting over your solid improvement with a dumb impse glide, SAV. ;)
+
+I haven't been playing Doom much lately and have limited interest in optimization; this could go under 2:00. This is mostly a Christmas present in honor of having one of my demos crushed by SAV. :)

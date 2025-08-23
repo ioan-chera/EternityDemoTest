@@ -1,0 +1,27 @@
+Pwad:      scythe.wad (Scythe by Erik Alm)
+Map:       08 (Garden Base)
+Category:  UV Max
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.2 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      1:12
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+tatsurd's 1:19 is pretty strong, I couldn't get close despite "rockets' behavior wasn't good"
+for him. :) So I included the uv-speed jump into the route, which breaks the intended order
+and allows for some wonderful infighting. It's much harder than it looks, though.
+
+I make the jump just about once in ten, then it gets pretty dangerous standing between a HK
+and a manco. This run is actually lucky, because Fatso got busy with imps and I just hoped
+the HKs would join the fun without me there to goad them. When I got back to them, I couldn't
+believe the slaughter, so I dawdled about needlessly. I got this exit after a pair of 1:16's
+and some hard drill, so I'm content with the time, although breaking 1:10 is surely possible.
+
+
+Recorded:  September 11th, 2011

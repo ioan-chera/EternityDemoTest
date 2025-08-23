@@ -1,0 +1,15 @@
+              Scythe
+       Map 05: Slimy Tunnels
+       Map Author: Erik Alm
+------------------------------------
+           sc01o010.lmp
+
+Nomo in 0:10.94
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: First improvement over old nomo time was 11.31, and I thought it'd be awhile before I got a 10s demo (if at all). Then, this happens on the next attempt. Very clean turns in this one, went very well.

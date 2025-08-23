@@ -1,0 +1,15 @@
+WAD: Scythe
+MAP: MAP08: Garden Base
+Time: 0:22.69
+Added Engine: prboom-plus v2.5.1.3
+Category: nomo 100
+Recorded on: August 25, 2017
+-complevel 2
+
+Fun map for nomo 100, and it forces a slightly longer route. I got high 23 within like 2 minutes of running, so I figured I should try for 22. 
+That took a little more work, but still not a long time. However, I think this is the best I can do. I honestly expected 22.9x to be my successful
+22, but I got 22.69 instead. 
+
+I like how easy the KG is on this map, really makes the run nice and simple.
+
+--Doomdaniel95

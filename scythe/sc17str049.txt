@@ -1,0 +1,19 @@
+              Scythe
+        Map 17: Book Lords
+       Map Author: Erik Alm
+------------------------------------
+          sc17str049.lmp
+
+Stroller in 0:49
+
+    Kills   - 8%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Another one that is quite simple, 7 attempts. Again, not sure why I skipped it before. :)

@@ -1,0 +1,20 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc20-2974.lmp
+
+UV-Max in 0:29.74.
+
+    Kills   - 81%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: DSDA-Doom 0.27.5 -complevel 2
+Skill level: Ultra-Violence
+Author: 4shockblast
+WAD: scythe.wad
+Category: UV-Max
+Time: 0:29.74
+
+Comments: Took under 100 attempts. Tried a bit more but w/e, got other things to focus on. Intuitively, I think 28 is possible, but it would be quite hard, I think. I think this took a lot longer back in the day, didn't track attempts back then, but at least a couple hours I think. :D

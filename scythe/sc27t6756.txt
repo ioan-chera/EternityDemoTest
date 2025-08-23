@@ -1,0 +1,41 @@
+Pwad: scythe.wad   
+Map:      27
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.3
+Time:      1:07:56
+
+-complevel 2
+
+Author:	   j4rio
+
+
+I wasted quite a while with this last year, then eventually abandoned it, because
+the whole thing was a little too barf for my tastes. 
+
+Back then, I had a ridiculous route here that involved bullet harvesting in horrible
+spots, fisting the lone cyber in a hallway immediately after it's revealed to preserve
+those precious viles and chaingunners, taking out those 4 barons guarding BK head-on 
+inside that tiny room and in the end using up 1200+ bullets for cyber triplets. Final 
+time would be most likely over 2 hours. As a bonus, the map has no armor.
+
+Fast-forward to today. I haven't touched doom in months and just randomly figured I 
+could do something prosperous. The bad news is I suck horribly now. The good news, 
+however, is that my cheese detector is still in sufficient shape. Instead of all that 
+bullshit mentioned above, I had an heureka moment that basically cheesed the entire
+map. No bullet economy this time whatsoever. Instead of coupling viles with chainers,
+I noticed a vile revealed behind blue bars once you collect BK could cause serious
+damage. Making it infight cybers is easy thanks to the riot shield windowpane at
+the starting position. Then I thought I could try luring some more viles straight to 
+the cyber trio, becuase the entire map is freely traversible for them. I chose the
+duo guarding RK, because they are relatively close to the starting position through
+which I make them angry at cybers. This luring process creates an additional problem
+regarding corpses of all other inhabitants. I have to make sure everything dies off
+the main path of those viles, otherwise you run into uncomfortable situations. 
+
+The whole section once I unleashed those viles at cybers went laughably bad. One vile 
+has immobilised itself somehow, the other two decided to run up the stairs up to cybs
+and suicide themselves. I considered aborting the attempt on the spot, but figured I'd 
+ride this one out until the end. Against all odds, it did work out. Funnily enough, 
+this effortless cheese is notably faster than my previous heroic route.
+Work smarter, not harder. 

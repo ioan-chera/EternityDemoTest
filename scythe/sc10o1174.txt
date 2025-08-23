@@ -1,0 +1,15 @@
+              Scythe
+         Map 10: The Lords
+       Map Author: Erik Alm
+------------------------------------
+           sc10o1174.lmp
+
+Nomo in 0:11.74
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Terrible nomo. I couldn't get under 11.80 for the longest time until I realized I was just getting fucked by RNG with how fast the Romero dies. After doing the shots at the start, took like a few minutes for this. Still improvable but fuck this run. Just wanted under Shon's 11.86 (not uploaded), which only matched my old run on DSDA, but still rather beat all the cheated runs. :^)

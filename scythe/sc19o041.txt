@@ -1,0 +1,17 @@
+              Scythe
+          Map 19: 3000 AD
+       Map Author: Erik Alm
+------------------------------------
+           sc19o041.lmp
+
+Nomo in 0:41.31.
+Nomo in 1:00.86. (intermediate route)
+Nomo in 1:10.69. (oldest route)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: I wrote in the past textfile: "it doesn't look to me like it's possible on an earlier cycle." Turns out to be false. :^) 10 sec time save there or so. The other time save comes from a strafejump at the end that's kinda tough, but was surprisingly not found (even if it wasn't possible to make it, there's a rocket there that would definitely make it possible). I was trying the rocket route for a while, but I had no setup, and it was even harder because of the red screen, so eventually, I just decided to go all out. Didn't take too long afterwards I guess. 0:41 is pretty bad, should be 0:39 I think or so. Included a 1:00 with just the early cycle (think this should be 0:59 for a good time). And 1:10 with the old cycle (think this should be 1:09, I even bumped a door).

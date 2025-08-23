@@ -1,0 +1,56 @@
+ sc27n009.lmp
+  sc27n009.txt
+
+  Recorded using PrBoom+ 2.5.1.3 -complevel 2
+  Compatibility: Shareware and Registered Doom v1.9, and Doom2 v1.9
+
+  scythe.wad (Scythe by Erik Alm)
+  Map27: Terror - NM Speed
+
+  Kills        2%
+  Items       20%
+  Secrets      0%  and Time   0:09
+                             ------
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Renderer: Software 8bit
+  Resolution: 640x480
+  Aspect Ratio: Auto (4:3)
+  Framerate: Uncapped
+  Prb+ Hud: No
+  A Secret is Revealed! message: Yes
+  Automap: No
+  Messages: Red Color, One Line (Default)
+  Music: Yes
+  Autorun: Yes
+  Mouse Dbl-Click as Use: Yes
+  Run Bind: No
+  Autorun Toggle Bind: No
+  SSG Bind: No
+  Best Weapon Bind: No
+  Status Bar and Menu Appearance: Not Adjusted
+  Gamma Level Correction: 4
+  mouse_sensitivity_horiz       7
+  mouse_sensitivity_vert        0
+  
+  CONTROLS:
+  WASD, ALT turn left, CTRL turn right
+  M1 shoot, M2 strafe on, Spacebar use
+  Unchanged weapon switch keys
+
+  SYSTEM INFO:
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  Sensitivity: 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Headset: Cheap Sony SR-470M.V headset

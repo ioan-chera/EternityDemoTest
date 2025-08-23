@@ -1,0 +1,15 @@
+              Scythe
+          Map 22: Despair
+       Map Author: Erik Alm
+------------------------------------
+           sc22o020.lmp
+
+Nomo in 0:20.71
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: I tried the RJ death slide route, but I found that I couldn't get sub-20 with that either (it was actually probably slower for me). The RL just isn't close enough to the route. Not perfect movement here, but good enough for me, second exit under 20.

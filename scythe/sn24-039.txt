@@ -1,0 +1,35 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       24 - Hatred
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      20%
+Items:      33%
+Secrets:     0%
+
+Time:      0:39
+
+Comments:  The luck I had at the blue door is
+           incredible, but ...
+
+           Yeah, I heard "Dreamline" from Rush
+           while recording this, and felt
+           immortal - for a limited time.
+
+           Here's Neil Peart's chorus of this song:
+
+              WHEN WE ARE YOUNG
+              WANDERING THE FACE OF THE EARTH
+              WONDERING WHAT OUR DREAMS MIGHT BE WORTH
+              LEARNING THAT WE'RE ONLY IMMORTAL-
+              FOR A LIMITED TIME.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+06.10.2004

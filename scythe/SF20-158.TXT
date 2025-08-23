@@ -1,0 +1,32 @@
+This is a Doom LMP Entry
+
+SF20-158.ZIP
+
+	SF20-158.TXT
+	SF20-158.LMP - UV -Fast
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 20 - The Starport
+
+=---+------+---=
+Kills       102%
+Items        75%
+Secrets     100%
+ 
+TIME        1:58	Old record: 2:32 by Jochen "Angus" Schneidau
+PAR         2:30
+=---+------+---=
+
+Demo entry #59.
+             
+Description:
+
+After having a hard time surviving 3000 AD, I tried the sequel to MAP19 for some
+easy fun. Not a bad demo, but with extra infight luck in the second half it can
+go down to 1:49 or something :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done October 15, 2010, 22:37:21

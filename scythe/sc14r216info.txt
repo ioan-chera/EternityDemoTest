@@ -1,0 +1,25 @@
+IWAD: DOOM2.wad
+PWAD: scythe.wad
+Map: 14
+Map title: Power Outage
+Skill level: Ultra-Violence 
+Category: UV -respawn
+Time: 2:16
+Date Recorded: Sunday, 7th May 2017
+
+Runner: Jakub Puk
+Location: Ipswich, United Kingdom
+Email: kuba27131@gmail.com
+
+Sourceport Used: PrBoom-Plus v2.5.1.5 
+
+Respawn Information:
+Kills - 147%
+Secrets - 100%
+
+Info:
+Had to play the middle part picking up the yellow key cautiously due to the respawning hitscanners - most of the enemies had to go.
+
+Start part was not terribly bad, and the end part could have been improved if I was able to wayfind the red key. 
+
+

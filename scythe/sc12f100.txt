@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:		SCYTHE.WAD
+Pwad name: 	Scythe
+Maps:		12
+Skill:		4
+Category:	UV -Fast
+Exe:      	PRboom+ 2.5.1.4 cl2
+		with advanced HUD
+------------------------------------------- 
+Time:     	1:00
+-------------------------------------------
+Comments: 99% of resets are the rev rockets at the start. That fuckin' imp at the end screwed me out of a 59 so hard... :(
+-------------------------------------------
+YouTube Video: https://youtu.be/BqQ3A5tVyUw
+-------------------------------------------
+Author:    	Andrea Rovenski
+Demo YouTube Page: https://www.youtube.com/@doomspeedruns
+andrea@speed.dog 
+

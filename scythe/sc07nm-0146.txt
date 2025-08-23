@@ -1,0 +1,14 @@
+Runner: ferfrancuito
+Date: 2020-Nov-30 19:28
+IWAD: SCYTHE.wad
+Category: NM!
+Map: 7
+Source Port: PRBoom v2.5.1.4
+Time: 0:01.46
+Attempts: 319
+
+Description:
+A revisit of this level.
+I kept thinking of what if I wallrun and rocket jump? It seems even if I press the keys before wipescreen loads doesn't get me much help with lowering the time. 
+
+A 0 would be awesome

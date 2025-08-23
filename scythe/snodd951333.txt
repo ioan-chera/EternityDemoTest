@@ -1,0 +1,206 @@
+WAD: Scythe
+MAPS: MAP01-MAP30 (no bonus levels)
+Times: Various (total below)
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: June 17, 2013
+
+I just watched Cacatou's nomo demo of all of Scythe and it inspired me
+to make my own. Scythe is a great PWAD. :)
+
+MAP and Title  |   Time  | Rating | Cacatou's Run | Difference |
+----------------------------------------------------------------
+MAP01	       |	 |	  |		  |	       |	
+(Get Going)    | 0:11.23 |   :|   |    0:11.43    |   -0:00    |
+----------------------------------------------------------------
+MAP02	       |	 |	  |		  |	       |	
+(Punchline)    | 0:12.89 |   :)	  |    0:12.09	  |   -0:00    |
+----------------------------------------------------------------
+MAP03 	       |	 |	  |		  |	       |
+(Up and Around)| 0:18.23 |   :|   |    0:18.51	  |   -0:00    |
+----------------------------------------------------------------
+MAP04 (Lost    |	 |	  |		  |	       |
+Warehouse)     | 0:16.29 |   :)   |    0:20.29    |   -0:04    |
+----------------------------------------------------------------
+MAP05 (Slimy   |	 |	  |		  |            |
+Tunnels)       | 0:17.69 |   :(   |    0:17.37    |   -0:00    |
+----------------------------------------------------------------
+MAP06 (Pressure|	 |	  |		  |	       |
+Point)	       | 0:24.51 |   :|   |    0:24.49    |   -0:00    |
+----------------------------------------------------------------
+MAP07	       |	 |	  |		  |	       |
+(Deadly)       | 0:01.89 |   :)   |    0:03.23    |   -0:02    |
+----------------------------------------------------------------
+MAP08 (Garden  |	 |	  |		  |	       |
+Base)	       | 0:20.34 |   :|   |    0:20.74    |   -0:00    |
+----------------------------------------------------------------
+MAP09 (Computer|	 |	  |		  |	       |
+Storage)       | 0:33.03 |  :(((  |    0:24.31    |   +0:09    |
+----------------------------------------------------------------
+MAP10 (The     |	 |	  |		  |  	       |
+Lords)	       | 0:13.34 |   :)   |    0:14.20    |   -0:01    |
+----------------------------------------------------------------
+MAP11 (Sneak   |	 |	  |		  |	       |
+Peak)	       | 0:16.11 |   :1   |    0:17.23    |   -0:01    |
+----------------------------------------------------------------
+MAP12 (Walk in |	 |	  |		  |	       |
+the Park)      | 0:13.77 |   :)   |    0:14.69    |   -0:01    |
+----------------------------------------------------------------
+MAP13(Subverted|	 |	  |		  |	       |
+Base)	       | 0:30.17 |   :|   |    0:30.46    |   -0:00    |
+----------------------------------------------------------------
+MAP14 (Power   |	 |	  |		  |	       |
+Outage)        | 0:27.80 |  :)))  |    0:31.46    |   -0:04    |
+----------------------------------------------------------------
+MAP15 (Blood   |	 |	  |		  |	       |
+Bath)	       | 0:13.97 |   :|   |    0:10.71    |   +0:03    |
+----------------------------------------------------------------
+MAP31 (I Dunno |	 |	  |		  |	       |
+Torn)	       |    -    |   -    |    0:10.26	  |   -0:10    |
+----------------------------------------------------------------
+MAP32 (Enoz    |	 |	  |		  |	       |
+Soahc)	       |    -    |   -    |    0:56.37	  |   -0:56    |
+----------------------------------------------------------------
+MAP16 (Burial  |	 |	  |		  |	       |
+Grounds)       | 0:25.54 |   :)   |    0:27.06    |   -0:02    |
+----------------------------------------------------------------
+MAP17	       |	 |	  |		  | 	       |
+(Book Lords)   | 0:29.66 |   :)   |    0:30.89    |   -0:01    |
+----------------------------------------------------------------
+MAP18	       |	 |	  |		  |	       |
+(MS Futura)    | 0:16.26 |   :|   |    0:17.29	  |   -0:01    |
+----------------------------------------------------------------
+MAP19	       |	 |	  |		  |	       |
+(3000 AD)      | 1:18.77 |   :)   |    1:25.40    |   -0:07    |
+----------------------------------------------------------------
+MAP20 (The     |	 |	  |		  |	       |
+Starport)      | 0:39.11 |   :|   |    0:41.89	  |   -0:02    |
+----------------------------------------------------------------
+MAP21 	       |	 |	  |		  |	       |
+(Solitude)     | 0:11.14 |   :(   |    0:10.94    |   +0:01    |
+----------------------------------------------------------------
+MAP22	       |	 |	  |		  |	       |
+(Despair)      | 0:22.94 |   :)   |    0:23.34    |   -0:01    |
+----------------------------------------------------------------
+MAP23	       |	 |	  |		  |	       |
+(Anger)	       | 0:26.31 |   :1   |    0:27.29    |   -0:01    |
+----------------------------------------------------------------
+MAP24	       |	 |	  |		  |	       |
+(Hatred)       | 0:35.49 |   :(   |    0:34.00	  |   +0:01    |
+----------------------------------------------------------------
+MAP25	       |	 |	  |		  |	       |
+(Envy)	       | 0:21.23 |   :L	  |    0:10.51    |   +0:11    |
+----------------------------------------------------------------
+MAP26	       |	 |	  |		  |	       |
+(Fear)	       | 0:24.40 |   :|   |    0:23.91    |   +0:01    |
+----------------------------------------------------------------
+MAP27	       |	 |	  |		  |	       |
+(Terror)       | 0:58.49 |   :|   |    0:59.97    |   -0:01    |
+----------------------------------------------------------------
+MAP28 (Run     | 	 |	  |		  | 	       |
+From it!)      | 0:31.29 |   :|   |    0:29.83    |   +0:02    |
+----------------------------------------------------------------
+MAP29 (Hell    |	 |	  |		  |	       |
+on Earth)      | 1:35.66 |   :1   |    1:43.06    |   -0:08    |
+----------------------------------------------------------------
+MAP30          |	 |	  |	          |	       |
+(Fire and Ice) | 0:39.63 |   :L   |    0:37.69    |   +0:02    |
+----------------------------------------------------------------
+TOTALS:	       |  13:33  |   :1   |     14:46     |   -1:13    |
+----------------------------------------------------------------
+
+As a general note, most of what made my time much better was the fact
+that I did not take the secret exits and run on the secret levels. In
+nomonsters mode, 100% secrets is not required, so MAP31 and MAP32 are
+not required according to the DSDA info page. I'm surprised Cacatou
+included them. Probably if Cacatou had not included them, or had I
+included them, I would have only beat his run by 5-8 seconds.
+
+This is a first-exit demo.
+
+Comments about each map are below:
+
+MAP01: Meh, I could've worked to get 10, but I'm too lazy.
+
+MAP02: I'm happy about this one because I normally really screw up the 
+	jump. Here it went fairly smooth and didn't cost me an extra sec.
+
+MAP03: 17 is possible but it seems hard, especially in a multilevel run.
+
+MAP04: This trick was actually nice to me in ALL of my attempts. Yay. :)
+
+MAP05: Bah, got confused by YK. Otherwise ok.
+
+MAP06: Could have been better.
+
+MAP07: I expected 2 seconds. :)
+
+MAP08: 19 would have been nice but this is ok.
+
+MAP09: How the **** did I screw up such an easy jump?!!? wtf
+
+MAP10: I hate this map. Switch trick was annoying and killed most of my
+	attempts before this one. Thankfully it worked well here.
+
+MAP11: Pretty good running, but man just a couple tics away from 15.
+	Cacatou used my route here, so I used it again. I feel pretty 
+	honored. :)
+
+MAP12: I'm content here. Easy map. Also easy to get 14 though.
+
+MAP13: 30 is meh. 29 would have been a lot better. RK grab is very
+	unreliable so I have to go the long way (I've never gotten it
+	before in a single level run either).
+
+MAP14: Very happy here. This one is nice and smooth for a multilevel run.
+
+MAP15: Only bad because I paused on the ledge and grabbed RSK when I didn't
+	need to (not a big penalty though). At least it's not 14.
+
+MAP16: This was pretty good. :)
+
+MAP17: Happy here also. :) Pretty smooth except near the end.
+
+MAP18: I wish it was 15. The 2 glides are unreliable so I pick up both keys.
+
+MAP19: 2nd fav map in Scythe. :) Fun one to run. I was a bit cautious by
+	the YK since I didn't want to fall. I also think I had a bit better
+	luck than Cacatou with that perpetual lift.
+
+MAP20: Close to 38, but I like that it's under 40.
+
+MAP21: DANG! This makes me angry.. almost a 10.
+
+MAP22: On the other hand, I didn't expect .94 here. :)
+
+MAP23: Ok. Running is pretty smooth, but 25 would be better.
+
+MAP24: Got confused after opening the blue door so I lost a couple secs.
+
+MAP25: This map came up and I instantly realized, "Crap, I forgot to
+	practice this jump beforehand." Because of that, I did my old
+	reliable trick.	
+
+MAP26: I was a wimp on the skinny ledge near the exit and lost a second.
+
+MAP27: Good in some parts, shaky in others. 56 or 57 is nice for a
+	multilevel run. I can't ever get that window jump so I went the
+	long way.
+
+MAP28: I always suck at maps like this. 30 would've been nice.
+
+MAP29: My fav of all time from original Scythe! Unfortunately at the end
+	I got a little confused with the switches, so it's not under 1:35.
+	The YK grab is annoying so I went the long way here.
+
+MAP30: Got a bit too excited and failed an easy jump. Fortunately it didn't
+	cost me much. Good BFG work at the end IMO.
+
+Without screw ups in MAP09 and MAP30, this would be under 13:30. :P 
+However, I want to wait until Cacatou or somebody else takes back the
+record before I try recording another demo for all of Scythe. Cacatou was
+right; this is very fun to record.
+
+Enjoy!
+
+--Doomdaniel95

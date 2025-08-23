@@ -1,0 +1,30 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       21 - Solitude
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:      66%
+Secrets:   100%
+
+Time:      1:17
+
+Comments:  I chose the safe way with taking the soulsphere,
+           which is of course not necessary. The demo is
+           ok. Missing the chaingun was not in my plan,
+           but it caused better infights than usual.
+           My shotgun aiming could be much better.
+
+           I would be satisfied with a time under 1:10.
+
+           Please have also a look at sf21-123 :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+23.11.2004

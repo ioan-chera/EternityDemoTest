@@ -1,0 +1,23 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       24 - Hatred
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      22%
+Items:      50%
+Secrets:     0%
+
+Time:      0:45
+
+Comments:  Another Scythe classic! I wonder if it will
+           cost me as much time as Map26 :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+06.10.2004

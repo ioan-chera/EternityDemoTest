@@ -1,0 +1,12 @@
+==================================================
+Date     : 20-09-2020
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Items + Reality
+Engine   : prboom-plus-2.5.1.4, with Advanced HUD
+Map      : MAP03 - Up And Around
+Time     : 1:27
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil

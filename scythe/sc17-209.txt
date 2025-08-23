@@ -1,0 +1,21 @@
+              Scythe
+        Map 17: Book Lords
+       WAD Author: Erik Alm
+------------------------------------
+          sc17-209.lmp
+
+UV-Max in 2:09
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Satisfying to get a demo where virtually everything went right. AV died pretty damn well in the beginning (with good revenant help), and I managed to get good rocket shots at the monster crowd at the end. Few missed shots as well, so I'm happy with this. I had a 2:25 before this, but it seemed stupid to post a 1 second improvement here.
+
+Some changes from j4rio's demo include not shooting in the yellow key area for the sake of obtaining the yellow key easily, although shooting is probably faster. Also, I handle the monster crowd slightly differently by going outside because they tend to get packed pretty tight into the corridor, which results in good blast damage and infighting.

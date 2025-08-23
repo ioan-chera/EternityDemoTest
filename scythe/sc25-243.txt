@@ -1,0 +1,14 @@
+==================================================
+Date     : 08-06-24
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP25 - Envy
+Time     : 2:43.17
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA. 
+
+Notes: Cilian inspired/frustrated me by setting a PB of 2:43.60, which I beat by just 15 tics after 7745 attempts. They contributed tactical ideas and were present for many hours on stream, so thanks for helping me push myself to this target. The first Mastermind and the Cyberdemon can infight brilliantly, but you have to be very patient for the RNG to give you a good run. Even then, finishing off the last few monsters can be stressful.

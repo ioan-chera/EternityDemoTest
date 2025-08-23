@@ -1,0 +1,124 @@
+*************************************
+          Scythe Nomo Movie
+-------------------------------------
+
+    Level        Time  < sc30nomo1027
+-------------------------------------
+    Map 01       0:09      -0:00 :|
+    Map 02       0:10      -0:00 :|
+    Map 03       0:16      -0:00 :)
+    Map 04       0:14      -0:00 :|
+    Map 05       0:12      -0:00 :)
+    Map 06       0:22      -0:00 :|
+    Map 07       0:01      -0:00 :|
+    Map 08       0:11      -0:01 :|
+    Map 09       0:20      -0:00 :)
+    Map 10       0:12      -0:00 :|
+-------------------------------------
+Episode 1:       2:07      -0:01 :)
+-------------------------------------
+    Map 11       0:09      -0:02 :)
+    Map 12       0:14      +0:02 :(
+    Map 13       0:27      -0:01 :)
+    Map 14       0:25      -0:01 :)
+    Map 15       0:10      -0:00 :|
+    Map 16       0:22      -0:01 :)
+    Map 17       0:26      -0:02 :)
+    Map 18       0:14      -0:00 :|
+    Map 19       1:13      -0:02 :))
+    Map 20       0:37      -0:00 :|
+-------------------------------------
+Episode 2:       4:17      -0:07 :)
+-------------------------------------
+    Map 21       0:09      -0:01 :)
+    Map 22       0:20      -0:01 :)
+    Map 23       0:23      -0:01 :|
+    Map 24       0:27      -0:02 :(
+    Map 25       0:09      -0:01 :)
+    Map 26       0:21      -0:02 :)
+    Map 27       0:10      -0:01 :)
+    Map 28       0:27      -0:02 :)
+    Map 29       0:41      -0:04 :))
+    Map 30       0:34      -0:00 :(
+-------------------------------------
+Episode 3:       3:41      -0:14 :)
+-------------------------------------
+TOTAL:          10:05      -0:22 :|
+
+=====================================
+IWAD: doom2
+PWAD: scythe
+
+Recorded with:
+PrBoom-plus 2.5.1.4 -complevel 2
+
+Skill level:
+Ultra-Violence with -nomonsters
+-------------------------------------
+Author: Aleksey "4shockblast" Kamenev
+e-mail: shockblast4@yahoo.com
+=====================================
+
+Comments: Thanks to eLim for pushing me to improve my crappy old 10:37 nomo record. With some of the trick routes that eLim incorporated and I later incorporated, this is quite a nerve-wracking run, but still pretty fun in my opinion. This is overall a solid run; most of the time lost on this run was on a slow map 24 trick and the lack of the map 18 strafejump (and two times I fell off in the run), but movement-wise, this run is pretty much as good as I would like. Pretty happy with the time.
+
+Map 01 (0:09.74): I reset the run on 10s, so 9s is fine.
+
+Map 02 (0:10.46): 9s happened relatively often, but I took 10s anyway, as getting 9s without a quick switch hit is fairly hard, and getting a quick switch hit isn't too easy as well.
+
+Map 03 (0:16.63): 16s happened most of the time. Only once did I had 15s, and that time I also got 13s on map 4, but screwed up later in episode 1 so time was slower than my record.
+
+Map 04 (0:14.09): Nearly 13s, I think some minor movement mistakes made this 14s.
+
+Map 05 (0:12.83): Pretty close to 13s, map didn't go too well, but I never had 11s, in any movie attempts.
+
+Map 06 (0:22.63): Never had 21s in movie attempts, though I got close.
+
+Map 07 (0:01.63):
+
+Map 08 (0:11.89): Can't believe the keygrab went so poorly, it's one of the easiest tricks in the entire run.
+
+Map 09 (0:20.46): I was having trouble with this map earlier today, happy I got 20s.
+
+Map 10 (0:12.60): 12s happened nearly every time.
+
+Map 11 (0:09.29): Good that I managed the strafejump back from the RL platform.
+
+Map 12 (0:14.74): Fell off the start platform. I practiced this map a bit before the run to try and make sure that didn't happen, and I thought I had it down, but I guess not. :/
+
+Map 13 (0:27.97): Just barely a 27. :)
+
+Map 14 (0:25.80): Nearly didn't get 25.
+
+Map 15 (0:10.00): .00, but usually I got 10s anyway (9s is not too easy in full runs). At least I didn't get the exit elevator linedef skip. :)
+
+Map 16 (0:22.97): Nearly didn't get 22s (which isn't easy because of the final staircases).
+
+Map 17 (0:26.86): Bumped quite a bit at exit, but still got 26s.
+
+Map 18 (0:14.74): Didn't do the strafejump, 14s is standard time on normal route.
+
+Map 19 (1:13.54): I'm convinced that the cycles on the platform that goes up and down act differently in movie runs than in an individual level run. Even though I messed up a door at the start be accidentally closing it after opening it, I still made the good cycle to the platform and pulled off a solid time for a movie run, while I've had runs with starts that didn't have any noticeable mistakes that still got the bad cycle (and thus were capped at a time of 1:14 or so). Thus, time loss/gain here was pretty random.
+
+Map 20 (0:37.66): Some bad movement lost me the 36, was lucky to not get the linedef skip in any of my full movie attempts (though I slow down for it to try to ensure that).
+
+Map 21 (0:09.91): 9s is not trivial in a movie run with 20 maps before it, so I'm happy to get it.
+
+Map 22 (0:20.69): I usually got 20s on this map, though 21s slipped in occasionally.
+
+Map 23 (0:23.06): Some generally poor movement here lost me 22s.
+
+Map 24 (0:27.26): Well, here's the map 24 tricks in a full run, though the time here is pretty bad because I failed the strafejump once and didn't get a very fast RJ. Should be 24s (though I had 23s in my first successful D2ALL nomo on this route), though at least it's faster than the normal route and I'm just happy to get this trick on a full run.
+
+Map 25 (0:09.57): 9s is good in movie run.
+
+Map 26 (0:21.89): Some solid movement before the run to the exit, so I relaxed at the exit ledge run and just slid alongside the wall.
+
+Map 27 (0:10.09): Earlier today I had a run where I failed the RJ that was on a similar pace (was very shaky by that point). Here, while my setup is a little slow, I got a very clean-looking RJ, and, while this map is possible in 9s, I'm happy with the way the map looks.
+
+Map 28 (0:27.29): Skipped the final linedef for the lowering floor; if I had anticipated that, I could have probably gotten 26s, but 27s is still a nice time on the normal route (though it happened pretty consistently).
+
+Map 29 (0:41.31): First try keygrab, good movement, no linedef skip at the end (which did ruin one run in the past), and a time of 41s is as good as I could wish for on this map in a movie run. Really happy with this map, probably the highlight of the run for me.
+
+Map 30 (0:34.77): Fell off the stairs because I was shaky, but I managed to get a single-shot Romero and still got 34s. Not too good, but at least not a complete disaster.
+
+Recorded January 12, 2015.

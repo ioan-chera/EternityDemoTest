@@ -1,0 +1,18 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31so814.lmp
+           sc31so851.lmp
+
+Nomo in 0:08.14 (secret exit)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Very close to 7s, but I dunno if I can get it. A fast time depends on getting past the staircase descent quickly, which happened in this exit, and the turn up the second staircase was good. Platform section seemed a bit slow, though, and XDRE2 shows 2 tics lost to a theoretical optimal door opening at the end. Still, I'd need to save 4 tics on the platform section or elsewhere, and while that may very well be possible, at the moment I can't see where I could save that time. First tic turn would be nice, but I can't get that to happen in PrBoom+, and getting an optimal platform section or door opening is too difficult given how annoying it is to hope for a fast staicase descent. I'd put some more time into it, but I don't really like the run very much, and I don't want to a huge amount of time on it and get no results. :P
+
+Also included old 8s run.

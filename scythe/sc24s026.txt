@@ -1,0 +1,20 @@
+              Scythe
+         Map 24: Hatred
+       Map Author: Erik Alm
+------------------------------------
+           sc24s026.lmp
+	 sc24blocked.lmp
+
+NM100 in 0:26
+
+    Kills   - 9%
+    Items   - 33%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: I tried this first after I did NM-Speed, thinking it would come quick, but it took much, much longer than expected. Doing an extra shot for the secret turned out to make that section much harder to do, as it meant I had to do both jumps really quick (it also meant that my turning in that section was a bit harder because I had to turn to shoot the switch). Getting the secret isn't too trivial either, as I have to run past two arachs, and the imps could easily block me there. Moreover, back when I first attempted, I used the chaingun to try to activate the secret, which is really, really stupid in retrospect as the shotgun spread means I have to be way less accurate with that shot (if I used shotgun last time I tried this I'd probably have exited as I had a few runs die to not hitting the secret). All in all, a very difficult run, so I'm happy to get an exit. I was planning on getting the soul sphere after the yellow key as well, but I completely forgot and saved some extra time. :D .20, though, so 25s is annoyingly possible. Bonus demo included where my RJ was blocked by the baron.

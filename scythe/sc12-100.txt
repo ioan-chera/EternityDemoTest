@@ -1,0 +1,24 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       12 - Walk in the park
+Skill:     4
+Category:  UV Max
+Exe:       prboom 2.2.6 -complevel 0
+
+Kills:     100%
+Items:      50%
+Secrets:   100%
+
+Time:      1:00
+
+Comments:  Got this demo in the beginning of recording session when I was still
+           searching for a good route. Just now after another 2 hours I can see
+           how lucky demo I got. It's crappy but lucky. It never happened to me
+           later that I would have so many rockets and if I wouldn't waste some
+           2-3 of them the time could be easily :55.    
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+
+29.10.2006

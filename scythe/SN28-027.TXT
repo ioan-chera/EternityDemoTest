@@ -1,0 +1,40 @@
+This is a Doom LMP Entry
+
+SN28-027.ZIP
+
+	SN28-027.TXT
+	SN28-027.LMP - Nightmare Speed
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 28 - Run from It
+
+=---+------+---=
+Kills        40%
+Items         0%
+Secrets       0%
+ 
+TIME        0:27	Old record: 0:28 by Kimo Xvirus
+=---+------+---=
+
+Demo entry #89.
+
+Description:
+
+Well, here's the finale of my long "Run from It" story, which is described in my
+SS28-029.TXT. Even half a day ago (when I got my new NM100S record), I still
+didn't think that I can reach 0:27 in NM Speed. Kimo said that it's a difficult
+run. But I think the level is very easy to survive compared to my other runs
+(even similarly short ones). However, executing the whole sprint with perfect
+precision is quite a challenge. I knew 27 is technically possible with keyboard
+only (without any shortcut tricks, 180-turns or auto-Strafe50), but didn't think
+it's feasible for me in one try out of a million, until I pulled it out in these
+lucky hours. Now over 2/3 of my straferunning here is SR50 (shown in LMPDET),
+and no doubt that Kimo also could get 27 on Nightmare this way.
+
+
+
+
+Author: SAV88 (Artem V. S.)
+Done January 28, 2011, 12:03:09

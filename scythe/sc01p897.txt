@@ -1,0 +1,10 @@
+player: aconfusedhuman
+date: 22-07-22
+iwad: DOOM2.wad 
+pwad: SCYTHE.wad
+map: 01
+category: pacifist
+time: 8.97s
+comments: This was easier than expected, but I am still quite happy about this. About 750 attempts :^)
+
+recorded with dsda-doom 0.24.1

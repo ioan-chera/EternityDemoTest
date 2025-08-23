@@ -1,0 +1,49 @@
+              Scythe
+       WAD Author: Erik Alm
+---------------------------------------
+          Episode 3 Nomo
+---------------------------------------
+    Level          Time
+---------------------------------------
+    Map 21	   0:09 :|
+    Map 22	   0:20 :|
+    Map 23	   0:22 :)
+    Map 24	   0:25 :|
+    Map 25	   0:10 :(
+    Map 26	   0:21 :)
+    Map 27	   0:09 :)
+    Map 28	   0:27 :|
+    Map 29	   0:43 :((
+    Map 30	   0:32 :)
+
+TOTAL:             3:38
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Not an interesting run, but I wanted to incorporate the map 24 tricks into a run and ended up spending much more time on this than I wanted to. It's still far from perfect, but I am tired of running this episode nomo, as it is just too boring even with the tricks. Maybe one day I'll come back to it.
+
+Map 21 (0:09.71): Not the best looking 9, but I wouldn't be able to get 8 in an episode run.
+
+Map 22 (0:20.66): At first I took 21s because the map 24 tricks would still guarantee that I'd get a faster run than my last episode run, but, eventually, 20 became easy enough that I reset the run on 21s.
+
+Map 23 (0:22.94): 22 didn't happen every time, but it's pretty easy, even in an episode run. I still took 23s, though.
+
+Map 24 (0:25.43): Got the tricks first try, but the RJ was slow, and the start had some bad movement, so I lost a second. Usually, I got 24s here, once I got 23s.
+
+Map 25 (0:10.43): Messed up the key and lost a second. :/
+
+Map 26 (0:21.89): 21 was pretty easy for me and happened most of the time.
+
+Map 27 (0:09.97): I had trouble with this RJ despite finding it easy last time I ran this episode. Eventually, I figured it out and got good at it in practice, but in runs I'd always mess up my setups anyway. Here, I get a really good time, though, which is part of the reason I don't want to improve this run at the moment.
+
+Map 28 (0:27.91): Nearly didn't get 27s with that bump, the fastest route here includes an RJ that is pretty easy but is one try only, so I didn't do it (it usually ended up in 25s on this map).
+
+Map 29 (0:43.17): This was a trainwreck, worst-looking map in this run for sure. :(
+
+Map 30 (0:32.94): Happy I was able to pull off a 32s even after the bumpy start. At least I managed to somewhat redeem myself after that map 29, heh.
+
+Recorded December 29, 2014.

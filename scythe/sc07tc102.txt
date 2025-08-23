@@ -1,0 +1,32 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP07: Deadly
+Category: UV Tyson Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.3.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 1:02.71
+-------------------------------------------
+4shockblast (aka. Arachnopuncher):
+
+Garrett herds the arachnotrons, while I beat the shit out of them; that's true teamwork. Their absurd hitboxes can't hurt me now! That is, until they randomly switch to me sometimes anyway, so I still need to get a bit of yolo punching luck.
+
+Anyway, with this strategy, the final time is dependent on how fast the telefrags are, and how fast I stuck the arachs. Also, the end jump, which would have been nice to get. Sub-1 clearly possible with just that, and probably can get a bit luckier elsewhere.
+
+GarrettChan (aka. Arachnoshepherd):
+
+The first part about the Mancubi, I basically get all the bullets I can get just to prevent it running out, and try my best to tell when 4shock can telefrag the Mancubi.
+
+The second part is more tricky that I need to tag all the Arachnotrons and force them to target me instead of 4shock, and maybe deal a little bit of damage at the time. Moving around in the center zone can prevent damage, but you're surrounded by all sides, so you can't really prevent all the damage.
+
+Oct 20 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

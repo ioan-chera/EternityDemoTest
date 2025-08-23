@@ -1,0 +1,49 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 1 UV-Speed
+------------------------------------------
+    Level          Time      <  10sc-225
+------------------------------------------
+    Map 01	   0:10 :|      -0:00
+    Map 02	   0:12 :(      +0:01
+    Map 03	   0:27 :(      +0:03
+    Map 04	   0:18 :D      -0:00
+    Map 05	   0:13 D:      -0:04
+    Map 06	   0:13 :)      -0:01
+    Map 07	   0:03 :|      -0:00
+    Map 08	   0:11 :))     -0:00
+    Map 09	   0:25 :|      -0:00
+    Map 10	   0:12 :)      -0:00
+
+TOTAL:             2:24 :))     -0:01
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Cut off a D2ALL attempt (this one died on map 17 due to some fucked up archvile luck). Only a 1s improvement over previous time, but since I'm finished with D2ALL, I probably won't be running this anytime soon. Some very solid times in the middle and end of the run, though the start was bad. :\ Also included D2ALL attempt where this failed.
+
+Map 01 (0:10): Reset on 11s.
+
+Map 02 (0:12): 12s isn't a time that makes me happy, particularly in an E1 run. :\
+
+Map 03 (0:27): Bad. :(
+
+Map 04 (0:18): I've gotten below 18s, but 18s is still a very nice time.
+
+Map 05 (0:13): Best time I ever got on this map, this was crazy lucky.
+
+Map 06 (0:13): 13s is pretty good, though I have gotten 12s as well.
+
+Map 07 (0:03): A map.
+
+Map 08 (0:11): Another 11s.
+
+Map 09 (0:25): OK time.
+
+Map 10 (0:12): As good as it gets in an episode run. :)
+
+Recorded Match 9th, 2016.

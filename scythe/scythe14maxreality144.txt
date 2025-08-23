@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	14
+Skill:	4
+Category:	UV Max Reality
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     1:44
+-------------------------------------------
+Comments:  
+Hard map for reality, second exit.
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

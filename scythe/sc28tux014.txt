@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Maps:      28
+Skill:     4
+Category:  Nomonsters TAS with -turbo 255 
+Exe:       PRBoom+ v2.5.1.3, -complevel 2
+
+Time:      0:14
+
+Author:    MD922
+
+Comments:  Hehe, my second publicly released TAS that's actually finished. Enjoy, not much to say.

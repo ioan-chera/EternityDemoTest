@@ -1,0 +1,31 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       22 - Despair
+Skill:     5
+Category:  NM Speed (and NM100S)
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      52%
+Items:      66%
+Secrets:   100%
+
+Time:      0:57
+
+Comments:  Tricky. It's possible to grab the BFG without
+           waking up the PE - a very bad guy here.
+
+           I needed about 150 tries for a first exit (1:29),
+           after that I had more fun and 10 exits followed
+           in the same amount of attempts. Second best was
+           1:03.
+
+           Now the last hole in the Scythe NM Speed table
+           is Map32.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+04.08.2005

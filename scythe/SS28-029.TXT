@@ -1,0 +1,56 @@
+This is a Doom LMP Entry
+
+SS28-029.ZIP
+
+	SS28-029.TXT
+	SS28-029.LMP - Nightmare + Secrets
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 28 - Run from It
+
+=---+------+---=
+Kills        45%
+Items       100%
+Secrets     100%
+ 
+TIME        0:29	Old record: 0:30 by me	
+=---+------+---=
+
+Demo entry #88.
+
+Description:
+
+I started running this level on Nightmare in late April 2010 to have some fun,
+as well as to test my running skills. And at that time I was glad to just get
+0:29 with hard work. Kimo's 0:28 seemed completely out of reach for me, because
+of keyboard's turning speed limitations. But I didn't know that my movement
+efficiency will still keep slowly getting better in future months: my angles of
+straferunning will become more effective, my timelosses during turns will get
+less and less.
+
+In late September 2010 I returned to this level, and saw that the 29.00 mark
+became breakable for me. Pulled out 28.94, and thought it's the best I can get.
+At that time I also made the first NM100S demo for "Run from It", 0:30.
+
+But today I understood, how naive was my claim in SS28-030.TXT:
+
+"Don't expect 29 from me, I can just barely get 28.94 in regular NM Speed (while
+Kimo's record is 28.86)."
+
+After some more progress (as well as determining exactly where to turn at which
+angles, where to strafe50, etc.), I managed to pull out some results which would
+be unbelievable for me in 2010:
+
+- 0:27 in nomo;
+- 28.57 in regular NM (this little demo is attached as well);
+- and finally, 29.74 in NM100S.
+
+My new run still contains some crappy gametics, like bumping at demons, but has
+rather intense SR50'ing (the Strafe50 ratio shown in LMPDET is over 60%).
+
+
+
+Author: SAV88 (Artem V. S.)
+Done January 28, 2011, 00:53:08

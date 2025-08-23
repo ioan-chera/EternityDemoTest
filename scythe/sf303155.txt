@@ -1,0 +1,43 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       30 - Fire and Ice
+Skill:     4
+Category:  UV -fast
+Exe:       prboom-plus
+
+Kills:     107%
+Items:      92%
+Secrets:   100%
+
+Time:      31:55
+
+Comments:  An improvement of my 35:41 demo has long been
+           overdue, but I wasn't able to do it during the last
+           six months. I tried it a lot in October and November,
+           spent dozens of hours with it (much more than 1000
+           attempts I think), until I completely burnt out.
+           This is the reason that I didn't record anything for
+           a long time (except some testing for Gusta's new
+           maps). Well, this week I felt I could try it again,
+           and finally had enough luck to get another exit.
+
+           The demo is not great, except the first 6 minutes.
+           I have a lot of practice with this part and am now
+           able to play it much more aggressively than half a
+           year ago. And I had insane luck with infights, but
+           not only in the beginning :)
+
+           On the other hand under 30 minutes was possible with
+           more aggressiveness and better planning later on, but
+           I lost a few minutes with senseless running around
+           for health. *sigh* My bad memory. I'm getting old :(
+
+           I hope you like the demo though.
+
+           It plays back with doom2.exe, eternity, prboom+ 2.4.6
+           (using timedemo, fastdemo at least ;)
+ 
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+30.03.2007

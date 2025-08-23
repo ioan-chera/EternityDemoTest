@@ -1,0 +1,27 @@
+Game: Doom 2
+Pwad: Scythe
+Filename: sf25-221.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: 25 (Envy)
+Exe/Port used: GLBoom 2.2.6.26 (PRBoom Plus) -complevel 2
+
+Totals:
+Kills      100%
+Items     100%
+Secrets    100% and (Time- 2:21)
+
+Comments: 
+Watched the recent -fast run here and decided to do my own with several route changes.  Big one being that I take the teleporter back to the SM/arach/caco area to clean up house there once I deal with the barons/arachs/cybie beforehand and take the secret stash.  I always had troubles surviving without a decent amount of health in the SM/arach/caco area otherwise.
+
+This also makes the archie much less of a close call than in the previous run since it can be taken out safely with rockets.
+
+Otherwise, all the remaining BFG ammo I have going into this area is used up, then rockets are used to clean up house.  Then it's to the exit with the SSG in hand for any possible stragglers.
+
+All in all, I'm just happy to get an exit here after hundreds and hundreds of attempts to get one exit.  Everything that could go wrong did, but most failures occured in the SM/arach/caco area.  I always got smoked by one of those 3 enemies lots of times.
+
+Some mistakes here with the biggest one being me acting a little hesistantly at the 2 barons since I thought I was goiing to risk getting hit there while opening it, but otherwise everything went fine.
+
+Perhaps another 5 or so seconds can be shaved off, but for now, this will do.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

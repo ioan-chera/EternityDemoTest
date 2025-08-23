@@ -1,0 +1,17 @@
+SC11N003.TXT
+SC11N003.LMP
+SC11N003.ZIP
+
+Player : megasphere308
+Date : 2021-09-15
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP11 Sneak peak
+Source port : dsda-doom v0.18.0
+Time : 0.03.34
+
+Description :
+
+Happened during ep2 practice :)
+
+megasphere308@gmail.com

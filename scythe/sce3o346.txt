@@ -1,0 +1,49 @@
+              Scythe
+       WAD Author: Erik Alm
+---------------------------------------
+          Episode 3 Nomo
+---------------------------------------
+    Level          Time
+---------------------------------------
+    Map 21	   0:09 :)
+    Map 22	   0:21 :)
+    Map 23	   0:23 :)
+    Map 24	   0:29 :)
+    Map 25	   0:09 :)
+    Map 26	   0:22 :|
+    Map 27	   0:10 :)
+    Map 28	   0:28 :)
+    Map 29	   0:41 :))
+    Map 30	   0:34 :(
+
+TOTAL:             3:46
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Initially, I wanted to incorporate map 24 tricks, but I eventually decided this run was sort of boring and figured that anything that extends my recording session here any further isn't worth doing :P. That said, the two tricks are totally doable in a movie run; from an angle, the step jump isn't so hard and happens first, second, or third try roughly 50% of the time (if not more). The RJ is more difficult without a setup, which would take a little too long to do, but regardless, even with OK tricks, the time should be faster than the standard route. The issue is that most of the levels both before and after this are mostly just pure running, with little difficult movement or tricks, and I don't really enjoy pure running for almost four minutes. Other than 24, only a few maps I could save as second in, so I'm satisfied with this.
+
+Map 21 (0:09.94): 9 is easy. Didn't take 10s.
+
+Map 22 (0:21.43): Rather bumpy run, so 20 isn't something I tried for. 21 happened most of the time, though.
+
+Map 23 (0:23.83): 23 is easy enough that I feel that 22 should be possible in an individual level run, but I didn't try it. It feels like it would be too difficult for me to get 22 at all, though.
+
+Map 24 (0:29.80): Start had some ugly moments, 29 is best I could do, though, with this route,
+
+Map 25 (0:09.83): Occasionally, I'd fail the torch jump which was really annoying. Also, the drop down the stairs often led to me getting 10s. Here, it wasn't too perfect, but I had a nice double bar open trick, so managed to get 9.
+
+Map 26 (0:22.23): 21 didn't happen too often, though it's possible and Method's run had a 21 here. It's not a forgiving level, though, as rather small mistakes could result in a 22, as is seen here (unlike maps 21-23, where I had bumps and still got my best times).
+
+Map 27 (0:10.60): Forgot to switch to RL last level :/. Regardless, 9 didn't happen always even with a change. Jump is easy.
+
+Map 28 (0:28.43): Nothing interesting here.
+
+Map 29 (0:41.80): Only level I'm really happy with. 41 is a nice time, and best I could do in an episode run for sure. Rarely had trouble with the keygrab, as, with a diagonal start, it's pretty easy to get every time (only time I had trouble with it was when I screwed up). Lots of possibilities for bumps, though, and I skipped the last lowering wall linedefs in two attempts, as demonstrated in an included faildemo.
+
+Map 20 (0:34.29): First part of demo was ugly, was nervous after the 41 last level. At least I picked it up later on didn't get worse than 34.
+
+Recorded August 30, 2014.

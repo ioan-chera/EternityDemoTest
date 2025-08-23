@@ -1,0 +1,15 @@
+              Scythe
+       Map 11: Sneak Peak
+       Map Author: Erik Alm
+------------------------------------
+           sc11o866.lmp
+
+Nomo in 0:08.66
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Making this to show slightly different death slide movement; by doing it in motion, 8 happens almost every time, although it is slightly more risky since it's possible to miss the exit. This was done in my episode 2 nomo for 8 seconds, though I probably won't attempt in a full nomo movie. Faster than my previous demo in terms of centiseconds, though I didn't optimize much as you could probably tell from the bumps.

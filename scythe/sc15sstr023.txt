@@ -1,0 +1,13 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Pwad:      scythe.wad
+Pwad name: Scythe
+Map:       15 (secret exit)
+Skill:     4
+Category:  Stroller
+Exe:       prboom-plus-2.5.1.3 -complevel 2
+Time:      0:23
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  

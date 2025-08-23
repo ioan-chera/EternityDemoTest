@@ -1,0 +1,23 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       02 - Punchline
+Skill:     5
+Category:  NM100S
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      45%
+Items:     100%
+Secrets:   100%
+
+Time:      0:31
+
+Comments:  Not easy cause of the demons/spectres.
+           It's without the trickjump - I'm not mad!
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+24.06.2005

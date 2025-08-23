@@ -1,0 +1,15 @@
+              Scythe
+        Map 02: Punchline
+       Map Author: Erik Alm
+------------------------------------
+           sc02o660.lmp
+
+Nomo in 0:06.60
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Also vert moused for this one. I think it helps with getting more wallruns, just need to be quite careful about not moving mouse too much at the door, or you could mess up the door boost. Exit switch is a bit of a pain to get, and not all door boosts meant jumps; probably 30% ended in jumps and of the 3 runs that made the jump, this is the only exit. Too bad not 6.66 or 6.69. A bit over 1K attempts.

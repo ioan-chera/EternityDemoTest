@@ -1,0 +1,36 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe
+Pwad name: Scythe.wad
+Maps:      26 (Fear)
+Skill:     4
+Category:  Ultra-Violence Max 
+Exe:       PrBoom Plus 2505 (complevel 9)
+
+Time:      2:49
+
+Author:    eschdoom
+Email:     eschdoom@whatisblueandfurry.com
+HP:	   http://www.whatisblueandfurry.com/eschdoom/d2r.html
+
+Comments:  
+
+I spent quite a while playing this map. It's a lot of fun.
+
+A very ugly start followed by a lot of luck at the first switch.
+Later on a nasty delay getting stuck by a revenant after getting the yellow key.
+Still room for improvement.
+Also at the end maybe more can be done to take out the guys on the ledge above when
+down below.
+
+I watched Huy Pham, Krypto and Tatsurd-cacocacos demos a load of times to get the general
+idea on how to play this map so main credit goes to them.
+
+I started out using Doom2 (complevel 2), I have a 3:05 demo on this but kept having
+demo sync issues so I ended up using complevel 9 (Boom).
+It just so happens that this complevel also makes this map a hell of a lot easier
+because the cybies can be knocked off the ledges easily and this saves you a lot of time.
+
+To play the demo use:
+prboom-plus.exe -complevel 9 -iwad doom2.wad -file scythe.wad -playdemo sc26uv249.lmp

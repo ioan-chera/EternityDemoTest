@@ -1,0 +1,34 @@
+This is a Doom .LMP - Please forward it...
+
+sf27-920.txt
+
+sf27-920.zip
+
+sf27-920.lmp - Ultra-Violence Max with fast monsters
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 27 - Terror
+
+
+================
+Kills      100%
+Items       90%
+Secrets    100%
+----------------
+Time       9:20
+================
+
+
+Description:
+
+Very slow and safe run. However, no one had done it for a long time.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

@@ -1,0 +1,18 @@
+SC26N031.TXT
+SC26N031.LMP
+SC26N031.ZIP
+
+Player : megasphere308
+Date : 2021-06-02
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP26 Fear
+Source port : dsda-doom v0.18.0
+Time : 0.31.14
+
+Description :
+
+2 seconds improvement since my previous pb. The couple of cybers at the start is the most annoying part.
+And the ending of course, where it's pretty rare to find a straight way to the exit.
+
+megasphere308@gmail.com

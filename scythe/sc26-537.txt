@@ -1,0 +1,17 @@
+Iwad: DOOM2.wad
+Pwad: SCYTHE.wad
+Port: Crispy Doom v5.9.2
+Map: 26
+Skill: 4
+Category: UVMax
+
+Time: 5:37
+
+Author: BaileyTW
+
+Comment: Not bad for a map I didn't even think i could beat not even a month ago. Was playing through it a few times
+and I blew myself away that I could get under 9 minutes let alone my first time of 13. Took it down a minute each 
+succesful run before I got down to around this time a few times, and this was the run I felt satisfied with. Far from
+perfect, lots of me rushing for health after taking a lot of damage, or running out of ammo and scrambling for more.
+If I was bolder I could cut through crowds with the bfg to mitigate a lot of waiting but I'm just not there yet. For
+now this a time I am satisfied with.

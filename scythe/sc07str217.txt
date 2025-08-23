@@ -1,0 +1,19 @@
+              Scythe
+          Map 07: Deadly
+       Map Author: Erik Alm
+------------------------------------
+          sc07str217.lmp
+
+Stroller in 0:02.17
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: RJ becomes much harder without running, so it took some time to find a way to do this; this seemed to be the best approach. Close to 1, don't know how to get there, though. 2 tics could be taken off by switching movement direction at the end (I was continuing to hold move forward even though it was the wrong direction), but the rest would have to come from a wallrun or something like that, and I can't be bothered to try for that.

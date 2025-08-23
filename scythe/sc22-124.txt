@@ -1,0 +1,16 @@
+PWAD: Scythe
+PWAD Name: Scythe.wad
+PWAD Author: Erik Alm
+Map: 22
+Skill: 4
+Category: UV-Max
+Exe: GlBoom+ v2.5.1.4 -complevel 2
+Time: 1:24
+
+Author: rdwpa
+
+I ran a couple of sessions out of this to relax after running a much longer map. It's kind of zen, being killed by revenant missiles over and over again without armor. I was pretty sure I hated that, but I guess not. I also discovered that the Doom RNG is not evenly distributed -- a little known factoid in the source code is that you are way more likely to attract 60-80 damage revenant rockets when you have roughly that amount of HP and a rocket will result in a one-shot death.
+
+This isn't perfect ofc but I got really good cleanup + infighting outside, which was pretty good, and reached my target goal of improving on my 1:28. I basically go for the YOLO two-shot whenever the cyber starts firing wherever I am and however awkward it is because I'm a badass like that, but this time it kind of messed me up *bashful smile*. Turns out I'm actually decent enough at reverse-positioning two-shots on bridges lol for this not to be a common run-killer. :D I only used three SSG shots after the BFG stuff, which was fine I guess. I save a BFG shot for the last area if I can help it, because it's really annoying to grab those little cells in such a tight space.
+
+I included the 1:28 because it was my first target goal. Credit to Snakes for the route. 

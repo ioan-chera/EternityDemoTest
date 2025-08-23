@@ -1,0 +1,25 @@
+sc16-146.txt
+  sc16-146.lmp - Ultra-Violence Max
+
+  Recorded using prboom-plus 2.5.0.7 with Doom 2 compatibility (-complevel 2)
+
+  Scythe - map 16 - Burial Grounds (by Erik Alm)
+
+  ================
+  Kills      100%
+  Items      100%
+  Secrets    100%
+  ----------------
+  Time       1:46
+  ================
+
+  Description:
+  5s improvement over psicho's run. I got better infighting at the graveyard,
+  worse one in the church, but the archvile telefrag evened that out I guess.
+
+  I got 1:48 very quickly and felt it was cheap. I clearly underestimated
+  the infighting luck bestowed upon me, 'cause this one took hours of grind.
+
+author: dew
+e-mail: dewww@seznam.cz
+recorded on 30. 8. 2010

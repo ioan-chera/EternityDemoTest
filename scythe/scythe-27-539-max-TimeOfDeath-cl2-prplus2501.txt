@@ -1,0 +1,10 @@
+scythe.wad
+prboom-plus 2.5.0.1
+-complevel 2
+October 17, 2010
+
+map27 max 5:39
+
+by TimeOfDeath
+
+I watched tatsurd's demo before trying this.

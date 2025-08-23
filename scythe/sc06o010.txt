@@ -1,0 +1,15 @@
+              Scythe
+      Map 06: Pressure Point
+       Map Author: Erik Alm
+------------------------------------
+           sc01o010.lmp
+
+Nomo in 0:10.91
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: 1 second improvement over last demo since I'm less lazy now. Still not going for 9, although it should be possible with really good movement in the last area, but those barrels are hard to navigate.

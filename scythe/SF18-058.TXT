@@ -1,0 +1,36 @@
+This is a Doom LMP Entry
+
+SF18-058.ZIP
+
+	SF18-058.TXT
+	SF18-058.LMP - UV -Fast
+
+Recorded using Doom2 Version 1.9
+
+Scythe - Level 18 - MS Futura
+
+=---+------+---=
+Kills       100%
+Items        33%
+Secrets     100%
+ 
+TIME        0:58	Old record: 1:22 by Jochen 'Angus' Schneidau
+=---+------+---=
+
+Demo entry #5.
+
+Description:
+
+Gusta is right, this level is really designed in the Duke3D style. I love it
+even more than the previous 17 maps. A strong, atmospheric design, the buildings
+and the crane look great. That majestic fire gate is one of the coolest objects
+I ever saw.
+
+My first demo with some Strafe50. A great fun action, it takes some luck to kill
+everyone in time and avoid getting blasted. My plasma aiming inside the building
+was not flawless, but other than that, the demo went OK.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 31, 2006, 8:59:56

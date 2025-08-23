@@ -1,0 +1,26 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe (by Erik Alm)
+Pwad name: scythe.wad
+Map:       26
+Map name:  Fear
+Skill:     5
+Category:  NM Pacifist
+Exe:       doom2.exe
+
+Kills:      17%
+Items:      33%
+Secrets:     0%
+
+Time:      1:03
+
+
+Comments:  3rd exit after an hour. Not as hard as I expected. The two Cybies at the exit ruined
+           some runs. But here I must say: "Thank you, Mr Mancubus!" :) Respawning revenants can
+           also be a pain.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+           05.01.2004

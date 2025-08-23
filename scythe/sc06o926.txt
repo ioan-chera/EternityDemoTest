@@ -1,0 +1,20 @@
+              Scythe
+      Map 06: Pressure Point
+       Map Author: Erik Alm
+------------------------------------
+           sc06o926.lmp
+           sc06o974.lmp
+           sc06o021.lmp
+
+Nomo in 0:09.26
+Nomo in 0:21.29 (no wallrun)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Looks much cleaner than my 9.74 and is still not too close to 8s, so I don't think I'm going for that time at the moment. Also included my best run on the no wallrun route which was a 0:21.29. Not too fun on that route due to the wait section either, and it's not the optimal route so I didn't go for 20s much. Might shoot for 20 if I do nomo100, though, as that would be equal to nomo since it's possible to get the secret and even the green armor during the wait sections at the start.
+
+Old 9s run also included

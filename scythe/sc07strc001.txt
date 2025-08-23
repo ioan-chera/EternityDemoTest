@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP07: Deadly
+Category: Stroller Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.3.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:01.97
+-------------------------------------------
+4shockblast:
+
+Here's an abbreviated version of my run so you don't have to watch my side: MF25. :^)
+
+GarrettChan:
+
+Move at the first frame, turn in the perfect angle, buffer your LMB. Repeat.
+
+Oct 20 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

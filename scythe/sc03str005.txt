@@ -1,0 +1,17 @@
+SC03STR005.TXT
+SC03STR005.LMP
+SC03STR005.ZIP
+
+Player : megasphere308
+Date : 2021-05-18
+IWAD : scythe.wad
+Category : Stroller
+Map : MAP03 Up and around
+Source port : dsda-doom v0.18.0
+Time : 0.05.40
+
+Description :
+
+Got so lucky here!...
+
+megasphere308@gmail.com

@@ -1,0 +1,28 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 3 Pacifist
+------------------------------------------
+    Level          Time      <  sce3p1219
+------------------------------------------
+    Map 21	   0:12         -0:00
+    Map 22	   0:49         -0:13
+    Map 23	   0:05         -0:00
+    Map 24	   0:43         -0:01
+    Map 25	   0:17         -0:34
+    Map 26	   1:25         -0:14
+    Map 27	   0:45         +0:05
+    Map 28	   0:28         -0:00
+    Map 29	   0:38         -0:26
+    Map 30	   5:26         -0:08
+
+TOTAL:            10:48         -1:31
+
+Recorded with: DSDA-Doom 0.27.5 -complevel 2
+Skill level: Ultra-Violence
+Author: 4shockblast
+WAD: scythe.wad
+Category: pacifist
+Time: 10:48
+
+Comments: It's a slow ending, which is why I held onto this a bit long, but the ending is a bit RNG anyway. 27 was a disaster as well. Everything else was alright. 29 was a bit unlucky but not too slow. Overall, time can go under 10 or 9 if really lucky.

@@ -1,0 +1,38 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP26: Fear
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 9.0.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 2:30.83
+-------------------------------------------
+4shockblast:
+
+GarrettChan's comments pretty much sum it up, but I think one more cycle at least is doable, one day we'll have to redo it. I figured out after you can skip the rev linedef; should be easy enough in SP with quickstart and one player, as there's a simple strafe40 angle for it, but not so much in 2P, where you have no quickstart and have to skip together.
+
+Probably will just go with the regular route in the future and hopefully just grind it out. It's actually a rather fun run; I really expected it to be much more painful with the crossfire and difficulty in routing, but it was fine. I guess we've also improved at co-op gameplay since the respawn run, so maybe that was a factor. :D
+
+GarrettChan:
+
+We have completely no idea how bad the Rev closet design is in this map until we actually tried it.
+
+First, it's actually really difficult to do slaughter map in co-op efficiently because it's very easy to get caught on crossfire and kill your partner or get killed by your partner. Therefore, we made a route similar to the Respawn run we did, so we'll be at a different spot whenever we're trying to get the keys etc.
+
+Then, the real way to deal with the Rev closet is to trigger the switch behind the 3 keyed door as soon as possible and a crusher will be activated to kill all those Revenants, but still there are a handful of them in the buffer lift and you have no real way to kill them.
+
+Last... get lucky with the Cyberdemon fights. The Revenants came in waves so right now we can't really get into the previous cycle to finish the map. Therefore, it's always around 2:30... Hopefully one day we can find a way to finish one cycle earlier.
+
+Youtube Video: https://youtu.be/st2ECWj2ync
+
+Jun 8 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

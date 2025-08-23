@@ -1,0 +1,15 @@
+              Scythe
+     Map 12: Walk in the Park
+       Map Author: Erik Alm
+------------------------------------
+           sc12o010.lmp
+
+Nomo in 0:10.97
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: This run is pain and suffering.

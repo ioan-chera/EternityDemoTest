@@ -1,0 +1,19 @@
+              Scythe
+      Map 27: Subverted Base
+       Map Author: Erik Alm
+------------------------------------
+           sc27s054.lmp
+
+NM100s in 0:54
+
+    Kills   - 25%
+    Items   - 30%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Pretty difficult run. Went pretty well (really high health in first section), took some things safely, though. Spent 2 hours and maybe a little bit more on this yesterday and had no exits. Started attempting this today and got it in 6 minutes. That's Doom speedrunning for you. :D

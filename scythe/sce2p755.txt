@@ -1,0 +1,53 @@
+Iwad:      doom2.wad
+Pwad:      scythe.wad
+Movie:     Episode 2
+Skill:     4
+Category:  Pacifist
+Exe:       dsda-doom 0.27.5 -complevel 2
+Time:      7:55
+date:      11/16/2024
+
+Author:    avey
+
+MAP11 - 0:08
+MAP12 - 0:16
+MAP13 - 1:02
+MAP14 - 1:05
+MAP15 - 0:24
+MAP16 - 0:32
+MAP17 - 0:35
+MAP18 - 0:35
+MAP19 - 0:53
+MAP20 - 2:25
+
+Comments: well this was harder than I thought. demo time is alright I think, has some dumb mistakes and could be faster in many areas. I originally did this to see how possible a d2all pacifist would be, and although I used somewhat aggressive strats in this run to get a decent time, I think most maps in here are very doable in a d2all pacifist, the only exceptions would be map 13 and 14, 13 really only has a single bad section, and I think if done with a safe strat should be more consistent than what I did, map 14 on the other hand, I don't think doing it even with a safe strat would make it much easier.
+
+map comments:
+
+map11: don't have anything to say here, has a much more consistent strat by rocketing yourself under the bars.
+
+map12: uhh I don't have anything to say here either, can be done much more consistently by playing safely.
+
+map13: this is the first map which is somewhat of a roadblock in a d2all (in this episode anyways, I didn't try episode 1 but everything seemed fine in there), the chaingunner can sometimes never shoot, or the imps can kill him before he kills any of them and they'll block you from doing the key grab, although there's probably a much safer strat in here, I just used this one because it seemed like it's the fastest, the map should be smooth after that.
+
+map14: this fucking goofy ahh map, it's by far the hardest map in this run, there's hitscanners everywhere in tight spaces, and the strat I use in the beginning to make the monsters blow up the barrels often times doesn't work because they either never shoot, or never shoot in the direction of the barrels, or the barrels have 8 billion hp and never blow up. the chaingunners sometimes kill the hell knight before he kills them. maybe the final key can be done more easily by making the monsters kill each other and letting them out of the building, but I don't even know if it'll make it much easier.
+
+map15: should get through this map pretty much always, also I never bothered to find out where the teleporter is in practice because I didn't think I would fall, so that's why I was running around like an idiot for a bit :^)
+
+map16: sometimes the rev can be a dick and block you from going in the teleporter, but other than that this map should be fine I think. there's a much safer strat after you teleport where you just exit the building and let the enemies leave before reentering.
+
+map17: this map should be fine, sometimes the vile blocks from grabbing the key and you'll get hit, but I think it should be okay unless you took alot of damage from the previous map. there's a safer strat at the end where you actually unlock the bars instead of avj-ing.
+
+map18: should be fine aswell, the strat I used to make the spider agro the mancs is probably unnecessary honestly.
+
+map19: also should be fine, sometimes the monsters block you but it seems easily preventable for me. biggest risk is the vile never targeting you before the invuln runs out, and even that seems extremely rare. unrelated but the midi in here is a banger.
+
+map20: should be fine, I don't think you should take alot of damage in here, and even if you do there's a soulsphere and a blue armor. I failed the jump to the blue key twice, which sucks but should also show you that even if you fuck up in the map it'll be okay. you should probably go and press the button in the finale sooner than I did, but this is the first time I got past map 16 and I was a bit hesitant.
+
+I'll probably do e3 pacifist another day, but from looking at it for a bit it seems completely fine except for map 25 and map 30.
+
+attempt count: 430: majority of attempts died in map 11, I think 4 attempts made it past map 14.
+
+*uses advanced hud*
+
+video: https://www.youtube.com/watch?v=ZsawUyhf1AQ

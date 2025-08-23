@@ -1,0 +1,11 @@
+Runner: ferfrancuito
+Date: 2022-Jun-21 18:51
+IWAD: SCYTHE.wad
+Category: UV-speed
+Map: 17
+Source Port: PRBoom v2.5.1.4
+Time: 0:28.60
+Attempts: 401
+
+Description:
+Lucky run! bumps and bruises escaping the demons

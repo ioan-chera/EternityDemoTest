@@ -1,0 +1,26 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       11 - Sneak Peak
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:    75%
+
+Time:      3:50
+
+Comments:  This is for stealing my st14 record, Gusta ;)
+
+           Nice demo, except of some sloppy punching. The only
+           problem is the archvile, but when he's dead it
+           becomes routine. It's an excellent map for tyson :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+29.12.2004

@@ -1,0 +1,22 @@
+
+Recorded using glboom-plus 2.5.1.4 with Doom II compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 09
+Skill: UV
+Category: UV-Max
+Time: 1:12
+
+Author:   Kyle McAwesome
+Date: 12/10/2017
+
+Comments:
+Holy moly this was hard!  I had a 1:15.00 where just about nothing went right yet I still somehow couldn't beat, and it took many, many hours to finally get something better.
+
+I started this a few days ago, following tatsurd-caocaco's route with small modifications to weapon usage.  Getting below 1:20 wasn't as hard as he seemed to think at the time of his demo, but I never got what I felt like was a clean run.  I'm including the 1:16 which was the best I got using that route.  Then I decided to see if it was possible to skip the blue key through a window jump.  After practicing a little bit, I recorded a max and got that cursed 1:15 I mention above after only a few exits (also including that).
+
+I'm not even sure if the window trick is much faster, since you still have to kill the blue key imps, and my average time was lower on this route.  It certainly leads to many more failed runs, as there is now the risk of getting blocked trying to jump to manc platform, the risk of killing yourself trying to shoot the manc from the window, and the general risk of failing either the first box jump or subsequent jump to the platform even without monsters.
+
+If anyone wants a super annoying trick, you can press the lift switch before heading to the rocket launcher and then hope monsters block it enough times that it is still down.  I decided very quickly I didn't have patience for that.  Sorry for short intermission screen, I kind of spazzed out in the last room because it felt so fast.  I don't want to rewatch this demo or know the millisecond time because I'll probably try to beat it again.

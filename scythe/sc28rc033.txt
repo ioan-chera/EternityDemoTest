@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map28: Run from It
+Category: UV Respawn Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 11.3.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:33.17
+-------------------------------------------
+4shockblast:
+
+At least this will leave some run for this map on this category; one day, maybe I will go for the stupid death slide strat to fill this SP. :)
+
+GarrettChan:
+
+Strange category where it's actually harder than Max in this map since you don't need 100% kills to get Max.
+
+Oct 14 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

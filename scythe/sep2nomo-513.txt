@@ -1,0 +1,24 @@
+WAD: Scythe
+MAPS: MAP11-MAP20
+Time: 5:13
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+MAP11: 0:16
+MAP12: 0:16
+MAP13: 0:30
+MAP14: 0:28
+MAP15: 0:16
+MAP16: 0:28
+MAP17: 0:31
+MAP18: 0:20
+MAP19: 1:23
+MAP20: 0:44
+
+GRAND TOTAL: 5:13
+
+A TAS could definitely get this under 5 minutes, and perhaps better, careful
+playing on my part. (I bumped into a lot of things and was only 95% sure of
+my route and movements instead of 100%.) I'll try to improve this. :)
+
+--Doomdaniel95

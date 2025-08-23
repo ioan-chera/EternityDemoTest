@@ -1,0 +1,15 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28o027.lmp
+
+Nomo in 0:27.66
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Cool concept, but I find this run boring in -nomonsters, so I didn't really try too hard for this demo (it's even slower than Kimo's 0:27 Pacifist). 0:26 might be possible, and the RJ route might be a bit faster if done well, but it's just not a fun run for me.

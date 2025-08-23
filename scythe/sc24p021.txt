@@ -1,0 +1,19 @@
+              Scythe
+         Map 24: Hatred
+       Map Author: Erik Alm
+------------------------------------
+           sc24p021.lmp
+
+Pacifist in 0:21
+
+    Kills   - 0%
+    Items   - 16%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: I had so much practice with these tricks in nomo/nomo movies that this wasn't too hard. After I practice the tricks a bit with rerecords with monsters, I got over my fear of the revenant crowd, and this became much more doable. :) Probably doing the tricks in a quicker way as in nomo and maybe really good luck with the crowd/AV at the end could yield a 20s run.

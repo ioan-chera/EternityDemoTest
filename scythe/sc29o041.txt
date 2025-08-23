@@ -1,0 +1,15 @@
+              Scythe
+       Map 29: Hell on Earth
+       Map Author: Erik Alm
+------------------------------------
+           sc29o041.lmp
+
+Nomo in 0:41.31
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Keygrab is easiest doable at an angle from this direction, though it doesn't happen every time anyway. Running through the crate rooms is really annoying, and I had some ugly moments there in this demo. 40 is clearly possible, but I'm not interested in grinding it.

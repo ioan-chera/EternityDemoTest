@@ -1,0 +1,30 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       05 - Slimy Tunnels
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:    50%
+
+Time:      1:16
+
+Comments:  My 75th Scythe demo :)
+
+           Did a lot of runs between 1:27 and 1:35 during
+           the last two hours. I knew I could do it under
+           1:20. Finally this happened. It's not bad, but I
+           lost a few seconds at the berserk pack.           
+
+           It seems that a time below maxtime is possible,
+           especially when quitting the armor.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+18.12.2004

@@ -1,0 +1,36 @@
+This is a Doom .LMP - Please forward it...
+
+sc15-137.txt
+
+sc15-137.zip
+
+sc15-137.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 15 - Blood Bath
+
+
+================
+Kills      103%
+Items       66%
+Secrets    100%
+----------------
+Time       1:37
+================
+
+
+Description:
+
+Good improvement from the old record. Under 1:40 was my target.
+The best part is the room for the blue key. I was able to kill
+4 cacos with only 6 rockets.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

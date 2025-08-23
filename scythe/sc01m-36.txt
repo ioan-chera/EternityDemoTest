@@ -1,0 +1,16 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+player: wuslamclan
+date: 04/11/2022
+wad: SCYTHE.WAD
+wad name: Scythe
+complevel- 2
+map: 01
+category: UV-Max
+time: 36.31
+Exe: DSDA-Doom v0.24.3 with extended HUD
+Youtube Link: https://youtu.be/iN4ACyHyl8g
+comments:
+
+

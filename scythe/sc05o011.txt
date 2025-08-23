@@ -1,0 +1,15 @@
+              Scythe
+       Map 05: Slimy Tunnels
+       Map Author: Erik Alm
+------------------------------------
+           sc01o011.lmp
+
+Nomo in 0:11.43
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Not sure if 0:10 is possible, this went pretty cleanly, but the running here is somewhat difficult to do well, as the floors are pretty uneven.

@@ -1,0 +1,13 @@
+This is a submission for the Doom Speed Demos Archive: https://www.dsdarchive.com/
+
+Sourceport:       crispy-doom-5.10.0
+IWAD:             DOOM2.WAD
+PWADS / Files:	  SCYTHE.wad
+Game:             DooM 2: Hell on Earth
+Map:              MAP02: Punchline
+Difficulty:       No-Mo
+Category:         No-Mo
+Current record:   7.34 by Dastan
+This run:         9.69 by AmnesiaSilence
+
+Description: no comments

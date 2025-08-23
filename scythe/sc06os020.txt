@@ -1,0 +1,15 @@
+              Scythe
+      Map 06: Pressure Point
+       Map Author: Erik Alm
+------------------------------------
+           sc06os020.lmp
+
+Nomo100 in 0:20.94
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Well, this isn't really part of the Scythe nomo journey, but I can't stand having this .06 on my DSDA page. It was like 2K attempts in 2016 for it, btw; under 250 for this. :^)

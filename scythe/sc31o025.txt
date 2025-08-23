@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe.wad
+Pwad name: Scythe
+Map:       31
+Skill:     4
+Category:  Nomonsters
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      0:25
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Why nobody used this obvious route before?

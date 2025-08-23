@@ -1,0 +1,19 @@
+Pwad: scythe.wad   
+Map:      4
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      0:49
+
+-complevel 2
+
+Author:	   j4rio
+
+I found a way to save some miniscule amount of time right at the start.
+First, you can bypass forced shotgun swap even if you use chainsaw at
+sarge point-blank. Obviously unreliable and random. Second, now that
+there is no need to use pistol, you can go straight for chainsaw. To
+unleash it a tiny bit faster, you can use weapon swap shortly before
+grabbing it. The awkward placement of that chainsaw doesn't really help
+though. Lower times should be quite reachable, but those constant 
+restarts in first 5 seconds aren't particularly motivating.

@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe.wad
+Pwad name: Scythe
+Map:       18
+Skill:     5
+Category:  NM-Speed with 100% secrets
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      0:15
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  I don't know how to make this jump reliably,
+           was ready to make maaany tries, but made it soon.
+           Dead exit.

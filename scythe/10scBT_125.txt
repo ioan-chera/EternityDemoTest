@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+This is a Tool-Assisted DooM .LMP
+
+10scBT_125.LMP - UVSPEED NoMo 2 Player Co-op
+  
+
+
+Built with xdre -First demo using xdre :) -
+
+
+
+-iwad Doom2 -file scythe -complevel 4 -playdemo 10scBT_125
+
+Thanks for watch :)
+      
+Author: Siprem

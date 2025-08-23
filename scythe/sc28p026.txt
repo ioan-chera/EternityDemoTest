@@ -1,0 +1,19 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28o026.lmp
+
+Pacifist in 0:26
+
+    Kills   - 36%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: 26 isn't that hard even with monsters, just a little more luck-based at some points, and movement needs to be tighter to get below 27. Got a little tedious after a while, but I've come to kind of appreciate the movement in this map. I had the linedef skip for the lowering floor near the end of the map in this attempt, but it's not necessary for 26 (I had 27.06 without it); it's pretty difficult to use either way because by the time the linedef skip happens, I'm pretty much stuck in a strafe50 and can't use the skip. Included is a bonus demo of another less beneficial linedef skip of the revenant raise at the end; the revenant is placed right in my path, so he blocked me pretty often (this happened on at least three attempts).

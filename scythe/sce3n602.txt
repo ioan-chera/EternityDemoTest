@@ -1,0 +1,49 @@
+           Scythe
+    WAD Author: Erik Alm
+-----------------------------
+    Episode 3 NM-Speed
+-----------------------------
+    Level          Time
+-----------------------------
+    Map 21	   0:28 :) 
+    Map 22	   1:22 :)
+    Map 23	   0:06 :|
+    Map 24	   0:53 :|
+    Map 25	   0:23 :|
+    Map 26	   0:34 :)
+    Map 27	   0:22 :|
+    Map 28	   0:30 :(
+    Map 29	   0:37 :|
+    Map 30	   0:47 :|
+
+TOTAL:             6:02 :)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Filler run, last undone episode NM-Speed completed! Not easy, though I didn't aim for the safest strategies either, so might still be reasonable to perform in a full run. Took only about a couple hours to get this total (including routing), and fewer than 150 attempts. :P
+
+Map 21 (0:28): Initially was doing only faster strategies here, eventually got pissed and took any time even if things went poorly. This was one of the faster runs, though, so I'm happy.
+
+Map 22 (1:22): First time I tried hiding in the blue key staircase area since I checked that it was also behind sound blocking lines beforehand. Dunno if that is more likely to survive, or I just got lucky, but this was a relatively fast time compared to what I got before.
+
+Map 23 (0:06): .00, just barely a 6. :P Apparently, my UV-Speed was also 6.00, which is kinda funny. Sometimes I'd take a lot of damage here and either come to map 24 with really low health or death exit (which usually failed due to lack of weapons).
+
+Map 24 (0:53): Kinda low health after taking damage at the start, and I screwed up the lift, so I dunno how I didn't get hit by any projectile. Nearly got screwed at the demons too, pretty lucky to survive this map.
+
+Map 25 (0:23): The second arach seems to die less from BFG tracers on NM, but this map is pretty easy since I can easily kill everything in my way.
+
+Map 26 (0:34): Had one other run that got this far that died on this map, those cybers really don't want to let you in often, which results in poor chances of survival at the revs and upper platform since I run out of invuln. This was super fast, though.
+
+Map 27 (0:22): Slow isnce I kill everything at the start, I didn't really care about time at this point at all (first run to get this far).
+
+Map 28 (0:30): Picked up some extra ammo at the start for no reason, and the rest of the map didn't have great movement I guess, so the time is slow.
+
+Map 29 (0:37): Improvised route here after taking all that damage, I'm lukcy that archvile came out of the first building, he often wouldn't do that. My plan was to use the individual level run archvile since he attacks quickly on NM. As a result, time is slow.
+
+Map 30 (0:47): Got many blocks here, but who cares. :D
+
+Recorded May 20, 2016

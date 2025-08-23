@@ -1,0 +1,24 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       16 - Burial Grounds
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      30%
+Items:       0%
+Secrets:     0%
+
+Time:      0:35
+
+Comments:  Quite easy run. You need some luck of course, and
+           good timing with the archviles.
+           Three of four seconds faster would be great.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+12.08.2005

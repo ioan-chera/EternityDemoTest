@@ -1,0 +1,35 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	11-20
+Skill:	4
+Category:	UV Max
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	36:28
+-------------------------------------------
+Comments:  
+First attempt, first exit. Not hard, not that good, but better than Revved's time, and that was my goal. I don't really have any map comments or anything, I got a ghost monster on MAP15 and that was pretty funny though, so be sure to check that out. Also, fuck MAP32, that shit is garbage. 
+
+
+MAP11 - 2:47 / 2:47 		 K:  85/85    	S: 4/4 
+MAP12 - 1:22 / 4:09	 	 K:  43/43 		S: 2/2 
+MAP13 - 2:31 / 6:40	 	 K:  75/75      	S: 2/2 
+MAP14 - 1:46 / 8:26 	 	 K:  51/51      	S: 1/1 
+MAP15 - 4:34 / 13:00 	 K:  65/65      	S: 3/3 
+MAP31 - 4:06 / 17:06 	 K: 124/124    	S: 5/5 
+MAP32 - 3:06 / 20:12  	 K: 141/141     	S: 0/0 
+MAP16 - 2:27 / 22:39  	 K:  49/49      	S: 1/1 
+MAP17 - 3:50 / 26:29  	 K:  97/97    	S: 1/1 
+MAP18 - 2:02 / 28:31 	 K:  25/25     	S: 2/2 
+MAP19 - 5:46 / 34:17	 K: 181/181   	S: 1/1 
+MAP20 - 2:11 / 36:28	 K:  84/84     	S: 1/1 
+
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531

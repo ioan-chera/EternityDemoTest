@@ -1,0 +1,18 @@
+General Info
+
+    PWAD: Scythe (scythe.wad)
+     Map: Hatred (24)
+   Skill: 4
+Category: Stroller
+    Port: GLBoom-plus 2.5.1.4-k -complevel 2
+  Author: 0xf00ba12
+
+Run Info
+
+    Time: 1:33.89
+
+Comments
+
+The skel horde can be baited out of the way consistently enough, it was just a matter of how much health I escaped with. The true toss-up was wiggling around the eight Pinkies past the Cyberdemon.
+
+Thanks to Erik Alm.

@@ -1,0 +1,19 @@
+              Scythe
+      Map 04: Lost Warehouse
+       Map Author: Erik Alm
+------------------------------------
+           sc01s027.lmp
+
+NM100s in 0:27
+
+    Kills   - 28%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Didn't take too long to get this, also faster than current NM-Speed record. However, after I got this run, I had a hard time getting anything going with this map for some reason, and I could not beat it, so I'm leaving it at 27 for now.

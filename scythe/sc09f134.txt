@@ -1,0 +1,18 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      scythe.wad
+Map:       MAP09
+Skill:     4
+Category:  UV Fast
+Exe:       dsda-doom 0.22.1 -complevel 2
+
+Time:      1:34.77
+
+Author:    kmc
+
+Comments:
+For Beat .00/:00 Demos Month
+
+horrible demo

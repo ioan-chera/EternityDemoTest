@@ -1,0 +1,24 @@
+Pwad: scythe.wad   
+Map:      26
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.3
+Time:      1:15:16
+
+-complevel 2
+
+Author:	   j4rio
+
+
+I received a hint that this map is doable in tyson. It wasn't even particularly
+difficult, but still an obnoxious excercise. The idea was letting cybers handle 
+encounters slowly, not releasing new packs until all previously unleashed ones 
+are completely cleaned out. This maximizes damage output to distant cybers. The 
+main source of damage are constantly reviving archviles. Most of things are out
+of player's control and you have to pray for good infights. I had to terminate
+around 5 attempts that were over an hour in because infights were insifficient.
+In case cyber horde manages to prevail, there is also an archvile right before
+exit that can be unleashed for revenge and revive another hundred monsters, but
+this time things went so smooth that this wasn't even necessary and I could just
+pummel it. Even invulnerabilities that I kept to take out leftover cybers turned
+out completely unnecessary.   

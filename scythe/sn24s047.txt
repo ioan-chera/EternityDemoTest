@@ -1,0 +1,27 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       24 - Hatred
+Skill:     5
+Category:  NM100S
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      26%
+Items:      66%
+Secrets:   100%
+
+Time:      0:47
+
+Comments:  Back to one of my favourite maps :)
+
+           It's not harder than NM Speed. The blue door is
+           still the biggest problem. I was very lucky here.
+           Thx to the baron who held the door open, sadly he
+           died thereafter :(
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+26.06.2005

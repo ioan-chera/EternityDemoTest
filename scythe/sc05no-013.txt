@@ -1,0 +1,18 @@
+WAD: Scythe
+MAP: MAP05: Slimy Tunnels
+Time: 0:13.77
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Comments:
+
+I got this in 10 minutes. :P That said, this isn't the prettiest demo..
+there are many tics still to be cut, maybe even a second.
+
+It can definitely be a little bit faster if SR50 is used to perform that
+jump from a shorter distance than one can do with just SR40 (and this is
+a SR40 only demo, like all my normal demos). 
+
+This'll just be up as the record until somebody gets a 12, I'm sure.
+
+--Doomdaniel95

@@ -1,0 +1,16 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      SCYTHE.WAD
+Map:       MAP08
+Skill:     5
+Category:  Other
+Exe:       dsda-doom 0.18.0 -complevel 2
+
+Time:      0:21.69
+
+Author:    kmc
+
+Comments:
+Unhoarding

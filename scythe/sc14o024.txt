@@ -1,0 +1,15 @@
+              Scythe
+       Map 14: Power Outage
+       Map Author: Erik Alm
+------------------------------------
+           sc14o024.lmp
+
+Nomo in 0:24.74
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Damn annoying run. Sharp turns, barrels blocking me, jagged staircases, relatively small door, the entire yellow key room all make this run very irritating due to easy bumps. 25 still came very quickly on first exit, but 24 was annoying to get, and I had 25.06 and 25.03 before this. Maybe 23 is possible, but I'm not enjoying this enough to bring it down any further.

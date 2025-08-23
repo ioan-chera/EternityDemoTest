@@ -1,0 +1,27 @@
+Game: Doom 2
+Pwad: SCYTHE.WAD
+Filename: c216n046.lmp
+Skill and Style: 5 (Nightmare!)
+Map Level: 16 (Burial Grounds)
+Exe/Port used: GLBoom 2.2.4 -complevel 0
+
+Totals:
+Kills      34%
+Items       100%
+Secrets     100% and (Time- 0:39)
+
+Comments: 
+Yay!  Story on this one...I started out with a :41 exit today using the tactic of hitting exit switch thru the final Arch-Vile.  Problem is...I fumbled with the RSK switch.  I didn't want that, so I tried some more.  After dozens and dozens of attempts, I got a :40.  It still looked a little ugly in places, but at least it was better looking than the :41.  After that, I decided to give it one last shot.  After another batch of attempts, this comes up.
+
+Took 80+ attempts today just to get this demo.  I play more aggressively at the start compared to my previous :46 for the level.  After that, my Berserk+Megaarmor strategy went perfectly.  Heck, it went so well that I really didn't need to pick up the Medkit I usually save before going into the Church.  1st part of Church went well.  After hitting RSK switch, the revenant downstairs wasn't as cooperative as he was in my :46.  He also gets blasted into the teleporter by my Plasma Gun, but wasn't dead yet.
+
+The next part...well, let's just say that considering it's Nightmare difficulty, I had a very close call here.  
+
+The final Arch-Vile was easy, just blasted him a few times to make sure I wouldn't fail in hitting the exit switch thru it and then...well, hit the exit switch ^_^.
+
+All in all, I must say I'm happy with the time I got.  If there were any mistakes, they were very minor.  
+
+Time-wise, it may be possible to improve it a bit more.  Perhaps :38 or :37 is possible.
+
+Brian "Anima Zero" Nesser
+Bri8527@aol.com

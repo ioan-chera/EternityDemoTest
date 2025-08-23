@@ -1,0 +1,19 @@
+              Scythe
+            Map 19: AD
+       Map Author: Erik Alm
+------------------------------------
+           sc19-019.lmp
+
+NM100 in 0:23.
+
+    Kills   - 12%
+    Items   - 25%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: 29 attempts.

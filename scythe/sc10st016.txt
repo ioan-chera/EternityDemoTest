@@ -1,0 +1,19 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Scythe
+Map: 10
+Category: UV-Stroller
+
+Time: 0:16
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 9/4/2011
+
+Comments: Hopefully this is valid, I know the barrels can damage the barons.  None die in this one though
+
+
+

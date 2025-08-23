@@ -1,0 +1,30 @@
+These are Tool-Assisted DooM .LMPs - Please forward it...
+
+
+Scythe Bonus Run
+
+=========================================
+ 31    I Dunno Torn (normal exit)  0:30
+ 31    I Dunno Torn (secret exit)  0:08
+ 32    Enoz Soahc                  0:54
+=========================================
+
+
+Some maps retaken
+
+=========================================
+ 03    Up and Around               0:16
+ 04    Lost Warehouse              0:14
+=========================================
+
+
+ Recorded using prboom-plus 2.4.8.2 (-complevel2) 
+ Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+ Movement  : Strafe50 and Strafe40 on turn
+
+
+ Author    : Tatsuya "Tatsurd-cacocaco" Ito
+ E-Mail    : tatsurd@yahoo.co.jp
+ Homepage  : http://cacocacodemon.hp.infoseek.co.jp/
+ Youtube   : http://www.youtube.com/user/tatsurdcacocaco

@@ -1,0 +1,11 @@
+WAD: Scythe
+Map: 23
+Skill: 4
+Category: Tyson
+Exe: Dsda-Doom 0.19.7
+Time: 18:02
+
+- complevel 2
+
+Author: KineticBeverage
+Comments: Saw Great Tyson Demos of 2016 thread, took a look into this, not too bad. 15 attempts in just over an hour. Infighting at end didn't go as planned.

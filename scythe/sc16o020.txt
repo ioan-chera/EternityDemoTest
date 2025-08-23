@@ -1,0 +1,15 @@
+              Scythe
+       Map 16: Burial Grounds
+       WAD Author: Erik Alm
+------------------------------------
+           sc16o020.lmp
+
+Nomo in 0:20.60
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: 20 is not too precise thankfully, so it's a matter of getting passable end hallways (or at least one good one). Here, I got absurd movement "luck" there. Crazy tic time as a result I think. :)

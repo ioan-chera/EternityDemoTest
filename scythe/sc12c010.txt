@@ -1,0 +1,30 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map 12: Walk in the Park
+Category: Pacifist Co-op
+Player 1: 4shockblast (Green)
+Player 2: dew (Indigo)
+Exe: Woof 10.3.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:10.63
+-------------------------------------------
+4shockblast:
+
+Garrett and I have already covered a lot of the Scythe UV-Speed 2P runs with interesting stuff for both players to do, this one was one of the few remaining obvious choices: 3 key map with both players having reasonable routes to get to both keys and exit. The start was one of the biggest run killers, as typical of co-op; for a while, the imp would always block me because it would go forward, meaning I couldn't go on this side of the crate, which is too slow for my side, but even after dew modified his movement to prevent that, I'd get blocked occasionally, or the zombies on the way back would block. The red bars are a huge pain, as usual, though the barons proved to be even more painful. In principle, seems like they should be consistent, but it's hard to do that part correctly each time. Ideally, both are triggered and then move out of the way, but even then sometimes I'd get stuck on them on the way in or out. This time, I only alerted one, but thankfully, other than minor bumps, it didn't lose too much time. Overall, glad it wasn't 10.97, had to go thru a lot of really close-seeming 11s to get this.
+
+dew:
+
+First speedrun in a long time, but it's my old stomping ground, so I slipped back into grind mode easily. Shock chose the map and our roles were more or less decided by him hosting the game as player 1. I made things unnecessarily hard for myself at first and kept trying to jump outside in one fluid motion, but that had massive failure rate for both my jump and shock getting denied by the crate imp. After several hundred attempts I switched to this slightly slower opening, the imp kindly stepped aside and our success rate shot up wildly. After that it was just a matter of squeezing out the 10.xy before my wrist falls off - my puny travel laptop and the tables at quakecon weren't the comfiest setups I've played on. When we finally got it, it was a surprisingly clean run (for my part, nothing surprising for shock's, amirite) where everything fell into places, so the tic time was a pleasant reward.
+
+YouTube video: https://www.youtube.com/watch?v=q1oCmBXiXZM
+
+Aug 13 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: dew
+https://www.youtube.com/@dewsey

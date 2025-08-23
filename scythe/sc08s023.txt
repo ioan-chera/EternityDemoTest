@@ -1,0 +1,16 @@
+Recorded using dsda-doom 0.18.0 -complevel 2
+
+Pwad: Scythe
+Map: 08
+Skill: 5
+Category: Nightmare with 100% Secrets 
+
+Time: 0:23
+
+Author:   kmc
+
+Date: April 20, 2021
+
+Comments:
+
+I did this a few days ago on stream.  I tried for 0:22, but it got too annoying.  Possibly the correct route is to jump and activate the switch at the beginning, then proceed as normal.  I got a few 0:24's using the jump route but with movement mistakes or unlucky monster behavior.  0:21 was pretty easy on nomonsters with the jump.

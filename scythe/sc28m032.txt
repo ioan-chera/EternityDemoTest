@@ -1,0 +1,14 @@
+For http://dsdarchive.com/
+
+Player: David Asaad
+IWAD: doom2.wad
+PWAD: SCYTHE.WAD
+Map: 28
+Skill: 4
+Category: UV-Max
+Sourceport: DSDA Doom 0.19.7
+Date: June 8, 2021
+
+Time: 32
+Comments: No sr50s lol. I did this awhile ago cuz I wanted to work on my movement as far as not bumping into walls. idk how
+much it helped but it was a 4hr obsession between like 7pm and 11pm one night. Reality except for the voodoo doll thing.

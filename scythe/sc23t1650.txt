@@ -1,0 +1,19 @@
+              Scythe
+          Map 23: Anger
+       WAD Author: Erik Alm
+------------------------------------
+           sc23t1650.lmp
+
+UV Tyson in 16:50
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Just incapacitating more cybers. That first cyber was a real piece of shit anyway.

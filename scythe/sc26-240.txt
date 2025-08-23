@@ -1,0 +1,17 @@
+Iwad: DOOM2.wad
+Pwad:SCYTHE.wad
+Port: DSDA-DOOM v0.24.3
+Map: 26
+Skill: 4
+Complevel: 2
+Category: UVmax
+
+Time: 2:40:43
+
+Author: BaileyTW
+
+Comment: Returning to doom after a big break. Decided to replay scythe and once I got to 26, it's basically my comfort speedrun I always do 
+to derust so I thought why not. Like 10 attempts in got a 2:42:09 which is an improvement of 4 seconds on my time and that was with losing
+like 15 seconds to an absolute blunder in leaving an enemy below, so I just had to improve the time. Well 1700 attempts later I got this time
+which I am quite content with. Will definitely return to this later, I just feel it is possible for me to get record and drop it a significant
+amount but I just dont quite have the consistency yet. Maybe soon.

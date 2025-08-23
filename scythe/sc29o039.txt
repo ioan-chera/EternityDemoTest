@@ -1,0 +1,15 @@
+              Scythe
+       Map 29: Hell on Earth
+       Map Author: Erik Alm
+------------------------------------
+           sc29o039.lmp
+
+Nomo in 0:39.77
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Old demo was pretty bad because this run is kind of annoying. Doing the instant keygrab is kind of annoying, and then the rest of the movement in the map is pretty hard and there's a lot of places with easy bumps. Movement here wasn't optimal, and I wouldn't be surprised if 38 were possible, it just seems like something I wouldn't enjoy grinding for.

@@ -1,0 +1,20 @@
+WAD: Scythe
+Map: 31
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.27.5
+Time: 0:23.66
+
+Author: 	Kinetic
+Demo Date:	August 2nd, 2024
+Attempts:       1480
+Practice:	(Prior attempts)
+Grind:		1 hr 58 min
+Goal:           WR
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+After some other nomos, I wanted to revisit this, and I have certainly improved at nomo the last few months. This run isn't super clean, but it feels good to beat a run that I had no chance in hell of ever beating last year when I first tried this, and a run that I was still a ways off of beating a few months ago.

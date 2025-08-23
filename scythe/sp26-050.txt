@@ -1,0 +1,27 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe (by Erik Alm)
+Pwad name: scythe.wad
+Map:       26
+Map name:  Fear
+Skill:     4
+Category:  UV pacifist
+Exe:       doom2.exe
+
+Kills:      11%
+Items:      13%
+Secrets:     0%
+
+Time:      0:50
+
+
+Comments:  I cannot believe that I survived this. Normally I take a megasphere before the
+           invulnerability runs out, but here I forgot it. Very strange :)))
+
+           (I can't expect Map26 from Scythe II :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+           30.12.2003

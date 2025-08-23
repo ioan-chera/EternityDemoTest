@@ -1,0 +1,53 @@
+WAD: Scythe
+MAPS: All but MAP18 and MAP24, MAP15s and MAP31s inclusive
+Time: Various times
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters
+
+I decided to create a bunch of nomonsters demos for Scythe,
+all but for 18 and 24, which already have nomo records (so
+does MAP19, but I think mine is valid to enter if you see
+the description of the current record). With some of these,
+you can tell I worked pretty hard to get a good time (MAP01:
+a couple tries for 0:11, MAP10: a few tries pulling off the
+switch trick, MAP11: a few tries to get a better time than
+0:18, used in my Scythe episode 2 nomo records, MAP13: SEVERAL 
+tries to get 0:30, MAP21: SEVERAL tries to get 0:10). Others
+suck and could probably be beaten easily. ;)
+I will probably make nomo runs for Scythe 2 and a few other
+popular WADs also...
+
+Times:
+MAP01 (Get Going!): 0:11
+MAP02 (Punchline): 0:13
+MAP03 (Up and Around): 0:20
+MAP04 (Lost Warehouse): 0:17
+MAP05 (Slimy Tunnels): 0:15
+MAP06 (Pressure Point): 0:26
+MAP08 (The Garden Base): 0:27
+MAP09 (Computer Storage): 0:24
+MAP10 (The Lords): 0:14
+MAP11 (Sneak Peak): 0:16
+MAP12 (Walk in the Park): 0:16
+MAP13 (Subverted Base): 0:30
+MAP14 (Power Outage): 0:32
+MAP15 (Blood Bath): 0:27
+MAP15s (Blood Bath): 0:33
+MAP16 (Burial Grounds): 0:29
+MAP17 (Book Lords): 0:32
+MAP19 (3000 AD): 1:24
+MAP20 (The Starport): 0:41
+MAP21 (Solitude): 0:10
+MAP22 (Despair): 0:25 
+MAP23 (Anger): 0:28
+MAP25 (Envy): 0:19
+MAP26 (Fear): 0:25
+MAP27 (Terror): 1:03
+MAP29 (Hell on Earth): 1:47
+MAP30 (Fire and Ice): 0:37
+MAP31 (I Dunno Torn): 0:39
+MAP31s (I Dunno Torn): 0:12
+MAP32 (Enoz Soahc): 0:56
+
+
+

@@ -1,0 +1,17 @@
+              Scythe
+          Map 23: Anger
+       WAD Author: Erik Alm
+------------------------------------
+           sc23o021.lmp
+	   sc23o022.lmp
+
+Nomo in 0:21.80
+Nomo in 0:22.77 (strafe40 only)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Not too hard, doesn't require an exactly perfect run, though some of the turns are somewhat tough to do while getting good strafe50s in. I had good straferunning in the hallways around the switch, rest of the run wasonly alright, but enough for 21. Don't see any potential for 20s at this point, unless new strats are used. Also, run in 22s with strafe40 only included.

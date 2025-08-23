@@ -1,0 +1,22 @@
+This is a Tool-Assisted DooM .LMP
+
+SC18x003.TXT
+
+ SC18-003.ZIP
+
+  SC18-003.LMP - Ultra Violence
+
+  Built with xdre
+
+  DooM2 - Scythe - Map18
+
+  Kills      0%
+  Items      0%            ------
+  Secret     0%  and Time  |3.09|
+                           ------
+
+  Doom -PlayDemo with Version 1.9
+
+  Description:
+  ClumsyDoomer wrote: "Dunno about UV-Speed... 3 is impossible in UV."
+  Are you sure? I would say one second is.

@@ -1,0 +1,29 @@
+This is another 15 player coop (14 Cybies and myself) on "Fear" ...
+
+Pwad:      Scythe by Erik Alm
+Pwad name: scythe.wad
+Map:       26
+Skill:     4
+Category:  UV -respawn
+Exe:       doom2.exe
+
+Kills:     101%
+Items:      93%
+Secrets:     0%
+
+Time:      2:26
+
+
+Comments:  Everytime you jump from a cave with a key and three Cybies, 80 new monsters will be
+           released. On my previous run I teleported two times, here three times:
+           80 more monsters ---> 9 seconds faster :)
+           I also take the invulnerability at the teleporters first. It's hard to get this one,
+           but after that it's very easy.
+
+           Sorry about the 101%. If the mancubus hadn't blocked me, this would have been
+           100% exactly :(
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+           19.11.2003

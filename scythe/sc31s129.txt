@@ -1,0 +1,23 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31s129.lmp
+
+NM100 in 1:29
+
+    Kills   - 50%
+    Items   - 53%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Another NM100 filled, just 29 left (that one seems much harder though doable). First exit, had some bad luck at the end, but it was otherwise OK, and one of the main reasons I did this is to show off the BFG linedef skip.
+
+The skip uses a similar technique that Looper used in his Doom 2 D2ALL UV-Speed attempts for the map 14 rocket jump. That one uses an RJ boost as well, though, but after Looper helped me by telling me map 6 wallrun jump is possible with the same technique (just without the rocket launcher), I started looking for new places to apply the trick and this linedef skip came to mind pretty quick. The technique is to strafe left into the wall on which I wallrun, turn to an angle parallel to the wall, then run back a certain distance (too far or too close won't work). Then switch to a strafe50 angle and strafe50 forwards to get the wallrun and the BFG is accessible.
+
+The setup is a bit sensitive, though, as how far you run back depends on where alongside the wallrun wall you strafe left and how long you strafe left. For NM, it's complicated further that monsters respawn often, and I'm always in a hurry to set up the linedef and rarely make it either due to nervous mistakes or getting shot out of position. The rest of the level isn't too easy either, especially on NM the demons and spectres can really mess you up. Still, I think it makes NM100 (and NM-Speed normal exit, probably) a lot easier and safer, and should be useful in max and -fast too (where it would be much easier since the monsters could all be killed).

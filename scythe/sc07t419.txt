@@ -1,0 +1,19 @@
+              Scythe
+          Map 07: Deadly
+       Map Author: Erik Alm
+------------------------------------
+           sc07t419.lmp
+
+UV Tyson in 4:19
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Chose this run early this year because Vono's run looked pretty slow, but after spending some time on it I found it to be really frustrating to get an exit on so I put it off until later. Yesterday I decided to try it again, and it was still really frustrating, but I finally got lucky enough to exit. Luck is needed in pretty much every part. The manc telefrags often do not happen (specifically the third one). Pistoling the arachs requires luck for them to group well so that I could kill 4 of them, and they'd often kill me either because I had to leave the corner to shoot one of them or because they'd just position themselves in a way that they can shoot me in the corner. Of course, punching the arachs is as usual the hardest part of the run. In this run, the last telefrag didn't work out, which lost me a few seconds, and for some time I had trouble punching the arachs, but I got pretty lucky in the end. Sub-4 would be nice, and lower would probably be possible with less pistoling and more punching, but it's hard enough to survive 4 arach kills, and with more than that it also becomes very difficult to go out to the outside square at all since there's too many arachs around.

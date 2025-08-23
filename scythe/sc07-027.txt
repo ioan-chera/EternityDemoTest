@@ -1,0 +1,14 @@
+Filename   : scythe.wad, by Erik Alm
+Title      : Scythe
+Map        : MAP07 - Deadly
+Category   : UV Max
+Exe        : PrBoom-plus 2.5.1.1 -complevel 2
+Time       : 0:27
+
+Author     : Drew "stx-Vile" Devore
+Email      : dadevore83@gmail.com
+
+Comments   : This was another fun one to run.  There's a few lucky bits like the first and second telefrags
+             as well as how cooperative the spiders are, since some of them will chase after you rather
+             than move closer to the end teleport as they did here.  I believe the final time was around
+             27.80 so I am pleased enough with this one.

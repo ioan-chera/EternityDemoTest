@@ -1,0 +1,31 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      27 - "Terror"
+Skill:     4
+Category:  Speed + Pacifist
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:10
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     0%
+           Items    20%
+           Secrets   0%
+
+Comments:
+
+The window trick jump is very awkward, which the rest 
+compensates for by being very easy. I do the jump closer 
+to the window, and with strafe50, which I found easier 
+than doing it further away. 
+
+Not telefragging the Arch-Vile is completely random; I 
+had five prior attempts where I killed it. Anyway, good 
+map, fun session. :-)
+
+Kristian Ronge
+
+zuckuss@gmail.com

@@ -1,0 +1,32 @@
+This is a Doom LMP Entry
+
+ST16-256.ZIP
+
+	ST16-256.TXT
+	ST16-256.LMP - UV Tyson
+
+Recorded using Doom2 Version 1.9
+
+Scythe - Level 16 - Burial Grounds
+
+=---+------+---=
+Kills       100%
+Items       100%
+Secrets     100%
+ 
+TIME        2:56	Old record: 5:29 by Adolf "Gusta" Vojta
+=---+------+---=
+
+Demo entry #7.
+
+Description:
+
+My first released Tyson demo. It has some ugly slowdowns, but demonstrates an
+effective route which knocked so much from Gusta's time.
+
+BTW, I really recommend watching his 4:37 demo for another wonderful level, 17.
+Brave and masterful performance, with exciting dramatic ending.
+
+
+Author: SAV88 (Artem V. S.)
+Done May 15, 2007, 17:33:08

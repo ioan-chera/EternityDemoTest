@@ -1,0 +1,35 @@
+Game: Doom 2
+Pwad: SCYTHE.WAD
+Filename: c216n046.lmp
+Skill and Style: 5 (Nightmare!)
+Map Level: 16 (Burial Grounds)
+Exe/Port used: GLBoom 2.2.4 -complevel 0
+
+Totals:
+Kills      36%
+Items       100%
+Secrets     100% and (Time- 0:46)
+
+Comments: 
+For some weird reason or another, I was looking at the sc_lmps textfile today.  Don't ask, I do random things sometimes ^_^.  I scrolled down to look at the nightmare demo times (and also looked at the list at DSDA) and was looking at the non-filled slots.  For some reason, map16 clicked into my head and I thought "I wonder if this level is beatable in NM".  After trying for only 10-15 mins without recording, I did it in 0:48.  Now I knew I had to make a NM demo if it was possible.
+
+So, I did.  Much to my surprise, this didn't take long at all (18 attempts over 10 minutes).  That doesn't mean it's easy.  A few things are left up to lady luck to decide if you succeed or fail.  In this demo, the 3 out of the 4 spots went just the way I wanted it to.  The start isn't too overwhelming, you just gotta get past that bull demon.  After reaching the green armor (Which is VITAL for the next part.  Save the medkit for later.)...
+
+#1. Arch-Vile #1 at Berserk+Megaarmor--- After snagging the RSK and Plasma Gun (which is also vital to success here), you have to go get the Berserk and Megaarmor.  Problem is... there's an Archie that makes it very difficult to do as he will fry you.  That's the plan actually if you want to go fast.  What needs to happen here is after being hit, one of the revenant's missiles must hit the archie.  With the archie distracted, grab the two items, then go pick up the BSK and drop down.  Grab the medkit I told you to save in case you were hit on your way to the BSK and go towards the church.  
+
+To survive in the church, take out the imps on your left side while using the pillars as cover from the archie.  After that, run forward and hit the RSK switch fast, before the archie here can fry you.  One more switch inside and you can get to the teleporter which will give you access to the YSK.  However...
+
+#2. The Revenant at YSK teleporter--- One fugly skeleton blocks the teleporter.  Hopefully he goes to the left or right enough so his missiles don't hit you.  The revenant did just that, which surprised me.  Get into the teleporter and...
+
+#3. Arch-Vile #2 at YSK--- Remember the archie I mentioned in the church?  Well, hope you can telefrag the bastard.  Otherwise, you'd better hope you can duck inside the RSK door quick enough before you're burnt to a crisp (or perhaps the barons/imps/revs can hit the archie and cause some infighting).  After hitting the switch behind RSK door...
+
+#4. Arch-Vile #3 at exit--- Wow, 3 out of the 4 spots I mention involve archies.  That includes this one as well.  Hopefully he isn't blocking the switch so you can just press it.  This was the only part where it didn't work out as I would have liked, but at least I had plenty of health to survive one blast.  After that, hit switch and have a party ^_^.
+
+A couple things could have gone better (The exit scene for example).  Regardless, I'm happy to have been able to take down another Scythe map nightmare style   
+
+I think an expert player could easily improve the time without any mistakes.  Anything around 0:40-0:43 or better would be sweet.  
+
+First exit as well.
+
+Brian "Anima Zero" Nesser
+Bri8527@aol.com

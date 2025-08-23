@@ -1,0 +1,29 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe (by Erik Alm)
+Pwad name: scythe.wad
+Map:       28
+Map name:  Run from It
+Skill:     5
+Category:  Nightmare! pacifist
+Exe:       doom2.exe
+
+Kills:      30%
+Items:      80%
+Secrets:     0%
+
+Time:      0:30
+
+
+Comments:  Finally, after almost five hours I got this. In first 4,5 hours I tried it with BFG
+           and gathered about 30 0:31's, a 0:31.02 including :( Then I became mad, my fingers
+           began to hurt and I thought: "Shit! Try it without weapons." My first successful
+           exit was a 0:32 after 5 minutes, my 3rd a 0:31 after 8 minutes. And this run 10 mins
+           later ... arrrgh, what a fool I was. Wasting so much time.
+           29 seconds (or 30 with weapons) would be nicer, but now it's bedtime.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+           22.11.2003

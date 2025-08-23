@@ -1,0 +1,25 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       06 - Pressure Point
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      10%
+Items:      50%
+Secrets:     0%
+
+Time:      0:27
+
+Comments:  Another pre-breakfast-Dooming-session.
+           I got 0:28 rather quickly. But cutting
+           off another second cost me about two
+           hours, so my stomach is hurting now.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+18.10.2004

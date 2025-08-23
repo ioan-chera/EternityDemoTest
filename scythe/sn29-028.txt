@@ -1,0 +1,26 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       29 - Hell on Earth
+Skill:     5
+Category:  NM Speed
+Exe:       prboom-plus
+
+Kills:       5%
+Items:       0%
+Secrets:     0%
+
+Time:      0:28
+
+Comments:  I got 0:30 after a few tries, but no 0:29 during
+           the following hour, then this happened.
+           Sloppy running, but it's my 1st perfect AV jump
+           here - great landing :)
+
+           Taking the blue armor is no roundabout way, because
+           you always have to wait for the archvile finishing
+           his attack.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+13.10.2006

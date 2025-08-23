@@ -1,0 +1,25 @@
+Game: Doom 2
+Pwad: Scythe
+Filename: sn19p025.lmp
+Skill and Style: 5 (NM-Pacifist)
+Map Level: 19 (AD)
+Exe/Port used: GLBoom 2.2.6.26 (PRBoom Plus) -complevel 2
+
+Totals:
+Kills       10%
+Items      50%
+Secrets      0% and (Time- 0:25)
+
+Comments: 
+Got inspired watching Kristian's UV-Pacifist and felt like trying it on NM.  Yeah, it's nasty since there's so many ways for a run to become borked here.  Otherwise, the archie jumps after getting the invul. are easy to execute.
+
+Pretty happy with the run.  Started with a crappy 0:28, worked that down to 0:26, thought that was good, but felt 0:25 was possible.  Kept at it until said run was recorded.
+
+Run went fairly well I'd say, but there's lots o' bumping into monsters early on.  I wonder if 0:24 is possible here.
+
+Oh, and my exact time was 0:25.91.  Joy :).
+
+Credit goes to Kristian for the nifty little invul. sphere grab trick.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

@@ -1,0 +1,28 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       18 - M/S Futura
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      1:22
+
+Comments:  WOW! That was fun. And surprisingly the
+           easiest map of the 2nd episode with -fast.
+
+           I know I should try a bit more, reaching
+           sub 1:20 at least, but the result is not bad.
+           It doesn't have to be 4-hour-sessions
+           every time.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+25.11.2004

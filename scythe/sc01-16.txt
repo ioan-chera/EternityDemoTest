@@ -1,0 +1,9 @@
+Player: spo0n
+IWAD: DOOM2.wad
+PWAD: SCYTHE.wad
+Skill: 4
+Catagory: UV-Speed
+Sourceport: dsda-doom-0.24.3
+Time: 0:16
+
+Comments: easy but movement could be way better and smooth. Overall pretty happy with it

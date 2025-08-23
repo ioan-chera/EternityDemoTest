@@ -1,0 +1,23 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe.wad
+Pwad name: Scythe
+Map:       30
+Skill:     4
+Category:  Pacifist
+Exe:       prboom-plus-2.5.1.3 -complevel 2
+Time:      3:27
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Tatsurd-cacocaco's run was used as the base.
+           To save time I ignored revenants in the beginning.
+           The run (active part) itself is very bad but it doesn't matter much,
+           main skill here is luck. All cacos must be dead/distracted and
+           at least one lost soul must survive (one is better, otherwise they
+           would slowing each other while descending).
+           Fourth exit, and this time lost soul was quite fast both in arriving
+           and biting Romero. Surely time is easy to beat but it can be annoying.
+
+           There is another, trickier but faster and much less chaotic route:
+           to wake up one pain elemental in the pit with lots of cacos.

@@ -1,0 +1,35 @@
+This is a Doom .LMP - Please forward it...
+
+sf23-449.txt
+
+sf23-449.zip
+
+sf23-449.lmp - Ultra-Violence Max with fast monsters
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 23 - Anger
+
+
+================
+Kills      101%
+Items      100%
+Secrets      0%
+----------------
+Time       4:49
+================
+
+
+Description:
+
+This was tremendously hard. This run is very slow and look
+so terrible, but I don't come up with any good strategy.
+All I could do was to survive.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

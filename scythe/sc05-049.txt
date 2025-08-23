@@ -1,0 +1,13 @@
+Doomed Speed Demos Archive
+https://dsdarchive.com/
+-------------------------------------------
+Pwad: doom2.wad
+Pwad name: scythe.wad
+Map: 05 Slimy Tunnels
+Skill: Ultra-Violence
+Category: UV-Max
+Exe: DSDA-Doom v0.18.0 with advanced HUD -complevel 2
+-------------------------------------------
+Time: 0:49
+-------------------------------------------
+Author:    brookie

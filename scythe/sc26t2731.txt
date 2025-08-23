@@ -1,0 +1,14 @@
+Iwad: scythe.wad   
+Map:      26
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      27:31
+
+-complevel 2
+
+Author:	   j4rio
+
+Cool idea with cyber handling. Could probably go much faster if you get infight candidates to cancel each other out.
+I guess demo shows how much dust I'm currently covered in, I think I've devoured just about every shiny ball going my
+way. Also, the last clearance of leftovers was quite embarrassing.

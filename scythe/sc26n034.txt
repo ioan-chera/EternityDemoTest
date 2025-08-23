@@ -1,0 +1,18 @@
+SC26N034.TXT
+SC26N034.LMP
+SC26N034.ZIP
+
+Player : megasphere308
+Date : 2021-05-29
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP26 Fear
+Source port : dsda-doom v0.18.0
+Time : 0.34.37
+
+Description :
+
+I really don't know what happened here :) I mean I know what happened, but I couldn't believe I reached the exit!
+After a few runs using a second invuln, I decided to just go for it... and it worked :)
+
+megasphere308@gmail.com

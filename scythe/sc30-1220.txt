@@ -1,0 +1,12 @@
+wad:      scythe
+Map:       30
+Skill:     4
+Category:  UV-Max
+Exe:       GlBoom+ v2.5.1.4
+Time:      12:20
+
+-complevel 2
+
+Author:	   Ancalagon
+
+My old 16:01 is horrible and I saw it posted somewhere too many times, decided to replace with something more decent.

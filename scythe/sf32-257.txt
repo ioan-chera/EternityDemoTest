@@ -1,0 +1,24 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       32 - Enoz Soahc
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      2:57
+
+Comments:  This equals Erik's Max record.
+           Funny that I survived so long with
+           5 health.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+17.09.2004

@@ -1,0 +1,14 @@
+************************************************************************
+Filename                : sc25-010.LMP
+LMP Version             : PrBoom+ 2.5.0.1 -complevel 2
+Pwad name:              : Scythe
+Pwad(s)                 : scythe.wad
+Map Level(s)            : MAP25
+Skill                   : 4
+Category                : UV Speed
+Length                  : 0:10
+Author                  : Kimo Xvirus
+Comments                : One of my best runs ever! I got about 
+                          15 "11seconds" before this
+                          This equals the one in Tatsurd's TAS movie
+************************************************************************

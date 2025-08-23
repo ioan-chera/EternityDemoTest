@@ -1,0 +1,22 @@
+sc14-031.txt
+  sc14-031.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.5 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 14 - Power Outage (by Erik Alm)
+
+  ================
+  Kills        43%
+  Items        50%
+  Secrets       0%
+  ----------------
+  Time        0:31
+  ================
+
+  Description:
+  Route credit to psicho, just putting some things in the right order. :)
+  My worst worry was the main timesaver - killing both chainers in two SG shots.
+
+author: dew
+e-mail: dewww@seznam.cz
+11. 12. 2009

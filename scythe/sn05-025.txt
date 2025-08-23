@@ -1,0 +1,46 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       05 - Slimy Tunnels
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      36%
+Items:       0%
+Secrets:   100%
+
+Time:      0:25
+
+Comments:  It's a nice run on UV, but on NM it's really
+           nasty.
+
+           At first the jump. I have much problems with
+           it and make it only 1 time out of 8. Don't
+           know how it really works, it always happens
+           accidentally. Then the switch. I die there
+           very often. The worst case is a spectre
+           running upstairs :( The third nasty situation
+           is reaching the stairs. It's pure luck to
+           survive this. And finally there comes the
+           jump a second time :/
+
+           Nevertheless I did it four times in 0:25. All
+           are looking ugly and have some mistakes.
+           Strangely I missed the switch only once this
+           evening, of course it happened in a successful
+           run. You can see it here ... *sigh*
+
+           I wanted it at least in 0:24, but four hours
+           and several hundred tries are enough for this
+           nasty - or cursed - run.
+
+           On the other hand I'm of course happy that I've
+           beaten the record by 5 seconds ;)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+17.10.2004

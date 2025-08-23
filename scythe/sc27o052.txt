@@ -1,0 +1,11 @@
+WAD: Scythe
+MAP: MAP27: Terror
+Time: 0:52.46
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 2, 2013
+
+I tried improving this further but only got 53's. 51 or below is possible
+with some more work.
+
+--Doomdaniel95

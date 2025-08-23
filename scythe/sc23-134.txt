@@ -1,0 +1,14 @@
+Filename   : scythe.wad, by Erik Alm
+Title      : Scythe
+Map        : MAP23 - Anger
+Category   : UV Max
+Exe        : PrBoom-plus 2.5.0.8 -complevel 2
+Time       : 1:34
+
+Author     : Drew "stx-Vile" Devore
+Email      : dadevore83@gmail.com
+
+Comments   : I watched Tatsurd-cacocaco's demo before trying this so credits to him.
+             I am glad that I wasn't hesitant to exit for concern of missing a monster
+             or two.  It can be easy to miss a stray while moving through each section
+             but no missed imps this time!

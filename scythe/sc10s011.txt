@@ -1,0 +1,19 @@
+              Scythe
+        Map 05: The Lords
+       Map Author: Erik Alm
+------------------------------------
+           sc10s011.lmp
+
+NM100s in 0:11
+
+    Kills   - 0%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: About a 10-15 minute effort to get a basically optimal time. Only thing to worry about besides movement errors is getting shot by a baron.

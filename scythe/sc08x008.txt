@@ -1,0 +1,41 @@
+       
+ 	****************************
+        * built * SC08x008 * speed *
+        ****************************
+
+ SC08x008.lmp - built UV SPEED
+   
+   SC08x008.txt
+
+     SC08x008.ZIP
+
+   doom2.exe -file scythe.wad - playdemo sc08x008
+
+
+   Scythe Doom2 cheated demo, map 08, UV SPEED 
+   Scythe - http://www.doom2.net/~wads/scythe.zip
+
+      -----------------------------------------
+      - Kills     -   1%  -     ...final time -
+      -----------------------------------------    
+      - Items     -   0%  -          0:08     -
+      -----------------------------------------
+      - Secrets   -   0%  -                   -
+      -----------------------------------------
+
+
+   Descripiton:
+   So, another edited demo from first to last tic blablabla.
+
+   Credits goes to method for his sc08-009, that was really
+   nice and I guess w/o cheats it´s optimal. Good work method :)
+
+   Exact time is :08.97 with strafe50 all the time. Someone for
+   :08 without cheat or cheated :07? Both impossible IMO.
+
+   PS.: I had Pacifist as well in my plan but the mancubi
+   always killed me so I musted shot some bullets on him. Sorry...
+     	    
+	 
+ 	Author:			 Jakub "DooMerMan" Machata
+        E-mail:			 DMrM@seznam.cz

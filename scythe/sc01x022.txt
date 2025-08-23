@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: SCYTHE.wad     
+Pwad name: Scythe
+Maps:      1
+Skill:     4
+Category:  UV-Max TAS (BT)
+Exe:       prboom-plus 2.2.6
+
+Time:      0:22
+
+Author:    ClumsyDoomer   
+Email:     baymurzin2011@yandex.ru
+
+Comments: What a good summer start. Wee! ^@^
+
+

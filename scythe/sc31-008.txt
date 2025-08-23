@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: scythe.wad     
+Pwad name: Scythe
+Maps:      1 (secret exit)
+Skill:     4
+Category:  UV -nomonsters TAS
+Exe:       PRBoom-Plus 2.5.0.7
+
+Time:      0:08
+
+Author:    ClumsyDoomer   
+Email:     baymurzin2011@yandex.ru
+
+Comments: So short map?? I thought it's longer!!! :@ But I like short and easy maps very much :)
+

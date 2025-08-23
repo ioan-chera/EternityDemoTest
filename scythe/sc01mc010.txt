@@ -1,0 +1,44 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP01: Get Going
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Player 3: Kyle McAwesome (Brown)
+Exe: Woof 10.3.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:10.66
+-------------------------------------------
+4shockblast:
+
+1005 attempts total. I switched paths from the run we did with Dime because p3 is closer to the switch area, so it makes more sense for Kyle to go that way. However, I felt like I was contributing very little to the whole thing, so I switched the route up quite a bit. Eventually, I realized that the imp teles don't need to be triggered with RK, they can be triggered earlier, so I settled on coming in after Kyle, cleaning up a bit there, then helping with the imps, while Garrett grabs the RK from the bottom (cool that that's possible tbh). In the red building, I was focused on the zombie at the top of the stairs, and then killing the imp and pressing exit switch.
+
+This demo went quite cleanly on all sides, and the time reflects that I think, we cleared the 11 second barrier by a good margin (previously we had two 11.03s as PBs). I think 9 is probably doable, but needs quite good luck, and not having Internet lag would help a lot.
+
+GarrettChan:
+
+One of the most intense run we've done. The route is nothing like we planned before, and we changed a lot of minor details while trying.
+
+Going into the main building is definitely the movement heavy role that I can't take on, so I'm taking on the easier part of the whole map though it's still pretty annoying since the Zombiemen are random in the red building. I want to kill them before going in, but sometimes they just don't show up.
+
+Wasted a bit of time when grabbing the Red Keycard, but with all the lags considered, it's not as bad. However, the run can be definitely better.
+
+Kyle McAwesome:
+
+Lag was our biggest enemy here, with the majority of runs restarting within the first couple of seconds.  It took us a while to finally settle on a route, but with this one we were regularly getting mid to late runs on the correct pace.  Then it was just a matter of grinding out shotgun RNG :^)
+
+Youtube Video: https://youtu.be/-30NcHuFNMk
+
+Aug 19 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan
+
+Author: Kyle McAwesome
+https://www.youtube.com/@_kmc

@@ -1,0 +1,20 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Scythe
+Map: 20
+Skill: UV
+Category: UV-Respawn
+
+Time: 1:31
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 3/5/11
+
+Comments: Fun map other than the jump to the blue key with respawned monster-blocking.
+
+
+

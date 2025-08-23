@@ -1,0 +1,27 @@
+           Scythe
+     WAD Author: Erik Alm
+-------------------------------
+       Episode 1 Tyson
+-------------------------------
+    Level          Time
+-------------------------------
+    Map 01	   0:36
+    Map 02	   1:13
+    Map 03	   1:43
+    Map 04	   1:24
+    Map 05	   1:46
+    Map 06	   6:33
+    Map 07	  12:38
+    Map 08	   9:21
+    Map 09	   7:29
+    Map 10	   3:23
+
+TOTAL:            46:06
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: I did a practice run with saves, and this was the third real attempt. Not too hard.

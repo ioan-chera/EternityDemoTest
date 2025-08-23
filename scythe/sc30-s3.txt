@@ -1,0 +1,25 @@
+PWAD  - Scythe
+Level - Map30 (Fire and Ice)
+Type  - Hurt Me Plenty Maxdemo (100/100/100)
+Port  - Prboom - 2.2.4 (Complevel 0)
+
+Kills   - 101%
+Items   -  87%
+Secrets - 100%
+
+Time    - 24:56
+
+Description :
+Pretty Cool level here! Big time difference between skills 3 & 4, namely that on skill 3 it
+turns into an all out BFG Smash-a-thon.... :) Pretty wild though, you still have to have 
+the Cyberdemons around to take out the majority of the monsters. Or else you'll run into
+trouble at the end if you dont have enough cells. A really cool note here is that this demo
+is a skill 3 maxdemo, Viles skill 4 maxdemo is about 30 seconds FASTER then this one here, 
+and if you dont think theres much of a difference on those two skills I'd try it out. Drew
+did an awesome demo for this map, and his time shows what kind of player he is... In my 
+opinion he'd have to be the equivilant of the current Anders Johnsen!!! GREAT max run there
+Vile, definitely one of those that stand apart from all the others. Enjoy the lmp guys, I 
+had fun making it...
+
+Laters,
+Richie

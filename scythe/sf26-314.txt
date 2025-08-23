@@ -1,0 +1,39 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       26 - Fear
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0 (plays back with doom2.exe)
+
+Kills:     102%
+Items:      86%
+Secrets:   100%
+
+Time:      3:14
+
+Comments:  Yeah, that was great! After almost 9 months I returned
+           to my favourite map. Thanks again to Erik's genius for
+           creating it :)
+
+           I improved the time by 48 seconds, because I've changed
+           in my prboom.cfg the setting monster_avoid_hazards to 0.
+           Thx to TheHappySpoon for this information in the DW forums,
+           and to Anima Zero for proving its use in a real demo
+           (ks08-600).
+
+           Now the revenants at the crusher/teleport react correctly
+           and there is no desynching after pressing the crusher switch
+           as 9 months ago. I'm now able to run to the switch as
+           fast as possible, therefore the huge improvement.
+
+           Enjoy the demo :)          
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+01.05.2005
+
+

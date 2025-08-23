@@ -1,0 +1,14 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Title      : Scythe
+Map        : MAP18
+Category   : UV-Max
+Exe        : prboom-plus 2.5.1.4 -complevel 2
+Time       : 0:51
+
+Author     : Kyle McAwesome
+Date	   : 10/1/2017
+
+
+Comments   :  Rewatching my previous run was rather embarrassing.  Did I really go for both soulspheres?  I like Tatsurd-cacocaco's route more than the one I used previously.  Not sure why I hesitated on the jump though =/  

@@ -1,0 +1,14 @@
+Pwad: scythe
+Map:      22
+Skill:    4
+Category:  respawn
+Exe:       PrBoom+ v2.5.1.3
+Time:      0:56
+
+-complevel 2
+
+Author:	   Ancalagon
+
+Of course used the cheaty hud cause this category sucks without it
+
+Actually recorded this with cl4 cause I forgot to change it, but it seems to playback fine.

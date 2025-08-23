@@ -1,0 +1,18 @@
+THIS IS A TOOL-ASSISTED SPEEDRUN. 
+
+PWAD: Scythe
+IWAD: Doom 2
+Map: 03
+Skill: Ultra-Violence
+Category: Pacifist with Turbo
+Exe: XDRE 2.20
+Time: 0:00.80
+Author: almostmatt1
+
+Comments: Pretty much just wanted to see 0 seconds. :) Took only perhaps half an hour, but I spent about an hour and a half before that having a go at a demo without turbo before deciding I wanted to do a turbo demo. 
+
+I played around with smoothing the turn at the start. I wanted to get a reasonably strong turn, while obviously avoiding the obstruction at around frame 15, and then making sure I didn't collide with the upcoming wall next to the south stairs, but be able to get a small boost off of it, and also kill south momentum so I could travel directly east from here. Really this isn't nearly as hard as it might sound. I couldn't find an immediately obvious way save a frame here but one (or like, 958 frames if you're Looper or something) could probably be saved. 
+
+The boost I get on frames 25 and 26 is not optimal as far as getting as much speed as possible, but that's not the goal, I wanted to get the right placement for a zero press. 
+
+Kudos to TomatoTom for his very strong NoMo demo, which was my inspiration to take a swing at this. 

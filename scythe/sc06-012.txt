@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      Scythe.wad	
+Pwad name: Scythe
+Map:       MAP06
+Skill:     4
+Category:  UV-Speed
+Exe:       PRBoom-plus v2.5.1.4cl2
+
+Time:      0:12
+
+Author:    MD922
+
+

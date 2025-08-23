@@ -1,0 +1,49 @@
+              Scythe
+       WAD Author: Erik Alm
+---------------------------------------
+          Episode 1 Nomo
+---------------------------------------
+    Level          Time
+---------------------------------------
+    Map 01	   0:10 :|
+    Map 02	   0:08 :))
+    Map 03	   0:17 :)
+    Map 04	   0:14 :))
+    Map 05	   0:13 :)
+    Map 06	   0:22 :))
+    Map 07	   0:01 :))
+    Map 08	   0:13 :))
+    Map 09	   0:21 :))
+    Map 10	   0:12 :))
+
+TOTAL:             2:11
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Taking a break made the run much easier; I didn't have as much trouble with either the map 2 strafejump or even the map 8 one (good to see all those smilies in the time table). This still came after a horrible 2:18 where I couldn't hit switch from below on map 10, which is included in zip (I was pretty pissed off when that happened).
+
+Map 01 (0:10.14): I was wrong, 9 is realistic in a movie. Didn't happen too uncommonly, but, there's a bunch of other places where I could lose a second, so I didn't try it much.
+
+Map 02 (0:08.51): 8 is still the best I can do in a movie.
+
+Map 03 (0:17.06): .06, oh well. I never got 16 in a movie here anyway.
+
+Map 04 (0:14.46): Damn good for an episode run, I think. 13 is too difficult for that.
+
+Map 05 (0:13.77): Best I ever did in a movie. Never got 12, probably because I try to be careful with the strafejumps.
+
+Map 06 (0:22.49): 22 is still best I ever did in episode run, and 23 isn't uncommon because of those final barrels. Wallrun jump is way too hard for episode run.
+
+Map 07 (0:01.86): That's more like it. :)
+
+Map 08 (0:13.51): As said previously, jump didn't give me as much trouble. Still, setup takes awhile, though in a movie, I wouldn't risk doing it quickly. Fail movie has 14, and I never had 13 or better (didn't get this jump often anyway).
+
+Map 09 (0:21.46): Like map 4, good for movie run, 20 doesn't seem realistic.
+
+Map 10 (0:12.80): Had some trouble with the switch, but got it, and 11 seconds is obviously not very doable.
+
+Recorded August 05, 2014.

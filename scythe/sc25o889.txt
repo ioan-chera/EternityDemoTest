@@ -1,0 +1,15 @@
+              Scythe
+           Map 25: Envy
+       Map Author: Erik Alm
+------------------------------------
+           sc25o889.lmp
+
+Nomo in 0:08.89
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Uses double door open trick from Method's episode run (not sure if he first did this trick or somebody else). Without it, 8 doesn't look feasible, and, even with it, it requires some amount of precision.

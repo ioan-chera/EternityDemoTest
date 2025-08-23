@@ -1,0 +1,14 @@
+Recorded using glboom-plus 2.5.1.7um with Doom II compatibility (-complevel 2)
+
+Pwad name: Scythe
+Map: 04
+Skill: UV
+Category: UV-Max
+Time: 0:51.23
+
+Author: Starduster
+Date: 7/12/2020 (m/d/y)
+
+Comments: Route credit goes to Kyle McAwesome, the current wr holder for this map. Another demo is included in the zip that was close to my pb. It 
+felt like quite the rng grind, but that's just because I don't have a consistent plan for each section. Maybe I will revisit this map later, maybe 
+when I get a lot better. Btw this is the first ever map I tried speedrunning. Feedback would be appreciated as I am only a beginner to this.

@@ -1,0 +1,151 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Episode 1 (Map01 - Map10)
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 5:45
+-------------------------------------------
+      Level       Time    Total Time
+-------------------------------------------
+      Map01       0:17       0:17
+      Map02       0:33       0:50
+      Map03       0:40       1:30
+      Map04       0:24       1:54
+      Map05       0:26       2:20
+      Map06       0:44       3:04
+      Map07       0:27       3:31
+      Map08       0:56       4:27
+      Map09       0:58       5:25
+      Map10       0:20       5:45
+-------------------------------------------
+Comments: 4shock[B]last [G]arrettChan
+-------------------------------------------
+Map01:
+
+[B]
+
+Story of this map is just "Oops, shotgun didn't do enough damage." This is especially obnoxious at the barrel kill on four zombies; towards the end of our attempts, I just took two shots there, as it's pretty common for the zambies to block my shot leading to no explosion (or explosion and furthest zombie survives anyway). 17s is acceptable but would be nice to have 16, 15 was rare.
+
+[G]
+
+(This line is intentionally left blank for no particular reason :P)
+
+Not too bad on my side except sometimes I can't kill the Imps, but I guess who doesn't have this problem when the whole map is an annoying Shotgun Max... Also, 90%+ of our attempts fail in this map. The ammo situation of the run is actually pretty dire because there are so much IL ammo from weapon pickups which don't give you multiple instances of ammo on EP runs. Therefore I have to pick up that 12 shells at the start.
+
+-------------------------------------------
+Map02:
+
+[B]
+
+My side is pretty straightforward and I usually have some time to help Garrett out from the secret area, although berserk shenanigans sometimes screw me anyway. I have to rely on berserk as much as possible since the ammo situation is pretty tight for 3, and most monsters here are pretty reasonable to punch.
+
+[G]
+
+The start is semi annoying since that Imp can just block me from jumping into the secret. Then later the Demon can just avoid the barrel explosiong and live happily, which makes me unhappy...
+
+-------------------------------------------
+Map03:
+
+[B]
+
+Mainly my problem is I have no ammo. The BFG shot seems not super useful here, but idk where to use it elsewhere before the death exit on map 3, and sometimes it's very effective. Most of the time, though, it's too awkward to set up, too long to set up, and leaves me with stuff to kill anyway. Maybe punching and saving BFG for later is the solution (no death exit would also mean chaingun on 4, which would be super nice). 40s is kinda slow but not the worst we got.
+
+[G]
+
+This is the second annoying map in the whole episode although my side is not as bad. The bigger problem is that I have no Armor or whatsoever and the Shotgunners can do some damage and make me nervous. Since the cells need to be saved, so I have to manually take care of all those Imps inside the cages.
+
+-------------------------------------------
+Map04:
+
+[B]
+
+After death exiting 3, I am shit outta luck for ammo and weapons here; feels a bit of a waste to use plasma, but no chaingun and SG is annoying and too far out of the way. With plasma, my side is not too hard, just a shame to use it here this way. 24 is not a bad time.
+
+[G]
+
+Have to stay at the start a bit because I don't want to push 4shock into the pit, which happened before. Then hopefully the Imp won't block me from doing the jump. The other monsters next to the Armor can block me but it's not too bad to go around from the gap.
+
+-------------------------------------------
+Map05:
+
+[B]
+
+This map usually was not a problem. 26s is pretty fast. Not much difference on my side from the IL. Maybe Garrett could help with the cacos at the end in theory and then I could save the BFG shot here, but it is a super convenient spot for one, so not sure it would be a good idea.
+
+[G]
+
+Pretty easy map for me since I don't need to do any of those jumping shenanigans in IL. I basically just go down the trench and kill all the Spectres down there since 4shock needs to jump again. Also I can have the Radiation Suit this time, so I can take my sweet time down there. 
+
+-------------------------------------------
+Map06:
+
+[B]
+
+The trick is too annoying to do in an ep run, and idk if it would be much faster. My side is usually slower, so I try to help a bit initially, but sometimes that takes too long (like this time). Ending is a bit of a crapshoot with how fast things die and how useful the barrels are. I also want to save some rockets for map 7; would be much easier if I could have BFG from earlier maps for 7. :)
+
+[G]
+
+Doesn't need to go with the trick in IL. The biggest need is to get my shells to a higher level. There are 2 boxes at the end, so I can easily do it. I usually can get the Hell Knight under the Rocket Launcher crushed, but this time it escaped from it...
+
+-------------------------------------------
+Map07:
+
+[B]
+
+I don't go for the manc telefrags, but I think it would be a good idea if I try again, since 1-2 dead mancs is more saved rockets. Kinda low on rockets here usually, so arachs take too long to die. Probably should find a BFG shot to save here. :) Death exit so I can grab BFG on 8.
+
+[G]
+
+This is the map I save all those 2 BFG shots for. I need to get the rocket boxes for the next time. Therefore I just use the 2 BFG shots to kill 2 sets of 2 Arachnotrons.
+
+-------------------------------------------
+Map08:
+
+[B]
+
+Jump at the start is too hard, I need the rockets and BFG anyway, so I go for those. Rockets help clear a lot of the main map out, BFG I need for the shot near the exit room on map 9. Kinda annoying map but mostly because of the straggler situation Garrett mentioned that wasn't an issue once the imps got cleared immediately.
+
+[G]
+
+Probably this is the third annoying map of all. Luckily I have enough rockets from Map07 so I can easily take care of all those Mancubi at the start. Later we discovered that it's very easy to have stragglers at the end, so I decided to use rockets to kill all those Imps near the end.
+
+At 0:50, I pressed that wall for RNG manipulation, 100% truth.
+
+-------------------------------------------
+Map09:
+
+[B]
+
+Just as chaotic as IL, except it's nine maps in. >:( Always some shit kill missing somewhere, and of course my side is still variable based on how well I can group monsters before heading to exit and rocket them. Can still be blocked at the jump, but I don't think that happened at least. I also can't be too trigger happy with rockets since I need some for 10, hard to know how much I really should save on this map.
+
+[G]
+
+This is the most annoying map without a doubt. There are many chances for wandering monsters. I should've developed a better way to search for these monsters, but we lost so many runs to this and we had been doing the run for so long, so we didn't actually get a good method for wandering monster(s)... I still need to do the jump in order to skip both the Yellow Keycard and Blue Keycard. It's not as bad as the IL one because I need to BFG the Mancubus on the window sill, and there are monsters to block you in IL as well, but none of these is any type of concern in the EP run.
+
+-------------------------------------------
+Map10:
+
+[B]
+
+The worst part is the drive-by switch press; slowing down there seems dangerous too since easy to fall and then you need to time the jump, so I just do IL strat. 20s is decent time.
+
+[G]
+
+I gained another BFG shot by having 2 extra Backpacks from Map08 and Map09. I'm closer to the exit so usually I'm the one who needs to quickly remove those 2 Barons on my side since the Romero Head takes time to explode. It's too risky to use the IL strategy to blow up the Barons.
+
+-------------------------------------------
+Youtube Video: https://youtu.be/UPvzIWjAsQM
+
+Apr 8 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

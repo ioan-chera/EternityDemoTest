@@ -1,0 +1,53 @@
+
+Recorded using glboom-plus 2.5.1.4 with Doom II compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 01
+Skill: UV
+Category: UV-Max
+Time: 0:24.77
+
+Author:   kmc
+Date: 3/22/2020
+
+Comments:
+I'm still shaking after finally getting this time.  In the past few days since I decided to grind for the starting barrel trick, I have seen so many low 0:25's and high 0:24's with missing kills.  I've also only made 0:25 with 100% kills once.
+
+
+<WALLOFTEXT>
+Some history for the run:
+
+My 0:26 was submitted in December of 2011.  This was a very lucky run where the an imp fireball near the end hits the last barrel to kill 3 enemies.  Due to the low chance of this happening, I felt secure with that being a good time.
+
+Then in February 2019, I started practicing for an episode 1 UV-Max run.  In my ep 1 attempts, I made a few 0:26's, and the human possibility of 0:25 became very real to me.  I got many 0:26's in this time, including a few where I felt I had rather low chainsaw damage.  I have seven demos created between February and July of 2019 where I did 0:25, but with 3 missing kills due to enemies not moving in range for ending barrel trick (this will be a recurring theme in this essay).
+
+Around this time I also shared a demo which I considered to be a novelty: at the very start, an imp fireball does enough damage to explode the two barrels, killing the imp and a nearby zombieman.
+
+Recently I started doing attempts again.  I was motivated simply by realizing how sad I would be if someone else did 0:25 first.  With demos like j4rio's lv01t040 and depr4vity e1m1-026, it felt like it was only a matter of time before someone looked at Scythe map 01.  In my mind, 0:25 would be it, as I couldn't possibly make 0:24.
+
+So I started grinding for 0:25 again, and to my surprise, the barrel trick mentioned above happened again, and despite many mistakes, I managed an 0:25 with 86% kills (because of the other barrel trick failing).  I studied the start of the demo, and tried to see if I could manipulate it to get the barrel trick more often.  Eventually I settled for shooting the imp as late as possible at the start of the run, and that is when it became a somewhat feasible trick to work toward.  It is still pretty unlikely to have the imp throw a fireball and that fireball to hit a barrel and that fireball do enough damage to explode the barrel and for the imp to be within range to die and the zombieman to also die, but it happened way more often once I started doing the start that way.
+
+Once I decided to scum the start until that trick happened, I realized that I could go left immediately after entering the building, since there is no need to chase the zombieman on the right side.  I started practicing by going left everytime, even if the barrel trick didn't happen, and my average run times went down roughly a second.  I got 0:25 with missing end kills a few times the first day of trying this approach.
+
+Yesterday was the longest grind I can remember doing for any doom demo.  I pretty much got out of bed and played doom until it was time to go to bed again.  I had expected to get 0:25 and be done with it.  Unfortunately, I quickly got a 25.03 (with missing end kills).  The barrel trick was too effective for me to just go for 0:25, so when I finally got my first 0:25 with 100% kills, it was not as much of an event as it could have been.  I had eyes for 0:24 before I even completed 0:25.
+
+At this point, I want to back up and talk about the run as a whole.  I don't think there are many chainsaw oriented maps out there.  I think getting an 0:24 here depends on four main factors
+
+   1. Barrel trick at beginning needs to kill imp and zombieman
+   2. Good chainsaw damage
+   3. Passably good movement (very monster dependent here)
+   4. Barrel trick at end needs to kill imp and 2 zombiemen
+
+The first one I had control over now that I chose to grind for it.  It didn't help that it didn't happen reliably enough for me to ever just get used to it, but I practiced for it by doing warmup runs where I continued as though the trick happened successfully even when it didn't
+
+Number two is one that people who haven't grinded chainsaw maps might underappreciate.  Chainsaw damage is really random, and the only way I found to make it work here was to pull away from enemies when I felt like they should die and start moving.  Lots of missed kills, but I didn't have time to waste on low damage.
+
+Number 3 is pretty obvious, and the one I had most control over.  The only complication is that the movement around chainsaw kills is a little tricky sometimes.  Ideally the enemy should stand in the right place so that you can build a little momentum against them while sawing and then release to move around their falling corpse at the right time.  If you get blocked by a dying enemy, you are pretty much guaranteed not to get 0:24.
+
+Number 4 is the most annoying part of the run.  Chainsawing the ending barrel to kill the last 2 zombiemen and the closet imp kills so many otherwise promising runs.  At least four 0:24 runs were lost to this annoying trick or to bad movement of the imp in the exit room.
+</WALLOFTEXT>
+
+
+Really happy to have this done.  This is far and away the most time I ever spent on a single doom demo (in nearly 10 years of Doom speedruning), and probably the most I ever will spend.  While running I kept telling myself I would retire after this, but I don't think I will now that it is done.  To have gone from thinking 0:25 was out of reach, to then deciding to go for 0:24 is still insane to me.  And I am glad I didn't succumb to the layered RNG I set up for myself.  Thanks for reading if you're still here.

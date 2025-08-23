@@ -1,0 +1,80 @@
+Scythe (scythe.WAD)
+D2ALL (30uv / Full run)
+------------------------------------
+Author: eLim [twitch.tv/elim2g]
+Date: 10/03/2020 (dd/mm/yyyy)
+UV-Speed in 11:33
+Recorded with: PrBoom-plus 2.5.1.5
+-complevel 2
+
+Shamelessly stealing 4shockblast's table 
+
+    Level        Time  <  4shockblast's 11:42
+-------------------------------------
+    Map 01       0:11      +0:01 :(
+    Map 02       0:11      +0:01 :)
+    Map 03       0:11      -0:15 :^)
+    Map 04       0:22      +0:01 :|
+    Map 05       0:15      +0:01 :)
+    Map 06       0:12      -0:02 :))
+    Map 07       0:03       0:00 :)
+    Map 08       0:11      -0:01 :)
+    Map 09       0:25      -0:01 :)
+    Map 10       0:12       0:00 :)
+-------------------------------------
+Episode 1:       2:13      -0:15 :D
+-------------------------------------
+    Map 11       0:11       0:00 :)
+    Map 12       0:18      +0:01 :|
+    Map 13       0:34       0:00 :)
+    Map 14       0:38       0:00 :)
+    Map 15       0:17      +0:01 :)
+    Map 16       0:28      +0:01 :)
+    Map 17       0:32      +0:03 :((
+    Map 18       0:17      -0:03 :D
+    Map 19       0:29      -0:07 :D
+    Map 20       0:54      +0:08 :(((
+-------------------------------------
+Episode 2:       4:38      +0:02 :(
+-------------------------------------
+    Map 21       0:13      +0:01 :)
+    Map 22       0:43      -0:07 :O!
+    Map 23       0:05       0:00 :)
+    Map 24       0:48      -0:01 :)
+    Map 25       0:13      -0:01 :)
+    Map 26       0:49      +0:08 :(((
+    Map 27       0:15      +0:01 :)
+    Map 28       0:32      +0:04 :(
+    Map 29       0:27      +0:01 :(
+    Map 30       0:37       0:00 :)
+-------------------------------------
+Episode 3:       4:42      +0:04 :(
+-------------------------------------
+TOTAL:          11:33      -0:09 :|
+
+Comments:
+Yooo sup wdup
+
+Not really too much to comment on here. Just wanted to get an exit with the ludicrously-time-saving
+Zero-Press on map03. After many, many failed attempts to get through ep2 and ep3, I resorted to
+some less aggressive routes and got lucky a bunch of times.
+
+Some noteworthy moments:
+Map04 - Running through the window after the red key actually has a pretty high failure rate
+
+Map06 - Unsure how I didn't die to the unruly barrel that I rocketed TOWARDS myself
+
+Map22 - Almost got owned basically the entire map, and got lucky with the cyber not seeing me at
+        the end
+
+Map24 - Somehow avoided a couple of cyber rockets that looked like they should've hit me
+
+Map26 - 9hp lmaooooo. Dicked around too much at the start of the map. I've actually died a few
+        times at the start of that map just trying to get the invuln
+
+Map30 - Embarrassing ending 
+
+I'm sure there were more moments but I don't really want to rewatch this demo to check it, since
+it kinda sucks hahaha. Looking forward to 4shock going for sub11 ;^)
+
+Until next time, pce.

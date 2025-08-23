@@ -1,0 +1,18 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      scythe.wad
+Map:       MAP06
+Skill:     4
+Category:  UV Tyson
+Exe:       dsda-doom 0.22.1 -complevel 2
+
+Time:      1:46.69
+
+Author:    kmc
+
+Comments:
+For Beat .00/:00 Demos Month
+
+Disappointing result, but good enough for a demo month.  My first exit was 1:59, but I also had 1:37 with a missed kill and lost several 1:3x-1:4x demos to final room (including one where I had already killed everything but fell in the lava).  91 attempts.

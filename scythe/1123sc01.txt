@@ -1,0 +1,30 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       01-10
+Skill:     4
+Category:  UV Max kill
+Exe:       prboom-plus-2.4.8.1 -complevel 2
+
+Comments:
+
+                          Time     Kills     Items     Secrets
+--------------------------------------------------------------------
+01 - Get Going            0:34      100%        0%       100%  :)
+02 - Punchline            1:12      100%      100%       100%  :((
+03 - Up and Around        1:06      100%      100%       100%  :|
+04 - Lost Warehouse       0:49      100%        0%       100%  :|
+05 - Slimy Tunnels        1:14      100%      100%       100%  :|
+06 - Pressure Point       1:34      100%      100%       100%  :)
+07 - Deadly               1:00      100%      100%         0%  :|
+08 - Garden Base          1:32      100%       75%       100%  :)
+09 - Computer Storage     1:43      100%      100%       100%  :|
+10 - The Lords            0:39      100%      100%       100%  :)
+
+under 11 mins would be nice 
+
+Author:    Jakub "psichotik" Hornicak
+Email:     psichotik@seznam.cz
+

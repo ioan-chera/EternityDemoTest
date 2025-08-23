@@ -1,0 +1,13 @@
+************************************************************************
+Filename                : sc30-033.LMP
+LMP Version             : PrBoom+ 2.5.0.1 -complevel 2
+Pwad name:              : Scythe
+Pwad(s)                 : scythe.wad
+Map Level(s)            : MAP30
+Skill                   : 4
+Category                : UV Speed
+Length                  : 0:33
+Author                  : Kimo Xvirus
+Comments                : Lots of ackward straferunning hehe.
+                          At the end I timed the rocket well :-)
+************************************************************************

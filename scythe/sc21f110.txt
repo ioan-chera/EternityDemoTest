@@ -1,0 +1,19 @@
+              Scythe
+        Map 21: Solitude
+       Map Author: Erik Alm
+------------------------------------
+           sc21f110.lmp
+
+UV -fast in 1:10
+
+    Kills   - 100%
+    Items   - 33%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -fast
+Author: 4shockblast
+
+Comments: Bad. 41 attempts.

@@ -1,0 +1,21 @@
+              Scythe
+          Map 27: Terror
+       Map Author: Erik Alm
+------------------------------------
+           sc27o909.lmp
+           sc27o018.lmp
+           sc27o026.lmp
+           sc27o051.lmp
+
+Nomo in 0:09.09
+Nomo in 0:18.60 (RJ route)
+Nomo in 0:26.63 (RJ alt route)
+Nomo in 0:51.97 (old route, strafe40 only)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Can't believe I forgot to look at the UV-Speed demos to realize that the RJ is unnecessary to do the jump here. The strafejump isn't too hard, but it's not that easy even with a setup, and, without a setup, it happens fairly rarely. .09 is the best I've done, and 8 looks really difficult, as there isn't much time left to save. I might be able to do it with an insane grind, but I don't want to try. All previous exits included (First RJ route, second RJ route, and quick strafe40 only old route demo done in 51 seconds).

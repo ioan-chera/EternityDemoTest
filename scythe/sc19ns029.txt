@@ -1,0 +1,18 @@
+SC19NS029.TXT
+SC19NS029.LMP
+SC19NS029.ZIP
+
+Player : megasphere308
+Date : 2021-05-25
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP19 AD
+Source port : dsda-doom v0.18.0
+Time : 0.29.00
+
+Description :
+
+A lot of attempts for this one, mainly because of enemies blocking me.
+Also, I had to practice to get the invuln grab and both AVJ in a single run.
+
+megasphere308@gmail.com

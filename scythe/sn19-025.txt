@@ -1,0 +1,31 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      19 - "AD"
+Skill:     5 - NightMare!
+Category:  Speed
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:25
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills    11%
+           Items    50%
+           Secrets   0%
+
+Comments:
+
+It's easier to get good times in NM, because the Arch-Vile is 
+always very cooperative. Sometimes a little *too* cooperative, 
+though, as it is keen on killing you as you open that door. It 
+happened regularly, and so I had to "hide" behind a corner 
+temporarily to avoid getting fried. :-)
+
+Didn't work long on this, I just wanted something quicker than 
+the UV speedrun.
+
+Kristian Ronge
+
+zuckuss@gmail.com

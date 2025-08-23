@@ -1,0 +1,19 @@
+              Scythe
+            Map 19: AD
+       Map Author: Erik Alm
+------------------------------------
+           sc19str042.lmp
+
+Stroller in 0:42
+
+    Kills   - 11%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Spent the longest on this stroller, surprisingly enough, mostly because it was too easy to get an exit, so I had to get some improvement. However, for whatever reason, the second archvile jump happens quikcly really uncommonly, and it seemed to happen even more uncommonly than in UV-Speed D2ALL attempts, which was super annoying. Also easy to get blocked getting up there, so it took some time for this improvement. Getting up to the AVJ went pretty poorly in this run, but the jumps themselves weren't too slow, so I'm done here.

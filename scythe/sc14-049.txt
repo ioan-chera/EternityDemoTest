@@ -1,0 +1,17 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      SCYTHE.WAD
+Map:       MAP14
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.26 beta -complevel 2
+Attempts:  853
+
+Time:      0:49.60
+
+Author:    kmc
+
+Comments:
+I did like 500 of these attempts yesterday and couldn't get below 0:53.  I think the difference today came down to being more generous with rocket usage and rushing the plasma section more.

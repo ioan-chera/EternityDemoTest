@@ -1,0 +1,17 @@
+SC06N016.TXT
+SC06N016.LMP
+SC06N016.ZIP
+
+Player : megasphere308
+Date : 2021-08-03
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP06 Pressure point
+Source port : dsda-doom v0.18.0
+Time : 0.16.94
+
+Description :
+
+Did this demo in a wall run practice session.
+
+megasphere308@gmail.com

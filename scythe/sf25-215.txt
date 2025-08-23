@@ -1,0 +1,21 @@
+Game: Doom 2
+Pwad: Scythe
+Filename: sf25-215.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: 25 (Envy)
+Exe/Port used: GLBoom 2.2.6.26 (PRBoom Plus) -complevel 2
+
+Totals:
+Kills      100%
+Items     100%
+Secrets    100% and (Time- 2:15)
+
+Comments: 
+One strategy change which can be seen at the 1st Soulsphere, otherwise same route/strat as usual.
+
+Not a bad run.  One strat change...hello 6 second improvement :)!  Still a few rough spots, plus my health gets low near the end, but otherwise all worked out in the end.
+
+Perhaps 2-3+ more seconds can be shaved off with little/no mistakes.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

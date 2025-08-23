@@ -1,0 +1,15 @@
+WAD: Scythe
+MAP: MAP09: Computer Storage
+Time: 0:21.74
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Comments:
+
+On the first try, I got 22s. I knew it would be very easy to improve, so
+I tried again and got this. I tried more after this for about 15 minutes
+but didn't see any improvements, so I figured I'd just keep this.
+
+Yes, I know I'm very lazy. :P
+
+--Doomdaniel95

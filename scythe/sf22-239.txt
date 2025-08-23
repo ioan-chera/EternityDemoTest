@@ -1,0 +1,34 @@
+This is a Doom .LMP - Please forward it...
+
+sf22-239.txt
+
+sf22-239.zip
+
+sf22-239.lmp - Ultra-Violence Max with fast monsters
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 22 - Despair
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       2:39
+================
+
+
+Description:
+
+I noticed that UV-fast of map 22 had been undone yet, so
+I just tried it. It was much more difficult than I expected.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

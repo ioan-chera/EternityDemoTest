@@ -1,0 +1,12 @@
+File:           scythe.wad
+Map:            02
+Category:       NoMo
+Time:           0:10.34
+Port:           dsda-doom 0.25.2 (cl2)
+
+Player:         MFG38
+Comments:       The SR50 to the exit switch feels stupidly inconsistent
+                even when I think I nail it. 90% of my attempts ended in
+                me falling into the nukage no matter how sure I was I'd
+                be able to clear the gap. Might be able to do a sub-10s
+                one of these days.

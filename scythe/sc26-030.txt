@@ -1,0 +1,13 @@
+************************************************************************
+Filename                : sc26-030.lmp
+LMP Version             : PrBoom+ 2.5.0.1 -complevel 2
+Pwad name:              : Scythe
+Pwad(s)                 : scythe.wad
+Map Level(s)            : MAP26
+Skill                   : 4
+Category                : UV Speed
+Length                  : 0:30
+Author                  : Kimo Xvirus
+Comments                : Thanks to that archvile boost at the end, I
+                          barely got 30 seconds (It's 30:97 :P)
+************************************************************************

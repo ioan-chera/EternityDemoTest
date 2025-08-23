@@ -1,0 +1,15 @@
+              Scythe
+        Map 02: Punchline
+       Map Author: Erik Alm
+------------------------------------
+           sc02o757.lmp
+
+Nomo in 0:07.57
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: First time I got a switch hit as I made it to the platform. Sort of difficult to do, as it's a pretty sharp turn.

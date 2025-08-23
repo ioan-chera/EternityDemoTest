@@ -1,0 +1,14 @@
+==================================================
+Date     : 13-09-24
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP27 - Terror
+Time     : 11:17
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA. 
+
+Notes: This was Attempt #4669, and my 4th successful run. When I recorded this, my target had evolved to sub-12 minutes, but I never expected as excellent a run as this. Almost everything that could go right, did go right, except for the baron being revived near the BFG.

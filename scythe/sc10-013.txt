@@ -1,0 +1,12 @@
+==================================================
+Date     : 23-01-2020
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : Pacifist
+Engine   : prboom-plus-2.5.1.4
+Map      : MAP10 - The Lords
+Time     : 0:13
+==================================================
+Email    : borealis10@outlook.com
+Author   : Thomas Baden
+Nickname : Scorpius

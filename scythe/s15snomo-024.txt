@@ -1,0 +1,10 @@
+WAD: Scythe
+MAP: MAP15: Blood Bath
+Time: 0:24
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Just an update on the old record. The previous record (secret
+exit) was 0:33 by me.
+
+--Doomdaniel95

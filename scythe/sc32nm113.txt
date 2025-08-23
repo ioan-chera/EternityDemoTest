@@ -1,0 +1,22 @@
+SC32NM113.TXT
+SC32NM113.LMP
+SC32NM113.ZIP
+
+Player : megasphere308
+Date : 2021-05-19
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP32 Enoz soahc
+Source port : dsda-doom v0.18.0
+Time : 1.13.23
+
+Description :
+
+At some point I thought I would never make it!...
+What a map...
+Nightmare + pacifist don't fit well together :)
++ 1500 attempts I think...
+Not much to say, I almost failed in the archvile part, but survived.
+Never-ever-again!
+
+megasphere308@gmail.com

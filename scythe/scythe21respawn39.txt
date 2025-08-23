@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:     SCYTHE.WAD
+Pwad name: Scythe
+Maps:    21
+Skill:     4
+Category: Respawn 
+Exe:      PRboom+ 2.5.1.4 cl2
+
+Time:     0:39
+
+Author:    Cyberdemon531
+Email:     cyberdemon@boun.cr
+HP:	   http://www.twitch.tv/cyberdemon531 
+
+Comments:  Pretty good I think. I like this map in respawn quite a bit. 

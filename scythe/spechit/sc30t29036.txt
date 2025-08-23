@@ -1,0 +1,186 @@
+Iwad: scythe.wad
+Map:      30
+Skill:     4
+Category:  UV-Tyson
+Exe:       DSDA-Doom v0.25.6
+Time:      4:50:36
+
+-complevel 2
+
+Author:	   j4rio
+
+
+
+This was kind of a weird one. The most challenging part was really just overcoming the initial urge to violently vomit
+anytime I booted the map for routing. The whole thing is, for the most part, just a bonkers routing puzzle with obtuse 
+counter-intuitive solutions. Puzzle may be a fitting word in retrospect now that it's complete, but initially you're not
+even sure whether you're engaging with a puzzle. You don't get that clear feedback about progress being made and nobody
+will notify you that a certain decision you made hours ago was fundamentally wrong. There's also a factor of randomness
+heavily felt, which means any outcome of a situation has to evaluated - you really don't want to rely on a fluke.
+
+The routing itself began a good while ago when I went over leftover scythe holes. I wasn't exactly thrilled with the
+prospect and hurled it in the trash without much hesitation. There just didn't seem to be anything worth investigating.
+I mean, there are 18 cybers and nonexistent bullet reserves. What more do you need to conclude that it's impossible and
+move on? Yet the damn thing kept getting brought up. "It's the last hole" and all that jazz. 4shock mentioned it recently 
+during our secret meet-up, which kind of made me consider giving it at least one more half-hearted attempt. 
+
+(Boring route details ahead. I believe most of them are quite self-explanatory from the demo, but suit yourself. You can
+skip this section and go straight to the bottom if route details don't tickle your fancy.)
+
+Now even straight up at the very start I've started noticing some heavy quality-of-life improvements. Given the rather 
+hot starting position, you're not exactly incentivised to linger around. However, frantically moving around map at this 
+point may already be enough to render the map undoable. So long as you don't make any noise, you retain a lot of control
+over what happens in the outer YK section. The first cyber will also become dormant after infighting in the first room
+and remain deposited at that spot for later. However, it's crucial that this guy takes out all visible barons, otherwise
+upcoming strats won't work.
+
+The YK section is easy when handled with care, but takes a lot of time to clear out. The first goal is to take out the
+awkward cyber in the corner using sleeping mancs, for now ignoring the other 2 cyber turrets. Since this guy is basically
+guaranteed to die from infights, I also use mancs to distract and/or destroy awakened spiders behind the first turret
+platform. The most problematic monsters here are those revenant platforms with 1 archvile. Admittedly, I've had no safe 
+method of removing them and relied on improvisation. In the successful attempt I used mancs, but more often than not I 
+have to use the cyber turret. He is quite likely to fall asleep after infighting, so in case he does so in a safe spot,
+you can lure revenant balls while standing behind him. Another random issue that can arise here is an immobile revenant
+revived by an archvile. You can later on lure a caco and try to play hide-and-seek around that revenant or waste some
+of the extremely limited edition bullets. With just few more monster groups left to be taken out by cybers, the most fun
+part of the run can commence.
+
+I have the second turret cyber hit an archvile just around the corner and hide behind a wall. Then I run off to the grocery
+store to buy some milk. This was a crucial error, the cyber went dormant and vile had hard time targetting him. So anyway,
+if you feel like doing some improvements here, one point of improvability is not running off mid-run to the grocery store.
+Few things worth noting here. All barons at the start must be dead, otherwise they'll eventually stumble downwards to your
+hiding spot. Also all revived monsters will remain stationary as long as you've made no noise up to this point. I haven't 
+found any other satisfactory method to take out this guy without severe risks and issues, but to be fair, looking for one 
+wasn't very high on my priority list. The whole map is routed with "absolutely-anything-goes" mindset.
+
+With turret cyber out of the picture, a lot more room is now available for easy maneuvering. First I use the leftover turret
+guy to remove all the revived stuff in the corner of the room along with archvile and hks from the corridor, gaining access
+to the backstage of starting room. Here I finally make noise, there is no longer any point in remaining quiet. This wakes
+up an archvile in the pit below, eventually teleporting near the map's starting point. Sometimes this archvile telefrags a
+cyber I've deposited here, which honestly does more harm than good. I've had a brain fart trying to remove this vile, almost
+dying in the process.
+
+The next step was removal of all YK content. This is normally done via leftover turret cyber, starting cyber (in case he
+doesn't get telefragged) or just plain punching. Grabbing YK itself reveals more stuff, including 4 additional cybers.
+I usually just lure them all to the corner and hope only a single cyber instigates an infight, almost certainly dying
+in the process. Ideally I'm left with 2 cybers, but 3 is still manageable amount. 4 is a little too much. I've realised
+all these guys can become stuck in the room housing YK using that platform's geometry. To pacify them, I use homing rev
+balls from the starting room, ideally some of those stationary groups behind blocklines on the left side, since they are
+completely untargetable from outside.
+
+With YK totally cleared out, I move on to BK section. Another cyber turret platform here is fortunately easy to take care of.
+First he infights all the flying crap, then I use him to harm jailed viles at the bottom. They can easily target him despite
+seemingly long distance. The room on the left side houses 2 more cybers, possibly the worst and scariest duo of the map.
+The limited space and cut-off nature of this section severely limits many out-of-the-box possibilities. However, there is 
+just enough revenants in their clear view to cause some serious damage. This is the one instance where you're really pretty 
+much reliant on random chance. With infight over, those cybers are nr.1 primary bullet target practise. If that fails, there
+is also one invulnerability available for some limited punching and eventually some cacodemos you can lure from inner section
+later. The room on the right is also quite scary, there's a huge load of mancubuses that you will eventually have to punch
+out sooner or later.
+
+Proceeding to RK section via starting room, there are a few things to take care. The tunnel to the right side of the starting
+room was avoided on purpose at all costs so far. There is a trigger revealing a bunch of revenants and archviles, all of who
+will start roaming the lower section with damaging floor and interfere with moving around the place, blocking you from below.
+I just punch them head-on, there is a blockline providing sufficient cover. There are a few additional issues, as per usual.
+At least one archvile is almost guaranteed to run to the bottom and start reviving some stuff on unreachable platforms. Most
+of them can be targeted by cybers later-on, but problems can arise if some leftmost revenants are revived and stuck in place.
+You will almost certainly require bullets for such a situation, which in current context can be attempt-wasting.
+
+Now to proceed further, you need to reach a platform housing a heap of imps and an archvile. This archvile is a massive
+wrench just randomly thrown in routing-wise. Buttons you press in that section actually reveal 4 chaingunners altogether and
+a mass of hellknights. This is the only instance of (at least hypothetical) ammo-multiplying in the map. You might be inclined 
+to bash your head against a wall, trying to get something going, but it's just never going to get you any yield. You'll barely 
+get at best 100 additional ammo, even that not being guaranteed at all. Besides this, that vile itself is a massive nuisance 
+on its own. Anyway, after I concluded my routing, I just settled on bashing this guy out. The amount of trouble doing things 
+in this order caused absolutely offsets any hypothetical low ammo yield. I wasted a lot of unnecessary time with this guy,
+he got stuck in an awful place and I was hesitant just headlessly rushing him.  
+
+Pressing the first button at the backside of this section reveals 2 more cybers and a bunch of flying crap. In case I got
+exceedingly lucky with BK cyber infights, I could just leave all the stuff to infight. A way more likely scenario is that
+I still need something to damage leftover cyber(s) there. Flying monsters are the only source of additional damage at this
+point and usually have no problem traversing over to their location. An unfortunate issue here is a pair of pain elementals
+can randomly join the fray at an undesirable moment.
+
+Now with infights over, one of the scariest moments of the run is about to take place. I need to incapacitate both those 
+cybers in their tiny allocated space with homing revenant balls. I use a bunch that just happens to be nearby and conveniently 
+out their of reach. Even despite the short distance, the geometry of this room makes this horrendously awkward. I've almost
+died during the process. One of them gets immediately punched out via a room corner, the other one remains deposited for
+a few leftover infights later. Before pressing the other button revealing some more additional monsters, I clear out a passage
+between the backstage of first room and the cyber room. A bunch of revenants just get punched out and vile just suicides as
+I watch it from distance through a wall opening.
+
+With this portion clear, I can press the second button of the previously mentioned platform. This opens up a load of hks and
+barons with a cyber mixed in on the upper section, then a bunch more hks on the platform itself. The cyber revealed on the
+upper section should just die instantly if I stand in the freshly cleared room with archvile. All those hks and barons will
+just move closer to cyber, making infights basically guaranteed. The leftover deposited cyber from earlier is then used to
+completely clear out every survivor. Afterwards, he gets once again pacified with a homing rev ball, this time a lot less 
+scary given that at this point he is alone on its platform.   
+ 
+RK section entrance was a total mess. Whatever was routed beforehand was just thrown out of a window. The infights in this 
+section were horrible and totally didn't go the way I anticipated. At first I normally enter the mancubus ledge, which requires 
+punching at very least two to three mancubuses. A distant cyber visible from below in an alcove then generates an infight 
+between those mancubuses and himself, hopefully clearing out most of it. This didn't happen, in fact most of them survived and
+I've had basically no way to do anything else other than just punching through a bunch of them until the cyber can target me and 
+shoot a rocket with proper trajectory. What's even worse, the very reason I do this ledge clearing in the first place is to get 
+a clear view of a different cyber coupled with revenants in an enclosed space and initiate an infight between them, but somehow this 
+bozo managed to target those revenants instead of mancs as he was supposed to, completely throwing off any previous routing.
+At this point I've realised I have a massive issue of potentially fully healthy cyber at a spot I'm really not supposed to have
+one.
+
+Now normally the cyber that infights those revenants dies afterwards to a mastermind in the very next room. I took massive risks
+here trying to throw a few punches at the cyber during this infight, just to cripple him as much as possible. I was very fortunate
+this worked out, because there are almost no other options to handle this particular guy other than just using up an invulnerability.
+One benefit from this whole ordeal was, however, the fact that now the alcove cyber was crippled. Normally he dies to infights a
+little bit later, but I could take him out of the picture much faster in arguably preferable circumstances.
+
+The only thing left now is grabbing RK from beneath two more dangerous cybers after they clear out some leftover survivors. This is
+rather scary so deep into the run. Doing so reveals the last RK encounter, namely a heap of revenants and archviles. Fortunately you
+can make them infight while hiding below the ledge, the only thing to keep in mind is making sure you deposit at least one revenant
+at the start of the ledge (this is absolutely crucial). After infights conclude, there are going to be some revived mancubuses that 
+have to be terminated immediately, just so they aren't the last survivors on the ledge. With just one last revenant survivor, 
+possibly the last scary bit of the map commences.
+
+I have not found any other reliable way to handle those last two cybers other than simply using a bunch of rev balls to pacify them.
+After a successful hit, there is a small window of opportunity when those cybers won't target you and you're free to punch away. I
+try to linger as briefly as possible, because that revenant has a chance to clumsily stumble into their view. I got a mini heart attack 
+when I noticed one incapacitated cyber trying to target the revenant, thankfully missing. This drags on for a while, but eventually
+does the job.
+
+Now at this point I had basically just filler fights to take care of. I got a little too excited so I've obviously almost totally 
+screwed up what should have been one of the easiest bits of the map saved for the very end. The revenant alcove that I used to target
+cybers in the starting room previously is only accessible through a teleporter in the rightmost house of BK section. I had saved an 
+invul from earlier, so I figured I'll just use it for these guys, simply because I had no health surplus to tank some of their spawn 
+slaps as soon as I enter the teleporter. Pressing the button they guard reveals 2 viles and revs at the very start of the map. I really 
+should've just stared at them from distance until they killed themselves off, but somehow things got a little bit out of control, 
+viles started reviving cacos and revenants with access to different parts of the map. Just an all-around shitshow. At least it provides
+somewhat interesting conclusion, I suppose.
+
+(End of routing details.) 
+
+If you've skipped down here, you've reached the end of the textfile. Seriously, what did you expect to find here by skipping all the text? 
+Some lovely surprises? Well I've got bad news for you, there is absolutely nothing. What else am I supposed to write here if not boring 
+route details? Discuss what I've had for dinner yesterday or what? Seriously, scroll right back, read all those damn boring route details 
+and stop complaining. Honestly, your lack of attention span disgusts me. Why even download a goddamn 5 hours long tedium if you're too 
+lazy to engage with all the strategizing that went into it. Very disappointing, shameful and downright insulting. I would advice some 
+serious introspection and maybe rethinking some of your decisions leading up to this point, clearly you're used to everybody just giving 
+you a pass without a glimpse of care to be found on your end, but I'm not going to let that slide so easily. You're going to scroll back, 
+real nice and slow, and you're going to read it all TWICE, just so we're even. Maybe then I'll start taking you a little more seriously 
+and consider moving beyond this blatant display of indecency. Kapish?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+   

@@ -1,0 +1,10 @@
+WAD: Scythe
+MAP: MAP04: Lost Warehouse
+Time: 0:14.91
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+It didn't take me too long to get 14, though I got quite a few 15's. I'm 
+happy with this even though the running isn't perfect by any means.
+
+--Doomdaniel95

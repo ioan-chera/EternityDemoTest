@@ -1,0 +1,15 @@
+              Scythe
+       Map 14: Power Outage
+       Map Author: Erik Alm
+------------------------------------
+           sc14o023.lmp
+
+Nomo in 0:23.71
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Not actually that hard, I guess I was lazy last time. First 23 was 23.83, but I had a door bump, so I improved it. .6x, at least, should be possible, but my goal was mostly clean movement, not interested in full-on optimization (I don't think 22 is possible). Also, unfortunately fired pistol accidentally, heh.

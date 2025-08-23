@@ -1,0 +1,9 @@
+Runner: NightTerror
+IWAD: Doom2.wad
+file: Scythe.wad
+Category: UV-respawn
+Map: 06 (Pressure Point)
+Source Port: dsda-doom 0.19.7 (complevel 2)
+
+	
+	Sorry about skipping end screen too quickly

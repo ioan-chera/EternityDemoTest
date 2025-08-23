@@ -1,0 +1,23 @@
+sc04p019.txt
+  sc04p019.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.3 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 04 - Lost Warehouse (by Erik Alm)
+
+  ================
+  Kills         3%
+  Items         0%
+  Secrets       0%
+  ----------------
+  Time        0:19
+  ================
+
+  Description:
+  Route inspired by Gyrossman's and tatsurd's TAS runs, except I had to hold the door myself
+  thanks to my puny human speed and herding abilities. :) 18 is entirely possible with this
+  route, but requires insane smoothness and I'm done with the exit pig killing my runs. :)
+
+author: dew
+e-mail: dewww@seznam.cz
+23. 08. 2009

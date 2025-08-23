@@ -1,0 +1,13 @@
+==================================================
+Date     : 23-06-23
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality + Items
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP20 - The Starport
+Time     : 2:55
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA
+   Notes : I was not expecting to go sub 3:00 until this run, which is close to perfect by my standards. Tiny improvements are possible, but I am satisfied with this.

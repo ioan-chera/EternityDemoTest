@@ -1,0 +1,8 @@
+Recorded using WOOF 14.3.0 (complevel-2)
+
+Player : Betelgeuse
+Date : 3/25/24
+Time : 20.26
+Pwad : Scythe
+Iwad : Doom 2
+Comment : Fairly simple map, Could've done better.

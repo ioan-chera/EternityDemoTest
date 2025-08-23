@@ -1,0 +1,19 @@
+              Scythe
+        Map 32: enoZ soahC
+       Map Author: Erik Alm
+------------------------------------
+           sc32str137.lmp
+
+Stroller in 1:37
+
+    Kills   - 11%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Not too bad, but luck-based start because of the hitscan. 71 attempts.

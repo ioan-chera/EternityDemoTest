@@ -1,0 +1,21 @@
+              Scythe
+       Map 30: Fire and Ice
+       Map Author: Erik Alm
+------------------------------------
+           sc30s125.lmp
+
+NM100 in 1:25
+
+    Kills   - 25%
+    Items   - 35%
+    Secrets - 100%
+
+Recorded with: DSDA-Doom 0.27.5 -complevel 2
+Skill level: Nightmare!
+Author: 4shockblast
+WAD: scythe.wad
+Category: NM100
+Time: 1:25.14
+YouTube video: https://www.youtube.com/watch?v=ll1tKWb1jgM
+
+Comments: Could be much faster, sub-1:20 is the goal. Took longer than I would have liked, lol, so not gonna go further (first exit). Lost a bit of time getting out of the secrets, IDK how I survived at all, though, tbh.

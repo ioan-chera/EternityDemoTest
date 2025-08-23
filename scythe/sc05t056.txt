@@ -1,0 +1,16 @@
+Pwad: scythe.wad   
+Map:      5
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      0:56
+
+-complevel 2
+
+Author:	   j4rio
+
+I got 1:00 in basically about 5 minutes of attempts, but pushing
+it below that took another 1500 attempts or so, most of which just
+end immediately at the start either due to crappy pistol damage or
+dudes on the other side refuse to blow themselves up with barrels.
+This was first exit below minute.

@@ -1,0 +1,40 @@
+This is a Doom LMP Entry
+
+SS30-136.ZIP
+
+	SS30-136.TXT
+	SS30-136.LMP -- Nightmare Secrets
+
+Recorded using GLBoom-Plus v2.5.1.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+1152x864, gamma level 4, capped framerate
+HUD used (timer)
+
+Scythe -- Level 30 -- Fire and Ice
+
+=---+------+---=
+Kills        29%
+Items        42%
+Secrets     100%
+
+TIME        1:36	Old record: 2:09 by Ancalagon
+=---+------+---=		     
+			
+Demo entry #162.
+
+Description:
+
+I just love Erik's harmonious mixing of urbanistic architecture and hell
+(another bloody good example is his bldnight.wad). This famous map is really
+interesting for NM100S. To push it below 100 seconds I chose a much more evil
+route than in Ancalagon's superb demo, and many times those bastardic cybers
+knocked me down from the ledge. But the result came quicker than I expected.
+First exits were multiple 1:38s and 1:37s. The final attempt has some slowdowns
+in the southernmost passage, but maybe they helped to prepare such a great
+monster alignment and RNG behavior in the next few scenes :)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done November 24, 2018, 00:53:04

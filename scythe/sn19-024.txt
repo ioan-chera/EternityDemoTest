@@ -1,0 +1,30 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      19 - "AD"
+Skill:     5 - NightMare!
+Category:  Speed
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:24
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     9%
+           Items    50%
+           Secrets   0%
+
+Comments:
+
+I said in my sc19n025.txt:
+"Didn't work long on this, I just wanted something quicker than 
+ the UV speedrun."
+
+Well, Anima wanted to see 0:24 so here it is. I used a pacifist 
+start, and just punched through any zombieman that got in my 
+way after I got the berserk. Enjoy! :-)
+
+Kristian Ronge
+
+zuckuss@gmail.com

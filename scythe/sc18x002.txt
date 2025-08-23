@@ -1,0 +1,23 @@
+This is a Tool-Assisted DooM .LMP
+
+SC18x002.TXT
+
+ SC18-002.ZIP
+
+  SC18-002.LMP - Ultra Violence
+
+  Built with xdre2
+
+  DooM2 - Scythe - Map18
+
+  Kills      0%
+  Items      0%            ------
+  Secret     0%  and Time  |2.97|
+                           ------
+
+  Doom -PlayDemo with Version 1.9
+
+  Description:
+  Not so easy, couldn't do it last time.
+
+  Looper

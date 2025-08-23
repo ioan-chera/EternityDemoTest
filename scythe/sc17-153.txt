@@ -1,0 +1,17 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom2.wad
+Pwad:      SCYTHE.WAD
+Map:       MAP17
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.26.0 -complevel 2
+Attempts:  147
+
+Time:      1:53.86
+
+Author:    kmc
+
+Comments:
+I got multiple exits under 2 minutes and had intended to play for 1:4x, but I'm just not having fun so fuck it

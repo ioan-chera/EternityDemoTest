@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD:		scythe.wad
+PWAD Name:	Scythe
+Map:		03
+Skill:		4
+Category:	UV-Fast
+EXE:      	dsda-doom-0.19.7 -complevel 2	
+Runner:		Hackfraud	
+Time:		1:04
+-------------------------------------------
+Comments:
+
+A zombieman gets gibbed within the first 10 seconds. I'm glad I got that.

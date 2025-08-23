@@ -1,0 +1,22 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       04 - Lost Warehouse
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      39%
+Items:       0%
+Secrets:    50%
+
+Time:      0:28
+
+Comments:  I hate fast spectres in the dark.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+17.10.2004

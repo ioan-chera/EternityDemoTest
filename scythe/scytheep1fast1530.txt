@@ -1,0 +1,32 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	01-10
+Skill:	4
+Category:	UV -Fast Episode 1
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	15:30
+-------------------------------------------
+Comments:  
+Alright, here's another bi-annual update to Ep1 -Fast. Not much to say about this demo, just someone beat it, thanks.
+
+MAP01 - 0:43 / 0:43
+MAP02 - 1:36 / 2:19
+MAP03 - 2:07 / 4:26
+MAP04 - 1:24 / 5:50
+MAP05 - 1:29 / 7:19
+MAP06 - 1:57 / 9:16
+MAP07 - 1:25 / 10:41
+MAP08 - 2:10 / 12:51
+MAP09 - 1:48 / 14:39
+MAP10 - 0:51 / 15:30
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

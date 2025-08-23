@@ -1,0 +1,7 @@
+PWAD: SCYTHE.WAD
+map: 26
+Skill: 4
+Category: UV-Max
+Source port: DSDA-Doom 0.24.3 complevel 2
+Time: 4:40
+Author: brikk_

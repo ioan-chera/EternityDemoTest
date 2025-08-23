@@ -1,0 +1,19 @@
+              Scythe
+        Map 01: Get Going
+       Map Author: Erik Alm
+------------------------------------
+           sc01s010.lmp
+
+NM100s in 0:10.89 (Also Pacifist)
+
+    Kills   - 4%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: I started NM100 attempts for ep 1 and on one attempt managed 11.3x on this map, so I figured I could do 10. Back when I did 11, I didn't think 10 was possible, but now it turns out it's not even that tight, as there's still points of improvement in this run. Hard to believe how bad I was back then. :D

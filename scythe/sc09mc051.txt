@@ -1,0 +1,32 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map09: Computer Storage
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:51.23
+-------------------------------------------
+4shockblast:
+
+Once again, lots of tricks to do in a max = lots of resets. Wandering monsters is the biggest problem here, lots of runs just fail because something is missing and takes too long to look for. RL is a bit out of the way for Garrett and not that useful for me, I try to rocket as much stuff early since I have time, so it doesn't wander; sometimes the monsters are grouped up well and I can get everything dead quick, other times I'm not so lucky. This time was sort of in the middle; if I got better grouping and killed the demon, I could probably save Garrett more time at the end. Sub-50s would be nice.
+
+GarrettChan:
+
+My favorite part is that jumping through the window next to the Yellow Keycard. It allows me to skip both Yellow Keycard and Blue Keycard. Though, the problem is that, I need to BFG the Mancubus on the platform so it has a chance it will attack me and push me off. Then, monsters can stay near that window sill to block me.
+
+Usually there'll be a couple of wandering monsters at the end. Took a bit of time to clean that up, but it seems it's very difficult to avoid this situation.
+
+Youtube Video: https://youtu.be/cmaPAioUv3w
+
+Apr 7 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

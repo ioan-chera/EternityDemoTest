@@ -1,0 +1,32 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       26 - Fear
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     101%
+Items:      73%
+Secrets:   100%
+
+Time:      4:02
+
+Comments:  Not bad, but a lot of mistakes in this demo.
+           I did a 3:56 with one revenant left some hours ago,
+           so I want a time under 4 minutes.
+           
+           BTW. I did about 15 exits this evening, and none of
+           those demos desyncs (incl two with an MMH of 1, that
+           was nice ;). I'm not longer sure if the
+           strategy to press the crusher switch as early as
+           possible would be much faster.
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+14.09.2004
+
+

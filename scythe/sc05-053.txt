@@ -1,0 +1,23 @@
+              Scythe
+       Map 05: Slimy Tunnels
+       Map Author: Erik Alm
+------------------------------------
+           sc05-053.lmp
+
+UV-Max in 0:53
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Pretty fun map, and the record looked slow, and I figured using the speed strat in the max route would make things go quicker (as well as increasing berserk usage). I'm not sure if all the route changes are better (tatsurd's SG usage in the dark area seemed like pretty strong), but I honestly didn't pay careful attention to his routing and just did what seemed easiest and most natural, so there's possibly still room for improvement in the route. One other possibility is letting the cacos out early, but I can't find an easy use for something like that other than just hoping that they end up dying at some point to infighting.
+
+First exit under tatsurd's time, but the time was way lower than I expected to get at all (I thought I'd get 0:55 or so) because I got really good luck with the barrels and berserk punching. Only part where I got bad RNG on punching was the ending where I had a hard time landing punches on the cacos, but, on the other hand, both cacos didn't take too many punches, so it balanced out I suppose. As a result, even if you found a stronger route, it would probably still require grinding for really good berserk punch luck again, which wouldn't be too fun.
+
+Also, thanks, Looper, for routing suggestions while I was streaming this. :D

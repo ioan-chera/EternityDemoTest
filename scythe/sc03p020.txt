@@ -1,0 +1,22 @@
+sc03p020.txt
+  sc03p020.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.3 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 03 - Up and Around (by Erik Alm)
+
+  ================
+  Kills         7%
+  Items         0%
+  Secrets       0%
+  ----------------
+  Time        0:20
+  ================
+
+  Description:
+  I like this map, I really do. But seriously. Those two pigs behind the yellow bars?
+  With the sargeant? A bit of an overkill for a poor pacifist, they ruin everything. :)
+
+author: dew
+e-mail: dewww@seznam.cz
+22. 08. 2009

@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map26: Fear
+Skill: 5
+Category: NM Speed
+Exe: PrBoom+ v2.5.1.4 -complevel 2 with advanced HUD
+-------------------------------------------
+Time: 0:33
+-------------------------------------------
+What design is this... there's a small ledge leading you to the exit, so you don't need keys, Arch-vile jumps, nothing...
+
+20 Nov 2017
+-------------------------------------------
+Author: GarrettChan
+garrettchan016@gmail.com
+https://www.youtube.com/c/GarrettChan

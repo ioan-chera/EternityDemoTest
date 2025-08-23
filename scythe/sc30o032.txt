@@ -1,0 +1,15 @@
+              Scythe
+       Map 30: Fire and Ice
+       Map Author: Erik Alm
+------------------------------------
+           sc30o032.lmp
+
+Nomo in 0:32.60
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Was pretty easy to get 32 for me. 31 would be possible with a single-shot Romero kill, but I never had that happen. I assume it's easiest done with good positioning and angle (as usual with optimizing rocket damage), but I don't care to do that.

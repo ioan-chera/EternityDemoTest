@@ -1,0 +1,27 @@
+           Scythe
+     WAD Author: Erik Alm
+-------------------------------
+      Episode 1 UV -fast
+-------------------------------
+    Level          Time
+-------------------------------
+    Map 01	   0:40
+    Map 02	   1:10
+    Map 03	   1:31
+    Map 04	   1:10
+    Map 05	   1:29
+    Map 06	   2:04
+    Map 07	   1:03
+    Map 08	   2:04
+    Map 09	   1:57
+    Map 10	   0:49
+
+TOTAL:            13:57
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -fast
+Author: 4shockblast
+
+Comments: This run is trash, but I have no motivation to optimize a run like this. <aybe it will spur someone else to beat it, then I might return to it. ;)

@@ -1,0 +1,19 @@
+              Scythe
+        Map 11: Sneak Peak
+       Map Author: Erik Alm
+------------------------------------
+           sc11n391.lmp
+
+NM-Speed in 0:03.91 (Also Pacifist)
+
+    Kills   - 1%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Was fairly easy with this strat, still requires some luck, though, as pinkie doesn't always stay around the bars. Centisecond time could be pushed further down, but sub-3 is definitely not possible. I suppose it'd be possible to get this in UV maybe with an insane luck grind, but screw that. :D

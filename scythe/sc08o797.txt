@@ -1,0 +1,15 @@
+              Scythe
+       Map 08: Garden Base
+       Map Author: Erik Alm
+------------------------------------
+           sc08797.lmp
+
+Nomo in 0:07.97
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Easy, 108 attempts. Still ugly, though.

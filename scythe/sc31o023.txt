@@ -1,0 +1,20 @@
+WAD: Doom
+Map: E2M9
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.27.5
+Time: 0:23.94
+
+Author: 	Kinetic
+Demo Date:	May 23rd, 2024
+Attempts:       1050
+Practice:	???
+Grind:		1 hr 40 min (+ the hour or 2 I grinded it the first time)
+Goal:           0:23
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+Last summer mhrz was going for this and I decided to grind it a bit to test my movement skills and I was just way too slow, my PB back then was like 24.4 or something, maybe 24.2? I was using mouse sr/sl50 then though, and I've upgraded to kb sr/sl50 since, so I decided to try this again to see where my movement was at. I did not think I was capable of beating mhrz's time without mud for myself, so I decided I just wanted to grab 23 and see how much effort it was to regauge my movement, and I guess it's OK! I take a super wide arc in the tunnel before the exit doors, that looks so ugly, but I had a fine beginning and a super fast end I think. Tied confused's time on this :).

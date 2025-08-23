@@ -1,0 +1,14 @@
+WAD: Scythe
+MAP: MAP16: Burial Grounds
+Time: 0:23.89
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 1, 2013
+
+Good way to start July. This was one of the maps I missed while redoing some
+of my old Scythe nomonsters runs. Ironically, this was one of the easiest
+to improve. I got 24.94 in 2 minutes. 23 proved to be a little more difficult
+here, but nothing backbreaking. I bet Cacatou or Kyle gets 22 pretty soon
+and sends it to DSDA.
+
+--Doomdaniel95

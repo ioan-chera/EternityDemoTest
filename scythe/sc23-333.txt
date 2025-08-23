@@ -1,0 +1,14 @@
+==================================================
+Date     : 17-03-24
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP23 - Anger
+Time     : 3:33.06
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA. 
+
+Notes: Still not the time I really wanted, but after almost 6000 attempts this map has frazzled my nerves enough. A late change of strategy meant I was using extra cells and rockets in the mid section of the map, saving 3 BFG shots for the first cyberdemon before luring the second one out to infight, giving me extra cells from that point. In my previous method, I saved 4 BFG shots to kill both cyberdemons, but did the mid section more slowly. This strategy got me to a best exit of 3:39.14. 

@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: scythe.wad
+Pwad name: Scythe
+Maps:      1 
+Skill:     4
+Category:  Nomonsters (4-player coop) TAS 
+Exe:       prboom 2.2.6
+
+Time: 0:06
+
+
+Author:    ClumsyDoomer   
+Email:     clumsy.doomer@gmail.com
+
+Comments: Looper can do 5s, I think.
+
+

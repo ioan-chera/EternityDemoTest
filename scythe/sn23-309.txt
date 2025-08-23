@@ -1,0 +1,19 @@
+Doom Speed Demos Archive
+https://dsdarchive.com/
+
+IWAD:      DOOM2.WAD
+PWAD:      SCYTHE.WAD
+Maps:      23
+Skill:     5
+Category:  NM Speed 
+Exe:       dsda-doom 0.10.0 -complevel 2
+
+Time:      0:03.09
+
+Author:    Rotwang
+
+Comments:  I wanted a short demo that I could use to (re-)figure out how the quickstart works in PrBoom+ (in this case, a fork or said port) and this fit the bill.
+
+I found it remarkable how close ferfrancuito's NM Speed was close to a 2.xx (DSDA v3 erroneously lists it as 3.23; it's actually 3.03) and I wanted to see how close I could get on the correct complevel (ferfrancuito used -complevel 17/-1). Pretty close, as it turns out. We're only 4 tics away from a 2.xx!
+
+Included is a -complevel 17 demo that reaches 2.91. It seems the arch-vile is more likely to target the player sooner on -complevel 9 or higher.

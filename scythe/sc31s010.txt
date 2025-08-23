@@ -1,0 +1,35 @@
+Pwad:      ftp://ftp.sunet.se/pub/games/PC/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      31 - "I Dunno Torn"
+Skill:     4
+Category:  Speed, Secret Exit
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:10
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     1%
+           Items     0%
+           Secrets  20%
+
+Comments:
+
+I like this map... one of my many favourites from "Scythe". The 
+speedrun here is just to my taste; I love these kinds of runs. 
+Unfortunately, this isn't pacifist style, as I place two well-
+timed SSG shots here. Especially shooting the Mancubus at the 
+stairs helps a lot (you can squeeze by it on the inside if you 
+"freeze" it!). 0:10 is also possible pacifist style, but will 
+be much tougher.
+
+I would like to send out a special greeting to this map's author 
+Kim "Torn" Bach. His project Doom Advent Calendar 2005, featuring 
+a map a day until Christmas Eve, is a fun initiative!
+
+
+Kristian Ronge
+
+zuckuss@gmail.com

@@ -1,0 +1,21 @@
+sc25p010.txt
+  sc25p010.lmp - Ultra-Violence Pacifist
+
+  Recorded using prboom-plus 2.5.0.5 with Doom 2 compatibility (-complevel 2)
+
+  Scythe - map 25 - Envy (by Erik Alm)
+
+  ================
+  Kills         0%
+  Items         0%
+  Secrets       0%
+  ----------------
+  Time        0:10
+  ================
+
+  Description:
+  A tiny bit slower than Kimo's speed record, but hey. I had 1% and a frikkin spider shooting at me. :)
+
+author: dew
+e-mail: dewww@seznam.cz
+11. 12. 2009

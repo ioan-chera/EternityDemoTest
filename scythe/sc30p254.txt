@@ -1,0 +1,14 @@
+PWAD:        scythe.wad (Scythe)
+Map:         30
+Skill:       UV
+Category:    Pacifist
+Source Port: DSDA-Doom 0.21.3 (-cl2)
+
+Time: 2:54
+Attempts: 499
+
+Player: PrBoomerJuice
+
+Comments: I grinded about 400 attempts out on Grumpy's route (got me a 3:29 and 3:31), but decided there has to be a better way to get lost souls. Apparently there is.
+
+I was a little excited and clicked through to the final text

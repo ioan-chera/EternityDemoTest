@@ -1,0 +1,21 @@
+              Scythe
+        Map 21: Solitude
+       Map Author: Erik Alm
+------------------------------------
+           sc21p983.lmp
+
+Pacifist in 0:09.83
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Kimo XVirus: "I think if 9secs is possible in this map, it should be very very hard"
+
+Wasn't quite so hard as it looked initially. Back when I first saw Kimo's run it looked really annoying and difficult to beat, and after the grind that was nomo in 8s I didn't want to run this map at all. After I got 10s a few times on a slightly slower route in my episode run attempts, I started thinking I should try for 9 as an individual level run, and as it turns out, it wasn't too hard, and took me maybe 30 minutes to get this, trouble mostly came from just exiting the map at all rather than any sort of optimization difficulty (previous exit was 10.6x :D). Matches Akse's TAS D2ALL of Scythe, I think that should probably be a second faster than this. ;)

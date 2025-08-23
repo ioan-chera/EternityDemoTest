@@ -1,0 +1,19 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28t433.lmp
+
+UV Tyson in 4:33
+
+    Kills   - 81%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: I'm not running anywhere! Pretty silly run, there's two linedefs that activate the crusher, the first stair after the RUN text and the first stair after the blue door. The first linedef is the harder one to skip; it is slightly diagonal and north, so I enlist the help of the lost soul (I found the skip easiest on the left wall, also after this run Kraflab found a setup that uses no boost). Second linedef is an easier skip since it can be done unassisted (as it is west), but still easy to fail so I spent a bunch of time looking for a setup there and finally found this one (which is pretty consistent but precise). Not much difficulty otherwise; I took everything as safe as possible by infighting the lost souls instead of punching them and infighting the exit monsters. Could have used more pistol ammo, but I actually got decent luck at the end, as that infight could have went much worse.

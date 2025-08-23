@@ -1,0 +1,28 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       18 - M/S Futura
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      5:00
+
+Comments:  Team with the spider until all other monsters are
+           dead. And then telefrag her. Sounds easy?
+           Well, it's not possible to figure out if she's on
+           the right spot in the right moment. This is the
+           first time I had luck with it this evening (after
+           about 10 failed telefragging attempts). And of
+           course it was very, very close ;)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+19.12.2004

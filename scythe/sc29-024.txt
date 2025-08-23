@@ -1,0 +1,35 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      29 - "Hell On Earth"
+Skill:     4
+Category:  Speed
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:24
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     1%
+           Items     0%
+           Secrets   0%
+
+Comments:
+
+Jakub's 0:26 run was excellent, so making a substantial improvement 
+is of course not possible. I toyed around with it a bit, getting a 
+0:28 and then a 0:27. From out of the blue, after about half an hour 
+I got a 0:25, which turned out to be 0:25.00. :-(((
+
+Then, naturally I had to go for 0:24, and it came surprisingly 
+quickly. Of course it's nowhere near perfect (and it's even a low 
+0:24) but ... nah, I'm done. :-)
+
+I'm including my two 0:25 exits, too (note the timestamps!).
+Many thanks to Jakub Razak for the route and for inspiration.
+
+
+Kristian Ronge
+
+zuckuss@gmail.com

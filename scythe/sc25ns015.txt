@@ -1,0 +1,17 @@
+SC25NS015.TXT
+SC25NS015.LMP
+SC25NS015.ZIP
+
+Player : megasphere308
+Date : 2021-05-13
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP25 Envy
+Source port : dsda-doom v0.18.0
+Time : 0.15.51
+
+Description :
+
+A lower 15 is still possible :)
+
+megasphere308@gmail.com

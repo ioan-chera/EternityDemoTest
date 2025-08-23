@@ -1,0 +1,11 @@
+Runner: ferfrancuito
+Date: 2020-Dec-3 22:47
+IWAD: SCYTHE.wad
+Category: Nightmare!
+Map: 7
+Source Port: PRBoom v2.5.1.4
+Time: 0:01.29
+Attempts: 544
+
+Description:
+1.29 marks the end of my pa/nomo/nm marathon for this level.

@@ -1,0 +1,25 @@
+Pwad:      scythe.wad (by Erik Alm)
+Title:	   Scythe
+Map:       16 (Burial Grounds)
+Category:  UV Max
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.0.8 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      1:36
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+Watching vile's new map23 max inspired me to polish one run as well,
+so I picked a map at random and joy! It's one with my own record.
+I changed the order of a few tasks, mostly in hopes of using rocket
+splash more efficiently. Lucking through all the unpredictable parts
+still took some patience, like a decent infight on the cemetery
+and the arch telefrag. And the exit archie flinching, haha.
+
+
+Recorded:  January 7th, 2011

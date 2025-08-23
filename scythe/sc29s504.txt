@@ -1,0 +1,23 @@
+              Scythe
+       Map 29: Hell on Earth
+       Map Author: Erik Alm
+------------------------------------
+           sc29s504.lmp
+
+NM100 in 5:04
+
+    Kills   - 84%
+    Items   - 75%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Whew, this was tough. Not the hardest NM run I've done, but probably harder than any of the ones I have so far on the DSDA. Parts of it are pretty straightforward and deterministic like much of the start, the fights in the second building I visit, and the ending (provided I get there with enough health and cells), but there are a couple really luck-based moments that can easily kill me at almost any health. Also last Scythe NM100 to be filled. :D
+
+First there is bridge crossing with mancs on both sides; if I get blocked too much, I'm pretty much fucked, and I can't spend too much time killing anything because of the archvile spawn behind me and other respawns. Also, after that even if I get down to the lower floor of the next building, I could get shot by a cyber through the door and killed by infinite height blast damage. Then, the next major checkpoint is the drop from the switch at the end of that building as if there are too many archviles around and they are in bad positions, I wouldn't be able to find any cover and would die. Finally, there is the drop down from the BFG secret and the rush for the yellow key; at that point, there are any number of spots the archviles could be, either at the bottom waiting to immediately kill me as I drop down, near the cybers preventing me from safely running past them, or sometimes random locations (like out to greet me right in front of the yellow door on my way there on one attempt). Ending should be totally easy unless I make an egregious error, which I of course did on my first attempt there by switching to the plasma gun instead of the BFG at the cyber fight and getting blasted in my face a couple times.
+
+As a result, time was almost entirely irrelevant to me, my only goal was an exit, which took a good 5-7 hours total to obtain (although the final session when I got this run lasted a whopping 15 minutes, heh), though part of why it took so long overall was me being stubborn with a riskier route that didn't save any time for a while. This particular run had a slowish start as the monsters in the first building took awhile to kill. I also lost a lot of health, so I didn't expect to exit at all. But I managed to get lucky on the bridge with health, and the rest of the run went more or less well with only minor hiccups like one of the hell knights refusing to be lured out of the third building. Overall, ~5 minutes is roughly what I expected from this run, sub-5 would be nice, and probably lower is possible with more monsters skipped.

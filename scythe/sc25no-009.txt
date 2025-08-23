@@ -1,0 +1,24 @@
+WAD: Scythe
+MAP: MAP25: Envy
+Time: 0:09.83
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+In an attempt to win back some of my nomo runs for Scythe, I'm trying to start
+on some of the maps on which I know I can definitely do better than last time.
+
+This is one of them. I ignored the trick at the beginning where you jump across
+the pit for the longest time because I thought it required SR50, which I'm not
+exactly great at pulling off. Not the case! You can easily SR across it with
+the help of the red torches lining the edges of it, due to the wallrunning
+possibility it creates. I feel dumb after discovering it. :P At least I know
+about it now. (I still think the discovery of my other trick wasn't too bad.)
+
+Anyway, now for some comments about the run. It's not that hardworked, I ad-
+mit it. I just got a bunch of 10's and kept trying until I reached a point
+where I got a 9 second demo. 9.83 secs is sufficient. ;)
+
+Also, big thanks to Cacatou for realizing there is more potential for Scythe
+nomonsters runs and beating the old, crappy times featured in my ancient demos.
+
+--Doomdaniel95

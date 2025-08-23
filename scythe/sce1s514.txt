@@ -1,0 +1,27 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+             Episode 1 NM100
+------------------------------------------
+    Level          Time
+------------------------------------------
+    Map 01	   0:11 :) 
+    Map 02	   0:32 :)
+    Map 03	   0:54 :)
+    Map 04	   0:57 :(
+    Map 05	   0:29 :)
+    Map 06	   0:35 :(
+    Map 07	   0:03 :)
+    Map 08	   0:37 :?
+    Map 09	   0:42 :(
+    Map 10	   0:14 :(
+
+TOTAL:             5:14 :?
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Beats NM-Speed by 5 seconds, haha. Funny how I thought this episode was super difficult when I did NM-Speed, but after some of those perdgate NM-Speeds as well as Sunder NM-Speeds and mmap 29 NM100 for Scythe, this is practically trivial :). I was really bad back then. I don't even know what to say about this run, I really didn't take it too seriously despite the time being better than NM-Speed. First exit, and it didn't take that long. 1-3 seem alright time-wise, but 4 always seems to be pretty slow. 5 looks like a pretty good time, I get kind of confused at the start on 6, and 8-10 I had trouble with health, so parts of those maps were slow. Sub-5 min is most likely entirely possible, but I'm not too into this run. I am gonna post an improvement for my old garbage NM-Speed as well. I already have 4:07, but I want at elast sub-4 before posting.

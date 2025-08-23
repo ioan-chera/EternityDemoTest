@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+SN26-030.TXT
+
+ SN26-030.ZIP
+
+  SN26-030.LMP - Nightmare!
+
+  Recorded using "DooM95.exe"
+  doom2 -playdemo 
+
+  Scythe: By Erik Alm - Level 26, "Fear"
+
+  Kills     13%
+  Items     13%            +++++++++
+  Secrets    0%  and Time  + 00:30 +
+                           +++++++++
+
+  #####################################################################################
+  # Description:  #  Hey folks :)  This was a bit frustating to do, I had two times   #
+  #################  34''; also 36'' and 37''. I also did a 31'' and 32'' but that    #
+  #  was out of sinc :((((  But, I'll keep try on this level, even on UV, because I'd #
+  #  like to reach the optimal time, which at NM should be under this time, like 28''.#
+  #  Well, I'm satisfied on this, and I enjoyed  playing it, but not so much as I     #
+  #  hoped, that's why I'll continue...                                               #
+  #   SEE YA FOLKS :)                                                                 #
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

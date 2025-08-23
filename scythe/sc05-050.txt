@@ -1,0 +1,19 @@
+              Scythe
+       Map 05: Slimy Tunnels
+       Map Author: Erik Alm
+------------------------------------
+           sc05-050.lmp
+
+UV-Max in 0:50
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Awful run. But it had to be done, I guess.

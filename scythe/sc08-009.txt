@@ -1,0 +1,34 @@
+Pwad:      ftp://ftp.sunet.se/pub/games/PC/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      8 - "Garden Base"
+Skill:     4
+Category:  Speed + Pacifist
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:09
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     0%
+           Items     0%
+           Secrets   0%
+
+Comments:
+
+A very awkward initial trick jump (strafe-50 only, to make it worse). 
+It took me many attempts to get this 0:09 run, mostly because most 
+of my good attempts were spoiled by the Mancubus. It kept blocking my 
+path. :-(
+
+Method did a fine NM run in 0:09 of this map, but I didn't see any 
+publicly released 0:09 run in UV, so I guess this is the first. :-)
+
+Of course 0:08 would be an unbeatable time here. I'm very satisfied 
+with this, though. Especially since this also is Reality, Pacifist, 
+and Lemmings!
+
+Kristian Ronge
+
+zuckuss@gmail.com

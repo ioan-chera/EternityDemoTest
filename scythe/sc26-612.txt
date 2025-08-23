@@ -1,0 +1,15 @@
+************************************************************************
+THIS IS A DOOM2 DEMO
+
+Filename                : sc26-612
+LMP Version             : Doom2 v1.9
+Game                    : Doom2
+Pwad(s)                 : SCYTHE.WAD BY ERIK ALM
+
+Map Level(s)            : MAP 26
+Skill                   : 4
+Length                  : map26: 6:12 115%kills
+Author                  : Magikal
+Email Address           : magikal@supanet.com
+
+Description             : HELL

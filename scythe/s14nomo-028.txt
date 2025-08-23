@@ -1,0 +1,10 @@
+WAD: Scythe
+MAP: MAP14: Power Outage
+Time: 0:28
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Just an update of my old world record. The previous record
+was 0:32 by me.
+
+--Doomdaniel95

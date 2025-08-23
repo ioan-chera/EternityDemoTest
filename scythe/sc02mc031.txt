@@ -1,0 +1,32 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP02: Punchline
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:31.54
+-------------------------------------------
+4shockblast:
+
+IDK how everything died so fast. I think my side was OK, but not super special or anything. Wish I could help a bit with the end cleanup more often; worked out alright this time, but I don't have great visibility of the exit monsters from the secret or enough ammo usually.
+
+GarrettChan:
+
+Was not my performance in this run, but funnily, at 0:30.46, we were finished killing everything, but we were going 31 this time, so I didn't react fast enough to press the switch...
+
+Sometimes the Demon in the Yellow Key Room is cooperative and killed by the barrels, but not this time. I have a couple of empty shots around there as well.
+
+Youtube Video: https://youtu.be/X-BCDWlt9AA
+
+Feb 20 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

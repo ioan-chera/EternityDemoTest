@@ -1,0 +1,10 @@
+Runner: NightTerror
+IWAD: Doom2.wad
+PWAD: scythe.wad
+Category: UV-max
+Map: 05 (Slime tunnels)
+Source Port: dsda-doom 0.10.0 (complevel 2)
+
+	Description:
+
+		100% low-effort demo and 100% luck-based level. I got this in 40 minutes or so, but I don't feel like committing to this map. Optimal time should be 46 seconds or so 

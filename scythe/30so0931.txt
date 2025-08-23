@@ -1,0 +1,89 @@
+Scythe (SCYTHE.WAD)
+D2ALL
+------------------------------------
+Author: eLim [twitch.tv/elimzke]
+Date: 22/11/2017
+NoMonsters in 9:31
+Recorded with: PrBoom-plus 2.5.1.5r4526
+-complevel 2
+
+Copying shock's time comparison format >:)
+-------------------------------------
+
+    Level        Time    <30sco1005
+-------------------------------------
+    Map 01       0:10      +0:01 :)
+    Map 02       0:09      -0:01 :)
+    Map 03       0:05      -0:11 :)))
+    Map 04       0:14      -0:00 :)
+    Map 05       0:12      -0:00 :)
+    Map 06       0:11      -0:11 B))
+    Map 07       0:01      -0:00 :)
+    Map 08       0:10      -0:01 :))
+    Map 09       0:20      -0:00 :|
+    Map 10       0:12      -0:00 :)
+-------------------------------------
+Episode 1:       1:44      -0:23 :))
+-------------------------------------
+    Map 11       0:09      -0:00 :)
+    Map 12       0:13      -0:01 :(
+    Map 13       0:22      -0:05 B)
+    Map 14       0:26      +0:01 :(
+    Map 15       0:10      -0:00 :|
+    Map 16       0:23      +0:01 :)
+    Map 17       0:27      +0:01 :(
+    Map 18       0:14      -0:00 :|
+    Map 19       1:11      -0:02 >:/??
+    Map 20       0:37      -0:00 :)
+-------------------------------------
+Episode 2:       4:12      -0:05 :D
+-------------------------------------
+    Map 21       0:09      -0:00 :)
+    Map 22       0:21      +0:01 :|
+    Map 23       0:23      -0:00 :)
+    Map 24       0:23      -0:04 :))
+    Map 25       0:09      -0:00 :)
+    Map 26       0:22      +0:01 :|
+    Map 27       0:11      +0:01 :|
+    Map 28       0:28      +0:01 :(
+    Map 29       0:36      -0:05 :))
+    Map 30       0:33      -0:01 :O?
+-------------------------------------
+Episode 3:       3:35      -0:06 :)
+-------------------------------------
+TOTAL:          09:31      -0:34 :))
+
+=====================================
+
+
+Comments: 
+I hate writing these for runs that are basically just new-trick routes, so I'll just comment on the maps I care about:
+
+I don't reset on 10 for map01 because my movement sucks.
+
+Map03: Zero-Press discovered here allows for an easy time save. I reset under 10s. 5s is very good, nice and lucky.
+
+Map06: Precise wallrun discovered during 4shock's 30sc run means I get to cut the time in half from his nomo run very
+       easily. Not hitting all the SR50 keys on the same frame means the run is over, however.
+
+Map12: Should be saving 2 seconds here since 4shock misses the first little jump at spawn, but bad movement means a
+       very narrow 1s save instead haha
+
+Map13: Midair red key grab also discovered during 4shock's 30sc runs means more easy time saves here. The corner you
+       need to back into in order to start the run is very easy to stop by running into it, so no messing around
+       waiting for momentum to stop!
+
+Map19: Easily the worst map in this run. The elevator cycle shit is so frustrating. This should've been like a 1:06
+       time, not a bloody 1:11! Regardless, the (slow) RJ at the start still shaves a couple of seconds off, so w/e
+
+Map24: Managed to clip a few seconds off 4shock's prev record by optimising the setup for the strafe jump right
+       before the RJ. The RJ itself is easy peasy and very lenient, but the strafejump can be a real bitch.
+
+Map29: Zero-Master found a nice setup for the RJ on this map. Despite that, it's still quite difficult to time and
+       I lost many runs here. A couple of them were faster than this one too, which is annoying. Practiced it a lot
+       it finally paid off here, though.
+
+Map30: I don't do the RJ because I suck and didn't want to risk it in a run that I knew was already very far ahead.
+       I had no idea I could 1 shot Romero with rockets though! That came as a huge surprise to me!
+
+Until next time, pce

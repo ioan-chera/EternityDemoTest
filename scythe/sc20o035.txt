@@ -1,0 +1,16 @@
+              Scythe
+       Map 20: The Starport
+       Map Author: Erik Alm
+------------------------------------
+           sc20o035.lmp
+           sc20skip.lmp
+
+Nomo in 0:35.57
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: This run was also somewhat annoying, probably because it was one of the later ones I did. Also, like map 19, it is fairly unremarkable, and the lifts aren't particularly fun to wait for either. 34 is probably possible with a wallrun to the yellow door and ideal movement, but, like map 19, I'm not too interested in improving it. Also included demo where I skip the linedef that raises the wall after the blue key.

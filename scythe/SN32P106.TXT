@@ -1,0 +1,41 @@
+This is a Doom LMP Entry
+
+SN32P106.ZIP
+
+	SN32P106.TXT
+	SN32P106.LMP -- Nightmare Speed + Pacifist
+
+Recorded using GLBoom-Plus v2.5.0.8 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+640x480, gamma level 4, capped framerate (as I prefer)
+HUD used (timer)
+
+Scythe -- Level 32 -- "enoZ soahC"
+
+=---+------+---=
+Kills        10%
+Items       100%
+Secrets     100%
+                
+TIME        1:06
+=---+------+---=
+			
+Demo entry #108.
+
+Description:
+
+It's the only Scythe level which wasn't conquered on skill 5 in the far past,
+but I found it easy. The best way to escape it with a good time is the silent
+approach, so my Nightmare tablefiller is also a Pacifist run.
+
+I reached the exit twice, and it took only 2 hours of bleeding. First survival
+was 1:07, but I wanted it below Angus' UV Speed record (even though the two
+switch-guarding hordes are a lot harder to lure out on NM). In this demo I
+fumbled the yellow bar and the following door, but on the other hand, the second
+horde accepted my mad rush past it, so the time is not bad.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done March 11, 2012, 16:23:52

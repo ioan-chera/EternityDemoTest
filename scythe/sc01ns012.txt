@@ -1,0 +1,18 @@
+SC01NS012.TXT
+SC01NS012.LMP
+SC01NS012.ZIP
+
+Player : megasphere308
+Date : 2021-03-23
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP01 Get going
+Source port : Crispy Doom v.5.8.0
+Time : 0.12.60
+
+Description :
+
+Excited to start this wad! I got tons of 13, but with enough patience I finally got this 12.
+I would really need to improve my movement skills to get a 11.
+
+megasphere308@gmail.com

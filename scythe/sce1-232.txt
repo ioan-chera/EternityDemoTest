@@ -1,0 +1,49 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 1 UV-Speed
+------------------------------------------
+    Level          Time      <  10sc-241
+------------------------------------------
+    Map 01	   0:10 :)      -0:00
+    Map 02	   0:12 :)      +0:01
+    Map 03	   0:22 :)))    -0:03
+    Map 04	   0:22 :(      +0:02
+    Map 05	   0:16 :)      -0:00
+    Map 06	   0:18 :(      -0:07
+    Map 07	   0:03 :)      -0:00
+    Map 08	   0:12 :)      -0:00
+    Map 09	   0:25 :|      -0:01
+    Map 10	   0:12 :)      -0:01
+
+TOTAL:             2:32 :)      -0:09
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Cut off a D2ALL attempt (this one died on map 17). Mostly uploading this to show off new map 6 wallrun jump setup (came from Looper) and because the map 3 time was fucking awesome (only a second off my best time on 3). This D2ALL attempt also had a really great map 11 time (10s with the rocket launcher death slide route), I'm including the run just for the sake of showing that.
+
+Map 01 (0:10): Nothing to say.
+
+Map 02 (0:12): Not 11 but still good.
+
+Map 03 (0:22): Sick time, really lucky.
+
+Map 04 (0:22): Only change from E1 route for purpose of D2ALL is to not jump out of the red key window. Not a massive time loss, though, this time was bad for other reasons (one of which was getting trolled by exit pinky :( ).
+
+Map 05 (0:16): Same as 10sc-241.
+
+Map 06 (0:18): Screwed up setup a bit, but it's 100% consistent (though there's some chance of getting shot by zombieman while doing it). Should be 15-16 seconds. Setup credits to Looper.
+
+Map 07 (0:03): Nothing to say.
+
+Map 08 (0:12): Same time as 10sc-241.
+
+Map 09 (0:25): OK time, close to 24, some problem with killing monsters at lift was the only really slow part (aside from barrels not getting destroyed quickly at the switch opening up the exit hallway).
+
+Map 10 (0:12): As good as it gets in an episode run. :)
+
+Recorded August 18, 2015.

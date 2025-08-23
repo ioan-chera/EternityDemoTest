@@ -1,0 +1,12 @@
+player: aconfusedhuman
+date: 19-09-22
+iwad: DOOM2.wad
+pwad: SCYTHE.wad
+map: 04
+category: nomo
+time: 12.91
+comments: who knows why this took so long, it took 8 12s to tic beat shocks time for absolutely NO reason, 3 of them were 12.94 and 2 of them were consecutive attempts
+as in usual aconfusedhuman fashion, everything in this demo is shit, ive saved 0.14 compared to here by the red door before, its just the only attempt where everything remotely works harmoniously to give an ok time, this is a disgusting map, even sc14 is more fun
+hello 4shockblast
+
+recorded with dsda-doom 0.24.1

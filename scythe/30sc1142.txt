@@ -1,0 +1,124 @@
+*************************************
+        Scythe UV-Speed Movie
+-------------------------------------
+
+    Level        Time  <  scall-1355
+-------------------------------------
+    Map 01       0:10      -0:02 :|
+    Map 02       0:10      -0:05 :))
+    Map 03       0:26      -0:09 :|
+    Map 04       0:21      -0:02 :(
+    Map 05       0:14      -0:06 :))
+    Map 06       0:14      -0:23 :|
+    Map 07       0:03      -0:01 :|
+    Map 08       0:12      -0:10 :)
+    Map 09       0:26      -0:02 :|
+    Map 10       0:12      -0:02 :)
+-------------------------------------
+Episode 1:       2:28      -0:01 :))
+-------------------------------------
+    Map 11       0:11      -0:02 :)
+    Map 12       0:17      -0:03 :)
+    Map 13       0:34      -0:08 :|
+    Map 14       0:38      -0:03 :|
+    Map 15       0:16      -0:05 :)
+    Map 16       0:29      -0:01 :)
+    Map 17       0:29      -0:03 :)
+    Map 18       0:20      -0:05 :))
+    Map 19       0:36      +0:02 :((
+    Map 20       0:46      -0:07 :))
+-------------------------------------
+Episode 2:       4:36      -0:07 :)
+-------------------------------------
+    Map 21       0:12      -0:13 :)
+    Map 22       0:50      -0:05 :|
+    Map 23       0:05      -0:01 :)
+    Map 24       0:49      +0:04 :^(
+    Map 25       0:14      +0:01 :(
+    Map 26       0:41      -0:11 :)
+    Map 27       0:14      -0:01 :|
+    Map 28       0:28      -0:03 :)
+    Map 29       0:28      -0:07 :)
+    Map 30       0:37      -0:00 :)
+-------------------------------------
+Episode 3:       4:38      -0:14 :|
+-------------------------------------
+TOTAL:          11:42      -2:13 :)
+
+=====================================
+IWAD: doom2
+PWAD: scythe
+
+Recorded with:
+PrBoom-plus 2.5.1.4 -complevel 2
+
+Skill level:
+Ultra-Violence
+-------------------------------------
+Author: Aleksey "4shockblast" Kamenev
+e-mail: shockblast4@yahoo.com
+=====================================
+
+Comments: This took way too long. This is only my second exit; first was back in fall of 2015 at 12:50, but my goal has been sub-12 for a while, and I knew I didn't want that demo out at all (even if I never got my goal) as it was really bad. :D This is pretty solid, though, hard to exit given how aggressively I am going; I reset often on early maps due to low time requirements. Particularly, maps 3, 12, 17, 21, 22, and 24 were major run killers.
+
+Map 01 (0:10): I reset on 11s.
+
+Map 02 (0:10): Solid time, 9s was my best, but I only got it once on the long route (I got it a few times on the IL route that I did when I had bad movement earlier).
+
+Map 03 (0:26): This map never stops being harsh; as long as I've been running UV-Speed ep 1 and UV-Speed D2ALL here, map 3 is always the first major obstacle of the run. Crazy luck involved with getting past all parts of the run, I still accept times in a range of 10s, even as high as 29 seconds due to how badly blocks could lose time and how easily I could die. Lowest time was the IL time at 20s; I got that only twice, both in one session, which was unexpected.
+
+Map 04 (0:21): Not a great time, but not bad either; generally I'd want at most 20s on this map, 19s and 18s weren't too uncommon. Only once was I able to get 17s, which happened to be incredibly clean. I went for the red key window jump as well; it rarely failed unless I was slow and running back is just too slow for me. :D
+
+Map 05 (0:14): 14s is solid, within 1s of the IL. :) I don't remember for sure, but I think I got 13 here only once. Infinite height here is a major run killer, either getting blocked on the last jump or going down from the yellow key, both completely RNG-dependent. :\
+
+Map 06 (0:14): 14 is pretty decent here, 13 would be a good time and 12 is pretty rare, don't believe I got it more than twice. Last area could screw me if all the barrels didn't explode, and sometimes I'd fail the second jump for no apparent reason, I think if I bumped the crusher wall too much.
+
+Map 07 (0:03): Trivial RJ, would only have slower times here if I got here with low health.
+
+Map 08 (0:12): Good time. I figured out how to get the setup to work consistently every time. Previously, I'd have the issue where you can't get stuck in the corner, but if you take a more perpendicular angle to the wall (still slightly to the right so you push into the corner), you get stuck every time and the setup becomes quick. Doesn't mean it's consistent anyway; you can always get shot by one of the zombiemen or the shotgun guy while doing it, and if the manc attacks really quick, you can still die. Keygrab often fails inexplicably too (as you see here); it's basically the easiest trick in the game (possible at walk-speed!) and yet it would fail anyway completely randomly. Best time is 11s, though 10 should be possible
+
+Map 09 (0:26): Not a great time, a lot of this map comes down to not getting blocked. Demon could block my red key jump from below, which would be an instant run killer. I've gotten 23s on this map before, dunno if I got that time more than once, though.
+
+Map 10 (0:12): Always happy to not get fucked by the barons and get 12s. :)
+
+Map 11 (0:11): 11s is good here, best I ever got. I didn't bother setting up the rocket launcher jump backwards, as I found that doing a long setup there isn't faster than just walking up the stairs. Happy I got it quick here.
+
+Map 12 (0:17): Second semi-major obstacle. Screwing up movement before manc could hurt me pretty bad, as he would get in the way of the key, then the two barons would sometimes really not want me to get by. 17s is pretty good, 16s is about the best I got.
+
+Map 13 (0:34): Best I got here was a 30s (almost a 29), though a lot of the time variance here is just getting blocked by monsters. Not too difficult of a map, though survival isn't fully guaranteed. Here I had a lot of health, so this was basically a given.
+
+Map 14 (0:38): Got blocked quite a bit first half of the map, but lucky second half, so time is ok. Sometimes I'd get sub-35s, but not often.
+
+Map 15 (0:16): I actually got 14s on this map earlier in the session I recorded this run in, but that was very lucky as both archviles didn't bother me at the end. That's the hardest part of the run; sometimes, the archviles would completely block me and I'd just die there.
+
+Map 16 (0:29): Semi-obvious strat here for the final archvile that I only figured out in the past week or so: if the switch press isn't working through the archvile, all you have to do is stop all movement. Like the E4M1 grab and other places where you can build up a boost, in the boost, you may not be as close to the thing/fence as you can be, and by stopping movement, the boost will disappear and you'll get pushed in. After that, I would always hit the final switch through the archvile, which saved both time and the possibility of taking AV damage. Pretty good time as a result. :)
+
+Map 17 (0:29): Hardest map of ep 2 by far, so many places to lose health, and then you have to perform the archvile jump. It's not crazy difficult, but it could be quite hard if there's enough monsters shooting at me to bring down my health. Also, the archvile could be easily distracted by the monsters; if he infights, I have no choice but to shoot him and trigger the teleport spawns on the map. Finally, he could sometimes be a dick and go straight in front of the bars, making the archvile jump much harder. Good time here, though, sub-30s is nice. Took a fair amount of damage from the HK and AV at the start, but I managed to avoid damage later on and the AV was nice.
+
+Map 18 (0:20): Very, very good time, worst part was getting blocked by the manc before the baron, but I managed to get around him without much trouble here.
+
+Map 19 (0:36): Archvile trolled really bad on the second jump and the time is garbage. Nothing to it other than RNG, though. :\ The invuln grab doesn't cause me much trouble anymore; if you strafe40 into the wall starting from the entrance into that area, you get it pretty much every time if you don't screw up (and you don't need too precise of an angle).
+
+Map 20 (0:46): Very solid time, usually if this map fails it's either getting blocked on the jump to the blue key or skipping the linedef at the blue key for the wall afterwards. Previously in the session this run was recorded in I got complete bullshit RNG on the hell knights, and they each did basically max damage to get me down to ~30 health (I then died to a revenant when I fell off).
+
+Map 21 (0:12): Often kills me because I have no safe strats for this map, I just take the fastest route. Got lucky this time. :)
+
+Map 22 (0:50): When I was running this at the start of the map, I got massive damage and I had no idea what happened since I'm around a bunch of low-tier enemies. I figured it must have been a rev rocket, but there are no revs nearby at that spot. Turns out, with my luck, the rev in front of the door fired a rocket and the damn thing was homing and went around all the monsters I was trying to squeeze through and did max damage. It's unreal I survived after that at all. Ending was very slow too, I never know what to do about the cyber, so I just wait until I either have little health and I have to rush or I see him infight. Here, I went down to 10% due to some more unfortunate rev rockets; again lucky to survive at all. Time isn't good, though, should at least be low 40s (and episode strats would give low 30s).
+
+Map 23 (0:05): Just need luck to get a quick AVJ, and this one was very fast, 2s away from IL.
+
+Map 24 (0:49): This map was a complete fucking disaster, I dunno how I survived at all. My strategy here involves taking the map pacifist like the episode strat to avoid spawns and such. Every time I got here before, this would fuck me over due to one major issue: the cyber. In order to do pacifist, I need to rush into the blue door area and out to hit the trigger, so I cannot spend much time in there BFGing everything; the problem is that the cyber often attacks, and both runs before this he attacked and killed me. Here, he attacked again, but I heard him and decided I'd try to time my exit properly. I managed to time it alright, but I didn't hit the trigger, so I was forced to go back and waste a bunch of time to get it. Then I barely made it past the demons and nearly got demolished by the hell knight horde; with how red my screen was in this map, it's crazy I got past anything. Should be 40s or lower, but instead it's 49 (though it probably makes for a fair bit of entertainment watchint :D).
+
+Map 25 (0:14): I was aware there was a berserk at the start of this map, but I never planned for such low health, so I didn't know where to go for it. With some auto-weapon switch issues and a bit of start confusion, I lost 2-3 seconds from what this map should be at. :P
+
+Map 26 (0:41): Different strat from before; just rushing up without any sort of manipulation or killing works quite well as long as you pick up both invulns. Very fast too, this almost never killed me and I'd usually get ~40s or below.
+
+Map 27 (0:14): No idea why I switched to the RL here, just nervous. :P Didn't fail jump, though, even if it was a bit slow, so map went fine.
+
+Map 28 (0:28): Would be nice to get 27 in movie, but 28 is nice too. :)
+
+Map 29 (0:28): This is a higher AVJ, but I don't find it that difficult, and it looks way cooler (worst thing that can happen here is the archvile infighting, which never happened except in IL attempts). Got stuck on one AV at the start badly and the AV I jump with attacked early, so I lost a bit of time there too, but 28 is still better than what you would get with the long route. :)
+
+Map 30 (0:37): Got really nervous at the end there and had some bad BFG shots, but the time isn't bad anyway, got a quick Romero kill too. :)
+
+Recorded March 12, 2016.

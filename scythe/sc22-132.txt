@@ -1,0 +1,18 @@
+Recorded using PrBoom+ 2.5.1.1 on -complevel 2
+sc22-132.txt
+
+sc22-132.lmp
+sc22-132b.lmp
+
+sc22-132.zip
+
+Scythe - Map22
+Category: UV-Max
+Required files:
+scythe.wad (doomedsda.us/wad789.html)
+
+Run by Snakes
+
+Description:
+The exit room goes somewhat poorly and my aim is to get this map done in 1:28, but I guess this is good enough for now.
+At the start, it's like running through a gantlet with 8 revenants running you down and now armor... Tough to survive sometimes.

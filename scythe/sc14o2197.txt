@@ -1,0 +1,16 @@
+player: aconfusedhuman
+date: 08-08-2024
+iwad: DOOM2.wad
+pwad: SCYTHE.wad
+map: 14
+category: nomo
+time: 21.97
+comments: 
+this run looks so bad and i am extremely salty writing this like nothing ever comes together in this run to make a run look clean!!!!
+but yeah shit tics but at least its 21 finally some actual progress in the scythe nomo table
+
+recorded with dsda-doom 0.27.5
+
+
+
+

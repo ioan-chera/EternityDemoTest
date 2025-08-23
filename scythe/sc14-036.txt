@@ -1,0 +1,16 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      SCYTHE.WAD
+Map:       MAP14
+Skill:     4
+Category:  UV Speed
+Exe:       woof 10.5.0 -complevel 2
+Video:     https://youtu.be/YL4dOoX_aqM
+
+Time:      0:36.60
+
+Author:    xX_Lol6_Xx
+
+Comments: THOSE SHOTGUN GUYS AND IMPS CAN GO TO HELL WHERE THEY *FUCKING* BELONG.

@@ -1,0 +1,14 @@
+For http://dsdarchive.com/
+
+Player: Teedre
+IWAD: doom2.wad
+PWAD: SCYTHE.wad
+Map: 18
+Skill: 4
+Category: UV-Max
+Sourceport: dsda-doom v0.26.2
+
+Time: 44.51
+Comments: Attempt 3921. Oh my god worse max experience of my whole career. So many reasons to hate this map. RNG based run, just prey that there is infighting. I have had so
+	  many better runs but all of them never telefrag the spider. Could of got 42 at one run since I performed the very tight jump fast and lucky infighting. This run is
+	  just as good but not as good infighting. ggs! Finally   

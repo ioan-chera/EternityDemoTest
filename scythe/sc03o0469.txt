@@ -1,0 +1,18 @@
+For http://dsdarchive.com/
+
+Player: TomatoTom
+IWAD: doom2.wad
+PWAD: SCYTHE.wad
+Map: 03
+Skill: 4
+Category: Nomo
+Sourceport: prboom v2.5.1.7
+YouTube Video: https://youtu.be/frqEVD6P3og
+
+Time: 04.69
+Comments: Short and sweet zero press. The way I performed this run is that I hold the 180 turn key on my quickstart, so I will be 
+	  facing backwards on spawn. The reason why is because thats the direction where the exit switch is. I'm very bad at 
+	  positioning my turning for zero presses and I take quite a long time, so I thought I could use the 180 key instead becuase
+	  on spawn, doomguy faces the correct position to perform a zero press. Thats why you didn't see any turning. I only used my
+	  horizontal strafe on my mouse. This is the strangest run I have ever done so far and my first zero press exit run as well.
+	   

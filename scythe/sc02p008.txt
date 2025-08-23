@@ -1,0 +1,25 @@
+sc02p008.txt
+  sc02p008.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.5 with Doom 2 compatibility (-complevel 2)
+
+  Scythe - map 02 - Punchline (by Erik Alm)
+
+  ==================
+  Kills        ?%
+  Items        ?%
+  Secrets      ?%
+  ----------------
+  Time       0:08.49
+  ==================
+
+  Description:
+  After 1000+1 attempt... JUST ABOUT @#$%IN TIME!!1! Funny how I got mid 8's the first time
+  I broke the 9 barrier. Using the zombie for a boost makes the jump definitely more reliable,
+  although a bit slower (speed movies, hint hint). Some bonus failruns included as usual.
+
+  Fun fact: Possibly not optimal, but faster than Gyrossman's and tatsurd's TAS runs. :)
+
+author: dew
+e-mail: dewww@seznam.cz
+22. 11. 2009

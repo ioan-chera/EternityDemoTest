@@ -1,0 +1,17 @@
+SC03N004.TXT
+SC03N004.LMP
+SC03N004.ZIP
+
+Player : megasphere308
+Date : 2021-05-17
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP03 Up and around
+Source port : dsda-doom v0.18.0
+Time : 0.04.46
+
+Description :
+
+This one came in two minutes :)
+
+megasphere308@gmail.com

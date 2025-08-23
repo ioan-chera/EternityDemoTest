@@ -1,0 +1,46 @@
+WAD: Scythe
+MAPS: MAP11-MAP20
+Time: 3:34 TAS
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Slowmo used in the making of this run :)
+
+Wow, look how much TAS helped me improve my old time! XD Well, here is some
+map info and my comments:
+
+MAP11 (Sneak Peak): 0:12 :)
+Comments: lol doomguy is on steroids.. I have never seen anybody climb stairs
+so fast lol!
+
+MAP12 (Walk in the Park): 0:13 :(
+Comments: Meh, screwed up the beginning and was stupid by the switch outside.
+
+MAP13 (Subverted Base): 0:21 :|
+Comments: Can't do the RK grab, but run looks pretty nice as it is :)
+
+MAP14 (Power Outage): 0:21 :)
+Comments: Some wall bumps, but didn't impact time much
+
+MAP15 (Blood Bath): 0:10 :)
+Comments: A little jittery once again, but still OK
+
+MAP16 (Burial Grounds): 0:20 :)
+Comments: 20! Yay! :D
+
+MAP17 (Book Lords): 0:21 :)
+Comments: Nice jump on the soulsphere platform at the end :P
+
+MAP18 (MS Futura): 0:11 :|
+Comments: Meh, can't glide for my life. :( Switch presses were also a little
+slow.
+
+MAP19 (3000 AD): 0:53 :)
+Comments: Whee! Trigger happy! :DD
+
+MAP20 (The Starport): 0:32 :|
+Comments: A bit slower than I'd like in some parts.
+
+ENJOY! :D
+
+--Doomdaniel95

@@ -1,0 +1,12 @@
+==================================================
+Date     : 27-09-2020
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality
+Engine   : prboom-plus-2.5.1.4 Complevel 2 + Advanced HUD
+Map      : MAP04 - Lost Warehouse
+Time     : 0:56
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil

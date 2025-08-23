@@ -1,0 +1,35 @@
+  Scythe MAP26: Fear UV-SPEED IN 1:43.66 BY :[LOL 6]:
+
+
+
+PLAYER: :[LOL 6]:
+
+GAME: SCYTHE
+
+IWAD: doom2.wad
+
+PWAD: scythe.wad
+
+MAP: 26
+
+MAP NAME: Fear
+
+DIFFICULTY: Ultra-violence (UV)
+
+ENGINE/SOURCE PORT/EXE: crispy-doom v.5.9.2
+
+CATEGORY: UV-SPEED (Any %)
+
+TIME OF THE RUN: 1:43.66 Min
+
+KILLS: 209/666
+
+ITEMS COLLECTED: 4/15
+
+SECRETS TAGGED: 0/0
+
+DATE OF THE RUN: 2021/02/15
+
+ATTEMPT: 5
+
+COMMENTS: 

@@ -1,0 +1,39 @@
+This is a Doom LMP Entry
+
+SF19-328.ZIP
+
+	SF19-328.TXT
+	SF19-328.LMP - UV -Fast
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 19 - 3000 AD
+
+=---+------+---=
+Kills       100%
+Items        75%
+Secrets     100%
+ 
+TIME        3:28	Old record: 4:04 by Brian "Anima Zero" Nesser
+PAR         3:30
+=---+------+---=
+
+Demo entry #58.
+
+Description:
+
+IMO the most awesome level in the whole wad. Levels 12-18 are progressively
+wonderful in their industrial charm, but 19 overshadows them all. And I really
+would like to know where did Erik take this terrific, oppressive music which
+perfectly fits the futuristic feel of this map.
+
+In 2005 (when MAP19 wasn't yet done with -fast), I recorded it in 4:45 and was
+proud to be not too far from Vile's regular UV time. But in 2007, I rerecorded
+it in 3:45 on a more modern route. However, I thought it was not a decent
+improvement over Anima's 4:04, so here's the result of yet another route
+replanning :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done October 15, 2010, 17:27:29

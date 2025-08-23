@@ -1,0 +1,17 @@
+SC02NS029.TXT
+SC02NS029.LMP
+SC02NS029.ZIP
+
+Player : megasphere308
+Date : 2021-04-13
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP02 Punchline
+Source port : Crispy Doom v.5.8.0
+Time : 0.29.20
+
+Description :
+
+Very fun map to practice! The pinkies and spectres are the main issue.
+
+megasphere308@gmail.com

@@ -1,0 +1,13 @@
+Pwad: scythe.wad   
+Map:      2
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      0:45
+
+-complevel 2
+
+Author:	   j4rio
+
+Skipping invis and green armor secret is basically the only
+difference here between max and tyson. Demo is nothing special.

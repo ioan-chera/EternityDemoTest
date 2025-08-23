@@ -1,0 +1,15 @@
+              Scythe
+       Map 15: Blood Bath
+       Map Author: Erik Alm
+------------------------------------
+           sc15so749.lmp
+
+Nomo in 0:07.49 (secret exit)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: I was gonna do a strafe40 only demo, but I'm not in the mood to get a decent-looking demo. 8 seconds is possible with teleporter route and strafe40, maybe 7 is possible with some strafe50, but I'm not sure.

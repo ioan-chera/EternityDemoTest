@@ -1,0 +1,33 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31n128.lmp
+
+NM-Speed in 1:28 (normal exit)
+
+    Kills   - 47%
+    Items   - 53%
+    Secrets - 80%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Included bonus demos:
+sc31dumb: me being an idiot near the exit door
+sc31FUCK: could have pressed switch if I used just a bit later
+sc31manc: old route where I didn't kill far manc at the end section going bad
+sc31ugh: four-rocket HK completely screwed me up
+
+sc31nowallrunskip: the BFG linedef skip happening without a wallrun (something I already experienced in very similar circumstances when attempting a UR D2ALL UV-Speed TAS)
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: This is the last NM-Speed individual level run to fill in Scythe, and it caused me a lot of frustration. The BFG trick is exactly how I do it in NM100, and that textfile has the full explanation, but either because I changed something about it or got tired of doing it over and over, but there was a period of time where I had a lot more trouble with it than I did in NM100, and it doesn't help that the rest of the run was harder too.
+
+Instant deaths in the caco room with red key happened when I got stuck (something I didn't experience as much in NM100, possibly due to different route). Initially, my route was to kill the yellow key nobles, but by accident I found it was possible to just take the key and BFG them to prevent too much damage; in most recent attempts, that went without damage often, but previously I had taken damage there commonly (either due to RNG or bad timing). Finally, the end section caused me a lot of trouble; not killing the faraway manc there in my earlier attempts made it much harder, and it was some time before I decided I'd take it slow. Still, the two HKs sometimes caused me trouble if they didn't die, and moreover, the two end rooms I had no idea how to do well, and usually I was nervous there which you can see in two of the fail demos I included.
+
+In the recording session I got this demo in, I was having good execution early on, so the wallrun skip happened quite often; still it took some time to get this. This attempt went really well overall up until the two HKs; I heard a demon respawn, and thought it might have been a spectre on the stairs so I was ready to kill it, but it must have been a demon in the section before the stairs (they can't go up from there). So, I wasted time on weapon switches and had to kill both hell knights. I didn't die stupidly in the end two rooms, though, and the time is quite good after I had so much practice everywhere else, so I'm happy.
+
+Also included a demo that gets the linedef skip without a wallrun (something I had experienced before with another east linedef skip. Not sure how it happens, but I entered the menu in that run to exit and sorta killed it on purpose afterwards because I didn't want a run where accidental menuing happened while recording (even if PrBoom+ doesn't desync because of that).

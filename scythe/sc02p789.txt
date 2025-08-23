@@ -1,0 +1,19 @@
+              Scythe
+        Map 02: Punchline
+       Map Author: Erik Alm
+------------------------------------
+           sc02p789.lmp
+
+Pacifist in 0:07.89
+
+    Kills   - 0%
+    Items   - 50%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: There it is, dew. And not even a quick switch. :D Definitely wouldn't attempt this in a movie run, though.

@@ -1,0 +1,18 @@
+SC12NS020.TXT
+SC12NS020.LMP
+SC12NS020.ZIP
+
+Player : megasphere308
+Date : 2021-04-23
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP12 Walk in the park
+Source port : dsda-doom v0.18.0
+Time : 0.20.94
+
+Description :
+
+Short map ; here the barons stayed on the side, so I could grab the key easily.
+The last revenant needs to cooperate too.
+
+megasphere308@gmail.com

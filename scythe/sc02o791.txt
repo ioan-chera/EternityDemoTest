@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+pwad:      scythe.wad
+pwad name: Scythe
+Maps:      2
+Skill:     4
+Category:  nomonsters
+Exe:       prboom-plus.exe
+
+Time:      7.91
+
+Author:    depr4vity
+Comments:  quite a sloppy end, but a 7 is a 7

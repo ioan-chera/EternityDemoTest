@@ -1,0 +1,12 @@
+For https://dsdarchive.com/
+
+Player: depr4vity
+IWAD: doom2.wad
+PWAD: scythe.wad
+Map(s): 01
+Skill: 4
+Category: Stroller
+Sourceport: crispy doom v5.7.2
+
+Time: 18.97
+Comments: you can squeeze between the techno pillar and the left zombie at the start, but that seemed more inconsistent 

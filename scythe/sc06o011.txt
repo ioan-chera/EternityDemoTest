@@ -1,0 +1,15 @@
+              Scythe
+      Map 06: Pressure Point
+       Map Author: Erik Alm
+------------------------------------
+           sc01o011.lmp
+
+Nomo in 0:11.54
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Why has this route not been done yet? No nomo/speed demos, no TAS demos, not even used in Akse's full TAS (only Siprem's TAS uses a similar co-op thingrun trick). It's not an easy wallrun, as the walls are west-east and short, but since it's at the start, redoing it is pretty easy if a run fails. I wouldn't be surprised if sub-10 is possible nomo with this route. Had a few uglier exits before this one (19, 15, 13), but this didn't go perfectly either, but I'm uploading it anyway for the route.

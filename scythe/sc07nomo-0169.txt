@@ -1,0 +1,11 @@
+Runner: ferfrancuito
+Date: 2020-Nov-30 20:30
+IWAD: SCYTHE.wad
+Category: Pacifist
+Map: 7
+Source Port: PRBoom v2.5.1.4
+Time: 0:01.69
+Attempts: 
+
+Description:
+Practice of NM and UV

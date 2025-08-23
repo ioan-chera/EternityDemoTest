@@ -1,0 +1,49 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 1 UV-Speed
+------------------------------------------
+    Level          Time      <  10sc-232
+------------------------------------------
+    Map 01	   0:10 :|      -0:00
+    Map 02	   0:11 :)      -0:01
+    Map 03	   0:24 :)      +0:02
+    Map 04	   0:18 :D      -0:04
+    Map 05	   0:17 :(      +0:01
+    Map 06	   0:14 :)      -0:04
+    Map 07	   0:03 :|      -0:00
+    Map 08	   0:11 :)))    -0:01
+    Map 09	   0:25 :|      -0:00
+    Map 10	   0:12 :)      -0:00
+
+TOTAL:             2:25 :))     -0:07
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Cut off a D2ALL attempt (this one died on map 17 due to some fucked up archvile luck). Solid time, basically a time I'd be happy with even in ep 1 attempts, so I'm uploading it. There's a chance I can beat it again, of course, but it's not likely. Some more aggressive strats like map 2 individual level jump and map 7 IL RJ can be done as well, but that would be too frustrating to bother with (consistency is very low). Also included the D2ALL attempt where this run failed and a previous exit below the DSDA WR at 2:28 along with its D2ALL attempt that died on map 24 to an unfortunate cyber rocket that's basically unavoidable if it happens. :\
+
+Map 01 (0:10): 9s has been happening more often lately (about 1-5 times usually per 1-3 hour sessions of D2ALL attempts), but it's not likely anyway. Don't take anything above a 10.
+
+Map 02 (0:11): 11s is much more common now since I use more risky strats, 10s isn't that uncommon either now. 9s is technically possible on the long strat (my best is 10.17).
+
+Map 03 (0:24): Good time, though not amazing. Still have not gotten below 21s here, though. Looks like most of my time loss here is because I was being an idiot at that tiny switch. :D
+
+Map 04 (0:18): Amazing time, I never get below 18s here.
+
+Map 05 (0:17): Got some crazy damage from the barrels but survived, lost a second in the exit room due to more stupidity with switches.
+
+Map 06 (0:14): 14s is pretty good, I think 13 was my best. Setup credits to Looper once again.
+
+Map 07 (0:03): Hardest RJ in the wad right here. :^)
+
+Map 08 (0:11): Lots of things can go wrong here like getting shot while doing the jump or getting blocked by the manc afterwards. Also, shoutouts to the keygrab, which, while being possible to do at walkspeed, still fails inexplicably causing me to take tons of damage from the mancs and die. :) Insane time in this run, though, I even got the exit bar boost which seems to have been necessary for the 11 as the time is .94.
+
+Map 09 (0:25): OK time, generally, blocks at the end would push this to 25 or above, but I've gotten 24 and maybe 23 before.
+
+Map 10 (0:12): As good as it gets in an episode run. :)
+
+Recorded February 29th, 2016 (Leap day!).

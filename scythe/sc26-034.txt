@@ -1,0 +1,31 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe (by Erik Alm)
+Pwad name: scythe.wad
+Map:       26
+Map name:  Fear
+Skill:     4
+Category:  UV Speed
+Exe:       doom2.exe
+
+Kills:      11%
+Items:      20%
+Secrets:     0%
+
+Time:      0:34
+
+
+Comments:  After watching last night's sp26-050 again, I tried this new speed-route. And it
+           works :)
+
+           Five hours with "Fear" yesterday evening, three hours this morning. Now it's time for
+           breakfast - and some good old Charlie Chaplin movies :)
+
+           Enjoy this run! It's probably the last I did this year.
+
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+           30.12.2003

@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map01: Get Going
+Skill: 5
+Category: NM 100S
+Exe: PrBoom+ v2.5.1.4 -complevel 2 with advanced HUD
+-------------------------------------------
+Time: 0:13
+-------------------------------------------
+Just a thing. 3 seconds behind.
+
+17 Nov 2017
+-------------------------------------------
+Author: GarrettChan
+garrettchan016@gmail.com
+https://www.youtube.com/c/GarrettChan

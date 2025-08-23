@@ -1,0 +1,17 @@
+Filename   : scythe.wad, by Erik Alm
+Title      : Scythe
+Map        : MAP26 - Fear
+Category   : UV Max
+Exe        : PrBoom-plus 2.5.1.1 -complevel 2
+Time       : 2:43
+
+Author     : Drew "stx-Vile" Devore
+Email      : dadevore83@gmail.com
+
+Comments   : I had a 2:39 false max because some of the revenants had not teleported in yet.  They arrived
+             just before I was ready to leave in this run, which kinda caught me off guard for a moment,
+             but better late than never.
+
+             Also, I actually did encounter that spechits bug in this map when I flew right through
+             one of the switches I was about to hit and all 9 of the cyberdemons on the high ledges had
+             jumped down to chase after me. :P

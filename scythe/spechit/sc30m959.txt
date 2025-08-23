@@ -1,0 +1,25 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       30
+Skill:     4
+Category:  UV-Max
+Exe:       dsda-doom 0.22.4 -complevel 2
+
+Time:      9:59
+
+Author:    Daerik
+
+Youtube:   https://www.youtube.com/watch?v=FA7_02AKyF0
+
+
+Comments:  Uses extended hud.
+
+This route had an insane amount of RNG that made it absolutely awful to get a run going. 
+The biggest pain point was the cyber in the noble pen, it loved not shooting and it saves a lot of time getting it to infight.
+
+Target time was anything under 10:30, so I'm extremely pleased with a 9:## time.
+
+Imagine more yoloing on the snaking path for the red skull key could be faster, but I had enough garbage in this route.
+
+
+Guess I should find something more consistent for when I look at d2alling this again :^)

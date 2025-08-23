@@ -1,0 +1,23 @@
+
+ Pwad:   
+		Scythe (scythe.wad)
+ Map:
+		MAP22 - DESPAIR
+ Category:
+		UV-Pacifist
+ Exe:
+		Chocolate doom 1.3.0
+
+ ----------------------
+ Time:
+		0:25
+ ----------------------
+
+ Comments:
+		---
+
+
+ Author:    	Graim
+ Email:     	graim@seznam.cz 
+
+ Recorded:  	June 14, 2010

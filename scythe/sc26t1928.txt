@@ -1,0 +1,22 @@
+Wad:       Scythe
+Pwad name: scythe.wad
+Map:       26
+Skill:     4
+Category:  Tyson
+Exe:       dsda-doom-0.24.1 -complevel 2
+Demo Date: 27.07.22
+-------------------------------
+Time:      19:28.97
+Comments:  Alright, i was really curious how far can it be pushed. I feel like if you grab all the keys right from the start to activate that crusher and manage
+	   to kill the first triplet under ~6 minutes, the whole run can be around 15 minutes. I'm still not sure if it's better to shoot from the start or not though.
+	   And while i think that lower time can be possible, i don't really know if i can squeeze the time much lower. Also as a side note it helps a lot to kickstart
+	   infighting between the triplets and the starting area right when you drop down, so when the skeletons appear there will be less of them at 2-4 minutes mark,
+	   which is the time i usually managed to get to the invulns and key teleports.
+	   
+	   
+Attempts:  260
+-------------------------------
+Author:    Petyan
+-------------------------------
+Discord - Petyan#1290
+Twitch - https://www.twitch.tv/petya_p90

@@ -1,0 +1,17 @@
+==================================================
+Date     : 14-01-2020
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : Pacifist
+Engine   : prboom-plus-2.5.1.4
+Map      : MAP15 - Blood Bath
+Time     : 0:14
+==================================================
+Email    : borealis10@outlook.com
+Author   : Thomas Baden
+Nickname : Scorpius
+==================================================
+Comments : I've attempted this many times over
+	   the span of about 3-4 months. I just
+	   about beat it finally and in a damn
+	   respectable time too. :D

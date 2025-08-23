@@ -1,0 +1,19 @@
+SC13NS040.TXT
+SC13NS040.LMP
+SC13NS040.ZIP
+
+Player : megasphere308
+Date : 2021-04-24
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP13 Subverted base
+Source port : dsda-doom v0.18.0
+Time : 0.40.91
+
+Description :
+
+Pretty crowded but not too bad if the couple of pinkies cooperate.
+4shock's 35 is really stunning.
+I wanted a sub 40, but I had already done tons of attempts.
+
+megasphere308@gmail.com

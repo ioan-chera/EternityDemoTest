@@ -1,0 +1,23 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: scythe.wad
+Pwad Link: http://www.doomworld.com/idgames/index.php?id=11944
+Pwad name: Scythe
+Wad Author: Erik Alm
+Map: 01
+Skill: UV
+Category: UV-Max
+
+Time: 0:26
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 12/9/2011
+
+Comments: Insane luck on the ending...I didn't expect to get this time, as my previous best was 0:29.  I spent a total of 2.5 hours to get this.
+
+
+

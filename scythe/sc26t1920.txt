@@ -1,0 +1,12 @@
+Pwad: scythe.wad   
+Map:      26
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      19:20
+
+-complevel 2
+
+Author:	   j4rio
+
+yolo infinite monkey infight simulator strats time is a go!

@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe.wad
+Maps:      24
+Skill:     4
+Category:  Speed (tool assisted speedrun 
+Exe:       glboom-plus 2.5.1.1 w/ -complevel 2
+Tools used:gamespeed 20%, permenant sr50, sr50 on turns, and segmenting
+
+Time:      0:19
+
+Author:    Light_Speed aka odysseyofnoises
+Email:     cubecat589@gmail.com
+HP:	   http://youtube.com/iphonehacker87/

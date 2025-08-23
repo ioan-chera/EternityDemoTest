@@ -1,0 +1,49 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 1 NM-Speed
+------------------------------------------
+    Level          Time
+------------------------------------------
+    Map 01	   0:10 :) 
+    Map 02	   0:38 :)
+    Map 03	   0:55 :)
+    Map 04	   0:37 :)
+    Map 05	   0:40 :)
+    Map 06	   0:34 :)
+    Map 07	   0:04 :|
+    Map 08	   0:34 :(
+    Map 09	   0:51 :(
+    Map 10	   0:16 :|
+
+TOTAL:             5:19 :)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Very difficult run. Early on, I had no idea how I would do this, but, over time, I started developing strategies for some of the more problematic maps (2 and 3, in particular), and, eventually, I found that it was very doable. Still, it took a lot of work to get an exit. Initially, I had a lot of trouble getting too far in the run, and my times were really slow (as an example, I thought 1:10 was a good time on 3 at one point). Over time, I got really consistent with maps 1-7, but there is still a major problem at map 8. As far as I could tell, it is pretty much pure luck whether I survive the start, as the zombiemen and faraway imps could easily shred me after the map 7 RJ. Thus, I only had one exit before this one, and my goal was sub-5:30. This run happened kind of suddenly, and I'd improve it even further and take it even more aggressively if not for map 8 being such a dice roll for survival. Ultimately, I'm just happy I got a decent-looking exit, though it's not perfect (and I may return to this someday).
+
+Map 01 (0:10): Eventually, I decided I'd only take 10s map 1s because it's easy on NM.
+
+Map 02 (0:38): My times here were much slower earlier on, I ended up taking this map more and more aggressively over time. I still take the berserk and avoid triggering the demons, which might be possible to avoid, but this was relatively consistent, and the rest of the run is difficult enough as it is.
+
+Map 03 (0:55): Again, my initial strategy here was much safer, but I still kill a lot of stuff because this map is really rough on nightmare. I avoid triggering another teleport at the yellow key. I don't think it is essential, but I'd rather not deal with the imps teleporting in (especially since they'd block the linedef to the berserk secret). 
+
+Map 04 (0:37): Not much to this map, I kill a lot of the stuff in my way, but it doesn't take too long anyway.
+
+Map 05 (0:40): Something went wrong on this map almost always with respawns or damage luck. Here, I got damaged quite a bit by a spectre despite the fact that I was constantly chaingunning it, but the time is pretty good anyway.
+
+Map 06 (0:34): Last room is pretty scary, but it's not too hard with all the medikits. Times here were pretty consistent, the worst thing that would usually happen is being blocked by a pinkie with the strafejump (but, likewise with UV-Speed, that's uncommon).
+
+Map 07 (0:04): With all the mancs shooting, I'd occasionally panic and fail the RJ, and, if I came in with less health, I'd pick up the berserk, but neither happened in this demo, so the time is pretty good.
+
+Map 08 (0:34): Really scary map and always stressful. I don't know how I survived with how dumb I was being with the keygrab, but I'm just glad I did survive. Still really upsetting that I failed such an easy grab so many times.
+
+Map 09 (0:51): Took a really safe route through this one and was really shaky as well after map 8. Time is probably very improvable.
+
+Map 10 (0:16): Nearly got destroyed by a baron, I nearly died of a heart attack here.
+
+Recorded March 24, 2015.

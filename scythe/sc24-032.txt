@@ -1,0 +1,47 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      24 - "Hatred"
+Skill:     4
+Category:  Speed + Pacifist
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:32
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     3%
+           Items    16%
+           Secrets   0%
+
+Comments:
+
+I recorded this one a month ago. I remember thinking that I 
+should aim for 0:31 (but when I got this 0:32 I was exhausted 
+and it was time for bed). I never did get back to the run, 
+and looking at it now it looks just fine to me (except for a 
+moment near the end where I get blocked by the Cyberdemon), 
+so I'll leave 0:31 and below to someone else.
+
+Needless to say, this is a very difficult run, where you can 
+get blocked by the Barons at the blue key, by any of the 
+monsters down in the central area, by the Cyberdemon, and by 
+the demons just after it. Oh, and you can get a rocket in 
+your face easily, too. :-/
+
+I recall using a *lot* of strafe50 here (I tried to use it 
+whenever I could) but as you can see I'm not very good at 
+controlled strafe50 running, so maybe I shouldn't have 
+bothered. ;-)
+
+Pacifist too.
+
+Many many thanks to Erik for the route, inspiration, for 
+making the map, and for making "Scythe"! :-)
+
+
+
+Kristian Ronge
+
+zuckuss@gmail.com

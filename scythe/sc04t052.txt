@@ -1,0 +1,17 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: scythe.wad
+Map: 04
+Skill: UV
+Category: Tyson
+
+Time: 0:52
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 12/31/2011
+
+Comments: Stupid shotgun

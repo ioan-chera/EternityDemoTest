@@ -1,0 +1,17 @@
+              Scythe
+        Map 10: The Lords
+       Map Author: Erik Alm
+------------------------------------
+           sc10-025.lmp
+
+UV-Max in 0:25
+
+    Kills   - 100%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast

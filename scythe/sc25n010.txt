@@ -1,0 +1,17 @@
+SC25N010.TXT
+SC25N010.LMP
+SC25N010.ZIP
+
+Player : megasphere308
+Date : 2021-05-13
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP25 Envy
+Source port : dsda-doom v0.18.0
+Time : 0.10.77
+
+Description :
+
+The barons room is the most random in this map.
+
+megasphere308@gmail.com

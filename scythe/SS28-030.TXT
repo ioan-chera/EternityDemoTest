@@ -1,0 +1,33 @@
+This is a Doom LMP Entry
+
+SS28-030.ZIP
+
+	SS28-030.TXT
+	SS28-030.LMP - Nightmare + Secrets
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 28 - Run from It
+
+=---+------+---=
+Kills        45%
+Items       100%
+Secrets     100%
+ 
+TIME        0:30	
+=---+------+---=
+
+Demo entry #49.
+
+Description:
+
+Erik said "UV not recommended for keyboarders". But it was great fun for me to
+run from Death even in NM100S mode (even though it was undone previously).
+
+After a few 0:31s, the desired 0:30 came. Don't expect 29 from me, I can just
+barely get 28.94 in regular NM Speed (while Kimo's record is 28.86). With my
+keyboard-only control, I don't have the advantage of instant turns.
+
+
+Author: SAV88 (Artem V. S.)
+Done September 30, 2010, 10:54:59

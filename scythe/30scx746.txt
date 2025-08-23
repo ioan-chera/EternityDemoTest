@@ -1,0 +1,173 @@
+This is a Tool-Assisted DooM .LMP - Please forward it...
+
+=========================================================
+                     *** Scythe *** 
+                 Ultra Violence TAS movie
+=========================================================
+
+30scx746.txt
+
+ 30scx746.zip
+
+  30scx746.lmp - Ultra Violence
+
+=========================================
+ 01    Get Going!              0:09
+ 02    Punchline               0:08
+ 03    Up and Around           0:19
+ 04    Lost Warehouse          0:17
+ 05    Slimy Tunnels           0:12
+ 06    Pressure Point          0:22
+ 07    Deadly                  0:01
+ 08    Garden Base             0:08
+ 09    Computer Storage        0:20
+ 10    The Lords               0:11
+=========================================
+ Episode 1 Total               2:07
+=========================================
+ 11    Sneak Peak              0:04
+ 12    Walk in the Park        0:12
+ 13    Subverted Base          0:20
+ 14    Power Outage            0:25
+ 15    Blood Bath              0:09
+ 16    Burial Grounds          0:16
+ 17    Book Lords              0:22
+ 18    M/S Futura              0:07
+ 19    3000 AD                 0:16
+ 20    The Starport            0:37
+=========================================
+ Episode 2 Total               2:48
+=========================================
+ 21    Solitude                0:09
+ 22    Despair                 0:18
+ 23    Anger                   0:03
+ 24    Hatred                  0:19
+ 25    Envy                    0:10
+ 26    Fear                    0:25
+ 27    Terror                  0:09
+ 28    Run From It             0:27
+ 29    Hell On Earth           0:21
+ 30    Fire and Ice            0:30
+=========================================
+ Episode 3 Total               2:51
+=========================================
+
+                             ********
+                 TOTAL TIME  * 7:46 *
+                             ******** 
+
+=========================================
+
+ Recorded using prboom-plus 2.4.8.2
+ Doom2 -playdemo with Version 1.9 (-complevel2) -file scythe.wad
+
+ Movement  : Strafe50 and Strafe40 on turn
+ 
+
+
+Description:)
+
+ Hi, I made a tool-assisted demo for the first time, so this movie is not so good.
+ Especially, beginning is terrible.(Map01~04 and Map 07)
+ However, I think that it was a good experience for me.
+ I have a lot of things which I want to write! But, I'm not good at English enough to write all of these.
+
+Map01: I didn't know stx-vile's TAS demo (sc01x009.lmp). My record(9.91) is slower than his record(9.80).
+
+Map02: There are a lot of odd movements. 
+
+Map03,04: Bad run. This record might be easily improvable for one second or more. 
+
+Map07: This run is the most terrible. I didn't know egg demos (sc070128.lmp).
+
+Map08: Very easy run.
+
+Map10: I'm satisfied to get 11 seconds.
+
+Map11: I spent for three hours to get 4 seconds. You are not in time by only attack of Imps.
+
+Map13: I had gotten 26 seconds in normal root before I found Kristian Ronge's demo(sc13-024.lmp).
+       His trick is very nice!
+
+Map14: It is one of the maps that spend the most a lot of time.
+
+Map15: At first I couldn't beat 10 seconds. However, because I wasn't stuck when I teleported,
+       I finally got 9 seconds. What happened? If it is Always Strafe50, 9 seconds might be easy.
+
+Map16: It was difficult to match timing to an Arch-Vile's attack while avoiding two Barons.
+
+Map18: There was a Blue armar in a good place. This is necessary for next map.
+
+Map19: Awesome map! and I'm the most favorite runs in this movie.
+       Twice AV jump without an Invulnerabilities.
+
+Map20: It is one of the maps that spend the most a lot of time. I got 38 seconds first,
+       but I improved one second thanks to AV boosts. 
+
+Map22: Nice death slide! This map were finished two seconds faster than usually
+       by the cooperation of Cyberdemon.
+
+Map24: Alexander Nikulin said "0:19 seems possible with a better running,
+       but also needs some better cooperation from hellknights" (sc24-020.lmp).
+
+Map26: Great map! This map was finished faster than I expected it.
+       However, I don't find whether this is optimal. 
+
+Map28: I believed I can quickly get a blue key by RJ. After all, I gave it up. Is this possible?
+
+
+
+Credits:)
+
+sc01-010.lmp       by DevastatioN
+sc01x009.lmp(TAS)  by Drew "stx-Vile" DeVore
+sc02-009.lmp       by Adam Hegyi
+sc03-025.lmp       by Jochen "Angus Thermopyle" Schneidau
+sc03-022.lmp       by Jakub "method_man" Razak
+sc04-021.lmp       by OgreSlayeR
+sc05-012.lmp       by Adam Hegyi
+sc06-024.lmp       by Adam Hegyi
+sc06-023.lmp       by Jakub "method_man" Razak
+sc07-001.lmp       by Adam Hegyi
+sc070128.lmp       by Adolf "Gusta" Vojta
+sc08-010.lmp       by Adolf "Gusta" Vojta
+sn08-009.lmp       by Jakub "method_man" Razak
+sc09-027.lmp       by Erik Alm
+sc10-012.lmp       by Adam Hegyi
+sc11-005.lmp       by Adam Hegyi
+sn11-004.lmp       by Graham "Grazza" Burgess
+sc12-014.lmp       by Adam Hegyi
+sc13-034.lmp       by Radek Pecka
+sc13-024.lmp       by Kristian Ronge
+sc14-037.lmp       by Chris "Ryback" Ratcliff
+sc15-010.lmp       by Adam Hegyi
+sc16-022.lmp       by Jakub "psichotik" Hornicak
+sc17-033.lmp       by Erik Alm
+sc17-024.lmp       by Jakub "method_man" Razak
+sc18-015.lmp       by Adam Hegyi
+sc18p010.lmp       by Graham "Grazza" Burgess
+sc19-037.lmp       by Chris "Ryback" Ratcliff
+sc20-054.lmp       by Jakub "method_man" Razak
+sc21-011.lmp       by Adam Hegyi
+sc22-037.lmp       by Erik Alm
+sc23-003.lmp       by Chris "Ryback" Ratcliff
+sc24-033.lmp       by Erik Alm
+sc24-020.lmp(TAS)  by Alexander Nikulin
+sc25-011.lmp       by Adam Hegyi
+sc26-037.lmp       by Jochen "Angus Thermopyle" Schneidau
+sc26-031.lmp       by Jochen "Angus Thermopyle" Schneidau
+sc27-011.lmp       by Doug "Opulent" Merrill
+sc28-028.lmp       by Adam Hegyi
+sc29-023.lmp       by Jakub "method_man" Razak
+sc30-035.lmp       by Jakub "method_man" Razak
+
+ 
+ Everyone, Thank you!
+
+
+
+ Author    : Tatsuya "tatsurd-cacocaco" Ito
+ E-Mail    : tatsurd@yahoo.co.jp
+ Homepage  : http://cacocacodemon.hp.infoseek.co.jp/
+ Youtube   : http://www.youtube.com/user/tatsurdcacocaco
+ Build time: 3 months                                            2 - October - 2008

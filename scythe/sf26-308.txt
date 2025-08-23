@@ -1,0 +1,22 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       26 - Fear
+Skill:     4
+Category:  UV -fast
+Exe:       PRBoom+ v2.5.0.3 -complevel 2
+
+Kills:     101%
+Items:      73%
+Secrets:   100%
+
+Time:      3:08
+
+Comments: This was merely an experimental demo to improve the time using Angus' route, unfortunately I was unable to perceive Tatsurd's improved route. It took 2 hours to successfully survive the frantic sprint towards the teleporters and even then the Cybers did not cooperate and infight, perhaps due to a flaw with my technique. Nonetheless I'd like to upload this run in any case, merely as evidence of another speedrunner to conquer this exposed warfare in -fast.
+
+Author:    Krypto
+Email:     blooditekrypto@gmail.com
+
+23.09.2009
+
+
+

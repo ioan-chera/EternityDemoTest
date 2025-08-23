@@ -1,0 +1,19 @@
+Recorded using PrBoom 2.5.0.7 on -complevel 2
+
+sc11-140.txt
+
+sc11-140.lmp
+
+sc11-140.zip
+
+Scythe - MAP10
+Category: UV-Max
+Required files:
+SCYTHE.WAD
+
+Run by Snakes
+
+Description:
+I would have liked to have pushed this down below 1:40, but meh...
+This route is a bit more risky than Hitherto's in that forgetting certain monsters is easy,
+but I averaged about 0:05 faster per run. Also, the first caco's the toughest part, WTF?

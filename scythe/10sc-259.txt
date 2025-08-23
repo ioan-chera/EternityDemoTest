@@ -1,0 +1,49 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 1 UV-Speed
+------------------------------------------
+    Level          Time      <  0315sc01
+------------------------------------------
+    Map 01	   0:11 :|      -0:00
+    Map 02	   0:12 :))     -0:02
+    Map 03	   0:24 :)      -0:04
+    Map 04	   0:21 :)      -0:01
+    Map 05	   0:18 :|      -0:02
+    Map 06	   0:25 :)      -0:01
+    Map 07	   0:03 :))     -0:02
+    Map 08	   0:22 :|      -0:00
+    Map 09	   0:28 :))     -0:06
+    Map 10	   0:15 :(      +0:02
+
+TOTAL:             2:59 :)      -0:16
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Very fun run, totally worth the effort. Early on, I got into this pretty massively and was spending too much time on it which made the run more annoying and harder. Afterwards, I decided I'd take more breaks, which helped out a lot, and I feel pretty consistent, actually. This run went pretty well on a lot of levels, but still decent room for improvement, and some maps didn't go as well. In general, it's really nice to have this just under 3 minutes. :)
+
+Map 01 (0:11): 10 isn't hard, but screw resetting a 3 minute run every 10 seconds just for the sake of a 1 second improvement.
+
+Map 02 (0:12): My best here is 11 (very rare), and 12 is the best time I get relatively consistently. Time really depends on the punch damage output/monster positions at the jump, and if I am able to avoid killing anything, I could get a pretty good time.
+
+Map 03 (0:24): Hectic map, start of it wasn't great, but 24 is still a really solid time, best I ever had in a movie was 22, but incredibly rarely.
+
+Map 04 (0:21): Lost a lot of health, but got red key window jump. 21 is a decent time here.
+
+Map 05 (0:18): Made a number of mistakes, and had some meh luck with monster movement, 18 is pretty average.
+
+Map 06 (0:25): 24 I think is best I ever did. 25 is a nice time.
+
+Map 07 (0:03): At first I was doing this without blue armor, but screw that, that's part of the reason this grind was so long. It's only a second slower this way or so, as I had to line up the RJ much more carefully with the aggressive strat so as not to lose too much health.
+
+Map 08 (0:22): Got stuck on a manc, but I'm happy I survived at all. 20 is a good time here for me.
+
+Map 09 (0:28): Graim's map 9 was terrible, so it's pretty easy to get a large improvement here. Didn't go ideally, I suppose something like 26 is possible.
+
+Map 10 (0:15): Lost two seconds stuck on a baron, but at least I survived. Easily the worst-looking part of the run. :P
+
+Recorded October 11, 2014.

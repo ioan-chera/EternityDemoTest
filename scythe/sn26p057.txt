@@ -1,0 +1,25 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe (by Erik Alm)
+Pwad name: scythe.wad
+Map:       26
+Map name:  Fear
+Skill:     5
+Category:  NM Pacifist
+Exe:       doom2.exe
+
+Kills:      18%
+Items:      33%
+Secrets:     0%
+
+Time:      0:57
+
+
+Comments:  Finally I did it under a minute :)
+
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+           07.01.2004

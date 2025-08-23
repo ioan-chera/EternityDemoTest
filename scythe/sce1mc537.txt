@@ -1,0 +1,124 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Episode 1 (Map01 - Map10)
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------------------
+Time: 5:37 (-8)
+-------------------------------------------------------
+      Level       Time    Total Time    Prev. Time
+-------------------------------------------------------
+      Map01       0:17       0:17       0:17 (±0)
+      Map02       0:31       0:48       0:33 (-2)
+      Map03       0:38       1:26       0:40 (-2)
+      Map04       0:26       1:52       0:24 (+2)
+      Map05       0:28       2:20       0:26 (+2)
+      Map06       0:42       3:02       0:44 (-2)
+      Map07       0:26       3:28       0:27 (-1)
+      Map08       0:54       4:22       0:56 (-2)
+      Map09       0:51       5:13       0:58 (-7)
+      Map10       0:24       5:37       0:20 (+4)
+-------------------------------------------------------
+Comments: 4shock[B]last [G]arrettChan
+-------------------------------------------------------
+Map01:
+
+[B]
+Definitely the kind of map that's better to sometimes take a slower run on, it's otherwise incredibly frustrating to try to go for good times here, too much RNG. :^)
+
+[G]
+Nothing changes. The same good old average 17.
+
+-------------------------------------------------------
+Map02:
+
+[B]
+Pretty fast on both sides, so I didn't have much to do at the end.
+
+[G]
+Did help a bit with some extra monsters to even out the time, but honestly I can go a bit quicker to save 1 more second or so.
+
+-------------------------------------------------------
+Map03:
+
+[B]
+This one went quite well overall. I experimented with not using BFG shot and berserk here, but it's just a pain to kill things however you do it, and the BFG is overall helpful I think, so kept it in.
+
+[G]
+This is a better overall performance, but this is one of those annoying maps that is not very fun to play.
+
+-------------------------------------------------------
+Map04:
+
+[B]
+Pretty good time, I get smacked on my way to the exit by Garrett's SSG, but hey, no real harm done. :^)
+
+[G]
+Better weapon swap but I guess the Spectres wasted some time there for the other side.
+
+-------------------------------------------------------
+Map05:
+
+[B]
+Probably can do a bit faster with SSG at the end here still, but it was decent. Gained back the no BFG shot time later anyway.
+
+[G]
+This is a minor change of the route, which I took a bit extra time to kill Spectres down the trench. +2 isn't really a lost because an extra BFG shot is saved for later.
+
+-------------------------------------------------------
+Map06:
+
+[B]
+Not much happened here, I think my side was fine. There's quite a bit of variance in how fast monsters die, so this is probably good enough.
+
+[G]
+My side doesn't really have variance so it's all the same :P
+
+-------------------------------------------------------
+Map07:
+
+[B]
+Yeah, I screwed up a bunch on this map, could probably save more time. The monsters here always give me trouble. :^)
+
+[G]
+The Map05 tweak is meant for this map, but funnily, we didn't save enough to cover the loss :P  However, I think if this map is done nicely, it should definitely save more than 1 second.
+
+-------------------------------------------------------
+Map08:
+
+[B]
+Overall decent, though I was fumbling a lot. :^) This attempt came early in our new stream, so there were some things I wasn't quite used to yet.
+
+[G]
+This is just in general better knowledge for the remaining monsters so we don't need to panic over missing a kill or something.
+
+-------------------------------------------------------
+Map09:
+
+[B]
+Even more fumbling than map 8, can definitely do a lot more here, but I didn't quite take the right path through the map. Oh well.
+
+[G]
+This is way better planning in searching for remaining monsters. There are a couple of general spots I can go and search for stragglers so they won't end up wasting a bunch of time like the previous 5:45.
+
+-------------------------------------------------------
+Map10:
+
+[B]
+At least I realized the backup switch press strat, and it worked, but yeah, sad that I fell. :^)
+
+[G]
+Well, always the final map! Damn!
+
+Apr 20 2023
+-------------------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

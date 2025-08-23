@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe.wad
+Maps:      map18
+Skill:     4
+Category:  Speed (tool assisted speedrun)
+Tools used: slowmotion, permenant sr50, sr50 on turns, and segmenting 
+Exe:       glboom-plus.exe -complevel 2
+
+Time:      0:04
+
+Author:    Light_Speed aka odysseyofnoises
+Email:     cubecat589@gmail.com
+HP:	   http://youtube.com/iphonehacker87/ 
+
+Comments:  credits to hock for doing the second glide here.

@@ -1,0 +1,18 @@
+SC08NS025.TXT
+SC08NS025.LMP
+SC08NS025.ZIP
+
+Player : megasphere308
+Date : 2021-04-16
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP08 Garden base
+Source port : Crispy Doom v.5.8.0
+Time : 0.25.97
+
+Description :
+
+I found more efficient to avoid killing the zombiemen and the last shotgunner.
+Fortunately, the spectres let me through, and the last mancubus was infighting.
+
+megasphere308@gmail.com

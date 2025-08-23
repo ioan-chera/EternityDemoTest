@@ -1,0 +1,29 @@
+| This is a Doom .LMP | Doomed Speed Demos Archive http://doomedsda.us/ |
+-------------------------------------------------------------------------
+Filename : sc18-047.lmp, sc18-047.txt
+Date     : 2017-10-04
+Iwad     : doom2.wad
+Pwad     : scythe.wad
+Game     : Scythe
+Exe      : Doom2.exe ver1.9 
+Category : UV-Max
+Map(s)   : MAP 18: M/S Futura
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :   0%
+Secrets  : 100%
+Time     : 00:00:47
+===================================
+Description:
+
+Kyle McAwesome was nice tweaking from my previous route in his sc18-051.lmp.
+Breaking barrels from the gray sea was especially a great idea. 
+Btw, below 50 sec is pretty good.

@@ -1,0 +1,7 @@
+PWAD: Scythe
+MAP: 03
+CATEGORY: NoMo 100S
+EXE: DSDA-Doom 0.28.2
+DATE: 15th December 2024
+TIME: 0:17.46
+PLAYER: Tellurium

@@ -1,0 +1,18 @@
+              Scythe
+          Map 24: Hatred
+       Map Author: Erik Alm
+------------------------------------
+            sc24o019.lmp
+	    sc24o028.lmp
+
+Nomo in 0:19.86
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Wasn't really going for 19, but really happy about sub-20. Do the strafejump much quicker (from a shorter distance) and incorporate death slide on exit door.
+
+Bonus run on standard route in 0:28 included. Pretty casual run, I did it just for fun (and because it was easy).

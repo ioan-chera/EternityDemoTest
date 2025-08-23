@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:		SCYTHE.WAD
+Pwad name: 	Scythe
+Maps:		EPISODE 1 (01-10)
+Skill:		4
+Category:	UV -Fast
+Exe:      	PRboom+ 2.5.1.4 cl2
+		with advanced HUD
+------------------------------------------- 
+Time:     	11:58
+-------------------------------------------
+Comments: Haven't done scythe ep1 movies for a lil bit. Got 02-10 map records and jumped into this without much thought about routes.
+MAP01 - 0:36.34 ( 0:36)  K: 22/22  I: 4/7  S: 1/1 
+MAP02 - 1:05.91 ( 1:41)  K: 33/33  I: 2/2  S: 2/2 
+MAP03 - 1:18.77 ( 2:59)  K: 39/39  I: 1/1  S: 1/1 
+MAP04 - 0:53.80 ( 3:52)  K: 28/28  I: 0/0  S: 2/2 
+MAP05 - 1:15.06 ( 5:07)  K: 36/36  I: 1/1  S: 2/2 
+MAP06 - 1:42.14 ( 6:49)  K: 46/46  I: 2/2  S: 1/1 
+MAP07 - 1:03.20 ( 7:52)  K: 12/12  I: 0/1  S: 0/0 
+MAP08 - 1:47.20 ( 9:39)  K: 63/63  I: 4/4  S: 2/2 
+MAP09 - 1:43.80 (11:22)  K: 74/74  I: 1/1  S: 3/3 
+MAP10 - 0:36.00 (11:58)  K:  6/6   I: 1/2  S: 1/1 
+-------------------------------------------
+YouTube Video: https://youtu.be/8142DkjmQuk
+-------------------------------------------
+Author:    	Andrea Rovenski
+Demo YouTube Page: https://www.youtube.com/@doomspeedruns
+andrea@speed.dog 
+

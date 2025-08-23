@@ -1,0 +1,20 @@
+Pwad: scythe
+Map:      30
+Skill:    5
+Category:  NM100
+Exe:       PrBoom+ v2.5.1.3
+Time:      2:09
+
+-complevel 2
+
+Author:	   Ancalagon
+
+Basically, take the first 3 secrets, use the invul to get to 2 other secrets and test your luck getting to the start and 
+use the normal nm-speed route to exit. Start is the most deadly area, then comes that area with barons where you can get
+attacked by cybers from 2 different directions, and also gotta worry about fatso balls and position yourself to do the
+jump right.
+
+I take mastermind way cause cybers + tons of cacos are usually blocking the hallway I used to go into this red area, mastermind
+always kills me if I get there with low hp, and sometimes even with medium hp. Then I bfg spam my way to the spawn area while
+quick getting a soulsphere. Once at spawn I can use the normal nm-speed route to exit the map, this time I somehow made it
+with just enough cells to kill the romero head, even if I wasn't looking at ammo.

@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	05
+Skill:	4
+Category:	Tyson
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	1:10
+-------------------------------------------
+Comments:  
+Quite a different route than Gusta's, but I think it's better. Caco punches were all bad because their hitboxes are dumb and stupid.
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

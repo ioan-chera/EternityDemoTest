@@ -1,0 +1,27 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       15 - Blood Bath
+Skill:     4
+Category:  UV Max
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     101%
+Items:      66%
+Secrets:   100%
+
+Time:      1:55
+
+Comments:  Good demo until yellow key. After that I did
+           both jumps the slow way and ruined the fights.
+           Damn!
+
+           Come on! Beat this crap!
+           The goal should be 1:4x.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+11.07.2005

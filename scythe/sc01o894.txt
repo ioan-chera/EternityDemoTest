@@ -1,0 +1,10 @@
+player: aconfusedhuman 
+date: 20-7-22
+iwad: DOOM2.wad
+pwad: SCYTHE.wad
+map: 01
+category: nomo
+time: 8.94s
+comments: idk why i did this, was bored :slight_smile:
+
+recorded with dsda-doom 0.24.1

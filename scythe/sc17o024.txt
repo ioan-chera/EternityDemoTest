@@ -1,0 +1,15 @@
+              Scythe
+        Map 17: Book Lords
+       WAD Author: Erik Alm
+------------------------------------
+           sc17o024.lmp
+
+Nomo in 0:24.97
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Like the 25s I did before (my first nomo run for Scythe :D), this took much longer than I expected. Movement is tough in this map, I guess, lots of staircases, tiny openings, and places to bump, so getting a clean demo is harder than it would seem, so it got somewhat frustrating (doesn't help that I had a .06 -> .03 -> .00 progression before this). This isn't perfect either, still a few minor bumps and yet somehow it's 24, so I'm satisfied.

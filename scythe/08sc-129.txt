@@ -1,0 +1,25 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: scythe.wad
+Pwad name: Scythe  
+Maps:      8 (01-08)
+Skill:     4
+Category:  UV -NoMonsters TAS 
+Exe:       prboom-plus.exe
+
+Time:  MAP01 0:09
+       MAP02 0:09
+       MAP03 0:15
+       MAP04 0:14
+       MAP05 0:11
+       MAP06 0:22
+       MAP07 0:01      
+       MAP08 0:08      
+      Total: 1:29
+
+Author:    ClumsyDoomer   
+Email:     baymurzin2011@yandex.ru
+
+Comments: Scythe Map01-08 TAS movie. Yeah, I've got a Rocket Launcher in map06 and made a nice RJ in map07 :) Map 02 w/o monsters is harder than with monsters, I couldn't jump between exit and yellow door. Ow :( Map08 is very hard! I can't jump between exit and entering! This map took  3 hours and 19 tries. :P
+

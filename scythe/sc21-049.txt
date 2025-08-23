@@ -1,0 +1,19 @@
+              Scythe
+        Map 21: Solitude
+       Map Author: Erik Alm
+------------------------------------
+           sc21-049.lmp
+
+UV-Max in 0:49
+
+    Kills   - 105%
+    Items   - 33%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Full disclaimer: I use advanced HUD in this run, but it's a new route and I'm not going to re-do it.

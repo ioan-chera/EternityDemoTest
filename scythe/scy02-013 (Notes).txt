@@ -1,0 +1,14 @@
+Runner: Professor Soundman
+Date: 30/6/2021
+Sourceport: dsda-doom (Version 0.19.7, complevel 2)
+IWAD: Doom 2
+WAD: Scythe
+Map: Punchline (Map 02)
+Category: UV-Speed
+Time: 0:00:13
+Attempt: 479
+
+Comments: 
+This was my first attempt at properly speedrunning a map and getting a good time on it so please go easy on me!
+I feel like 12 seconds is possible, with a lot of luck and near-perfect movement but I don't know about 11 seconds. I don't think it's possible to jump the gap from the yellow
+door to the exit platform. But hey, maybe I'll give it another go at some point! I'm happy with 13 seconds for now though. :)

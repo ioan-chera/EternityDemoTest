@@ -1,0 +1,27 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       17 - Book Lords
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      3:05
+
+Comments:  Not as fast as I wanted (6 SSG shots for
+           the last Archvile *sigh*), but I have to
+           watch all 'The Simpsons Halloween Specials'.
+           So there's not more time for Doom atm ;)
+
+           Happy Halloween!
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+31.10.2004

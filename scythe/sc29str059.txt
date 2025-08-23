@@ -1,0 +1,19 @@
+              Scythe
+       Map 29: Hell on Earth
+       Map Author: Erik Alm
+------------------------------------
+           sc29str059.lmp
+
+Stroller in 0:59
+
+    Kills   - 4%
+    Items   - 25%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: I skipped this in my earlier efforts at Scythe stroller, decided it was too annoying after throwing 14 attempts at it. Decided I'd grind it out this time. The start is quite annoying because of the hitscan, then you getting to the AVJ needs a bit of luck with them not targeting too early. Then, there's the ending, where you can hardly avoid rockets from the cyber, heh. Got lucky this time, first successful jump to the ending.

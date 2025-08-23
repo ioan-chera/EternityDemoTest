@@ -1,0 +1,15 @@
+WAD: Scythe
+MAP: MAP17: Book Lords
+Time: 0:28.94
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Your traditional nomonsters demo of a map. It has its usual silly errors such
+as wall bumps, but it is much improved. I just wanted to push this down a sec
+and take back the record here. :P
+
+It would be fun to see this even faster (I was lazy and stopped soon after I
+got this demo), so good luck to Cacatou or anybody else who tries to get 27 
+seconds for this map!
+
+--Doomdaniel95

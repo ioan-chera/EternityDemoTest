@@ -1,0 +1,14 @@
+wad:       scythe
+Map:       26
+Skill:     4
+Category:  UV-Max
+Exe:       dsda-doom-0.27.5
+Time:      2:16.51
+
+-complevel 2
+Uses advanced HUD.
+
+Author:	   Blue Cultist
+
+Yes I did get like 30 runs with this pace before but revenants do not want to teleport! Also this was a completely mediocre pace (opening doors and nobles clean up downwards) but if you have like 0 barons alive up stairs then it's gg. My goal was 2:15 but I do not have more time to grind this need to do others maps.
+

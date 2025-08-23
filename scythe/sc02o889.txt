@@ -1,0 +1,13 @@
+Pwad:      Scythe <SCYTHE.wad>
+Iwad name: DOOM2.wad
+Map:       2
+Skill:     4
+Category:  No Monsters
+Exe:       prboom+ 2.5.1.5
+Complevel 2
+
+Time:      0:08.89
+
+Author:    ProInfernape
+
+Comments:  Advanced HUD Used

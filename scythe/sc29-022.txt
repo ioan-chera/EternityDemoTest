@@ -1,0 +1,19 @@
+              Scythe
+       Map 29: Hell on Earth
+       Map Author: Erik Alm
+------------------------------------
+           sc29-022.lmp
+
+UV-Speed in 0:22
+
+    Kills   - 1%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: A really good time on this strat would be 21s. An even better time might be possible by attempting the TAS AVJ strat (which is possible without TAS). A part of me wants to continue grinding this since 22 feels kinda lazy, but it's kind of a dumb run anyway, so I'm not interested. :D

@@ -1,0 +1,19 @@
+Runner: Daniel, the NCR Veteran
+IWAD: Doom2.wad
+PWAD: Scythe.wad
+Category: Tyson
+Map: 02
+Source Port: DSDA-Doom 0.22.2, -complevel 2
+
+Kills    :   100%
+Items    :   50%
+Secrets  :   0%
+Time     :   0:58
+
+Description:
+Today was a really unlucky day, previous attempts were hampered by the fact
+that I constantly 3-5 shotted (!!!) pinkies with berserk and sometimes got
+screwed over by imps not dying from 1 hit, critically messing me up.
+Could be better but I'm not 4shockblast, his UV-Max strats are insanely
+good. His UV-Max run is basically a Tyson but without the secrets, so this
+could even go LOWER than his UV-Max 0:48

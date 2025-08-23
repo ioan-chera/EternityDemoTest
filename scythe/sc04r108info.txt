@@ -1,0 +1,21 @@
+IWAD: DOOM2.wad 
+PWAD: scythe.wad
+Map: 04
+Map title: Lost Warehouse
+Skill level: Ultra-Violence
+Category: UV -respawn
+Time: 1:08
+Date Recorded: Sunday, 7th May 2017
+
+Runner: Jakub Puk
+Location: Ipswich, United Kingdom 
+Email: kuba27131@gmail.com 
+
+Sourceport Used: PrBoom-Plus v2.5.1.5
+
+Respawn information:
+Kills - 100%
+Secrets - 100% 
+
+Info:
+Pretty easy -respawn; it's only taken me one attempt to beat. No variation of route from max - nothing else to say. 

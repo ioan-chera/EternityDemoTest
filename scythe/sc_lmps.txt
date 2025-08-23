@@ -1,0 +1,1118 @@
+The DSF Scythe Multi-Skill! lmp collection
+------------------------------------------
+
+Recorded by Erik Alm, Casey "Altima_Mantoid" Alvis, Angus_Thermopyle,
+Graham "Grazza" Burgess, Drew "stx-Vile" DeVore,
+Adam Hegyi, Doug "Opulent" Merrill, Michael "OgreSlayeR" Lastovica, 
+Radek Pecka, Chris "Ryback" Ratcliff, Chris "DevastatioN" Felix, 
+Adolf "Gusta" Vodja.
+
+This is a collection of recorded demos (lmps) for all 32 levels of
+Scythe. All levels were completed on skill 4 (UV) with 100% kills 
+and 100% secrets, where possible.
+
+But not only that, we've also included a collection of speedrun 
+demos, one for each level (and sometimes more than one!). These 
+demos just blaze through the level as fast as possible, using
+all manner of tricks. Trust us - you WILL be amazed :)
+
+But not only *that*, we've also included a collection of NightMare!
+skill demos. While it didn't prove possible to finish the 
+whole set on NightMare skill, we've still managed to put 
+together a set of 25 demos. Most of these are nearly as fast
+as the UV speedruns...
+
+That's *ninety three* demos in all. You won't be bored :)
+
+To playback these demos, put them in your doom2 directory and type:
+
+        doom2 -file scythe.wad -playdemo sc??-uv     (maxkill demo)
+        doom2 -file scythe.wad -playdemo sc??-sp     (speedrun demo)
+        doom2 -file scythe.wad -playdemo sc??-nm     (nightmare demo)
+
+where ?? is the level number.
+
+Scythe is available at
+http://www.doomworld.com/idgames/index.php?id=11944
+
+If all the demos in this pack haven't fully whetted your appetite 
+and you're hungry for more, some other demos we did for Scythe can
+be found at 
+
+http://www.doomworld.com/sda/scythe.htm
+
+
+General Pack Comments
+---------------------
+
+Drew "stx-Vile" DeVore
+----------------------
+I feel honored to have been part of the beta-test team for 
+this megawad and have also become a fan of Erik's mapping.  
+It was my first time as a tester so it was interesting to 
+see a megawad gradually take shape, sometimes in unexpected 
+fashions (I didn't think Erik would make the Hell episode 
+as difficult as it was, or as large in the later maps).  He 
+did some truly amazing work, churning out several maps in 
+the same day and barely having to tweak them to achieve the 
+level of quality present in the final wad.  It also grabbed 
+the attention of quite a few recorders, so the player 
+roster here is about as varied as that of the TVR demopack.  
+Enjoy the demos!
+
+
+Erik Alm
+--------
+I am very happy about all the demo action on my wad. I have 
+always wanted to make a megawad of my own and I am glad 
+that I finally pulled it off despite my extremely low 
+inspiration and motivation towards the end. Some really 
+good demos in this pack, I especially like Vile's maxes of 
+the ep3 maps, but all demos are nice really. Thanks to all 
+the players for playing and for your nice comments. Special 
+thanks to Vile and QWERTY for their excellent comments 
+during betatesting.
+
+
+Adolf "Gusta" Vodja
+-------------------
+Scythe is an excellent megawad full of short and action-packed 
+levels. It offers such a perfect gameplay for every kind of 
+single doomer: maxkillers will find there a lot of action, 
+monsters´ traps and interesting newly incoming map ideas like 
+map 28. There are hidden also many tricks and shortcuts for 
+speedrunners. So as a result, Scythe is perfect stuff for all 
+Compet-N players and I am glad I could do some contribution for 
+it even if I had had just a very little of time to play. Finally 
+thanks to Erik Alm for creating this megawad and and to all people 
+who made such an interesting demos for it.
+
+
+Angus_Thermopyle
+----------------
+I love Scythe. It has a lot of great maps with cool ideas and unique 
+atmosphere, and some nice challenges (Map30: I have never made it through 
+it, but luckily there is a stx-vile). 
+But the main reason to play Scythe is its awesome playability. So much 
+fun I have only with Doom, Doom2, Plutonia and Alien Vendetta. Great 
+job, Erik (and Torn :) 
+
+And, hey, you made Adam Hegyi to record some stuff :)
+
+
+Casey "Altima_Mantoid" Alvis
+----------------------------
+Scythe is GREAT!! I had a lot of fun playing through it. Amazing how 
+playable all of these maps are! I liked the idea of making you start 
+from scratch every 10 maps with fresh weapons. The maps are all small, 
+fun maps, each with their own unique atmosphere. Congrats to Erik for 
+making one of the best Megawads I have EVER played!
+
+
+Michael "OgreSlayeR" Lastovica
+------------------------------
+This is a really great megawad. I have enjoyed it and can see some very
+good demos for it in the future even better than the ones out there right
+now. Thanks to Erik for this great megawad.
+
+
+Doug "Opulent" Merrill
+----------------------
+Erik is a mapping god.  It is nice to have a demoset that is
+designed for speedrunners.  Short, fun playable maps that are fun for
+every type of player.  I'm really happy to see so many great players
+join in on this demoset.
+
+
+Adam Hegyi
+----------
+Scythe got a warm welcome from the speedrunning community - and
+rightly so. The maps are diverse and great for both the runs
+and maxkills. The difficulty is nicely tuned, just about right.
+I had great fun playing this set. I hope you like the demos :)
+
+
+Radek Pecka
+-----------
+I gotta say I had a lot of fun playing Scythe. It was a great idea
+to make this wad. It's a really good change to play these small maps,
+don't have to learn complicated routes or whatever, just enjoy the
+maps. What else can I say? Don't waste your time reading this, better
+go and play it! Scythe simply rocks.
+
+
+Chris "Ryback" Ratcliff
+-----------------------
+I think Scythe is pretty unique really - there's never been a megawad
+before so superbly optimised for Compet-N style demos. And all the
+players in this pack have needed no invitation to take advantage 
+of this opportunity, hence all the demos you have before you :)
+Scythe rocks for speedrunning, and most of the best demos are 
+in that category - but the small, tight levels make for some 
+very optimised maxkill runs as well. And as much as I think you'll 
+enjoy watching this demoset, Scythe is even better when you
+play through it for yourself :)
+
+
+-------------
+MAXKILL DEMOS
+-------------
+
+Here is a quick table listing all lmps - detailed descriptions come later.
+
+Level  Level Name             Recorded by               Time
+-----  ----------             -----------               -----
+ 01    Get Going!             Radek Pecka               00:27    
+ 02    Punchline              Radek Pecka               00:54    
+ 03    Up and Around          Angus_Thermopyle          01:03    
+ 04    Lost Warehouse         Radek Pecka               00:45    
+ 05    Slimy Tunnels          Casey Alvis               01:05    
+ 06    Pressure Point         Casey Alvis               01:29    
+ 07    Deadly                 Adam Hegyi                00:29    
+ 08    Garden Base            Adolf "Gusta" Vodja       01:31    
+ 09    Computer Storage       Chris "Ryback" Ratcliff   01:42    
+ 10    The Lords              Radek Pecka               00:36    
+ 11    Sneak Peak             Adolf "Gusta" Vodja       02:07
+ 12    Walk in the Park       Chris "Ryback" Ratcliff   01:16
+ 13    Subverted Base         Doug "Opulent" Merrill    01:26
+ 14    Power Outage           Radek Pecka               00:56
+ 15    Blood Bath             Chris "Ryback" Ratcliff   01:58
+ 16    Burial Grounds         Chris "Ryback" Ratcliff   02:20
+ 17    Book Lords             Chris "Ryback" Ratcliff   03:57
+ 18    M/S Futura             Adolf "Gusta" Vodja       01:16
+ 19    3000 AD                Drew "stx-Vile" DeVore    04:18
+ 20    The Starport           Chris "Ryback" Ratcliff   02:39
+ 21    Solitude               Radek Pecka               00:58
+ 22    Despair                Doug "Opulent" Merrill    02:49
+ 23    Anger                  Drew "stx-Vile" DeVore    02:19    
+ 24    Hatred                 Erik Alm                  03:14
+ 25    Envy                   Chris "Ryback" Ratcliff   02:04
+ 26    Fear                   Chris "Ryback" Ratcliff   04:00    
+ 27    Terror                 Drew "stx-Vile" DeVore    06:41
+ 28    Run From It            Drew "stx-Vile" DeVore    00:32 **
+ 28(a)                        Adam Hegyi                00:40
+ 28(b)                        Adam Hegyi                00:33
+ 29    Hell On Earth          Chris "Ryback" Ratcliff   10:23
+ 30    Fire and Ice           Drew "stx-Vile" DeVore    24:28
+ 31    I Dunno Torn           Casey Alvis               03:40
+ 32    Enoz Soahc             Erik Alm                  02:57
+
+ Overall time: 97:32
+
+**: The first demo shows the 'standard' route through the level;
+    the second uses a trick that makes 95% kills possible. The
+    third is a tool-assisted demo using the same trick that
+    achieves 100% kills. See the level description :)
+
+
+------------
+Descriptions
+------------
+
+The descriptions were written by the team member who recorded the map.
+
+
+SC-01 - Get Going! (Radek)
+--------------------------
+A good map for the start, just grab the chainsaw and get mad. This demo 
+took me probably the most of time, around 2-3 hours. Doing 28s is easy,
+27s is hard. The biggest problem was to kill both Zobies by the barrel.
+At the end I'm satisfied with the result.
+
+
+SC-02 - Punchline (Radek)
+-------------------------
+I wasn't very happy about picking up Invisibility and going punching,
+but you have to do it to complete all secrets. It's a tyson action all
+the way to the exit. I didn't spend much time on this, so the demo could've
+looked much better.
+
+
+SC-03 - Up and Around (Angus)
+-----------------------------
+Compact maps like this one belong to my favourites, so I played it about 
+a week constantly (with a bit sleep for a change) in different categories. 
+You can learn here how to play tyson.
+
+My max run is ok. I did some weird movements in the imp-cage-room, because 
+I didn't notice that I killed two sergeants with one shot, so I waited 
+for the third one teleporting in, but he had made it through yet. The 
+architecture reminds me of "Redemption" (TNT Map10, one of the few 
+better Evilution-maps).
+
+
+SC-04 - Lost Warehouse (Radek)
+------------------------------
+I didn't kill the spectres very quick, but the rest of the demo looks
+ok to me.
+
+
+SC-05 - Slimy Tunnels (Altima)
+------------------------------
+This was probably my favorite map that I played for the demopack. Awesome 
+and fun map, I spent maybe an hour or two to get the time I did. I like 
+the map layout as well. As I said, this is probably one of my favorite 
+maps that I had the priveledge of playing, and this is my hardest worked 
+demo in the demopack for that very reason ^_^
+
+
+SC-06 - Pressure Point (Altima)
+-------------------------------
+This map, although it is fun, it gets a bit luck-based for Max-Kill 
+playing. The best thing to do is to crush the Hell Knights, but that 
+doesn't always work like you hope =P It's great in design, and the 
+last room is really cool! It's still fun to play, just like Scythe 
+is ;)
+
+
+SC-07 - Deadly (Adam)
+---------------------
+This is an interesting map to tackle in Max, and a tough
+one too if you're going for a fast time. I figured out
+the possibility of telefragging right away, then Angus
+suggested that you can hit two mancubi with one stone
+here. Needs a bit of luck though. The rest depends on
+arachno movement mostly, they can be tricky to catch.
+
+
+SC-08 - Garden Base (Gusta)
+---------------------------
+Very interesting map for maxkill. I have tried to do it as fast as 
+possible but .. at least I didn't made any big mistake in this demo. 
+
+
+SC-09 - Computer Storage (Ryback)
+---------------------------------
+Whoops, completely screwed up the ending :) This is a very well thought
+out level, with a nice progression of weapons and enemies, except
+for one point - the Mancubus on a narrow ledge and no easy way to
+kill him, which forces you to halt, change weapons and hope every
+rocket hits home. Otherwise, I quite liked the way your generic Ep1 base
+area is extended by a detailed, non-trivial outdoor section.
+
+
+SC-10 - The Lords (Radek)
+-------------------------
+It shouldn't be much harder to do it without the green armor. As you see
+I picked it up anyway, and due to my blunt movements nearly died. I wasted
+lot of rockets, more than was needed to kill all the monsters. I'd like
+to see AdamH making a perfect demo here. 
+
+
+SC-11 - Sneak Peak (Gusta)
+---------------------------
+Very nice planned map a little bit challenging for me though. I tried 
+to play not too cautiously in the lava cave which is the hardest part 
+of the map. However I have been dying there alot mostly by my own 
+rockets. I would appreciate more place to move there. 
+
+
+SC-12 - Walk in the Park (Ryback)
+---------------------------------
+I'm amazed I was allowed to keep this one, it's so messy (and
+please shut your eyes at the end :) But that's probably the key to
+a good time on this level - just hurl yourself in there, get all
+the monsters together, and if you survive they'll go down nice
+and fast. Very good use of light levels here.
+
+
+SC-13 - Subverted Base (Opulent)
+--------------------------------
+I can't believe no one whomped on this demo... certainly nothing
+spectacular.
+
+
+SC-14 - Power Outage (Radek)
+----------------------------
+This was a challange. I started with times around 1:10, which wasn't 
+obviously what I was going for. With some more risky playing got 1:01
+after 30mins of playing, then I just coulnd't stop myself. 56s is the
+best I can get. Btw. I like this map a lot, it's a very good action.
+ 
+
+SC-15 - Blood Bath (Ryback)
+---------------------------
+Brilliantly fast, slaughterlicious (is that a word?) map. My target
+was a sub-2min demo, which took maybe an hour to get. My punching
+isn't very cool, but the rest goes well. That jump to the secret exit
+area can be hard to execute...
+
+
+SC-16 - Burial Grounds (Ryback)
+-------------------------------
+Nicely designed level, though the gameplay is a little lacking -
+it's more a 'let's try to build something realistic looking' level.
+The outdoor area probably needs something a little more to do,
+and I'm always at a loss as to how to play the church. If you're
+lucky you can telefrag the Archie and save lots of cells, but
+I'm not lucky :)
+
+
+SC-17 - Book Lords (Ryback)
+---------------------------
+Quite an addictive level, I'm a little sorry I never had time
+to improve this one. Great fun to run around in nomonsters.
+Hard only at the start, after you pick up the rocket launcher
+it's party time.
+
+
+SC-18 - M/S Futura (Gusta)
+--------------------------
+Great map! The whole design reminds me some of Duke3D maps I 
+guess. Some luck is needed for infights and end MM telefrag. 
+Another infight spider vs. 1st hellknight could save another 
+10 seconds IMO. Didn't have luck with this one since I realized 
+I should go for it. All in all thanks to Erik for this map and 
+for his previous demo.
+
+
+SC-19 - 3000 AD (Vile)
+----------------------
+Maps are starting to take longer to complete and it's 
+almost time to say goodbye to the unique brand of techbase 
+that Erik designed for this wad.  The ammo count and 
+monster layout is just perfect and the architecture does 
+wonders for the futuristic atmosphere.  The demo turned out 
+well enough, but with more fortunate attempts I would have 
+tried to take the automatic elevator up to the blue door on 
+the first try rather than lose time waiting.
+
+
+SC-20 - The Starport (Ryback)
+-----------------------------
+Vrack-inspired visual design, but the gameplay is a little messy here.
+Kind of struggling here to say anything else about the level :)
+Not one of the classics.
+
+
+SC-21 - Solitude (Radek)
+------------------------
+Oh, this map is a killer. I had like 2 or 3 exits. I tried to do the
+tyson part as safely as it can go, but mostly finished with low health.
+And then, Pain elemental waiting for you. It's not the best idea to 
+rocket it, really, but you have no choice. The Lost souls killed me many
+times. Expect lot of dying if you want to beat this. ;)
+
+
+SC-22 - Despair (Opulent)
+-------------------------
+good, short map; Erik really makes the most of the relatively
+few sectors in there.  A good demo would race to bfg the baron/2 hks 
+and let the Cyberdemon clean up... a TAS run would be well under 
+2 minutes. ...now onto Map23 and a real demo!  :)
+
+
+SC-23 - Anger (Vile)
+--------------------
+The map originally had you teleporting onto a barrel at the 
+start so the resulting explosion would take away a good 
+portion of your health, though in some ports this action 
+would always end up killing you instead, so the idea was 
+nixed.  This one is pretty tough to speed effectively since 
+grouping monsters to maximize BFG damage is important, as 
+well as using the cyberdemons to infight with the 
+teleporting monsters.  A couple of chip shots with the SSG 
+annoyed me, but this time I also had good luck with the BFG 
+shots.
+
+
+SC-24 - Hatred (Erik)
+---------------------
+One of the maps I really like myself, a lot of fun to be 
+had with both max and speed here. Demo isn't optimized at 
+all, I hope to see a better one at the DSDA sometime *hint 
+hint*.
+
+
+SC-25 - Envy (Ryback)
+---------------------
+Short level, optimised for BFG and rockets. Great solid design,
+the ammo is just about perfectly balanced - not enough cells so it
+becomes easy, just enough rockets that you don't need the SSG if
+you play well enough. Infights help a lot here to distract the
+larger monsters so you can kill them quickly.
+
+
+SC-26 - Fear (Ryback)
+---------------------
+An excellent monster blaster level, just grab the BFG, some cells,
+and go for it. Plus the level looks good even without monsters,
+something most level authors forget to ensure when they make these
+sorts of levels.
+
+The key to a good time on this level is to snatch all three keys quickly,
+then hit the switch by the Archvile. This activates a crusher trap
+that kills all the revenants that teleport in, and since this unusually
+designed teleporter usually takes at least six minutes to empty, this
+cuts off a lot of time.
+
+
+SC-27 - Terror (Vile)
+---------------------
+A rough map, especially the end encounter with the triple 
+cyberdemon threat and the invisibility that you must fight 
+with (something I've never been forced to do before).  
+Gotta applaud the ingenuity of that approach, though 
+sometimes strafing perfectly into a rocket was met with 
+cursing, hehe.  There's lots of backtracking between old 
+areas, which is usually a bane to players, but Erik kept it 
+interesting by introducing new fights each time.
+
+
+SC-28 - Run From It (Vile)
+--------------------------
+Not a map designed for max, but we have a few runs for it 
+regardless.  I picked the approach that kills all reachable 
+monsters, leaving some that haven't been killed yet by the 
+"teleporting monster gibs" effect that Erik employed here.  
+These particular monsters get killed AFTER the voodoo doll 
+has been crushed, so you get killed before they do.  This 
+style isn't particularly tricky until the very end... that 
+final BFG shot has to hit the distant chaingunner while 
+catching the 2 chainers and spider in the BFG tracers.  
+This was my first run where it worked as planned, and 
+that's all I had the patience for. :)
+
+SC-28 - Run From It (Adam)
+--------------------------
+I figured these out after I saw Vile's demo. I'm really
+not sure if this map was ever designed for Max, but
+as I demonstrated in the TAS demo 100% kills is achievable.
+It is really really tricky though as I spent a lot of
+time even in TAS just to get the last kill. If you watch
+with headphones on you'll notice how close it is before
+I exit. I also did a much easier one with 95% kills. Actually
+in this one the voodoo doll is making the slide possible.
+With a normal corpse the CG'er would have no reason to fire
+at ya.
+
+
+SC-29 - Hell on Earth (Ryback)
+------------------------------
+We're at level 29, and here's the first big level :) The setting
+is some kind of abandoned city in the ice, with Cyberdemons roaming
+around outdoors and Archies in sniper positions. Health is tight early
+on, but after picking up the BFG you're on easy street. You do need
+some skill at BFGing Cybers at close range though... A good mix
+of styles, plenty of maneuvering room, and this would have to be one
+of the least confusing city levels ever designed.
+
+
+SC-30 - Fire and Ice (Vile)
+---------------------------
+Oof, this map was tough... possibly the toughest max run 
+I've ever tried and also one of the trickiest to find a 
+suitable strategy for.  It's quite a challenge to defend 
+yourself from the many directions this map attacks you and 
+safe havens aren't available until some start areas have 
+been cleaned out.  There's also not enough ammo to make it 
+a simple BFG blastathon, like H232, so the cyberdemons have 
+to be used for extra damage.  This demo can be boring while 
+putting this plan into action, but I tried to make up for 
+it elsewhere.  At the end of it all lies the source of all 
+the evil previously exterminated by our faithful marine 
+hero... the dreaded romero head.  Unfortunately he's a bit 
+exhausted and can't expel any more demons, so put him out 
+of his misery. :)
+
+
+SC-31 - I Dunno Torn (Altima)
+-----------------------------
+I promised Torn that I'd record a demo for this map, and so I did =P 
+Ryback's demo was good, and his is cooler than mine...after all, he 
+does a nice long-distance Arch-Vile jump arcoss that BIG gap to get 
+the Plasma Rifle...but my way is the way that was planned to get to 
+that weapon ^_^
+
+
+SC-32 - Enoz Soahc (Erik)
+-------------------------
+Just a shitty ripoff of adam windsor's excellent chaos zone 
+(requiem map25), it's all made from scratch though, no evil 
+copy paste action. Gameplay here is sub-par, just a few 
+rooms crammed with enemies. Demo is decent I guess, nothing 
+too thrilling.
+
+
+--------------
+SPEEDRUN DEMOS
+--------------
+
+Level  Level Name             Recorded by               Time
+-----  ----------             -----------               -----
+ 01    Get Going!             DevastatioN               00:10   
+ 02    Punchline              Adam Hegyi                00:09 
+ 03    Up and Around          Angus_Thermopyle          00:25
+ 04    Lost Warehouse         OgreSlayeR                00:21
+ 05    Slimy Tunnels          Adam Hegyi                00:14
+ 06    Pressure Point         Adam Hegyi                00:24
+ 07    Deadly                 Adam Hegyi                00:01
+ 08    Garden Base            Adolf "Gusta" Vodja       00:10
+ 09    Computer Storage       Erik Alm                  00:27
+ 10    The Lords              Adam Hegyi                00:12
+ 11    Sneak Peak             Adam Hegyi                00:05
+ 12    Walk in the Park       Adam Hegyi                00:14
+ 13    Subverted Base         Radek Pecka               00:34
+ 14    Power Outage           Chris "Ryback" Ratcliff   00:37
+ 15    Blood Bath             Adam Hegyi                00:10
+ 15    Blood Bath (s)         Drew "stx-Vile" DeVore    00:09
+ 16    Burial Grounds         Doug "Opulent" Merrill    00:49
+ 17    Book Lords             Erik Alm                  00:33
+ 18    M/S Futura             Adam Hegyi                00:15
+ 19    3000 AD                Chris "Ryback" Ratcliff   00:37
+ 20    The Starport           Chris "Ryback" Ratcliff   00:59
+ 21    Solitude               Adam Hegyi                00:11
+ 22    Despair                Erik Alm                  00:37
+ 23    Anger                  Chris "Ryback" Ratcliff   00:03
+ 24    Hatred                 Erik Alm                  00:33
+ 25    Envy                   Adam Hegyi                00:11
+ 26    Fear                   Angus_Thermopyle          00:37
+ 27    Terror                 Doug "Opulent" Merrill    00:11
+ 28    Run From It            Adam Hegyi                00:28
+ 29    Hell On Earth          Erik Alm                  01:05
+ 30    Fire and Ice           Casey Alvis               00:39
+ 31    I Dunno Torn           Chris "Ryback" Ratcliff   01:24
+ 31    I Dunno Torn (s)       Casey Alvis               00:11
+ 32    Enoz Soahc             Angus_Thermopyle          01:16
+
+ Overall time: 15:01
+
+
+------------
+Descriptions
+------------
+
+The descriptions were written by the team member who recorded the map.
+
+
+SC-01 - Get Going! (DevastatioN)
+--------------------------------
+Small level, get stuck a couple of times here but it's a easy
+speedrun.
+
+
+SC-02 - Punchline (Adam)
+------------------------
+The trick in this one is pretty straightforward, but hard to
+do because of the baddies blocking the way. I did eight in
+nomo so I guess that would be possible.
+
+
+SC-03 - Up and Around (Angus)
+-----------------------------
+I played this in pacifist-style because of the teleporting demons. 
+They would be very successful in blocking the way to the blue 
+key. I don't know if shooting here and there would be helpful, 
+apart from that you have to get a shotgun first. I haven't tried it.
+Very nice map :) 
+
+
+SC-04 - Lost Warehouse (OgreSlayeR)
+----------------------------------
+Okay run. Kinda sloppy at some parts. Some demons got in my way and
+cost me some time.
+
+
+SC-05 - Slimy Tunnels (Adam)
+----------------------------
+One of my first demos. Nice speedrun, I liked playing this
+map.
+
+
+SC-06 - Pressure Point (Adam)
+-----------------------------
+This one is almost like -nomonsters. I got close to 23 though
+I only aimed for 24. The last room is the only tricky part.
+
+
+SC-07 - Deadly (Adam)
+---------------------
+What can I say, obvious trick here, and even the RL is unneeded
+as was shown by Gusta.
+
+
+SC-08 - Garden Base (Gusta)
+---------------------------
+Yeah, Erik, I did that jump in map08 even with my different 
+Strafe50 direction than the others have. (Which is in my sight in 
+the demo harder than if I would jump to the other side I guess) 
+10 is surely not optimal. Maybe 0:08 would be perfect..
+
+
+SC-09 - Computer Storage (Erik)
+-------------------------------
+Very obvious jump out of the window here. Messy demo, but kinda 
+hard with so many critters to get stuck on.
+
+
+SC-10 - The Lords (Adam)
+------------------------
+Very straightforward and easy. I tried a while for 11 but didn't
+get anywhere with it.
+
+
+SC-11 - Sneak Peak (Adam)
+-------------------------
+This is mostly luck. NM would be much easier but that was already
+done ;)
+
+
+SC-12 - Walk in the Park (Adam)
+-------------------------------
+The imp around the red key is a major headache, apart from that -
+no problem. Quite improvable.
+
+
+SC-13 - Subverted Base (Radek)
+------------------------------
+Angus' demo wasn't bad, but I wanted to speed some things up. This is my
+3rd exit, so further improvement should be easy.
+
+
+SC-14 - Power Outage (Ryback)
+-----------------------------
+You can lose a lot of health very quickly here :) I'm sure that if you
+have an incredible amount of luck the monsters will all get out of
+your way, but I didn't want to play this level THAT long, so I make a
+couple of detours to take medkits and supercharge.
+
+
+SC-15 - Blood Bath (Adam)
+-------------------------
+Very nice map for running. I had a different combination the first
+time but I was shown a faster route, hence this run.
+
+
+SC-15 - Blood Bath - Secret Exit (Vile)
+---------------------------------------
+A run mostly demonstrating the teleport design of the level 
+also doubling as substantial shortcut design, but hey, it's 
+a small level, and it only relies on running which is quite 
+nice. :)
+
+
+SC-16 - Burial Grounds (Opulent)
+--------------------------------
+49 seconds of pure boredom.  Probably the worst demo in this
+demoset.  That's what you get for not beating it!  :)
+
+
+SC-17 - Book Lords (Erik)
+-------------------------
+Easy map when the teleporting guys don't wake up hehe. 
+
+
+SC-18 - M/S Futura (Adam)
+-------------------------
+The mancubus is somewhat annoying, otherwise easy run.
+
+
+SC-19 - 3000 AD (Ryback)
+------------------------
+I followed Erik's nightmare route, which uses two Archvile jumps
+to make a speedy path to the exit. There's an invuln en route,
+and it's a ridiculously simple speedrun - the only problem is
+getting the Archie to *quickly* go after you. I was fairly
+lucky with this one...
+
+
+SC-20 - The Starport (Ryback)
+-----------------------------
+This level is not built well for speedrunning at all, unusually.
+I take the supercharge early to survive the close encounters
+with all those monsters. The jump to the blue key isn't blocked,
+and everything goes speedily from then on - somehow I avoid being
+skewered by the Cyber :)
+
+
+SC-21 - Solitude (Adam)
+-----------------------
+The arch-vile is more than keen to fry your ass here. Good slalom
+anyways ;)
+
+
+SC-22 - Despair (Erik)
+----------------------
+Not a very speed friendly map, but I managed to squeeze 
+through anyway.
+
+
+SC-23 - Anger (Ryback)
+----------------------
+This level is incredibly easy to finish - just wait for the Archvile to
+notice you, run toward the exit, and that's it. Simplest AV jump
+ever. Again, the only difficulty is to get the Archvile to
+notice you early - he has this annoying habit of forgetting you
+exist. I just played through until I got a fast AV jump.
+Should be optimal...
+
+
+SC-24 - Hatred (Erik)
+---------------------
+my favourite map in the megawad, also my least shitty demo.
+
+
+SC-25 - Envy (Adam)
+-------------------
+I liked this, especially the jump over the gap, which has a little
+wallrunning patented. BFG is a must ;)
+
+
+SC-26 - Fear (Angus)
+--------------------
+"Oh my god!" - Fear! - yeah, that's the perfect name for this outstanding 
+map. The first time I saw this one, I was truly "feared". But after 
+watching Ryback's 4:00 run and stx-vile's nm-run I tried it myself, 
+did it in speed and pacifist and blasted my through with the nice BFG. 
+There is so much health around, so call it easy living.
+The best Scythe map IMO. The revenant-infested staircase is a classic :)
+
+
+SC-27 - Terror (Opulent)
+------------------------
+Obviously could go a second or two faster, but the window jump
+is cool.  You can _not_ telefrag the vile if you get lucky (and awaken
+him).
+
+
+SC-28 - Run From It (Adam)
+--------------------------
+Very nice to play. You have more than enough time :)
+
+
+SC-29 - Hell on Earth (Erik)
+----------------------------
+just showing off a speedrunning trick here, not a very fast demo.
+
+
+SC-30 - Fire and Ice (Altima)
+-----------------------------
+Basically a UV Speed duplicate of Vile's NM Speed demo, but 3 seconds 
+slower ^^' I'm not quite good enough yet to catch anything but stx-Vile's 
+dust ;) 
+
+
+SC-31 - I Dunno Torn (Ryback)
+-----------------------------
+The secret exit has all the cool tricks, going this way you actually
+have to fight stuff :) My demo is not at all pretty, but at least shows
+the way to go.
+
+
+SC-31 - I Dunno Torn - Secret Exit (Altima)
+-------------------------------------------
+You can't really say much about an 11 second demo...this came rather 
+quickly...kept getting 13, but I wanted faster. This is the end result :)  
+Had luck with the Archies too =P In speed, it's still a fun map ^_^ 
+Secret exit, also Pacifist.
+
+
+SC-32 - Enoz Soahc (Angus)
+--------------------------
+The start is very easy: just jump and run around the chaingunners to 
+the lift, this works 5 times out of 6 without losing too much health.
+Two problems here: the archie and getting past the hellknights in the 
+narrow corridor.
+A little bug prevents the monsters to teleport into the final room, if 
+you played the former way in pacifist style. A few monsters there 
+(a mancubus, a few imps or even a cybie?) would make it more 
+interesting.
+
+
+
+---------------
+NIGHTMARE DEMOS
+---------------
+
+
+Level  Level Name             Recorded by               Time
+-----  ----------             -----------               -----
+ 01    Get Going!             OgreSlayeR                00:10
+ 02    Punchline              Chris "Ryback" Ratcliff   00:15
+ 03    Up and Around          Adam Hegyi                00:32
+ 04    Lost Warehouse         Chris "Ryback" Ratcliff   00:42
+ 05    Slimy Tunnels          
+ 06    Pressure Point         Chris "Ryback" Ratcliff   01:33
+ 07    Deadly                 Angus_Thermopyle          00:01
+ 08    Garden Base            Chris "Ryback" Ratcliff   01:04
+ 09    Computer Storage       Chris "Ryback" Ratcliff   00:34
+ 10    The Lords              Chris "Ryback" Ratcliff   00:13
+ 11    Sneak Peak             Graham "Grazza" Burgess   00:04
+ 12    Walk in the Park       Chris "Ryback" Ratcliff   00:43
+ 13    Subverted Base         Chris "Ryback" Ratcliff   00:50
+ 14    Power Outage       
+ 15    Blood Bath
+ 15    Blood Bath (s)
+ 16    Burial Grounds     
+ 17    Book Lords             Chris "Ryback" Ratcliff   00:45
+ 18    M/S Futura             Chris "Ryback" Ratcliff   00:17
+ 19    3000 AD                Erik Alm                  00:37
+ 20    The Starport           Chris "Ryback" Ratcliff   01:32
+ 21    Solitude               Erik Alm                  00:40
+ 22    Despair            
+ 23    Anger                  Casey Alvis               00:03
+ 24    Hatred                 Chris "Ryback" Ratcliff   00:54
+ 25    Envy                   Chris "Ryback" Ratcliff   00:15
+ 26    Fear                   Drew "stx-Vile" DeVore    00:38
+ 27    Terror                 Adam Hegyi                00:12
+ 28    Run From It            Casey Alvis               00:33
+ 29    Hell On Earth      
+ 30    Fire and Ice           Drew "stx-Vile" DeVore    00:36
+ 31    I Dunno Torn           
+ 31    I Dunno Torn (s)       Chris "Ryback" Ratcliff   00:54
+ 32    Enoz Soahc         
+
+ Overall time: 14:37
+
+
+------------
+Descriptions
+------------
+
+The descriptions were written by the team member who recorded the map.
+
+
+SC-01 - Get Going! (OgreSlayeR) 
+------------------------------
+Pretty decent run. I think 9 might be possible with perfect running.
+
+
+SC-02 - Punchline (Ryback)
+--------------------------
+Adam was the first to do the strafe50 jump, I tried to copy his
+route but the monsters just wouldn't get out of the way, so I had to
+spend a few seconds clearing the path. It's a difficult strafe50 jump
+too, you almost have to misalign yourself to make it.
+
+
+SC-03 - Up and Around (Adam)
+----------------------------
+This one reminds me much of Episode 1 NightMare (not the level,
+the gameplay). I played quite cautious, lots of room for
+improvement.
+
+
+SC-04 - Lost Warehouse (Ryback)
+-------------------------------
+Low health is a problem here, so I take a detour early on and take the
+green armor. Later annoyances are the spectres and lost souls, you can't
+just rush past them like you do in UV. Not really a difficult run
+though, and there aren't any special tricks to stuff up...
+
+
+SC-06 - Pressure Point (Ryback)
+-------------------------------
+A rather embarrassing demo :) It was my first try, not having any
+idea how to complete the level, and though it doesn't look great
+and there are some obvious ways to improve it, I wasn't able to
+finish the level again. Sometimes, you don't mess with luck.
+
+
+SC-07 - Deadly (Angus)
+----------------------
+My shortest demo ever :)
+My first rocket jump :)
+My first optimal time :)
+ 
+
+SC-08 - Garden Base (Ryback)
+----------------------------
+This is a lot slower than the speedrun demo, but you need weaponry and
+health to run that shotgunner gauntlet (and I can't do that strafe50
+jump anyway :) So I take the chaingunner, rocket launcher and
+supercharge - and manage to get 100% secrets along the way too.
+The inviso sphere is also a big help. You need luck that the mancubuses
+don't blast you or block your run, and that the troopers don't bite
+away at your health. Hardly difficult, though.
+
+
+SC-09 - Computer Storage (Ryback)
+---------------------------------
+Route first shown by Erik, as with most nmare runs the difficulty isn't
+in gametic-perfect movement but in a war of health attrition. This
+particular run is far from average, usually I'm near death at most points.
+I wasn't intending to run past the revenant at the end, but it worked
+out just like the rest of this lucky demo :)
+
+
+SC-10 - The Lords (Ryback)
+--------------------------
+Adam showed this shortcut first, it makes a short level ridiculously
+easy. Switch flip is easy, just leave the platform down before you
+jump into the lava. No need to shoot anything, just run the route. 
+Considering Adam's general speedrunning perfection, I'm quite happy to
+be just one second slower :)
+
+
+SC-11 - Sneak Peak (Grazza)
+---------------------------
+I'd got 0:05 16 times, and was at the point of giving up when 
+suddenly this happened. I'd tried all sorts of strategies. The 
+one here was "stand some way from the exit so the imps could 
+deplete my health and hopefully nothing would obstruct the 
+revenant's missile; then run for the exit just as it hits". 
+Obviously, it is very much luck-dependent (346th attempt!).
+
+
+SC-12 - Walk in the Park (Ryback)
+---------------------------------
+The speedrun route is snappy, but there's far too many enemies
+at far too many places to just run the level through in nightmare.
+I run around picking up weaponry, health, and luring the Barons away
+from the blue key. Got *one* of them out :) Don't think you can
+significantly improve this, unless you're good enough to dodge past
+the mancubus...
+
+
+SC-13 - Subverted Base (Ryback)
+-------------------------------
+I take the rocket launcher as it's a very useful route clearer :)
+Otherwise it's the same as the speedrun route, and not particularly
+harder either.
+
+
+SC-17 - Book Lords (Ryback)
+---------------------------
+I wasn't even sure if this would be possible, but with luck at key points
+it's fairly doable. The trick to this level is to not make any noise at
+all - otherwise, monsters will start to teleport in and it'll rapidly
+become impossible. This means a couple of spots where you have to hide
+from monsters, the rest is running and hoping. The Archies are particularly
+problematic - the first you have to distract with a revenant missile so
+he'll let you have the red key; the second you need to hide behind a
+bookshelf from; the third will blast you, no way to avoid it.
+A 100% secrets demo.
+
+
+SC-18 - M/S Futura (Ryback)
+---------------------------
+This one was left alone for a long time, and I'm not sure why, 
+it's quite easy :) Although you do have a tendency to lose 
+health rapidly here, so some luck is necessary. The main 
+strategy is to quickly run to the yellow key, before the mancubus 
+can come forward and lower the bridge to it.
+
+
+SC-19 - 3000 AD (Erik)
+----------------------
+Added this trick pretty late in the megawad production, not a 
+very good trick, but the map would not be very fun for 
+speed without it.
+
+
+SC-20 - The Starport (Ryback)
+-----------------------------
+This demo is very messy and slapdash, mainly because it's another
+first try :) The tricky part of this problem is making the jump
+to the blue key, usually it's blocked. That's why I spend some
+time at the start killing enemies. I was completely unprepared for
+the later part of the level, and seem to have made it 
+completely through luck.
+
+
+SC-21 - Solitude (Erik)
+-----------------------
+awful demo, this map is very hard on skill 5 :\ 
+
+
+SC-23 - Anger (Altima)
+----------------------
+You say even less about a 3 second demo than you do an 11 second demo ;)
+Just run straight, Archie-jump to the exit, and you're done ^^ It's 
+also optimal, yay!
+
+
+SC-24 - Hatred (Ryback)
+-----------------------
+Lots and lots of monsters to dodge here, which means you need luck
+and some steady nerves. The key points are taking the blue key (it
+wasn't blocked), and picking up the BFG. Usually I die here from
+Cybie rockets or baron fire, but the Cybie got distracted by something
+and those two barons acted as a very efficient shield :) Made a mistake in
+picking up the supercharge, lost a lot of health, and the end
+was just a mad rush to the exit holding down the fire key :)
+
+
+SC-25 - Envy (Ryback)
+---------------------
+The trick at the start of this level deserves some explanation.
+The gap to the right of the first door is too wide to jump normally,
+but straferun against the left or right side wall and you'll make it.
+Look in a mapeditor at the level, though, and there are no hidden ledges,
+just two lines of torches. Is the Doomguy breaking the rules of the game
+and running along the top of the torches? No. In fact what's happening
+is a trick similar to the map23 barrel run trick - an E-W line of
+impassable objects somehow acts as an E-W two-sided wall, which can
+be wallrun along. The extra speed boost is just enough to see you
+through the gap.
+
+Anyway, this trick is very easy to accomplish, much easier than map23,
+and the remaining challenge of the level is to snag the key and avoid
+a rocket death from Cybie. He's quick on the draw in nightmare :)
+
+
+SC-26 - Fear (Vile)
+-------------------
+Torn requested this one randomly on IRC, this result didn't
+take very long.  I saw complete red for a few seconds by a 
+well-placed cyberdemon rocket (damn nice shot, man) but was 
+somehow blown in the right direction and scooted across 
+that hidden ledge to the exit... phew!
+
+
+SC-27 - Terror (Adam)
+---------------------
+There is a faster route here but I never really got the hang
+of that window jump. This route is quite easy. It's kinda fun to
+piss against the wind, if you know what I mean :)
+
+
+SC-28 - Run From It (Altima)
+----------------------------
+Ooooo....this was interesting. I die and exit....yay for me ^_^ This 
+map was really tough to do on NM...first of all, I can barely exit at 
+all with monsters on the map. Secondly, that last stretch of hallway has 
+that nasty Arachnotron firing at you and wasting away your health while 
+you can't really do much about it but "Run From It" as the map name 
+says ;) I'm happy that I got out alive is all ^^
+
+
+SC-30 - Fire and Ice (Vile)
+---------------------------
+This one implements a trick designed by Erik during testing 
+to make a quicker exit possible for speed-running (which 
+could be deduced by the design of the end bars).  This run 
+normally leaves me beaten to near death if I even get an 
+exit, but the dash to and from the yellow key was unusually 
+smooth and damage free... lucky as hell, I tell ya. :)   
+
+
+SC-31 - I Dunno Torn - Secret Exit (Ryback)
+-------------------------------------------
+IMO the normal exit route is too long and there are too many enemies
+(particularly Demons) to make it in nightmare. Secret exit isn't so hard,
+but you need to take it slowly, as health is pretty scarce. I clear
+out both AVs then run to the exit... it's actually possible to do
+an AV jump across this gap, but not feasible in nightmare.
+ 
+
+*****
+
+That's it - enjoy the lmps!
+
+Angus_Thermopyle <cohen-lbg@gmx.de>
+Adolf "Gusta" Vodja <hita@seznam.cz>
+Chris "DevastatioN" Felix <chrischessmaster@yahoo.com>
+Erik Alm <erik_a80@hotmail.com>
+Casey "Altima_Mantoid" Alvis <altima_mantoid@hotmail.com>
+Graham "Grazza" Burgess <GKBurgess@compuserve.com>
+Drew "stx-Vile" Devore <DrwDevore@aol.com>
+Adam Hegyi <ha211@hszk.bme.hu>
+Doug "Opulent" Merrill <opulent@cox.net>
+Michael "OgreSlayeR" Lastovica <Akira101@comcast.net>
+Radek Pecka <r.master@email.cz>
+Chris "Ryback" Ratcliff <jaranbue@yahoo.com.au>
+
+[Text file based on fduvdemo.txt]
+
+

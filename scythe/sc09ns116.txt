@@ -1,0 +1,18 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      SCYTHE.WAD
+Map:       MAP09
+Skill:     5
+Category:  NM 100S
+Exe:       Chocolate-doom v.3.0.0
+
+Time:      1:16.51
+
+Author:    :[Lol 6]:
+
+Comments: I missed the jump to the red key, it's not that hard but I got nervous. The same with the final part, 8% health is not good
+but it's more than enough if there are medkits nearby.
+
+Video: https://youtu.be/X0yh7PRCtm4

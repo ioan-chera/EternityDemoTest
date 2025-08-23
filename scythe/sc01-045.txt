@@ -1,0 +1,12 @@
+==================================================
+Date     : 09-09-2020
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Items + Reality
+Engine   : prboom-plus-2.5.1.4
+Map      : MAP01 - Get Going
+Time     : 0:45
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil

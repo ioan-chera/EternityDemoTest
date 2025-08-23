@@ -1,0 +1,19 @@
+              Scythe
+       Map 29: Hell on Earth
+       Map Author: Erik Alm
+------------------------------------
+           sc29o038.lmp
+           sc29o121.lmp
+
+Nomo in 0:38.86
+Nomo in 1:21.77 (no keygrab)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Switching to keyboard turning strafe50 made movement here a lot easier, so 38 didn't seem as bad. Still not too fun to grind for the grab quickly and to get 38, I ran quickly pas the linedef lowering the wall near the end, which is easy to skip, and it's not particularly fun to hope for a lucky linedef. Stairs at the start in this run weren't perfect (although they rarely went ideally because of the awkward turn at the start), and not all the turns were great, but if 37 is possible, it'd be very difficult I think.
+
+Also included no keygrab route, got 1:27, then 1:24, then 1:21. Spent about 10 minutes on this one since it's not the best route, so it's probably improvable by a few seconds at least, I just wanted something without any major bumps. Strafe50 used.

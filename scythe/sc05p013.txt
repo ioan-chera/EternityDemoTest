@@ -1,0 +1,27 @@
+Pwad:      Scythe (scythe.wad by Erik Alm)
+Map:       map05 (Slimy Tunnels)
+Category:  UV Speed/Pacifist
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.2 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      0:13
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+Sweet victory at last! Adam Hegyi's demos are the strongest in the demopack, imo,
+so I knew beating his time would turn into a horrible grind, but I didn't expect
+the intensive burning frustration of it.
+
+I got my first 14s pacifist exit after 30 minutes, then went on for like 5 hours
+before I finally lucked out this one. The sewer spectres and the chaingunner just
+wreck any successful run by body blocking and there's very little to do about it.
+I also got a 13 where I fired a provocation shot and it somehow hit the chainer.
+I cursed Erik the whole time... and method too, for making the exit fakeout look
+easy in sp05-017. :)
+
+Recorded:  September 2nd, 2011

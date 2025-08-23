@@ -1,0 +1,26 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe (by Erik Alm)
+Pwad name: scythe.wad
+Map:       26
+Map name:  Fear
+Skill:     5
+Category:  NM Speed
+Exe:       doom2.exe
+
+Kills:      13%
+Items:      13%
+Secrets:     0%
+
+Time:      0:33
+
+
+Comments:  This is almost the same as UV Speed, except those damn Cybies at the switch. They
+           always push me around like a pinball.
+
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+           05.01.2004

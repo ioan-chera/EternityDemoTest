@@ -1,0 +1,23 @@
+SC29NS246.TXT
+SC29NS246.LMP
+SC29NS246.ZIP
+
+Player : megasphere308
+Date : 2021-08-31
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP29 Hell on earth
+Source port : dsda-doom v0.18.0
+Time : 2:46.77
+
+Description :
+
+Finally!...
+I don't know what to say, this has been such a long grind.
+The key grab at the start is very random because of the revenants.
+I chose to get past the AV in the BFG secret since it works most of the time.
+I played the last building pretty safe because I really wanted this exit.
+Thanks to JCD for the cyber linedef skip :)
+I might continue the grind, as sub 2 is really doable!
+
+megasphere308@gmail.com

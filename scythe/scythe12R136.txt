@@ -1,0 +1,9 @@
+Author:	   Dogmachine
+Pwad: Scythe.wad
+Map:      12
+Category: UV-RESPAWN
+Sourceport: Crispy Doom v5.6.3
+Time:      1:36
+Recorded date: 02/05/2022
+
+

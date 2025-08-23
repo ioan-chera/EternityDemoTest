@@ -1,0 +1,15 @@
+              Scythe
+      Map 06: Pressure Point
+       Map Author: Erik Alm
+------------------------------------
+           sc01o974.lmp
+
+Nomo in 0:09.74
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Another 1 second improvement. Still not clean, still may be improvable some more, but I still dislike this run. At least this breaks the 10s barrier.

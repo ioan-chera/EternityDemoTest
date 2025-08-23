@@ -1,0 +1,55 @@
+Recorded using DSDA-Doom v0.13.1 with Doom II compatibility (-complevel 2)
+
+Iwad name: doom2
+Pwad name: scythe
+Maps: 21-30
+Skill: 4
+Category: UV-Max (episode 3 movie)
+Time: 1hr15m33s
+
+Author: Starduster
+Date: 3/6/2020 (m/d/y)
+
+**81% kills is the standard UV-Max percentage for MAP28**
+
+Comments: Just a filler-ish UV-Max for episode 3 of scythe. This run served as a comfy side project for when I didn't have
+the time or energy to push through 1-20 for a D2ALL. I actually got this run the first time I beat 28. All other deaths on 
+28 failed the linedef skip. It's not necessarily a proof-of-concept demo, because I was more comfortable with using speedy
+strategies here, and therefore isn't the most accurate representation of what I would do in the D2ALL. I'd say it was
+a great practice run. Working on it seemed to have cured my frequent 22 and 23 deaths. Map-by-map comments below:
+
+21 - It felt nice to be able to play this however I wanted to because it comes at the start of the run. Shooting two 
+rockets at the pain elemental seemed like a much better idea rather than punching it. 
+
+22 - Every single part of this map feels spooky. I've grown to appreciate it more than I used to.
+
+23 - The start used to be good at killing me, lol. After throwing attempts at this run it became trivial. The strategy I
+found for the two cyberdemons is pretty neat imo, one walks over and the other gets stuck on the door next to him, making
+him harmless.
+
+24 - Got softlocked once due to a strange bug in the map design. If you skip the linedef where the blue door is, walk 
+inside, and let the door close, the walkover line you skipped will block you from opening the door from inside. Other than
+that I guess I don't have much to say about this one. Running past the horde of revenants is always exhilarating.
+
+25 - It's so easy to die in the ouside area. I try my best to get the left mastermind dead before jumping down to prevent
+something like what happened in this run. Unfortunately, it's all up to RNG.
+
+26 - Ah, some good ol' fear. Make sure that the cyberdemons ahead at the start are shooting, otherwise they will not start
+infighting with the top level (which can kill/significantly slow down the run). My cell and rocket routing up until this 
+map could be improved quite a bit but I can't be bothered. And... is that a revenant staircase...? ;)
+
+27 - Bringing full shells, rockets, and cells into this map makes it a lot more fun to play. There's basically infinite 
+shells lying around if you know where to find them. I'm never sure of how many rockets to use in this map. Clearly I'm
+not using enough, because there's always extra boxes lying around in 29 that I don't need... Cell routing is
+straightforward.
+
+28 - Okay, time for a lottery. I accidentally skipped the second line that activates the voodoo doll crusher (yes, there
+are two lines for this :) shock skips both in his tyson IL) so lost some time going back to trigger it. I was nervous as 
+hell after seeing that I got the first lineskip down. To be honest I always expect to fail it.
+
+29 - Some crappy playing, but it's to be expected after playing this map for the first time in a movie demo. I'm always
+afraid of dying here to the number of spooky encounters with cyberdemons.
+
+30 - Fun to play. I had a few close calls, and beating it is so rewarding :D. My route brings full-ish rockets and cells
+in for cleaning up the start before doing anything else. As long as I can survive the first key area, the rest of the map
+is free.

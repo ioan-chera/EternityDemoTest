@@ -1,0 +1,11 @@
+WAD: Scythe
+MAP: MAP21: Solitude
+Time: 0:09.91
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+10 is extremely easy to get, but 9 is brutal. I wonder if 8 is possible since
+I made a couple mistakes, but I think my little scrape against the rock wall
+only cost 2 tics at most.
+
+--Doomdaniel95

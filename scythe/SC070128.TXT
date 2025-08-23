@@ -1,0 +1,28 @@
+This is a .LMP Entry for Eternal Doom - Please forward it...
+
+SC070128.TXT
+
+ SC070128.ZIP
+
+  SC070128.LMP - Ultra Violence Speed 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File SCYTHE.WAD -PlayDemo with Version 1.9
+
+  SCYTHE - Level 07  
+    
+  Kills    0%
+  (Items   0%)          
+  Secrets  0%  and Time  0:01.28 !!! 
+                        
+ 
+  Description: 
+  
+  Hi guys! How many more miliseconds could you cut off from this one?
+  Timer shows me sometimes 01.28 and sometimes 01.31. Dunno which one
+  is correct, but it's still really quick route..
+  
+  Btw. Sorry but 0:00 is impossible :)
+
+  Adolf "Gusta" Vojta
+  hita@seznam.cz

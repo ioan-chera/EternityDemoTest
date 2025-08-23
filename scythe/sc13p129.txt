@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Scythe
+Pwad name: scythe
+Map: 13
+Skill:  4
+Category:  UV Pacifist
+Exe: PrBoom-Plus 2.5.0.5
+
+Time: 1:29
+
+Author: Revved   
+
+
+Comments:
+Could be faster. The first challenge is getting past the chaingunner. Mainly because he shoots continuous shots, I try to take him out using what's there as fast as possible. Tried to get a demon to bite him, but it didn't work. :( The challenge then is trying to survive the rest of the map. I take the berserk so I don't search for health packs, and then run through the rest of the level. 

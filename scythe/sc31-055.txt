@@ -1,0 +1,35 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      31 - "I Dunno Torn"
+Skill:     4
+Category:  Speed
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:55
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills    19%
+           Items     6%
+           Secrets  40%
+
+Comments:
+
+This was recorded around the same time as the secret exit speedrun, 
+but somehow I forgot to post it. Anyway, here it is! :-)
+
+A lot can go wrong in this run -- the Baron/Hell Knight "cage" can 
+easily kill you and you also have to make sure you don't get stuck 
+on too many monsters (they come in large groups here!). I lost some 
+time here and there, but it's still a good run, apart from the 
+lousy ending, which I could and should have done much faster (but I
+chickened out). :-/
+
+Thanks to Chris "Ryback" Ratcliff for coming up with the route.
+
+
+Kristian Ronge
+
+zuckuss@gmail.com

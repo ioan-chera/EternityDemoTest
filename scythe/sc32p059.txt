@@ -1,0 +1,19 @@
+              Scythe
+        Map 32: enoZ soahC
+       Map Author: Erik Alm
+------------------------------------
+           sc32p059.lmp
+
+Pacifist in 0:59
+
+    Kills   - 9%
+    Items   - 50%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Goal was obviously under a minute, which is very luck-based to get due to all the monsters in my way. I had numerous 1:02s, and I was stuck at that time for a while, but today I was able to pull it down with a few single second improvements (this demo came right after a 1:00). Dunno what a really solid non-TAS time would be, probably 56-57 would be a really tough time to beat.

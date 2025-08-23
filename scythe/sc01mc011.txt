@@ -1,0 +1,44 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP01: Get Going
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Player 3: Dime (Brown)
+Exe: Woof 11.2.0/Woof 11.2.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:11.57
+-------------------------------------------
+4shockblast:
+
+Yeah, I thought this run wouldn't be bad, turns out it's impossible. The 11s on the archive is surprisingly good. I think I was going for the RL at first, which might make sense in 2P (not sure), but definitely doesn't in 3P. Grabbing it takes a lot of time and just running out of there is much quicker. Otherwise, I was just trying to get to the switch as fast as possible since that seems like the main thing preventing this run from being quick, while trying to get nice lineups along the way. Seems my side went basically perfect here, but maybe there's some time to save still for 10s in the future.
+
+GarrettChan:
+
+Why you're read my section while the protagonist is Dime :P
+
+Pretty funny that we thought it wouldn't be hard to get the run, but it did take some effort. Of course, me being the weird dude who is not actually in QuakeCon 2023 makes the lag issue worse.
+
+The problem on my side was, I can't blow up the Imp + 2 Zombiemen with the barrel because I pushed it from the exit side, but obviously, letting Dime to help with that is the better way to go, so I can blow the barrel in a better angle.
+
+Dime:
+
+Recorded at Quakecon 2023. Getting used to coop slowdown meant that a large portion of the runs were instantly thrown out or restarted. We got used to this improving the time down to 13 then 12 but a change of strategy was necessary to beat the previous record.
+
+My route starting out was to blast the first two imps as Shock aims to lower the red key with the switch followed by opening the red bars for Garrett and hit the switch. Eventually after numerous attempts it altered to myself hitting the switch and killing the final imp + hitting the exit.
+
+Got unretired from speedrunning. Was it worth????
+
+Aug 12 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan
+
+Author: Dime
+https://www.youtube.com/@NrGDime

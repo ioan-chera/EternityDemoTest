@@ -1,0 +1,15 @@
+              Scythe
+      Map 06: Pressure Point
+       Map Author: Erik Alm
+------------------------------------
+           sc06o786.lmp
+
+Nomo in 0:07.86
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Pro-tip: turn on vert mouse for this run, then the wallrun happens frequently. The extra slowdowns you get from values lower than MF50 is minimal, but it brigns you just a bit closer to the wall when you strafe50 alongside it, which is exactly what you need to get wallruns. I spent about 300 attempts on this in October, but gave it a random try today and got 8.66 and this in literally sub-5 minutes, under 100 attempts. Efficient. :^)

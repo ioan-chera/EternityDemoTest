@@ -1,0 +1,19 @@
+              Scythe
+       Map 08: Garden Base
+       Map Author: Erik Alm
+------------------------------------
+           sc08n889.lmp
+
+NM-Speed in 0:08.89 (Also Pacifist)
+
+    Kills   - 4%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Some awful movement after red key grab, but it's 8. After some time recording, I figured out the movements that got the best consistency with the jump, manc could block me/kill me anyway, though.

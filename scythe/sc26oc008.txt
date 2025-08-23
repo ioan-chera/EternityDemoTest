@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP26: Fear
+Category: NoMo Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 9.0.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:08.91
+-------------------------------------------
+4shockblast:
+
+Have to get the complete table. :^) Easy to get 1s below pacifist without anything in the way. :)
+
+GarrettChan:
+
+Well, we need to make up the missing Scythe Map26 run from last time :)
+
+Jun 8 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

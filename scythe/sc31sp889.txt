@@ -1,0 +1,19 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31sp889.lmp
+
+Pacifist in 0:08.89
+
+    Kills   - 1%
+    Items   - 0%
+    Secrets - 20%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Lost like .2-.3 seconds on the final door, but 7 doesn't look feasible.

@@ -1,0 +1,49 @@
+              Scythe
+       WAD Author: Erik Alm
+---------------------------------------
+          Episode 1 Nomo
+---------------------------------------
+    Level          Time
+---------------------------------------
+    Map 01	   0:10 :)
+    Map 02	   0:08 :))
+    Map 03	   0:18 :(
+    Map 04	   0:15 :|
+    Map 05	   0:15 :((
+    Map 06	   0:22 :))
+    Map 07	   0:02 :((
+    Map 08	   0:14 :)
+    Map 09	   0:21 :)
+    Map 10	   0:13 :(
+
+TOTAL:             2:18
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: First time I got the map 8 strafejump in an episode run, and the rest of the maps are pretty bad :/. Not an easy jump to do in a movie, and trying to line it up properly takes too much time, so I almost didn't want to improve this, but, seeing all the .0x runs, I feel that I have to do it.
+
+Map 01 (0:10.49): Didn't take runs that weren't 10 seconds, as it doesn't require very precise movement. 9 does, though, and it didn't happen too rarely, but rarely enough to make it too annoying to go for in a movie.
+
+Map 02 (0:08.83): 8 is the best I can do in a movie.
+
+Map 03 (0:18.63): Usually, I'd get 17 on this map, so I'm not happy at all with 18. Really massive screwup at the blue bars.
+
+Map 04 (0:15.60): Didn't get 14 too often here, lots of places with easy bumps. 15 is fine for a movie run.
+
+Map 05 (0:15.06): Got stuck on the exit door and lost a second. Terrible time (and .06!).
+
+Map 06 (0:22.94): 22 is best I ever did in episode run. Usually, I'd get 23. Wallrun jump is way too hard for episode run, on runs after this, I only attempted it if my early level times were bad.
+
+Map 07 (0:02.46): Another bad time, 1 is easy enough in an episode run
+
+Map 08 (0:14.03): Happy I did the jump at all, but another bad time because .03.
+
+Map 09 (0:21.60): Second under single-level time, so pretty good.
+
+Map 10 (0:13.00): Fucking .00. I had 12s before in runs without map 8 jump.
+
+Recorded August 04, 2014.

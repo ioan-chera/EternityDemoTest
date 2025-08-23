@@ -1,0 +1,24 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       32 - enoZ soahC
+Skill:     4
+Category:  UV Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      50%
+Items:     100%
+Secrets:   100%
+
+Time:      1:07
+
+Comments:  I planned this as a pacifist run, but the
+           cacodemon forced me to shoot him.
+           Some close moments here :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+28.07.2005

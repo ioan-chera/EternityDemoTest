@@ -1,0 +1,17 @@
+This is a tool-assisted speedrun!
+
+For https://dsdarchive.com/
+
+Author: RockyGaming4725
+Date: December 27, 2021
+
+IWAD: doom2.wad
+PWAD: scythe.wad
+Map(s): 3
+Skill: 4
+Category: UV Pacifist (+ Reality!)
+Sourceport (Tool): XDRE v2.21 (-complevel 2)
+Sourceport (Video): DSDA Doom 0.21.3
+
+Time: 1.26
+Comments: (None)

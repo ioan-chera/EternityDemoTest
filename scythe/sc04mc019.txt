@@ -1,0 +1,32 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP04: Lost Warehouse
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:19.63
+-------------------------------------------
+4shockblast:
+
+My route is basically UV-Speed with a bit of extra killing. So, 19s requires quite decent luck. The only bad thing here was the second spectre/shotgunner kill, I guess I lost a bit of time being blocked by the spectre afterwards, but that part rarely even went this well, so getting faster would be tough. Happy with 19, 18 would probably be pretty hard. Of course, nice to beat the old 3P max by a decent margin too.
+
+GarrettChan:
+
+Went pretty fluently but the route changed quite a bit during the process. The main nuisance on my side is that I need to avoid that forced switch of SG when using the PG to kill off the initial group of enemies.
+
+Then I actually need to pick up that shell box or I'll run out of shells. Usually I can be quick enough so entering through the narrow hallway won't block 4shock.
+
+Youtube Video: https://youtu.be/t3g_4CBzUAM
+
+Mar 12 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

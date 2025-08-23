@@ -1,0 +1,19 @@
+SC11NS031.TXT
+SC11NS031.LMP
+SC11NS031.ZIP
+
+Player : megasphere308
+Date : 2021-04-23
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP11 Sneak peak
+Source port : dsda-doom v0.18.0
+Time : 0.31.00
+
+Description :
+
+After some practice, I started by getting a lower 32 than the previous record by Angus.
+I decided to grind a bit more and finally get a 31.
+30 is definitely possible, but the level is extremely crowded.
+
+megasphere308@gmail.com

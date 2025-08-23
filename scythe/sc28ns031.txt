@@ -1,0 +1,17 @@
+SC28NS031.TXT
+SC28NS031.LMP
+SC28NS031.ZIP
+
+Player : megasphere308
+Date : 2021-05-29
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP28 Run from it
+Source port : dsda-doom v0.18.0
+Time : 0.31.91
+
+Description :
+
+Not the kind of map I'm good at, so... I played it since it's part of the wad :)
+
+megasphere308@gmail.com

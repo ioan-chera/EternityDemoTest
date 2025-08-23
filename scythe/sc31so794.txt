@@ -1,0 +1,21 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31so794.lmp
+          sc31so794alt.lmp
+
+Nomo in 0:07.94 (secret exit)
+
+Recorded with: DSDA-Doom 0.27.5 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+Time: 0:07.94
+
+Comments: 7s is really not that hard nowadays, even compared to 2021 when confused got his time. The normal exit is a 0.46, which yields 7s at 7.51, something that's fairly easy to get now (though I never got a 7.49).
+
+Mostly, I ran this not to beat the run but to test how easy it is, specifically for the fast exit. The fast door strat is something I wanted to see how it would be nowadays; it was a bit difficult, but with practice it started working, and then I realized I was probably doing it wrong. I was pressing and turning to the other strafe direction, for some odd reason, but that makes it much harder, and strafing and turning back to the original direction is much easier. You can see both in the two 7.94s I got, the primary one is the latter and has a 0.43 ending I believe, the first one is notable because it got a 0.37 ending, which is really rare (both confused and I forgot it was possible at all, but he did have it in his attempts back then at least once). I had one more 7.94 on my other PC, but I forgot to upload it anywhere, so not including it.
+
+7.91 should be relatively free, 7.89 is probably the goal, beyond that would be very hard I think still. But I got my fast door practice in and some understanding of how to execute them, which is all I really needed here. :P

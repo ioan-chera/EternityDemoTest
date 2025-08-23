@@ -1,0 +1,16 @@
+Iwad: DOOM2.wad
+Pwad: SCYTHE.wad
+Port: Crispy Doom v5.9.2
+Map: 30
+Skill: 4
+Category: UVspeed
+
+Time: 37.83
+
+Author: BaileyTW
+
+Comment: Was challenged to do this map under par. There isn't exactly a par for this and the record is above the
+default par of 30, so I thought just any ole good time on this map would be okay. Saw that I got close to one of the
+times posted for this map and decided to keep trying to get a lower time. Lost some time to bonks on this map but saved
+in being blocked very little so this is about the best I'm getting for now. The beginning of this map has been made less
+scary to me now at least.

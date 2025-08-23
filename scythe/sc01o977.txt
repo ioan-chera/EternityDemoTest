@@ -1,0 +1,15 @@
+              Scythe
+        Map 01: Get Going
+       WAD Author: Erik Alm
+------------------------------------
+           sc01o977.lmp
+
+Nomo in 0:09.77 (strafe40 only)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Only the run to the red key bars is really suitable for strafe50, so it really wouldn't save much time (I got 9.74 with strafe50, but I'm not bothering to optimize that).

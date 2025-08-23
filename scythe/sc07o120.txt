@@ -1,0 +1,15 @@
+              Scythe
+          Map 07: Deadly
+       Map Author: Erik Alm
+------------------------------------
+           sc07o120.lmp
+
+Nomo in 0:01.20
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: I did 1.23 awhile back and lost track of the demo, found it in my XDRE2 folder, but I had already started DSDA-Doom attempts at this, and uploading a demo from the XDRE folder feels weird (pretty sure it's non-TAS since it doesn't seem to have been edited, but eh). It was a pain to get, but this happened soon. I started getting 1.26 often, idk how I got 1.23 back then, but 1.20 happened after I realized mid-air turning after the wallrun would mean I keep the wallrun after the jump and get a bit quicker. I bet faster is possible, but it's a thankless grind. :)

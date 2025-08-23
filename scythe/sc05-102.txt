@@ -1,0 +1,22 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       05
+Skill:     4
+Category:  UV Max
+Exe:       prboom 2.2.6 -complevel 0
+
+Kills:     100%
+Items:      50%
+Secrets:   100%
+
+Time:      1:02
+
+Comments:  I hate spectres and I hate this map. I got some doubts that I could beat
+           1 minute barrier ecspecially when I am not sure if my route is really
+           the fastest one.
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+
+29.10.2006

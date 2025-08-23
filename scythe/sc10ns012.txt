@@ -1,0 +1,18 @@
+SC10NS012.TXT
+SC10NS012.LMP
+SC10NS012.ZIP
+
+Player : megasphere308
+Date : 2021-04-23
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP10 The lords
+Source port : dsda-doom v0.18.0
+Time : 0.12.34
+
+Description :
+
+Congrats to 4shockblast for his sub 12... I feel like I can't improve my time more on this map.
+The switch press is really easy.
+
+megasphere308@gmail.com

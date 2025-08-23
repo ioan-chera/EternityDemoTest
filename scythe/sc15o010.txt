@@ -1,0 +1,11 @@
+WAD: Scythe
+MAP: MAP15: Blood Bath (normal exit)
+Time: 0:10.86
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 23, 2013
+
+Easy improvement, got this in less than 5 minutes, and I'm not bothering
+improving this either.
+
+--Doomdaniel95

@@ -1,0 +1,10 @@
+player: aconfusedhuman
+date: 24-7-22
+iwad: DOOM2.wad
+pwad: SCYTHE.wad
+map: 18
+category: pacifist
+time: 6.63
+comments: most hardest and epic run ever :slight_smile:
+
+recorded with dsda-doom 0.24.1

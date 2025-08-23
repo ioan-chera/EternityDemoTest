@@ -1,0 +1,36 @@
+Wad: Scythe
+Map: 20 - The Starport
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 3:00
+Time: 2:50
+Category: UV max
+
+****************
+* Kills:  105% *
+* Items:  50%  *
+* Secret: 100% *
+****************
+
+******************************************************************************************************************
+
+It took me a while to finish this map with 2:50 faster than Erik Alm who use 2:52. Well, some missed shots and
+mistakes in the beginning, or else I can finish it 5 seconds faster, anyway a few happy infighting at the start 
+saves me some time.
+
+It's good for the author to put the cyberdemon as the boss of this level. If you look carefully, that cyberdemon
+areana is just the intermission screen, that "S" stands for the wad name "Scythe". That cyberdemon do really a 
+stupid noob, I can kill him easily with no stress.
+
+Fun ending also, I like the imps rockets slaughter. And yep, suicide ending too! A blast and go to hell lol.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 10/04/2011 in People's Republic of China

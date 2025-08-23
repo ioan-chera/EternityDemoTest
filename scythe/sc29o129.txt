@@ -1,0 +1,15 @@
+WAD: Scythe
+MAP: MAP29: Hell on Earth
+Time: 1:29.86
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: June 25, 2014
+
+Heh, it's still 1:2x even though it's ugly in a few spots. I tried a bit, but couldn't do any better than this. SR40 only.
+
+It might be possible to grab the YK without lowering the platform, but I'm bad at KG tricks so I don't know if it'd work or not. Oh well, this can still serve as a benchmark
+if someone wants to try the long route (or if the YK grab isn't possible).
+
+Enjoy!
+
+--Doomdaniel95

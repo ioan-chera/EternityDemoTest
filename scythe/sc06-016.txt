@@ -1,0 +1,22 @@
+Runner: Zero-Master
+WAD: SCYTHE.wad
+Category: UV-Speed
+Map: 06
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 4%
+Items    : 50%
+Secrets  : 0%
+Time     : 00:16.43
+
+Description: 
+This trick was done by 4shockblast in his nomo demo, sc06o010, 
+which is done very quickly, and obviously also possible for UV-speed. So, while
+the time is not perfect, this demo shows a consistent setup for this trick,
+which can be used for episode\movie runs to save time.
+
+This trick is very very precise when it comes to position, the smallest diviation
+from the correct position will cause this to fail, though there might be other
+consistent setups as well. I think it saves around 12 seconds if done instantly, 
+but the main idea is that the expected time to get the right position and run across
+is less than 12 seconds, so you will save time.

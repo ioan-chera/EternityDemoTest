@@ -1,0 +1,19 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28n026.lmp
+
+NM-Speed in 0:26.80
+
+    Kills   - 36%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Took about 5-10 minutes, my movement up to the demons is slowish (on fast runs I can hear the second set of zombiemen teleport in on the other side, here I didn't hear them, so they teleported in while I was rounding the corner). I had a bump and some sloppy corners, so maybe .2-.3 seconds lost. Good health, though, and no mistakes later on.

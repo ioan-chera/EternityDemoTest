@@ -1,0 +1,19 @@
+              Scythe
+      Map 04: Lost Warehouse
+       Map Author: Erik Alm
+------------------------------------
+           sc04p015.lmp
+
+Pacifist in 0:15
+
+    Kills   - 3%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Kinda ugly, 14s is probably possible, luck would need to be involved with monster positioning.

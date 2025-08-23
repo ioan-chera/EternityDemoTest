@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map30: Fire and Ice
+Category: NoMo 100S Co-op
+Player 1: 4shockblast (Green)
+Player 2: Garrett (Indigo)
+Exe: Woof 12.0.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:30.83
+-------------------------------------------
+4shockblast:
+
+Because Garrett is done early, it's really all about how fast I do the regular nomo route. 29 is too far since you need to do the one-rocket Romero for much chance at that, and dealing with that is painful, so 30 was the goal, and it's not too hard, even with the lag we had for this run.
+
+GarrettChan:
+
+Didn't plan to do this run from the start, but it's a good one for me to know the map for the real thing.
+
+Dec 7 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

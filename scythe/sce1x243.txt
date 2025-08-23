@@ -1,0 +1,91 @@
+WAD: Scythe
+Filename: SCYTHE.wad
+Tags: UV Max, 2P, Coop, TAS
+Walkthrough: Episode 1 (Maps 1-10)
+Source port: XDRE 2.20
+Used complevel: -complevel 2
+
+This is a tool-assisted speedrun that completes Episode 1 of Scythe WAD quickly. It was recorded frame-by-frame in XDRE 2.20. 
+
+Demo playback:
+1) Make a shortcut of glboom-plus.exe
+2) Open the Properties of the shortcut
+3) Insert commands at the end of its Target field, so it would look similar to that:
+D:\prboom-plus-2.5.1.4\glboom-plus.exe -iwad doom2.wad -file SCYTHE.wad -playdemo sce1x243.lmp
+
+Alternatively, you can drag and drop the needed iwad, wad and lmp into glboom-plus.exe and it will play the demo from the beginning.
+
+YouTube video: https://www.youtube.com/watch?v=Y_64Yua2lLk
+
+sce1x243-2.lmp is inclued in case Player 2's death in the end is not acceptable. Then don't include the video on dsdarchive, since it's different.
+
+------ Comments ------
+
+Looks like it's the first TAS Coop run in UV-Max category which beats a sequence of maps, not an individual one. At least, I haven't found one.
+
+I caught some inspiration to try something new and decided to make this kind of run. Actually, I tried doing it once (https://www.youtube.com/watch?v=2hfclj3JaAc), but it was too complicated in terms of time/progress. I decided to control 2 players instead of 4 and Scythe was picked up as an easy WAD because the maps were small enough, so I could be sure I wouldn't abandon it due bad planning or the lose of inthusiasm. 
+
+Smoothness above speed and sharp turns.
+
+- Map 1:
+Well, the objective here was to collect all the weapons, so I wouldn't lose much tempo on weapon switching on later maps. On the other hand, I had to pick up a chainsaw which, in contrast, made berserk sequences less dynamic.
+
+I wasn't feeling good for spending a rocket on 2 imps, but it turned out later the rockets were not a big problem.
+
+- Map 2:
+Here I felt the lack of ammo for the first time because it's impossible to pick up a weapon in multiplayer if you have it already. Fortunately, chainguns helped a lot, thanks to 50 starting bullets.
+
+A tandem of Berserk and Chaingun works quite alright. No need for messing around trying to get a high damage for punches. 
+
+- Map 3:
+It took quite a lot of time to plan the actions. I was confused which monsters could be killed on the way to keys and switches without much time wastement.
+
+Also, it was the first map I had to redo because of the crappy closet where it takes ages for all monsters to get out.
+
+The only SSG on Map 3 was just in front of the exit switch, so only one player got it.
+
+- Map 4: 
+Another inconvenient placement. This time, it's the Plasma rifle. But both player had to pick it up because it was the only one in the whole episode and it gives one extra BFG shot.
+
+And I had to redo this map because I didn't expect that useless shotgun near the red key to be a secret!!  
+
+- Map 5:
+This map was made for co-op. 2 separate sections, 2 players and they join each other in the end. The random was not on my side this time. When I finished that map, I breathed a sigh of relief.
+
+Love that moment when on the right section in the switch room, an imp threw a fireball at the barrel, it exploded, pushed another barrel and it killed that imp.
+
+- Map 6: 
+Another map which took quite long to plan. Luckly, I found that the bridge that takes you to the room with hell knights and shotgunners takes too long to raise up and lift you up.
+
+The conclusion was respective: one player takes a berserk and wallruns across the pit and another one cleans everything on the ground and uses that sluggish lift to catch up.
+
+Ending sequence was great. Player 2 blasts from the BFG and Player 1 kills the remaining monsters. It was unexpected for me that Player 1 would reach the final room in time.
+
+- Map 7:
+BFG came in handy to destroy 4 mancubi to launch the gate for arachnotrons. Too bad I couldn't kill all the pairs in 5 rockets, not in 6, like usual.
+By this time, the demo was lagging already it took longer to reverse individual parts of it. XDRE savepoints became useless because they randomly spoil the input while you build it. 
+
+- Map 8:
+Openning the gate was quite useful in co-op despite the obvious shortcut. I could have saved 1-2 secs if I wouldn't concentrate on mancubi at the beginning.
+Was a little upset for not killing all 6 chaingunners at once, even though it wouldn't save any time.
+
+- Map 9:
+Another map which I had to redo because of useless secrets.
+It was obvious that spending time on the blue key is not the fastest strategy. Fortunately, the boxes and the window near the yellow key lets one get to the switch without openning the blue door. Plasma gun had found its purpose.
+
+- Map 10:
+We'll keep on fighting till the end! 
+Was a little hard to roll high BFG ball damages.
+
+- Summary
+
+The planning could be better, I guess, but can't say for sure which moments I'd like to remake. I wish I could swap the players or share inventory between then.
+
+Placing secrets on visible area which the player could ignore because of unnecessity breaks the concept of "secrets" in Doom. They thought the secrets MUST be placed somewhere for God's sake. As a result, I had to rebuild input for several maps.
+
+Time spent on building: ~50 hours. Could have built twice as much if nothing would go wrong.
+Dates: November 23 - December 16, 2021
+
+Author: Dmitry "Dimon12321" Moskovchenko
+Doomworld profile: https://www.doomworld.com/profile/26471-dimon12321/
+YouTube channel: https://www.youtube.com/user/Dimon12321/videos

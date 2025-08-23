@@ -1,0 +1,22 @@
+IWAD: DOOM2.wad
+PWAD: scythe.wad 
+Map: 02
+Map title: Punchline
+Skill level: Ultra-Violence
+Category: UV -respawn 
+Time: 1:26
+Date Recorded: Sunday, 7th May 2017
+
+Runner: Jakub Puk
+Location: Ipswich, United Kingdom
+Email: kuba27131@gmail.com
+
+Sourceport Used: PrBoom-Plus v2.5.1.5
+
+Respawn Information:
+Kills - 100%
+Secrets - 100%
+
+Info:
+Same difficulty as Max, but this took me multiple attempts as I kept constantly leaving the map with 96% kills as I usually miss a Zombieman on the platform in the yellow key room. 
+

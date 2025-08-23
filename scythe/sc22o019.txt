@@ -1,0 +1,15 @@
+              Scythe
+          Map 22: Despair
+       Map Author: Erik Alm
+------------------------------------
+           sc22o019.lmp
+
+Nomo in 0:19.91
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Much cleaner movement than my 20 second demo; the movement here is similar to map 21 with the non-orthogonal staircases and walls, except, thankfully, much easier to get an improvement. 18 is probably not feasible without incorporating some of the tricks, but I couldn't get the glide to work quickly (and it doesn't save much time anyway), and the death slide still seems impractical non-TAS (and, once again, it doesn't save much time as getting the rocket launcher requires a detour).

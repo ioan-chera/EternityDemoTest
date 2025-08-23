@@ -1,0 +1,23 @@
+Pwad:      Scythe (scythe.wad by Erik Alm)
+Map:       map24 (Hatred)
+Category:  UV Speed/Pacifist
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.0.8 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      0:23
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+jongo says this trick comes from method, so I guess credit goes to both of them. :)
+The run was in my todo list for at least a year, but that little step jump is pure
+madness, the rj is trivial in comparison.
+Maybe I improved generally a little bit, it didn't take that much grinding today.
+It's also an all-in thing, any mistake means a failed run, that's why the 1st exit
+looks polished already. So glad it's not a low 24, heh. 
+
+Recorded:  February 3rd, 2011

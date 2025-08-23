@@ -1,0 +1,9 @@
+WAD: Scythe
+MAP: MAP08: Garden Base
+Time: 0:20
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Feels good to finally get 20! :D
+
+--Doomdaniel95

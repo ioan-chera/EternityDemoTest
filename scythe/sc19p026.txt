@@ -1,0 +1,40 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      19 - "AD"
+Skill:     4
+Category:  Pacifist
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:26
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     3%
+           Items    50%
+           Secrets   0%
+
+Comments:
+
+Here is a pacifist, too. This run brings a new meaning to the 
+word "annoying", as any monster along the way can ruin the 
+run for you. Mostly the Arch-Vile, as usual, but man how I 
+grew to hate those zombiemen. >:-( This took me at least 200 
+attempts (I wasn't counting, but I'm pretty sure of it), and 
+my second best was "only" a low 0:29.
+
+The ending looks wierd, because I ran too close to the ledge 
+for the second AV jump. Fortunately, I got onto it anyway, and 
+didn't lose that much time.
+
+Awakening the monsters before riding the lift is sometimes 
+helpful (i.e., some monsters move out of the way), and other 
+times counterproductive. ;-)
+
+Including a Ronge style demo, sc19haha.lmp featuring the 
+bouncing corpse. :-)
+
+Kristian Ronge
+
+zuckuss@gmail.com

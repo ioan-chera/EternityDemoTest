@@ -1,0 +1,23 @@
+sc04-040.txt
+  sc04-040.lmp - Ultra-Violence Max
+
+  Recorded using prboom-plus 2.5.0.7 with Doom 2 compatibility (-complevel 2)
+
+  Scythe - map 04 - Lost Warehouse (by Erik Alm)
+
+  ================
+  Kills      100%
+  Items        0%
+  Secrets    100%
+  ----------------
+  Time       0:40
+  ================
+
+  Description:
+  I felt like recording a maxkill for a change, but I managed to choose this
+  frustrating map that plays more like a speedrun. Taking all the pigs down
+  in 2 SG shots is just luck.
+
+author: dew
+e-mail: dewww@seznam.cz
+recorded on 27. 8. 2010

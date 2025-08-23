@@ -1,0 +1,18 @@
+
+Recorded using glboom-plus 2.5.1.4 with Doom II compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 13
+Skill: UV
+Category: UV-Max
+Time: 1:07
+
+Author:   Kyle McAwesome
+Date: 11/27/2017
+
+Comments:
+No SSG on the map means the weapon choices are rather interesting.  Unfortunately, much of what goes into a good time is seemingly out of the player's control, as the monsters take forever to teleport in and good monster grouping/infighting is required.  I got several 1:08's so I thought it would be easy to go lower, but it took another 4 hours to get that last second off after the first 1:08.  Pretty ugly demo (a few wasted rockets, missed shots, get blocked by zombieman in final room, etc), but like I said time depends more on monster behavior.
+
+In terms of route changes, I opt for the berserk instead of the first green armor to take out the pinkies and I use plasma for the small horde that spawns outside the yellow key.  I tried doing the red key grab and then proceeding from there in order to give monsters more time to spawn, but the best I got was 1:15.

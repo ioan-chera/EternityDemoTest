@@ -1,0 +1,15 @@
+Pwad:      scythe.wad
+Pwad name: Scythe
+Map:      26
+Skill:     4
+Category:  UV-Max
+Exe:       dsda-doom-0.27.5
+
+Time:      2:30.14
+
+Uses advanced HUD.
+-complevel 2
+
+Author:    Blue Cultist
+
+Comments: I already had an interest on this map but still wasn't planning to do any time soon. I don't have time to grind this shit, like 3 hours to get this and lovely line skip at the exit line costing me 1 billion seconds, love this game!! 

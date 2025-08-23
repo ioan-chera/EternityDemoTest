@@ -1,0 +1,17 @@
+              Scythe
+        Map 17: Book Lords
+       WAD Author: Erik Alm
+------------------------------------
+           sc17o025.lmp
+           sc17o026.lmp
+
+Nomo in 0:25.89
+Nomo in 0:26.91 (strafe40 only)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Took much longer than it should have. Four 26.03s before this.

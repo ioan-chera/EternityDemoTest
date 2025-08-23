@@ -1,0 +1,24 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       06 - Pressure Point
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:      50%
+Secrets:     0%
+
+Time:      2:30
+
+Comments:  First exit. Ok demo, but with bad start and finish.
+           At least it's 1:15 faster than Gusta ;)
+           Two minutes would be nice.
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+02.05.2005

@@ -1,0 +1,15 @@
+==================================================
+Date     : 21-10-24
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP28 - Run From It
+Time     : 1:23.91
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA. 
+
+Notes: My best run had been 1:27.54 for a while and it was very rare to get set up for the lineskip as quickly as in this demo, so despite the collision with the wall near the end, I don't believe it is worth me trying for a faster run overall.
+Thanks to PartyCrasher for finding the lineskip initially, and Starduster, whose instructions helped me execute it in training. I then adapted those instructions according to what felt more repeatable for me. When playing slowly and carefully I have a high success rate (well over 50%) at skipping the line, however rushing for the speedrunning became quite frustrating.

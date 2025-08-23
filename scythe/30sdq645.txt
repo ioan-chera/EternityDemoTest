@@ -1,0 +1,140 @@
+======================================================================
+**********************************************************************
+                               Scythe
+                             Done Quick
+                 The Ultra-Violence TAS Speed Movie
+                      The Ultimate (4th) Edition
+**********************************************************************
+======================================================================
+______________________________________________________________________
+Map    Level    Episode       Time  Kills  Items  Secrets  30scx746
+======================================================================
+                Episode I          
+----------------------------------------------------------------------
+Map01 - Get Going!          _  0:08    4%     0%     0%     -0:01
+Map02 - Punchline           _  0:06    3%    50%     0%     -0:02
+Map03 - Up and Around       _  0:14   12%     0%     0%     -0:05
+Map04 - Lost Warehouse      _  0:13   21%     0%     0%     -0:04
+Map05 - Slimy Tunnels       _  0:10   16%     0%   100%     -0:02
+Map06 - Pressure Point      _  0:20   36%     0%     0%     -0:02
+Map07 - Deadly              _  0:01    0%     0%   100%     -0:00
+Map08 - Garden Base         _  0:07    0%     0%     0%     -0:01
+Map09 - Computer Storage    _  0:18   27%     0%     0%     -0:02
+Map10 - The Lords           _  0:10    0%    50%   100%     -0:01
+______________________________________________________________________
+          Total Episode I   _  1:47                         -0:20
+======================================================================
+                Episode II  _  1:47                         -0:20
+----------------------------------------------------------------------
+Map11 - Sneak Peak          _  0:03    0%     0%     0%     -0:01
+Map12 - Walk in the Park    _  0:10    9%    50%     0%     -0:02
+Map13 - Subverted Base      _  0:18   22%     0%     0%     -0:02
+Map14 - Power Outage        _  0:21   35%    50%     0%     -0:04
+Map15 - Blood Bath          _  0:08    7%     0%     0%     -0:01
+Map16 - Burial Grounds      _  0:14    4%     0%     0%     -0:02
+Map17 - Book Lords          _  0:19    2%    50%   100%     -0:03
+Map18 - MS Futura           _  0:04    4%    33%     0%     -0:03
+Map19 - 3000 AD             _  0:11    4%     0%     0%     -0:05
+Map20 - The Starport        _  0:34   31%    75%     0%     -0:03
+______________________________________________________________________
+           Toatl Episode II _  2:22                         -0:26
+======================================================================
+                 Episode III_  4:09                         -0:46
+----------------------------------------------------------------------
+Map21 - Solitude            _  0:09    0%     0%   100%     -0:00
+Map22 - Despair             _  0:17    7%    33%     0%     -0:01
+Map23 - Anger               _  0:03    1%    66%   100%     -0:00
+Map24 - Hatred              _  0:18    2%    16%     0%     -0:01
+Map25 - Envy                _  0:09    2%     0%     0%     -0:01
+Map26 - Fear                _  0:23    3%    13%   100%     -0:02
+Map27 - Terror              _  0:08    0%    30%     0%     -0:01
+Map28 - Run From It         _  0:22   36%     0%     0%     -0:05
+Map29 - Hell on Earth       _  0:18    1%     0%     0%     -0:03
+Map30 - Fire and Ice        _  0:29    3%     7%     0%     -0:01
+______________________________________________________________________
+           Total Episode III_  2:36                         -0:15
+======================================================================
+                 Total Time _  6:45 No one can beat that:0) -1:01
+======================================================================
+Recorded using GLBoom-Plus 2.5.0.2 & Doom Replay Editor 2.0
+Strafe50 is always ON
+======================================================================
+Playback with original Doom2 v1.9:
+  doom2.exe -file scythe.wad -playdemo 30sdq645.lmp 
+or  with   any  other  fully  compatible  doom  ports,  such  as
+PRBoom 2.2.3 (or later) or Eternity engine: (-complevel 2)
+  prboom.exe -iwad doom2.wad -file scythe.wad -playdemo 30sdq645.lmp
+  Eternity.exe -iwad doom2.wad -file scythe.wad -playdemo 30sdq645.lmp
+======================================================================
+Description:
+  Hi guys, this is improved version of my Scythe UV TAS speed movie.
+
+                                     Btw I'm a simple Russian guy so I
+                                     am not strong in English. Please 
+                                     forgive me for any mistakes.
+
+ Map 05 - Slimy Tunnels :
+  Barrel boost trick taken from jongo's 11sc0152.
+
+ Map 10 - The Lords :
+  This map took 9 fucking hours. The hardest improvement ever.
+  
+ Map 11 - Sneak Peak :
+  And this map took only 50 minutes O_O. 3sec are impossible w/o
+  zombieman co-op.
+  
+ Map 12 - Walk in the Park :
+  I always knew, that this route will work.
+  
+ Map 13 - Subverted Base :
+  Red KG trick took about 2 hours, as always.
+  
+ Map 15 - Blood Bath :
+  8sec are possible only with I-wasn't-stuck-when-I-teleported trick.
+  One of the hardest trick ever btw.
+  
+ Map 16 - Burial Grounds :
+  Glide saved 1sec.
+  
+ Map 17 - Book Lords :
+  RJ made 19sec possible.
+  
+ Map 18 - MS Futura :
+  2nd glide idea came from cack_handed's sc18o016.
+  
+ Map 19 - 3000 AD :
+  Thanks to Method for this RJ trick.
+  
+ Map 21 - Solitude :
+  Impossible to improve.
+  
+ Map 22 - Despair :
+  Glide saved 1sec.
+  
+ Map 23 - Anger :
+  Impossible to improve.
+  
+ Map 24 - Hatred :
+  SSG and better yellow key RJ saved 1sec.
+  
+ Map 26 - Fear :
+  Epic fucking luck with revenants and both AVs.
+  
+ Map 28 - Run From It :
+  Blue key RJ is impossible w/o LS co-op.
+  
+ Map 29 - Hell On Earth :
+  Better AV cooperation.
+  
+ Map 30 - Fire and Ice :
+  RBs and AVJump saved 1sec.
+
+======================================================================
+Author    :Maxim "Akse" Abreev, Russia, Moscow
+E-mail    :ffx2lynx@mail.ru
+          :MaxiAkse@rocketmail.com
+Youtube   :http://www.youtube.com/MaxiAkse *
+          *note: visit my channel for more info about my demos.
+======================================================================
+
+25 nov 2009

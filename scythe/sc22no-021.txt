@@ -1,0 +1,11 @@
+WAD: Scythe
+MAP: MAP22: Despair
+Time: 0:21.66
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Comments:
+
+20 shouldn't be too hard to get.
+
+--Doomdaniel95

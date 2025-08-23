@@ -1,0 +1,16 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      SCYTHE.WAD
+Map:       MAP15
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.22.1 -complevel 2
+
+Time:      1:28.37
+
+Author:    kmc
+
+Comments:
+I  mostly followed tatsurd-cacocaco's route, but I jump from rk area instead of using the door to get to plasma secret.  I got a few demos in the 1:34-1:40 range, but always with some slowdowns.  The main reason this attempt was so much faster is the nice rev grouping just before I go into the bk area.  I've also never left the vile alive, so I'm glad that didn't really cost any time.  267 attempts.

@@ -1,0 +1,19 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31-034.lmp
+
+UV-Speed in 0:34
+
+    Kills   - 11%
+    Items   - 6%
+    Secrets - 20%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Just wanted to make sure there's a run using the faster teleport run here, 8s faster than previous record. Dislike this run, though, so I didn't put a crazy amount of time into optimization, and I just wanted to have a run with not too many blocks. I had pretty good luck here up to the demons where I got blocked a bit, and I think the final archvile lost me enough time to lose a second as this is a pretty low 34. I had decent luck getting into the room before that, though, although that could probably be faster too. 33 or 32 or lower may be possible.

@@ -1,0 +1,23 @@
+WAD: Scythe
+MAPS: MAP11-MAP20
+Time: 4:55
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Woohoo! I'm dancing a jig right now because I finally made it under 5 minutes!
+Here are the levels, times, and ratings [:), :|, or :(]
+
+MAP11 (Sneak Peak): 0:16 	:| (0:15 is possible)
+MAP12 (Walk in the Park): 0:15	:) (Not much improvable)
+MAP13 (Subverted Base): 0:31	:) (I know I can do 30, but I also get lots of 32's)
+MAP14 (Power Outage): 0:28	:) (My best personal time)
+MAP15 (Blood Bath): 0:13	:) (Not much improvable)
+MAP16 (Burial Grounds): 0:27	:) (Not much improvable, my best personal time)
+MAP17 (Book Lords): 0:31	:| (I think 0:30 is possible)
+MAP18 (MS Futura): 0:16		:) (My best personal time)
+MAP19 (3000 AD): 1:20		:) (My best personal time)
+MAP20 (The Starport): 0:39	:) (My best personal time--yes!! under 40!)
+
+Happy Dooming everyone!!! :D
+
+--Doomdaniel95

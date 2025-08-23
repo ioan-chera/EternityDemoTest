@@ -1,0 +1,16 @@
+Pwad: scythe.wad   
+Map:      8
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      1:54
+
+-complevel 2
+
+Author:	   j4rio
+
+
+Thought below 2 would be fine time, got it with some margin to spare
+fairly quickly. Also fiddled around with max route, jumping to the
+exit platform immediately, but couldn't really get anything below 2
+in practise runs, as it kinda hampers infights quite a bit.

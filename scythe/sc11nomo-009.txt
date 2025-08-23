@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe.wad
+Pwad name: Scythe
+Maps:      11
+Skill:     4
+Category:  Nomonsters
+Exe:       prboom+ v.2.5.0.6 -complevel 2
+
+Time:      0:09
+
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+
+Comments:  Jumping back from RL pillar saves a lot of time.
+           0:08 would be not hard to do for doom perfectionists,
+           i made it quickly with 50% reduced speed, see sc11nomotas-008.lmp.
+           And i think 0:07 TAS is possible too.

@@ -1,0 +1,14 @@
+==================================================
+Date     : 07-11-23
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP22 - Despair
+Time     : 2:41.03
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA. 
+
+Notes: The revenants are the most annoying enemies to deal with, but also the pressure of fighting the cyberdemon so late in the map really demands high skill with the BFG. GarrettChan used 4 BFG shots on the cyberdemon in his 3:16 demo; I decided to budget 3 shots for him, allowing me to use one on the Pain Elemental early on. I'm sure some expert player could use just 2 shots on the cyber reliably, but I'm just not that good in such a cramped environment, where just a little splash damage ruins the run.

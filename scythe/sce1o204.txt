@@ -1,0 +1,49 @@
+              Scythe
+       WAD Author: Erik Alm
+---------------------------------------
+          Episode 1 Nomo
+---------------------------------------
+    Level          Time
+---------------------------------------
+    Map 01	   0:09 :)
+    Map 02	   0:08 :)
+    Map 03	   0:16 :)
+    Map 04	   0:14 :|
+    Map 05	   0:12 :)
+    Map 06	   0:22 :)
+    Map 07	   0:01 :))
+    Map 08	   0:10 :(
+    Map 09	   0:20 :)
+    Map 10	   0:12 :)
+
+TOTAL:             2:04
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Pretty tough to get a time like this. Over time, a lot of maps got fairly consistent with practice (even the map 2 strafejump), but 8 strafejump is tough to do quickly, and that went through a lot of different strats until I got this one (which is the most consistent, but still difficult). 2:03 would be a very good time (with a 9 second map 8), sub-2:03 would require some single-level run times or the map 6 wallrun jump.
+
+Map 01 (0:09.74): Over time, 9 became pretty easy, I got it regularly. 9.57 was my best time.
+
+Map 02 (0:08.43): Best I can do is 8 seconds here, got as low as .17, but never below that (and trying the quick switch hit is too insane :).
+
+Map 03 (0:16.63): After I did the single-level run in 15, 16 became more consistent here, still lots of places to bump (and screw that first switch). Best time was .17, never got 15 in an episode run.
+
+Map 04 (0:14.29): I got 13 twice over my attempts here, so this is probably the most realistic map aside from 9 to get equal to a single-level run, but it's pretty tough.
+
+Map 05 (0:12.80): Least consistent map for me, the uneven floors suck.
+
+Map 06 (0:22.09): 21 is definitely possible, but didn't happen usually because I got bumped by barrels like in this demo. Rocketing the barrels is dangerous. I only tried the wallrun jump on demos where I lost a second in a previous map, I got a wallrun once but didn't make the jump.
+
+Map 07 (0:01.66): Nothing to say here.
+
+Map 08 (0:10.94): This should be 9 seconds, but it's barely 10. Slow setup and a ton of bumps afterwards, but it's a very tough jump to get quickly. Best opportunity for improvement is this map, may get back to this run in the future.
+
+Map 09 (0:20.86): Awful bump at the end, but still 20. 19 would probably be possible to grind for if this map weren't second-to-last in the run and after the map 8 strafejump.
+
+Map 10 (0:12.51): Had a 2:03-pace run where I missed the switch (couldn't hear the sound because I was listening to music, heh).
+
+Recorded November 26, 2014.

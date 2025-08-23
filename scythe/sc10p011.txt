@@ -1,0 +1,21 @@
+sc10p011.txt
+  sc10p011.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.6 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 10 - The Lords (by Erik Alm)
+
+  ===================
+  Kills            0%
+  Items           50%
+  Secrets        100%
+  -------------------
+  Time        0:11.89
+  ===================
+
+  Description:
+  I'm at loss of words, so I made an explanatory picture using a currently popular meme.
+
+author: dew
+e-mail: dewww@seznam.cz
+24. 3. 2010

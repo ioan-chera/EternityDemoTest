@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Scythe
+Pwad name: scythe.wad  
+Maps:      1
+Skill:     4
+Category:  UV -NoMonsters TAS 
+Exe:       prboom-plus.exe
+
+Time: 0:09  
+       
+
+
+Author:    ClumsyDoomer   
+Email:     baymurzin2011@yandex.ru or u7550@e66.ru
+
+Comments: Hehe, rocket launcher rules :) But UV Speed (or NM Speed) is easier. ;\
+

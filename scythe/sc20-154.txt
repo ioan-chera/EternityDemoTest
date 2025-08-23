@@ -1,0 +1,16 @@
+
+Recorded using glboom-plus 2.5.1.4 with Doom II compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 20
+Skill: UV
+Category: UV-Max
+Time: 1:54
+
+Author:   Kyle McAwesome
+Date: 3/3/2019
+
+Comments:
+Kind of lazy demo. It can go lower (I didn't play as aggresively around cyber as I could have), but I don't like the map very much.  One strat I tried was to leave the hellknights alive and than shoot rockets up into the window later, but they don't always go by the window and it ends up being slower.

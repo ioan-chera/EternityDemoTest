@@ -1,0 +1,19 @@
+              Scythe
+      Map 13: Subverted Base
+       WAD Author: Erik Alm
+------------------------------------
+           sc13o018.lmp
+           sc13o026.lmp
+
+Nomo in 0:18.97
+Nomo in 0:26.49 (no keygrab)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Another super hard one, probably tied with map 21 for hardest Scythe nomo I've done. Spent hours on this one (likely 8-10 in total, if not more), and usually I'd either not exit or get times above 19.20. Grab is super inconsistent without a setup, and it's variably inconsistent; at times, I'd have it happen relatively often, and then I could have segments of time where I'd get it one in something like 50 tries and I had no idea what I was doing wrong. Even getting it rarely helped, as I'd often just bump the stairs on my way to the red door, which is a mistake I was never able to get rid of. The rest of the run is nontrivial too, quick blue keygrabs didn't happen too often (this one was a bit slow as well), then I'd have to precisely turn to go back to the blue door, then running out of the room with the yellow key cleanly was difficult, and going through the staircase, rounding the red door again and rounding the corner to the yellow door was all difficult to perform cleanly. Glad that the final result at least looks quite nice.
+
+Also a no keygrab route run included in 0:26 (a second faster than the time I included with my old nomo), .49 so maybe 25 is possible, but I've had enough grinding on this map.

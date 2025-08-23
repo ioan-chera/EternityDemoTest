@@ -1,0 +1,15 @@
+              Scythe
+          Map 23: Anger
+       Map Author: Erik Alm
+------------------------------------
+           sc23o022.lmp
+
+Nomo in 0:22.54
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Guess I wasn't trying at all with my last demo, this wasn't very hard. I don't know if 21 is possible, but this time I actually don't know if I can do it.

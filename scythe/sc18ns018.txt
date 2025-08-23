@@ -1,0 +1,17 @@
+SC18NS018.TXT
+SC18NS018.LMP
+SC18NS018.ZIP
+
+Player : megasphere308
+Date : 2021-05-25
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP18 MS Futura
+Source port : dsda-doom v0.18.0
+Time : 0.18.63
+
+Description :
+
+Screw this jump and this mancubus :D
+
+megasphere308@gmail.com

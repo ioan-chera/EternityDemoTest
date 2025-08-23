@@ -1,0 +1,41 @@
+Game: Doom 2
+Pwad: Scythe
+Filename: sf31-333.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: 31 (I Dunno Torn)
+Exe/Port used: GLBoom 2.2.6.26 (PRBoom Plus) -complevel 2
+
+Totals:
+Kills      100%
+Items      20%
+Secrets    100% and (Time- 3:33)
+
+Comments: 
+Just another undone UV -fast.  Liked the map, so here's a demo for it.  Not too overwhelming, except perhaps in the beginning with all the hitscanners and the RSK room where all the imps teleport in.
+
+Strategy-wise, I fire a wake up shot when the level begins to get the hitscanners all bunched into the center area as much as possible before collecting the first 2 secrets.  This could come with a bad weapon change if I run over a SG after getting the 2nd secret, because I prefer to blow away one of the CG'ers with the SSG and claim their Chaingun for myself.  The SG can OHKO them in 1 hit, but it's not exactly an easy outcome, especially in this situation, so I avoid that.  With the CG, it's time to start mowing down the enemies here.  I make sure to grab one of the SG's early on so I'm not hit with a bad weapon change in the midst of battle.  Otherwise, it's CG o' rama on all the hitscanners, including the 4 CG'ers guarding a green armor.
+
+After getting that green armor, it's time to take on an archie that was just revealed in the center area.  Easy pickings with the SSG and plenty of cover too.
+
+Then it's time to move in a bit further into the level, where there's some bull demons, mancos, a few sniping imps and a HK, and, most importantly, archies in the cages.  There are two to deal with, 1 in each cage.  Thing is...you'll get burned easily if you rush it too much here.  I SSG out the closest manco (After the bull demons are dealt with obviously), then whip out the CG to take out the manco in back.  Not sure if this is the best strat for it, but I wasn't going to take any chances with the archies here.
+
+After it falls, I start running close to the wall on the HKs side.  That way, that archie won't attack me until I'm blasting my way thru a few more hitscanners.  The other one will attack me, but I get into cover before the attack hits.
+
+Once the hitscanners are dealt with, I blow away the HK and first archie with the SSG, then use the RL to take out the archie and imps on the other side, switching to the CG to clean out survivors after the archie falls.  I run over to the other side to grab the PG, ammo, and the Soulsphere, then proceed back to the central area from before with all those hitscanners I killed.
+
+I open up the 4th secret area, containing an invis. sphere and an archie.  The archie is easily dealt with.  I skip the invis., since I think it causes me more harm than good coming up here.  Switch is hit, then it's a mad rush to the other end of the room to blow the imps away and get through the door before it closes.  Aw joy, a BFG...which you'll never get cause there's a teleport line just before you can get it.  No worries though, as this teleport brings you into the room with the RSK in it.  Of course, there are several enemies waiting for you, including imps that teleport in when you make a sound, hence the reason I fire my SSG when I get outta the center area.
+
+Once those creeps start pouring in, I hit the 3 switches in this room.  One of those raises the stairs so you can get out of this room and another reveals the final secret, some rockets.  I save those for now and use the PG to start the killing, mopping up with the SSG after I exhaust my plasma supply.
+
+Just before opening the door to get out, I switch to the RL, then open said door, backing off to fire some rockets at the oncoming horde of bull demons, then switching to the SSG to mop them up.
+
+For the 2 barons and 2 HKs guarding the YSK, I hit them with several rockets til I have 4 left, then mop them up with the SSG.  I run to collect the YSK, grabbing ammo along the way, the 3 rockets being the most important here.
+
+Then it's just a matter of blasting thru some spectres until the YSK door.  That gets opened, HKs get rocketed out, saving 3 rockets at least for the manco behind the BSK door.  Key inside is collected, then open up the only other keyed door not visited yet.  Manco is here, but is easily blasted away with 3 rockets, using the SSG to finish it if it survives somehow.  Then all that's left is an archie in front of the exit switch, and that's easily dealt with using the SSG.  Hit the switch to end the level.
+
+Pretty solid run I'd say with only a couple minor muck ups.  Some low health situations too.
+
+A time lower than 3:30 oughta be possible here, probably reaching something like 3:25-ish or so for the very determined.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

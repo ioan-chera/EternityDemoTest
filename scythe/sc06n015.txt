@@ -1,0 +1,19 @@
+              Scythe
+      Map 06: Pressure Point
+       Map Author: Erik Alm
+------------------------------------
+           sc06n015.lmp
+
+NM-Speed in 0:15
+
+    Kills   - 6%
+    Items   - 50%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Eight attempts.

@@ -1,0 +1,19 @@
+              Scythe
+     Map 12: Walk in the Park
+       Map Author: Erik Alm
+------------------------------------
+           sc12-046.lmp
+
+UV-Max in 0:46
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Fun run, although the start is super annoying. Between the imp not dying in one shot, not getting a good lineup on the zombiemen, getting blocked or killed by the revenants while going for the rocket launcher, or not having the manc die in three rockets, there are a lot of annoying stupid ways to fail right at the start. The chaos when rocketing is pretty fun, although you need quite a bit of luck for everything to group up well. Need a bit of luck for everything else to die quickly too, either due to infighting or good chaingun damage, and the ending can kill a run if I miss the shotgun or it doesn't do enough damage or I get bad berserk damage RNG. Spent quite a bit of time on this one; had four improvements over tatsurd's 0:59 before this one, though I absolutely didn't expect this time (even though I'm sure lower is possible). I probably would have been satisfied with sub-50; 46 is quite lucky, as mostly everything went right. Had great monster grouping at the rocket section, ending went pretty nicely, start was quick (other than the chainguner not dying in an SG shot), and overall it's a pretty clean exit I think.

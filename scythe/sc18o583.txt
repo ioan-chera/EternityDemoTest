@@ -1,0 +1,15 @@
+              Scythe
+        Map 18: MS Futura
+       Map Author: Erik Alm
+------------------------------------
+           sc18o583.lmp
+
+Nomo in 0:05.83
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Haha, this is a legit glide. On and off for a long time trying this route, but only got serious recently, and took only 464 attempts. :)

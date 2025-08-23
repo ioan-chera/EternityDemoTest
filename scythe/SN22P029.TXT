@@ -1,0 +1,31 @@
+This is a Doom LMP Entry
+
+SN22P029.ZIP
+
+	SN22P029.TXT
+	SN22P029.LMP - Nightmare Speed + Pacifist
+
+Recorded using Doom2 Version 1.9
+
+Scythe - Level 22 - Despair
+
+=---+------+---=
+Kills        45%
+Items        66%
+Secrets       0%
+ 
+TIME     0:29.94	Old record: 0:57 by Jochen 'Angus' Schneidau
+=---+------+---=
+
+Demo entry #16.
+
+Description:
+
+In late 2009 I decided to return to my old experience on this bloody, exciting
+map. My records in the previous years were 0:43 and 0:34. Hopefully 29 is not
+bad.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 13, 2009, 21:56:32

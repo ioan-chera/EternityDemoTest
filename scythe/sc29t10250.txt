@@ -1,0 +1,261 @@
+Pwad: scythe.wad   
+Map:      29
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.3
+Time:      1:42:50
+
+-complevel 2
+
+Author:	   j4rio
+
+
+I've never looked at this map in more depth until now, partly because it seemed nauseating
+just to consider doing, let alone actually doing, but wasn't all too bad now that I judge
+it in retrospect. Map geometry unveils heaps of unobvious possibilities and out-of-the-box
+solutions to encounters when you prod it just enough. 
+
+Routing this was the toughest nut to crack. Sure, you have berserk available straight from
+the get-go, but the map houses 6 cybers - 3 separate loners and one trio teleporting to the 
+central platform. You can somewhat comfortably punch out RK cyber, less comfortably the one
+which guards exit platform, absolutely out of question YK cyber and I'm not even going to
+attempt to judge those triplets.
+
+The obvious, but not exactly thrilling solution to cyber overload are archviles. There is 
+one closed-off vile housed on a platform right above the cyber trio. Nooking out of a window 
+in the house with RK can force this guy to infight with the trio, horrifically slowly chipping 
+away their health. It would take around hour and a half for them to die this way. What's worse, 
+presence of those guys hampers progress and you can't really accomplish any multitasking until 
+they are out of the picture. I'm not even mentioning that the vile can simply die from splash 
+damage in case cybers get too trigger-happy. Luring more ground level viles is a futile effort. 
+You would be able to add one to the mix at most before they're wiped out by rocket barrages. 
+
+Fortunately, another heureka moment in a form of stationary revenant turret came to the rescue.
+I figured out there's a possibility to lure his homing missles straigh at cyber infested square.
+Even better, you can actually get every angered cyber stuck in a corner of that square. If it
+sounds too good to be true, that's because it is. There was an ugly dreamcrushing moment when I 
+realised the turret guy is not so perfectly out of reach as he seems. If a homing ball interrupts 
+a cyber in an upper right corner of his personal space mid-barrage, all rockets targeted rev's way 
+will harm him. As the poor AI tries to handle the situation, the cyber eventually moves away from 
+a spot where he can target revenant and remains incapacitated on the other side. The problem is, 
+however, that incapacitating all 3 cybers this way leaves too little room for them to roam and 
+sooner or later a cyber will find his way to the side of square from which the rev can be taken 
+out.
+
+Another heureka moment to the rescue! More revenant turrets, yay! The revenant twins occupying
+a hole in a building you're supposed to enter at the start are the final solution to the dilemma. 
+Luring their balls leaves cybers completely incapacitated on the side of square from which the 
+turret one can be targeted, so this way you can protect the guy from unwanted rockets. You can't, 
+however, push cybers incapacitated this way to the corner of the room where you deliver the final 
+fisting, but a combination of these two makes this very reliable and doesn't take 2 hours to set 
+up. This takes care of the scariest looking obstacle rather easily and most importantly, fast.
+
+With this part solved, there's still a lot of filth to plow through. Another extra important part 
+is the building with RK. It's the perfect spot for bullet mining. You've got a bunch of chainers 
+occupying it, a vile and a nice view from safe distance. You can lure additional freely roaming 
+viles here, although getting them to squeeze through the awkward opening is actually super scary. 
+Overall, with this section in mind, you can harvest just enough ammo for all cybers and turrets
+easy. Now, it's up to personal preference whether doing this is safer than cyber punch-outs. I'd
+say I find this approach less stressful and go for it whenever it's available. In this particular
+case, though, it's possible that simply going for a punch-out or two might actually be a preferable 
+approach. I don't know. I just didn't really feel like considering this other than as a last resort.
+
+Now, to actually be able to accomplish the bullet mining, you need archviles. The problem is, two
+are slapped straight in your face as you try to leave the first building. This took me so long to
+figure out, and it's still uncomfortably volatile. The start is an absolute hell because of this.
+Those viles are the definition of freedom. They can go anywhere, anytime and you can't simply just 
+shrug them off. There is no way to simply deposit them anywhere, no empty rooms that you can use as
+your own personal dungeon to lock them in. Author also made a lot of anti-ghost measures and left
+majority of doors opened permanently after first use. The only other option I didn't even realise 
+I have for quite a while was accomplishing this through infights. If something sufficiently out of 
+reach was to anger them, it would do the neutralising job just fine.
+
+This all looks fine on paper, but practically speaking, this is a hell of a demanding task. The 
+first candidate for vile neutralising was the exit cyber. It's the only cyber available straight up
+from the start. The problem is, he is so high up there that instigating this infight from ground 
+level is just plain impractical. You can't really force this with brute force either, as there's a
+number or arachnotrons roaming the place, ready to neuter any infights you are trying to instigate.
+There was an unobvious possibility here waiting to be uncovered. You can accomplish this particular
+infight from different angle, using an opening in a building with BK occupied by a manc. Using cyb's 
+splash damage as he hits the wall can trigger this infight. Thanks to map geometry of this section, 
+any viles lured here are likely to remain temporarily deposited here long enough to circumvent the
+area and get to the sweet infight instigating spot. This solution has notable drawbacks, though. For
+one, getting to the spot with BK is really rough. You need to go up a lift where you get surrounded
+by a heap of sarges and two mancs in horrible tiny room instantly. Health is a luxury, so just going 
+kamikaze here was detrimental to the overall progress. The second huge problem arises when you try
+to introduce a concept of continuity to your thinking. There are two free roaming viles and it will
+take quite a few barrages to get them both angry. You will not make them both infight simultaneously.
+Here's the problem - those awkward columns blocking majority of cyb's vision will harm anything that
+is standing around them. When one vile gets angry, all those shots aimed at surrounding geometry will
+harm that vile and it will most likely die from all the splash before you get a second vile angered.
+This was enough problems to scrap the idea for now and get back to the drawing board.
+
+The other option, which ended up being the solution I deployed in successful attempt, was using one
+of mancubus turrets. There's roughly a dozen of these dudes all over various platforms. The pair I
+mentioned above guarding progress to BK is out of the question, because you need them dead before
+any progress can happen, and for additional practical purposes, like evading waking up additional
+sleeping arachs, only 5 of them are the main contenders - 4 guards of BK bridge and the lone one
+occupying BFG secret platform. The chosen one ended up being the BFG manc, as this guy provided the
+most advantageous position and utilizing him turned out to be the least demanding. You still have
+to do some work for it, simplify the starting position and do some targeted cleaning up. The ideal
+spot to make those viles infight is the small empty area next to the starting building with clear
+view at the manc. It is basically the only section where that manc has any clear view, so you need
+to do it here. Issues hampering this are obvious and need to be adressed. Namely, one arachnotron
+is in plain sight in this area, another one behind the starting building and a heap of revenants
+are on a platform right in front of you, making this rather uncomfortable to do right away. All of
+these need to be taken care of before anything happens. There is also a very high probability that 
+an infight between that manc and a rev can happen, which is absolutely undesirable, so keeping away
+from this spot is essential until all of this is taken care of. Remaining behind the starting
+building has the additional benefit of keeping those viles inside without coming out, but the very
+instance you move a little too far away, they will both immediately storm out. You simply cannot
+move far away from the starting building to set this up, otherwise it's not going to work and the
+imminent chaos when those viles roam outside is too much to handle casually. Even grabbing berserk
+is way too risky, but it's not necessary right away, because your main weapon will have to be
+infights anyway. With starting section clear of these obstacles, you can carefully extract each 
+vile and carefully do the job of neutering them. This way you'll have them nicely deposited out 
+of the view for the time being. No good idea is without a downside, and the same case applies here.
+Those viles CAN actually target this mancubus, but it's a really really unlikely to happen. So long
+as he keeps bouncing around his personal space back and forth, he is basically invincible. However,
+he is slighly vulnerable when he shoots and remains firmly standing on one position for a few secs,
+which is more than enough time to receive a vile blast from below. This is still unlikely, but given
+that you'll be spending a substantial amount of time in the map, you are on a ticking clock with not
+so certain threshold of shit hitting the fan and suddenly having to deal with two free-roaming viles.
+Even worse, he is dangerously close to the spot where ammo harvesting happens and if he manages to
+blast a meaty monster there, it's game over. 
+
+When you finally achieve this desired starting position with viles temporarily deposited, you can
+make some progress deeper into map. The ugly room with sarges and with entrance blocked by mancs can 
+be simplified now. Those mancs may die from spider infights I mentioned previously, another third 
+spider from behind the central square can be lured here, or you can simply waste bullets. It's an 
+acceptable bullet sponge, because you get to preserve a lot of health this way. Sarges are no longer
+a problem now. You can just blitz out of the hot room to safety. Some preparations outside included 
+awakening of the spider couple around exit area (they can't traverse all over the map from here and
+are basically forced to remain in this section) and a bunch of hellknights behind bars leading up
+to the RK and the bullet harvesting spot, so they move into the upper part of room. Few simple 
+punch-outs through the BK building later, we get to the part I've already devoted a wall of text for, 
+the opening with a manc platform housing BK. I use this opening for a not as groundbreaking purpose
+of making one of the spiders I woke up earlier angry. This way you can take them out one-by-one and 
+do so in a corner where their corpses aren't in plain sight once a rabid vile gets to roam around.
+One spot I omitted mentioning in BK building is the platform with plasma gun housing one revenant.
+At this point, it's absolutely essential not to walk onto it and trigger an undesirable encounter.
+This will be explained later on. 
+
+Now, the entire idea with the exit cyber angering a vile wasn't actually discarded. It was merely 
+postponed. It might seem like a waste of time bothering with this now that both viles are already
+incapacitated, but there was one little tiny tidbit I left out of the entire picture. This cyber can
+actually be targeted by an angry vile from below. It's no onslaught by any means, it's still a weird
+angle for proper vileblasting, but it's not something to entirely ignore either. Given the ridiculous
+while one spends inside the map, this damage does actually matter. It has additional bonus value, too.
+Now those viles are separated, and if the BFG manc happens to die, you only get to deal with one roamer.
+There was a little failure with the setup here in the successful demo. While luring the vile, I kinda
+failed properly luring it and it took a turn to the corner of the map with spider corpses, although it
+has fortunately revived only one. I would probably just terminate the attempt if it revived both. In
+the very end, when the exit cyber got pistolled, notice how he ate up only about a hundred or so bullets
+before kicking the bucket. The damage here obviously mattered, despite the fact that it was stretched 
+out to over roughly 80 minutes of clumsy frying.
+
+The next step is BK room. This is the first sudden-death part. It's overfilled with heavy meat in tiny
+space. Now, there was an option to do it carefully, slowly luring all monsters out of the room, but this
+had an undesirable side effect of littering outside section with corpses, something you really want to
+prevent when you'll be having a chase with viles there later on, when the time comes for investing in
+bullet mining economy. So it was handled head-on, almost killing me in the process. The thing to keep in
+mind here are two turret mancs visible from the upper floor. They can only die from infights or bullets,
+so it's worth it to have them infight some leftover goats. Those mancs need to be taken out, as this is 
+the spot where you'll be chilling when the bullet multiplication happens.
+
+Room with RK is next. The upper floor is now flooded with HKs you woke up earlier and a bunch of other
+meat. A lot of the meat is asleep, so the first step is waking everything up. There is a trigger that
+spawns in the fabled cyber trio, that's activated when you move up from ground level through the tiny 
+corridor right about when you get sighted by a pain elemental. This guy gets bum rushed, you don't want
+him fumbling around the map at any costs. Then you blitz out and make all awakened meat infight through
+the sweet spot that was so hardly fought for in BK room. That cyber trio seriously hampers free movement
+around the map, though, so entering BK room is no longer free cheese and you need to actually fight for
+it. Then I repeat the whole process and also wake up a vile that was sleeping there the entire time. The
+first bullet harvesting happens now, as no other progress through the map is available.
+
+When the first chaingun manufacturing process is over, the progress can happen. This progress is in a 
+form of window in this building. You can't reach this window when all the meat blocks the way. It's the 
+same fabled window I've talked about through which cheese can happen. There are other benefits to this 
+window, even if cheesing those cybers isn't the point right now. That vile that gets angered this way 
+is actually the special forces sniper, completely negating chances of any further progress and making any
+movement around risky up to this point, likely even being the reason for many restarts when you try to set
+up infights at the start of the map and when you try to snatch berserk from its spot. To be able to actually 
+incapacitate those cybers with revenants, this vile must be taken care of first. Only after that the cyber 
+extermination can take place. The last step before this can be put in motion is removing last manc snipers
+on bridge connecting RK and BK buildings. This is achieved by standing next to starting building and waiting
+for magic stray balls to connect with cybers.
+
+Successfully removing those cybers leaves only few obstacles left in the map. At this point you have small
+degree of options about what to do next. The most obvious was using up the volatile vile still roaming under
+BFG manc and repeating the entire bullet harvesting process. After that, the YK guarding cyber gets pistolled.
+This order of things was chosen purely to minimise risk of all-ghost bugs, that can be triggered when you have
+too many chainguns lying on the ground. After that, I use up the last vile for bullet harvesting. This vile 
+has not been mentioned previously, because it's in an area I had no reason to visit so far. It's the area to
+the left of exit section. There is a pond with blue armor that triggers a vile and two cacos when you approach
+it. Leaving this vile deposited here for the majority of time seemed like the most sensible approach, since 
+there is one blue armor and two green armors available around the map that can be utilised meanwhile and you 
+don't need to deal with third freeroamer. Luring the vile from there to the bullet factory turned out far more
+dangerous than I had hoped for. I had a stupid idea to lure some barons to take out revenant turrets and they
+ended up dying right in the path of this vile. I was super lucky that I managed to navigate this vile through
+the field of corpses without anything horrible happenning. Those two cacos are also a nuisance, as they can end
+up anywhere and sneak up on you when you least expect it. Also, this section with blue armor pond houses the 
+last arachnotron, which I usually just pistol out, but this time he somehow managed to infight exit cyber somehow.
+
+The final part is YK building itself. It's the second and last sudden-death bit. You can slowly chip away at few
+monsters in plain view, but eventually you have to press the button that moves up the entire floor, making this
+a cut-off section that you need to work through to get out of. I punched two revenants through boxes before I 
+pressed this button, which makes this section slightly more reliable. Once you ascend, there are 2 HK pairs on 
+each end of the building, a manc in the middle section and few additional icy rooms with some additional guys.
+I opted to clean out the leftmost room first, making a stationary manc infight the HK pair and few imps on the
+ground level. Then I proceed to take out all HKs and rightmost icy section with few imps and a rev. Nothing that
+would imply sudden-death so far. Well, the problem is the middle. As you approach it, a cyber teleports in there.
+The room is basically claustrophobia hell, with very little maneuvering possible. To get out of this section, a
+button behind this cyber must be pressed. This is the main problem, as pressing it leaves you in a vulnerable
+spot and eating a rocket is way too likely. Simply shooting this guy out before you press the button is a bad 
+idea, as 400 bullets may not be enough. Even if you do shoot him out, there is another problem. Pressing the that
+button opens up an escape tunnel with 8 cacos. It's simply a must to get those cacos out and infight this guy.
+So what I ended coming up with was less than satisfactory solution, but it managed to get the job done. I've 
+mentioned a manc was also here in the middle section. Well, he is the solution. He can't squeeze through doors
+to the left and right sections, but once you open up the middle, he can actually force himself up there, right
+where this cyber teleports in. That's the whole idea - once he's up there, get the cyber teleported in and haul
+your ass in a blitzkrieg fashion to the button and storm right out, wake up cacos, infighting, pisolling, get out.
+
+Now as you're leaving, you'll notice a vile, some chaingunners and possibly some revenants in a building in front
+of you catapulting some artillery at you. Do you remember the plasma gun platform with a revenant I briefly 
+mentioned when talking about BK building? Those are the contents of an encounter that would teleport in if you
+triggered it right there. Why are they teleported there now? Simple, the opening of the escape tunnel from YK 
+leading back to the map is the same exact line that triggers this encounter. Which means that those 8 cacos can
+be revealed when you grab this plasma gun. This is what I wanted to prevent by ignoring this encounter at first.
+You don't want 8 cacos swarming around the map with no way to properly infight anything. As for the vile and the
+rest of the company there, those are not a problem. You can even use this as another ammo harvesting site and 
+further expand your chaingun manufacturing monopoly, although this side provides less yield and more risks, so
+I opted to get the vile perforated as soon as I noticed it's eating some lead. I still wanted at least 10-15 guns
+to reach the 400 for exit cyber, but it turned out just unnecessary, as it was already sufficiently fried at that
+point. That's all folks, hope I didn't bore you to death with this littany, as it should only serve as an appetizer
+to what you are about to endure if you are seriously about to be watching the demo.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+

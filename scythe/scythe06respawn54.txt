@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD 
+Pwad name: Scythe
+Maps:	06
+Skill:	4
+Category:	UV -Respawn
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	0:54
+-------------------------------------------
+Comments:  
+Nice run, this is a fun map for respawn when my route works out.
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

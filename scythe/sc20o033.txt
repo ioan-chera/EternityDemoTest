@@ -1,0 +1,11 @@
+player: aconfusedhuman
+date: 30-11-2021
+iwad: DOOM2.wad
+pwad: SCYTHE.wad
+map: 20
+skill: 4
+category: nomo
+sourceport: dsda-doom 0.19.7
+time: 33.97
+comments: idk what to say about this run. i got a 34.00 with little effort and then got like a dozen 34.0xs after 2 and a half hours of more grinding. didnt take that long to get today, too bad the demo looks like shit
+if you decide to run this then have fun with the red key

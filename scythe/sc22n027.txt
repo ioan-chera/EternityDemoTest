@@ -1,0 +1,19 @@
+              Scythe
+          Map 22: Despair
+       Map Author: Erik Alm
+------------------------------------
+           sc22n027.lmp
+
+NM-Speed in 0:27
+
+    Kills   - 22%
+    Items   - 33%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: The start was fast, but I lost time everywhere else, so only a second faster. 108 attempts. Forgot I also did NM100 here, but I guess now I hold both.

@@ -1,0 +1,17 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31o024.lmp
+           sc31o025.lmp
+
+Nomo in 0:24.86
+Nomo in 0:25.89 (strafe40 only)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: I assumed Doomdaniel used the best route in his 0:32; I had no idea this existed, thanks to GrumpyCat for pointing this out. 24 is very difficult (at least for me). Start angle is rather annoying to get. The switch for the stairs in the red key area is hard to turn around and hit quickly. Stairs are hard to time a clean run up. Worst, though, is the last two doors are very hard to hit in sequence quickly, and it doesn't help that the blue key has that stupid pile of skulls in front of it. All this needs to be done with maximum usage of strafe50. Surprised that this is 24, though. The start angle isn't ideal and the switch press isn't quite perfect either (I don't even think I got up the stairs very well). Also a bunch of minor bumps at the end, and yet, the time is .86. I'll take it, anyway; this is a hard run, and I don't see 23 being done (definitely not by me). Also included a strafe40 only run showing 25 is possible that I recorded in 2 minutes or so (so I assume it might be doable like .6x or so).

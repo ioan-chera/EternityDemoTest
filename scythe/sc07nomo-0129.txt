@@ -1,0 +1,11 @@
+Runner: ferfrancuito
+Date: 2020-Dec-2 23:46
+IWAD: SCYTHE.wad
+Category: NoMo
+Map: 7
+Source Port: PRBoom v2.5.1.4
+Time: 0:01.29
+Attempts: 407 
+
+Description:
+From 1.43 to 1.29

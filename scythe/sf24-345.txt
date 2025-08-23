@@ -1,0 +1,35 @@
+This is a Doom .LMP - Please forward it...
+
+sf24-345.txt
+
+sf24-345.zip
+
+sf24-345.lmp - Ultra-Violence Max with fast monsters
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 24 - Hatred
+
+
+================
+Kills      100%
+Items      100%
+Secrets    100%
+----------------
+Time       3:45
+================
+
+
+Description:
+
+Difficult but fun. I was annoying with no armor and an arch-vile
+in the start point, but I found a easy way to kill the arch-vile.
+Basically, this is luck based.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

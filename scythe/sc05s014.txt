@@ -1,0 +1,19 @@
+              Scythe
+       Map 05: Slimy Tunnels
+       Map Author: Erik Alm
+------------------------------------
+           sc05s014.lmp
+
+NM100s in 0:14
+
+    Kills   - 30%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: First exit, 1s away from the Pacifist WR. Should be the same time as UV, but this run is rough to survive, and it's easy to get blocked either by the two imps at the yellow key switch or by the spectres. Pretty much every other attempt that made it past the green armor would have been 15s or above if I survived, so 14s is a decent time.

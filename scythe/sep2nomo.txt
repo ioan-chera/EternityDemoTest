@@ -1,0 +1,70 @@
+WAD: Scythe
+MAPS: MAP11-MAP20 (Episode 2)
+Time: 5:45
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speedrun
+
+Well, I have quite a few comments. First, the levels and their
+times. Then, I rate them from one * to five *****, five being
+great and one crummy. ;)
+
+MAP11: Sneak Peak -- 0:18
+MAP12: Walk in the Park -- 0:17
+MAP13: Subverted Base -- 0:31
+MAP14: Power Outage -- 0:32
+MAP15: Blood Bath -- 0:29
+MAP16: Burial Grounds -- 0:29
+MAP17: Book Lords -- 0:32
+MAP18: MS Futura -- 0:24
+MAP19: (3000) AD -- 1:29
+MAP20: The Starport -- 0:44
+
+Total: 5:45.31
+
+MAP11: Sneak Peak (0:18) *****
+Since there are no monsters, I have to use a different trick
+than the death slide. This is probably the second fastest route
+and I'm proud to have discovered it so quickly. :)
+
+MAP12: Walk in the Park (0:17) ****1/2
+Very good, could've grabbed the red key a little more
+quickly...
+
+MAP13: Subverted Base (0:31) ***1/2
+I can never perform that stupid red key jump, but I make the
+best of it by just doing it the normal way. The rest of the
+run is OK, but I would prefer under 30 seconds.
+
+MAP14: Power Outage (0:32) ***
+Kind of a crap run. One of the only notable good things is
+pressing the switch to gain access to the red key room early.
+
+MAP15: Blood Bath (0:29) ***
+I'm sure there's a way to take a huge shortcut, but I can't
+ever seem to find/perform it. :(
+
+MAP16: Burial Grounds (0:29) ****
+Better. I'm glad I got under 0:30.
+
+MAP17: Book Lords (0:32) ***1/2
+OK, but I would like a time under 30 seconds...
+
+MAP18: MS Futura (0:24) ***1/2
+I mess up by grabbing the plasma rifle instead of the blue
+key (silly me)! Oh well, I was able to press the switches
+before the yellow and blue doors were all the way up, so I
+count that as pretty good...
+
+MAP19: (3000) AD (1:29) **1/2
+Probably the crappiest run of all. I'm slow, and without 
+monsters, there's really no good shortcut. To top it off,
+I had crap luck with the moving platform in the blue key
+door (stupid platform).
+
+MAP20: The Starport (0:44) ***1/2
+Another okey-dokey run, but I probably could've just
+strafed right onto the blue key platform rather than
+stopping and running onto it.
+
+Total: 5:45 ****
+OK run, I could improve, but second attempt. :)

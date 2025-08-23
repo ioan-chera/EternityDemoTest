@@ -1,0 +1,19 @@
+              Scythe
+          Map 22: Despair
+       Map Author: Erik Alm
+------------------------------------
+           sc22s029.lmp
+
+NM100 in 0:29
+
+    Kills   - 22%
+    Items   - 33%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Could be as fast as NM-Speed or even lower, but it's quite luck-based to get past the first half and the cyber, so I'm fine with 0:29. Got blocked quite a bit at the start here, and I think I spent too long to open the red door as well (also if you're very lucky, you can get a death slide from cyber into the exit).

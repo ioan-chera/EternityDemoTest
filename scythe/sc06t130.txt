@@ -1,0 +1,21 @@
+Pwad: scythe.wad   
+Map:      6
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      1:30
+
+-complevel 2
+
+Author:	   j4rio
+
+More route changes, which basically just directly translates to more yolo.
+Using pistol against sarges was a little too irksome, so I figured I'd just
+go ahead and punch through all of them. Reduces survivability to abysmal 
+levels, but allows the part around crusher to be handled in a little more 
+fluid fashion. I use the crusher just once, going for either 2 HKs and then
+punching out third one, or just getting them all 3 crushed altogether. I
+didn't bother going exclusively for one-time crush of all 3, because it's way
+too unlikely given how unreliable the rest of the map is already. I didn't 
+get it in this demo, so it could be something to consider incorporating if 
+you want to go for this map and have too much free time on your hands.

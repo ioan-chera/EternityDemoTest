@@ -1,0 +1,12 @@
+For http://dsdarchive.com/
+
+Player: Teedre
+IWAD: doom2.wad
+PWAD: SCYTHE.wad
+Map: 04
+Skill: 4
+Category: UV-Max
+Sourceport: dsda-doom v0.26.0
+
+Time: 35.91
+Comments: Attempt 1164. Shotgun RNG sucks! Managed to still get 35 with two three shot spectures.  

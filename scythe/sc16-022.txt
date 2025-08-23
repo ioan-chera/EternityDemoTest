@@ -1,0 +1,24 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       16
+Skill:     4
+Category:  UV speed
+Exe:       prboom-plus-2.4.8.1 -complevel 2
+
+Kills:       6%
+Items:       0%
+Secrets:     0%
+
+Time:      0:22
+
+Comments:  My targer was 0:25, so I am very satisfied.
+           And i dont know if I am first who made this archie jump.
+
+           btw. i didn't want upload this pack, but i want know if this demos are in            complevel 2;)
+
+Author:    Jakub "psichotik" Hornicak
+Email:     psichotik@seznam.cz
+

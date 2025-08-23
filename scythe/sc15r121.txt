@@ -1,0 +1,7 @@
+PWAD: Scythe
+MAP: 15
+CATEGORY: UV-Respawn
+EXE: DSDA-Doom 0.28.2
+DATE: 20th December 2024
+TIME: 1:21.69
+PLAYER: Tellurium

@@ -1,0 +1,15 @@
+Player: akolai
+wad: scythe.wad
+Map: 25
+Skill: 4
+Category: Tyson
+Time: 21:01.11
+Engine: DSDA-Doom v0.19.7 cl2
+
+Comments:
+|i could explain in exhaustive detail why punching spiders is ass, but i can't be bothered right now
+|suffice to say this map is one of the worst tysons around
+|i start by dry punching a few spiders by abusing attack winddown frames. if you're unlucky and they get a refire check you'll probably eat some plasma but that risk was worth it for me
+|the early key grab is extremely helpful for the bonus soulsphere, it really smooths out the rest of the map
+|the pit fight at the end kind of exlains itself, it's heavily luck based. you will usually have to improvise a route, but most of the time the situation is just unplayable and you have too many spiders left clogging up the lower pathway
+|i've heard you can grind bullets on map30, so who knows, maybe we'll have a full table some day

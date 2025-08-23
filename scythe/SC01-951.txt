@@ -1,0 +1,12 @@
+Port: Crispy Doom v5.9.1
+Wad: Scythe.wad
+Category: Pacifist
+Skill: 4
+Map: Map01
+
+Time: O:09.51
+
+Author: Dastan
+
+Comments: This is as far as I can go for now. There were a bit of corner bumps that costed a few tics, and I didn't attempt for the red pillars boost.
+This should stand for a bit until someone else or I decide to run it again.

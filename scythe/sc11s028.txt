@@ -1,0 +1,13 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Pwad:      scythe.wad
+Pwad name: Scythe
+Map:       11
+Skill:     5
+Category:  NM 100S
+Exe:       prboom-plus-2.5.0.6 -complevel 2
+Time:      0:28
+Author:    GrumpyCat
+Email:     pzagrebin@gmail.com
+Comments:  Old run from 2014.

@@ -1,0 +1,8 @@
+Filename   : SCYTHE.wad
+Title      : Scythe
+Map        : MAP22
+Category   : Stroller
+Exe        : dsda-doom 0.19.7 -complevel 2 
+Time       : 0:53
+Author     : mhrz
+

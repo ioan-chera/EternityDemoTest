@@ -1,0 +1,26 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe (by Erik Alm)
+Pwad name: scythe.wad
+Map:       26
+Map name:  Fear
+Skill:     4
+Category:  UV Speed
+Exe:       doom2.exe
+
+Kills:       8%
+Items:      13%
+Secrets:     0%
+
+Time:      0:31
+
+
+Comments:  I didn't expect this. I dreamed of a :32 run.
+           My best demo so far :)))
+
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+           04.01.2004

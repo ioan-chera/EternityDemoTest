@@ -1,0 +1,12 @@
+Player: Tobby
+Time: 0:28.43
+
+IWAD: doom2.wad
+PWAD: scythe.wad
+Exe: Dsda-Doom v0.24.3 complevel 2
+Skill: 4
+Category: Stroller
+Map(s): 15
+Date played: June 17th, 2022 (GMT+8)
+
+Comments: 

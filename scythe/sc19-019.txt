@@ -1,0 +1,19 @@
+              Scythe
+            Map 19: AD
+       Map Author: Erik Alm
+------------------------------------
+           sc19-019.lmp
+
+UV-Speed in 0:19
+
+    Kills   - 5%
+    Items   - 25%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Was randomly trying pacifist here, then randomly tried to do the RJ route with a thing boost and it worked. Guess I've done a fair number of such demos, so I decided I'd try and get a decent time. Good AV luck here, pretty thing boost luck, although it could of course be faster (possibly with an imp, but I found that harder to set up). Naturally also possible pacifist, but more annoying.

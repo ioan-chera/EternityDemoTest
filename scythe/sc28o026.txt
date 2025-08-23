@@ -1,0 +1,15 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28o026.lmp
+
+Nomo in 0:26.83
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: My 0:27 was pretty awful because I didn't really care for this run or map, so I improved it. Still don't really care for this run, so this is the first 26 I got (and it's not perfect). Also, I still don't want to try the RJ route.

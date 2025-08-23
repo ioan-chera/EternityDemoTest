@@ -1,0 +1,34 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map13: Subverted Base
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 12.0.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:35.86
+-------------------------------------------
+4shockblast:
+
+This was pretty fun. The keygrab setup is quite useful here, gives me a chance to open up all the map really early. I don't get much armor or health, so survival is a bit tricky, but not that bad once I get a good handle on the route. I didn't have much use for rockets, so I just grab a few to help with the start, and I use them all up so I can get to SSG after for the demon at the YK. Afterwards, just rush the ending so I can BFG the ending. My side was relatively quick, but I could do the BFGs quicker at the end, though it's hard for me to know what direction to use up the final shot. Either way, this time, I had enough time to hang around the exit for a bit, timed the switch well too, so, good time I think.
+
+GarrettChan:
+
+It's overall a pretty fun map to do. The route was modified quite a bit to prevent myself from BFG-ing 4shock, and it does work out pretty nicely. Luckily the skybox doesn't eat the whole BFG ball, or I'll have to reset for that missed shot.
+
+All SSGs are just floor hazard to me since I don't want to get weapon switched, and the SSGs are not even useful due to the MP BFG.
+
+I got blocked in front of the Soulsphere, and it was a bit sloppy to clean up the final monsters. Other than those, it's pretty clean on my side.
+
+Youtube Video: https://youtu.be/LoJYMi5N6FQ
+
+Oc 29 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

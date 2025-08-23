@@ -1,0 +1,15 @@
+              Scythe
+       Map 03: Up and Around
+       Map Author: Erik Alm
+------------------------------------
+           sc03o015.lmp
+
+Nomo in 0:15.83
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Kind of a bad bump at the end because I got an unwanted boost on the bars, but still got 15. This wasn't really hard to do.

@@ -1,0 +1,11 @@
+Runner: ferfrancuito
+Date: 2022-Jun-10 09:12
+IWAD: SCYTHE.wad
+Category: NoMonsters
+Map: 2
+Source Port: PRBoom v2.5.1.4
+Time: 0:08.77
+Attempts: 259
+
+Description:
+Dodging walls, corners and hoping strafe and sr50 jump go smooth. I wanted to try that jump to the exit switch. I had many 9s but few 8.. 

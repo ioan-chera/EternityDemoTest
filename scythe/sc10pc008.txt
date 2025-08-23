@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP10: The Lords
+Category: UV Pacifist Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 8.1.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:08.49
+-------------------------------------------
+4shockblast:
+
+Hate the movement on this map even in IL; two players means both have to do it cleanly and not get in each other's way, so it's even worse. With better quickstart, I imagine 7s is possible, but this is fairly clean anyway; at this point, 7s may as well be TAS only anyway. :^)
+
+GarrettChan:
+
+The movement at the beginning of the map is... actually quite annoying to do well. Basically I just need to wait for the exit to open and get in. Though, this takes surprising amount of attempts and I was trained to just reset after a certain amount of time. Therefore whenever 4shock actually presses the switch successfully, it takes a bit for me to react because I'm so expected to see a reset there, and I often bumped into the wall... This is one of those rare cleaner runs we got.
+
+Mar 20 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

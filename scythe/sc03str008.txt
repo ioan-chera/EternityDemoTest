@@ -1,0 +1,19 @@
+              Scythe
+       Map 03: Up and Around
+       Map Author: Erik Alm
+------------------------------------
+           sc03str008.lmp
+
+Stroller in 0:08
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Bad time, but it's just random to get a good time here.

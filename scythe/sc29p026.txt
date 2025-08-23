@@ -1,0 +1,36 @@
+This is a Doom .LMP - Please forward it...
+
+sc29p026.txt
+
+sc29p026.zip
+
+sc29p026.lmp - Ultra-Violence Pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 29 - Hell On Earth
+
+
+================
+Kills        1%
+Items        0%
+Secrets      0%
+----------------
+Time       0:26
+================
+
+
+Description:
+
+1st exit without getting the blue armor. Around the first 
+switch was not smooth, but I was not able to have over 90 
+health easily for the vile-jump.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

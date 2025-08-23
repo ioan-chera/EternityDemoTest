@@ -1,0 +1,15 @@
+              Scythe
+     Map 09: Computer Storage
+       Map Author: Erik Alm
+------------------------------------
+           sc09o017.lmp
+
+Nomo in 0:17.97
+
+Recorded with: DSDA-Doom v0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Bleh, I should be retired. Couple thousand attempts over a couple years. :^) 800 this time. It's not too bad, but that switch really grinds your nerves down over time, jump is also inconsistent when this fast. Rest of the run is easy to fuck up or lose tics on. Probably something like 17.7x is possible, but you'd have to be :depr4ved: to go for that. Finally retaking this time, though.

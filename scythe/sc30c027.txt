@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map30: Fire and Ice
+Category: UV Speed Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:27.80
+-------------------------------------------
+4shockblast:
+
+My side is pretty slow, but Garrett's is pretty good, and ending was good, so 27 seems like a good time.
+
+GarrettChan:
+
+We did a 28 before but I ended up killing 4shock at the end. I had decent movement to the switch in this run, and did fire the RL in a relatively early time to the Romero head.
+
+Apr 20 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

@@ -1,0 +1,11 @@
+﻿Pwad: Scythe
+Map: 24
+Skill:  4
+Category:  UV-respawn
+Exe: Crispy Doom v5.6.3
+Date: 02/06/2022
+Time: 4:15
+
+Author: Dogmachine   
+
+

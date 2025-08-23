@@ -1,0 +1,24 @@
+sc11p004.txt
+  sc11p004.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.3 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 11 - Sneak Peak (by Erik Alm)
+
+  ===================
+  Kills         0%
+  Items         0%
+  Secrets       0%
+  ----------------
+  Time        0:04.80
+  ===================
+
+  Description:
+  WTF just happened? :))))) This is my cca 10th attempt IN TOTAL. :))
+  I was playing ZDaemon, then I wanted to edit my shortcut batch to a different map,
+  because I believed this an absolutely lost cause... but I accidentally ran it...
+  and got this. My eyes are still wide from surprise. Thanks, revvy boy! :)))
+
+author: dew
+e-mail: dewww@seznam.cz
+29. 08. 2009

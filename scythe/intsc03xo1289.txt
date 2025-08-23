@@ -1,0 +1,10 @@
+Authors: alps
+Date: 12 nov 2020
+Type: Tool assisted speedrun
+Built with: XDRE 2.20 (-complevel 2)
+Building time: 3 hours, 2 minutes
+Category: No Monsters
+
+Comments:
+
+If you thought 13 was hard, 12 is easy, lol.

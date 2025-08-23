@@ -1,0 +1,20 @@
+SC17NS030.TXT
+SC17NS030.LMP
+SC17NS030.ZIP
+
+Player : megasphere308
+Date : 2021-05-25
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP17 Book lords
+Source port : dsda-doom v0.18.0
+Time : 0.30.97
+
+Description :
+
+Congrats to GrumpyCat for his great 26.
+I wanted a sub 30, but this is the only AVJ I could get in my practice session.
+The last archvile always infights...
+And the three barons are super annoying :)
+
+megasphere308@gmail.com

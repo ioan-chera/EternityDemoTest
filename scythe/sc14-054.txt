@@ -1,0 +1,20 @@
+Pwad:      scythe.wad (Scythe by Erik Alm)
+Map:       14 (Power Outage)
+Category:  UV Max
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.2 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      0:54
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+This took a lot of training to learn the route like a dance, then just grinding it 
+over and over until all monsters cooperated. I got 55 twice today, but both looked
+uglier than Radek's demopack 56, so I pushed a little more and voila!
+
+Recorded:  September 21st, 2011

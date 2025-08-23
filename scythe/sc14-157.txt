@@ -1,0 +1,20 @@
+Pwad: SCYTHE.wad    
+Pwad name: Scythe
+Maps:      14
+Skill:     4
+Category:  Pacifist
+Exe:       PRBoom+ v2.5.0.6
+
+Time:      1:57
+
+Author:	   Phml    
+Email:     Phml.ji@gmail.com
+
+Comments:  Everything after the yellow key is very slow, as I only got to that part two times out of ~30 attempts, and this is my first exit.
+
+-complevel 2
+HUD used
+
+
+
+

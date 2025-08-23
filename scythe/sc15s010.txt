@@ -1,0 +1,15 @@
+WAD: Scythe
+MAP: MAP15: Blood Bath (secret exit)
+Time: 0:10.94
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 23, 2013
+
+Just like the normal exit demo, but with a jump to the ledge leading to the
+secret exit at the YSK platform. :)
+
+Also an easy improvement, got this in less than 5 minutes as well. This
+is rather sloppy, so I'd expect that someone beats this quickly. I can't
+be bothered at the moment due to extreme laziness.
+
+--Doomdaniel95

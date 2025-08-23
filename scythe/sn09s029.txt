@@ -1,0 +1,22 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       09 - Computer Storage
+Skill:     5
+Category:  NM100S
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      40%
+Items:     100%
+Secrets:   100%
+
+Time:      0:29
+
+Comments:  Same as NM Speed, but with the shotgun secret at the start.
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+23.06.2005

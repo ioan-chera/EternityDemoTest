@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:		SCYTHE.WAD
+Pwad name: 	Scythe
+Maps:		03
+Skill:		4
+Category:	UV -Fast
+Exe:      	PRboom+ 2.5.1.4 cl2
+		with advanced HUD
+------------------------------------------- 
+Time:     	0:57
+-------------------------------------------
+Comments: I guess I could punch pinkies, but I didn't need to.
+-------------------------------------------
+YouTube Video: https://youtu.be/WgkF6h4A5vw
+-------------------------------------------
+Author:    	Andrea Rovenski
+Demo YouTube Page: https://www.youtube.com/@doomspeedruns
+andrea@speed.dog 
+

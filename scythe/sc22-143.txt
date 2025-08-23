@@ -1,0 +1,34 @@
+This is a Doom .LMP - Please forward it...
+
+sc22-143.txt
+
+sc22-143.zip
+
+sc22-143.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 22 - Despair
+
+
+================
+Kills      100%
+Items       66%
+Secrets    100%
+----------------
+Time       1:43
+================
+
+
+Description:
+
+No one has used energy cells in exit room up to now.
+I managed to use up all energy cells in the map.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

@@ -1,0 +1,19 @@
+              Scythe
+        Map 11: Sneak Peak
+       Map Author: Erik Alm
+------------------------------------
+           sc11p389.lmp
+
+Pacifist in 0:03.89
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Faster than my NM-Speed by 1 tic, haha, what? The pistol shot seemed to make the demon get into position more often.

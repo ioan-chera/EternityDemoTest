@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	16
+Skill:	4
+Category:	UV Max
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	1:27
+-------------------------------------------
+Comments:  Today's goal was picking from my favorite scythe levels and trying to beat the max record. Scythe episode 2 is my favorite of the groupings of maps, so I randomly picked 16 to try because, well, why not! After watching tatsurd's run, I felt I could punch up the opening parts a little bit, and so as long as I got the archie telefrag, I felt I was probably good to go. Well, the imps teleporting in the church area make this map a little more complicated than I expected. Sometimes imps will spawn in, and suck up a rocket that I tried to shoot at barons or revs, therefore essentially wasting it. Getting perfect splash rockets will probably yield a low 1:2x, but this is 5 seconds faster than the previous demo so here we go. 
+-------------------------------------------
+YouTube Video: https://youtu.be/Ds-TLUGl4ZM
+-------------------------------------------
+Author:    Andrea Rovenski "Cyberdemon531"
+http://speed.dog/
+andrea@speed.dog 
+

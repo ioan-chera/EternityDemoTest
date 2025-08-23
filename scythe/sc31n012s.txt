@@ -1,0 +1,22 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31n012s.lmp
+           sc31n015s.lmp
+
+NM-Speed in 0:12 (secret exit)
+
+    Kills   - 11%
+    Items   - 0%
+    Secrets - 20%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: One of the last NM-Speed runs from the sc_lmps demo pack that has not been beaten yet. Aside from the two trivial runs (maps 7 and 23), only map 3 NM-Speed remains; I think eventually I'll get to that one as well. :D With respect to this run, Ryback's 0:54 took it very safely and cleared out a lot of monsters including both archviles, but the route to the exit is short enough that just lucking through the entire thing is totally feasible. First exit was very lucky, manc attacked AV so I didn't take damage while running across the platforms and exited with 100 health, but it was ugly, so I wanted a better run. Next I got 14s, and soon after this, which I'm pretty happy with. A more masochistic route might skip even more health, but fuck that, this was already luck-based enough.
+
+First exit also included to show the luck. :D

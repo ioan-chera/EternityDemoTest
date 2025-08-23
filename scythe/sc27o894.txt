@@ -1,0 +1,15 @@
+              Scythe
+          Map 27: Terror
+       WAD Author: Erik Alm
+------------------------------------
+           sc27o894.lmp
+
+Nomo in 0:08.94
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: I knew 8 was possible when I did my old 9s run, I just didn't feel like grinding it at the time. Naturally, I had to come back for that at some point. Not easy, jump is tough setupless, although I found some some strategies to make it a bit more consistent; specifically, I got a better idea of the range of angles that make the jump work and tried to turn enough to get that (still happened rarely). Rest of the run needs good movement for an 8, and that's not too easy. Got a small bump in this one, somehow got an 8 anyway, so I'm happy.

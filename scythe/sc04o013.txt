@@ -1,0 +1,17 @@
+              Scythe
+      Map 04: Lost Warehouse
+       Map Author: Erik Alm
+------------------------------------
+           sc04o01320.lmp
+          sc04s4o01386.lmp
+
+Nomo in 0:13.20
+Nomo in 0:13.86 (strafe40 only)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Only beats Kyle McAwesome's DSDA run by tics (I believe his run is strafe40 only). It's close to 12s, and that is probably a possible time to get, but having looked at this run in XDRE, it looks like there are very few improvements to make. Some of the movement in the midsection of the run doesn't seem optimal, and it's still definitely not perfect, but there's 8 tics is still a lot of time to save, and I dunno if I'm going to improve enough at movement to get 12s anytime soon. Uploading this since it is a clean run, and I probably won't be focusing on it in the near future. Included a strafe40 only run I recorded for fun in ~5-10 minutes or so.

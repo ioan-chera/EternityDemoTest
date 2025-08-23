@@ -1,0 +1,22 @@
+sc22p027.txt
+  sc22p027.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.5 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 22 - Despair (by Erik Alm)
+
+  ================
+  Kills         7%
+  Items        66%
+  Secrets       0%
+  ----------------
+  Time        0:27
+  ================
+
+  Description:
+  Credit to Angus for the route. The revenant slalom is quite easy and saves plenty of time,
+  someone should've done it sooner. Distracting the cyber fast enough is much, much harder.
+
+author: dew
+e-mail: dewww@seznam.cz
+11. 12. 2009

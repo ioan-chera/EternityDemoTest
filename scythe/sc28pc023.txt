@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map28: Run from It
+Category: UV Pacifist Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:23.91
+-------------------------------------------
+4shockblast:
+
+This was late into the stream we were doing at the time, and in Woof/co-op, so I was struggling with the movement here ngl. :^) But in the end, I think this run looks pretty decent. My start movement doesn't matter much, so I try to push Garrett a bit with boosts.
+
+GarrettChan:
+
+My time to the switch is basically the whole thing to dictate how fast the run is. This one is not my best out of the bunch, but it's still decent. Though later I compare the time to 4shock's solo Pacifist, it's still a pretty big time behind for a 24-second run...
+
+Apr 20 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

@@ -1,0 +1,19 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28p025.lmp
+
+Pacifist in 0:25
+
+    Kills   - 36%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence
+Author: 4shockblast
+WAD: scythe.wad
+Category: Pacifist
+
+Comments: 450ish attempts or so. It's basically nomo but you hope not to get blocked. Most of the time you get blocked. This run wasn't even clean, but I got the line skip, so it was fast enough. :^)

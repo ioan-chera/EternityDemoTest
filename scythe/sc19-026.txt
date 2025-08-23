@@ -1,0 +1,35 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      19 - "AD"
+Skill:     4
+Category:  Speed
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:26
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     6%
+           Items    50%
+           Secrets   0%
+
+Comments:
+
+What a nice map! I followed Erik's and Ryback's great route, 
+and added a new trick: grabbing the invuln through the wall. 
+It's pretty easy, you get it at least 4 times out of 5.
+
+This run went pretty well for the most part -- I almost 
+wrecked it at the end (by running to close to the ledge for 
+the second AV jump), and the very last few seconds aren't 
+good, but I was so lucky with the Arch-Vile here that I 
+really can't complain. :-)
+
+Pacifist is cool for this map, too, I think I'll try that 
+next!
+
+Kristian Ronge
+
+zuckuss@gmail.com

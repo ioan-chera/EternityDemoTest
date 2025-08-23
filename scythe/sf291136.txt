@@ -1,0 +1,43 @@
+Game: Doom 2
+Pwad: Scythe
+Filename: sf291136.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: 29 (Hell On Earth)
+Exe/Port used: GLBoom 2.2.6.26 (PRBoom Plus) -complevel 2
+
+Totals:
+Kills      100%
+Items      75%
+Secrets    100% and (Time- 11:36)
+
+Comments: 
+The name of this map fits the challenge of the level for me perfectly when I started a recording session for this map.  Took me 3-4 hours to get one bloody exit here!
+
+Getting this outta the way first, but yet another stellar map to record on, if a bit hard here.
+
+This map is NOT easy on UV -fast, mainly due to all the enemy fire getting flung around, especially after getting out of the first building.  There are also a couple fights that take place in somewhat small-ish areas, and with most of the enemies in those cases being able to fire some kind of projectile, it gets overwhelming and dire quickly if you can't dodge well.
+
+Compared to Ryback's run, I grabbed the SSG after dealing with the first two archies.  The revs can help with one archie if you place yourself just right while you deal with the other one using the CG.
+
+After the SSG, I grab the Plasma Pack, Soulsphere, and Megaarmor secret while taking out a couple arachs along the way.  I need a Megaarmor and the Soulsphere to survive in the 2nd building.
+
+After getting the RK and collecting the BFG secret, the rest of the run is far more managable.  The three cybies in the main courtyard are easily dealt with using the BFG, though you need them to be clumped up to make the most out of your BFG shots, which is why I hid myself for a bit when I went out to deal with them cause one was a fair deal away from the other two.
+
+Cybie #4 is easy to deal with.  3-4 BFG blasts and it's history.  Dodging its rockets isn't hard either at the range I was at.
+
+YK building isn't hard, save for the cybie that teleports in on you before the switch that lets you get to the exit.  Once into dodging pattern though, a few BFG blasts puts it out of comission.
+
+2nd Megaarmor is collected, if only to trigger the 2 Cacos and archie that pop up.  They're easily dealt with using the BFG.
+
+2 arachs usually are nearby using this route, but they're also dealt with easily using the BFG.
+
+Heading up to the exit, the Plasma Pack should be taken and the last enemy, a cybie, BFG'd to hell and back.  Exit when done.
+
+All in all, an ok demo, but given how nasty this level is on -fast (Perhaps for me at least :P), I took whatever exit I got.
+
+Some spots went slow, but that's to be expected on this map.
+
+Probably 20-30 seconds or more can be shaved off, but I'll leave this to someone else for now and look at more undone UV -fast levels.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

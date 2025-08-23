@@ -1,0 +1,31 @@
+WAD: Scythe
+MAP: MAP08: Garden Base
+Time: 0:11.94
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 20, 2013
+
+I tried out that "dreaded" SR50 jump at the beginning to see if it was
+possible without tools. It's really not that hard.
+
+While practicing it, I exited in 16.74 (because I didn't grab RK on the
+first try). After that, I knew I should start recording. Started at 1
+a.m. (rofl) and I got this in 10 minutes. :P I didn't have to stay up
+late fretting over this one. Nice break from another demo I'm working on.
+
+This looks unpolished, primarily right after the jump since this is my
+first time getting the jump after starting to record (once again 10 minutes
+in is not bad). At the end I thought, oh noes, I'm gonna get 12, but it
+was this, and I was so happy. :)
+
+To improve this, mainly you have to get the jump better and not fumble 
+around so much after. It's a bit luck-based, since you have to line yourself
+up correctly quite quickly. Here I lined myself up quickly enough, but it
+was at an angle where I bumped the wall after I made the jump. It's possible
+not to have to do that at other angles. But it's 1:10 in the morning and
+I'm a tired lazy Doomer who needs to go to bed. XD
+
+Good luck to anybody who wants to get 10s. Shouldn't be hard once you
+practice up and master the SR50 jump at the beginning.
+
+--Doomdaniel95

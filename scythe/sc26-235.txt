@@ -1,0 +1,12 @@
+Pwad:      scythe.wad
+Pwad name: scythe 
+Maps:      26
+Skill:     4
+Category:  UV-Max
+Exe:       Prboom+ v2.5.1.5
+
+Time:      2:35
+
+Author:    Ahmad 
+
+Comments:  easy

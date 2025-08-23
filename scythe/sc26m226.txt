@@ -1,0 +1,17 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Pwad:      SCYTHE.WAD
+Map:       MAP26
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.27.5 -complevel 2
+
+Time:      2:26.23
+
+Author:    Vile
+
+Comments:  The red key cybers were pretty ugly and some cleanup
+could certainly be faster.  This is my penance for not knowing
+more about good monster closets when I was testing this back in
+the day.

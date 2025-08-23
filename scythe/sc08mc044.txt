@@ -1,0 +1,30 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map08: Garden Base
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:44.80
+-------------------------------------------
+4shockblast:
+
+Strafejump still seems not that useful to me, not much faster than the previous co-op time. But, it does help lure a lot of stuff out early for the BFG shots, and it's not clear that I would be useful if I was in the same place as Garrett since we would probably get in each other's way. My side is a bit sloppy at times, perhaps if I were faster, I could have time to pick up RL and help a bit in some parts too as I wait a bit at the end in this run.
+
+GarrettChan:
+
+A very confusing map to route around. I don't think we did the best for routing this map, but in the meantime this map has very annoying moving parts to route... I don't need to do any tricks, but I can definitely do better for the final few monsters to exit quicker.
+
+Youtube Video: https://youtu.be/-DlFWhJhsbQ
+
+Mar 12 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

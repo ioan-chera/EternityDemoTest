@@ -1,0 +1,19 @@
+              Scythe
+        Map 15: Blood Bath
+       Map Author: Erik Alm
+------------------------------------
+           sc15str027s.lmp
+
+Stroller in 0:27 (secret exit)
+
+    Kills   - 23%
+    Items   - 0%
+    Secrets - 33%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Cool little archvile jump makes it possible to reach the exit without running (pretty sure this isn't used in any other category). Second exit, .00, but it is kind of an annoying run, so whatever. I expect this jump to be theoretically useable in normal secret exit pacifist if the nomo ledge jump is incorporated and the archvile attacks early enough so that it happens right as you reach the jump spot, but it'd be quite hard to get that route to work.

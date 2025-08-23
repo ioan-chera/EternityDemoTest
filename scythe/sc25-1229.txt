@@ -1,0 +1,11 @@
+Runner: ferfrancuito
+Date: 2018-Aug-16 22:27
+IWAD: SCYTHE.wad
+Category: UV-speed
+Map: 25
+Source Port: PRBoom v2.5.1.4
+Time: 0:12.29
+Attempts: 1700
+
+Description:
+I like the route needed for this level, and that glide it's easy as long as arachnotrons are not in the way,, just need good RNG and avoid bumping walls.

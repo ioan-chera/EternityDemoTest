@@ -1,0 +1,23 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       22 - Despair
+Skill:     4
+Category:  UV Speed/Pacifist
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      12%
+Items:      66%
+Secrets:     0%
+
+Time:      0:32
+
+Comments:  Another great map for speedrunning :)
+           Under 0:30 is possible.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+28.07.2005

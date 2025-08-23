@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom2.wad
+Pwad:      scythe.wad
+Map:       MAP01
+Skill:     4
+Category:  UV Tyson
+Exe:       dsda-doom 0.27.5 -complevel 2
+
+Time:      0:36.03
+
+Author:    monsieur e
+
+Comments: Clueless

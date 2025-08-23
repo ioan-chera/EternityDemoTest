@@ -1,0 +1,16 @@
+              Scythe
+       Map 30: Fire and Ice
+       Map Author: Erik Alm
+------------------------------------
+           sc30o030.lmp
+	   sc30o031.lmp
+
+Nomo in 0:30.80
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Not an ideal start, but everything else went well, RJ is pretty easy, actually, with this angle. I think 29 may be possible with a single-shot Romero, but I don't see it happening without that non-TAS, and, as far as I can tell, killing Romero in one shot is RNG, so I'm not going for that right now. Also included is a 31s demo that doesn't use the RJ.

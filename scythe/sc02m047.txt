@@ -1,0 +1,22 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      DOOM2.WAD
+Pwad:      SCYTHE.WAD
+Map:       MAP02
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.22.1 -complevel 2
+
+Time:      0:47.86
+
+Author:    kmc
+
+Comments:
+This demo is free to beat.  Here's a few ways:
+1) Kill both zombiemen with barrels before yellow door
+2) Open yellow door before punching imp
+3) kill pinky after yellow door with barrel
+4) Final imp not taking 2 punches.
+
+352 attempts, not counting the 1000 more attempts I did after getting this.  I might have a lower 47demo, but this is the only one I renamed unfortunately.

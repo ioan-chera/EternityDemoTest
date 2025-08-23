@@ -1,0 +1,15 @@
+              Scythe
+          Map 19: 3000 AD
+       Map Author: Erik Alm
+------------------------------------
+           sc19o113.lmp
+
+Nomo in 1:13.37
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: This run was sort of boring. Most of it is just running with no difficult movement, and it's not too fun waiting for that lift. 1:12 is very clearly possible, but this run looks clean enough and I don't really care to bring it down any further.

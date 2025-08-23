@@ -1,0 +1,31 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28-029.lmp
+	   sc283009.lmp
+
+UV-Max in 0:29
+
+    Kills   - 81%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments:
+Kimo in sc28-031:
+--------------------------------------------------------------
+My route kills all the reachable monsters and gets the secret.
+  Human Optimal is 0:31 (I claim this run is optimal!)
+--------------------------------------------------------------
+
+A bit of a bold claim there ;). Of course, I'm sure if Kimo looked at this run now, the improvement potential would be pretty clear both in the movement and routing departments. While Kimo's strategy to expend all SSG/rocket ammo until last shots was pretty cool, it still resulted in the revenant kill being pretty slow, so naturally I wanted to see if I could improve that. Of course, I wanted to be able to BFG the rev, but switching to a new weapon at that point was too costly, and BFGing the rev as I get there meant I wouldn't be able to get to the chainer in time for the tracers to hit. So, my solution was to BFG the revenant backwards as I was running down the hallway to the staircase, and it worked :). It is reliant on luck, of course; I need to get a good timing on the BFG shot and it needs to actually hit and kill the revenant, but the run is already full of luck, so whatever.
+
+Otherwise, the main improvement is movement; Kimo's run was a bit slow (as an example, the second set of zombiemen in this run teleport after I rounded the next corner, while in Kimo's run he's still moving towards the corner), so in the end, my first sub-0:31 exit was a 30.09, so naturally I had to go for 29. Wasn't crazy difficult to get it, although getting to the exit and killing everything is pretty luck-based; it wasn't easy to rocket both chainers, the imp would sometimes be out of reach, I'd get blocked by the lost souls often, or the demons wouldn't get hit by the rockets and of course the ending. Still, it's a pretty fun run; I like the movement on this map.
+
+I included my 30.09 as well.

@@ -1,0 +1,26 @@
+This is a .LMP Entry for Eternal Doom - Please forward it...
+
+SC08-011.TXT
+
+ SC08-011.ZIP
+
+  SC08-011.LMP - Ultra Violence Speed & Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File SCYTHE.WAD -PlayDemo with Version 1.9
+
+  SCYTHE - Level 08  
+    
+  Kills    0%
+  (Items   0%)          
+  Secrets  0%  and Time  0:11 
+                        
+ 
+  Description: 
+  
+  Second exit, looks still slow. 
+  Maybe it could be done in 0:09 or so but I don't feel like
+  trying the jump more for now.
+
+  Adolf "Gusta" Vojta
+  hita@seznam.cz

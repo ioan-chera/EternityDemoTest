@@ -1,0 +1,31 @@
+WAD: Scythe
+MAPS: MAP01-MAP10
+Time: 3:20
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Here are the maps, times, and ratings:
+{note: :) is good, :| is OK, and :( is could be improved greatly}
+
+MAP:  MAP NAME:             TIME:  RATING:
+MAP01 (Get Going):..........0:11.....:)
+MAP02 (Punchline):..........0:13.....:)
+MAP03 (Up and Around):......0:19.....:)
+MAP04 (The Lost Warehouse):.0:20.....:| 
+MAP05 (Slimy Tunnels):......0:17.....:|
+MAP06 (Pressure Point):.....0:26.....:)
+MAP07 (Deadly):.............0:09.....:(
+MAP08 (The Garden Base):....0:21.....:)
+MAP09 (Computer Storage):...0:40.....:(
+MAP10 (The Lords):..........0:24.....:|
+GRAND TOTAL:................3:20.....:)
+
+I don't know if this could be under 3 minutes, but it could be around 3:10
+without the ugly mistakes on MAP07 and MAP09, and if I was bold enough to try
+the switch trick on MAP10. However, this is the first time ever in a run like
+this that I got the rocket jump to work (on the second try, though, lol), so
+I didn't really want to try again and screw up on MAP07. Now that I have this
+recorded, I might try it in the future? It's also good to see I have 5 happy
+faces and three OK ones, just two bad ones. :)
+
+--Doomdaniel95

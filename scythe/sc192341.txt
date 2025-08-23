@@ -1,0 +1,18 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Wad Author: Erik Alm
+Map: 19
+Skill: UV
+Category: Tyson
+
+Time: 23:41
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 12/30/2011
+
+Comments: Total filler, hope it isn't too boring.  Mastermind fight is kind of cool, but most of it is just hiding and allowing infighting.

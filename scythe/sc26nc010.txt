@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP26: Fear
+Category: NM Speed Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 8.1.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:10.97
+-------------------------------------------
+4shockblast:
+
+Soon we'll have to do max. Or -fast. That's when I'll really feel fear. :^)
+
+GarrettChan:
+
+What's left when all the easy categories are gone? :^)
+
+Mar 28 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

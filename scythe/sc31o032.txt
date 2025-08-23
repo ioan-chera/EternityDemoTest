@@ -1,0 +1,11 @@
+WAD: Scythe
+MAP: MAP31: I Dunno Torn (normal exit)
+Time: 0:32.57
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 24, 2013
+
+Fun work, got this here in about 15 minutes. That being said, it can be
+improved. Hopefully somebody gets this under 30 if possible.
+
+--Doomdaniel95

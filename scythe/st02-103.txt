@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad:      scythe.wad
+Pwad name: Scythe
+Maps:      MAP02
+Skill:     4
+Category:  Tyson
+Exe:       Prboom+ 2.5.1.3 -complevel 2
+
+Time:      1:03
+
+Author:    Plut
+Done March, 8, 2013
+
+Heh, it's very strange than no one before Springy wasn't tysoned this map, I'd glad to see 0:xx :).
+

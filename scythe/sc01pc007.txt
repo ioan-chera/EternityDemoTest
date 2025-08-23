@@ -1,0 +1,30 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP01: Get Going
+Category: UV Pacifist Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.3.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:07.91
+-------------------------------------------
+4shockblast:
+
+7s was tricky and required things to go right on both sides, so don't think all the hard work was on my side. That said, the staircase sucks just like in SP, and getting from the switch to the exit bars fast enough and then entering those fast enough and getting to the exit switch and not bumping the ceiling all majorly fucking suck so, glad to get this out of the way. :^)
+
+GarrettChan:
+
+Well, I have nothing to say because hard work goes to 4shock again :P
+
+I jsut hope I don't get blocked in those 2 place where it matters.
+
+Oct 20 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

@@ -1,0 +1,36 @@
+| This is a Doom .LMP | Doomed Speed Demos Archive http://doomedsda.us/ |
+-------------------------------------------------------------------------
+Filename : sc18-053.lmp, sc18-053.txt
+Date     : 2017-09-25
+Iwad     : doom2.wad
+Pwad     : scythe.wad
+Game     : Scythe
+Exe      : Doom2.exe ver1.9 
+Category : UV-Max
+Map(s)   : MAP 18: M/S Futura
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :   0%
+Secrets  : 100%
+Time     : 00:00:53
+===================================
+Description:
+
+A jump trick to gray sea is also useful for UV-Max. 
+It was very hard for me. I frequently ruined my run with 
+very good infighting result. The success rate of telefrag 
+was not high, though it only depended on luck. It annoyed 
+me pretty much. 
+
+A faster glide (1 or 2 seconds) would make a better result, 
+but I gave it up because of decelesing the number of trials 
+of the jump trick per unit time. By the way, I used a gilde 
+in sc18-055.lmp.

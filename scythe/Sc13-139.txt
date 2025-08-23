@@ -1,0 +1,11 @@
+IWAD: Doom2.wad
+PWAD Name: Scythe.wad
+Map: 13
+Skill: 4
+Category: UV-Max
+Exe: Woof! 12.0 complevel 2
+Recorded on: 22/09/23
+Time: 1:39
+Author: SilverHurling
+Description:
+Just having fun and giving a try to doom done fast.

@@ -1,0 +1,48 @@
+This is a Doom LMP Entry
+
+SC27-446.ZIP
+
+	SC27-446.TXT
+	SC27-446.LMP - UV Max
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 27 - Terror
+
+=---+------+---=
+Kills       103%
+Items        82%
+Secrets     100%
+ 
+TIME        4:46	Old record: 5:39 by Chris "TimeOfDeath" Balch
+=---+------+---=        
+
+Demo entry #62.
+
+Description:
+
+His Majesty ToD gladdened me with his fresh record for a stylish, dreadful,
+cruel map located in the bowels of Hell. His result is far below Vile's classic
+record (6:41), which i considered absolutely godly a few years ago.
+
+Quickly I started working on my answer to ToD's demo, because I was thinking of
+a modernized route which would break one more minute-barrier. My first survival
+was 5:12. After many more hours of practicing the run and polishing my strategy,
+I finally reached the exit for the second time, breaking the 5:00 mark with a
+huge margin.
+
+Despite totally shaky performance in the end, I won't improve this demo further,
+unless ToD takes it back. It was the most painful of all my regular UV Max runs
+(including the one for the dreaded MM2 MAP28). When playing with an aggressive
+route, the monsters are scattered around unpredictably and it becomes very hard
+to watch out for their heavy projectiles (which turn me into an invalid with one
+hit from the back, because of zero armor). Of course, the cybers owned me a few
+times as well, but they are relatively easy to handle if you strafe widely
+enough to get out of the potential zone of rocket hits. Two barons and a vile
+guarding the BFG killed me a lot more times.
+                          
+
+
+Author: SAV88 (Artem V. S.)
+Done October 22, 2010, 15:49:32

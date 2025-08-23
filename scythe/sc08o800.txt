@@ -1,0 +1,16 @@
+              Scythe
+       Map 08: Garden Base
+       Map Author: Erik Alm
+------------------------------------
+           sc08o800.lmp
+           sc08o857.lmp
+
+Nomo in 0:08.00
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Well, it is what it is. Includes previous run.

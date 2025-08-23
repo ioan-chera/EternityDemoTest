@@ -1,0 +1,20 @@
+Pwad name: Scythe
+Maps:      18 - "MS Futura"
+Skill:     4
+Category:  Nomonsters (trick)
+Exe:       Recorded using Doom2 Version 1.9, Win XP, -nosound
+Time:      0:16
+
+
+Stats:     Kills     0%
+           Items     0%
+           Secrets   0%
+
+Comments:
+
+Just to show that the second glide is not only possible,
+it's not really that hard either.
+
+
+Author:	"cack_handed"
+14/01/2009

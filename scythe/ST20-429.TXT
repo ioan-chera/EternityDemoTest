@@ -1,0 +1,37 @@
+This is a Doom LMP Entry
+
+ST20-429.ZIP
+
+	ST20-429.TXT
+	ST20-429.LMP - UV Tyson
+
+Recorded using Doom2 Version 1.9
+
+Scythe - Level 20 - The Starport
+
+=---+------+---=
+Kills       100%
+Items        75%
+Secrets     100%
+ 
+TIME        4:29	Old record: 7:39 by Adolf "Gusta" Vojta
+=---+------+---=
+
+Demo entry #8.
+
+Description:
+
+This map is a great ending to this powerful episode. Level is a bit too short
+for my taste, but switching to Tyson mode really gives the depth and challenge
+to it!
+
+My demo was recorded before Gusta's entry, and i reached this first exit after
+a surprisingly little number of hours. Not all parts of this demo are quick, but
+I'm just happy with the time (my target was 4:59 or less).
+
+Anyone for under 4:00? :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done May 25, 2007, 12:46:56

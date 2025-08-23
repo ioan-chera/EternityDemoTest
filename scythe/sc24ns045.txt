@@ -1,0 +1,17 @@
+SC24NS045.TXT
+SC24NS045.LMP
+SC24NS045.ZIP
+
+Player : megasphere308
+Date : 2021-06-02
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP24 Hatred
+Source port : dsda-doom v0.18.0
+Time : 0.45.66
+
+Description :
+
+Didn't bother with the rocket jump, so it took only 20 attempts, to get past the barons and the cyber fast enough.
+
+megasphere308@gmail.com

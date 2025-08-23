@@ -1,0 +1,15 @@
+              Scythe
+       Map 15: Blood Bath
+       Map Author: Erik Alm
+------------------------------------
+           sc15o883.lmp
+
+Nomo in 0:08.83
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Well, it's certainly too far from 7s, so I didn't bother with the wallrun (probably a .1-.2s time save there). But this was really hard to get in 8 in 2014, and now it was less than 150 attempts for this, so might as well dunk on that old run.

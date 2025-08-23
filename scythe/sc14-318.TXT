@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Scythe.wad      
+Pwad name: Scythe
+Map: 14 - Power Outage
+Skill: 1
+Category: Pacifist
+Exe: prboom-plus 2.5.0.6 (complevel 2)  
+
+Time: 3:18
+
+Author: Philnemba 
+Email: Philarts14@yahoo.com 
+
+comments: A very hard map to pacifist considering its the only map in scythe that doesn't have a pacifist run(and I know why). Also I did it in skill 1 because the monster placement is the same so it was more possible for me to do this(although I might try skill 4 one day...maybe).
+          

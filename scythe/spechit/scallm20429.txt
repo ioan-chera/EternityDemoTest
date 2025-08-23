@@ -1,0 +1,49 @@
+Recorded using DSDA-Doom v0.15.0 with Doom II compatibility (-complevel 2)
+Uses advanced hud
+
+Iwad name: doom2
+Pwad name: scythe
+Maps: 1-30 + 31/32
+Skill: 4
+Category: UV-Max (d2all movie)
+Time: 2hr04m29s
+
+Author: Starduster
+Date: 3/15/2020 (m/d/y)
+
+**81% kills is the standard UV-Max percentage for MAP28**
+
+Comments: 
+
+Maps 1-27 are just dumb practice levels, the real start of scythe.wad begins at map 28. 
+
+I never thought I'd get here. One month ago I began attempting this run, and my second ever attempt died on map 28. It was a huge
+surprise to me, being able to clutch the run all the way up until 28. I've learned so much since then and can now say that I feel
+I've mastered Scythe completely and am happy to leave it at this. 
+
+The only way this run seemed remotely possible to ME was by using a linedef skip to prevent the crusher off the map from activating
+in 28. Shoutouts to PartyCrasher for his youtube video showcasing a setup for it. That skip is extremely precise and can fail even
+if your movement tics are perfect. If you are just 0.05 off in any direction from the desired initial position before going for the
+skip, it will fail and your run will end right there.
+
+After I had done my episode 3 UV-Max using PC's setup, 4shockblast posted a demo of 28 demonstrating a new setup for the skip in 
+the speedrunning discord. That's the one you see in this demo. It had a much better success rate than the one I was using before - 
+I never failed it in attempts :).
+
+This was my third D2ALL attempt to reach map 30. My first run there was absolutely horrible (forgot strategies in previous levels),
+while the second was much more clean (and on pace for sub-2hrs!). To be honest this run was a mix of both. It's your average
+scenario with movie demos: There's gonna be some maps and moments in the run that you look back on and cringe at, but it doesn't 
+change the fact that the run is done. 
+
+Hopefully I can go back to being a normal person now, but others have told me that won't be the case :)
+
+Last but not least, there are a few people who this text file wouldn't be complete without. Thanks to:
+-NightTerror, for being such a supportive friend. Having someone to talk to about the journey is what motivated me to keep pushing.
+-4shockblast, for showing me the new map 28 setup and being an inspiring scythe legend.
+-Daerik, for being an inspiring d2all legend.
+-David Asaad, for being a great friend and inspiring legend in general.
+-stxvile, for being an inspiring doom speedrunning legend.
+<3
+
+Youtube upload of this demo: https://youtu.be/KAKsoG7obUI
+Speed demos archive: https://dsdarchive.com/

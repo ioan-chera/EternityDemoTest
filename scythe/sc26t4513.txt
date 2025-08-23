@@ -1,0 +1,18 @@
+Wad:       Scythe
+Pwad name: scythe.wad
+Map:       26
+Skill:     4
+Category:  Tyson
+Exe:       dsda-doom-0.24.1 -complevel 2
+Demo Date: 21.06.22
+-------------------------------
+Time:      45:13.91
+Comments:  Went surprisingly smooth. Every turret cyberdemon can be killed using blockmap trick. Got lucky surviving with 1% health at one point of the demo, otherwise that
+could've actually been 2378482752+ hours grind.
+	   
+Attempts:  4
+-------------------------------
+Author:    Petyan
+-------------------------------
+Discord - Petyan#1290
+Twitch - https://www.twitch.tv/petya_p90

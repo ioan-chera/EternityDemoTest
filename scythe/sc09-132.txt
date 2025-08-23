@@ -1,0 +1,22 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       09 - Computer Storage
+Skill:     4
+Category:  UV Max
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      1:32
+
+Comments:  Not bad! 10 seconds faster than Ryback :)
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+22.09.2004

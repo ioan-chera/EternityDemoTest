@@ -1,0 +1,12 @@
+Player: Tobby
+Time: 0:25.66
+
+IWAD: doom2.wad
+PWAD: scythe.wad
+Exe: Dsda-Doom v0.24.3 complevel 2
+Skill: 4
+Category: Stroller
+Map(s): 02
+Date played: June 18th, 2022 (GMT+8)
+
+Comments: I was kind of surprised to see that nobody has taken the time to beat Kristian Ronge's demo that was recorded all the way back in 2005, and since I beat it by over a second by my 6th attempt lol. Anyways I decided to dump a few hundred more attempts into map and this was the lowest exit I got.

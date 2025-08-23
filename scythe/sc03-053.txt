@@ -1,0 +1,21 @@
+Pwad:      scythe.wad (by Erik Alm)
+Title:	   Scythe
+Map:       03 (Up and Around)
+Category:  UV Max
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.2 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      0:53
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+Stupid map, stupid berserk, stupid imps. I thought I'd improve Gusta's route
+by going for the 'zerk sooner, but it just means less reliability and more
+cursing when imps refuse to die. The bonus demos show a taste of that.
+
+Recorded:  September 6th, 2011

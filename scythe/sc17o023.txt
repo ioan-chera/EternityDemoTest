@@ -1,0 +1,15 @@
+              Scythe
+        Map 17: Book Lords
+       WAD Author: Erik Alm
+------------------------------------
+           sc17o023.lmp
+
+Nomo in 0:23.94
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: 23s seemed like it'd be extremely tough. Then when trying it, I figured maybe not that bad? But it was still bad in the end. :^) The movement here is very complicated; lots of sharp turns, lots of doors/switches, the fact that the blue key room exists, and multiple turns around corners into lower floors, which are especially tricky to do quickly. Fun run because of that but wish it didn't take this long; had many 23 candidates fail at the end. But that's just speedrunning for ya. :^)

@@ -1,0 +1,9 @@
+Runner: Christopher "Dime" Dewey
+IWAD: Doom2.wad
+PWAD: Scythe.wad
+Category: UV-Stroller
+Map: 26, Fear
+Source Port: Cndoom 2.03
+Time: 2:08
+
+Just taking the scenic route in hell.

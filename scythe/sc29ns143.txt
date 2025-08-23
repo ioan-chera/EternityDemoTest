@@ -1,0 +1,11 @@
+player: aconfusedhuman
+date: 03-12-2021
+iwad: DOOM2.wad
+pwad: SCYTHE.wad
+map: 29
+skill: 5
+category: nm100s
+sourceport: dsda-doom 0.19.7
+time: 1:43
+comments: tried this yesterday, no exit, but i got my first exit after a bit of grinding today. not a bad time, but the main time losses are a slow ZP, not skipping green armour and also killing the BFG vile (you can run past him instead).
+this run is pretty fun... apart from up to the yellow key. out of the 429 attempts i did, i think only about 15 got past the YK, and then 2 of those died past the yellow door :p

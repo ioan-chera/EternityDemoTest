@@ -1,0 +1,19 @@
+              Scythe
+        Map 21: Solitude
+       Map Author: Erik Alm
+------------------------------------
+          sc21str027.lmp
+
+Stroller in 0:27
+
+    Kills   - 20%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Just went for a bruteforce strategy here. Took some time to survive as you need quite a bit of luck with the archvile infighting and the ending; surprised I survived here at all with the health I got to the ending; PE helped out a bit as a shield. Probably could have been 26 without an AV block at the end, but this was kinda hard, so just happy with this first-exit filler.

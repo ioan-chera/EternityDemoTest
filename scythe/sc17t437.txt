@@ -1,0 +1,27 @@
+This is a .LMP Entry for Scythe 2 by Erik Alm
+
+SC17t437.TXT
+
+ SC17t437.ZIP
+
+  SC17t437.LMP - Ultra Violence Tyson
+
+  Recorded using PrBoom 2.2.6 with -complevel 0
+  
+  SCYTHE - Level 17 - Book Lords  
+    
+  Kills    100%
+  Items    100%          
+  Secrets  100%  and Time  4:37
+                        
+ 
+  Description: 
+  
+  I recorded this on the LAN Party in Prague, just to have some fun when everybody fell asleep after
+  some 20 hours of playing doom. :-)
+  My favourite map, not perfect demo in any way.
+
+
+
+  Adolf "Gusta" Vojta
+  hita@seznam.cz

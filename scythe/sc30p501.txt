@@ -1,0 +1,39 @@
+This is a Doom .LMP - Please forward it...
+
+sc30p501.txt
+
+sc30p501.zip
+
+sc30p501.lmp - Ultra-Violence Pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 30 - Fire and Ice
+
+
+================
+Kills       27%
+Items       42%
+Secrets     20%
+----------------
+Time       5:01
+================
+
+
+Description:
+
+At first, I thought Romero can be killed by a cacodemon. However, 
+caco's attack can't hit Romero easily. You can know about this 
+if you watch failed demo which I included (sc30pfai.lmp).
+To kill him would be easy if a lost soul came to Romero's room,
+but cacos always came to there. I was only waiting until not a caco
+but a lost soul appeared in Romero's room, and I managed to do it.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

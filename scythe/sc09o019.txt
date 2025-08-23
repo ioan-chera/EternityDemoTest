@@ -1,0 +1,15 @@
+              Scythe
+     Map 09: Computer Storage
+       Map Author: Erik Alm
+------------------------------------
+           sc09o019.lmp
+
+Nomo in 0:19.97
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Uses slightly different red key strafejump strategy from GrumpyCat (and I assume the other previous records). It seems faster, but I don't think it's necessary for 19 seconds; the rest of the demo isn't ideal.

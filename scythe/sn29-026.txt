@@ -1,0 +1,45 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      29 - "Hell On Earth"
+Skill:     5 - NightMare!
+Category:  Speed
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:26
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills     5%
+           Items     0%
+           Secrets   0%
+
+Comments:
+
+Firstly, many thanks to Jochen "Angus Thermopyle" Schneidau for 
+providing the (much needed) inspiration for this run. I more or 
+less copy his route, only I play the start just like in UV.
+
+You'd be surprised how often I got away with doing the start 
+like this. Of course, there's always the odd attempt where I'd 
+get blasted to bits after only 2 or 3 seconds, but more often 
+than not I was well into the "safe" range (>50% health) when 
+having passed the 2 Arch-Viles. The blast after pressing the 
+switch is intended to make them move out of my way, BTW.
+
+This map is a pretty good example of why NM speed isn't as 
+much fun as UV speed. Exits here were few and far between. :-(
+
+I was nearly killed on the final staircase in this run (or 
+at least blown off it), but somehow I survived, and could 
+finish. At last.
+
+sn29argh.lmp is the very definition of a Ronge style demo. 
+Everything went great (I even had so much health I didn't 
+have to use Jochen's somewhat risky blue armour grab, which 
+was *very* rare), until ... well, just watch it. :-)
+
+Kristian Ronge
+
+zuckuss@gmail.com

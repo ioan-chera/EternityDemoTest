@@ -1,0 +1,19 @@
+              Scythe
+            Map 19: AD
+       Map Author: Erik Alm
+------------------------------------
+           sc19-337.lmp
+
+UV-Max in 3:37
+
+    Kills   - 100%
+    Items   - 75%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Second exit, for the most part the route is blatantly stolen from SAV's UV -fast, though weapon usage is different. Fun map, though the start seems more annoying than -fast would be, as there is less infighting and the archvile attack is often slow. This results in the invuln running out much more often, and since the monsters in the central area at the top move around a lot more, it makes it much more difficult to take out the archvile before the time runs out, and even if I do I can easily get caught in the crowd and killed. Everything else is pretty straightforward, though sometimes I'd get killed when trying to push through the monster to get back up to the upper area, and occasionally I'd die elsewhere due to really bad luck or stupid errors. This was my second exit, and it went mostly fine, though there is definitely room for improvement from infights and a few missed shots. Also, I had kinda bad luck with one demon that blocked me due to infinite height (on one demo he didn't let me pass by at all), and the mastermind fight could be quicker since I got pretty bad damage. Still 9s away from SAV's -fast, but -fast allows for more effective infighting.

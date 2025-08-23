@@ -1,0 +1,14 @@
+Runner: Professor Soundman
+Date: 30/6/2021
+Sourceport: dsda-doom (Version 0.19.7, complevel 2)
+IWAD: Doom 2
+WAD: Scythe
+Map: Punchline (Map 02)
+Category: UV-Speed
+Time: 0:00:11
+Attempt: 131
+
+Comments: 
+Yeah, of course 11 seemed impossible to me...because I wasn't using my brain and didn't think jumping to the exit platform from any angle was possible. 
+I even said that jumping from the yellow door to the exit platform was impossible...without watching the record set by 4shock and remembering that SR50 exists.
+I apologise for my dumbassery, here's the best run I've achieved so far without the use of SR50 because my current keyboard only allows two keystrokes at a time. Enjoy! :)

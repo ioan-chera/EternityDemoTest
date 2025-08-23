@@ -1,0 +1,24 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       02 - Punchline
+Skill:     4
+Category:  UV Max/Tyson
+Exe:       prboom 2.2.6 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      0:51
+
+Comments:  I am happy that I beat Radeg's time by 3 secs, that doesn't happen to me
+           so often. My 2nd best time were some 55s runs. In this try I finally got
+           some luck with barrels and killing many demons with one punch.
+           Tyson only demo could be below 50s maybe I will try it :)  
+
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+
+14.10.2006

@@ -1,0 +1,16 @@
+
+Recorded using glboom-plus 2.5.1.4 with Doom II compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 31
+Skill: UV
+Category: Tyson
+Time: 9:19
+
+Author:   Kyle McAwesome
+Date: 2/13/2019
+
+Comments:
+Just a quick first exit I did to take a break from the more elusive ones I've been working toward.  If I ever improve this, I don't think I'll bother trying to create infights.  Pretty easy map for tyson.  

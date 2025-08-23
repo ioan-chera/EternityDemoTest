@@ -1,0 +1,15 @@
+WAD: Scythe
+MAPS: MAP11-MAP20
+Time: 5:07
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Every speedrunner knows a second is a LONG time during a gameplay. In MAP12 and
+MAP13, I lost one second per each level, so that's two seconds hurting my time
+(this could've been 5:05). However, the real improvements came in MAP18,and 
+MAP20. MAP18, I finally didn't hesitate on where the blue key was, and in MAP20
+I just had faster running altogether. So, I'm still anxious about getting a
+time under 5 minutes, but I'm progressing nicely, I think. (I hope that doesn't
+sound like bragging; I don't mean for it to sound like I am.) :)
+
+--Doomdaniel95

@@ -1,0 +1,133 @@
+Runner: Zero-Master
+Date: 2019-08-19
+IWAD: doom2.wad
+PWAD: scythe.wad
+Category: UV-Speed TAS
+Map: Movie 1-30
+Tools: XDRE v2.21 
+Time: 5:56
+
+Map  Time    Time saved:
+01	0:08.23
+02	0:06.66
+03	0:01.97      -13
+04	0:12.31       -1
+05	0:10.97
+06	0:07.97      -13
+07	0:01.49
+08	0:07.80
+09	0:17.97       -1
+10	0:11.69       +1
+11	0:03.94
+12	0:10.83
+13	0:17.97       -1
+14	0:09.91      -12
+15	0:08.83
+16	0:14.80
+17	0:19.23
+18	0:03.89       -1
+19	0:10.94       -1
+20	0:33.94       -1
+21	0:08.91       -1
+22	0:17.97
+23	0:03.60
+24	0:17.94       -1
+25	0:08.91       -1
+26	0:22.31       -1
+27	0:08.49
+28	0:20.80       -2
+29	0:18.74
+30	0:29.83
+             Total: -49
+		  
+Description:
+I wanted to include the 3 new major tricks discovered since Akse
+last did his demo almost 10 years ago. I also wanted to bring the
+time under 6 minutes since that should be doable. Again I don't want
+to use too many or too sharp turns, so under those constraints
+I aim to just complete it as quickly as possible instead of trying 
+to optimize things too much as I'd rather finish it then get stuck 
+on some minor detail :)
+
+Map 01: I should have done this in 7 seconds, but I would have
+had to start over again, too much effort.
+
+Map 03: First new major trick. 0 seconds didn't seem possible to me,
+so I go get the shotgun on the way.
+
+Map 04: Difficult jump at the start, I think 38_vita_38 showed
+it first some time ago.
+
+Map 06: Second major time save over Akse's run, simple run 
+across the gap.
+
+Map 09: I press the first switch through the wall, helped me
+save a second here over Akse. Had to spend a few minutes 
+fixing up the end section.
+
+Map 10: Akse says he spent 9 hours here, I'll lose a second
+and do it in 9 minutes instead.
+
+Map 11: Imps will do the job just fine.
+
+Map 14: Last new major trick, a void glide is possible and
+you can press the exit switch from outside! Once you got
+out of bounds there's like a step down so you move at 30 units
+in both x and y direction for a few tics in the wrong direction,
+quite annoying. Still managed to get 9 seconds with some
+wallruns thankfully.
+
+Map 15: I have no idea how Akse managed to get shot just as he 
+gets out of the teleporter, but I saved time elsewhere so it's fine.
+
+Map 16: Nothing interesting here, like Akse I use a glide 
+on the lowering wall.
+
+Map 17: I know I could have saved a second, but would 
+take a bit too much effort.
+
+Map 18: Looper has a 2.97 here, I have no idea how long something 
+like that would take me so I'll settle for saving 1 second over Akse. 
+I can get the soulsphere which will help me with the next map.
+
+Map 19: More health so I can skip the green armor and a quicker 
+rocket jump saves a second. Perhaps another second can be saved 
+with quicker vile attacks, I'm not sure what the earliest moment 
+they can attack is without pain chance though.
+
+Map 20: A long map so I wanted to save a second here. A rocket boost 
+out the yellow key window saves a little bit of time. It could be 
+possible to skip the linedef that raises the barrier behind you and 
+take a shorter route (the switch by the megasphere lowers the barrier, 
+the linedef to open the exit is further behind), but it's east and too 
+difficult without some monster in the area.
+
+Map 22: What a death exit, it's like doomguy just slided across the roof.
+
+Map 24: Another second save, I suppose the rocket jump + faster 
+death exit made the difference.
+
+Map 26: I really wasn't looking forward to this level, getting 
+past the revenants, getting the viles to attack at the same time 
+and then somehow getting to the exit without getting blocked too 
+much. I only had a little bit of trouble getting past the revs 
+and finding my way past a few monsters near the exit. I think I 
+got a bit lucky with the vile attack timing, surprised to even 
+save a second here, and I'm sure I could have saved another.
+
+Map 27: I was actually planning to do a linedef skip here and 
+save 2 seconds, but I had already saved enough time at this 
+point to get under 6 minutes... but I needed the rocket launcher 
+for it and I completely forgot I didn't actually get it on the way. 
+Maybe I could have grabbed RL on the previous level and gotten the 
+same time. The linedef skip is on the teleporter at the start, 
+saves 2 seconds. I just assume it doesn't work without the RL, but I didn't try.
+
+Map 28: Definitely possible to rocket jump off the pillar 
+instead of the lost soul :) 2 seconds saved.
+
+Map 30: Getting over the barriers was rather annoying because 
+doomguy didn't want to slide in smoothly, good enough to match 
+Akse's time. Also should have done a rocket boost earlier on 
+before grabbing the mega.
+

@@ -1,0 +1,49 @@
+                  Scythe
+          WAD Author: Erik Alm
+----------------------------------------------
+           Episode 2 NM-Speed
+----------------------------------------------
+    Level          Time     <    sce2n906
+----------------------------------------------
+    Map 11	   0:06            -0:01 :|
+    Map 12	   0:18            -0:28 :)
+    Map 13	   0:55            -0:02 :)
+    Map 14	   1:12            -0:13 :)
+    Map 15	   0:28            -0:03 :)
+    Map 16	   0:36            -0:45 :)
+    Map 17	   1:18            +0:03 :(
+    Map 18	   0:40            -0:16 :|
+    Map 19	   0:32            -0:16 :|
+    Map 20	   1:06            +0:09 :|
+
+TOTAL:             7:11            -1:55 :)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: I was working on UV-Speed earlier (which I already got a record on, just didn't improve it to a point I wanted to yet), but I saw Cyberdemon doing this run and I thought it could use a good deal of improvement. It's pretty fun, though the NM luck is makes a 7 minute run pretty stressful, so I'm happy with a first exit. I pretty much expected around 7 minutes anyway.
+
+Map 11 (0:06): Nothing special, 4 or 5 would be nice. :)
+
+Map 12 (0:18): Far more aggressive than Cyber's route, I didn't find this that bad. 17 was best I ever did.
+
+Map 13 (0:55): Not the best health at the end, but what matters is that I survived. 52 or so is he best I ever did, though, so 55 is fine.
+
+Map 14 (1:12): Sub-1:10 would be nice, messed up with some weapon switches and such. 1:12 is pretty decent as well, though. :)
+
+Map 15 (0:28): Drastically changed route from Cyber's because this is way superior; it's just as fast as normal route since I have to kill the revs anyway, and I get the megasphere, which is incredibly useful for 16. Got AVJed at the end unluckily, but made the run work in spite of that.
+
+Map 16 (0:36): With the health I had, I took pretty much the individual level run route and was lucky to survive without full 200/200. 36 is a good time.
+
+Map 17 (1:18): Failed AVJ, but screw this map, I find it rather difficult to do NM consistently, and it's rather later. Had some bad luck as well (four rocket hell knight), and almost died from the rev rocket. Also, AVJ is more difficult than UV and more difficult in vanilla compat than GZDoom.
+
+Map 18 (0:40): I just take the normal route, though I did some pretty safe strats because I'd rather not lose a run after 17. 
+
+Map 19 (0:32): Didn't get quick second AVJ, but I needed the health anyway. Failed invuln grab once as well, unfortunately. NM makes this level pretty clean, though, because quick attacks.
+
+Map 20 (1:06): I guess my route was safer than Cyber's route; I just kill everything at the start to avoid dying on this map another time (I only got to this map twice, but I'd rather not test my luck at this point). Final stretch went pretty well.
+
+Recorded November 05, 2014.

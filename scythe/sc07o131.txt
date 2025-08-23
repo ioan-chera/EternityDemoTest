@@ -1,0 +1,21 @@
+              Scythe
+          Map 07: Deadly
+       Map Author: Erik Alm
+------------------------------------
+           sc07o131.lmp
+           sc07o140.lmp
+           sc07o177.lmp
+
+Nomo in 0:01.31
+Nomo in 0:01.40 (without wallrun)
+Nomo in 0:01.77 (old run with RJ)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Matched Gusta's Pacifist, wallrun isn't that bad, actually, mostly because the demo is so short. It is probably improvable by a tic or two, but whatever. :D
+
+Also included is a run I did without the wallrun (just the strafejump), and an old run I did with the RJ). 

@@ -1,0 +1,33 @@
+This is a Doom LMP Entry
+
+SC29-738.ZIP
+
+	SC29-738.TXT
+	SC29-738.LMP - UV Max
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 29 - Hell on Earth
+
+=---+------+---=
+Kills       100%
+Items       100%
+Secrets     100%
+ 
+TIME        7:38	Old record: 7:49 by me
+=---+------+---=        
+
+Demo entry #74.
+
+Description:
+
+Here's an improved version of my max. It's just a bit faster than my old demo,
+but looks much cleaner (through still a far-prom-perfect, humanly demo with 
+strong and weak parts). ToD's previous record was 8:39, and below 7:39 is OK
+for me :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 5, 2010, 17:27:01

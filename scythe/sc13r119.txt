@@ -1,0 +1,14 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Iwad: Doom2.wad      
+Pwad name: scythe.wad
+Maps:      MAP13
+Skill:     4
+Category:  UV-Respawn
+Exe:       PrBoom-plus v2.5.0.8
+
+Time:     1:19
+
+Author: AconyX
+Email: AconyX@luukku.com

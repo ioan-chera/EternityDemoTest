@@ -1,0 +1,17 @@
+              Scythe
+           Map 26: Fear
+       WAD Author: Erik Alm
+------------------------------------
+           sc26o020.lmp
+           sc26o021.lmp
+
+Nomo in 0:20.91
+Nomo in 0:21.69 (strafe40 only)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: I tried for 20 earlier in the year and came to the conclusion that it was probably possible but I couldn't do it. A few weeks ago, I decided it was definitely possible (managed to get a 20s run with segments). Didn't take too long to get a 20s run, although it's not too easy, as I needed to have good timing for the lowering platforms. Just for fun, I did a strafe40 only run, not optimal but I did match my previous DSDA run which uses strafe50. :D

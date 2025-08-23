@@ -1,0 +1,7 @@
+Filename   : SCYTHE.wad
+Title      : Scythe
+Map        : MAP20
+Category   : UV-Max
+Exe        : dsda-doom 0.24.3 -complevel 2
+Time       : 1:52
+Author     : mhrz

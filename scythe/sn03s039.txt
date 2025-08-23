@@ -1,0 +1,26 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       03 - Up and Around
+Skill:     5
+Category:  NM100S
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      61%
+Items:     100%
+Secrets:   100%
+
+Time:      0:39
+
+Comments:  Tablefiller.
+           It's a nightmare with skill 5. After two hours
+           this was my second exit.
+
+           At least 10 seconds faster would be great.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+25.06.2005

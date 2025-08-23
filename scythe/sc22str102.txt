@@ -1,0 +1,19 @@
+              Scythe
+          Map 22: Despair
+       Map Author: Erik Alm
+------------------------------------
+           sc22str102.lmp
+
+Stroller in 1:02
+
+    Kills   - 32%
+    Items   - 66%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Not as hard as it might seem at first, just luck-based. 75 attempts.

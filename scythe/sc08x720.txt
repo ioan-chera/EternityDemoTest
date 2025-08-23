@@ -1,0 +1,10 @@
+Authors: alps
+Date: 28 nov 2020
+Type: Tool assisted speedrun
+Built with: XDRE 2.20 (-complevel 2)
+Building time: 3,9 hours
+Category: UV-Speed
+
+Comments:
+
+Spent time trying to get 6, seems very difficult.

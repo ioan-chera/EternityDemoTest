@@ -1,0 +1,19 @@
+              Scythe
+        Map 11: Sneak Peak
+       Map Author: Erik Alm
+------------------------------------
+           sc11f144.lmp
+
+UV -fast in 1:44
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -fast
+Author: 4shockblast
+
+Comments: After that fall, I didn't expect this to be faster, but I guess it was. Lucky start, but ugly as shit. 23 attempts.

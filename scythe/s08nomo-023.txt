@@ -1,0 +1,12 @@
+WAD: Scythe
+MAP: MAP08: Garden Base
+Time: 0:23
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Thanks to a little trick I learned by watching Gusta's tyson, I was able to 
+skip the switch and take the shortcut from the stairs to the ledge right
+away. That cut off 4 seconds, making this beat my old 0:27 time. With a little
+practice, this could be under 20 or so.
+
+--Doomdaniel95

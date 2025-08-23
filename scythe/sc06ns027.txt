@@ -1,0 +1,18 @@
+SC06NS027.TXT
+SC06NS027.LMP
+SC06NS027.ZIP
+
+Player : megasphere308
+Date : 2021-04-16
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP06 Pressure point
+Source port : Crispy Doom v.5.8.0
+Time : 0.27.43
+
+Description :
+
+I got several 29, but I felt there was room for improvement. I was hoping for a 28, and got a 27 instead :)
+The end was tight, the barrels didn't explode at once... But I managed to exit with 10% health.
+
+megasphere308@gmail.com

@@ -1,0 +1,17 @@
+SC08N009.TXT
+SC08N009.LMP
+SC08N009.ZIP
+
+Player : megasphere308
+Date : 2021-08-04
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP08 Garden base
+Source port : dsda-doom v0.18.0
+Time : 0.09.60
+
+Description :
+
+Did this demo while practicing the starting jump.
+
+megasphere308@gmail.com

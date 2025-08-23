@@ -1,0 +1,36 @@
+| This is a Doom .LMP | Doomed Speed Demos Archive http://doomedsda.us/ |
+-------------------------------------------------------------------------
+Filename : sc23-131.lmp, sc23-131.txt
+Date     : 2017-07-26
+Iwad     : doom2.wad
+Pwad     : scythe.wad
+Game     : Scythe
+Exe      : Doom2.exe ver1.9 
+Category : UV-Max
+Map(s)   : MAP 23: Anger
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 103%
+Items    : 100%
+Secrets  : 100%
+Time     : 00:01:31
+===================================
+Description:
+
+This run would have been excellent if a demon had been killed 
+by the last BFG. Excluding it, this run was so smooth. 
+stx-Vile returned to speedrunning with his sc23-134. 
+This was very marvelous. He optimized the route from 
+my sc23-156. More than anything, I was excited that 
+my name was written in the legend speedrunner's text. 
+It was 7 years ago...
+
+
+

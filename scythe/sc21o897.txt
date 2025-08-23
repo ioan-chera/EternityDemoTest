@@ -1,0 +1,28 @@
+              Scythe
+        Map 21: Solitude
+       WAD Author: Erik Alm
+------------------------------------
+           sc21o897.lmp
+           sc21o957.lmp
+
+Nomo in 0:08.97
+Nomo in 0:09.57 (strafe40 only)
+
+Included is a zip with all the
+bonus demos:
+three 9.00s
+four 9.03s
+ten 9.06s (I had a few more that
+I didn't save as well)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Holy shit, this was a hard one. I had to put in many hours to get a demo below the 9 second threshold, probably more than 10 hours total, maybe even 15. All as a result of that damn staircase before the red key; that turn is incredibly difficult to do precisely, doing that well requires a turn as close to the corner as possible, and most of the time I either hit the wall or fell off the stairs. Using the wall as a way to stop movement was ideal, as I needed to move in practically the opposite direction after the turn. Most demos pretty much ended there, but even getting past that didn't guarantee an exit under 9. There's still the sharp turn after grabbing the red key, and it's easy to either hit the corner of the staircase or the opening to the area with the pillar/red door on the strafe50 from the red key to the red door. Furthermore, the red door is at an awkward angle from me, so not only do I have to make sure I reach it on the closer side, but I also have to change my orientation myself quickly, and I can't be too close to the wall I came in on because of the yellow key, as in order to get a good turn there, I need to have a good deal of space not to hit the corner. The yellow key is another sharp turn back to the yellow door, that is also at an awkward orientation, and, to top it all off, there is a corner jutting out near the yellow key alcove that is in between me and the door, so I have to round that corner in order to reach the door quickly. Finally, all of this needs to be done very precisely for 8 seconds, and with near constant strafe50. Hopefully, all the bonus demos I'm including will demonstrate how hard this was for me.
+
+Tonight, though, when I started up attempts again, I felt very confident with my movement, so I put on some epic metal music to get myself hyped and started attempts. Very quickly, I managed a 9.00, so I figured I had a good chance at 8 and I was right. It only took roughly another 30 minutes of recording to finally get 8, so now this is probably the hardest nomo run I've done yet.
+
+Also did a strafe40 only run after all this to cool down. Nothing serious, got 9.66 first then 9.60, so I decided to go for sub-9.60, and this is the first exit under that time.

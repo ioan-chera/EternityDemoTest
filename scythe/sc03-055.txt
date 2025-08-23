@@ -1,0 +1,21 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       03 - Up and Around
+Skill:     4
+Category:  UV Max/Tyson
+Exe:       prboom 2.2.6 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      0:55
+
+Comments:  Maybe a time to play some good old favourite map again, Angus? :)
+           Some missed shots as usual so the time could go down to 0:50 or lower.
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+
+14.10.2006

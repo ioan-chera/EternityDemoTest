@@ -1,0 +1,18 @@
+WAD: Scythe
+MAP: MAP29: Hell on Earth
+Time: 1:30.51
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 10, 2013
+
+Even though 1:2x is very possible, I only bothered to push this down to
+1:30. Obvious improvements would be handling the switch/door thing better
+by the YK, not bumping into as many things, but mostly using better
+straferunning. 
+
+Also, if you could grab the YK early, you could probably do this map well
+under a minute. I don't know if that would work though, and I'm not trying
+it since I'm extremely terrible at pulling off KG tricks. (This is how
+bad I am: AV02 and E3M4 drive me up a wall, and they're easy ones!)
+
+--Doomdaniel95

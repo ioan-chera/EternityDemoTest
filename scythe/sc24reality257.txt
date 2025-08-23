@@ -1,0 +1,31 @@
+Player: Cilian
+PWAD: SCYTHE.WAD
+Exe: Woof! 14.3.0 (-complevel 2, extended hud)
+Map: 24
+Skill: 4
+Category: UV-Max + Reality
+Time: 2:57.80
+Attempts: 671
+Comments:
+I didn't mean to really run the map at first. PJPlaysDoom was streaming his own
+UVMax + reality attempts and I wanted to experiment in this map myself to try
+and come up with route improvements and send them to PJ, but somehow I managed
+to beat his run by over a minute with a 3:33 in ~70 attempts. Unfortunately at
+the time he was already getting tired of the map with 1600 and didn't want to
+grind it any longer (I'm sorry I didn't mean to streamsnipe). He seemed to
+struggle with replicating my strategies in the 3:33 demo, so I refrained from
+running the map again until I found out PJ is moving on. I knew sub-3 was
+possible but wasn't sure how hard it would be at the time. After a bit of
+practice I found out that not very, it just takes some grinding and luck to do,
+so I got to work and got the sub-3 after 4 decently frustrating days.
+
+Thanks to Kinetic for his WR normal uv-max 1:55 demo. A lot of inspiration for
+my strategies in this demo was taken from it. I couldn't do the revenant fights
+as well as he did even after hours of practice but I feel like just trying made
+me improve at handling revenants. The route I used is mostly the same as
+Kinetic's but adapted/bastardized to be much safer and viable for no damage. I'm
+not a great player so the route is also not executed very well. I often got 2:4X
+while practicing with saves, so if you're good you can get that or even lower.
+
+Not the first speedrun I've done (second iirc?), but the first I submit to
+DSDA

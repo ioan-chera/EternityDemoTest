@@ -1,0 +1,19 @@
+** This is a tool-assisted demo! **
+Tools used: frame-by-frame building
+
+PWAD: SCYTHE.WAD
+PWAD name: Scythe
+Map: 7 "Deadly"
+Skill: Nightmare!
+Players: 2
+Category: Speed
+Exe: xdre.exe 2.17
+Complevel: 2
+Date: 17.11.16 (DD.MM.YY)
+
+Time: 0:00.91
+
+Author: 38_ViTa_38
+Email: xvita21@ya.ru
+
+Comments: well, I don't think 0 is possible without another player(s). If it is, it would be really cool to see.

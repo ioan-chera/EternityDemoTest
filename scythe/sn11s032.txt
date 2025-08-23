@@ -1,0 +1,25 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       11 - Sneak Peak
+Skill:     5
+Category:  NM100S
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      30%
+Items:      75%
+Secrets:   100%
+
+Time:      0:32
+
+Comments:  I used the rocket launcher for the jump to the last
+           secret (strafe jump faster, but harder for me to do)
+           and for suicide.
+           It's a great map on NM. I hope I can do 0:2x soon.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+25.06.2005

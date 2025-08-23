@@ -1,0 +1,19 @@
+              Scythe
+      Map 13: Subverted Base
+       Map Author: Erik Alm
+------------------------------------
+           sc13s035.lmp
+
+NM100s in 0:35
+
+    Kills   - 52%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Good punch damage output on the demons, no major movement mistakes, yellow key demon got out of my way, and I didn't die at the end, so this was very lucky. I was getting only 37s for a while and I was getting kind of frustrated, but I guess it was worth it at the end (I would have been happy with a 36).

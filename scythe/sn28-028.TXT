@@ -1,0 +1,18 @@
+***************************************************************************
+Filename                : sn28-028.LMP
+LMP Version             : DOOM2.EXE 1.9 (DOOM II)
+Pwad name:              : Scythe
+Pwad(s)                 : scythe.wad
+Map Level(s)            : MAP28
+Skill                   : 5
+Category                : NN Speed
+Length                  : 0:28
+Author                  : Kimo Xvirus
+Comments                : This wasn't easy, I had many good runs ruined
+                          by the chaigunner and archanatron at the end.
+                          In this run I've done very well after using the
+                          blue key switch, usually I get stuck to wall or
+                          the imp
+                          You'll notice the revenant doesn't come at the
+                          end cause of linedef skipping :)
+**************************************************************************

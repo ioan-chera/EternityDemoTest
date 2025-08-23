@@ -1,0 +1,22 @@
+For the Doom 2 megawad "Scythe" by Erik Alm (with guest mapper Kim "Torn" Bach)
+
+File required: Scythe.wad
+Download links: https://www.doomworld.com/idgames/levels/doom2/megawads/scythe
+                http://doomedsda.us/wad789m211.html
+                https://www.dsdarchive.com/wads/scythe
+
+Map11: Sneak Peak
+
+Skill: UV Stroller
+
+Kills         1%
+Items         0%
+Secrets       0% and Time 0:07
+
+This is a Doom2.exe-format demo (recorded with prboom-plus -complevel 2).
+PrBoom-plus site: http://sourceforge.net/projects/prboom-plus
+
+Description: One-second improvement over my demo in the original Stroller pack.
+
+Graham "Grazza" Burgess
+GKBurgess@compuserve.com

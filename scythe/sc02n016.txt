@@ -1,0 +1,19 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map02: Punchline
+Skill: 5
+Category: NM Speed
+Exe: PrBoom+ v2.5.1.4 -complevel 2 with advanced HUD
+-------------------------------------------
+Time: 0:16
+-------------------------------------------
+Good practice for SR50.
+
+20 Nov 2017
+-------------------------------------------
+Author: GarrettChan
+garrettchan016@gmail.com
+https://www.youtube.com/c/GarrettChan

@@ -1,0 +1,12 @@
+Port: Crispy Doom v5.9.1
+Wad: Scythe.wad
+Category: Pacifist
+Skill: 4
+Map: Map01
+
+Time: O:09.89
+
+Author: Dastan
+
+Comments: Well what can I say. Either I got really lucky or really lucky. Could be improved with better blue stairs if that goddamn imp
+would stop standing in front of the red key.

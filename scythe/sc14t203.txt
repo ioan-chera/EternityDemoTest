@@ -1,0 +1,19 @@
+              Scythe
+       Map 14: Power Outage
+       Map Author: Erik Alm
+------------------------------------
+           sc14t203.lmp
+
+UV -fast in 2:03
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Yeah, this should be sub-2:00. But I don't care right now :). 18 attempts.

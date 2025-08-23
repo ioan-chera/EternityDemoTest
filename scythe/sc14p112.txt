@@ -1,0 +1,23 @@
+
+ Pwad:   
+		Scythe (scythe.wad)
+ Map:
+		MAP14 - Power outage
+ Category:
+		UV-Pacifist
+ Exe:
+		PrBoom -complevel 2 (i believe)
+
+ ----------------------
+ Time:
+		1:12
+ ----------------------
+
+ Comments:
+		One of my first achievements in pacifist
+
+
+ Author:    	Graim
+ Email:     	graim@seznam.cz 
+
+ Recorded:  	March 28, 2009

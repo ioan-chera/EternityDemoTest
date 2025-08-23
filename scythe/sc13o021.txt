@@ -1,0 +1,17 @@
+              Scythe
+      Map 13: Subverted Base
+       Map Author: Erik Alm
+------------------------------------
+           sc13o021.lmp
+           sc13o027.lmp
+
+Nomo in 0:21.49
+Nomo in 0:27.51 (no keygrab route)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: 20 is clearly possible with the keygrab, but it's an annoying keygrab to do, and I don't want to grind for 20. Also included is a 0:27 with the non-keygrab route, showing that 26 is possible that way; I decided to do it as that will be my route for any episode/movie run.

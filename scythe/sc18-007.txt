@@ -1,0 +1,22 @@
+sc18-007.txt
+  sc18-007.lmp - Ultra-Violence Speed
+
+  Recorded using prboom-plus 2.5.0.5 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 18 - MS Futura (by Erik Alm)
+
+  ==================
+  Kills        0%
+  Items        0%
+  Secrets      0%
+  ----------------
+  Time       0:07.14
+  ==================
+
+  Description:
+  Heh... I've never had a glide so smooth. I think it'd be a 6 if I didn't stop moving
+  from a shock for a while. :) The telefrag ruined pacifist, of course.
+
+author: dew
+e-mail: dewww@seznam.cz
+11. 12. 2009

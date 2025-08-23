@@ -1,0 +1,18 @@
+
+Recorded using glboom-plus 2.5.1.4 with Doom II compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 05
+Skill: UV
+Category: Tyson
+Time: 1:01
+
+Author:   Kyle McAwesome
+Date: 2/16/2019
+
+Comments:
+Joca64's 1:04 was pretty hard to beat, but then again 4shockblast's max is 11 seconds faster than this and doesn't have too much sg/cg usage.
+
+Both cacos taking 3 punches was pretty good.  Punching luck was so-so in the spectre tunnel (one of them took 4 punches).  I also got stuck on the lift spectre somehow which was annoying and looks ugly.

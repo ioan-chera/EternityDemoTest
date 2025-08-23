@@ -1,0 +1,32 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       26 - Fear
+Category:  UV Speed with death abuse
+Exe:       prboom-plus with -solo-net
+
+Kills:       0%
+Items:       6%
+Secrets:   100%
+Deaths:    1
+
+Time:      0:10
+
+Comments:  Here is a new category for Doom: speedrunning
+           with death abuse. (Very common in other games,
+           check SDA.)
+
+           If you continue after death the map will not be
+           reset. This can be very useful for speedruns if
+           the exit is near the start, as you can see in
+           this demo.
+
+           But there are of course other possibilities,
+           like pa02 for example. ;)
+
+           (This demo only plays back in prboom-plus with
+           -solo-net.)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+29.08.2010

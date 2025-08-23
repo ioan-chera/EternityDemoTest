@@ -1,0 +1,25 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       20 - Spaceport
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.6
+
+Kills:     107%
+Items:     100%
+Secrets:   100%
+
+Time:      7:39
+
+
+
+Comments:  Finally ... knockout!
+           (and it has not looked so hopefully for me after 1st punch ... staying in
+           the ring without that detour for Medikits would be masherish :-)   
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+
+10.10.2007
+

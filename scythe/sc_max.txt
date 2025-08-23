@@ -1,0 +1,856 @@
+*************************************************************************************************
+*   General Info:										*
+*												*
+*	Scythe UV-Max Demo Pack									*
+*	Player: Kinetic										*
+*	Date: Jan-Feb 2024									*
+*	WAD: Scythe										*
+*	Category: UV-Max								     	*
+*	Exe: Dsda-Doom 0.26.0								     	*
+*	                                                                                     	*
+*   Fun Stats & Info:                                                                           *
+*	                                                                                     	*
+*	Total Time: 				43:44                                        	*
+*	Average Demo Time: 			~1:24                                        	*
+*	Total Attempts: 			7501                                         	*
+*	Average # of Attempts per map: 		242                                          	*
+*	Most attempted map: 			Map28 (877)                                  	*
+*	Total Grind Time:			35 hr 8 min                                  	*
+*	Average Grind per map:			1 hr 8 min                                   	*
+*	Longest Grind:				Map21 (2 hr 58 min)			     	*	
+*											     	*	
+*	Most Satisfied Runs:			Map09, Map11, Map21			     	*
+*	Least Satisfied Runs:			Map31, Map19, Map25			     	*
+*	Best Demo:				Map21 (insane luck!)			     	*
+*	Worst Demo:				Map27 (way too ugly with the weapon swapping)	*
+*************************************************************************************************
+
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 01
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:23
+
+Author: 	Kinetic
+Demo Date:	January 25th, 2024
+Attempts:       513
+Practice:	30 min
+Grind:		46 min
+Goal:           0:23 or better
+Satisfaction:	:D :D
+
+- complevel 2
+
+Comments: 
+
+	==========
+	"I initially started off just shooting a shot at one of the zombies at the start, provoking infighting between them by SR50ing at the right angle towards the 	chainsaw, then chainsawing the imp and back-right zombie in the first building. However, early on in attempts, I missed my first pistol shot at the zombies at the 	start, hit the imp, and he threw a fireball that blew up the barrels inside the building, killing himself and the back-right zombie. I dismissed this as absurd luck 	at first, but then realized since it's the start of the map (and it's vanilla compat instead of boom[does it matter?]) I could control the rng to a degree. 
+
+	I decided I could try to get instant retaliation if I could painchance the imp on the first shot of the map since enemies do that when they are asleep or something I 	think. Next, I need to SR50 at the right angle towards the chainsaw to both lead the fireball into the barrels, and also to provoke the 2 zombies at the start to 	infight. There is enough time between the fireball being thrown and when the barrels explode that the imp can move towards the barrels and kill itself. So essentially 	this all works out that if you SR50 at the right angle, shoot the imp at the right time, you can get the barrels to blow up relatively consistently. I don't think 	damage rng matters much here, it's definitely greater than 25% chance that the barrels blow up so starting rng table index values must be favorable here I assume."
+	==========
+
+	I didn't see Kyle's run before this lol, just watched the demo and now the above wall of text is silly. I read kyle's txt and I think whatever I'm doing here must 	have some sort of better consistency for the starting barrel trick than him, I got it really really often when I did the movement and shot right, which isn't hard to 	do. I think 22 is there, had a 22 where I left a couple monsters behind on low HP.
+
+	I tossed a 0:24 that was faster by tics out, I don't really believe in max demos beating by tics, unless it's some meme map or somethinig.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 02
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:44
+
+Author: 	Kinetic
+Demo Date:	January 25th, 2024
+Attempts:       573
+Practice:	20 min
+Grind:		1 hr 45 min
+Goal:           0:44 or better
+Satisfaction:	:D :D
+
+- complevel 2
+
+Comments: 
+
+	I wawtched mhrz's demo after this, pretty ingenious route. I came up with this route, dunno if it's been done before don't care to watch the previous demos atm. Great 	berserk rng, just wish that imp at the end died in 1 punch, but I guess I finally exhaustd by genourous good rng supply.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 03
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:47
+
+Author: 	Kinetic
+Demo Date:	January 25th, 2024
+Attempts:       228
+Practice:	5 min
+Grind:		49 min
+Goal:           0:45 or better
+Satisfaction:	:|
+
+- complevel 2
+
+Comments: 
+
+	This map annoys me, and I'm tired of berserk rng after last map, so switched to shotgun near end. I got 44 with saves and rewinds, and it's doable, but this map is 	not fun to run with that dark room berserk punching.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 04
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:34
+
+Author: 	Kinetic
+Demo Date:	January 25th, 2024
+Attempts:       281
+Practice:	10 min
+Grind:		50 min
+Goal:           0:34 or better
+Satisfaction:	:D :D
+
+- complevel 2
+
+Comments: 
+
+	Fun map to run, sort of reliant on SG damage on pinkie near the end but every other shot is just a matter of not missing. I messed up the outdoor area, should've been 	able to do it in one less SG shot, but I was saved by the pinky at the end dying in 2. You can save a shotgun shot at the start if you get the shotgunner by the armor 	to damage one of the imps enough. 33 is doable, and 32 might be there too, but I don't see lower than 32. Best red key grab was a 15.0x, best red door was a low 18.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 05
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:48
+
+Author: 	Kinetic
+Demo Date:	January 26th, 2024
+Attempts:       479
+Practice:	10 min
+Grind:		1 hr 50 min
+Goal:           0:47 or better
+Satisfaction:	:|
+
+- complevel 2
+
+Comments: 
+
+	Failed at getting 47, which 47 and better is so obviously doable it's just a really annoying rng check at the end of the map if you choose to punch the cacos and 	chaingunner instead of chaingunning like I do here. Chaingunning here is more consistent but slower than good punches, but ironically punch damage is "out of your 	hands" despite literally being your hands. This was my 3rd 48 and I just decided to settle for this. Specter punching in the tunnel affects time hugely, got really 	good punches there. Tired of getting these one second improvements on these early maps, want more 2+ second improvements.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 06
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:56
+
+Author: 	Kinetic
+Demo Date:	January 26th, 2024
+Attempts:       57
+Practice:	10 min
+Grind:		33 min
+Goal:           0:57 or better
+Satisfaction:	:D :D
+
+- complevel 2
+
+Comments: 
+
+	Pretty fine level to run besides the crusher, everything else is straight forward. Nice chaingun action in this map. I had planned to pick up the berserk to punch out 	the pinkies after crushing the HKs but decided chaingun was more reliable and saves me from 4 punch pinkies and missing punches because of jank collision and blockmap 	or something. HK before the exit room on the right in the nukage survived 3 rockets lol.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 07
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:24
+
+Author: 	Kinetic
+Demo Date:	January 26th, 2024
+Attempts:       266
+Practice:	10 min
+Grind:		54 min
+Goal:           0:25 or better
+Satisfaction:	:D :D :D
+
+- complevel 2
+
+Comments: 
+
+	Thought this would be a tougher max since it's a 4shock max and I knew how simple this map was, traditional dead simple maps usually tend to have some really messed 	up rng needed for optimization it feels like. But not too bad. I didn't even remember what 4shock did for his demo when I started running this, I had watched it 	earlier in the day and just assumed that this route is basically what you do, but it turns out it's actually a bit different from 4shock. Proud to say I shaved 2 	seconds off a 4shock max, don't think I've beaten any of his demos before.
+
+	23 is definitely doable, in fact this run if the one spider didn't eat 4 rockets it would've been it, or if I had done the rj faster. 22 seems sketch, would maybe 	need the double telefrag and a lot of 2 rocket spiders.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 08
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:04
+
+Author: 	Kinetic
+Demo Date:	January 27th, 2024
+Attempts:       257 (this was attempt 130)
+Practice:	15 min
+Grind:		27 min
+Goal:           1:11 or better
+Satisfaction:	:D
+
+- complevel 2
+
+Comments: 
+
+	This was actually attempt 130, I tried grinding more to get a cleaner ending since I could've raised the bridge way faster at the end, but maybe it didn't matter 	since it gave me time to chaingun the HK and imp which would have complicated the rocket shots anyways. That jump at the start is super annoying, would grind for 	better if that jump didn't exist. I try to rocket boost at the end to get 1:03 but fail lol.
+
+	Those extra 4 rockets at the end has to be workable into a faster route, but I also got a great infight with the manc and HKs so why use a better route when you can 	just get lucky?
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 09
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:03
+
+Author: 	Kinetic
+Demo Date:	January 27th, 2024
+Attempts:       89
+Practice:	15 min
+Grind:		31 min
+Goal:           1:07 or better
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+	Ok I lie about the goal, the goal basically changes during the grind. All my goals have an invisible requirement of the run looking clean, so when I started this I 	initially wanted a clean 1:11 or better. Then I got a 1:09, but felt sloppy, so then I got 1:08, but felt sloppy still, and then I got this which feels clean as hell. 	Probably my best demo so far out of these first 9 maxes, at the very least in terms of quality to effort ratio. Well let's be honest, the rockets in this map 	basically carried me, just sort of got lucky with placing them. It was interesting that the monsters in the main building after the red key didnt wake up, it happened 	occasionally during attempts but usually they are awake so don't know what happened, not that it matters a ton since they still group up in a way that doesn't make 	much of a difference anyways. This could be one of those demos where I just got really good luck early on so feels easier than it is. Very happy with this demo.
+
+	And also I initially was running a slower route in practice, had to watch kyle's demo to copy his better route.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 10
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:24
+
+Author: 	Kinetic
+Demo Date:	January 27th, 2024
+Attempts:       244
+Practice:	10 min
+Grind:		55 min
+Goal:           0:24 or better
+Satisfaction:   :D
+
+- complevel 2
+
+Comments: 
+
+	Before I watched shock's demo I was just trying to rocket all the barons and exit, but I was getting nowhere close to shock's time. So then I watched his demo and 	realized what he did. Pretty unique max demo in that sense I guess. Pretty stupid run, but not frustrating at least. I was really hoping to get at least a 23, since 	23 and maybe 22 are possible, and I had many failed exits at 23.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 11
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:09
+
+Author: 	Kinetic
+Demo Date:	January 27th, 2024
+Attempts:       163
+Practice:	15 min
+Grind:		1 hr 20 min
+Goal:           1:15 or better
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+	This level is pretty interesting because it will never be fully optimized for max. Actually that's not that interesting, most maxes are like that. But most of the 	other maxes in scythe so far involve just not missing shots, and then some dumb rng like punch/chainsaw damage, monster positioning in Map07 and 10, etc.. But this 	map is pretty unique of all the maxes so far, it's nearly the longest max, it has the most action out of any map so far, and you usually don't feel like you got a 	good time if you exit. Additionally, it's very easy to start attempts in this map, so each attempt usually makes it through a good portion of the map (unless you're 	unhappy with movement/beginning like I am sometimes). Punches will affect speed pretty heavily in this map but not as significant as the earlier maps, and I guess 	chaingun is a good alternative if you do vile's route. I made this route on my own, and I like it, the map is pretty fun, just annoying with how the ending can turn 	up.
+
+	In terms of the demo itself, punch damage rng wasn't good, but the rocketing in this run went basically perfect. I was so surprised at the end when I realized my last 	rocket killed the last monster, usually there's anywhere between 1-8 straggling roamers that you need to chaingun down.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 12
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:44
+
+Author: 	Kinetic
+Demo Date:	January 27th, 2024
+Attempts:       81
+Practice:	15 min
+Grind:		27 min
+Goal:           0:45 or better
+Satisfaction:   :D
+
+- complevel 2
+
+Comments: 
+
+	This map looks so cool. Great grouping with the barons and cacos, unfortunately I shot 2 rockets that did no damage lol, so theoretically there's like 100 seconds to 	save on this run.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 13
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:58
+
+Author: 	Kinetic
+Demo Date:	January 27th, 2024
+Attempts:       388
+Practice:	10 min
+Grind:		2 hr 13 min
+Goal:           Sub 1 minute
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+	Getting sub 1 minute here has been the most difficult run so far. Enemies not teleporting in fast enough was one issue. Near the end I made sure to pay attention to 	see if the beginning shotgunners started infighting, and I also switch from killing the imps by the red door with plasma to using SG/CG, and the plasma it saves is 	actually very important for the teleporting enemies later, as that extra 10-15 cells you have gives you enough ammo to kill everything way more reliably.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 14
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:47
+
+Author: 	Kinetic
+Demo Date:	January 29th, 2024
+Attempts:       287
+Practice:	20 min
+Grind:		1 hr 0 min
+Goal:           0:47 or better
+Satisfaction:   :D
+
+- complevel 2
+
+Comments: 
+
+	This run was super clean outside of that lingering shotgunner on the crates, kind of botched killing him + yellow door, definitely lost some tics there that would've 	given a 46. I rewatched the final rev in slow motion and it's almost a frame perfect exit switch hit, so that wouldn't have gotten me there. I can see someone 	grabbing 46 on this and maybe even 45 if good plasma rng on baron and rev and stuff. 44 would be a pretty insane run or impossible.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 15
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:12
+
+Author: 	Kinetic
+Demo Date:	January 29th, 2024
+Attempts:       295
+Practice:	10 min
+Grind:		1 hr 33 min
+Goal:           1:14 or better
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+	Surprised to take this much off a kyle max in this wad, I routed this map on my own using this route and I got a 1:14 IIRC, then checked the record time and saw kyle 	was 14 seconds slower. So I just ran my route without opening his demo to see his route, and his route is fairly different with weapon switches, usages, groupings, 	and some different paths to reach different areas. I had a 1:16 and 1:15 before this but felt like they could be tuned up to something faster. This run feels pretty 	good, only major mistake I had was not firing rockets quick enough at the red bars, I fumbled my keys a bit and got trapped by the good old RL safety feature where it 	doesn't fire if you were holding fire as it was in its ready state. Probably didn't cost more than a second though, so still would have gotten 1:12. I can see sub 	1:10 on this one day if the elbow grease is worked in harder. Best inmost dens map ever (the original is overrated).
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 31
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 2:43
+
+Author: 	Kinetic
+Demo Date:	January 29th, 2024
+Attempts:       62
+Practice:	20 min
+Grind:		46 min
+Goal:           Low 2:4X
+Satisfaction:   :|
+
+- complevel 2
+
+Comments: 
+
+	This map is pretty cool in terms of that dungeon-crawler feel, but the run isn't great in that you always feel like it can be a lot faster. Surprised I shaved so much 	time off shock's demo, although I'm not shocked he went for the BFG lineskip, it is more optimal but I really am not built for stuff like that. Don't really want to 	put that much effort into this unless competition comes on it, especially if someone takes back with a time that is unbeatable unless you use the lineskip. Shock 	himself could probably lower it to around 2:30 I would guess if he optimized his shots better in his demo and got rid of some of the odd weapon swaps.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 32
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:45
+
+Author: 	Kinetic
+Demo Date:	January 30th, 2024
+Attempts:       32 (this was attempt 23)
+Practice:	10 min
+Grind:		16 min
+Goal:           IDK
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+	Silly map. 2011 ancalagon demo, so not surprised I was able to knock it down this much with barely any effort, but yeah pretty fun map. Could probably go sub 1:40, 	but infighting is an issue in optimization here. This demo looks cool though specifically the start room so pretty happy.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 16
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:21
+
+Author: 	Kinetic
+Demo Date:	January 30th, 2024
+Attempts:       38
+Practice:	10 min
+Grind:		18 min
+Goal:           1:23 or better
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+	I like the graves and tombstones. Pretty plasma heavy map, got the nice vile telefrag, although I planned to get a couple seconds under record even without the vile 	telefrag. Nice infighting and plasma in the triple caco bit, went really quick, fucked up the 2 HKs by the BSK pretty bad, but also saved some time by being able to 	plasma all 4 pinkies and rev after the BSK switch. Sub 1:20 is definitely doable, have had faster cleanups than this.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 17
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:48
+
+Author: 	Kinetic
+Demo Date:	January 30th, 2024
+Attempts:       8 (this was attempt 6)
+Practice:	15 min
+Grind:		6 min
+Goal:           IDK
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+	Pretty cool map, imp horde and rockets tons of nice SSG shots. I like library aesthetic. Saw NightTerror's name on the board and his time beaten by kyle, so thought 	this would be tougher, but then again this time could be brought down more. Had to watch kyle's route to get this time.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 18
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:42
+
+Author: 	Kinetic
+Demo Date:	January 30th, 2024
+Attempts:       333
+Practice:	15 min
+Grind:		1 hr 39 min
+Goal:           Sub 44
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+	I thought I had been doing basically the same thing as Teedre until I watched their demo again after getting this, but it turns out how we use our rockets and plasma 	is actually pretty different. My setup for the jump was almost a second slower than I would have liked, but I suck at those kind of things so success that I did it 	anyways I guess. Also could've dropped down off the bridge after killing the baron a bit quicker, he died quicker than I anticipated. I can see 41 and even 40 being 	done, sub 39 would be pretty insane though.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 19
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 3:13
+
+Author: 	Kinetic
+Demo Date:	January 30th, 2024
+Attempts:       8
+Practice:	20 min
+Grind:		9 min
+Goal:           IDK
+Satisfaction:   :|
+
+- complevel 2
+
+Comments: 
+
+	Honestly just didn't want to put much elbow grease into this one, probably because I'm tired lol. Sub 3 should be pretty doable, maybe later I'll do it. Map looks 	nice.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 20
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:38
+
+Author: 	Kinetic
+Demo Date:	January 30th, 2024
+Attempts:       45
+Practice:	10 min
+Grind:		26 min
+Goal:           Sub 1:40
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+	Probably the chillest mhrz demo I've beaten, this could go under 1:35 and maybe if all shots hit perfectly and great infighting sub 1:30. I just like producing clean 	looking runs.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 21
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:33
+
+Author: 	Kinetic
+Demo Date:	January 31st, 2024
+Attempts:       802
+Practice:	10 min
+Grind:		2 hr 58 min
+Goal:           Sub 1:38
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+	The satisfaction is maybe more like 2.5 :Ds, because I did miss one punch on the HK although it didn't cost me much time. Everything else went perfect, the starting 	pinkies all died in 1 punch, so did all the imps, the chaingunner killed the 4th imp at the start (this isn't rare, happens more often than not to be fair), rocket on 	the 6 imps by the red door was decent (2 = passable, 3 = good, 4 = really nice), caco and PE died in 2 rockets and didn't need any punches, HK took only 5 punches 	(4-6 was acceptable), and lost souls didn't screw me over at the end. Additionally, I hit all my punches in the level besides the aformentioned HK miss. This tied my 	fastest RSK door time as well at 19 seconds. I considered 21 second door to be super good, 22 to be good, 23 to be alright, and 24 to be barely passable, so sub 20 	RSK door is basically perfect. Opening the end door at (low) 28 is ultra fast, before I was targeting 30 I wanna say before that. Even more luck after that...got the 	vile stuns.
+
+	The goal was initially sub 1:40, since in practice I got that without too much trouble, and it was 9 seconds faster than a 4shock max so I figured it was really good 	already. But then I got 1:38 relatively early on in attempts but I felt it could be faster so I pressed on. I probably would've taken a 1:35 or something if it felt 	clean, but this run was pretty lucky with the punches and rockets, and no errors on my part besides staying a couple tics too long on the vile after he died, and the 	missed punch on the HK, but neither cost me much time, maybe combined they could get me to 32 but that's a fool's errand of a task.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 22
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:08
+
+Author: 	Kinetic
+Demo Date:	February 1st, 2024
+Attempts:       277
+Practice:	15 min
+Grind:		1 hr 45 min
+Goal:           Sub 1:10
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+	I came up with this route on my own. I realized midway through attempts that the RL cave could be done the way I do it in this demo, get the monsters to bunch up 	better than they normally do down there for the BFG shot, although I don't think it actually saved me much time over what I had been doing before. Spent 1 or 2 more 	rockets than I would have liked down there, but luckily my rockets on the 2 revs up by the BSK went pretty well. Sub 1:05 is doable but I don't think sub 1 minute is 	there unless you get god rng or something, you would need to hit the final door at like 53 seconds probably.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 23
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:22
+
+Author: 	Kinetic
+Demo Date:	February 1st, 2024
+Attempts:       278
+Practice:	15 min
+Grind:		1 hr 59 min
+Goal:           Sub 1:27
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+	==========	
+	"I tried grinding out some more attempts after getting the 1:27, but as it turns out it was pretty fast already and I don't feel like rolling the dice on enemies 	grouping up well anymore so this demo is what it is. I can see sub 1:20 happening if everything goes optimally, but that requires someone to put in the elbow grease 	first, and I'm just set on snatching max on all these maps with mostly error-free runs."
+	==========
+
+	So I wrote the text file for a 1:27 I had gotten after an hour of grinding, and the above was the comment I left on it. But then I watch tatsurd's demo out of 	curiosity to see if we did the same things, and barely 10 seconds into the demo he grabs 160 cells hiding in the back of the BFG cave that I had no idea existed. So 	my 1:27 was done without 4 extra BFG shots, which I'm surprised I was able to get, so I'm including that in this zip. Anyways, I decided to grind this more with the 	extra bfg shots to see what I could muster out of it, and honestly you would think 4 extra BFG shots would save more than 5 seconds but the cybers do a lot of lifting 	in the 1:27 and the BFG shots are more focused and better in that demo. This 1:22 went pretty ideally, not any big errors really. Sub 1:20 definitely doable.
+
+	I'm super satisfied with this demo since 60FPS by blksmiith came up in my playlist during the demo and the end of the demo and intermission synced very well with the 	music, which was awesome. That cyber spam at the end of the demo trying to pull out a good run, that risk and action dancing between rockets and timing up tracers 	simultaneously with the music in the background, it's basically the best place you can be in doom. All smiles once I exited.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 28
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 0:29.86
+
+Author: 	Kinetic
+Demo Date:	February 3rd, 2024
+Attempts:       877
+Practice:	20 min
+Grind:		2 hr 12 min
+Goal:           Sub 0:29.94
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+	The first time in my professional esports doom speedrunning career that I have to settle for beating a record by mere tics, how PATHETIC!!!!!!! Just kidding, I don't 	think max can be brough down to 28 on this unless you literally perfect your movement somehow I guess (and maybe there is a rocket jump available in the snaking 	hallway bit on the first bend??? I doubt it though since this map is so infamous and 4shock would have found/done it already). Anyways, decent enough splits on the 	blue key and the switch, they were 5.97 and 10.06 respectively in this demo, my fastest for both was a 5.80 and 9.89 respectively. I think this run is faster than 	shock by a decent chunk of tics until the revenant hall, he has a super nice SR50 on it and I sort of fumble my way through it like a fool. He grabs secret at 28.71, 	but I grab it at 28.77, I exit quicker since I don't run into the inlet as far as he does. I think this can go down to like 29.5 or something, I had a couple failed 	kills during attempts that yielded a 29.5 something and even a 29.4 I think.
+
+	Oh, like barely a couple hundred attempts in I had a successful exit...that was the same tics as 4shock. DAMN. I expect 4shock or confused or mhrz to beat this demo 	eventually, it's just a little bit of luck and then not messing up movement, but I don't think the luck is a factor really if you're good at movement. At least it 	didn't seem like that extreme luck to me, and my movement is neurotic so someone like 4shock could easily take this back without too much effort.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 24
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:55
+
+Author: 	Kinetic
+Demo Date:	February 3rd, 2024
+Attempts:       49
+Practice:	10 min
+Grind:		37 min
+Goal:           Sub 2:00
+Satisfaction:   :D :D :D
+
+- complevel 2
+
+Comments: 
+
+	Infighting and BFGs went well, had 3 shots to use on the mancs which was very nice. 4shock says there is probably a better route in BFGing the revs later...which 	implies skipping them initially? I don't think it makes a ton of sense, rockets are still fast and it's not like you have lots of BFG to spend in the map, for that 	route to work I would imagine all your BFG shots need to basically be optimal in the map and for infighting to be pretty insane between the nobles and cyber. This 	route is better imo, at least more consistent. I pull a trick I saw out of one of mhrz's tntr14m demo from last year's Bingo...he shoots a rocket at a group of revs 	and vile as they raise out of some water in that map, so the rocket explodes directly in the center of all of them doing optimal splash. I try to do the same here at 	the start of the map with the rev ambushes.
+
+	Could've had 1:54 if I manned up and went suicidal at the final vile on the last rocket, could've killed him and myself while sliding into the exit for a 1:54. I had 	him survive 4 rockets in practice though, so no risking it here, plus I was already well under goal time.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 26
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 2:30
+
+Author: 	Kinetic
+Demo Date:	February 3rd, 2024
+Attempts:       90
+Practice:	0 min
+Grind:		1 hr 6 min
+Goal:           Sub 2:35
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+	Slow teleporters at end kill a lot of runs, luckily this time infighting was terrific was around and saved me a couple thousand seconds. No practice, straight into 	attempts, had seen the route before and the map is simple enough. Bit embarrassing running out of ammo twice and having to switch weapon twice, would've easily gotten 	me sub 2:30 if I hadn't failed at that, but I was trying to gun for that time frame where you can pick up ammo when you have 0 ammo and you don't weapon switch, I 	just failed to get to the ammo in time both times, too much risk it for the biscuit gameplay. The .97 feels nice at the end though, and that triple cyber kill was 	cool too.1
+	
+	In terms of strategy for the map, it's actually important you don't aggro or damage the cybers on the lower level at all, and also you need to provoke infighting with 	the central cybers with the main upstairs area, which isn't hard to do it happens automatically like 90% of the time.
+
+	I guess crushers in the teleport closets killed the final guy? Weird, but I have implemented that same thing in my own maps.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 25
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 1:27
+
+Author: 	Kinetic
+Demo Date:	February 4th, 2024
+Attempts:       180
+Practice:	10 min
+Grind:		1 hr 35 min
+Goal:           Sub 1:20
+Satisfaction:   :(
+
+- complevel 2
+
+Comments: 
+
+	Top 10 things that suck about this run:
+
+		1. Spidermastermind only infights like 50% of the time at best
+		2. Spidermasterminds fire at worst time
+		3. Plasma switching ruining good runs
+		4. Archvile dodging rockets
+		5. Archvile surviving 4 rockets
+		6. Cyberdemon doesn't shoot
+		7. Getting immediately destroyed when teleporting after the archvile
+		8. 
+		10. Final jump
+
+	I had a sub 1:20 run fail the exit jump, 1:20 definitely possible and not so much hard as you just need good luck, and one of the masterminds dying from infighting 	would help a lot since it saves you 2 whole BFG shots (or only 1 if you hate yourself). I don't particularly enjoy running this map, it's a lot of "I hope the 	mastermind shoots" "I hope the mastermind doesn't shoot" "I hope the cyberdemon isn't in dogshit position" "I hope the vile doesn't tank 4 rockets" "I hope I don't 	get annihilated when teleporting up" etc..
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 27
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 3:27
+
+Author: 	Kinetic
+Demo Date:	February 4th, 2024
+Attempts:       81
+Practice:	20 min
+Grind:		48 min
+Goal:           Sub 3:30
+Satisfaction:   :|
+
+- complevel 2
+
+Comments: 
+
+	Ok, maybe I'm just in one of those stupid moods where little stuff ticks me off more than it should (or would like), with this map and map27 annoying me a lot today, 	but this map is just straight garbaggio to run. Every single enemy is trash. Let's run down the list of annoying stuff that can happen in this map:
+
+		1. Pinky runs weird at start and you whiff SSG
+		2. Blockmap eats your shot on pinky
+		3. Baron in RL room sits in corner on rockets, also deals 48+ damage only
+		4. Archvile dodges rockets
+		5. Archvile survives 3 rockets + full SSG
+		6. Baron and revenant in the tunnels block you/deal huge damage when you're running to yellow bars
+		7. Revenant in RSK room dodges all your rockets (dodges 3 in this demo!!!)
+		8. Viles in RSK are ass to handle and have bad positioning
+		9. Accidental weapon swap with chaingun
+		10. Enemies block your way from going back up the main library staircase
+		11. Eat a billion damage trying to rocket the vile by RSK door
+		12. Eat a billion damage trying to get past revs after RSK door
+		13. Barons perfectly wall you in when going for cell pack in BSK dungeon
+		14. Revs block you perfectly from escaping BSK dungeon
+		15. Eat a billion damage trying to get out of BSK dungeon
+		16. Chaingunner eating what's left of your health when heading to blue bars
+		17. The vile in the BFG room targeting you quickly and not getting hit by barons (happens in this demo)
+
+	SAV mentions in his demo that this map sucks to run aggressively, so guess he experienced the pain too, although his was likely much worse since he's a keyboard only 	player, which I can't even imagine running this map with keyboard only for max. When I watched his demo after doing this one it looks like we developed similar routes 	although I take some parts a bit more aggressively. One improvement in this route for the map is doing what SAV did but what I didn't do, which is just running past 	the vile by the RSK door and cleaning him up at the end, but I can see him destroying a lot of runs escaping from the BSK dungeon or insta targeting you when going 	for the RSK door and ruining that.
+	
+	I wanted sub 3:30 on this map but while doing attempts I was gonna settle for a first exit, which this ended up being, good thing it was sub 3:30.
+====================================================================================================
+====================================================================================================
+WAD: Scythe
+Map: 29
+Skill: 4
+Category: UV-Max
+Exe: Dsda-Doom 0.26.0
+Time: 5:46
+
+Author: 	Kinetic
+Demo Date:	February 5th, 2024
+Attempts:       140
+Practice:	30 min
+Grind:		2 hr 35 min
+Goal:           Sub 6
+Satisfaction:   :|
+
+- complevel 2
+
+Comments: 
+
+	This map was also annoying to do today, but I guess it's better than Map27 and 25. I like how the plasma is emphasized in this map, and I like how it's a much better 	version of Downtown. This run is very notable for its MANCS, all of which in the map killed me at some point during attempts, which is just insane. The first pair of 	mancs can clip shots through the wall, which is annoying. The next manc can not pain chance and also block you from grabbing the key and the cyber shoots you. The 	next 2 pairs by the bridge just are a bit hard to kill effectively with plasma while also not taking any damage. The next pair of mancs after the HK stairs is the 	worst in the map, they love to block the door and spam you while the HKs spam you from behind. I used to try to just SSG through them to get past to save plasma but 	then I had to start using plasma because they were such a problem. It's also deceptively difficult to grab the cells and medkits on that balcony without the mancs 	doing massive damage. The next manc in the RL building killed me once when I was going for the BFG jump. The last manc in the building before the end killed me once 	because I was an idiot.
+	
+	Anyways, map is pretty difficult just to survive in this route. I routed this myself and then watched Garret's demo to see what he does, and he does a zeropress early 	to get to the BFG quicker. That's probably the fastest route? His run could be a lot faster with his route, but I wasn't going to do a zeropress at the start of my 	run every attempt. The run also has a huge issue with missing monsters, I got to the end like 6 different times at least and there were missing enemies. I initially 	had my goal time at sub 5:30 but had to lower it because I was slower than practice and I was getting annoyed by the missing monsters so decided to loosen the goal 	time in case I needed to backtrack for them. I can see this map going sub 5 one day.
+
+	...and wow, super pointless comment, but I just remembered watching a stream with someone playing this map or a demo or something, and I remember having deja vu at 	the time of this map, particularly the HK staircase, which is odd since I had never played or seen the map before at that point...now I can't tell if that's a false 	memory or not.
+
+	Last demo I'm doing for the demo pack.
+
+	***NOTE***: It's important with this route to watch the kill counter early on, if it isn't 21+ after the pair of shotgunners and rev after the first pair of mancs, 		    head back to the start later in the demo to check for rezzed zobies.
+====================================================================================================
+====================================================================================================
+
+Overall Comments:
+	
+	The original idea for doing this goes back to last year in Pacifist Paradise when I brought up the idea of teaming up with someone to do a max table sweep of some 	megawad. Why didn't that happen? Well because mhrz had to mention that a segmented run of a megawad with a bunch of people would be fun, and then everyone loved that 	idea and NOBODY cared about my idea. This is why I left Pacifist Paradise. Just kidding. But yeah mhrz's idea turned into the 2 Italo team-assisted speedruns, which 	was awesome to see. But I still thought about my idea from time to time, and after a while I decided that if nobody else really wanted to do what I had in mind then I 	would just do it myself. So I partnered up with myself and tried to think of a good megawad to table sweep. I don't know how, it was probably spontaneous or 	something, but I decided to do Scythe. So then I started doing Scythe last week, and it's eaten a lot of sleep but I don't know I guess I get really driven to do 	stuff sometimes.
+
+	A lot of these runs are "low effort", at least compared to what I usually spit out for demos. I didn't spit out 3 hours for any run, at least when you exclude 	practice. Most grinds were around an hour or less. It was nice to put in varying degrees of lesser effort for demo making, like how Bingo was. I really enjoyed the 	overall process, a lot of the maps were pretty fun to speedrun and it was very cool to see just how much Erik Alm catered towards speedrunner-friendly map design, 	these maps are actually so good for so many categories, so I guess 4shock was right when he said this wad was the best for speedrunning (I don't know if he ever said 	this but I feel like I remember he did at one point). I loved the mix of runs in this wad...the early maps are more optimized overall, and had lowtiers and such, so 	lots of shotgunning, making sure you land shots, get good damage with punches, chaingunning carefully, super carefully placed rockets on fodder etc....later maps have 	a lot more rocket and grouping action, a slaughtermap, a movement map...so much diversity in enemies, weapon usage, what's asked of the player...I do a rocket jump 	death exit in Map07, a careful lineup jump in Map18, SR50ing for dear life in Map28, carefully placing BFG shots on Map25, AVJing in Map19...it's all great. It waas 	cool how much sway berserk had in the first 13 maps or so, before rockets and SSG took over in E2, and BFG took over in E3. The plasma also got a lot of love in some 	maps, and so did the chaingun early on. It's probably smart to recognize now that this collective grind won't be something I can do again, maxing a somewhat hardened 	set of records on a table for a big name WAD that's also so speedrunner friendly. So I really appreciate that I got to do this.
+
+	I also enjoyed getting to take records from a wide cast of players, I only regret that the table won't look so colorful with so many names for a split second. All of 	these demos are beatable, some of them may just take a minute to break. Overall though I'm satisfied with how most of these demos turned out, most of them I aimed for 	the goal of a clean run on my part, even if RNG wasn't optimal.
+
+	...I thought I would have more to say since I usually babble on about nothing for longer than this but I guess not. BYE BYE!!!
+
+###########################################################################################################(#####(####################################
+#########################((((#############################################################################((((#(#(((###((#(###########################
+######################(((((##(((#############################################################(###((######(///((##(/#####(#(###########################
+################((##(############(###((######((####################################(##(###(##((((####(/***,*/(##(#(((((####(##########################
+##################(####%%%%###########((###(####(###(##############################(#((##(#((###(/**,,*/((##(/*(##(/((*/##((##########################
+###################(////(((#%#(((####((((((####((((####(#############################(/(####(*,,,**/(##((*,,,*,/**//(#/*(#############################
+##################((/******,**,,***//((###############(############################((#/**,,,,***//(//*,*****/(((((/*/(//((##(#########################
+###################(((((#(##((/***,,,,,**,*/(((/////(#((##(#####(/**,,,,,,,,,,,,**/#%(*/*****//(#(*,,,,,,///((((//**/(**((((##########################
+##################(/*((((***/**/#(***,,,,,,,,*///##((####(/*,,,***//(((((/////**/*/***,,****/((#/**,,,,,*//(#(((#/**//**((############################
+##################(**//((/*//*,,,,///*/((/****(//#%#(//*,*****///((((///((////////*****,,,,,/######/*,,*((//((((#/,*(*,/((############################
+################(((/,*//(///#(*,,,,,,*/(/**/(###(/*,,*,,**/(((//((##########((((#####((/((/**,,*(##%#/*,*/(####(#(*/#/,/%#(###########################
+################(((/***((///(#((/,,,,,*/(//(##/*,,,,,,/(##((/(((##########################((((//*,,/#%#((/(####/#(*((**###############################
+###################(*,*/(///((//***,,,*/**/**,,**,*//(#(((((((#########%%%%###############((##(###(/,*(((*//(####(/#/*/%##############################
+###################(/,*((/((*////*,,,*//*,,,,,**/(((((((#######%%#%%%###%%%%#####%##%#######(((//(##((*,**,/(#%#(##(/*(%##(###########################
+#################(##/,*/(//(/*/*,**,,*//*,,,*/((#((((############%%%%%%%%%%######%%%%%%%%%%####(//(((/,,,,,*/#%%##(((/(##(############################
+#################((#(*,,*/(((/(#(/,*****,,,*/(((/((############%##%%%%%%%%%######%%%#%%%##%%####(((/**(/*,*,,(%%(##(/(##((############################
+#################((#((/*,*(#(##(//#(/((*,*/(/**/((((###########%%#%%%%%%%%%######%%%%%%%%%##%###(/*/((((*,,,,*/(#(((/####(############################
+################((###((//*/#(##((((((/,,,*/**/(*,*(##########################((((#############((**//(((/,,,,,/(**/*/(#%#######(((#####################
+###################(#(#((//(#(######/*,,,****////(///(#########%%%%%%%%%%%#######%##%%#%##%#####((((///,,,,,*.*(//*//**###############################
+###################(####(####(###%#(*,,,,*(##(*,*(#//(#########%%%%%%%%%%%%########%##(((##%#%%#####(/****,,*,,*//**/**,,*/(((#%##(###################
+####################(#######(/(##%#/*,,,,//((((/,*/((####((/****/(((###%%%%%###/*,,,,,,,,,,*/(########(*,,,*/,,((((/#%%#%%#((/*/(#(###################
+#################((#(##(/((###%%%#/*//*,,,/(/**/(((#(((//*,,,,,,*,,,*(##%%%%%#(*,*,,,**,,.,,.,,*//((((#(/*,*/*,**##%%%#%%#//(#########################
+####################(###(//***///**,,**,,,,*//*///*,,,,,.,,*,,**/(/**/#%%%%###(/*,,**,,*,*,,*,..,,,*/((##/,,,,,*(,(###(//(%%###(((####################
+######################(((/(##%###/*,,,,,,,,*/*****,,,,,*******///*,,,/##%%%%###(*,,*,,,,,,,,***,,*,,,,**(#(*,*/**%/**/(##(#((#########################
+#################(########//#%#%%####(*,,,,*/*,**,,.,,***,***,**,,,,*(#%%%%####(***,.,.,,,,,,****,,,,,*/(#(/**//**((#**(##(((((##(####################
+################((#####(((#(//####((/*,,,,,*,,*/*,.,,,,,,****,,,,,,*(########(#(((#/,,,,/*,,***,,,,,,/(#(##/**((##//#%#(//#%###(######################
+###################(####(#(##(/(###(/**,,,,,,,/(*,,,,,,,,,,****,,*(################%#/,,,,,,,,**,,*/##(##(//*,/####(/(##%##/(#%#####(#################
+##########################((#(#((((///**,,,,,,*((*,,,.,,****,,,*(######((////*,,/##%%(/*,**,,**,*(#%##((/*/#(*/######((#%%%%#(/((#((##################
+#########################((##((##((#(/***/**,,*(#/*,,,,,///(#((#####%#/,,,*****,*(#%##%%((///(//###((((**(###//%#%(/(###((((####((##(#################
+#########################(#(##%((##(/////(/*,,*/(#%###(/(#(//*/((((#(*,,,,,,***,,*##(*##(/(#(#(((##(/**/(#####*/(#%###((####(####(#((#################
+##########################(###(###(//((((//*,*//(#(/((//((*////((((/*,**,***/*,,,,,/((#(#(((((/((#(//////(#%##(/%%####################################
+###########################(//(##(((#(((//***/(///((((/(((////(###/,,,,,,*/##(*,,,//###%#(((((((/,,,,*//*(%#%##((#%###################################
+#########################(#####(//(###((/*///###(##(((####(#########(((*/###(/(//(##########((*,,.,,**/,*(#######(#(##################################
+##########################(##((((####((/*//(###((((*,,/(##########################%%%##%##%#*,,,,*,,/(/,(######((#(###################################
+########################((###(((((#%##(/(######/*//**,,,*,*/(###%%##%#%%#%%%%#####%#%%##((((/,,**,,/(/*/((((##########################################
+##########################((##(###(((((######((/**(/,,**,*,,,*/(###%%%%%##%%####((#%#%######/,,,,,*((*,/##((##########################################
+#########################(((###(((##((#((###((#(/,*/**,,,,*,,,*/(((########%#####(###%#((##/*,,,,*/(/**(##(####(######################################
+##########################################((###((*,*((*,,,,,,*(#######%%#########(#######(/*,,,,,(#(/*/##(#(##########################################
+#############################################((##(*,*(#/,,,,.,*////(#%##((###(((#((((#(****,,,,,*(#(**(#((############################################
+##################################################/**(((*,,,,,,,,,,,,,,,**//((((((#((((###**,,,*/((/*/(##(############################################
+#############################################(((##/***///*,*/*/(((/*//((((#####(((######(*,*/((#(/***/#(##(###########################################
+##################################################(/*/(###/*,/((############%####(#%#((/**(#((#(*//((##((##(##########################################
+###############################################((###/,*(#####(***/(((((((((######((##%%####((/**#####((###(###########################################
+#####################################################/***/#######%%###%%#########((###((////*/(#######################################################
+###################################################(####/*,,***/((###############(((//*,*(/*(####((###################################################
+#################################################((###(##(#((/****,****////********/(/,,*/((##(#((####################################################
+##################################################(###(((((#((#/*,,,,,,,,,,,**/(######**/(##(##((##(##################################################
+#############################################################((##(/,*/(##########((///,,/(############################################################
+###########################################################(###(##(*,,,*//(###(/**,,,,,/##############################################################
+###########################################################(##((#((/**,,,,,,,,,,,,,,,,*(##############################################################
+##################################################################(/*,,,,,,,,,,,,,/##**/(#############################################################
+###################################################################(/*/#(*,*(#//(//##*,,/#((##########################################################
+##################################################################((/*/##(*,,*////(##/,*(#((##########################################################
+##################################################################((*,*(###########(/*,*((############################################################
+####################################################################(*,***//(###(///(***(((###########################################################
+###################################################################((/*/##########((#(,*##############################################################
+####################################################################((//#############(*/##((##########################################################
+##################################################################(##(//(#######(((///**(#((##########################################################
+##################################################################(#(#####%%%%%%######//##############################################################
+#######################################################################((###(((#####(#(###############################################################

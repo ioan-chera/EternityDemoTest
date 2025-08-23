@@ -1,0 +1,15 @@
+              Scythe
+           Map 26: Fear
+       Map Author: Erik Alm
+------------------------------------
+           sc26o021.lmp
+
+Nomo in 0:21.69
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Not too hard to get to 21, I don't think I can do 20 (I'm not sure it's even possible). Kickass music.

@@ -1,0 +1,15 @@
+              Scythe
+        Map 18: MS Futura
+       Map Author: Erik Alm
+------------------------------------
+           sc18o686.lmp
+
+Nomo in 0:06.86
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: 6.97 came surprisingly quickly (about 7-10 minutes time spent recording), and this came 5-7 minutes later. I suppose it may be because I already have a bit of muscle memory as I believe I tried this map in some other categories but found 6 to be really tough to get in any other category.

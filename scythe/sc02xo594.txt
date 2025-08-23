@@ -1,0 +1,19 @@
+** This is a tool-assisted demo! **
+Tools used: frame-by-frame building
+
+PWAD: SCYTHE.WAD
+PWAD name: Scythe
+Map: 2 "Punchline"
+Skill: 4
+Category: speed
+Parameters: -nomonsters
+Exe: xdre 2.22
+Complevel: 2
+Date: 30.03.17 (5.97), 10.11.17
+
+Time: 0:05.94
+
+Author: 38_ViTa_38
+
+Comments: looks like I've never published this demo.
+

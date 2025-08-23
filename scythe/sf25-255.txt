@@ -1,0 +1,20 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       25 - Envy
+Skill:     4
+Category:  UV -fast
+Exe:       prboom-plus
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      2:55
+
+Comments:  Crappy 3rd exit. Only watchable because of
+           the very close ending ;)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+13.10.2006

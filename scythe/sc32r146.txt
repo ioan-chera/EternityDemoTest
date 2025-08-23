@@ -1,0 +1,8 @@
+PWAD: Scythe
+MAP: 32
+CATEGORY: UV-Respawn
+EXE: DSDA-Doom 0.28.2
+DATE: 23th December 2024
+TIME: 1:46.66
+PLAYER: Tellurium
+COMMENTS: Maybe I will do 29 and 31, but 27, 28 and 30 are a pain.

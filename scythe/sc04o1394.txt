@@ -1,0 +1,18 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Scythe
+Map: 04
+Category: nomonsters
+
+Time: 0:13.94
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 6/27/2013
+
+Comments: I was testing the current records for nomonsters in Scythe.  Most were improvable with a small amount of work, but this one required a bit more, so I thought it was worth submitting.  Probably my most hard-worked nomonsters run to date (of those on dsda anyways ;)
+
+

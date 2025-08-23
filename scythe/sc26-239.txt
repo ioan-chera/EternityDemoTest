@@ -1,0 +1,12 @@
+Pwad:      scythe
+Pwad name: scythe
+Maps:      26
+Skill:     4
+Category:  UV-Max
+Exe:       Prboom+ v2.5.1.5
+
+Time:      2:39
+
+Author:    Ahmad 
+
+Comments: dont know what happened to that last guy ... anywhow sub 2:30 is possible in practice 

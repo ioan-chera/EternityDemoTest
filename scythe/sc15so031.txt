@@ -1,0 +1,30 @@
+WAD: Scythe
+MAP: MAP15: Blood Bath
+Time: 0:31.77
+Added Engine: prboom-plus v2.5.1.3
+Recorded on: August 24, 2017
+Category: nomo 100
+-complevel 2
+
+Another map that stuck out to me for nomo 100, this time from the original Scythe.
+
+This was pretty fun to do, though there are quite a few jumps that have to go right, which can be frustrating when they don't want to work.
+First is the jump to the first secret, which is easy. It can be easy to hit the wall away from the teleporter and waste some time getting there,
+so I'm glad everything went well there.
+
+Next comes the SR50 jump to the YSK platform that 4shockblast and I had discussed while he was working on sc15o008. It's a pretty easy SR50 jump, but
+when setup time is sacrificed, it becomes a bit more of a leap of faith. This is the jump that definitely made me restart the most.
+
+Third is the jump from YSK platform to the hallway leading to the secret exit. This is again an easy jump, but the southwestern pillar makes it a little
+more difficult to do quickly with no setup. From there, it's on to the second secret. I trigger the lift as early as possible to save as much time as possible.
+
+After the second secret, I then jump across the SSG pedestal into the hallway for normal exit. I wondered if it'd be possible to SR50 jump the whole way 
+through there, but the gap seems to be wide or there's just not enough room to do it, it seems. Too bad, because the run would be a bit easier if I could
+do it. Jumping into the hallway itself is really easy, thankfully. I did have a couple of runs where I didn't trigger the lift as early as possible, which
+made those times 32.xx. Here, I got it pretty quickly.
+
+Jumping from the lift out the other window is also easy, but I did screw it up a couple of times due to impatience. From there, thankfully there are no more
+jumps and the rest of the map is straightforward to the exit. There is a bump after teleporting to the soulsphere, but oh well. I'm just happy to have 31
+after getting 32 quite a few times.
+
+--Doomdaniel95

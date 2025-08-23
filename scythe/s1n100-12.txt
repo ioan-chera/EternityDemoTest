@@ -1,0 +1,23 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: scythe.wad
+Pwad Link: http://www.doomworld.com/idgames/index.php?id=11944
+Pwad name: Scythe
+Wad Author: Erik Alm
+Map: 01
+Skill: NM
+Category:Nightmare! with 100% secrets
+
+Time: 0:12
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 1/31/11
+
+Comments: Got 0:13 on my first exit, and on the next 30 or so as well lol (If I didn't die that is).  Finally got :12 which is alright.
+
+-Recorded with prboom-plus 2.5.0.8 
+

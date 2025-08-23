@@ -1,0 +1,53 @@
+WAD: Scythe
+MAPS: MAP01-MAP30 (woohoo that's a lot of work! XD)
+Time: 8:57 TAS
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+A lot of work, but a lot of fun as well, yes. :) But a few worries... mainly:
+-> What if I failed the MAP07 trick?
+-> What if I failed the MAP10 trick?
+-> What if I failed the MAP15 trick?
+-> What if I didn't grab the BK the first time in MAP20?
+-> What if I failed the MAP25 trick?
+-> What if the crusher got me in MAP28?
+-> What if I failed the MAP30 trick?
+
+Fortunately, I didn't have to deal with any of those. :)
+Here are the map names and times:
+
+MAP01 (Get Going!): 0:08.37
+MAP02 (Punchline): 0:06.60
+MAP03 (Up and Around): 0:13.57
+MAP04 (Lost Warehouse): 0:12.20
+MAP05 (Slimy Tunnels): 0:10.83
+MAP06 (Pressure Point): 0:21.71
+MAP07 (Deadly): 0:01.40
+MAP08 (Garden Base): 0:15.97
+MAP09 (Computer Storage): 0:18.37
+MAP10 (The Lords): 0:12.23
+MAP11 (Sneak Peak): 0:11.63
+MAP12 (Walk in the Park): 0:11.71
+MAP13 (Subverted Base): 0:20.06
+MAP14 (Power Outage): 0:20.26
+MAP15 (Blood Bath): 0:10.20
+MAP16 (Burial Grounds): 0:19.11
+MAP17 (Book Lords): 0:22.29
+MAP18 (MS Futura): 0:10.49
+MAP19 (3000 AD): 0:52.83
+MAP20 (The Starport): 0:33.49
+MAP21 (Solitude): 0:08.09
+MAP22 (Despair): 0:18.06
+MAP23 (Anger): 0:17.26
+MAP24 (Hatred): 0:25.74
+MAP25 (Envy): 0:08.66
+MAP26 (Fear): 0:19.06
+MAP27 (Terror): 0:38.20
+MAP28 (Run from it!): 0:20.31
+MAP29 (Hell on Earth): 0:32.11
+MAP30 (Fire and Ice): 0:28.51
+Total: 8:57 (YOU figure out the hundreths of seconds XD)
+
+ENJOY!
+
+--Doomdaniel95

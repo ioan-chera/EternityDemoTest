@@ -1,0 +1,24 @@
+NOTE : This is a Tool-Assisted demo
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       24 - "Hatred"
+Skill:     4
+Category:  Speed
+Exe:       Recorded with PrBoom-Plus 2.4.8.1 -complevel 2 
+Time:      0:20
+
+Stats:     Kills     1%
+           Items    16%
+           Secrets   0%
+
+Description:
+I've only seen this rocketjump trick in an old method's nomo lmp, so route credits go
+to him :) But as i'm not that comfortable with prboom yet (used to play zdoom alot),
+i decided to make it tool-assisted. Nothing much to say really, though making a good
+jump to the key was a little bit tricky. And the second rocketjump is nice imho ;D
+0:19 seems possible with a better running, but also needs some better cooperation from
+hellknights.
+
+Alexander Nikulin
+anpdad02@rambler.ru

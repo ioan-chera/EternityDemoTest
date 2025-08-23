@@ -1,0 +1,19 @@
+              Scythe
+      Map 13: Subverted Base
+       Map Author: Erik Alm
+------------------------------------
+           sc13str0124.lmp
+
+Stroller in 1:24
+
+    Kills   - 26%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Pretty easy, 9 attempts. Not sure why I didn't try this sooner.

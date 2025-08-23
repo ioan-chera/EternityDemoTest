@@ -1,0 +1,28 @@
+| This is a Doom .LMP | Doomed Speed Demos Archive http://doomedsda.us/ |
+-------------------------------------------------------------------------
+Filename : sc16-132.lmp, sc16-132.txt
+Date     : 2017-10-07
+Iwad     : doom2.wad
+Pwad     : scythe.wad
+Game     : Scythe
+Exe      : Doom2.exe ver1.9 
+Category : UV-Max
+Map(s)   : MAP 16: Burial Grounds
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :   0%
+Secrets  : 100%
+Time     : 00:01:32
+===================================
+Description:
+
+An arch-vile telefrag in the church was the greatest obstacle. 
+I failed telefrag over 10 times in a row when I was unluckly...

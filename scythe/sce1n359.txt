@@ -1,0 +1,47 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+             Episode 1 NM100
+------------------------------------------
+    Level          Time      <  sce1n519
+------------------------------------------
+    Map 01	   0:09 :)      -0:01
+    Map 02	   0:18 :)      -0:20
+    Map 03	   0:43 :|      -0:12
+    Map 04	   0:33 :|      -0:04
+    Map 05	   0:34 :|      -0:06
+    Map 06	   0:27 :|      -0:07
+    Map 07	   0:06 :(      +0:02
+    Map 08	   0:24 :(      -0:10
+    Map 09	   0:33 :|      -0:18
+    Map 10	   0:12 :)      -0:04
+
+TOTAL:             3:59 :|      -1:20
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Not nearly as hard as I thought it was before, I'm actually not quite happy with this time as I bled time on most maps, and it could go even more aggressive than this. Still a massive improvement over my awful NM-Speed (Which was already beaten NM100). At least sub-3:30 is probably doable with more aggressive strats and better execution, though I don't want to grind this too much, so my goal was only sub-4min.
+
+Map 01 (0:09): Only took 9s here.
+
+Map 02 (0:18): No need to kill so much shit here, I dunno what I was thinking. 18 is the best time I ever got, 19s or slower was more common.
+
+Map 03 (0:43): Could go even faster with more monster skips or pacifist, but I was too lazy to do that.
+
+Map 04 (0:33): Missed so many shots, so it was slow. :\
+
+Map 05 (0:34): Got a bit blocked in a few spots, so it didn't go too well, more aggression could be implemented as well.
+
+Map 06 (0:27): Got shot quite a bit on first attempt at wallrun and lost a lot of health at the end.
+
+Map 07 (0:06): Due to previous maps health loss, I needed to pick up berserk and lost 3 seconds.
+
+Map 08 (0:24): Start could kill me, but this time it went pretty smoothly. I thought I activated final bars earlier, but turns out I bumped the window next to them and didn't realize, costing me a few seconds.
+
+Map 09 (0:33): Lost a lot of health on previous map, so I had to take this map more safely than I could, invis and most of the monsters at the start could be skipped.
+
+Map 10 (0:12): Rushed this one because the run was so slow, which thankfully got me the 1s I needed for sub-4min.

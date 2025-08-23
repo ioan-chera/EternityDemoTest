@@ -1,0 +1,9 @@
+WAD: Scythe
+MAP: MAP01: Get Going!
+Time: 0:15
+Added Engine: prboom-plus v2.5.0.2
+Category: NM100%S (also pacifist!)
+
+Fun to run! It's easy, but also easy to get spiked down by zombies. ;)
+
+--Doomdaniel95

@@ -1,0 +1,12 @@
+Player: Tobby
+Time: 0:43.17
+
+IWAD: doom2.wad
+PWAD: scythe.wad
+Exe: Dsda-Doom v0.24.3 complevel 2
+Skill: 4
+Category: Stroller
+Map(s): 06
+Date played: June 17th, 2022 (GMT+8)
+
+Comments: The Spectres in this map are incredibly annoying, though you should be able to squeeze past them with enough luck. The exit room is also relatively easy if the barrels explode and the Hell Knights decide to give you some space.

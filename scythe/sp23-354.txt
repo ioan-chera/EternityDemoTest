@@ -1,0 +1,17 @@
+Doom Speed Demos Archive
+https://dsdarchive.com/
+
+IWAD:      DOOM2.WAD
+PWAD:      SCYTHE.WAD
+Maps:      23
+Skill:     4
+Category:  Pacifist
+Exe:       dsda-doom 0.10.0 -complevel 2
+
+Time:      0:03.54
+
+Author:    Rotwang
+
+Comments:  After grinding Map23 NM Speed I thought I would do the same with Pacifist. At the start of one of my attempts I mistakenly did the input for the SR50 before the screen melt started which canceled the mouse turn input and I ended up going diagonally into the teleporter. The funny thing was doing so seemed to cause the arch-vile to start his attack sooner than if I did an SR50 into the teleporter. I spent an extra tic in the starting room but the arch-vile more consistently started his attack as soon as I was in LOS.
+
+Included is a -complevel 17 demo that's a bit faster to illustrate how important it is for PrBoom+ users to set the correct -complevel when recording demos.

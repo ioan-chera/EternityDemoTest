@@ -1,0 +1,21 @@
+sc18p008.txt
+  sc18p008.lmp - Ultra-Violence Speed/Pacifist
+
+  Recorded using prboom-plus 2.5.0.3 with Doom 2+ compatibility (-complevel 2)
+
+  Scythe - map 18 - MS Futura (by Erik Alm)
+
+  ==================
+  Kills        0%
+  Items        0%
+  Secrets      0%
+  ----------------
+  Time       0:08.00
+  ==================
+
+  Description:
+  :(
+
+author: dew
+e-mail: dewww@seznam.cz
+26. 08. 2009

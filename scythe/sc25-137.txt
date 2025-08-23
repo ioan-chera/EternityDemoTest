@@ -1,0 +1,17 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom2.wad
+Pwad:      SCYTHE.WAD
+Map:       MAP25
+Skill:     4
+Category:  UV Max
+Exe:       dsda-doom 0.26.0 -complevel 2
+Attempts:  693
+
+Time:      1:37.26
+
+Author:    kmc
+
+Comments:
+I played this for days without any improvement (over 2000 attempts total), so I can only assume someone is going to easily beat this.

@@ -1,0 +1,19 @@
+              Scythe
+       Map 05: Slimy Tunnels
+       Map Author: Erik Alm
+------------------------------------
+           sc05r056.lmp
+
+UV -respawn in 0:56
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Slower (and older) than my max, which I generally avoid for respawn demos, but faster than the existing respawn time, so I figured I should post it.

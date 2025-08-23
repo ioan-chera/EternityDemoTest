@@ -1,0 +1,12 @@
+==================================================
+Date     : 26-01-2021
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality + Items
+Engine   : prboom-plus-2.5.1.4 Complevel 2 + Advanced HUD
+Map      : MAP08 - Garden Base
+Time     : 2:29.00
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA

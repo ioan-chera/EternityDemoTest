@@ -1,0 +1,15 @@
+              Scythe
+       Map 03: Up and Around
+       Map Author: Erik Alm
+------------------------------------
+           sc03o189.lmp
+
+Nomo in 0:01.89
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Was it worth it? Probably not. :^) Over 6 thousand attempts. I guess Scythe nomo is SeriousgeBusiness indeed. Also got a random 15.23 during bored attempts at intended route, not worth posting, though, 14 is surely doable, but I'm lazy.

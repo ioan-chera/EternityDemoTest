@@ -1,0 +1,20 @@
+Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	16
+Skill:	4
+Category:	UV -Respawn
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	1:27
+-------------------------------------------
+Comments:  There was no -respawn demo for this map, which I deem to be a personal insult against me and everything I stand for. Same time as the max demo I just did, but it showcases how I have a route in mind that, if I didn't suck, could be pretty fast!
+-------------------------------------------
+YouTube Video: https://youtu.be/MJ-6FLs11dI
+-------------------------------------------
+Author:    Andrea Rovenski "Cyberdemon531"
+http://speed.dog/
+andrea@speed.dog 
+

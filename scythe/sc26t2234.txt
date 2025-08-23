@@ -1,0 +1,13 @@
+Pwad: scythe.wad   
+Map:      26
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      22:34
+
+-complevel 2
+
+Author:	   j4rio
+
+A bit better, not by a whole lot though.
+Last triplet was disobedient.

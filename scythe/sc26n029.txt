@@ -1,0 +1,19 @@
+              Scythe
+           Map 26: Fear
+       Map Author: Erik Alm
+------------------------------------
+           sc26n029.lmp
+
+NM-Speed in 0:29
+
+    Kills   - 13%
+    Items   - 6%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Close to 28 (.14), surprisingly enough, as it wasn't easy to get 29 even because of all the luck. Harder than UV because the cybers block me a lot more often, and same for the lost souls shot by the PEs at the start and the cacoswarm. Ending is still quite luck-based, so I'm not gonna improve this another second.

@@ -1,0 +1,30 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map30: Fire and Ice
+Category: NM 100S Co-op
+Player 1: 4shockblast (Green)
+Player 2: Garrett (Indigo)
+Exe: Woof 12.0.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:43.83
+-------------------------------------------
+4shockblast:
+
+I took a bit of extra time to shoot at the end because we were a lot of attempts in, and this run was decent enough, so wanted to get an exit. Might want to redo. Both routes are tough, but the invul one is harder to do, funnily enough, just because of the viles/cyber pushing Garrett off.
+
+GarrettChan:
+
+Used to think with the Invul it shouldn't be that bad to go around for the secrets.
+
+However, it's actually really easy to get thrown into the pit due to the NM AV or the Cyberdemon hitting you without being able to see. The end is not optimal, but the run did took us quite a while to get...
+
+Dec 7 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

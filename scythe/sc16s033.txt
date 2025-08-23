@@ -1,0 +1,19 @@
+              Scythe
+      Map 16: Burial Grounds
+       Map Author: Erik Alm
+------------------------------------
+           sc16s033.lmp
+
+NM100 in 0:33
+
+    Kills   - 36%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: 35 was easy but I wanted to beat NM-Speed record as well.

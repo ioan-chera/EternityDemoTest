@@ -1,0 +1,21 @@
+Pwad:      scythe.wad (Scythe by Erik Alm)
+Map:       25 (Envy)
+Category:  UV Max
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.2 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      1:39
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+That thingrun has to be the easiest trick in Scythe, so why not using it
+in max as well? :) The route is totally revamped and this is my first exit
+actually, all the spiders in the exit room are much deadlier than expected.
+
+
+Recorded:  September 25th, 2011

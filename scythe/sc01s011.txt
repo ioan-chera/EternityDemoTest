@@ -1,0 +1,19 @@
+              Scythe
+        Map 01: Get Going
+       Map Author: Erik Alm
+------------------------------------
+           sc01s011.lmp
+
+NM100s in 0:11.77 (Also Pacifist)
+
+    Kills   - 18%
+    Items   - 0%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Even easier to get 11 NM100s than 9 NM-Speed. Strafe50 used this time on the run to the chainsaw secret (though even without it, I think 11 should be possible). First exit was .86, decided I'd get a slightly cleaner exit, and this was the first improvement I got. First staircase didn't go ideal and the ending had some ugly turns, so maybe 11.6x is possible at least. With more strafe50, it could be taken down even further, but I doubt that 10 could be done.

@@ -1,0 +1,18 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Wad Author: Erik Alm
+Map: 31
+Skill: UV
+Category: Tyson
+
+Time: 10:13
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 12/31/2011
+
+Comments: Dead easy: I don't think anyone tried this.  Plenty of health, plenty of space, archviles are harmless.

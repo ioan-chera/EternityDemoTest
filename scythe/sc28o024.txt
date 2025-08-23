@@ -1,0 +1,15 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28o024.lmp
+
+Nomo in 0:24
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Like 150 attempts, so not even hard, but still annoying at the very least to do this RJ without armor (plus the red screen). :^) This run is pretty ugly tbh, but also, 23 is pretty far, so idk if there's enough room for it anyway.

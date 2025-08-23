@@ -1,0 +1,28 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map11: Sneak Peak
+Category: NM Speed Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 12.0.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:02.49
+-------------------------------------------
+4shockblast:
+
+Yeah, since Woof makes this way easier, figured, why not just do NM as well.
+
+GarrettChan:
+
+Due to the QoL improvement on Woof over Crispy, we were able to finish this way faster.
+
+Nov 10 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

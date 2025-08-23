@@ -1,0 +1,31 @@
+Recorded using DSDA-Doom v0.10.0 with Doom II compatibility (-complevel 2)
+
+Iwad name: doom2
+Pwad name: scythe
+Map: 28
+Skill: 4
+Category: UV-Max
+Time: 2m51s
+
+Author: Starduster
+Date: 12/28/2020 (m/d/y)
+
+***Demonstrates a non-monster assisted linedef skip for the start.***
+
+Comments: Credits for the setup go to PartyCrasher. He made a video on YouTube showing the setup, which was very helpful in the 
+creation of this demo. Here is how the skip works:
+
+1. clear out anything that can attack or damage you
+2. get yourself wedged between part of the level geometry across from the linedef in mind. getting into the exact position is key
+3. line up an angle on the wall with ssg
+4. very very lightly tap w once. this is the part that makes the skip so easy to fail. i just eyeball it :P
+5. if you felt like you tapped w for a tic or two too long, start from step 2 again, if not then proceed to step 6
+6. now press all 4 keys needed for sr50 at once. you need perfect inputs
+7. if you screwed up the sr50 like i did, start from step 2 again, if not then proceed to step 7
+8. wait. don't let go of sr50.
+9. pray that you didn't f up steps 4 or 6. if you did, then barrels will begin to explode off the map shortly after flying across 
+the line. if not, then finish it!
+
+This map has two linedefs that starts crushers over voodoo dolls. One is at the start which we skipped, the other is at the blue
+gate (opens after hitting the blue switch). No need to skip the second line if you are swift enough. I am currently working on a
+d2all uv max of scythe, that's why I made this practice demo.

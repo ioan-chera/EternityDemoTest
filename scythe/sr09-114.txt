@@ -1,0 +1,25 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       09 - Computer Storage
+Skill:     4
+Category:  UV -respawn
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     101%
+Items:     100%
+Secrets:   100%
+
+Time:      1:14
+
+Comments:  Fun :)
+           There are 74 monsters in this map. My goal was to
+           kill them in 74 seconds. I reached the time, but 75
+           monsters died here :(
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+13.07.2005

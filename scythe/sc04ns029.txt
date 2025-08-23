@@ -1,0 +1,18 @@
+SC04NS029.TXT
+SC04NS029.LMP
+SC04NS029.ZIP
+
+Player : megasphere308
+Date : 2021-04-15
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP04 Lost warehouse
+Source port : Crispy Doom v.5.8.0
+Time : 0.29.71
+
+Description :
+
+Pretty easy level, it took me 10 minutes to get sub 30. I just waited for low damage rolls and good enemy placement.
+The narrow corridor with the couple of spectres is completely random, considering I can't see them in Crispy Doom :)
+
+megasphere308@gmail.com

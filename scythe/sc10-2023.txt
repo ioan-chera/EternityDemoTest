@@ -1,0 +1,10 @@
+File:           scythe.wad
+Map:            10
+Category:       UV-Speed
+Time:           0:20.23
+Port:           dsda-doom 0.25.2 (cl2)
+
+Player:         MFG38
+Comments:       How some of the barons didn't get alerted will elude me
+                for years to come. At least it made for a good almost-
+                sub-20s.

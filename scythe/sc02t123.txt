@@ -1,0 +1,11 @@
+Name: David "Springy" Spring
+IWAD: Doom 2
+PWAD(s): Scythe
+Authour of PWAD: Erik Alm & Kim Bach
+Recorded with: PrBoom Plus 2.5.1.3 used latest ZDL to help me
+Category: Tyson
+Map: 02
+Complevel: 2
+Time: 1:23
+
+Notes: A bad tyson attempt took my time instead of blasting my way through.

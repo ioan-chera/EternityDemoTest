@@ -1,0 +1,13 @@
+For https://dsdarchive.com/
+
+Player: depr4vity
+IWAD: doom2.wad
+PWAD: scythe.wad
+Map(s): 12
+Skill: 4
+Category: Nomonsters
+Sourceport: crispy doom v5.6.3
+
+Time: 10.97
+Comments: was watching 4shock get his 10.97 on stream, got an 11.03 that day and didnt want to give up, momentum preservation is possible on the red bars but i never got it more than once in a run, ill leave that run in the zip file as well
+

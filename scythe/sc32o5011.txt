@@ -1,0 +1,16 @@
+              Scythe
+        Map 32: Enoz Soahc
+       Map Author: Erik Alm
+------------------------------------
+           sc32o5011.lmp
+           sc32o5094.lmp
+
+Nomo in 0:50.11
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Wasn't able to get 49, and this demo is pretty boring because of the long wait. Includes old demo.

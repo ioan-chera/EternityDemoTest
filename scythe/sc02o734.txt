@@ -1,0 +1,10 @@
+Port: Crispy Doom v5.9.1
+WAD: Scythe.WAD
+Category: NoMonsters
+Skill: 4
+Map: Map02
+Date: 04/10/2020
+
+Time: O:07.34
+
+Comments: Well all I can do is quote Looper in one of his comments: "That was a 10 minutes well spent"

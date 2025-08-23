@@ -1,0 +1,18 @@
+SC09NS028.TXT
+SC09NS028.LMP
+SC09NS028.ZIP
+
+Player : megasphere308
+Date : 2021-04-22
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP09 Computer storage
+Source port : dsda-doom v0.18.0
+Time : 0.28.26
+
+Description :
+
+First time using dsda-doom... I got a first 28, but I had written complevel 4 instead of 2...
+Fortunately this one is much better, I could just run past the enemies at the end :)
+
+megasphere308@gmail.com

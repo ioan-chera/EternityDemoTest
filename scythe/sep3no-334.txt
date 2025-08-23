@@ -1,0 +1,46 @@
+WAD: Scythe
+MAPS: MAP21-MAP30
+Time: 3:34 TAS
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Slowmo was used in the making of this run :)
+
+Wow, Method has a good non-TAS time there. Good job Method! :) However, be-
+cause of the extreme fun when recording with TAS, I decided to try episode
+3 out.
+
+Here is information about each map and my comments.
+
+MAP21 (Solitude): 0:07 :)
+Comments: I was mad when I started with an 0:08.03 so I had to redo it. :P
+
+MAP22 (Despair): 0:18 :|
+Comments: Somehow didn't trigger the exit the first time. Otherwise I would
+have had 17. >_<
+
+MAP23 (Anger): 0:17 :)
+Comments: Run, Doomguy, Run! :D
+
+MAP24 (Hatred): 0:25 :|
+Comments: Man, how I hate this map! I can't perform the RJ either. :/
+
+MAP25 (Envy): 0:09 :|
+Comments: 0:09.00! CRAAPPPPPPP!
+
+MAP26 (Fury): 0:18 :)
+Comments: The lowering floors are a bit annoying but I love the map. :)
+
+MAP27 (Terror): 0:36 :)
+Comments: I can't perform that trick jump (dang it's tricky!) so I used the
+normal route and I think it looks good. ;)
+
+MAP28 (Run from it!): 0:21 :|
+Comments: Argh, 20 is possible! >:( 
+
+MAP29 (Hell on Earth): 0:34 :(
+Comments: Easy key grab in TAS, got that, but screwed up the run after the
+YK room.
+
+MAP30 (Fire and Ice): 0:29 :)
+Comments: Nice to see a good time on the final map. 0:29.74. :)

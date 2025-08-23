@@ -1,0 +1,36 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+
+PWAD Name: Scythe
+
+MAP07: Deadly
+
+Category: UV Max Co-op
+
+Player 1: 4shockblast (Green)
+Exe: Crispy Doom v5.10.3 with advanced HUD
+
+Player 2: GarrettChan (Indigo)
+Exe: Crispy Doom v5.10.1 with advanced HUD
+-------------------------------------------
+Time: 0:18.97
+-------------------------------------------
+4shockblast:
+
+This was quite fun overall. There's no extra ammo or weapons for co-op, so the double manc telefrag is quite critical I think for a good time, otherwise cleaning up the mancs takes too long. Luckily, it was fairly consistent, although the time variability at the start is still pretty high. After that, it's just hoping for good RNG with the arachs on both sides. At the end, I just go for the jump without really paying attention to Garrett's numbers as I can't really focus on that, so it's just hoping we get all the kills.
+
+GarrettChan:
+
+Actually a pretty fun little co-op max to do. I'll be short on rockets at the start, so my job is to make sure give the particular Mancubus full 3 SSG blasts. Then trying to kill 2 Arachnotrons first and get the rocket box behind them. As I'll have more rockets this time, so I need to help out 4shock's side by shooting a couple of rockets.
+
+Youtube Video: https://www.youtube.com/watch?v=cXVRA0qJ4Wk
+
+Oct 24 2021
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

@@ -1,0 +1,10 @@
+Player: co5_7m
+IWAD: doom2.wad
+PWAD: scythe.wad
+Skill: 4
+Map: 03
+Category: No Monsters
+Sourceport: PRBoom+ v2.5.1.4cl3
+
+Time: 0:07.37
+Comments: played with keyboard only so the strafing could be better. obviously could be faster too.

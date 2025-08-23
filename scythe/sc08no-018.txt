@@ -1,0 +1,13 @@
+WAD: Scythe
+MAP: MAP08: Garden Base
+Time: 0:18.91
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Very easy map. Easy ledge running, easy key grab. The hardest part is trying
+not to bump into things, which doesn't pose much of a challenge anyway.
+
+This should be very much improvable because I got 18 in a very short amount of
+time.
+
+--Doomdaniel95

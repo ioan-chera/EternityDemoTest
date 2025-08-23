@@ -1,0 +1,25 @@
+Runner: Daniel, the NCR Veteran
+IWAD: Doom2.wad
+PWAD: Scythe.wad
+Category: Tyson Reality
+Map: 02
+Source Port: DSDA-Doom 0.22.1
+
+Kills    :   100%
+Items    :   50%
+Secrets  :   0%
+Time     :   1:27
+
+Description:
+This map to grind isn't so bad as it is short, but the reasons why runs
+die is why it's a bit infuriating. The zombiemen under the windows of the
+yellow key room are basically just hoping to RNGesus that they miss you or
+don't shoot at all. Otherwise, it isn't so bad, although this being my first
+Tyson grind, I've realized how poor the hit detection is sometimes, or my
+pistol being so inaccurate that it hurts me physically.
+What I assume to be blockmap garbage, the zombiemen can be 2-shot in certain,
+inconvienent spots but when you get up close they can stand up to 3, and that
+really really sucks. The zombiemen on the vantage point inside the room are
+also brutal if you tackle the room through the right door.
+I've decided to do this reality too since I've seen the possibility, it's
+not the fastest but I'm happy with having this so far.

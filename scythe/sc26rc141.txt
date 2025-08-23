@@ -1,0 +1,42 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+
+PWAD Name: Scythe
+
+MAP26: Fear
+
+Category: UV -Respawn Co-op
+
+Player 1: 4shockblast (Green)
+
+Player 2: GarrettChan (Indigo)
+
+Exe: Crispy Doom v5.10.3 with advanced HUD
+-------------------------------------------
+Time: 1:41.89
+-------------------------------------------
+4shockblast:
+
+This was quite frustrating but also pretty fun. :^) At the end, I didn't play super well and got trolled on picking up more ammo/health, so I was just trying to survive. Thankfully, we got all the kills we needed anyway. I guess now we have -fast, max, nomo, NM, and Stroller left to do on this map. :^)
+
+GarrettChan:
+
+Now we decided to wrap up each day with Scythe Map26 :^)
+
+We decided to switch roles after the first "few" tries because 4shock was getting stuck way more often due to the start position placements.
+
+I actually planned the MegaSpheres differently but sometimes you have to improvise I guess... I only need to go to the middle teleporter to trigger more monsters, but I went into another teleporter because I was cornered. Staying on the upper floor is actually super dangerous because there's only one stash of ammo and 1 MegaSphere left.
+
+Crispy Doom's percentage display is different from DSDA-Doom, and it somehow shows less than 50% combined there. However the SP Respawn only took 2:17, so 1:41 should be enough... I guess it could be a bit shorter because we waited at the end but we have no way to tell. We just decided 1:40 should be long enough and took a blind shot at it.
+
+Youtube Video: https://www.youtube.com/watch?v=K2AoKSsKqbo
+
+Oct 30 2021
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

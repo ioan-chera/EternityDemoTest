@@ -1,0 +1,19 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31-259.lmp
+
+UV-Max in 2:59
+
+    Kills   - 11%
+    Items   - 6%
+    Secrets - 20%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Only took 43 attempts, largely just wanted to incorporate the BFG linedef skip into the run, and all I wanted is sub-3. Some mistakes with weapon switches at the start, could have used more rockets at the end since I had a good BFG shot at the hell nobles at the yellow key, and a bunch of missed shots, so there's a bunch of room for improvement. Of course, if you really wanted to optimize, you could do the BFG grab setupless with just a thing boost, but that would be absurdly annoying. :P

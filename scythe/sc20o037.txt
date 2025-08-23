@@ -1,0 +1,13 @@
+WAD: Scythe
+MAP: MAP20: The Gates
+Time: 0:37.77
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 10, 2013
+
+Easy stuff, got this in 5 minutes. The RK area isn't so good and I failed
+a rocket boost near the end. However this does have good running by the BK.
+
+35 is definitely possible.
+
+--Doomdaniel95

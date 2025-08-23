@@ -1,0 +1,30 @@
+WAD: Scythe
+MAPS: MAP11-MAP20
+Time: 5:02
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Map and Time:
+MAP11 (Sneak Peak): 0:16
+MAP12 (Walk in the Park): 0:16
+MAP13 (Subverted Base): 0:31
+MAP14 (Power Outage): 0:28
+MAP15 (Blood Bath): 0:13
+MAP16 (Burial Grounds): 0:28
+MAP17 (Book Lords): 0:32
+MAP18 (MS Futura): 0:17
+MAP19 (3000 AD): 1:23 (not sure about that one)
+MAP20 (The Starport): 0:40
+
+Dang it! It must be very hard to get under 5 minutes! Well, I know I can save
+a second on MAP13, MAP17, and MAP18. That would get me 4:59, and on MAP11, I
+have played it enough I'm almost to the point of getting 15's on that map! :0
+But no, I always bump into something (as most players do at least once in a 
+run). I wanted to try to improve my Episode 1 nomo run, but it was too hard
+with all the tricky jumps and such, so I got annoyed at it and decided to try
+episode 2 again for some more fun. :) I'm very fortunate and glad I got 5 sec-
+onds faster than my previous run, and for all you speedrunners, you know 5
+seconds is quite a long time! :D I guess I'll just keep trying, and possibly
+get under 5 minutes sometime.
+
+--Doomdaniel95

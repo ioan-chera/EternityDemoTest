@@ -1,0 +1,41 @@
+This is a Doom LMP Entry
+
+SP20-048.ZIP
+
+	SP20-048.TXT
+	SP20-048.LMP -- UV Pacifist
+
+Recorded using GLBoom-Plus v2.5.1.3 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+640x480, gamma level 4, capped framerate
+HUD used (timer)
+
+Scythe -- Level 20 -- The Starport
+
+=---+------+---=
+Kills        29%
+Items       100%
+Secrets     100%
+                
+TIME        0:48	Old record: 1:28 by Casey "Altima_Mantoid" Alvis
+=---+------+---=
+			
+Demo entry #127.
+
+Description:
+
+For years, I never got bored of speedrunning this memorable level. This time I
+tried it Pacifist style, setting my target time below the current regular Speed
+record (0:49 by Psichotic). Demo took me only a few hours in the night plus a
+few minutes in the day. Unlike my other runs, the main difficulty here is not
+to keep the health above zero, but to avoid getting stuck. The Doom marine is
+fatter than he looks (at least a gazillion times fatter than I am in real life) 
+and loves to get trapped in huge, huge gaps between soldiers, imps and
+demons. It can be seen in the clumsy start of my run, but all other parts went
+smoothly. In particular, the final army didn't disturb me at all :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 21, 2012, 16:46:20

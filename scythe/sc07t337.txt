@@ -1,0 +1,19 @@
+              Scythe
+          Map 07: Deadly
+       Map Author: Erik Alm
+------------------------------------
+           sc07t337.lmp
+
+UV Tyson in 3:37
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Was never happy with my 4:19 there, so after some discussion of it in Twitch chat, I decided I'd beat it. Didn't take as long as last time, anyway, and other than the final arachnotron being really annoying, this went quite well, so I'm happy with it now. :)

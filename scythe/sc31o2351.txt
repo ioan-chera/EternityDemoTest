@@ -1,0 +1,20 @@
+WAD: Scythe
+Map: 31
+Skill: 4
+Category: NoMonsters
+Exe: Dsda-Doom 0.28.1
+Time: 0:23.51
+
+Author: 	Kinetic
+Demo Date:	October 29th, 2024
+Attempts:       1870
+Practice:	(Prior attempts)
+Grind:		3 hr 10 min
+Goal:           0:23.54
+Satisfaction:   :D :D
+
+- complevel 2
+
+Comments: 
+
+It took a little bit to get back into the swing of the run, but with my improved movement after running lv31, I was able to get to a point in this run where 23.7s and 23.6s became common. In nomonsters, it seems to help to focus on where you lose time and focus on hitting particular angles and rhythm.

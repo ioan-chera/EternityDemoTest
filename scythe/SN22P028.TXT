@@ -1,0 +1,32 @@
+This is a Doom LMP Entry
+
+SN22P028.ZIP
+
+	SN22P028.TXT
+	SN22P028.LMP - Nightmare Speed + Pacifist
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 22 - Despair
+
+=---+------+---=
+Kills        22%
+Items        33%
+Secrets       0%
+ 
+TIME        0:28	Old record: 0:29 by me
+=---+------+---=
+
+Demo entry #69.
+
+Description:
+
+Not a hardworked demo, I recorded it just to keep myself in tone. But it's not
+bad that I'm still able to improve my result on a run where I got quite a few
+different records: 43 in 2005, 34 in 2006 and 29 in 2009.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done November 22, 2010, 22:51:17

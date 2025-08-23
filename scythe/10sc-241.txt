@@ -1,0 +1,49 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 1 UV-Speed
+------------------------------------------
+    Level          Time      <  10sc-241
+------------------------------------------
+    Map 01	   0:10 :)      -0:01
+    Map 02	   0:11 :))     -0:01
+    Map 03	   0:25 :|      +0:01
+    Map 04	   0:20 :)      -0:01
+    Map 05	   0:16 :)      -0:02
+    Map 06	   0:25 :)      -0:00
+    Map 07	   0:03 :)      -0:00
+    Map 08	   0:12 :)      -0:10
+    Map 09	   0:26 :(      -0:02
+    Map 10	   0:13 :|      -0:02
+
+TOTAL:             2:41 :)      -0:18
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Since the strafejump on map 8 was incorporated into the D2ALL run, I needed to do an episode run. Over the time I spent running this episode again, I got my average times way down, so I ended up grinding for improvements on nearly every map. :) Wasn't easy to get this run, but I'm pretty happy with it, as my goal was tentatively just under the co-op run (2:48).
+
+Map 01 (0:10): By the end of recording attempts here, I was only accepting 10s.
+
+Map 02 (0:11): Best time here is 10, now, and 11 was not totally inconsistent. Still uncommon, so I'm happy I got it in this run.
+
+Map 03 (0:25): Still a major RNG-fest, 25 is acceptable, but not great, 21 was my best time.
+
+Map 04 (0:20): Pretty good time, although my best was 18, and 19 would have been nice.
+
+Map 05 (0:16): Also a pretty nice time, best was 14, but even 15 is pretty rare to get
+
+Map 06 (0:25): 24 is my best time on this map, this one is almost a 24, but the ending was a bit unlucky.
+
+Map 07 (0:03): Easy map, rarely failed.
+
+Map 08 (0:12): Trick isn't easy to do without killing anything, easy to get pushed out of the setup, also, the corner sometimes pushes me out, which results in the wrong setup looking right. 12 is a pretty good time, although I had a slightly slow setup and some trouble at the door, so it could have been 11.
+
+Map 09 (0:26): Not a great time, I was pretty shaky here. 25 is decent, and 24 or better would be great.
+
+Map 10 (0:13): A little slow with the barons in my way, but still a 13, which is good.
+
+Recorded May 03, 2015.

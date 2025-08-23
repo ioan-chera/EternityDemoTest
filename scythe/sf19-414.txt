@@ -1,0 +1,29 @@
+Game: Doom 2
+Pwad: Scythe
+Filename: sf19-414.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: 19 (AD)
+Exe/Port used: GLBoom 2.2.6.26 (PRBoom Plus) -complevel 2
+
+Totals:
+Kills      100%
+Items     100%
+Secrets    100% and (Time- 4:14)
+
+Comments: 
+Been awhile since I've done a demo for this extremely good megawad.  Didn't see a UV -fast posted for this level, so I chose that to record said run for.
+
+It can be tough at a couple points, namely the 2nd half of the run which starts after opening the BK door.  Killing the 2 revs on the elevator can be bad enough, especially if the elevator just came down.  Those imps can wreck your health too if all of them are still alive.  Thankfully here, I got the revs outta the way in quick fashion, plus I had some time to wipe out a few imps with the SG before the ride went back up.  Result was that I took little damage here, which works for me.
+
+After that little spot, the central part of the map needs a little gutsy play.  Grabbing the RL and rockets, then running like mad back out the way you came and towards the direction can be a little painfu, especially if you eat a couple rev rockets.  Archie in the alcove should be taken out with the RL en route to the YK.  Blow the baron guarding said key, then get it and head to the opposite side of the central area, where the YK is.  Blow the 2 CG'ers in the alcoves away, open the YK door, blow Caco away, collect ammo, hit switch, then a whole bunch of imps start flooding out.  Easy to deal with using the RL.
+
+Then the RK in the center part of the level needs to be collected.  Problem?  All those enemies, including one archie, are going to be firing on your rear the moment you enter that center part.  I grab the RK and bolt right outta there before things get too dire.  I go to the RK door, blow the Caco away, hit the switch inside, then it's mop up time, cleaning up the central area and any other stragglers before getting the PG and ammo to blow the MM away.  Exit thru the door up here and hit the switch to end the level.
+
+All in all, a pretty good run.  I don't think there were too many glaring mistakes, if any.  Just a nice low health situation after going through the BK door and taking the elevator up.
+
+MM came a bit close too :P.
+
+Time-wise, this happens to be 4 seconds faster than Drew's great UV-Max run over this level.  Perhaps a low 4:1x or 4:0x is possible here.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

@@ -1,0 +1,9 @@
+Author:	   Dogmachine
+Pwad: Scythe.wad
+Map:      01
+Category:  UV-tyson
+Sourceport: 	Crispy Doom v5.6.3
+Time:      1:19
+Recorded date: 02/05/2022
+
+

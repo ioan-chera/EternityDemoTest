@@ -1,0 +1,15 @@
+              Scythe
+        Map 32: Enoz Soahc
+       Map Author: Erik Alm
+------------------------------------
+           sc32o050.lmp
+
+Nomo in 0:50.94
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Uses the double bar open trick to get down to 50. At first I didn't want to run this, as I managd to get a low 51 without it and it looked very good, but recently I thought to use that trick to get it down to 50. A rather silly way to beat GrumpyCat's nomo, but I still needed to get a pretty decent-looking demo for 50. Pretty certain 49 isn't doable without TAS.

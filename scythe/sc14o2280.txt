@@ -1,0 +1,20 @@
+WAD: Scythe
+Map: 14
+Skill: 4
+Category: NoMonsters
+Exe: Dsda-Doom 0.27.5
+Time: 0:22.80
+
+Author: 	Kinetic
+Demo Date:	July 20th, 2024
+Attempts:       1437
+Practice:	0 min
+Grind:		2 hr 5 min
+Goal:           "good" 0:22
+Satisfaction:   :D
+
+- complevel 2
+
+Comments: 
+
+Confused has a 22.11, this shows how noob I am at nomo.

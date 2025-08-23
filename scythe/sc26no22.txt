@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+sc26no22.TXT
+
+ sc26no22.ZIP
+
+  sc26no22.LMP - No Monsters!
+
+  Recorded using "Prboom-plus 2.5.1.1 with compatibility"
+  doom2 -playdemo 
+
+  Scythe: By Erik Alm - Level 26, "Fear"
+
+  Kills     0%
+  Items     0%            +++++++++
+  Secrets   0%  and Time  + 00:22 +
+                          +++++++++
+
+  #####################################################################################
+  # Description:  #  Hi :) Nothing special, just running :)
+  #################                                                             
+  #####################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

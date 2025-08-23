@@ -1,0 +1,19 @@
+              Scythe
+        Map 02: Punchline
+       Map Author: Erik Alm
+------------------------------------
+           sc02-048.lmp
+
+UV-Max in 0:48
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Oldest max record of Scythe beaten (nearly 9 and a half years old!). Gusta's punch luck in his run was solid (really worth watching just for that), and I couldn't find much to improve in the route, so this wasn't too easy, but not too difficult anyway as Gusta's movement in the 0:51 wasn't too sharp. 48 eventually became my goal, and I was able to get it without getting any 49s, which is nice (though I had a 50.03, 51.00 and a couple other 51s). Still not quite happy with everything; punch/barre; luck was decent at the yellow key area, but I got stuck for a bit there and I'm not sure if it's a good idea to punch the zombieman stuck in the door as opposed to getting him later like Gusta, though that doesn't save/lose much time either way. Double barrel punch before the yellow door could do more damage (at least kill two zombiemen), and the two barrels after the yellow door could kill the demon, though he went down quick afterwards. Probably a 46 and maybe a 45 is possible with enough luck.

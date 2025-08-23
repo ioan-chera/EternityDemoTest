@@ -1,0 +1,20 @@
+Iwad: DOOM2.wad
+Pwad: SCYTHE.wad
+Port: DSDA-Doom v0.18.0
+Complevel: 2
+Map: 26
+Skill: 4
+Category: UVmax
+
+Time: 2:46.46
+
+Author: BaileyTW
+
+Comment: Decided to return again to this map again in preperation of grinding out D2ALL runs. Not a large departure 
+From my last run's route just some small changes in the route including a more ballsy start. About 400 attempts in I
+got a 2.46.89 run that absolutely sucked. It was very sloppy, I missed a cyberdemon point blank 6 times in a row with
+the bfg and I thought that this was too embarassing to be the run I would post with 3 seconds of improvement. So an 
+additional 600 attempts later and I got this run and goddamn it I could have done better if not for that accidental line
+skip at the end. Oh well, it is definitely improvement and messing it up so much and getting only slightly worse than
+this time shows I got more time to save, but for now this is satisfying. Besides, this laptop is failing, and losing
+runs cause the spacebar doesn't register and thus I dont flip a switch or open a door really sucks.

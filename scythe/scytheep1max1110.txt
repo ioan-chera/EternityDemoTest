@@ -1,0 +1,32 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	1-10
+Skill:	4
+Category:	UV Max Episode 1
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	11:10
+-------------------------------------------
+Comments:  
+I used to think this episode's run was really good, but after trying it for like 20 minutes, managed to beat it pretty easily. Getting under 10 minutes seems doable if you really went hard on it, and this run isn't great. I really fucked up big time on MAP10, and there's some other garbage littered throughout that kinda sucks.
+
+MAP01 - 0:38 / 0:38
+MAP02 - 1:06 / 1:44
+MAP03 - 1:05 / 2:49
+MAP04 - 0:48 / 3:37
+MAP05 - 1:07 / 4:44
+MAP06 - 1:14 / 5:58
+MAP07 - 0:56 / 6:54
+MAP08 - 1:30 / 8:24
+MAP09 - 1:41 / 10:05
+MAP10 - 1:05 / 11:10
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

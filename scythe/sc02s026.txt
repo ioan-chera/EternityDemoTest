@@ -1,0 +1,19 @@
+              Scythe
+        Map 02: Punchline
+       Map Author: Erik Alm
+------------------------------------
+           sc02s026.lmp
+
+NM100 in 0:26.
+
+    Kills   - 39%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Pretty bad and trivially improvable with the fast jump if you get it.

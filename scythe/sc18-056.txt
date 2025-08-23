@@ -1,0 +1,19 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Wad Author: Erik Alm
+Map: 18
+Skill: UV
+Category: UV-Max
+
+Time: 0:56
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 12/27/2011
+
+Comments: I use the glide to initiate infights sooner and to get plasma to clear out the building.  Beyond that its just waiting for lucky infights, my play isn't even that good in this demo, but I am glad to have max time under one minute.
+

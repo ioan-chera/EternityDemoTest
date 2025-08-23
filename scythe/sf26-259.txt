@@ -1,0 +1,35 @@
+This is a Doom .LMP - Please forward it...
+
+sf26-259.txt
+
+sf26-259.zip
+
+sf26-259.lmp - Ultra-Violence Max with fast monsters
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 26 - Fear
+
+
+================
+Kills      104%
+Items       86%
+Secrets      0%
+----------------
+Time       2:59
+================
+
+
+Description:
+
+My target was under 3 min and I got 2:5x sometimes without
+killing all enemies. I was annoying that all revenants didn't
+teleport. It depend on luck.
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

@@ -1,0 +1,11 @@
+player: aconfusedhuman
+date: 08-09-2021
+iwad: DOOM2.wad 
+pwad: SCYTHE.wad
+map: 17
+skill: 4
+category: pacifist
+sourceport: dsda-doom 0.19.7
+time: 23.46
+comments: took a couple days to get this, not too hard but really annoying. would have been happy with .97 but .46 is pretty nice
+22 is doable, but extremely obnoxious, definitely a 4shock run :^)

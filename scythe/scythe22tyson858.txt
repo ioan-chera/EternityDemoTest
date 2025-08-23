@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	22
+Skill:	4
+Category:	Tyson
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	8:58
+-------------------------------------------
+Comments:  
+About 4 hours of attempts to get this. Got really lucky with the cyberdemon getting hit a lot, my main plan with him was to telefrag, but this seemed to work better, heh. Very difficult demo, and the time is not bad.
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

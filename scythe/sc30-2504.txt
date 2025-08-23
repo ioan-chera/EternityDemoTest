@@ -1,0 +1,11 @@
+Runner: D0M0
+Date: 2024-01-17
+IWAD: Doom2.wad
+PWAD: SCYTHE.wad
+Category: UV-Max
+Map: 30 (Fire and Ice)
+Source Port: DSDA-Doom v0.24.3 (MacOS Build)
+Time: 25:04.00
+Complevel 2 (Limit Removing)
+
+Youtube Link: https://youtu.be/RSt4q-EkLCY?si=GlwUQ4qCU2GVhVyo

@@ -1,0 +1,19 @@
+SC22NS044.TXT
+SC22NS044.LMP
+SC22NS044.ZIP
+
+Player : megasphere308
+Date : 2021-05-12
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP22 Despair
+Source port : dsda-doom v0.18.0
+Time : 0.44.91
+
+Description :
+
+What a map... After some practice, I decided to go for "safe" strategies... but even this way, this map is hell!
+I tried to have the cyber infight, using the teleporter in the pit to play safer.
+But he didn't infight long enough... the ending was very lucky!
+
+megasphere308@gmail.com

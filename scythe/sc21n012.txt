@@ -1,0 +1,17 @@
+SC21N012.TXT
+SC21N012.LMP
+SC21N012.ZIP
+
+Player : megasphere308
+Date : 2021-05-26
+IWAD : scythe.wad
+Category : NM Speed
+Map : MAP21 Solitude
+Source port : dsda-doom v0.18.0
+Time : 0.12.26
+
+Description :
+
+Rather easy, I got an exit in 15 attempts, and then tried to improve the time.
+
+megasphere308@gmail.com

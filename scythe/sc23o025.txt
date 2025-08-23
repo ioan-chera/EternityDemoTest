@@ -1,0 +1,12 @@
+WAD: Scythe
+MAP: MAP23: Anger
+Time: 0:25.97
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 10, 2013
+
+Heh, I got this on my second attempt today. :P I was able to run it a few
+tics faster afterward, but not able to get 24. Of course, I didn't try
+all THAT hard to get 24...
+
+--Doomdaniel95

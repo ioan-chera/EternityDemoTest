@@ -1,0 +1,18 @@
+Recorded using PrBoom 2.5.0.7 on -complevel 2
+
+sc13-111.txt
+
+sc13-111.lmp
+
+sc13-111.zip
+
+Scythe - MAP13
+Category: UV-Max
+Required files:
+SCYTHE.WAD
+
+Run by Snakes
+
+Description:
+Mostly an optimized version of Jakub's route. Catch a lucky break near the yellow key when all of the monsters
+decide to teleport in for a change. No major problems in this one.

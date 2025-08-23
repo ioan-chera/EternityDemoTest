@@ -1,0 +1,17 @@
+              Scythe
+      Map 04: Lost Warehouse
+       Map Author: Erik Alm
+------------------------------------
+           sc04o1294.lmp
+
+Nomo in 0:12.94
+
+Recorded with: DSDA-Doom v0.19.7 -complevel 9
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: This has been a goal of mine for a long time, now I am finally capable of it. Still took over 3K attempts, but there you have it. Mostly faster movement yields the better time since I last tried it, but some minor adjustments I did late into the grind (some tighter turns at the start and strafe50 during red key pickup and on the staircase afterwards, which was awkward to implement). Nice that it isn't 12.97. :P
+
+Note: accidentally recorded with cl9, but plays back with cl2.

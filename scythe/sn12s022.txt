@@ -1,0 +1,23 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       12 - Walk in the Park
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      39%
+Items:     100%
+Secrets:   100%
+
+Time:      0:22
+
+Comments:  Oops! I was aiming for 0:23 after doing NM Speed
+           in 0:20 a few minutes ago. My fifth try :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+27.06.2005

@@ -1,0 +1,14 @@
+************************************************************************
+Filename                : sc16-028.LMP
+LMP Version             : PrBoom+ 2.5.0.1 -complevel 2
+Pwad name:              : Scythe
+Pwad(s)                 : scythe.wad
+Map Level(s)            : MAP16
+Skill                   : 4
+Category                : UV Speed
+Length                  : 0:28
+Author                  : Kimo Xvirus
+Comments                : I found the archvile jump to yellow key to be
+                          too hard and for some reason the archvile
+                          always throws me away of the key.
+************************************************************************

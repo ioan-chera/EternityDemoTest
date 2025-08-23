@@ -1,0 +1,14 @@
+PWAD: SCYTHE.wad
+PWAD Name: Scythe
+PWAD Author: Erik Alm and Kim Bach
+Map: 17
+Skill: 4
+Category: UV-Respawn
+Exe: dsda-doom-0.23.0 -complevel 2
+Time: 1:28
+Date: July 23rd 2022
+Author: Dubzzz ( aka Bdubzzz ) 
+
+Demo for beat .00/:00 month. 1st exits only that beat the times and aren't 00 :^)
+
+was just going for sub 1:30.

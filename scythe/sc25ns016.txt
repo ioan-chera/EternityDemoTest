@@ -1,0 +1,19 @@
+SC25NS016.TXT
+SC25NS016.LMP
+SC25NS016.ZIP
+
+Player : megasphere308
+Date : 2021-05-11
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP25 Envy
+Source port : dsda-doom v0.18.0
+Time : 0.16.49
+
+Description :
+
+One tic faster than GrumpyCat's run... very slight improvement.
+Short map, needs good RNG with the cyber.
+The jump is pretty easy.
+
+megasphere308@gmail.com

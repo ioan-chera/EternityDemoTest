@@ -1,0 +1,29 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       12 - Walk in the Park
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      2:29
+
+Comments:  The mancubus is the bad boy here. Killing him
+           with the pistol (after all the other monsters
+           are dead) is rather boring - and much slower:
+           3:35 is my best on the lame route :)
+
+           Did some mistakes and slowed down at the end
+           (also lame :), so a time around 2 minutes would
+           be nice.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+19.12.2004

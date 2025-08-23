@@ -1,0 +1,14 @@
+WAD: Scythe
+MAP: MAP29: Hell on Earth
+Time: 1:43
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+I was looking at my Scythe nomo runs and decided that this one could have
+a little time trimmed off, so I made a few runs until I came up with this
+one (I bumped into too many things in the others), which has four seconds
+taken away. I needed to backtrack because I thought one switch opened some
+bars, but another did. Overall, I think it's OK. I could try this for under
+1:40, but for now I'm done.
+
+--Doomdaniel95

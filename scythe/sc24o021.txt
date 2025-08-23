@@ -1,0 +1,15 @@
+              Scythe
+          Map 24: Hatred
+       Map Author: Erik Alm
+------------------------------------
+           sc24o021.lmp
+
+Nomo in 0:21.97
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Wasn't even very interested in getting an exit at all at first because of that step jump. Soon, I found that the positioning in this demo is pretty likely to generate a successful jump, so, eventually, I got 22.97 first exit. Eventually I managed to get this run, another .97 :). Not great strafe50 at start, but whatever, improving this would be hell.

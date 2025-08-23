@@ -1,0 +1,25 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       09 - Computer Storage
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      37%
+Items:     100%
+Secrets:    66%
+
+Time:      0:28
+
+Comments:  After my NM100S run in 0:29 in had to do this. It's only
+           an improvement over a second, but it wasn't easy at all.
+           I had some luck with the revenant and barrels behind the
+           red door.
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+24.06.2005

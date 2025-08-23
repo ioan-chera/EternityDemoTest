@@ -1,0 +1,38 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       26 - Fear
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     101%
+Items:      86%
+Secrets:   100%
+
+Time:      4:52
+
+Comments:  That was fun after some months without playing Doom. And easier
+           as expected. I started with a 5:43 after 30 minutes and got a 4:30
+           an hour later. Sadly this demo desyncs near the end, and all other
+           successful attempts later on. It seems that the desyncing problems
+           have to do with the crusher/teleporter. In all my faster
+           exits I pressed the crusher switch while the second invulnerability 
+           ran out. I tried glboom and other options (thx to Grazza for his
+           suggestions ;) But had no luck. Finally I decided to return to my
+           first setup.
+
+           Even it is the slower route to press the switch as late as I did it
+           here and to wait for the (few) remaining revenants (a bit luck is
+           needed that all of them are crushed or teleported before exiting),
+           this is much better than any desyncing demo. I hope I can improve
+           this before Erik will finish Scythe II :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+13.09.2004
+
+

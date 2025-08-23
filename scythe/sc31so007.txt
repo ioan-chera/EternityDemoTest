@@ -1,0 +1,13 @@
+date: 01-09-2021 (1st Sept 2021)
+player: aconfusedhuman
+iwad: DOOM2.wad
+pwad: SCYTHE.wad
+map: 31s (secret exit)
+skill: 4
+category: NoMo
+sourceport: dsda-doom 0.19.7
+time: 7.97s
+comments: over 3 and a half thousand attempts, this run is absolutely messed up. if i ran this any longer, my keyboard probably would no longer be with us. this run was a mistake
+the lowest i think it could go is 7.8, but still doubt if anyone will get that on their first 7 or bother grinding for it...
+thanks to 4shock for making me run this utterly rubbish map :stirred:
+ 

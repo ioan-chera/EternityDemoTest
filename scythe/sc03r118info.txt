@@ -1,0 +1,22 @@
+IWAD: DOOM2.wad 
+PWAD: scythe.wad
+Map: 03
+Map title: Up and Around
+Skill level: Ultra-Violence
+Category: UV -respawn
+Time: 1:18 
+Date Recorded: Wednesday, 19th July 2017
+
+Runner: Jakub Puk
+Location: Ipswich, United Kingdom
+Email: kuba27131@gmail.com
+
+Respawn Information
+Kills - 100%
+Secrets - 100%
+
+Recorded using DOOM2 v1.9 on DOSBox v0.74. 
+
+Information: 
+Pretty tricky map, especially the blue key part as you have a lot of enemies that will respawn. 
+

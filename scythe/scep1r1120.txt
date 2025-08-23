@@ -1,0 +1,30 @@
+Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:		SCYTHE.WAD
+Pwad name: 	Scythe
+Maps:		EPISODE 1 (01-10)
+Skill:		4
+Category:	UV -Respawn
+Exe:      	PRboom+ 2.5.1.4 cl2
+		with advanced HUD
+------------------------------------------- 
+Time:     	11:20
+-------------------------------------------
+Comments: Figured I should try this one again for real.
+MAP01 - 0:36.83 ( 0:36)  K: 21/22  I: 0/7  S: 1/1 
+MAP02 - 1:17.00 ( 1:53)  K: 31/33  I: 2/2  S: 2/2 
+MAP03 - 1:14.40 ( 3:07)  K: 36/39  I: 1/1  S: 1/1 
+MAP04 - 1:01.00 ( 4:08)  K: 28/28  I: 0/0  S: 2/2 
+MAP05 - 1:05.80 ( 5:13)  K: 33/36  I: 0/1  S: 2/2 
+MAP06 - 1:20.94 ( 6:33)  K: 38/46  I: 2/2  S: 1/1 
+MAP07 - 0:52.37 ( 7:25)  K: 12/12  I: 0/1  S: 0/0 
+MAP08 - 1:36.77 ( 9:01)  K: 56/63  I: 4/4  S: 2/2 
+MAP09 - 1:40.83 (10:41)  K: 63/74  I: 1/1  S: 3/3 
+MAP10 - 0:39.80 (11:20)  K:  6/6   I: 1/2  S: 1/1 
+-------------------------------------------
+YouTube Video: https://youtu.be/TQW_Q56ZO70
+-------------------------------------------
+Author:    	Andrea Rovenski
+Demo YouTube Page: https://www.youtube.com/@doomspeedruns
+andrea@speed.dog 
+

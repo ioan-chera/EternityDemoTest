@@ -1,0 +1,87 @@
+WAD: Scythe
+MAPS: MAP11-MAP20 (Episode 2)
+Total Time: 4:49
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Well, I set out to improve my old run of Scythe 1 Episode 2.. again. Even
+though I know I've improved a lot over my time, I still don't produce runs
+that are that great. Crap. :)
+
+Anyway, I don't know why I named the demo "s2e2no" since it's Scythe 1, but
+apparently I had a brainfreeze. Just to be clear, play this back with THE
+FIRST SCYTHE if you watch it.
+
+Maps, times, and comments are below.
+
+Scythe Episode 2:
+
+MAP11 (Sneak Peak): 0:15
+Comments: 15 is my PB.. I still insist on running this map this way since
+I suck at deathslides. With this route, 14 is very possible, but I'm too
+lazy to try it for an episode run.. maybe a single run I could do it.
+
+Time from sep2nomo-455: 0:16
+
+MAP12 (Walk in the Park): 0:14
+Comments: GOSH DARN IT 14.00. >.<
+
+Time from sep2nomo-455: 0:15
+
+MAP13 (Subverted Base): 0:30
+Comments: I can't seem to perform the RK keygrab no matter how many times
+I try, so it's the long route here. 30 is all right, I guess.. 29 or 28
+is better.
+
+Time from sep2nomo-455: 0:31
+
+MAP14 (Power Outage): 0:30
+Comments: I really screwed this one up. Should be 28 or 27.
+
+Time from sep2nomo-455: 0:28
+
+MAP15 (Blood Bath): 0:11
+Comments: 11 is good, but 10 would be a lot better.
+
+Time from sep2nomo-455: 0:13
+
+MAP16 (Burial Grounds): 0:26
+Comments: Due to some clumsiness while keyboarding, I got a second slower
+than what I wanted.
+
+Time from sep2nomo-455: 0:27
+
+MAP17 (Book Lords): 0:30
+Comments: Another one, like MAP14, that should have been 28. I'd have
+been ok with 29, but 30 is just... >.<
+
+Time from sep2nomo-455: 0:31
+
+MAP18 (MS Futura): 0:17
+Comments: 17.09 really ticks me off. Would have been 16 without that 
+wallbump at the start, and that glide is tough to perform really fast.
+
+Time from sep2nomo-455: 0:16
+
+MAP19 (3000 AD): 1:17
+Comments: I'm actually happy with this one. Probably the best run in the
+bunch. My only complaint is that I had to wait for the stupid perpetually
+moving floor, but I can't exactly control when it moves. 
+
+Time from sep2nomo-455: 1:20
+
+MAP20 (The Starport): 0:39
+Comments: I got a bit excited and messed up near the end with an ugly
+wallbump. Ah well, it's at least under 40.
+
+Time from sep2nomo-455: 0:39
+
+
+TOTAL TIME: 4:49
+
+I'm glad to see this under 4:50, but I know most other people would have
+no problem getting this under 4:40 (maybe even under 4:30). Keep Dooming
+fellow Doomers, and good luck to those who attempt this. I'm sick of trying
+this again for now. :P
+
+-Doomdaniel95

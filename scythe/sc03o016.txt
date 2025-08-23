@@ -1,0 +1,15 @@
+              Scythe
+       Map 03: Up and Around
+       Map Author: Erik Alm
+------------------------------------
+           sc03o016.lmp
+
+Nomo in 0:16.66
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Since I was able to do 0:17 fairly consistently in an episode run, I thought I should get the single-level run to 16. This was pretty easy, and I decided I'd get a second exit for a slightly better centisecond time (though that's still improvable for sure).

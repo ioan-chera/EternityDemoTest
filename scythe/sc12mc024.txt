@@ -1,0 +1,30 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+Map12: Walk in the Park
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 12.0.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:24.66
+-------------------------------------------
+4shockblast:
+
+Again, don't remember much of the run, haha. Don't think the prior run here looked too good, but it's hard to shave much time off such a short run.
+
+GarrettChan:
+
+Synced very nicely at the end there. My main problem is that not every BFG shot can kill 2 Barons at the same time.
+
+Youtube Video: https://youtu.be/AP5kCiUes0s
+
+Nov 10 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

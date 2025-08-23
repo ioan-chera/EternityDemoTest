@@ -1,0 +1,15 @@
+              Scythe
+       Map 16: Burial Grounds
+       WAD Author: Erik Alm
+------------------------------------
+           sc16o019.lmp
+
+Nomo in 0:19.97
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+WAD: scythe.wad
+Category: Nomo
+
+Comments: Thought this would be a lot harder. Only about 1K attempts. Just going extra hard on all the movement helps. The church pew jump credited to depr4vity, but I think it's probably possible to get 19 without it? Would just need really clean curved hallways, although these were decent already. confused recommended using LMB use; that helped a lot with getting fast switches. Otherwise, this would be much less fun.

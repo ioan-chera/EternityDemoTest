@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom2.wad
+Pwad:      scythe
+Map:       MAP30
+Skill:     4
+Category:  Pacifist
+Exe:       dsda-doom 0.24.3 -complevel 2
+
+Time:      2:47.06
+
+Author:    PrBoomerJuice
+
+Comments: I was took quick to submit first sub 3 last time which I got fairly quickly on this new route. I put a few hundred more attempts in and this is the best I've gotten

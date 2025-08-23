@@ -1,0 +1,22 @@
+Pwad:      Scythe (scythe.wad by Erik Alm)
+Map:       map09 (Computer Storage)
+Category:  UV Speed/Pacifist
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.2 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      0:23
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+Fuck embedded buttons! This 1s improvement came much easier than on map05,
+I've spent 45 minutes on it. Route credit to Angus, hopefully he won't mind
+a lame 1s record theft after 7 years. :)
+Faster times will need either smoother action on the button and the jump,
+or borrowing some crazy moves from the TAS movies.
+
+Recorded:  September 2nd, 2011

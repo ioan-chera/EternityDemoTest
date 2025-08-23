@@ -1,0 +1,18 @@
+SC20NS057.TXT
+SC20NS057.LMP
+SC20NS057.ZIP
+
+Player : megasphere308
+Date : 2021-05-26
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP20 The starport
+Source port : dsda-doom v0.18.0
+Time : 0.57.20
+
+Description :
+
+I went for a more aggressive strat to get a sub 1.
+The jump for the blue key is often impossible because of enemies down there.
+
+megasphere308@gmail.com

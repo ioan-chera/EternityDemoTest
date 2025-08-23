@@ -1,0 +1,30 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP26: Fear
+Category: Stroller Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 8.1.0 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:15.51
+-------------------------------------------
+4shockblast:
+
+Every time, gotta do Scythe 26 :^). 14 is probably possible but it's pain on both routes since Garrett usually dies to the cyb, and I usually get pushed around too much at the exit.
+
+GarrettChan:
+
+The problem here is that you have no control to the Cyber's rocket and if it fires early then there's no esacpe, so just hope for the best.
+
+Youtube Video: https://youtu.be/0N0FHirVUfM
+
+Mar 20 2022
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

@@ -1,0 +1,34 @@
+Wad: Scythe
+Map: 17 - Book Lords 
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 4:00
+Time: 3:30
+Category: UV max
+
+****************
+* Kills:  100% *
+* Items:  100% *
+* Secret: 100% *
+****************
+
+******************************************************************************************************************
+
+This is one of my favourite map in Scythe, a short time of fun and excitement is what I always like to have in
+doom, and this is one of it. The music "Horizon" from TNT map20 is back again! It suits this map so well.
+
+Ammo maybe a bit limited, but as soon as avoiding missed shots or one shot per imps, it can be handle easily. This
+map is also easy to get below 4 minutes, lol lol lol.
+
+All credits go to Method for the route, his movement is so smooth, also good shot selection and great positioning.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 03/04/2011 in People's Republic of China

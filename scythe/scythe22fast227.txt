@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	22
+Skill:	4
+Category:	UV -Fast
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	2:27
+-------------------------------------------
+Comments:  
+Holy heck, fuck this map. I tried this for a while last night, and got frustrated with dying so much that I gave up, but then I gave it another shot, and got an exit in a few tries. This run doesn't even really seem that hard in theory, honestly, it just took a while for it to all work out.
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

@@ -1,0 +1,19 @@
+              Scythe
+          Map 23: Anger
+       WAD Author: Erik Alm
+------------------------------------
+           sc23f321.lmp
+
+UV -fast in 3:21
+
+    Kills   - 101%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -fast
+Author: 4shockblast
+
+Comments: Significant improvement over tatsurd's time, though it's still just a first exit and the route could be more aggressive of course, and I exited with quite a few rockets. It was a rather difficult map for -fast for me, though; even with this route, the start and the cyber fight is quite deadly (though this is the first attempt that made it to the cyber fight). Sub-3 minutes would be nice with this route, dunno what a really good time would be, though.

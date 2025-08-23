@@ -1,0 +1,18 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: scythe.wad
+Pwad name: Scythe 
+Maps:      1 
+Skill:     5
+Category:  NM 100%S TAS 
+Exe:       PrBoom 2.2.6, the engine of DRE 2.0
+
+Time: 0:09'97
+
+
+Author:    ClumsyDoomer   
+Email:     clumsy.doomer@gmail.com
+
+Comments: Holy hell...
+

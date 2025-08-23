@@ -1,0 +1,22 @@
+Pwad:      scythe.wad (Scythe by Erik Alm)
+Map:       17 (Book Lords)
+Category:  UV Max
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.2 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      2:28
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+Route changes are based on using rockets better than method in sc17-235.
+I remember when I thought his run was unbeatable. :) I guess the time is sweet,
+but the demo looks ugly. I had faster and smoother starts dismantled in the YK
+room or the final battle. Can't have it all.
+
+
+Recorded:  September 24th, 2011

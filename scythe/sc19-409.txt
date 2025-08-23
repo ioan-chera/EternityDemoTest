@@ -1,0 +1,20 @@
+Pwad: SCYTHE.wad    
+Pwad name: Scythe
+Maps:      19
+Skill:     4
+Category:  UV Max
+Exe:       PRBoom+ v2.5.0.6
+
+Time:      4:09
+
+Author:	   Phml    
+Email:     Phml.ji@gmail.com
+
+Comments:  I watched Vile's run, and while it was, as usual, flawless playing, I couldn't help but think the route wasn't as good as it could be - lots of infighting options that weren't used. Here's my go at it, and while it's only a 9 second improvement, and is using a port rather than Doom2.exe, I am very clumsy compared to Vile so a good player using the same route would most likely manage under 4 minutes.
+
+-complevel 2
+HUD used
+
+
+
+

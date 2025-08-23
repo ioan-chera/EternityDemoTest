@@ -1,0 +1,43 @@
+ sc08-008.lmp
+  sc08-008.txt
+
+  Recorded using Doom2.exe
+  Compatibility: Shareware and Registered Doom v1.9, and Doom2 v1.9
+
+  scythe.wad (Scythe by Erik Alm)
+  Map08: Garden Base - UV Speed/Pacifist
+
+  Kills        4%
+  Items        0%
+  Secrets      0%  and Time   0:08
+                             ------
+
+  silly jump, stupid run. What's the point?
+  I'm glad I got this fast, because I tried NM
+  and I was getting the jump much less often
+  but probably it's because of the monsters' shootings
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 3
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Headset: Cheap Sony SR-470M.V headset

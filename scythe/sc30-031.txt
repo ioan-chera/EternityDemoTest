@@ -1,0 +1,19 @@
+              Scythe
+       Map 30: Fire and Ice
+       Map Author: Erik Alm
+------------------------------------
+           sc30-031.lmp
+
+UV-Speed in 0:31
+
+    Kills   - 3%
+    Items   - 7%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Annoying run, barons and archvile usually block me and the cyber at the start often blocks as well, which makes the run just an RNG grind for no blocks. Kimo's run had no RJ, so I did it in this run as it's quite easy. 32s was quite easy to get, but getting under that requires everything to go at least mostly right or some lucky occurrence, and usually, something went wrong. In this run, I didn't have a perfect start, barons didn't go so well, and archvile wasn't perfect, but a lucky one-rocket Romero kill got me the 1s improvement.

@@ -1,0 +1,18 @@
+** This is a tool-assisted demo! **
+Tools used: frame-by-frame building
+
+PWAD: SCYTHE.WAD
+PWAD name: Scythe
+Map: 01 "Get going!"
+Skill: Ultra-Violence
+Category: Speed
+Exe: xdre.exe 2.06
+Complevel: 2
+Date: 01.09.16 (DD.MM.YY)
+
+Time: 0:07.86
+
+Author: 38_ViTa_38
+Email: vi385ta590@gmail.com
+
+Comments: ClumsyDoomer got 8.17, then I decided to try 7.

@@ -1,0 +1,20 @@
+Pwad: scythe.wad   
+Map:      3
+Skill:     4
+Category:  UV-Tyson
+Exe:       dsda-doom-0.18.0.
+Time:      0:58
+
+-complevel 2
+
+Author:	   j4rio
+
+I wanted to leave no comment originally, because words can't properly describe
+how trash this map is in tyson, but I guess I can try.
+
+Imagine a heap of trash. Now imagine it's life hazard trash from an oncologic 
+unit. Now imagine that it's so gigantic that you have to develop your own NASA 
+program to properly dispose of it by hurling it into the atmosphere of sun, 
+because sharing the same planet with this horrible trash is already harmful to
+everyone dwelling on it. Hopefully that should give you a sufficient image as 
+to how trash this map is.

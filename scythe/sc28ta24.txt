@@ -1,0 +1,15 @@
+sc28ta24.lmp 
+
+scythe.wad map28 ("Run From It") tool assisted UV speed demo
+
+Kills:   54%
+Items:    0%
+Secrets:  0%
+
+Time:   0:24
+        ----
+
+Practically 100% built with Doom Replay Editor. SR50 heavily abused.
+This is a proof of concept demo, not strictly speed optimised.
+
+For information, ask Dol at Doomworld.

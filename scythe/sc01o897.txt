@@ -1,0 +1,23 @@
+﻿              Scythe
+        Map 01: Get Going
+       WAD Author: Erik Alm
+------------------------------------
+           sc01o897.lmp
+       sc01amusingboost.lmp
+          sc01wallrun.lmp
+
+Nomo in 0:08.97
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: I regret grinding this run.
+
+Couple amusing attempts included with fun weirdness (wallrun in staircase, an amusing boost on a corner going back in the staircase).
+
+The red bar boost is something that you can easily go for, highly recommend since after I started going for this, it took 2 hours for this. Without going for that, I was going for hours, it's possible, and not super precise technically speaking, but getting all the pieces of the map quickly in one demo is a huge pain and practically random because of the mystery of Doom wall collision. Could probably get 8.8x that way with crazy movement, 8.7x maybe with boost, if you get that wallrun, maybe even faster. 😂
+
+Now I can hopefully get back to playing Doom for fun.

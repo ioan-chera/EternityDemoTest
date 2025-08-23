@@ -1,0 +1,19 @@
+              Scythe
+       Map 08: Garden Base
+       Map Author: Erik Alm
+------------------------------------
+           sc08str033.lmp
+
+Stroller in 0:33
+
+    Kills   - 12%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Not too easy to survive the mancs here, so I took my first exit (about 100 attempts for this). Two mancs before the bridge switch and last manc killed the most attempts, and the grab didn't work every time with just walk speed. I took a bit of a longer path from the grab to the exit door to avoid taking a fireball, so some time could be saved there.

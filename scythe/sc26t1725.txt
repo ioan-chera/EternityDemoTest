@@ -1,0 +1,21 @@
+Wad:       Scythe
+Pwad name: scythe.wad
+Map:       26
+Skill:     4
+Category:  Tyson
+Exe:       dsda-doom-0.24.1 -complevel 2
+Demo Date: 07.08.22
+-------------------------------
+Time:      17:25.63
+Comments:  Yeah, a couple of more minutes can be cut here. Bunch of mistakes with the last closet.
+	   I try to get the westernmost triplet the first since i feel it's the hardest one to cooperate with.
+	   The easiest one is probably the easternmost, didn't even bother with it this time at all, was infighting before i even got there.
+	   Definitely can be pushed even further.
+	   
+	   
+Attempts:  635
+-------------------------------
+Author:    Petyan
+-------------------------------
+Discord - Petyan#1290
+Twitch - https://www.twitch.tv/petya_p90

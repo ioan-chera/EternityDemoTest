@@ -1,0 +1,43 @@
+This is a Doom .LMP - Please forward it...
+
+sc10-027.txt
+
+sc10-027.zip
+
+sc10-027.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file scythe.wad
+
+
+ Scythe - MAP 10 - The Lords
+
+
+================
+Kills      100%
+Items       50%
+Secrets    100%
+----------------
+Time       0:27
+================
+
+
+Description:
+
+When I played this map for NM-Speed, I found that barons 
+can be killed by explosion of Romero's head. First, I intended
+to kill only one baron with the explosion. This is because 
+the baron in the second nearest the warp came to me while I was
+fighting against two barons in the other side. However, I just 
+noticed that the baron go to near the warp only occasionally. 
+Therefore, I started to try to kill two barons with the explosion. 
+However, two barons usually prevented me entering the warp, and 
+I lost some seconds or died. In this run, I was able to enter 
+the warp smoothly and get the good time.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

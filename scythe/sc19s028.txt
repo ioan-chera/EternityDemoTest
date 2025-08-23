@@ -1,0 +1,19 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 19
+Skill: Nightmare
+Category: Nightmare 100% Secrets
+
+Time: 0:28
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 12/19/2011
+
+Comments: I was going through the Scythe nightmare tables, when I noticed this map didn't have any entries with 100% secrets.  This is probably because the standard nightmare route run grabs the invul in the secret without actually triggering it.  The fastest nightmare speed  demo is 0:24, so I decided I'd settle for a few seconds under 30 demo, since actually entering the secret takes a few extra seconds.  After recording this 0:28, I looked through the other nightmare entries and noticed that Method's Nightmare run gets 100% secrets as well, luckily his is a second slower :P    
+
+

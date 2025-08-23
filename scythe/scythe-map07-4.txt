@@ -1,0 +1,15 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad: SCYTHE.WAD
+Pwad name: Scythe
+Maps: 07
+Skill: Ultra-Violence
+Category: Pacifist
+Exe: PRBoom+ v2.5.1.4cl
+-------------------------------------------
+Time:     	0:04
+-------------------------------------------
+Comments:  cool
+-------------------------------------------
+Author:    theMegaswan

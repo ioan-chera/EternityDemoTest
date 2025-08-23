@@ -1,0 +1,39 @@
+This is a Doom LMP Entry
+
+SC29-749.ZIP
+
+	SC29-749.TXT
+	SC29-749.LMP - UV Max
+
+Recorded using Prboom-Plus v2.5.0.5 -complevel 2
+               (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 29 - Hell on Earth
+
+=---+------+---=
+Kills       102%
+Items       100%
+Secrets     100%
+ 
+TIME     7:49.49	Old record: 8:39 by Chris "TimeOfDeath" Balch
+=---+------+---=        
+
+Demo entry #73.
+
+Description:
+
+My first demo of this winter is recorded for this original, powerful, modernly
+designed icy level :-)
+
+It's a typical challenging max run which gets somewhat simplier with practice.
+I only worked for two days on this demo, and this semi-crappy third-exit run is
+significantly less optimized than, for instance, RQ24-416 or GRA1-557. It's not
+a super-smooth demo which makes a hard run look easy, it's a "live" demo with
+a number of natural humanly mistakes. But I think some of them are funny,
+particularly the health-loss in the end.
+                          
+Enjoy the hell!
+
+
+Author: SAV88 (Artem V. S.)
+Done December 4, 2010, 18:53:25

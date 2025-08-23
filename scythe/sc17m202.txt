@@ -1,0 +1,6 @@
+Runner: NightTerror
+IWAD: Doom2.wad
+PWAD: scythe.wad
+Category: UV-max
+Map: 17 (Book Lords)
+Source Port: dsda-doom 0.10.0 (complevel 2)

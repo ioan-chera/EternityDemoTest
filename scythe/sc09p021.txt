@@ -1,0 +1,19 @@
+              Scythe
+     Map 09: Computer Storage
+       Map Author: Erik Alm
+------------------------------------
+           sc09p021.lmp
+
+Pacifist in 0:21
+
+    Kills   - 9%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: 22 wasn't too hard, 21 wasn't easy, though and took some time to get. Lots of luck-dependent places with monster movement, easy to get blocked and fairly easy to get killed as well. Had pretty much nothing in my way this time, and no major movement errors anywhere which made this a 21.

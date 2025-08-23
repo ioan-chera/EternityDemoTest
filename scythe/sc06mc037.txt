@@ -1,0 +1,32 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+-------------------------------------------
+PWAD: scythe.wad
+PWAD Name: Scythe
+MAP06: Pressure Point
+Category: UV Max Co-op
+Player 1: 4shockblast (Green)
+Player 2: GarrettChan (Indigo)
+Exe: Woof 10.5.1 -complevel 2 with extended HUD
+-------------------------------------------
+Time: 0:37.23
+-------------------------------------------
+4shockblast:
+
+The trick isn't too bad to do, but then we realized  that I can time the second bridge to raise Garrett up instead of the lift, which combined with the HK crushing and stuff was a bit annoying to do. I guess ideally you'd get like 3 HKs in the crusher and Garrett has barely anything to do, but my side couldn't be too much faster other than missing that one spectre shot. I didn't intend to leave extra rockets for Garrett, but I missed one rocket box on the jump across (which I usually missed anyway, another thing that typically slowed the run down). That said, the ending was quite fast all things considered on my side, and the extra rockets helped at the start, so idk, I wouldn't want to grind this down much further as it's already fairly lucky.
+
+GarrettChan:
+
+Well, pretty happy that I have 4shock to do that trick so I don't have to :p
+
+Though, it's pretty not fun to get the correct timing to raise the bridge. Also I missed the shell box so I ran out of shells and wasted a bit of times.
+
+Youtube Video: https://youtu.be/3QDs0eEayrw
+
+Mar 12 2023
+-------------------------------------------
+Author: 4shockblast
+https://www.youtube.com/user/4shockblast
+
+Author: GarrettChan
+https://www.youtube.com/c/GarrettChan

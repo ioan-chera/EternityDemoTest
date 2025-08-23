@@ -1,0 +1,14 @@
+For http://dsdarchive.com/
+
+Player: TomatoTom
+IWAD: doom2.wad
+PWAD: scythe.wad
+Map: 06
+Skill: 4
+Category: UV-Max
+Sourceport: prboom v2.5.1.7
+
+Time: 58.14
+Comments: Glad to get sub 1. Only possible with very good rng. You need all the hell knights to go under the crusher which rarely happens as one or two choose not to. 
+	  I could of got 57 if I didn't get bumped on the exit. But it's still an impressive time in my opinion. Overall, getting this kind of time is luck based and can
+	  get frustrating. 

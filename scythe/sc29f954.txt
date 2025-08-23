@@ -1,0 +1,63 @@
+| This is a Doom .LMP | Doom Speed Demos Archive https://www.dsdarchive.com/ |
+-------------------------------------------------------------------------
+Filename : sc29f954.lmp, sc29f954.txt
+Date     : 2022-03-18
+Iwad     : doom2.wad
+Pwad     : scythe.wad
+Game     : Scythe
+Exe      : DSDA Doom 0.24.3 -complevel 2 
+Category : UV-Max
+Map(s)   : MAP 29: Hell on Earth
+Skill    : 4 (UV)
+Video    : https://youtu.be/VXbyxDB7FSY
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 102%
+Items    :  75%
+Secrets  : 100%
+Time     : 00:09:54
+===================================
+Description:
+
+This map is a cold region map with impressive white rock textures. There 
+are many unforgettable scenes such as some high and complex buildings, 
+a bridge between two buildings, the battle of three cyberdemons after 
+the red key, and the exit after climbing the steep white rocks. This is 
+no doubt a memorable map.
+
+I had not played UV-Fast for a long time and I found this map's record 
+is very old from 2006, so I just tried it. This map was hard to survive, 
+so I spent more time than I had expected. 
+
+In the beginning, two arch-viles were very annoying becasue a shotgun 
+and a chaingun were not enough to deal with them. If you pick up a SSG 
+in the outside area like UV-Max route, they are also likely to go out, 
+then it would be even harder for them to kill. Fortunately, many homing 
+missiles from revenants helped me to do. The tactic is unique to -fast 
+and the credit goes to Anima Zero. A lot of enemies aim you from all 
+direction in the outside area. Especially, homing missiles from revenants 
+and spells from arch-vile are really dengerous in the field with less 
+obstruction. 
+
+I got on the elevator in the red brick building, then shotgunners surrounded 
+me. This was also a hard part becasue receiving damage was unavoidable. 
+I made a herd of cacodemons fight against the cyberdemon around the blue 
+key like UV-Max route. It happended easily with -fast but it was hard to 
+avoid damage. 
+
+I entered the blue key's door after I had crossed the bridge, then shotgunners 
+surrounded me again and I was usually low health. I paid attention until 
+getting a soul sphere. Three cyberdemons were encountered after the red key. 
+I could not get close to them well on -fast for taking a blast damage of 
+BFG effectively, so I kept enough cell. I was occassionaly killed by them 
+becasue of stumbling on unevenness. It was more troublesome than I had expected.
+
+I was also annoying fireball clipping bug occured frequently. This also caused 
+low health situation or death. Anyway, I managed to finish this map and got
+ below 10 min. It is pretty nice.

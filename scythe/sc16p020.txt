@@ -1,0 +1,19 @@
+              Scythe
+      Map 16: Burial Grounds
+       Map Author: Erik Alm
+------------------------------------
+           sc16p020.lmp
+
+Pacifist in 0:20
+
+    Kills   - 2%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Dislike this jump because the AVJ is annoying, and also there's some annoyance with getting blocked by the hell knights all the time. I got blocked a bit in this run as well, but I managed to get past them (not sure how much time I lost). AVJ wasn't perfect either, I got stuck on the pews. :\ Didn't get blocked much at the end, though, so it ended up at my goal. 19 would be a good time, maybe 18 is possible.

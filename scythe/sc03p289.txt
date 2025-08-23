@@ -1,0 +1,21 @@
+              Scythe
+       Map 03: Up and Around
+       Map Author: Erik Alm
+------------------------------------
+           sc03p289.lmp
+
+Pacifist in 0:02.89 (Also Reality)
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: lol
+
+Credits to Zero-Master for the lv15 trick giving rise to this nonsense

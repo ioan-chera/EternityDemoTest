@@ -1,0 +1,21 @@
+  Doomed Speed Demos Archive
+-------------------------------------------
+Pwad:		SCYTHE.WAD
+Pwad name: 	SCYTHE
+Maps:		14
+Skill:		4
+Category:	UV Tyson
+Exe:      	DSDA-Doom 0.25.6cl2
+		with advanced HUD
+-------------------------------------------
+Time:     	1:53
+-------------------------------------------
+Comments: one of my favorite punchy maps for scythe.
+recorded in 320x200 for the retro experience.
+------------------------------------------- 
+YouTube Video: https://youtu.be/Bjv3PqLAGVc
+-------------------------------------------
+Author:    	Andrea Rovenski
+Demo YouTube Page: https://www.youtube.com/@doomspeedruns 
+andrea@speed.dog 
+

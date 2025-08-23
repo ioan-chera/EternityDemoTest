@@ -1,0 +1,29 @@
+Game: Doom 2
+Pwad: Scythe
+Filename: sf31-321.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: 31 (I Dunno Torn)
+Exe/Port used: GLBoom 2.2.6.26 (PRBoom Plus) -complevel 2
+
+Totals:
+Kills      100%
+Items      13%
+Secrets    100% and (Time- 3:21)
+
+Comments: 
+I'm the very determined, as said in my previous txt file for this level :P.
+
+Took me lots and lots of attempts to get a demo that I was satisfied with.  Started with a 3:26, thought that was ugly, got a 3:25 a little later, though still ugly, then took me god knows forever until this run came.
+
+I just played far more aggressively throughout the level, trying not to have any slow spots crop up.  The first 2 mancos are dealt with in a more aggressive and speedy manner.  Everything else remained the same, just sped up some.
+
+Some bad SSG aiming in a couple spots, and a bit of bad luck at the YSK since one HK broke off from the group, meaning it didn't take splash dmg from the rockets I was using to clean out the barons/HK there.  Ah well, can't have everything go right in a demo :P.
+
+Still, it's 12 seconds faster than my previous run (Which I actually thought wasn't that bad :P).
+
+A time though below 3:20, probably even 3:15 or better, is reachable for those with lots of patience.  Not me right now, this map ain't my friend at the moment :P.  Gotta check out more undone UV -fasts here.
+
+Once again as well, great map to record on.
+
+Brian "Anima Zero" Nesser
+Bri8527@comcast.net

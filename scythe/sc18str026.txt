@@ -1,0 +1,15 @@
+Doom Speed Demo Archive
+https://dsdarchive.com/
+
+Iwad:      doom2.wad
+Pwad:      scythe
+Map:       MAP18
+Skill:     4
+Category:  Stroller
+Exe:       dsda-doom 0.24.3 -complevel 2
+
+Time:      0:26.74
+
+Author:    PrBoomerJuice
+
+Comments: It can definitely go lower. I included a little proof of concept TAS I made the night before I started doing this. I got this within about 30 attempts, so I am sure a few more seconds can reasonably be dropped by a human

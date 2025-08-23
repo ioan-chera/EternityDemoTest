@@ -1,0 +1,99 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe by Erik Alm
+Pwad name: scythe.wad
+Maps:      32
+Skill:     4
+Category:  UV -fast
+Exe:       doom2.exe
+
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+Comments:  Angus Thermopyle proudly presents ...
+
+           ... a 10-demo-fast-collection for Scythe by Erik Alm.
+
+           Here you'll find lmps for the maps 1 - 10. Don't expect anything special,
+           the demos are first-entries and (most of them) can be improved easily.
+
+
+Map01: Get Going           Time - 0:35
+--------------------------------------
+Slow. I can't perform the end-barrel-trick with -fast monsters (not enough health). And then
+there is the very nasty final imp who ruined some 0:34 or even 0:33 runs, I always got stuck
+there :( (Perhaps the imp is not the problem. It could be the feeling to be faster than ever
+which makes me nervous ;)
+I had three such runs between 0:35.00 and 0:35.05. This demo is not one of those. It's slower,
+but less annoying. 
+
+Map02 - Punchline          Time - 1:14
+--------------------------------------
+One of the most helpful invisibility spheres (thx, Erik). Stupid zombieman (he was shocked or
+blinded by the blood pouring from my head :)
+Punching -fast demons makes fun. You'll see it in some other demos too.
+
+Map03 - Up and Around      Time - 1:24
+--------------------------------------
+Worst demo in this pack. The imp-cage-area is hard. The demons are always distracted by the imps
+or shotgunners and run like mad. Punch such a demon and you'll get a flood of fireballs.
+Shoot him and you'll get ammo problems (therefore I shot the sgs at the yellow key with pistol).
+Kill the other monsters instead and you'll get chewed to death. A very chaotic situation.
+
+Map04 - Lost Warehouse     Time - 0:51
+--------------------------------------
+Easy one. Time is good, but if the chainsaw hadn't lost contact this would have been a 0:49 :(
+
+Map05 - Slimy Tunnels      Time - 1:17
+--------------------------------------
+A bad start from me. But then I had luck with the barrels killing the spectres, and the
+chaingunner cooperated very well :)
+
+Map06 - Pressure Point     Time - 1:44
+--------------------------------------
+A very luck-based run. With -fast it's not easy to lure the hellknights into the crusher. I made
+it only two times to kill all of them at once with it, but I died at the (hard) end.
+Not a good demo. I made some stupid movements after taking the berserk pack, sorry for this.
+BTW, it's more fun than normal maxkill - the -fast demons are very drolly :)
+And do not take the invisibility (not a good idea this time, Erik :), if you want to survive the
+final cave!
+
+Map07 - Deadly             Time - 0:42
+--------------------------------------
+Not bad. I had luck with the telefrag (it's much harder to kill two at once with -fast) and the
+last mancubus died during the death animation of his predecessor. The same with the spiders :)
+
+Map08 - Garden Base        Time - 1:56
+--------------------------------------
+Pure action! Fireballs flying everywhere! I love the start :)))
+And thank you for the invisibility, Erik, again!
+
+Map09 - Computer Storage   Time - 1:45
+--------------------------------------
+At first glance this seems very hard, but take the invisibility (again a great idea, Erik :) as
+fast as you can, and this will be the easiest map from the first episode. I found a nice way to
+kill the mancubus this night (after several weeks without dooming).
+This demo is only three seconds slower than Ryback's max-run. Overall the -fast run should be
+faster than normal max (due to infights). I want to see a run under 1:30 soon!
+
+Map10 - The Lords          Time - 0:49
+--------------------------------------
+Apart from Map03 this is the hardest one in the first episode with -fast monsters. After endless
+tries I got a run under 0:50 at least. I'm happy with it, even it can get much faster.
+
+
+           A big thx to the other players from "The DSF Scythe Multi-Skill! lmp collection"!
+           Your maxdemos were very helpful for me. Perhaps you can help me out with the rest of
+           the maps. There is so much to do :)
+
+           And thank you, Erik, for Scythe! It is one of the most playable megawads ever (like
+           Plutonia or Alien Vendetta), an all time classic (even only a few months are gone
+           since its birthday :) and pure fun!!!
+
+
+           Jochen "Angus" Schneidau
+
+
+           22.10.2003

@@ -1,0 +1,19 @@
+              Scythe
+         Map 24: Hatred
+       Map Author: Erik Alm
+------------------------------------
+           sc24-222.lmp
+
+UV-Max in 2:22
+
+    Kills   - 100%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Route is pretty similar to tatsurd's with a few parts taken more aggressively. Infighting wasn't bad, but run is far from perfect, as the cyber fight was pretty slow and the mancs could probably go better. I don't particularly care for this run much, and I don't want to optimize too much since I expect there to be a better route (maybe going back to BFG the revs instead of rocketing?), didn't take too many attempts (a little under 200, probably half of which was me bumping the first pillar :P).

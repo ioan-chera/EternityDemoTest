@@ -1,0 +1,29 @@
+           Scythe
+     WAD Author: Erik Alm
+-------------------------------
+       Episode 1 Tyson
+-------------------------------
+    Level          Time 
+-------------------------------
+    Map 01	   0:48 (+0:12)
+    Map 02	   1:23 (+0:10)
+    Map 03	   1:44 (+0:02)
+    Map 04	   1:27 (+0:03)
+    Map 05	   2:06 (+0:20)
+    Map 06	   4:07 (-2:26)
+    Map 07	   7:23 (-4:15)
+    Map 08	   8:51 (-0:30)
+    Map 09	   5:35 (-1:54)
+    Map 10	   4:19 (+0:56)
+
+TOTAL:            37:44 (-8:22)
+
+Recorded with: DSDA-Doom 0.21.3 -complevel 2
+Skill level: Ultra-Violence
+Author: 4shockblast
+WAD: scythe.wad
+Category: Tyson
+
+Comments: I'm sorry about this. This wasn't planned, I just did this for the Scythe Irontyson thingy in Doom General and idk how, I didn't just survive ep 1, I got to 32, and then beat my ep 1 time. I dunno what the fuck happened in my old demo, but based on the times, I must have played like absolute trash in the later maps, and all the time loss is there. It's extra annoying since I wasn't even going for time here, so I was meme waiting here and there while interacting with Twitch chat or remembering what to grab for next map, and for the lols, I got all the secrets too. :^) But a record is a record, and I hate to be hoarding stuff, so here it is.
+
+I rerecorded the actual ep 1 to truncate to the first ten maps. My full attempt is contained in scythe_Irontyson_shock.lmp, and I added the Tyson -fast attempt that died on 4 as well just for fun (scythe_Irontysonfast_shock.lmp). Maybe I could have gotten further with -fast, but after doing this demo to 32, I was burned out so I didn't play that well, heh.

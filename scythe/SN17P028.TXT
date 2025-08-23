@@ -1,0 +1,30 @@
+This is a Doom LMP Entry
+
+SN17P028.ZIP
+
+	SN17P028.TXT
+	SN17P028.LMP - Nightmare Speed + Pacifist
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 17 - Book Lords
+
+=---+------+---=
+Kills         7%
+Items         0%
+Secrets       0%
+ 
+TIME     0:28.17	Old record: 0:40 by Jochen 'Angus' Schneidau
+=---+------+---=
+
+Demo entry #53.
+
+Description:
+
+Just another extremely well-designed map which is fun to speed on NM. Not much
+to say about this not-so-hardworked run :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done October 11, 2010, 15:35:03

@@ -1,0 +1,13 @@
+Map-Scythe map 20: Pacifist (except for the boss head of course)
+
+-complevel 9 prboom 2.5.0.6
+
+Recorder: Sebastian "DoomHero85" Graham
+
+Notes: Yeah I missed the blue key twice (damn monsters) and then got exceedingly lucky.  This was a kinda tough demo to make.
+
+Time: 1:52.80 Could definitely be done faster.
+
+
+
+

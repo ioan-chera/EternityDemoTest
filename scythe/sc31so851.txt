@@ -1,0 +1,15 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31so851.lmp
+
+Nomo in 0:08.51 (secret exit)
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: 8 was easy so I optimized it a bit more.

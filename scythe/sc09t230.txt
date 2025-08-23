@@ -1,0 +1,23 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       09 - Computer Storage
+Skill:     4
+Category:  UV Tyson
+Exe:       prboom 2.2.6
+
+Kills:     100%
+Items:      ??%
+Secrets:    33%
+
+Time:      2:30
+
+Comments:  Mancubus is the man who decides whether you complete the run or not ...
+           ok demo ... if I don't play the last corridor like noob it would be below
+           2:30 ... damn! 
+
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+
+08.09.2006

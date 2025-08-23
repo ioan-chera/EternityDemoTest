@@ -1,0 +1,28 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Scythe
+Pwad name: scythe.wad  
+Maps:      10 (episode 1)
+Skill:     4
+Category:  UV -NoMonsters TAS 
+Exe:       prboom-plus.exe
+
+Time:  MAP01 0:09
+       MAP02 0:09
+       MAP03 0:15
+       MAP04 0:14
+       MAP05 0:11
+       MAP06 0:22
+       MAP07 0:01      
+       MAP08 0:08
+       MAP09 0:18
+       MAP10 0:15     
+      Total: 2:03
+
+Author:    ClumsyDoomer   
+Email:     baymurzin2011@yandex.ru
+
+Comments: Sorry for the long pause between map08 and map09. I had the bug with rerecording in PRBoom+ :) The run took 48 tries and 5 hours, but the maps are very easy and w/o monsters. 
+
+

@@ -1,0 +1,32 @@
+Wad: Scythe
+Map: 18 - MS Futura 
+Added Engine: prboom-plus-2.5.0.8
+Player: Daiyu Xiaoxiang
+Target Time: t < 2:00
+Time: 1:26
+Category: UV-Fast
+
+****************
+* Kills:  100% *
+* Items:  66%  *
+* Secret: 100% *
+****************
+
+******************************************************************************************************************
+
+This map is pretty easy to do on UV-Fast since it's easier to led infighting between the Spider Mastermind and
+the other monsters. Somehow this is a small map take place in a cargo port, the ammo and monsters placement is 
+good, below 2 minutes using either Max or -Fast is so easy lol.
+
+1:26 is OK, somehow I usaully finish UV-Fast faster than UV Max.
+
+******************************************************************************************************************
+
+Author: Daiyu Xiaoxiang
+E-Mail: trevor.cheng1014@yahoo.com
+Hotmail: t.c_1014@hotmail.com
+Homepage: http://blog.sina.com.cn/doomdaiyuxiaoxiang
+Youtube: http://www.youtube.com/user/daiyuxiaoxiang?feature=mhum
+
+
+Recorded at - 09/04/2011 in People's Republic of China

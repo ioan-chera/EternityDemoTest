@@ -1,0 +1,21 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       16
+Skill:     4
+Category:  Pacifict
+Exe:       prboom-plus-2.4.8.1 -complevel 2
+
+Kills:       8%
+Items:       0%
+Secrets:     0%
+
+Time:      0:27
+
+Comments:  Same like speedrun, but with some complication
+
+Author:    Jakub "psichotik" Hornicak
+Email:     psichotik@seznam.cz
+

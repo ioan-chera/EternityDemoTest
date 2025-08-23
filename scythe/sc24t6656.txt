@@ -1,0 +1,41 @@
+Pwad: scythe.wad   
+Map:      24
+Skill:     4
+Category:  UV-Tyson
+Exe:       GLBoom+ v2.5.1.3
+Time:      1:06:56
+
+-complevel 2
+
+Author:	   j4rio
+
+
+A hard map in tyson, filled to the brink with stressful scenarios. There's 0 armor, relatively few soulspheres and 80 bullets, so resources are 
+rather limited as well. The first problem with distant mancs was solved by luring all goats to the starting platform so they could properly 
+infight. They still couldn't target all mancs on the right side of cage, so that's when I lured goats back out of the starting  platform. This 
+is where the problem with those mancs becomes apparent. They suck at infighting. I have to repeatedly prod and lure goats  away from them so 
+they could land a distant shot that actually connects. With this taken care of, our next target are barons on sticks that are constantly 
+targeting you. We use cyberdemon to make one of them angry by standing at a very precise spot for splash damage to hurt the first. This should 
+eventually trigger a splash chain reaction and make at least 1 or 2 more barons on sticks angry with cyber. The next destination is awakening 
+the content of upper rev hideout. This is the first truly luckbased bit, because to get out one has to squeeze through two barons rammed into 
+tiny space. It's important no noise was done up here. Now we wait for revs to take out barons. One unfortunately went to sleep from all the 
+infighting so I had to make another tour to the upper platform. Now we can make noise in there. This wakes up a dozen or so cacos. These are 
+lured around area to take out remaining mancs and stationary barons. The most important ones to take out are those two that can target you all 
+around the place. Once taken out, cybers takes care of all remaining cacos. The next ugly luckbased part begins - the archvile. Yeah, I haven't 
+even mentioned that you are being targeted by a vile with really good visibility scope while doing everything here up to this point. It's out of 
+reach, so we use up all of bullets this map provied. It must die within 79 bullets, one is required for secret trigger. I don't know the math 
+for that, but that is not a guaranteed amount of bullets for a kill, so even if all shots connect perfectly, you can end up restarting here. I 
+haven't even mentioned that this is all in case you don't miss a single pistol shot. Unfortunately, we can't do the archvile kill any sooner into 
+the run, because we are being targeted by all stationary barons and mancs screwing with our mojo when the only thing that should matter is being 
+doubly-sure we are connecting every shot. With all this taken care of, we get the aforementioned secret. It's triggered by landing a pistol shot 
+at a demon face while falling from upper section. This reveals two spiders, berserk and soulsphere. We didn't need berserk up to now, as every
+encounter revolves around either infighting or pistol. We need to take out those spiders. I've just straight up punched them up, because to me
+that seemed like the least amount of trouble necessary to go through to take them out. Afterwards, the revenant content has to be thinned out a
+bit. I do this by luring them onto the elevator and lowering them down chunk-by-chunk to become cyber food, so this takes quite a while. Up next,
+barons guarding BFG are revealed. We must use up the short time when this infight happens to grab radioactive suit, move up the cyber platform 
+without feasting on a rocket, punching out all demons rammed here and then a vile that raises from the ground. This teleports in a spider mom.
+Since we are no longer protected from lava by a radioactive suit, the only way I could think of to proceed was to make these two leftover bosses 
+infight by just yoloing it out, jumping out the window in front of mommy and wait until a rocket gets blasted into its end. The cyber dies and
+the ugliest part of the map is up. We reveal a vile from the exit and what happens next can be summed up as instigating absolute chaos to devour
+moms and then trying not to be consumed by it as well. I got ridiculously close to being wasted in the process. The cherry on the top is that 
+this monstrosity is the very last fight of the map.  

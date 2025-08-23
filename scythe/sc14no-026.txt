@@ -1,0 +1,13 @@
+WAD: Scythe
+MAP: MAP14: Power Outage
+Time: 0:26.66
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Comments:
+
+Well, I tried quite a bit after this for 25s, but I just got more 26's
+that weren't even close to 25 (even a couple 27's). I really don't want
+to push more for 25s, so I'll stop for now.
+
+--Doomdaniel95

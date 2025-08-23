@@ -1,0 +1,15 @@
+              Scythe
+       Map 20: The Starport
+       Map Author: Erik Alm
+------------------------------------
+           sc20o034.lmp
+
+Nomo in 0:34.89
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: This was pretty clean; even though there's a slight messup on one of the pillars after the blue key, 33 does not look possible. I also got pretty lucky with the long fall at the end of the run, as I didn't slide alongside the wall and was able to just straferun forwards into the final teleporter (which is probably what got me the 34).

@@ -1,0 +1,26 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       13 - Subverted Base
+Skill:     5
+Category:  NM Speed
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      50%
+Items:       0%
+Secrets:     0%
+
+Time:      0:36
+
+Comments:  I'm quite happy with this!
+
+           The demon opened the door, I was able to skip
+           the berserk pack, and the path to the yellow
+           door was free.
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+14.10.2004

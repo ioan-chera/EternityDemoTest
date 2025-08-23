@@ -1,0 +1,19 @@
+              Scythe
+       Map 28: Run from It
+       Map Author: Erik Alm
+------------------------------------
+           sc28s027.lmp
+
+NM100 in 0:27
+
+    Kills   - 45%
+    Items   - 100%
+    Secrets - 100%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Matches the NM-Speed record. I dunno how this is a 27, though, my run up to the two pinkies wasn't ideal and my secret grab was slow. Whatever, 26 is probably too hard anyway (when I first started I wasnt' even sure 27 was possible :P).

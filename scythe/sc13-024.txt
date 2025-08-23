@@ -1,0 +1,40 @@
+Pwad:      ftp://ftp.fu-berlin.de/pc/msdos/games/idgames/levels/doom2/megawads/scythe.zip
+           (Or mirrors...)
+Pwad name: Scythe
+Maps:      13 - "Subverted Base"
+Skill:     4
+Category:  Speed + Pacifist
+Exe:       Recorded with PrBoom 2.2.4 -complevel 0 (doom2.exe comp)
+Time:      0:24
+
+Author:    Kristian Ronge
+Email:     zuckuss@gmail.com (primary)
+           d99-kro@nada.kth.se
+
+Stats:     Kills    13%
+           Items     0%
+           Secrets   0%
+
+Comments:
+
+The second new trick I've discovered for "Scythe"... :-)
+
+Not too hard to find for a non-Grazza ;-) actually. I mean, 
+the key is right there, and the ledge is right there. Why 
+not try a keygrab?
+
+The grab isn't very hard in the sense that it doesn't 
+require any technical excellence from the player. You don't 
+need to use strafe50, you don't even need to strafe. It is, 
+however, horribly random, and my success rate with monsters 
+was laughable -- during *at least* 200 attempts, I managed 
+to get the damn key 4 times.
+
+So, please forgive me if you don't think the rest of the 
+run is very polished... I've had enough of this for now!
+
+Pacifist, too (of course).
+
+Kristian Ronge
+
+zuckuss@gmail.com

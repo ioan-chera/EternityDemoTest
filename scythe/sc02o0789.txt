@@ -1,0 +1,13 @@
+For http://dsdarchive.com/
+
+Player: TomatoTom
+IWAD: doom2.wad
+PWAD: SCYTHE.wad
+Map: 02
+Skill: 4
+Category: NoMo
+Sourceport: prboom v2.5.1.7
+
+
+Time: 07.89
+Comments: Just a 7 seconds completion :)

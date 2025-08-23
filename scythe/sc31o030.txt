@@ -1,0 +1,15 @@
+              Scythe
+       Map 31: I Dunno Torn
+         Map Author: Torn
+------------------------------------
+           sc31o030.lmp
+
+Nomo in 0:30.89
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: 29 may very well be doable, but it wouldn't be easy. I'm not very interested in grinding it.

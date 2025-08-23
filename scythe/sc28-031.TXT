@@ -1,0 +1,72 @@
+ sc28-031.LMP
+  sc28-031.TXT - UV Max
+  (Killing all reachable monsters and getting the secret)
+
+  Recorded using Doom2 Version 1.9
+
+  Scythe - Map28 - Run from It
+
+  Kills       81%
+  Items      100%
+  Secrets    100%  and Time   0:31
+                             ------
+  Description :)
+  
+  After seeing Artem's nm100s run, I decided to try
+  this map's UV Max, checking Vile's nicely planned max
+  run carefully, I noticed he doesn't get the secret
+  but he barely made it before dying from the time limit
+
+  Executing Vile's route doesn't leave you time to get
+  the secret because you'll need to run back and get it
+  from behind the dying arachno and thus wasting needed time
+  You need to kill the chainie first to activate the secret
+
+  So I thought about this hell of an awkward route
+  The main idea is to have 2 bfg shots ready for the final
+  room so you can get the secret on the way without sacrificing
+  much time, and so this route came. I shoot ssg at the air
+  till I have 2 shells left, to make it switch off faster when
+  I run out of ammo, so the revenant dies from one ssg shot and
+  one rocket instead of one single bfg shot as in Vile's route
+
+  So after shooting the ssg shot I need to press 5 at the correct
+  time to switch immediately to rl and after shooting the rocket
+  I press 7 to switch immediately to the bfg, yes really!
+
+  My target was only 32s, I couldn't complete a single run because
+  I've always ran out of time at the end
+  (See the fail folder for 5 close demos)
+  After 3 straight hours I've got this run where everything's fallen
+  into place, good running, good timing of switching weapons and
+  good timings of shooting the rocket and bfg just after switching
+  to them (It gets really confusing if you know what I'm talking about)
+  and also a key thing for this time, is how I activated the secret,
+  I managed to activate the secret in the box and get out very quickly
+  
+  My route kills all the reachable monsters and gets the secret.
+  Human Optimal is 0:31 (I claim this run is optimal!)
+  Vile's route kills all the reachable monsters without getting 
+  the secret. Human Optimal is 0:30 or maybe 0:29
+
+  sc28b-uv.lmp from the demopack is a tas demo that kills all the
+  monsters including the hidden zombies that die and make the
+  teleporting corpses (They all die around the end of 0:33 assuming you
+  move immediately at the beginning of the run) but it doesn't get the
+  secret.
+  
+  Note:
+  I could've tried to use the rl first against the rev then ssg
+  but it seems after you run out of the rocket ammo, you are
+  FORCED to switch to normal sg if you only have 2 shells left
+  no matter if I press 3 or not
+
+  The "lol" folder contains 4 different demos where I hit the lost
+  soul with the rocket while intending to shoot the chainie
+  I survive with 3hp in one of them :P
+
+  Enjoy!
+
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

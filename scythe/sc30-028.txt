@@ -1,0 +1,11 @@
+Iwad: Doom2
+Pwad: Scythe.wad
+Maps:      30
+Skill:     4
+Category:  UV-Speed
+Exe:       PRBoom+ v2.5.0.9
+Time:      0:28
+
+Author:	   Hock 
+
+Built TAS 

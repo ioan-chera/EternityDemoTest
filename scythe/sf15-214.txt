@@ -1,0 +1,32 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       15 - Blood Bath
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     104%
+Items:      66%
+Secrets:   100%
+
+Time:      2:14
+
+Comments:  First ok demo. Good RL fight against the revs.
+           I play this map for three days now and won't stop here.
+           A time around 2 minutes is my goal.
+           This demo features a faster jump to the NW area with
+           the plasma gun secret than Ryback's UV max record, so
+           I'll try to beat that too.
+           I also spent four hours with NM100S. The route includes
+           two AV jumps. Had no luck so far.
+
+           (Sorry for the weird moment in the imp corridor after
+           about 1:50 - mouse problems again.)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+10.07.2005

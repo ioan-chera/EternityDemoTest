@@ -1,0 +1,16 @@
+WAD: Scythe
+MAP: MAP12: Walk in the Park
+Time: 0:12.91
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Comments:
+
+Simple level. Just run around and grab the keys, then go back near the
+beginning to exit. I took less than 10 minutes to get 12s, so it's a
+rather quick demo, and you can see a few flaws in my running (bumping into
+the wall gently after I grab the RSK; a tic-long pause as I stop to grab
+the YSK so I don't bump into the wall by it; getting into too much of a 
+hurry at the exit and bumping into an opening door). Definitely improvable.
+
+--Doomdaniel95

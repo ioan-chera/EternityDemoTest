@@ -1,0 +1,19 @@
+              Scythe
+       Map 30: Fire and Ice
+       Map Author: Erik Alm
+------------------------------------
+           sc30n032.lmp
+
+NM-Speed in 0:32
+
+    Kills   - 6%
+    Items   - 14%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: I decided to keep going after I had to do a different run past the first cyber that's slower, and I had a bunch of bad movement, so I ended up trying something at the end and got lucky. :P Ugly run, though it's pretty funny how this ended up being the run that got 32s. I had a number of 33s runs before this one, including some very low times, I guess, like UV-Speed, NM-Speed turns into an RNG grind to exit a run if you want a time under 33. Start is even more problematic, especially the second cyber could kill me easily if he was positioned in my way. Then, parts of UV-Speed where I could get blocked by monsters are now parts hwere i can get blocked by monster projectiles. Barons could still block on the way to the key, but since they shoot always, the way back was clear if the way in was clear, but I still had to deal with dozens of projectils pushing me out of the way, it was easy to die there too. Here I got really lucky there. It's definitely to take this time down a second and match UV-Speed, and 31s isn't optimal for either UV or NM-Speed, but it took me long enough to get 31s in UV-Speed, but I've had more than enough of this level in speed categories as it is.

@@ -1,0 +1,26 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       06 - Pressure Point
+Skill:     5
+Category:  NM100S
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      54%
+Items:       0%
+Secrets:   100%
+
+Time:      0:29
+
+Comments:  You can reach the elevator just before it's risen, so
+           NM Speed time is the goal (0:27 atm).
+           I lost about two seconds because I had to use the
+           chaingun for the spectre (quit the berserk and missed
+           the rocket launcher).
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+25.06.2005

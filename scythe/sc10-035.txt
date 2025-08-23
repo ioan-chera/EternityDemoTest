@@ -1,0 +1,23 @@
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       10 - The Lords
+Skill:     4
+Category:  UV Max
+Exe:       prboom 2.2.6 -complevel 0
+
+Kills:     100%
+Items:      50%
+Secrets:   100%
+
+Time:      0:35
+
+Comments:  Not bad but could be faster, it's tricky and annoying map, I got
+           some 34s but with a baron left alive (all rockets fired off) so
+           at least 34 should be done here.  
+
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+
+15.10.2006

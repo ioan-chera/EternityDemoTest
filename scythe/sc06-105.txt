@@ -1,0 +1,12 @@
+PWAD: Scythe
+PWAD Name: Scythe.wad
+PWAD Author: Erik Alm
+Map: 06
+Skill: 4
+Category: UV-Max
+Exe: GlBoom+ v2.5.1.4 -complevel 2
+Time: 1:05
+
+Author: rdwpa
+
+Not a big improvement, but it's one of those short luck grinds I promised myself I wouldn't spend much time during these months. Got this in my second session. Beginning is slower than Snakes' sc06-107 (slow barrel explosion, shooting the caco is slower but more consistent wrt it being in sight near the lift later), but overall movement is faster in most places and the end room I think is better.

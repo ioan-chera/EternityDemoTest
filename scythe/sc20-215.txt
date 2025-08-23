@@ -1,0 +1,22 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       20
+Skill:     4
+Category:  UV Maxkill
+Exe:       prboom 2.2.6 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      2:15
+
+Comments:  Horrible...:-)
+
+
+Author:    Adolf "Gusta" Vojta
+Email:     hita@seznam.cz
+

@@ -1,0 +1,18 @@
+
+Recorded using prboom-plus 2.5.0.8 with Doom 2 compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: Scythe
+Map: 29
+Category: nomonsters
+
+Time: 0:42
+
+Author:   Kyle McAwesome (NoobBait on Doomworld)
+Email:     kylemccl@comcast.net
+Date: 6/25/2014
+
+Comments: Pretty bad demo
+
+

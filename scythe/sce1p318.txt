@@ -1,0 +1,27 @@
+           Scythe
+     WAD Author: Erik Alm
+-------------------------------
+      Episode 1 Pacifist
+-------------------------------
+    Level          Time
+-------------------------------
+    Map 01	   0:11
+    Map 02	   0:23
+    Map 03	   0:27
+    Map 04	   0:29
+    Map 05	   0:27
+    Map 06	   0:23
+    Map 07	   0:06
+    Map 08	   0:12
+    Map 09	   0:27
+    Map 10	   0:13
+
+TOTAL:             3:18
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: This run is trash, but I have no motivation to optimize a run like this. <aybe it will spur someone else to beat it, then I might return to it. ;)

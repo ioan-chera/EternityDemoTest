@@ -1,0 +1,16 @@
+==================================================
+Date     : 22-09-23
+IWAD     : DOOM2.WAD
+PWAD     : SCYTHE.WAD
+Category : UV Max + Reality
+Engine   : DSDA-Doom 0.24.3 Complevel 2 + Advanced HUD
+Map      : MAP21 - Solitude
+Time     : 1:05.69
+==================================================
+Email    : peter.hawes.pi@googlemail.com
+Author   : Peter Hawes
+Nickname : MathsDevil on Doomworld, but please call me 'PJ Plays Doom' on the DSDA. 
+
+Notes: I grinded this for a few days and over 3000 attempts, with more risk-taking than I may have if not for DrinkyPooTournament in the chat on Twitch telling me they had ran a 1:08 No Damage demo. I wasn't sure if they were serious as I had only just beaten Andrea Rovenski's 1:41. The 1:08 was genuine, though and so I gradually found my own way of dealing with the red key fight quickly and kept going until I had 1:08.54, beating DrinkyPoo's 1:08.63 by just three tics. With the pressure off a little, I continued for under 300 more attempts to achieve this run. The cacodemon still didn't die in two rockets, but at least the splash damage killed some imps.
+The one minute barrier would be tempting, but the only slowish part of this demo is the final archvile, which hung back instead of coming towards me for fewer SSG shots.
+Overall, thanks to DrinkyPooTournament for pushing me into a higher-risk route, which is quite a doable challenge because the map is so small.

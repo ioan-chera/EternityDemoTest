@@ -1,0 +1,49 @@
+                  Scythe
+          WAD Author: Erik Alm
+----------------------------------------------
+           Episode 2 NM-Speed
+----------------------------------------------
+    Level          Time     <    sce2n711
+----------------------------------------------
+    Map 11	   0:04            -0:01 :)
+    Map 12	   0:17            -0:01 :)
+    Map 13	   0:45            -0:10 :|
+    Map 14	   0:56            -0:16 :|
+    Map 15	   0:22            -0:03 :))
+    Map 16	   0:32            -0:04 :|
+    Map 17	   0:48            -0:30 :)))
+    Map 18	   0:35            -0:05 :|
+    Map 19	   0:25            -0:07 :|
+    Map 20	   0:55            -0:11 :)
+
+TOTAL:             5:40            -1:31 :))
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Nightmare!
+Author: 4shockblast
+
+Comments: Way faster than my old run, and better than I expected; my goal was sub-6, and while I knew a time like this would be possible, I didn't think I'd get it. Some very good times in this for the routes, and lots of close moments, so quite a lucky run. Managed to gain time over every map in my old run. :D With an aggressive enough route and solid execution, you could probably squeeze out sub-5, maybe somewhere close to Graim's UV-Speed route, but that'd be hard so I'm not going for it (this only took about a couple hours and ~220 attempts).
+
+Map 11 (0:05): Nice to get 5, though 4 would be best.
+
+Map 12 (0:17): Slight route change that didn't see harder and gave me better times on average (and best time improved to 16)
+
+Map 13 (0:45): Kinda slow because of that plasma gun secret, got down quite a bit of health too, though managed to survive. This is the old UV-Speed D2ALL strat, not willing to go for new strats since blue armor, soul sphere, and plasma gun seem worth it.
+
+Map 14 (0:56): Kinda slow as well, but I'm lucky I survived at all. Messed up bar switch, and end movement sucked.
+
+Map 15 (0:22): Damn fast, didn't mess up the jump and the revs died really quickly.
+
+Map 16 (0:32): Some slow movement at the start, and I fucked up big time at the end, somehow survived anyway.
+
+Map 17 (0:48): Unbelievably lucky. Leaving the revs alive is dangerous because if they get out, they would really screw me over while doing the jump, but they didn't bother me at all. Took very little damage to the HKs and imps, the archvile left the room without attacking me first which saved me the three seconds I would have waited for the attack, and the jump went very smoothly. Really nice time for this route.
+
+Map 18 (0:35): Damn, this was close to death; I had to take second soul sphere early because I was low on health, and I lost a bit of time.
+
+Map 19 (0:25): Chose to do the RJ since it's not that hard, and I don't need health that much. Imp shot confused me, though, I had to check if I left any alive, but it was just one from the other side of the window. Lost a few seconds as a result, but the jumps were clean.
+
+Map 20 (0:55): Ridiculously close to death again, I guess I was really living on the edge most of this run :D. Caco kill slowed me down a bit, but otherwise it was pretty fast.
+
+Recorded May 18, 2016.

@@ -1,0 +1,15 @@
+WAD: Scythe
+MAP: MAP15: Blood Bath 
+Time: 0:09.94
+Added Engine: prboom-plus v2.5.1.3
+Category: nomonsters speed
+Recorded on: June 24, 2014
+
+Running this map is both fun and agonizing at the same time, but imo a little more fun. :) I got many 10.1x and 10.0x before this. I think that this time I handled the
+teleporter area a little better than my other attempts, so that's why this one is 9.
+
+I doubt 8 is possible without using SR50. This demo is SR40 only. 
+
+It was good to finally beat 10s! :) Enjoy!
+
+--Doomdaniel95

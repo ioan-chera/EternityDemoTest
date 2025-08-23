@@ -1,0 +1,25 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       08 - Garden Base
+Skill:     5
+Category:  NM100S
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:      44%
+Items:      75%
+Secrets:   100%
+
+Time:      0:39
+
+Comments:  That was fun! The most enjoyable map of the first
+           episode on skill 5.
+
+           This beats Ryback's previous record by 25 seconds :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+25.06.2005

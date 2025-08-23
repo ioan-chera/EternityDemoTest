@@ -1,0 +1,29 @@
+Runner: Zero-Master
+WAD: SCYTHE.wad
+Category: No monsters
+Map: 09
+Source Port: Competition Doom v2.0.3.2
+
+Kills    : 0%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:18.97
+
+Description: 
+The first optimal demo that I've done :)
+
+I was looking to improve my movement with doing some nomo runs to see how 
+good my time is compared to some of the really optimized ones. My first exit
+below 20 seconds for this map was 19.43 I think, and from other maps I've
+practiced I figured there had to be some 0.5 seconds for about every 20 seconds
+I could gain with a lot of effort. 
+
+After a while I was really in doubt if I could make it since it took a long
+time before I actually got below 19.5x again, but eventually I got lower 
+and lower times after resetting on the smallest things that went wrong.
+
+That switch is the single most annoying thing about this map, it's so far into 
+the wall so you have to stand quite close to it, and it's right after the door.
+
+I was very surprised to see 18.97 on this one, I felt there was a couple of mistakes
+that would put it just above 19, but it was enough fortunately.

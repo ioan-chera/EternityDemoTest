@@ -1,0 +1,31 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 3 UV-Speed
+------------------------------------------
+    Level          Time      <  sce3-408
+------------------------------------------
+    Map 21	   0:11         -0:01
+    Map 22	   0:34         +0:02
+    Map 23	   0:07         +0:03
+    Map 24	   0:39         +0:02
+    Map 25	   0:11         -0:02
+    Map 26	   0:31         -0:14
+    Map 27	   0:13         -0:01
+    Map 28	   0:28         -0:01
+    Map 29	   0:25         -0:01
+    Map 30	   0:37         +0:01
+
+TOTAL:             3:56         -0:12
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments:
+
+Map 26: What the fuck.
+
+Recorded May 23, 2018.

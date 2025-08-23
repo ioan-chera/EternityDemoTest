@@ -1,0 +1,49 @@
+              Scythe
+       WAD Author: Erik Alm
+---------------------------------------
+          Episode 2 Nomo
+---------------------------------------
+    Level          Time
+---------------------------------------
+    Map 11	   0:08 :))
+    Map 12	   0:12 :)
+    Map 13	   0:27 :)
+    Map 14	   0:25 :)
+    Map 15	   0:10 :|
+    Map 16	   0:23 :(
+    Map 17	   0:27 :)
+    Map 18	   0:08 :)))))))
+    Map 19	   1:18 :(
+    Map 20	   0:36 :)
+
+TOTAL:             4:14
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: Much, much, much more difficult and frustrating than E1. This run literally drains my skills; every single map needs my complete attention while speedrunning almost constantly or I start bumping into things. First exit was over 4:30, then came 4:24 and 4:23. Hard time beating those times; had a really unusual 4:17 that I almost wanted to release out of frustration, but I might have deleted it (at any rate I can't find it), so I had to run this more. 4:18 came eventually, and I figured I needed something a little better and got this. Included is my 4:18 run and a faildemo.
+
+Map 11 (0:08.80): On this map, at first, I figured 8 wouldn't be realistic in a episode run he same way I figured 9 wouldn't be realistic on map 1 in E1 nomo. Well, I was wrong again, though there's a good strategy here that makes 8 really easy. In particular, I do the death slide quickly without running into the alcove first; it's a little less reliable, but not enough for it to be too hard to do in an episode run.
+
+Map 12 (0:12.71): A few bumps, but 11 is a little hard to get even on an individual level run, and I never had it happen episode run. My 4:18 run had 12.0x, which is probably the best I've ever done.
+
+Map 13 (0:27.63): At first I never got 27s at all, and thought 28 was reasonable (mostly because of that awkward red key room), but, eventually, 27 became easy. Still, never got a 26, and my 4:18 had what looked like a near perfect run on this map, and still only .1x. Keygrab jump is far too random to try in an episode run.
+
+Map 14 (0:25.14): Only did 24 once in an episode run, as shown in the faildemo, though this probably would have been 24 if I didn't screw up a door.
+
+Map 15 (0:10.06): After 4:18, I figured I should just do an instant jump, as it's not very hard, and I knew I'd have trouble saving time without it. Didn't work in this run.
+
+Map 16 (0:23.00): Shit.
+
+Map 17 (0:27.17): Only got 26 once, so whatever.
+
+Map 18 (0:08.20): This is the true lucky part in the demo. The jump is a run-killer, which is another reason why this run was so annoying. Initially, I tried to line up the jump carefully, but that results in a best possible time of around 10, and if I fail, I can only get as good as 14 or so. So, I decided it's not worth it, and just went for it, and, it happened to work this time. .20, but it's still the best time I ever had on this map, so I'm happy.
+
+Map 19 (1:18.89): I only got the moving platform to move early once in my 4:17 that I appear to have deleted (resulting in 1:13 time). In an individual level run, I found it really easy to get there so that it moves early, but here, it just wouldn't occur. Even in my include 4:18, I seemed to have had perfect movement to that point, and it still was only 1:17. Ugly run here, anyway, though, should be 1:17 or even 1:16 wouldn't be so hard, but, since this is after the jump in map 18, I don't even care that much. At any rate, at least it's not 1:19.
+
+Map 20 (0:36.49): Not much to say here. Good level.
+
+Recorded August 25, 2014.

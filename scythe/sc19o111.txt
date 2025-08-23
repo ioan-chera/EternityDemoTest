@@ -1,0 +1,15 @@
+              Scythe
+          Map 19: 3000 AD
+       Map Author: Erik Alm
+------------------------------------
+           sc19o111.lmp
+
+Nomo in 1:11.69
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence with -nomonsters
+Author: 4shockblast
+
+Comments: The movement here went really well, I think. The part up to the linedef that starts the elevator moving up and down went really cleanly, so it doesn't look to me like it's possible on an earlier cycle (I don't really understand how that floor works, actually). There's a pretty bad bump just before the blue door, but it doesn't affect the time since I have to wait for the floor anyway (so I'm leaving that in :D). Ending went well, even took the red key without getting onto the tiny platform, which is really nice. Don't know about 1:10.

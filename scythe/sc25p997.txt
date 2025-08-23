@@ -1,0 +1,21 @@
+              Scythe
+           Map 25: Envy
+       Map Author: Erik Alm
+------------------------------------
+           sc21p997.lmp
+
+Pacifist in 0:09.97
+
+    Kills   - 0%
+    Items   - 0%
+    Secrets - 0%
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Ugh, this run. Lots of luck moments, arachnotrons at the start don't move out of the way often, even getting past the demon is sometimes a problem. For some time I considered that there was some logic to the arachnotrons, but even though it was often easy to tell when they wouldn't move out from my start movement, whenever they did move out it seemed like complete luck. Wallrun should have been easy, but I'd still have times when I'd screw it up, especially if I bumped the arachnotrons on the way to it or thingran against them; both would put me out of position. Finally, the worst part is of course, the arachnotron at the end and the barons, both rarely moved out of the way, and most runs just ended by block (or died to arachnotron). Then, when I do get 9s, it's a shit run like this one :D, slow key pickup, no double door activation, bumped barons at the end, how was this a 9? Not sure about 8s, if it is possible, it'd be really frustrating.
+
+Should have gotten 9s much quicker, I think; I've come to the conclusion that long grinds are often detrimental to my skill, as I spent a few hours on this one night and got it in 40 minutes the next day.

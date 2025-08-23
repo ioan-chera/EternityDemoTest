@@ -1,0 +1,10 @@
+Player: Trioct
+IWAD: doom2.wad
+PWAD: scythe.wad
+Map: Map 02
+Skill: 5
+Category: NM 100S
+Exe: dsda-doom v0.24.2 complevel 2
+Time: 0:25.94
+
+Comments: I messed the last demo recording up, but improved it by a half second.

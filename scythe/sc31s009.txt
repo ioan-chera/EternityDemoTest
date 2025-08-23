@@ -1,0 +1,12 @@
+************************************************************************
+Filename                : sc31s009.LMP
+LMP Version             : PrBoom+ 2.5.0.1 -complevel 2
+Pwad name:              : Scythe
+Pwad(s)                 : scythe.wad
+Map Level(s)            : MAP31
+Skill                   : 4
+Category                : UV Pacifist (secret exit)
+Length                  : 0:09
+Author                  : Kimo Xvirus
+Comments                : Pretty easy
+************************************************************************

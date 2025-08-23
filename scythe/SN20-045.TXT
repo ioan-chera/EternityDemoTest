@@ -1,0 +1,31 @@
+This is a Doom LMP Entry
+
+SN20-045.ZIP
+
+	SN20-045.TXT
+	SN20-045.LMP - Nightmare Speed
+
+Recorded using Chocolate Doom 1.2.1 (Doom2 Version 1.9 compatibility)
+
+Scythe - Level 20 - The Starport
+
+=---+------+---=
+Kills        80%
+Items        75%
+Secrets       0%
+ 
+TIME     0:45.97	Old record: 1:07 by Jochen 'Angus' Schneidau
+=---+------+---=
+
+Demo entry #34.
+
+Description:
+
+Excellent, violent level for speedrunning, especially on NM. My previous records
+(done years ago) were 0:50 and 0:47. The final time is just what I wanted,
+despite losing almost a second due to bad luck with the last spider.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done March 14, 2010, 11:11:06

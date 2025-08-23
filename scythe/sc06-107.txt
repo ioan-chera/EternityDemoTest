@@ -1,0 +1,18 @@
+Recorded using PrBoom 2.5.0.7 on -complevel 2
+
+sc06-107.txt
+
+sc06-107.lmp
+
+sc06-107.zip
+
+Scythe - MAP06
+Category: UV-Max
+Required files:
+SCYTHE.WAD
+
+Run by Snakes
+
+Description:
+After a couple of tries, I got 1:13, but wanted an actual improvement. This run came a bit after that.
+Finally got through that last room efficiently.

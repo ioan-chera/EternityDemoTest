@@ -1,0 +1,10 @@
+scythe.wad
+prboom-plus 2.5.0.1
+-complevel 2
+October 18, 2010
+
+map29 max 9:04
+
+by TimeOfDeath
+
+I watched Ryback's demo before trying this.

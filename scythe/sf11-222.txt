@@ -1,0 +1,28 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       11 - Sneak Peak
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     102%
+Items:     100%
+Secrets:   100%
+
+Time:      2:22
+
+Comments:  A year ago I thought this would be too hard
+           for me. Today I started with a 3:10 after a
+           few tries. I needed two and a half hours
+           to push it down to 2:22. But it was it worth
+           every minute:
+
+           It's pure fun to play this great map :)
+           
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+01.11.2004

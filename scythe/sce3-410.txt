@@ -1,0 +1,49 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 3 UV-Speed
+------------------------------------------
+    Level          Time      <  0429sc21
+------------------------------------------
+    Map 21	   0:11 :)      -0:00
+    Map 22	   0:29 :))     -0:02
+    Map 23	   0:06 :(      -0:04
+    Map 24	   0:35 :)      -0:05
+    Map 25	   0:11 :|      -0:00
+    Map 26	   0:47 :|      -0:02
+    Map 27	   0:14 :|      -0:05
+    Map 28	   0:28 :))     -0:02
+    Map 29	   0:32 :|      -0:00
+    Map 30	   0:37 :(      +0:01
+
+TOTAL:             4:10 :|      -0:19
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: No new trickery in this run compared to Graim's run, just some better luck/execution (too scared to implement the map 24 tricks into a UV-Speed movie). Overall a fun run, despite the difficulty of the maps. Harder to get an exit on than E2, although E2 has a lot more time variation due to RNG (although E1 is still probably the most difficult to get a good exit on). Still a lot of improvement possible, and like E2, I'll probably come back to this one, although I think this run was pretty good overall, and I'm more happy with it than my current E2 run.
+
+Map 21 (0:11): Pretty good luck here this run, best time I ever got was 10s, although I usually continued on runs with 12s as well as the map is quite luck-based. Small error here with the pain elemental, I moved too far too the left (possibly from a bounce), which causes the PE to go backwards (which is solvable by walking around it instead of just going to the door); going leftward in that hallways causes the PE to always go forward.
+
+Map 22 (0:29): Had a bit of bad luck with moving past monsters at start, which prompted me to rush the cyber a bit and it paid off, 29s is a very good time for episode run.
+
+Map 23 (0:06): .00, just barely a 6. :\ I've gotten 3s on this map in the past, but the archvile is super unreliable.
+
+Map 24 (0:35): Decent time, blue key barons were a bit slow and run to blue door I was blocked a bit, but good cyber luck. A small strat I use here is I try to bait the cyber to attack the baron in front when I'm waiting on the lift; if he infights, he will likely kill the baron and go into an inactive state which decreases the chances of him shooting me as I open the blue door.
+
+Map 25 (0:11): Best time here is 10s with a fast double door activation/good movement, there isn't much to this map otherwise.
+
+Map 26 (0:47): Had some bad luck at the start with BFG shots getting blocked, so I took it a bit safe at the end and waited at the switch, 47 is still not a bad time.
+
+Map 27 (0:14): Slow setup cost me at least a second from what this should be, 12s is possible, not sure about 11.
+
+Map 28 (0:28): Very happy with 28s in a movie run. RJ is dangerous and doesn't save much time, so I never went for it.
+
+Map 29 (0:32): Was slow with SSG shots at the start because I missed, AV was pretty fast at coming to the jump area, but he still took a bit longer than ideal to attack me, but 32 is a decent time, I think.
+
+Map 30 (0:37): Bad luck at the barons and some minor issues resulted in a kind of bad time here. RJ at the staircase is super easy, but afterwards, I'd need to switch to BFG for barons and if they are in my way, then that switch takes too long and it doesn't save any time, possibly loses time, so I didn't do it.
+
+Recorded June 6, 2015.

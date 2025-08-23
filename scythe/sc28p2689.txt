@@ -1,0 +1,10 @@
+For https://dsdarchive.com/
+
+Player: Giga
+IWAD: doom2.wad
+PWAD: Scythe
+Map(s): 28
+Skill: 4
+Category: Pacifist 
+Sourceport: dsda-doom 0.19.7 -complevel 2
+Time: 26.89

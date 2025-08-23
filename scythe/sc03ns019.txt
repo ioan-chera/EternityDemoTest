@@ -1,0 +1,18 @@
+SC03NS019.TXT
+SC03NS019.LMP
+SC03NS019.ZIP
+
+Player : megasphere308
+Date : 2021-05-17
+IWAD : scythe.wad
+Category : NM100S
+Map : MAP03 Up and around
+Source port : dsda-doom v0.18.0
+Time : 0.19.60
+
+Description :
+
+4shockblast suggested I could try the impse glide on nms.
+I wanted a sub 20, but the time can be optimized, as the press was a bit slow.
+
+megasphere308@gmail.com

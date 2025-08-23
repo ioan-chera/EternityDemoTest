@@ -1,0 +1,34 @@
+The Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Scythe
+Pwad name: scythe.wad
+Map:       17 - Book Lords
+Skill:     4
+Category:  UV -fast
+Exe:       prboom 2.2.4 -complevel 0
+
+Kills:     100%
+Items:     100%
+Secrets:   100%
+
+Time:      3:14
+
+Comments:  There are two critical moments.
+           First: What happens after the red door? This went
+           well here, with the exception that I've needed
+           too much shots for the remaining imps.
+           And second: The Archie at the soulsphere can be a
+           pain. I always try to kill him as fast as possible,
+           but the other monsters are in the way all the time.
+           On the other hand the infights were helpful.
+
+           Overall the demo isn't bad, but it could be much
+           better. I want it under 3 minutes. Perhaps next
+           week. I spent several hours with it this evening.
+           And more than 200 tries are enough at the moment :)
+
+Author:    Jochen "Angus" Schneidau
+Email:     cohen-lbg@gmx.de
+
+13.10.2004

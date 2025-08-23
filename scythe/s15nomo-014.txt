@@ -1,0 +1,10 @@
+WAD: Scythe
+MAP: MAP15: Blood Bath
+Time: 0:14
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+
+Just an update on the old record. The previous record was
+0:27 by me.
+
+--Doomdaniel95

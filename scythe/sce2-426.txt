@@ -1,0 +1,49 @@
+                 Scythe
+          WAD Author: Erik Alm
+------------------------------------------
+           Episode 2 UV-Speed
+------------------------------------------
+    Level          Time      <  0451sc11
+------------------------------------------
+    Map 11	   0:05 :)      -0:02
+    Map 12	   0:15 :(      -0:00
+    Map 13	   0:35 :|      -0:04
+    Map 14	   0:35 :)      -0:01
+    Map 15	   0:15 :(      +0:01
+    Map 16	   0:34 :((     +0:02
+    Map 17	   0:28 :)      -0:05
+    Map 18	   0:18 :))     -0:04
+    Map 19	   0:32 :|      -0:08
+    Map 20	   0:49 :|      -0:04
+
+TOTAL:             4:26 :|      -0:25
+
+Recorded with: PrBoom-plus 2.5.1.4
+-complevel 2
+
+Skill level: Ultra-Violence
+Author: 4shockblast
+
+Comments: Features new tricks from the old run on 13 and 19 that were already implemented in D2ALL (13 setup is mine, 19 setup is by Zero-Master), neither saves too much time, though. Not the greatest run, a lot of mediocre maps and one pretty bad map, although a few maps are pretty good, and this is a satisfactory time for now, as RNG plays a pretty major role in this run. I plan on returning to this run in the future, probably after episode 3 UV-Speed and D2ALL UV-Speed.
+
+Map 11 (0:05): Different strategy from Graim, I think it's probably more consistent, best time here was 4.06 so I think 3 is feasible with this strat in an individual level run.
+
+Map 12 (0:15): Should be a 14, but I screwed up on the mancubus. :\
+
+Map 13 (0:35): Low 35, had a mishap with the monsters before the blue key, 33 is a good time here, 32 is a great time.
+
+Map 14 (0:35): Pretty decent time, although even this is improvable by a few seconds. Lots of luck in this map with monster movement.
+
+Map 15 (0:15): Shit luck on the exit room archviles cost me a few seconds, also no jump at the start, so it's a pretty bad time. :(
+
+Map 16 (0:34): Just awful time, had some bad movement at the start, had to get health, not the best luck with monsters at the end.
+
+Map 17 (0:28): On the other hand, this map went quite well, good movement overall, nice archvile luck at the end.
+
+Map 18 (0:18): And this was an amazing time for me, skipped soul sphere at the start, most monsters got out of the way really nicely, probably best time I've gotten here (usual times are above 20 seconds).
+
+Map 19 (0:31): Pretty bad time, failed RJ once, I think the imp that shot me might have messed up my setup. Ideally, the jump would be setupless but it's nontrivial without a setup, and there's a lot of RNG in this run as it is, so I took it safe. Failed grab far too many times (it's not that difficult). Good archvile luck, though, so 31 isn't even that bad of a time, heh. :\
+
+Map 20 (0:49): A little slow with all the killing I did at the start and an imp in my way at the end, but a decent ending to this run.
+
+Recorded May 30, 2015.

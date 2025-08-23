@@ -1,0 +1,21 @@
+                            |  Scythe    |
+                            |  Map01     |
+                            | Get Going! |
+----------------------------+------------+----------------------------
+NM-Speed TAS
+Also - Reality!
+======================================================================
+Kills   :  13%
+Items   :   0%
+Secrets :   0%
+Time    : 0:08
+======================================================================
+Recorded using GLBoom-Plus 2.5.0.4 -complevel 2
+======================================================================
+Author    :Maxim "Akse" Abreev, Russia, Moscow
+E-mail    :ffx2lynx@mail.ru
+          :MaxiAkse@rocketmail.com
+Youtube   :http://www.youtube.com/MaxiAkse
+======================================================================
+
+18 Dec 2009

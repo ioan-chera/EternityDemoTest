@@ -1,0 +1,25 @@
+TTTTTTTTT     A       SSSSSS    | 
+    T        A A      S         |
+    T       AAAAA     SSSSSS    | 
+    T      A     A         S    |
+    T     A       A   SSSSSS    .
+
+
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad: scythe.wad
+Pwad Name: Scythe
+Maps:      1
+Skill:     4
+Category:  Nomonsters TAS
+Exe:       XDRE (PrBoom Plus 2.5.1.3)
+Time:  0:03
+
+Author:    Vladslav "ClumsyDoomer" Baymurzin   
+Email:     baymurzin2011@yandex.ru or u7550@e66.ru
+
+Comments: Special thanks to mr. Wonderful and God. It's a miracle cuz I got it in <1 hour. Dunno about UV-Speed... 3 is impossible in UV.
+
+
+

@@ -1,0 +1,20 @@
+Pwad:      scythe.wad (Scythe by Erik Alm)
+Map:       32 (Enoz Soahc)
+Category:  UV Max
+
+Iwad:      Doom2.wad
+Exe:       prBoom+ 2.5.1.2 w/ -complevel 2 (Doom2+)
+
+-----------------
+Time:      2:01
+-----------------
+
+Author:	   dew
+Email:     dewww@seznam.cz
+
+Comments:
+Aw hell, I'd try breaking 2 minutes if the map didn't suck so much. :)
+Getting the archie down the lift is kinda random, but it pays off.
+
+
+Recorded:  October 1st, 2011

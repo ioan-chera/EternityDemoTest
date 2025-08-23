@@ -1,0 +1,16 @@
+
+Recorded using glboom-plus 2.5.1.4 with Doom II compatibility (-complevel 2)
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Pwad name: Scythe
+Map: 03
+Skill: UV
+Category: Tyson
+Time: 1:10
+
+Author:   Kyle McAwesome
+Date: 2/15/2019
+
+Comments:
+Can go much lower, but isn't very fun for me

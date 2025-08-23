@@ -1,0 +1,22 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Iwad:		DOOM2.wad
+Iwad name:	DOOM 2
+Pwad:		SCYTHE.wad (Scythe)
+Maps:		05
+Skill:		4
+Category:	Tyson
+Exe:      	PRboom+ 2.5.1.3 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	1:04
+-------------------------------------------
+Comments:  
+Cool map.
+-------------------------------------------
+Author:    Joca64
+putaquepariuotestcase@gmail.com
+http://www.twitch.tv/joca64
+https://www.youtube.com/user/MuppetChronus
+

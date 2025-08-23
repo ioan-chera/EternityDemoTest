@@ -1,0 +1,17 @@
+WAD: Scythe
+MAP: MAP19: 3000 AD
+Time: 1:17.77
+Added Engine: prboom-plus v2.5.0.2
+Category: nomonsters speed
+Recorded on: July 1, 2013
+
+After getting 1:18 in my complete nonTAS nomonsters run of Scythe, I knew
+I could improve the time on this map for single level. I tried to run this
+faster but couldn't, mainly getting bad luck from the perpetual lift rising
+instead of lowering when I got behind the blue door. This demo also features
+an unusual--not really, but close--bug around the 40 second mark where I'm
+pressing the forward key and rubbing against only air. Explanation: I was
+rubbing against the elevator earlier as it was coming down, then I stayed
+like that when it was completely lowered to the floor.
+
+--Doomdaniel95

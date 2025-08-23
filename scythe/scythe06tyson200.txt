@@ -1,0 +1,21 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	SCYTHE.WAD
+Pwad name: Scythe
+Maps:	06
+Skill:	4
+Category:	Tyson
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	2:00
+-------------------------------------------
+Comments:  
+A lot more annoying than I thought. Got unlucky with one hell knight not getting crushed, but the two knights in the nukage squares went really well, and the end area was decent. 
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+
